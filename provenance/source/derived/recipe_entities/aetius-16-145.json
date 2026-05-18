@@ -166,7 +166,7 @@
           "raw_number": "β",
           "normalized_number": 2,
           "raw_unit": "γο",
-          "normalized_unit": null,
+          "normalized_unit": "uncia",
           "certainty": "uncertain",
           "notes": [
             "Split between unit abbreviation and numeral is inferred from the compressed form; the unit abbreviation is unresolved from the inline evidence."
@@ -201,7 +201,7 @@
           "raw_number": "β",
           "normalized_number": 2,
           "raw_unit": "γο",
-          "normalized_unit": null,
+          "normalized_unit": "uncia",
           "certainty": "uncertain",
           "notes": [
             "Split between unit abbreviation and numeral is inferred from the compressed form; the unit abbreviation is unresolved from the inline evidence."
@@ -244,7 +244,7 @@
           "raw_number": "β",
           "normalized_number": 2,
           "raw_unit": "γο",
-          "normalized_unit": null,
+          "normalized_unit": "uncia",
           "certainty": "uncertain",
           "notes": [
             "Split between unit abbreviation and numeral is inferred from the compressed form; the unit abbreviation is unresolved from the inline evidence."
@@ -279,7 +279,7 @@
           "raw_number": "β",
           "normalized_number": 2,
           "raw_unit": "γο",
-          "normalized_unit": null,
+          "normalized_unit": "uncia",
           "certainty": "uncertain",
           "notes": [
             "Split between unit abbreviation and numeral is inferred from the compressed form; the unit abbreviation is unresolved from the inline evidence."
@@ -314,7 +314,7 @@
           "raw_number": "αζʹ",
           "normalized_number": 8,
           "raw_unit": "γο",
-          "normalized_unit": null,
+          "normalized_unit": "uncia",
           "certainty": "uncertain",
           "notes": [
             "Split between unit abbreviation and numeral is inferred from the compressed form; the unit abbreviation is unresolved from the inline evidence."
@@ -349,7 +349,7 @@
           "raw_number": "αζʹ",
           "normalized_number": 8,
           "raw_unit": "γο",
-          "normalized_unit": null,
+          "normalized_unit": "uncia",
           "certainty": "uncertain",
           "notes": [
             "Split between unit abbreviation and numeral is inferred from the compressed form; the unit abbreviation is unresolved from the inline evidence."
@@ -384,7 +384,7 @@
           "raw_number": "αζʹ",
           "normalized_number": 8,
           "raw_unit": "γο",
-          "normalized_unit": null,
+          "normalized_unit": "uncia",
           "certainty": "uncertain",
           "notes": [
             "Split between unit abbreviation and numeral is inferred from the compressed form; the unit abbreviation is unresolved from the inline evidence."
@@ -419,7 +419,7 @@
           "raw_number": "α",
           "normalized_number": 1,
           "raw_unit": "γο",
-          "normalized_unit": null,
+          "normalized_unit": "uncia",
           "certainty": "uncertain",
           "notes": [
             "Split between unit abbreviation and numeral is inferred from the compressed form; the unit abbreviation is unresolved from the inline evidence."
@@ -454,7 +454,7 @@
           "raw_number": "α",
           "normalized_number": 1,
           "raw_unit": "γο",
-          "normalized_unit": null,
+          "normalized_unit": "uncia",
           "certainty": "uncertain",
           "notes": [
             "Split between unit abbreviation and numeral is inferred from the compressed form; the unit abbreviation is unresolved from the inline evidence."
@@ -489,7 +489,7 @@
           "raw_number": "ι",
           "normalized_number": 10,
           "raw_unit": "γο",
-          "normalized_unit": null,
+          "normalized_unit": "uncia",
           "certainty": "uncertain",
           "notes": [
             "Split between unit abbreviation and numeral is inferred from the compressed form; the unit abbreviation is unresolved from the inline evidence."
@@ -524,7 +524,7 @@
           "raw_number": null,
           "normalized_number": null,
           "raw_unit": null,
-          "normalized_unit": null,
+          "normalized_unit": "descriptor",
           "certainty": "certain",
           "notes": [
             "Shared sufficiency expression across the coordinated pair οἴνου εὐώδους παλαιοῦ καὶ μέλιτος."
@@ -574,7 +574,7 @@
           "raw_number": null,
           "normalized_number": null,
           "raw_unit": null,
-          "normalized_unit": null,
+          "normalized_unit": "descriptor",
           "certainty": "certain",
           "notes": [
             "Shared sufficiency expression across the coordinated pair οἴνου εὐώδους παλαιοῦ καὶ μέλιτος."

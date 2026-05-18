@@ -316,7 +316,7 @@
           "raw_number": null,
           "normalized_number": 1.5,
           "raw_unit": null,
-          "normalized_unit": "litra",
+          "normalized_unit": "descriptor",
           "certainty": "uncertain",
           "notes": [
             "Anaphoric quantity copied from the preceding φύλλων entry."
@@ -351,7 +351,7 @@
           "raw_number": "γοιδ",
           "normalized_number": null,
           "raw_unit": null,
-          "normalized_unit": null,
+          "normalized_unit": "uncia",
           "certainty": "uncertain",
           "notes": [
             "Abbreviated quantity unresolved in transmission."
@@ -467,7 +467,7 @@
           "raw_number": "γοι.",
           "normalized_number": null,
           "raw_unit": null,
-          "normalized_unit": null,
+          "normalized_unit": "uncia",
           "certainty": "uncertain",
           "notes": [
             "Abbreviated quantity unresolved in transmission."
@@ -502,7 +502,7 @@
           "raw_number": "γοβ.",
           "normalized_number": null,
           "raw_unit": null,
-          "normalized_unit": null,
+          "normalized_unit": "uncia",
           "certainty": "uncertain",
           "notes": [
             "Abbreviated quantity unresolved in transmission."
@@ -537,7 +537,7 @@
           "raw_number": "γοβ.",
           "normalized_number": null,
           "raw_unit": null,
-          "normalized_unit": null,
+          "normalized_unit": "uncia",
           "certainty": "uncertain",
           "notes": [
             "Abbreviated quantity unresolved in transmission."
@@ -572,7 +572,7 @@
           "raw_number": "γογ.",
           "normalized_number": null,
           "raw_unit": null,
-          "normalized_unit": null,
+          "normalized_unit": "uncia",
           "certainty": "uncertain",
           "notes": [
             "Abbreviated quantity unresolved in transmission."
@@ -609,7 +609,7 @@
           "raw_number": "γοα.",
           "normalized_number": null,
           "raw_unit": null,
-          "normalized_unit": null,
+          "normalized_unit": "uncia",
           "certainty": "uncertain",
           "notes": [
             "Abbreviated quantity unresolved in transmission."
@@ -646,7 +646,7 @@
           "raw_number": null,
           "normalized_number": null,
           "raw_unit": null,
-          "normalized_unit": null,
+          "normalized_unit": "descriptor",
           "certainty": "uncertain",
           "notes": [
             "Anaphoric quantity identical to the preceding ναρδοστάχυος quantity, which itself is unresolved."
@@ -683,7 +683,7 @@
           "raw_number": "γογζʹ",
           "normalized_number": null,
           "raw_unit": null,
-          "normalized_unit": null,
+          "normalized_unit": "uncia",
           "certainty": "uncertain",
           "notes": [
             "Abbreviated quantity unresolved in transmission."
@@ -731,7 +731,7 @@
           "raw_number": "γοζʹ",
           "normalized_number": null,
           "raw_unit": null,
-          "normalized_unit": null,
+          "normalized_unit": "uncia",
           "certainty": "uncertain",
           "notes": [
             "Abbreviated quantity unresolved in transmission."
@@ -779,7 +779,7 @@
           "raw_number": "γοβ.",
           "normalized_number": null,
           "raw_unit": null,
-          "normalized_unit": null,
+          "normalized_unit": "uncia",
           "certainty": "uncertain",
           "notes": [
             "Abbreviated quantity unresolved in transmission."
@@ -817,7 +817,7 @@
           "raw_number": "γοβ.",
           "normalized_number": null,
           "raw_unit": null,
-          "normalized_unit": null,
+          "normalized_unit": "uncia",
           "certainty": "uncertain",
           "notes": [
             "Abbreviated quantity unresolved in transmission."
@@ -854,7 +854,7 @@
           "raw_number": "γοε.",
           "normalized_number": null,
           "raw_unit": null,
-          "normalized_unit": null,
+          "normalized_unit": "uncia",
           "certainty": "uncertain",
           "notes": [
             "Abbreviated quantity unresolved in transmission."
@@ -1343,7 +1343,7 @@
         "entity_urn": "urn:aos:recipe-ingredient:aetius-16-146-1:ingredient:kasamon-5",
         "surface_form": "κασάμου",
         "normalized_label": "κάσαμον",
-        "quantity_display": "γοιδ · οὐγ. ιδ."
+        "quantity_display": "14 uncia"
       },
       {
         "entity_urn": "urn:aos:recipe-ingredient:aetius-16-146-1:ingredient:styrax-chymatios-6",
@@ -1361,31 +1361,31 @@
         "entity_urn": "urn:aos:recipe-ingredient:aetius-16-146-1:ingredient:krokos-trichinos-8",
         "surface_form": "κρόκου τριχίνου",
         "normalized_label": "κρόκος τριχῖνος",
-        "quantity_display": "γοι."
+        "quantity_display": ""
       },
       {
         "entity_urn": "urn:aos:recipe-ingredient:aetius-16-146-1:ingredient:ambaros-9",
         "surface_form": "ἄμβαρος",
         "normalized_label": "ἄμβαρος",
-        "quantity_display": "γοβ."
+        "quantity_display": ""
       },
       {
         "entity_urn": "urn:aos:recipe-ingredient:aetius-16-146-1:ingredient:moschos-10",
         "surface_form": "μόσχου",
         "normalized_label": "μόσχος",
-        "quantity_display": "γοβ."
+        "quantity_display": ""
       },
       {
         "entity_urn": "urn:aos:recipe-ingredient:aetius-16-146-1:ingredient:kostos-11",
         "surface_form": "κόστου",
         "normalized_label": "κόστος",
-        "quantity_display": "γογ."
+        "quantity_display": ""
       },
       {
         "entity_urn": "urn:aos:recipe-ingredient:aetius-16-146-1:ingredient:nardostachys-12",
         "surface_form": "ναρδοστάχυος",
         "normalized_label": "ναρδόσταχυς",
-        "quantity_display": "γοα."
+        "quantity_display": ""
       },
       {
         "entity_urn": "urn:aos:recipe-ingredient:aetius-16-146-1:ingredient:phyllon-13",
@@ -1397,31 +1397,31 @@
         "entity_urn": "urn:aos:recipe-ingredient:aetius-16-146-1:ingredient:karyophyllon-14",
         "surface_form": "καρυοφύλλων",
         "normalized_label": "καρυόφυλλον",
-        "quantity_display": "γογζʹ · οὐγ. γ καὶ ἡμίσ."
+        "quantity_display": "3.5 uncia"
       },
       {
         "entity_urn": "urn:aos:recipe-ingredient:aetius-16-146-1:ingredient:kasamon-15",
         "surface_form": "κασάμου",
         "normalized_label": "κάσαμον",
-        "quantity_display": "γοζʹ · οὐγ. ἡμίσ."
+        "quantity_display": "0.5 uncia"
       },
       {
         "entity_urn": "urn:aos:recipe-ingredient:aetius-16-146-1:ingredient:aspron-16",
         "surface_form": "ἄσπρου",
         "normalized_label": "ἄσπρον",
-        "quantity_display": "γοβ."
+        "quantity_display": ""
       },
       {
         "entity_urn": "urn:aos:recipe-ingredient:aetius-16-146-1:ingredient:styrax-17",
         "surface_form": "στύρακος",
         "normalized_label": "στύραξ",
-        "quantity_display": "γοβ."
+        "quantity_display": ""
       },
       {
         "entity_urn": "urn:aos:recipe-ingredient:aetius-16-146-1:ingredient:chymation-proteion-18",
         "surface_form": "χυματίου πρωτείου",
         "normalized_label": "χυμάτιον πρωτεῖον",
-        "quantity_display": "γοε."
+        "quantity_display": ""
       },
       {
         "entity_urn": "urn:aos:recipe-ingredient:aetius-16-146-1:ingredient:krokos-trichinos-19",

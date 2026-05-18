@@ -214,7 +214,7 @@
           "raw_number": "στ",
           "normalized_number": 6,
           "raw_unit": "γο",
-          "normalized_unit": null,
+          "normalized_unit": "uncia",
           "certainty": "uncertain",
           "notes": [
             "Unit abbreviation unresolved."
@@ -257,7 +257,7 @@
           "raw_number": "α",
           "normalized_number": 1,
           "raw_unit": "γο",
-          "normalized_unit": null,
+          "normalized_unit": "uncia",
           "certainty": "uncertain",
           "notes": [
             "Unit abbreviation unresolved."
@@ -382,13 +382,13 @@
         "entity_urn": "urn:aos:recipe-ingredient:aetius-16-127-3:ingredient:rakos-xeron-3",
         "surface_form": "ῥάκους ξηροῦ",
         "normalized_label": "ῥάκος ξηρόν",
-        "quantity_display": "γοστ."
+        "quantity_display": "6 uncia"
       },
       {
         "entity_urn": "urn:aos:recipe-ingredient:aetius-16-127-3:ingredient:onyx-4",
         "surface_form": "ὀνύχων",
         "normalized_label": "ὄνυξ",
-        "quantity_display": "γοα."
+        "quantity_display": "1 uncia"
       }
     ],
     "processes": [

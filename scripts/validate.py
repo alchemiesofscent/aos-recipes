@@ -57,6 +57,44 @@ def main() -> int:
     if source_keys != set(EXPECTED_COUNTS):
         fail(f"sources mismatch: {sorted(source_keys)}")
 
+    GO_PREFIX_UNITS = {"γο"}
+    DESCRIPTOR_SPANS = {
+        "τὸ ἀρκοῦν", "τὸ ἴσον", "τὸ αὐτό", "τὸ ἴσον πλῆθος",
+        "ὀλίγου", "πολλοὺς", "ἴσον τῷ σταθμῷ", "τὸν ἴσον σταθμὸν",
+    }
+    DESCRIPTOR_RAW_UNITS = {"πλῆθος", "σταθμόν", "σταθμὸν", "τῷ σταθμῷ"}
+    DURATION_UNITS = {"ἡμέρας", "ὥρας", "ἡμέρας καὶ νύκτας"}
+
+    def check_quantity_invariants(file_payload, recipe_id):
+        for host in ("ingredients", "processes", "materials"):
+            for item in file_payload.get(host) or []:
+                for q in item.get("quantities") or []:
+                    raw_unit = q.get("raw_unit") or ""
+                    source_span = q.get("source_span") or ""
+                    norm = q.get("normalized_unit")
+                    if raw_unit.startswith("γο") and norm != "uncia":
+                        fail(f"{recipe_id}: γο-prefixed unit not normalized to uncia: {q}")
+                    if (source_span in DESCRIPTOR_SPANS or raw_unit in DESCRIPTOR_RAW_UNITS) and norm != "descriptor":
+                        fail(f"{recipe_id}: descriptor quantifier not tagged: {q}")
+                    if raw_unit in DURATION_UNITS and host == "processes":
+                        fail(f"{recipe_id}: duration entry still in processes.quantities (should be in durations): {q}")
+
+    def check_mirror_parity(file_payload, mirror_payload, recipe_id):
+        def quantity_view(payload):
+            view = {}
+            for host in ("ingredients", "processes", "materials"):
+                view[host] = []
+                for item in payload.get(host) or []:
+                    key = item.get(f"{host[:-1]}_urn") or item.get(f"{host[:-1]}_id")
+                    view[host].append({
+                        "key": key,
+                        "quantities": item.get("quantities") or [],
+                        "durations": item.get("durations") or [],
+                    })
+            return view
+        if quantity_view(file_payload) != quantity_view(mirror_payload):
+            fail(f"{recipe_id}: provenance mirror has different quantities/durations from canonical")
+
     for recipe in recipes:
         recipe_id = recipe["recipe_id"]
         if recipe.get("source_entry", {}).get("derived_recipe_id") != recipe_id:
@@ -72,6 +110,8 @@ def main() -> int:
         provenance_file = ROOT / "provenance" / "source" / "derived" / "recipe_entities" / f"{recipe_id}.json"
         if not provenance_file.exists():
             fail(f"missing provenance derived record for {recipe_id}")
+        check_quantity_invariants(file_payload, recipe_id)
+        check_mirror_parity(file_payload, load(provenance_file), recipe_id)
 
     text_paths = []
     for path in ROOT.rglob("*"):

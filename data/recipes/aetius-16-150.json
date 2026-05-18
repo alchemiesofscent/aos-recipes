@@ -173,7 +173,7 @@
           "raw_number": null,
           "normalized_number": null,
           "raw_unit": "γογ.",
-          "normalized_unit": null,
+          "normalized_unit": "uncia",
           "certainty": "uncertain",
           "notes": [
             "Abbreviated quantity not expanded."
@@ -208,7 +208,7 @@
           "raw_number": null,
           "normalized_number": null,
           "raw_unit": "γογ.",
-          "normalized_unit": null,
+          "normalized_unit": "uncia",
           "certainty": "uncertain",
           "notes": [
             "Abbreviated quantity not expanded."
@@ -243,7 +243,7 @@
           "raw_number": null,
           "normalized_number": null,
           "raw_unit": "γογ.",
-          "normalized_unit": null,
+          "normalized_unit": "uncia",
           "certainty": "uncertain",
           "notes": [
             "Abbreviated quantity not expanded."
@@ -278,7 +278,7 @@
           "raw_number": null,
           "normalized_number": null,
           "raw_unit": "γογ.",
-          "normalized_unit": null,
+          "normalized_unit": "uncia",
           "certainty": "uncertain",
           "notes": [
             "Abbreviated quantity not expanded."
@@ -313,7 +313,7 @@
           "raw_number": null,
           "normalized_number": null,
           "raw_unit": "γογ.",
-          "normalized_unit": null,
+          "normalized_unit": "uncia",
           "certainty": "uncertain",
           "notes": [
             "Abbreviated quantity not expanded."
@@ -348,7 +348,7 @@
           "raw_number": null,
           "normalized_number": null,
           "raw_unit": "γογ.",
-          "normalized_unit": null,
+          "normalized_unit": "uncia",
           "certainty": "uncertain",
           "notes": [
             "Abbreviated quantity not expanded."
@@ -383,7 +383,7 @@
           "raw_number": null,
           "normalized_number": null,
           "raw_unit": "γογ.",
-          "normalized_unit": null,
+          "normalized_unit": "uncia",
           "certainty": "uncertain",
           "notes": [
             "Abbreviated quantity not expanded."
@@ -418,7 +418,7 @@
           "raw_number": null,
           "normalized_number": null,
           "raw_unit": "γογ.",
-          "normalized_unit": null,
+          "normalized_unit": "uncia",
           "certainty": "uncertain",
           "notes": [
             "Abbreviated quantity not expanded."
@@ -453,7 +453,7 @@
           "raw_number": null,
           "normalized_number": null,
           "raw_unit": "γογ.",
-          "normalized_unit": null,
+          "normalized_unit": "uncia",
           "certainty": "uncertain",
           "notes": [
             "Abbreviated quantity not expanded."
@@ -488,7 +488,7 @@
           "raw_number": null,
           "normalized_number": null,
           "raw_unit": "γογ.",
-          "normalized_unit": null,
+          "normalized_unit": "uncia",
           "certainty": "uncertain",
           "notes": [
             "Abbreviated quantity not expanded."
@@ -523,7 +523,7 @@
           "raw_number": null,
           "normalized_number": null,
           "raw_unit": "γοδ.",
-          "normalized_unit": null,
+          "normalized_unit": "uncia",
           "certainty": "uncertain",
           "notes": [
             "Abbreviated quantity not expanded."
@@ -558,7 +558,7 @@
           "raw_number": null,
           "normalized_number": null,
           "raw_unit": "γοδ.",
-          "normalized_unit": null,
+          "normalized_unit": "uncia",
           "certainty": "uncertain",
           "notes": [
             "Abbreviated quantity not expanded."
@@ -593,7 +593,7 @@
           "raw_number": null,
           "normalized_number": null,
           "raw_unit": "γοδ.",
-          "normalized_unit": null,
+          "normalized_unit": "uncia",
           "certainty": "uncertain",
           "notes": [
             "Abbreviated quantity not expanded."
@@ -628,7 +628,7 @@
           "raw_number": null,
           "normalized_number": null,
           "raw_unit": "γοβ.",
-          "normalized_unit": null,
+          "normalized_unit": "uncia",
           "certainty": "uncertain",
           "notes": [
             "Abbreviated quantity not expanded."
@@ -663,7 +663,7 @@
           "raw_number": null,
           "normalized_number": null,
           "raw_unit": "γοστ.",
-          "normalized_unit": null,
+          "normalized_unit": "uncia",
           "certainty": "uncertain",
           "notes": [
             "Abbreviated quantity not expanded."
@@ -698,7 +698,7 @@
           "raw_number": null,
           "normalized_number": null,
           "raw_unit": "γοστ.",
-          "normalized_unit": null,
+          "normalized_unit": "uncia",
           "certainty": "uncertain",
           "notes": [
             "Abbreviated quantity not expanded."
@@ -838,7 +838,7 @@
           "raw_number": null,
           "normalized_number": "q.s.",
           "raw_unit": null,
-          "normalized_unit": null,
+          "normalized_unit": "descriptor",
           "certainty": "certain",
           "notes": [
             "Shared sufficiency phrase with the paired liquid ingredient."
@@ -873,7 +873,7 @@
           "raw_number": null,
           "normalized_number": "q.s.",
           "raw_unit": null,
-          "normalized_unit": null,
+          "normalized_unit": "descriptor",
           "certainty": "certain",
           "notes": [
             "Shared sufficiency phrase with the paired liquid ingredient."
@@ -1084,97 +1084,97 @@
         "entity_urn": "urn:aos:recipe-ingredient:aetius-16-150:ingredient:kasia-1",
         "surface_form": "Κασίας",
         "normalized_label": "κασία",
-        "quantity_display": "γογ."
+        "quantity_display": ""
       },
       {
         "entity_urn": "urn:aos:recipe-ingredient:aetius-16-150:ingredient:smyrna-2",
         "surface_form": "σμύρνης",
         "normalized_label": "σμύρνα",
-        "quantity_display": "γογ."
+        "quantity_display": ""
       },
       {
         "entity_urn": "urn:aos:recipe-ingredient:aetius-16-150:ingredient:bdellion-3",
         "surface_form": "βδελλίου",
         "normalized_label": "βδέλλιον",
-        "quantity_display": "γογ."
+        "quantity_display": ""
       },
       {
         "entity_urn": "urn:aos:recipe-ingredient:aetius-16-150:ingredient:arnabo-4",
         "surface_form": "ἀρναβῶ",
         "normalized_label": "ἀρναβώ",
-        "quantity_display": "γογ."
+        "quantity_display": ""
       },
       {
         "entity_urn": "urn:aos:recipe-ingredient:aetius-16-150:ingredient:kalamos-indikos-5",
         "surface_form": "καλάμου ἰνδικοῦ",
         "normalized_label": "κάλαμος ἰνδικός",
-        "quantity_display": "γογ."
+        "quantity_display": ""
       },
       {
         "entity_urn": "urn:aos:recipe-ingredient:aetius-16-150:ingredient:saroya-6",
         "surface_form": "σαρούα",
         "normalized_label": "σαρούα",
-        "quantity_display": "γογ."
+        "quantity_display": ""
       },
       {
         "entity_urn": "urn:aos:recipe-ingredient:aetius-16-150:ingredient:karpobalsamon-7",
         "surface_form": "καρποβαλσάμου",
         "normalized_label": "καρποβάλσαμον",
-        "quantity_display": "γογ."
+        "quantity_display": ""
       },
       {
         "entity_urn": "urn:aos:recipe-ingredient:aetius-16-150:ingredient:ladanon-liparon-8",
         "surface_form": "λαδάνου λιπαροῦ",
         "normalized_label": "λάδανον λιπαρόν",
-        "quantity_display": "γογ."
+        "quantity_display": ""
       },
       {
         "entity_urn": "urn:aos:recipe-ingredient:aetius-16-150:ingredient:ypnos-9",
         "surface_form": "ὕπνου",
         "normalized_label": "ὕπνος",
-        "quantity_display": "γογ."
+        "quantity_display": ""
       },
       {
         "entity_urn": "urn:aos:recipe-ingredient:aetius-16-150:ingredient:phyllon-10",
         "surface_form": "φύλλων",
         "normalized_label": "φύλλον",
-        "quantity_display": "γογ."
+        "quantity_display": ""
       },
       {
         "entity_urn": "urn:aos:recipe-ingredient:aetius-16-150:ingredient:karyophyllon-11",
         "surface_form": "καρυοφύλλων",
         "normalized_label": "καρυόφυλλον",
-        "quantity_display": "γοδ."
+        "quantity_display": ""
       },
       {
         "entity_urn": "urn:aos:recipe-ingredient:aetius-16-150:ingredient:onyx-megas-12",
         "surface_form": "ὀνύχων μεγάλων",
         "normalized_label": "ὄνυξ μέγας",
-        "quantity_display": "γοδ."
+        "quantity_display": ""
       },
       {
         "entity_urn": "urn:aos:recipe-ingredient:aetius-16-150:ingredient:mastiche-13",
         "surface_form": "μαστίχης",
         "normalized_label": "μαστίχη",
-        "quantity_display": "γοδ."
+        "quantity_display": ""
       },
       {
         "entity_urn": "urn:aos:recipe-ingredient:aetius-16-150:ingredient:krokos-14",
         "surface_form": "κρόκου",
         "normalized_label": "κρόκος",
-        "quantity_display": "γοβ."
+        "quantity_display": ""
       },
       {
         "entity_urn": "urn:aos:recipe-ingredient:aetius-16-150:ingredient:nardostachys-15",
         "surface_form": "ναρδοστάχυος",
         "normalized_label": "ναρδόσταχυς",
-        "quantity_display": "γοστ."
+        "quantity_display": ""
       },
       {
         "entity_urn": "urn:aos:recipe-ingredient:aetius-16-150:ingredient:opobalsamon-16",
         "surface_form": "ὀποβαλσάμου",
         "normalized_label": "ὀποβάλσαμον",
-        "quantity_display": "γοστ."
+        "quantity_display": ""
       },
       {
         "entity_urn": "urn:aos:recipe-ingredient:aetius-16-150:ingredient:rodon-xeron-17",

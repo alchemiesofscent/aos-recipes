@@ -179,7 +179,7 @@
           "raw_number": null,
           "normalized_number": "small",
           "raw_unit": null,
-          "normalized_unit": null,
+          "normalized_unit": "descriptor",
           "certainty": "certain",
           "notes": [
             "Qualitative amount."

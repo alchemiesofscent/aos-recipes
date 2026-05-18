@@ -187,7 +187,7 @@
           "raw_number": null,
           "normalized_number": null,
           "raw_unit": null,
-          "normalized_unit": null,
+          "normalized_unit": "descriptor",
           "certainty": "certain",
           "notes": [
             "indefinite small amount"
@@ -582,7 +582,7 @@
         "entity_urn": "urn:aos:recipe-ingredient:dioscorides-2-76-rendered-stear-with-salt:ingredient:als-leptos-2",
         "surface_form": "ἁλὸς ὀλίγου καὶ λεπτοῦ",
         "normalized_label": "ἅλς λεπτός",
-        "quantity_display": "ὀλίγου"
+        "quantity_display": ""
       }
     ],
     "processes": [

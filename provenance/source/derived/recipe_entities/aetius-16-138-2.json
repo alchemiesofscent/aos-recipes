@@ -150,7 +150,7 @@
           "raw_number": null,
           "normalized_number": null,
           "raw_unit": null,
-          "normalized_unit": null,
+          "normalized_unit": "uncia",
           "certainty": "uncertain",
           "notes": [
             "Unresolved abbreviated quantity expression shared by the alternative citron ingredient."
@@ -188,7 +188,7 @@
           "raw_number": null,
           "normalized_number": null,
           "raw_unit": null,
-          "normalized_unit": null,
+          "normalized_unit": "uncia",
           "certainty": "uncertain",
           "notes": [
             "Unresolved abbreviated quantity expression shared by the alternative citron ingredient."

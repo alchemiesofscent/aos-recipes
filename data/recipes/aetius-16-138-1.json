@@ -239,7 +239,7 @@
           "raw_number": null,
           "normalized_number": null,
           "raw_unit": "γοαζʹ",
-          "normalized_unit": null,
+          "normalized_unit": "uncia",
           "certainty": "uncertain",
           "notes": []
         },
@@ -348,7 +348,7 @@
         "entity_urn": "urn:aos:recipe-ingredient:aetius-16-138-1:ingredient:mastiche-4",
         "surface_form": "μαστίχης",
         "normalized_label": "μαστίχη",
-        "quantity_display": "γοαζʹ. · οὐγ. α καὶ ἡμίσ."
+        "quantity_display": "1.5 uncia"
       }
     ],
     "processes": [],

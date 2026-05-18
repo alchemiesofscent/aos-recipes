@@ -214,7 +214,7 @@
           "raw_number": "στ",
           "normalized_number": 6,
           "raw_unit": "γο",
-          "normalized_unit": null,
+          "normalized_unit": "uncia",
           "certainty": "uncertain",
           "notes": [
             "Unit abbreviation unresolved."
@@ -257,7 +257,7 @@
           "raw_number": "α",
           "normalized_number": 1,
           "raw_unit": "γο",
-          "normalized_unit": null,
+          "normalized_unit": "uncia",
           "certainty": "uncertain",
           "notes": [
             "Unit abbreviation unresolved."

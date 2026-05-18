@@ -317,17 +317,7 @@
         "dioscorides-1-71-6-burned-resin-without-water:ingredient:retine-1",
         "dioscorides-1-71-6-burned-resin-without-water:ingredient:xera-retine-2"
       ],
-      "quantities": [
-        {
-          "source_span": "ἐπὶ ἡμέρας καὶ νύκτας τρεῖς",
-          "raw_number": "τρεῖς",
-          "normalized_number": 3,
-          "raw_unit": "ἡμέρας καὶ νύκτας",
-          "normalized_unit": null,
-          "certainty": "certain",
-          "notes": []
-        }
-      ],
+      "quantities": [],
       "qualifiers": [
         {
           "qualifier_type": "manner",
@@ -354,7 +344,18 @@
           "start": "70.1",
           "end": "70.10"
         }
-      }
+      },
+      "durations": [
+        {
+          "source_span": "ἐπὶ ἡμέρας καὶ νύκτας τρεῖς",
+          "raw_number": "τρεῖς",
+          "normalized_number": 3,
+          "raw_unit": "ἡμέρας καὶ νύκτας",
+          "normalized_unit": "day_and_night",
+          "certainty": "certain",
+          "notes": []
+        }
+      ]
     },
     {
       "process_id": "dioscorides-1-71-6-burned-resin-without-water:process:apotithesthai-5",
@@ -524,7 +525,7 @@
           "raw_number": null,
           "normalized_number": "many",
           "raw_unit": null,
-          "normalized_unit": null,
+          "normalized_unit": "descriptor",
           "certainty": "certain",
           "notes": []
         }

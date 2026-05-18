@@ -399,7 +399,7 @@
           "raw_number": "ἴσον",
           "normalized_number": "equal",
           "raw_unit": "τῷ σταθμῷ",
-          "normalized_unit": null,
+          "normalized_unit": "descriptor",
           "certainty": "certain",
           "notes": []
         }
@@ -772,7 +772,7 @@
           "raw_number": "ἴσον",
           "normalized_number": "equal",
           "raw_unit": "σταθμὸν",
-          "normalized_unit": null,
+          "normalized_unit": "descriptor",
           "certainty": "certain",
           "notes": []
         }

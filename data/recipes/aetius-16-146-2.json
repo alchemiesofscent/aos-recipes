@@ -547,7 +547,7 @@
           "raw_number": null,
           "normalized_number": null,
           "raw_unit": "γοη.",
-          "normalized_unit": null,
+          "normalized_unit": "uncia",
           "certainty": "uncertain",
           "notes": [
             "Abbreviated measure left unresolved."
@@ -582,7 +582,7 @@
           "raw_number": null,
           "normalized_number": null,
           "raw_unit": "γοστ.",
-          "normalized_unit": null,
+          "normalized_unit": "uncia",
           "certainty": "uncertain",
           "notes": [
             "Abbreviated measure left unresolved."
@@ -617,7 +617,7 @@
           "raw_number": null,
           "normalized_number": null,
           "raw_unit": "γοστ.",
-          "normalized_unit": null,
+          "normalized_unit": "uncia",
           "certainty": "uncertain",
           "notes": [
             "Abbreviated measure left unresolved."
@@ -757,7 +757,7 @@
           "raw_number": null,
           "normalized_number": null,
           "raw_unit": "γοδ.",
-          "normalized_unit": null,
+          "normalized_unit": "uncia",
           "certainty": "uncertain",
           "notes": [
             "Shared distributive measure under ἀνὰ.",
@@ -795,7 +795,7 @@
           "raw_number": null,
           "normalized_number": null,
           "raw_unit": "γοδ.",
-          "normalized_unit": null,
+          "normalized_unit": "uncia",
           "certainty": "uncertain",
           "notes": [
             "Shared distributive measure under ἀνὰ.",
@@ -1057,19 +1057,19 @@
         "entity_urn": "urn:aos:recipe-ingredient:aetius-16-146-2:ingredient:mastiche-11",
         "surface_form": "μαστίχης",
         "normalized_label": "μαστίχη",
-        "quantity_display": "γοη."
+        "quantity_display": ""
       },
       {
         "entity_urn": "urn:aos:recipe-ingredient:aetius-16-146-2:ingredient:xylokaryophyllon-12",
         "surface_form": "ξυλοκαρυοφύλλων",
         "normalized_label": "ξυλοκαρυόφυλλον",
-        "quantity_display": "γοστ."
+        "quantity_display": ""
       },
       {
         "entity_urn": "urn:aos:recipe-ingredient:aetius-16-146-2:ingredient:phylla-skylmatos-13",
         "surface_form": "σκύλματος φύλλων",
         "normalized_label": "φύλλα σκύλματος",
-        "quantity_display": "γοστ."
+        "quantity_display": ""
       },
       {
         "entity_urn": "urn:aos:recipe-ingredient:aetius-16-146-2:ingredient:bryon-14",
@@ -1093,13 +1093,13 @@
         "entity_urn": "urn:aos:recipe-ingredient:aetius-16-146-2:ingredient:onyx-17",
         "surface_form": "ὀνύχων",
         "normalized_label": "ὄνυξ",
-        "quantity_display": "γοδ."
+        "quantity_display": ""
       },
       {
         "entity_urn": "urn:aos:recipe-ingredient:aetius-16-146-2:ingredient:krokos-18",
         "surface_form": "κρόκου τριχιςθέντος",
         "normalized_label": "κρόκος",
-        "quantity_display": "γοδ."
+        "quantity_display": ""
       }
     ],
     "processes": [

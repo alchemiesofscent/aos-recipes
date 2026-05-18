@@ -294,17 +294,7 @@
       "normalized_label": "ἡλιοῦν",
       "target_type": "recipe",
       "target_ids": [],
-      "quantities": [
-        {
-          "source_span": "ἡμέρας μ",
-          "raw_number": "μ",
-          "normalized_number": 40,
-          "raw_unit": "ἡμέρας",
-          "normalized_unit": null,
-          "certainty": "certain",
-          "notes": []
-        }
-      ],
+      "quantities": [],
       "qualifiers": [],
       "certainty": "certain",
       "notes": [
@@ -318,7 +308,18 @@
           "start": "2.384.18",
           "end": "2.384.22"
         }
-      }
+      },
+      "durations": [
+        {
+          "source_span": "ἡμέρας μ",
+          "raw_number": "μ",
+          "normalized_number": 40,
+          "raw_unit": "ἡμέρας",
+          "normalized_unit": "day",
+          "certainty": "certain",
+          "notes": []
+        }
+      ]
     },
     {
       "process_id": "paul-7-20-14:process:epsein-4",
@@ -328,17 +329,7 @@
       "normalized_label": "ἕψειν",
       "target_type": "recipe",
       "target_ids": [],
-      "quantities": [
-        {
-          "source_span": "ὥρας γ",
-          "raw_number": "γ",
-          "normalized_number": 3,
-          "raw_unit": "ὥρας",
-          "normalized_unit": null,
-          "certainty": "certain",
-          "notes": []
-        }
-      ],
+      "quantities": [],
       "qualifiers": [
         {
           "qualifier_type": "location",
@@ -360,7 +351,18 @@
           "start": "2.384.18",
           "end": "2.384.22"
         }
-      }
+      },
+      "durations": [
+        {
+          "source_span": "ὥρας γ",
+          "raw_number": "γ",
+          "normalized_number": 3,
+          "raw_unit": "ὥρας",
+          "normalized_unit": "hour",
+          "certainty": "certain",
+          "notes": []
+        }
+      ]
     },
     {
       "process_id": "paul-7-20-14:process:diaseiran-5",

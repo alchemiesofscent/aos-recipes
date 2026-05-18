@@ -276,7 +276,7 @@
           "raw_number": null,
           "normalized_number": "equal amount",
           "raw_unit": null,
-          "normalized_unit": null,
+          "normalized_unit": "descriptor",
           "certainty": "uncertain",
           "notes": [
             "Relative to the earlier quantity of ὠκίμου."
@@ -491,7 +491,7 @@
           "raw_number": null,
           "normalized_number": "equal amount",
           "raw_unit": null,
-          "normalized_unit": null,
+          "normalized_unit": "descriptor",
           "certainty": "uncertain",
           "notes": [
             "Relative to the initial oil quantity."

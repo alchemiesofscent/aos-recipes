@@ -199,7 +199,7 @@
           "raw_number": null,
           "normalized_number": null,
           "raw_unit": "γοβ.",
-          "normalized_unit": null,
+          "normalized_unit": "uncia",
           "certainty": "uncertain",
           "notes": [
             "Unit abbreviation unresolved."
@@ -238,7 +238,7 @@
           "raw_number": null,
           "normalized_number": null,
           "raw_unit": "γοβ.",
-          "normalized_unit": null,
+          "normalized_unit": "uncia",
           "certainty": "uncertain",
           "notes": [
             "Unit abbreviation unresolved."
@@ -276,7 +276,7 @@
           "raw_number": null,
           "normalized_number": null,
           "raw_unit": "γοβ.",
-          "normalized_unit": null,
+          "normalized_unit": "uncia",
           "certainty": "uncertain",
           "notes": [
             "Unit abbreviation unresolved."
@@ -313,7 +313,7 @@
           "raw_number": null,
           "normalized_number": null,
           "raw_unit": null,
-          "normalized_unit": null,
+          "normalized_unit": "descriptor",
           "certainty": "certain",
           "notes": [
             "Sufficient quantity."
@@ -693,19 +693,19 @@
         "entity_urn": "urn:aos:recipe-ingredient:aetius-16-128:ingredient:styrax-2",
         "surface_form": "στύρακος",
         "normalized_label": "στύραξ",
-        "quantity_display": "γοβ."
+        "quantity_display": ""
       },
       {
         "entity_urn": "urn:aos:recipe-ingredient:aetius-16-128:ingredient:phyllon-3",
         "surface_form": "φύλλου",
         "normalized_label": "φύλλον",
-        "quantity_display": "γοβ."
+        "quantity_display": ""
       },
       {
         "entity_urn": "urn:aos:recipe-ingredient:aetius-16-128:ingredient:opobalsamon-4",
         "surface_form": "ὀποβαλσάμου",
         "normalized_label": "ὀποβάλσαμον",
-        "quantity_display": "γοβ."
+        "quantity_display": ""
       },
       {
         "entity_urn": "urn:aos:recipe-ingredient:aetius-16-128:ingredient:chylos-rodon-5",

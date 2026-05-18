@@ -231,7 +231,7 @@
           "raw_number": "δ",
           "normalized_number": 4,
           "raw_unit": "γο",
-          "normalized_unit": null,
+          "normalized_unit": "uncia",
           "certainty": "uncertain",
           "notes": [
             "Source writes unit-number abbreviation jointly as γοδ."
@@ -266,7 +266,7 @@
           "raw_number": "δ",
           "normalized_number": 4,
           "raw_unit": "γο",
-          "normalized_unit": null,
+          "normalized_unit": "uncia",
           "certainty": "uncertain",
           "notes": [
             "Source writes unit-number abbreviation jointly as γοδ."
@@ -301,7 +301,7 @@
           "raw_number": "β",
           "normalized_number": 2,
           "raw_unit": "γο",
-          "normalized_unit": null,
+          "normalized_unit": "uncia",
           "certainty": "uncertain",
           "notes": [
             "Source writes unit-number abbreviation jointly as γοβ."
@@ -336,7 +336,7 @@
           "raw_number": "β",
           "normalized_number": 2,
           "raw_unit": "γο",
-          "normalized_unit": null,
+          "normalized_unit": "uncia",
           "certainty": "uncertain",
           "notes": [
             "Source writes unit-number abbreviation jointly as γοβ."
@@ -373,7 +373,7 @@
           "raw_number": "β",
           "normalized_number": 2,
           "raw_unit": "γο",
-          "normalized_unit": null,
+          "normalized_unit": "uncia",
           "certainty": "uncertain",
           "notes": [
             "Source writes unit-number abbreviation jointly as γοβ."
@@ -408,7 +408,7 @@
           "raw_number": "β",
           "normalized_number": 2,
           "raw_unit": "γο",
-          "normalized_unit": null,
+          "normalized_unit": "uncia",
           "certainty": "uncertain",
           "notes": [
             "Source writes unit-number abbreviation jointly as γοβ."
@@ -443,7 +443,7 @@
           "raw_number": "α",
           "normalized_number": 1,
           "raw_unit": "γο",
-          "normalized_unit": null,
+          "normalized_unit": "uncia",
           "certainty": "uncertain",
           "notes": [
             "Source writes unit-number abbreviation jointly as γοα."
@@ -546,7 +546,7 @@
           "raw_number": "β",
           "normalized_number": 2,
           "raw_unit": "γο",
-          "normalized_unit": null,
+          "normalized_unit": "uncia",
           "certainty": "uncertain",
           "notes": [
             "Source writes unit-number abbreviation jointly as γοβ."
@@ -900,43 +900,43 @@
         "entity_urn": "urn:aos:recipe-ingredient:aetius-16-130-2:ingredient:nardostachys-3",
         "surface_form": "ναρδοστάχυος",
         "normalized_label": "ναρδόσταχυς",
-        "quantity_display": "γοδ."
+        "quantity_display": "4 uncia"
       },
       {
         "entity_urn": "urn:aos:recipe-ingredient:aetius-16-130-2:ingredient:phyllon-4",
         "surface_form": "φύλλων",
         "normalized_label": "φύλλον",
-        "quantity_display": "γοδ."
+        "quantity_display": "4 uncia"
       },
       {
         "entity_urn": "urn:aos:recipe-ingredient:aetius-16-130-2:ingredient:karpobalsamon-5",
         "surface_form": "καρποβαλσάμου",
         "normalized_label": "καρποβάλσαμον",
-        "quantity_display": "γοβ."
+        "quantity_display": "2 uncia"
       },
       {
         "entity_urn": "urn:aos:recipe-ingredient:aetius-16-130-2:ingredient:arnabo-6",
         "surface_form": "ἀρναβῶ",
         "normalized_label": "ἀρναβώ",
-        "quantity_display": "γοβ."
+        "quantity_display": "2 uncia"
       },
       {
         "entity_urn": "urn:aos:recipe-ingredient:aetius-16-130-2:ingredient:amomon-7",
         "surface_form": "ἀμώμου",
         "normalized_label": "ἄμωμον",
-        "quantity_display": "γοβ."
+        "quantity_display": "2 uncia"
       },
       {
         "entity_urn": "urn:aos:recipe-ingredient:aetius-16-130-2:ingredient:aloe-8",
         "surface_form": "ἀλόης",
         "normalized_label": "ἀλόη",
-        "quantity_display": "γοβ."
+        "quantity_display": "2 uncia"
       },
       {
         "entity_urn": "urn:aos:recipe-ingredient:aetius-16-130-2:ingredient:ambaros-9",
         "surface_form": "ἄμβαρος",
         "normalized_label": "ἄμβαρος",
-        "quantity_display": "γοα."
+        "quantity_display": "1 uncia"
       },
       {
         "entity_urn": "urn:aos:recipe-ingredient:aetius-16-130-2:ingredient:mastiche-10",
@@ -954,7 +954,7 @@
         "entity_urn": "urn:aos:recipe-ingredient:aetius-16-130-2:ingredient:kaphoyra-12",
         "surface_form": "καφουρὰ",
         "normalized_label": "καφουρά",
-        "quantity_display": "γοβ."
+        "quantity_display": "2 uncia"
       }
     ],
     "processes": [

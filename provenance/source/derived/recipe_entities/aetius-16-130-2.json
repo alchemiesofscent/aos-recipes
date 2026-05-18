@@ -231,7 +231,7 @@
           "raw_number": "δ",
           "normalized_number": 4,
           "raw_unit": "γο",
-          "normalized_unit": null,
+          "normalized_unit": "uncia",
           "certainty": "uncertain",
           "notes": [
             "Source writes unit-number abbreviation jointly as γοδ."
@@ -266,7 +266,7 @@
           "raw_number": "δ",
           "normalized_number": 4,
           "raw_unit": "γο",
-          "normalized_unit": null,
+          "normalized_unit": "uncia",
           "certainty": "uncertain",
           "notes": [
             "Source writes unit-number abbreviation jointly as γοδ."
@@ -301,7 +301,7 @@
           "raw_number": "β",
           "normalized_number": 2,
           "raw_unit": "γο",
-          "normalized_unit": null,
+          "normalized_unit": "uncia",
           "certainty": "uncertain",
           "notes": [
             "Source writes unit-number abbreviation jointly as γοβ."
@@ -336,7 +336,7 @@
           "raw_number": "β",
           "normalized_number": 2,
           "raw_unit": "γο",
-          "normalized_unit": null,
+          "normalized_unit": "uncia",
           "certainty": "uncertain",
           "notes": [
             "Source writes unit-number abbreviation jointly as γοβ."
@@ -373,7 +373,7 @@
           "raw_number": "β",
           "normalized_number": 2,
           "raw_unit": "γο",
-          "normalized_unit": null,
+          "normalized_unit": "uncia",
           "certainty": "uncertain",
           "notes": [
             "Source writes unit-number abbreviation jointly as γοβ."
@@ -408,7 +408,7 @@
           "raw_number": "β",
           "normalized_number": 2,
           "raw_unit": "γο",
-          "normalized_unit": null,
+          "normalized_unit": "uncia",
           "certainty": "uncertain",
           "notes": [
             "Source writes unit-number abbreviation jointly as γοβ."
@@ -443,7 +443,7 @@
           "raw_number": "α",
           "normalized_number": 1,
           "raw_unit": "γο",
-          "normalized_unit": null,
+          "normalized_unit": "uncia",
           "certainty": "uncertain",
           "notes": [
             "Source writes unit-number abbreviation jointly as γοα."
@@ -546,7 +546,7 @@
           "raw_number": "β",
           "normalized_number": 2,
           "raw_unit": "γο",
-          "normalized_unit": null,
+          "normalized_unit": "uncia",
           "certainty": "uncertain",
           "notes": [
             "Source writes unit-number abbreviation jointly as γοβ."

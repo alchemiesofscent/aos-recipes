@@ -250,7 +250,7 @@
           "raw_number": "στ",
           "normalized_number": 6,
           "raw_unit": "γο",
-          "normalized_unit": null,
+          "normalized_unit": "uncia",
           "certainty": "uncertain",
           "notes": [
             "Greek numeral parsed as 6; unit abbreviation unresolved."
@@ -285,7 +285,7 @@
           "raw_number": "στ",
           "normalized_number": 6,
           "raw_unit": "γο",
-          "normalized_unit": null,
+          "normalized_unit": "uncia",
           "certainty": "uncertain",
           "notes": [
             "Greek numeral parsed as 6; unit abbreviation unresolved."
@@ -320,7 +320,7 @@
           "raw_number": "στ",
           "normalized_number": 6,
           "raw_unit": "γο",
-          "normalized_unit": null,
+          "normalized_unit": "uncia",
           "certainty": "uncertain",
           "notes": [
             "Greek numeral parsed as 6; unit abbreviation unresolved."
@@ -355,7 +355,7 @@
           "raw_number": "γ",
           "normalized_number": 3,
           "raw_unit": "γο",
-          "normalized_unit": null,
+          "normalized_unit": "uncia",
           "certainty": "uncertain",
           "notes": [
             "Greek numeral parsed as 3; unit abbreviation unresolved."
@@ -390,7 +390,7 @@
           "raw_number": "γ",
           "normalized_number": 3,
           "raw_unit": "γο",
-          "normalized_unit": null,
+          "normalized_unit": "uncia",
           "certainty": "uncertain",
           "notes": [
             "Greek numeral parsed as 3; unit abbreviation unresolved."
@@ -425,7 +425,7 @@
           "raw_number": "β",
           "normalized_number": 2,
           "raw_unit": "γο",
-          "normalized_unit": null,
+          "normalized_unit": "uncia",
           "certainty": "uncertain",
           "notes": [
             "Greek numeral parsed as 2; unit abbreviation unresolved."
@@ -460,7 +460,7 @@
           "raw_number": "β",
           "normalized_number": 2,
           "raw_unit": "γο",
-          "normalized_unit": null,
+          "normalized_unit": "uncia",
           "certainty": "uncertain",
           "notes": [
             "Greek numeral parsed as 2; unit abbreviation unresolved."
@@ -862,43 +862,43 @@
         "entity_urn": "urn:aos:recipe-ingredient:aetius-16-147:ingredient:xylokaryophyllon-3",
         "surface_form": "ξυλοκαρυοφύλλων",
         "normalized_label": "ξυλοκαρυόφυλλον",
-        "quantity_display": "γοστ."
+        "quantity_display": "6 uncia"
       },
       {
         "entity_urn": "urn:aos:recipe-ingredient:aetius-16-147:ingredient:phylla-skylmatos-4",
         "surface_form": "σκύλματος φύλλων",
         "normalized_label": "φύλλα σκύλματος",
-        "quantity_display": "γοστ."
+        "quantity_display": "6 uncia"
       },
       {
         "entity_urn": "urn:aos:recipe-ingredient:aetius-16-147:ingredient:nardostachys-5",
         "surface_form": "ναρδοστάχυος",
         "normalized_label": "ναρδόσταχυς",
-        "quantity_display": "γοστ."
+        "quantity_display": "6 uncia"
       },
       {
         "entity_urn": "urn:aos:recipe-ingredient:aetius-16-147:ingredient:phloios-aspalathoy-6",
         "surface_form": "φλοιοῦ ἀσπαλάθου",
         "normalized_label": "φλοιὸς ἀσπαλάθου",
-        "quantity_display": "γογ."
+        "quantity_display": "3 uncia"
       },
       {
         "entity_urn": "urn:aos:recipe-ingredient:aetius-16-147:ingredient:xera-roda-7",
         "surface_form": "ῥόδων ξηρῶν",
         "normalized_label": "ξηρὰ ῥόδα",
-        "quantity_display": "γογ."
+        "quantity_display": "3 uncia"
       },
       {
         "entity_urn": "urn:aos:recipe-ingredient:aetius-16-147:ingredient:mastiche-chia-8",
         "surface_form": "μαστίχης χίας",
         "normalized_label": "μαστίχη χία",
-        "quantity_display": "γοβ."
+        "quantity_display": "2 uncia"
       },
       {
         "entity_urn": "urn:aos:recipe-ingredient:aetius-16-147:ingredient:bdellion-9",
         "surface_form": "βδελλίου",
         "normalized_label": "βδέλλιον",
-        "quantity_display": "γοβ."
+        "quantity_display": "2 uncia"
       },
       {
         "entity_urn": "urn:aos:recipe-ingredient:aetius-16-147:ingredient:ladanon-10",

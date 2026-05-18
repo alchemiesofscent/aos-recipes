@@ -184,7 +184,7 @@
           "raw_number": null,
           "normalized_number": null,
           "raw_unit": "γογ.",
-          "normalized_unit": null,
+          "normalized_unit": "uncia",
           "certainty": "uncertain",
           "notes": [
             "Abbreviated unit unresolved from the inline evidence."
@@ -221,7 +221,7 @@
           "raw_number": null,
           "normalized_number": null,
           "raw_unit": "γογ.",
-          "normalized_unit": null,
+          "normalized_unit": "uncia",
           "certainty": "uncertain",
           "notes": [
             "Abbreviated unit unresolved from the inline evidence."
@@ -258,7 +258,7 @@
           "raw_number": null,
           "normalized_number": null,
           "raw_unit": "γοδ.",
-          "normalized_unit": null,
+          "normalized_unit": "uncia",
           "certainty": "uncertain",
           "notes": [
             "Abbreviated unit unresolved from the inline evidence."
@@ -520,19 +520,19 @@
         "entity_urn": "urn:aos:recipe-ingredient:aetius-16-131-1:ingredient:styrax-2",
         "surface_form": "στύρακος",
         "normalized_label": "στύραξ",
-        "quantity_display": "γογ."
+        "quantity_display": ""
       },
       {
         "entity_urn": "urn:aos:recipe-ingredient:aetius-16-131-1:ingredient:amomon-3",
         "surface_form": "ἀμώμου",
         "normalized_label": "ἄμωμον",
-        "quantity_display": "γογ."
+        "quantity_display": ""
       },
       {
         "entity_urn": "urn:aos:recipe-ingredient:aetius-16-131-1:ingredient:kasia-4",
         "surface_form": "κασίας",
         "normalized_label": "κασία",
-        "quantity_display": "γοδ."
+        "quantity_display": ""
       },
       {
         "entity_urn": "urn:aos:recipe-ingredient:aetius-16-131-1:ingredient:krina-5",

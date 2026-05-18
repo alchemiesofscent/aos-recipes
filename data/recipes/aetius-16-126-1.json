@@ -151,10 +151,9 @@
           "raw_number": "γ",
           "normalized_number": 3,
           "raw_unit": "γο",
-          "normalized_unit": null,
+          "normalized_unit": "uncia",
           "certainty": "uncertain",
           "notes": [
-            "The abbreviated unit γο is unresolved.",
             "This quantity is governed distributively by ἀνὰ."
           ]
         }
@@ -189,10 +188,9 @@
           "raw_number": "γ",
           "normalized_number": 3,
           "raw_unit": "γο",
-          "normalized_unit": null,
+          "normalized_unit": "uncia",
           "certainty": "uncertain",
           "notes": [
-            "The abbreviated unit γο is unresolved.",
             "This quantity is governed distributively by ἀνὰ."
           ]
         }
@@ -225,10 +223,9 @@
           "raw_number": "γ",
           "normalized_number": 3,
           "raw_unit": "γο",
-          "normalized_unit": null,
+          "normalized_unit": "uncia",
           "certainty": "uncertain",
           "notes": [
-            "The abbreviated unit γο is unresolved.",
             "This quantity is governed distributively by ἀνὰ."
           ]
         }
@@ -311,10 +308,9 @@
           "raw_number": "αζʹ",
           "normalized_number": 17,
           "raw_unit": "γο",
-          "normalized_unit": null,
+          "normalized_unit": "uncia",
           "certainty": "uncertain",
           "notes": [
-            "The abbreviated unit γο is unresolved.",
             "This quantity is governed distributively by ἀνὰ."
           ]
         }
@@ -347,10 +343,9 @@
           "raw_number": "αζʹ",
           "normalized_number": 17,
           "raw_unit": "γο",
-          "normalized_unit": null,
+          "normalized_unit": "uncia",
           "certainty": "uncertain",
           "notes": [
-            "The abbreviated unit γο is unresolved.",
             "This quantity is governed distributively by ἀνὰ."
           ]
         }
@@ -383,11 +378,9 @@
           "raw_number": "στ.",
           "normalized_number": 6,
           "raw_unit": "γο",
-          "normalized_unit": null,
+          "normalized_unit": "uncia",
           "certainty": "uncertain",
-          "notes": [
-            "The abbreviated unit γο is unresolved."
-          ]
+          "notes": []
         }
       ],
       "qualifiers": [],
@@ -418,10 +411,9 @@
           "raw_number": "κστ",
           "normalized_number": 26,
           "raw_unit": "γο",
-          "normalized_unit": null,
+          "normalized_unit": "uncia",
           "certainty": "uncertain",
           "notes": [
-            "The abbreviated unit γο is unresolved.",
             "The text presents this as an equivalent quantity expression with ἤτοι."
           ]
         },
@@ -569,19 +561,19 @@
         "entity_urn": "urn:aos:recipe-ingredient:aetius-16-126-1:ingredient:arnabo-1",
         "surface_form": "Ἀρναβῶ",
         "normalized_label": "ἀρναβώ",
-        "quantity_display": "γογ."
+        "quantity_display": "3 uncia"
       },
       {
         "entity_urn": "urn:aos:recipe-ingredient:aetius-16-126-1:ingredient:amomon-2",
         "surface_form": "ἀμώμου",
         "normalized_label": "ἄμωμον",
-        "quantity_display": "γογ."
+        "quantity_display": "3 uncia"
       },
       {
         "entity_urn": "urn:aos:recipe-ingredient:aetius-16-126-1:ingredient:nardostachys-3",
         "surface_form": "ναρδοστάχυος",
         "normalized_label": "ναρδόσταχυς",
-        "quantity_display": "γογ."
+        "quantity_display": "3 uncia"
       },
       {
         "entity_urn": "urn:aos:recipe-ingredient:aetius-16-126-1:ingredient:phyllon-4",
@@ -599,25 +591,25 @@
         "entity_urn": "urn:aos:recipe-ingredient:aetius-16-126-1:ingredient:krokos-6",
         "surface_form": "κρόκου",
         "normalized_label": "κρόκος",
-        "quantity_display": "γοαζʹ"
+        "quantity_display": "17 uncia"
       },
       {
         "entity_urn": "urn:aos:recipe-ingredient:aetius-16-126-1:ingredient:karyophylla-7",
         "surface_form": "καρυοφύλλων",
         "normalized_label": "καρυόφυλλα",
-        "quantity_display": "γοαζʹ"
+        "quantity_display": "17 uncia"
       },
       {
         "entity_urn": "urn:aos:recipe-ingredient:aetius-16-126-1:ingredient:opobalsamon-8",
         "surface_form": "ὀποβαλσάμου",
         "normalized_label": "ὀποβάλσαμον",
-        "quantity_display": "γοστ."
+        "quantity_display": "6 uncia"
       },
       {
         "entity_urn": "urn:aos:recipe-ingredient:aetius-16-126-1:ingredient:roda-chlora-9",
         "surface_form": "ῥόδων χλωρῶν",
         "normalized_label": "ῥόδα χλωρά",
-        "quantity_display": "γοκστ · οὐγ. κστ."
+        "quantity_display": "26 uncia · 26 uncia"
       }
     ],
     "processes": [],

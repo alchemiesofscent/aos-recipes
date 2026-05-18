@@ -185,7 +185,7 @@
           "raw_number": "στ",
           "normalized_number": 6,
           "raw_unit": "γο",
-          "normalized_unit": null,
+          "normalized_unit": "uncia",
           "certainty": "uncertain",
           "notes": [
             "Parsed from compressed quantity string; the unit abbreviated as γο is not resolved safely."
@@ -220,7 +220,7 @@
           "raw_number": "στ",
           "normalized_number": 6,
           "raw_unit": "γο",
-          "normalized_unit": null,
+          "normalized_unit": "uncia",
           "certainty": "uncertain",
           "notes": [
             "Parsed from compressed quantity string; the unit abbreviated as γο is not resolved safely."
@@ -255,7 +255,7 @@
           "raw_number": "β",
           "normalized_number": 2,
           "raw_unit": "γο",
-          "normalized_unit": null,
+          "normalized_unit": "uncia",
           "certainty": "uncertain",
           "notes": [
             "Parsed from compressed quantity string; the unit abbreviated as γο is not resolved safely."
@@ -290,7 +290,7 @@
           "raw_number": "β",
           "normalized_number": 2,
           "raw_unit": "γο",
-          "normalized_unit": null,
+          "normalized_unit": "uncia",
           "certainty": "uncertain",
           "notes": [
             "Parsed from compressed quantity string; the unit abbreviated as γο is not resolved safely."
@@ -327,7 +327,7 @@
           "raw_number": "βζʹ",
           "normalized_number": 9,
           "raw_unit": "γο",
-          "normalized_unit": null,
+          "normalized_unit": "uncia",
           "certainty": "uncertain",
           "notes": [
             "Parsed from compressed quantity string; the unit abbreviated as γο is not resolved safely."
@@ -362,7 +362,7 @@
           "raw_number": "δ",
           "normalized_number": 4,
           "raw_unit": "γο",
-          "normalized_unit": null,
+          "normalized_unit": "uncia",
           "certainty": "uncertain",
           "notes": [
             "Parsed from compressed quantity string; the unit abbreviated as γο is not resolved safely."
@@ -430,7 +430,7 @@
           "raw_number": "α",
           "normalized_number": 1,
           "raw_unit": "γο",
-          "normalized_unit": null,
+          "normalized_unit": "uncia",
           "certainty": "uncertain",
           "notes": [
             "Parsed from compressed quantity string; the unit abbreviated as γο is not resolved safely."
@@ -649,37 +649,37 @@
         "entity_urn": "urn:aos:recipe-ingredient:aetius-16-149:ingredient:kostos-2",
         "surface_form": "κόστου",
         "normalized_label": "κόστος",
-        "quantity_display": "γοστ."
+        "quantity_display": "6 uncia"
       },
       {
         "entity_urn": "urn:aos:recipe-ingredient:aetius-16-149:ingredient:stakte-leyke-3",
         "surface_form": "στακτῆς λευκῆς",
         "normalized_label": "στακτή λευκή",
-        "quantity_display": "γοστ."
+        "quantity_display": "6 uncia"
       },
       {
         "entity_urn": "urn:aos:recipe-ingredient:aetius-16-149:ingredient:karyophyllon-4",
         "surface_form": "καρυοφύλλων",
         "normalized_label": "καρυόφυλλον",
-        "quantity_display": "γοβ."
+        "quantity_display": "2 uncia"
       },
       {
         "entity_urn": "urn:aos:recipe-ingredient:aetius-16-149:ingredient:taron-5",
         "surface_form": "τάρου",
         "normalized_label": "τάρον",
-        "quantity_display": "γοβ."
+        "quantity_display": "2 uncia"
       },
       {
         "entity_urn": "urn:aos:recipe-ingredient:aetius-16-149:ingredient:nardostachys-6",
         "surface_form": "ναρδοστάχυος",
         "normalized_label": "ναρδόσταχυς",
-        "quantity_display": "γοβζʹ"
+        "quantity_display": "9 uncia"
       },
       {
         "entity_urn": "urn:aos:recipe-ingredient:aetius-16-149:ingredient:krokos-7",
         "surface_form": "κρόκου",
         "normalized_label": "κρόκος",
-        "quantity_display": "γοδ."
+        "quantity_display": "4 uncia"
       },
       {
         "entity_urn": "urn:aos:recipe-ingredient:aetius-16-149:ingredient:ambaros-8",
@@ -691,7 +691,7 @@
         "entity_urn": "urn:aos:recipe-ingredient:aetius-16-149:ingredient:aloya-9",
         "surface_form": "ἀλούα",
         "normalized_label": "ἀλούα",
-        "quantity_display": "γοα."
+        "quantity_display": "1 uncia"
       },
       {
         "entity_urn": "urn:aos:recipe-ingredient:aetius-16-149:ingredient:moschos-10",

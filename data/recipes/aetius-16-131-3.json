@@ -187,7 +187,7 @@
           "raw_number": null,
           "normalized_number": null,
           "raw_unit": "γοστ.",
-          "normalized_unit": null,
+          "normalized_unit": "uncia",
           "certainty": "uncertain",
           "notes": [
             "abbreviated quantity expression unresolved"
@@ -227,7 +227,7 @@
           "raw_number": null,
           "normalized_number": null,
           "raw_unit": "γογ.",
-          "normalized_unit": null,
+          "normalized_unit": "uncia",
           "certainty": "uncertain",
           "notes": [
             "abbreviated quantity expression unresolved"
@@ -267,7 +267,7 @@
           "raw_number": null,
           "normalized_number": null,
           "raw_unit": "γοα.",
-          "normalized_unit": null,
+          "normalized_unit": "uncia",
           "certainty": "uncertain",
           "notes": [
             "abbreviated quantity expression unresolved",
@@ -308,7 +308,7 @@
           "raw_number": null,
           "normalized_number": null,
           "raw_unit": "γοα.",
-          "normalized_unit": null,
+          "normalized_unit": "uncia",
           "certainty": "uncertain",
           "notes": [
             "abbreviated quantity expression unresolved",
@@ -387,7 +387,7 @@
           "raw_number": null,
           "normalized_number": null,
           "raw_unit": "γοα.",
-          "normalized_unit": null,
+          "normalized_unit": "uncia",
           "certainty": "uncertain",
           "notes": [
             "abbreviated quantity expression unresolved"
@@ -1137,25 +1137,25 @@
         "entity_urn": "urn:aos:recipe-ingredient:aetius-16-131-3:ingredient:kasia-1",
         "surface_form": "Κασίας γοστ.",
         "normalized_label": "κασία",
-        "quantity_display": "γοστ."
+        "quantity_display": ""
       },
       {
         "entity_urn": "urn:aos:recipe-ingredient:aetius-16-131-3:ingredient:phyllon-2",
         "surface_form": "φύλλου γογ.",
         "normalized_label": "φύλλον",
-        "quantity_display": "γογ."
+        "quantity_display": ""
       },
       {
         "entity_urn": "urn:aos:recipe-ingredient:aetius-16-131-3:ingredient:amomon-3",
         "surface_form": "ἀμώμου",
         "normalized_label": "ἄμωμον",
-        "quantity_display": "γοα."
+        "quantity_display": ""
       },
       {
         "entity_urn": "urn:aos:recipe-ingredient:aetius-16-131-3:ingredient:ladanon-4",
         "surface_form": "λαδάνου",
         "normalized_label": "λάδανον",
-        "quantity_display": "γοα."
+        "quantity_display": ""
       },
       {
         "entity_urn": "urn:aos:recipe-ingredient:aetius-16-131-3:ingredient:peperi-5",
@@ -1167,7 +1167,7 @@
         "entity_urn": "urn:aos:recipe-ingredient:aetius-16-131-3:ingredient:smyrna-troglitis-6",
         "surface_form": "σμύρνης τρωγλίτιδος γοα.",
         "normalized_label": "σμύρνα τρωγλῖτις",
-        "quantity_display": "γοα."
+        "quantity_display": ""
       },
       {
         "entity_urn": "urn:aos:recipe-ingredient:aetius-16-131-3:ingredient:myron-nardoy-7",

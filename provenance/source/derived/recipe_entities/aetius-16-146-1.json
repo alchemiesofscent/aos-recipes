@@ -316,7 +316,7 @@
           "raw_number": null,
           "normalized_number": 1.5,
           "raw_unit": null,
-          "normalized_unit": "litra",
+          "normalized_unit": "descriptor",
           "certainty": "uncertain",
           "notes": [
             "Anaphoric quantity copied from the preceding φύλλων entry."
@@ -351,7 +351,7 @@
           "raw_number": "γοιδ",
           "normalized_number": null,
           "raw_unit": null,
-          "normalized_unit": null,
+          "normalized_unit": "uncia",
           "certainty": "uncertain",
           "notes": [
             "Abbreviated quantity unresolved in transmission."
@@ -467,7 +467,7 @@
           "raw_number": "γοι.",
           "normalized_number": null,
           "raw_unit": null,
-          "normalized_unit": null,
+          "normalized_unit": "uncia",
           "certainty": "uncertain",
           "notes": [
             "Abbreviated quantity unresolved in transmission."
@@ -502,7 +502,7 @@
           "raw_number": "γοβ.",
           "normalized_number": null,
           "raw_unit": null,
-          "normalized_unit": null,
+          "normalized_unit": "uncia",
           "certainty": "uncertain",
           "notes": [
             "Abbreviated quantity unresolved in transmission."
@@ -537,7 +537,7 @@
           "raw_number": "γοβ.",
           "normalized_number": null,
           "raw_unit": null,
-          "normalized_unit": null,
+          "normalized_unit": "uncia",
           "certainty": "uncertain",
           "notes": [
             "Abbreviated quantity unresolved in transmission."
@@ -572,7 +572,7 @@
           "raw_number": "γογ.",
           "normalized_number": null,
           "raw_unit": null,
-          "normalized_unit": null,
+          "normalized_unit": "uncia",
           "certainty": "uncertain",
           "notes": [
             "Abbreviated quantity unresolved in transmission."
@@ -609,7 +609,7 @@
           "raw_number": "γοα.",
           "normalized_number": null,
           "raw_unit": null,
-          "normalized_unit": null,
+          "normalized_unit": "uncia",
           "certainty": "uncertain",
           "notes": [
             "Abbreviated quantity unresolved in transmission."
@@ -646,7 +646,7 @@
           "raw_number": null,
           "normalized_number": null,
           "raw_unit": null,
-          "normalized_unit": null,
+          "normalized_unit": "descriptor",
           "certainty": "uncertain",
           "notes": [
             "Anaphoric quantity identical to the preceding ναρδοστάχυος quantity, which itself is unresolved."
@@ -683,7 +683,7 @@
           "raw_number": "γογζʹ",
           "normalized_number": null,
           "raw_unit": null,
-          "normalized_unit": null,
+          "normalized_unit": "uncia",
           "certainty": "uncertain",
           "notes": [
             "Abbreviated quantity unresolved in transmission."
@@ -731,7 +731,7 @@
           "raw_number": "γοζʹ",
           "normalized_number": null,
           "raw_unit": null,
-          "normalized_unit": null,
+          "normalized_unit": "uncia",
           "certainty": "uncertain",
           "notes": [
             "Abbreviated quantity unresolved in transmission."
@@ -779,7 +779,7 @@
           "raw_number": "γοβ.",
           "normalized_number": null,
           "raw_unit": null,
-          "normalized_unit": null,
+          "normalized_unit": "uncia",
           "certainty": "uncertain",
           "notes": [
             "Abbreviated quantity unresolved in transmission."
@@ -817,7 +817,7 @@
           "raw_number": "γοβ.",
           "normalized_number": null,
           "raw_unit": null,
-          "normalized_unit": null,
+          "normalized_unit": "uncia",
           "certainty": "uncertain",
           "notes": [
             "Abbreviated quantity unresolved in transmission."
@@ -854,7 +854,7 @@
           "raw_number": "γοε.",
           "normalized_number": null,
           "raw_unit": null,
-          "normalized_unit": null,
+          "normalized_unit": "uncia",
           "certainty": "uncertain",
           "notes": [
             "Abbreviated quantity unresolved in transmission."

@@ -151,10 +151,9 @@
           "raw_number": "γ",
           "normalized_number": 3,
           "raw_unit": "γο",
-          "normalized_unit": null,
+          "normalized_unit": "uncia",
           "certainty": "uncertain",
           "notes": [
-            "The abbreviated unit γο is unresolved.",
             "This quantity is governed distributively by ἀνὰ."
           ]
         }
@@ -189,10 +188,9 @@
           "raw_number": "γ",
           "normalized_number": 3,
           "raw_unit": "γο",
-          "normalized_unit": null,
+          "normalized_unit": "uncia",
           "certainty": "uncertain",
           "notes": [
-            "The abbreviated unit γο is unresolved.",
             "This quantity is governed distributively by ἀνὰ."
           ]
         }
@@ -225,10 +223,9 @@
           "raw_number": "γ",
           "normalized_number": 3,
           "raw_unit": "γο",
-          "normalized_unit": null,
+          "normalized_unit": "uncia",
           "certainty": "uncertain",
           "notes": [
-            "The abbreviated unit γο is unresolved.",
             "This quantity is governed distributively by ἀνὰ."
           ]
         }
@@ -311,10 +308,9 @@
           "raw_number": "αζʹ",
           "normalized_number": 17,
           "raw_unit": "γο",
-          "normalized_unit": null,
+          "normalized_unit": "uncia",
           "certainty": "uncertain",
           "notes": [
-            "The abbreviated unit γο is unresolved.",
             "This quantity is governed distributively by ἀνὰ."
           ]
         }
@@ -347,10 +343,9 @@
           "raw_number": "αζʹ",
           "normalized_number": 17,
           "raw_unit": "γο",
-          "normalized_unit": null,
+          "normalized_unit": "uncia",
           "certainty": "uncertain",
           "notes": [
-            "The abbreviated unit γο is unresolved.",
             "This quantity is governed distributively by ἀνὰ."
           ]
         }
@@ -383,11 +378,9 @@
           "raw_number": "στ.",
           "normalized_number": 6,
           "raw_unit": "γο",
-          "normalized_unit": null,
+          "normalized_unit": "uncia",
           "certainty": "uncertain",
-          "notes": [
-            "The abbreviated unit γο is unresolved."
-          ]
+          "notes": []
         }
       ],
       "qualifiers": [],
@@ -418,10 +411,9 @@
           "raw_number": "κστ",
           "normalized_number": 26,
           "raw_unit": "γο",
-          "normalized_unit": null,
+          "normalized_unit": "uncia",
           "certainty": "uncertain",
           "notes": [
-            "The abbreviated unit γο is unresolved.",
             "The text presents this as an equivalent quantity expression with ἤτοι."
           ]
         },

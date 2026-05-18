@@ -185,7 +185,7 @@
           "raw_number": "στ",
           "normalized_number": 6,
           "raw_unit": "γο",
-          "normalized_unit": null,
+          "normalized_unit": "uncia",
           "certainty": "uncertain",
           "notes": [
             "Parsed from compressed quantity string; the unit abbreviated as γο is not resolved safely."
@@ -220,7 +220,7 @@
           "raw_number": "στ",
           "normalized_number": 6,
           "raw_unit": "γο",
-          "normalized_unit": null,
+          "normalized_unit": "uncia",
           "certainty": "uncertain",
           "notes": [
             "Parsed from compressed quantity string; the unit abbreviated as γο is not resolved safely."
@@ -255,7 +255,7 @@
           "raw_number": "β",
           "normalized_number": 2,
           "raw_unit": "γο",
-          "normalized_unit": null,
+          "normalized_unit": "uncia",
           "certainty": "uncertain",
           "notes": [
             "Parsed from compressed quantity string; the unit abbreviated as γο is not resolved safely."
@@ -290,7 +290,7 @@
           "raw_number": "β",
           "normalized_number": 2,
           "raw_unit": "γο",
-          "normalized_unit": null,
+          "normalized_unit": "uncia",
           "certainty": "uncertain",
           "notes": [
             "Parsed from compressed quantity string; the unit abbreviated as γο is not resolved safely."
@@ -327,7 +327,7 @@
           "raw_number": "βζʹ",
           "normalized_number": 9,
           "raw_unit": "γο",
-          "normalized_unit": null,
+          "normalized_unit": "uncia",
           "certainty": "uncertain",
           "notes": [
             "Parsed from compressed quantity string; the unit abbreviated as γο is not resolved safely."
@@ -362,7 +362,7 @@
           "raw_number": "δ",
           "normalized_number": 4,
           "raw_unit": "γο",
-          "normalized_unit": null,
+          "normalized_unit": "uncia",
           "certainty": "uncertain",
           "notes": [
             "Parsed from compressed quantity string; the unit abbreviated as γο is not resolved safely."
@@ -430,7 +430,7 @@
           "raw_number": "α",
           "normalized_number": 1,
           "raw_unit": "γο",
-          "normalized_unit": null,
+          "normalized_unit": "uncia",
           "certainty": "uncertain",
           "notes": [
             "Parsed from compressed quantity string; the unit abbreviated as γο is not resolved safely."

@@ -176,7 +176,7 @@
           "raw_number": "βζʹ",
           "normalized_number": 27,
           "raw_unit": "γο",
-          "normalized_unit": null,
+          "normalized_unit": "uncia",
           "certainty": "uncertain",
           "notes": [
             "Greek unit siglum γο is preserved without secure expansion."
@@ -211,7 +211,7 @@
           "raw_number": "βζʹ",
           "normalized_number": 27,
           "raw_unit": "γο",
-          "normalized_unit": null,
+          "normalized_unit": "uncia",
           "certainty": "uncertain",
           "notes": [
             "Greek unit siglum γο is preserved without secure expansion."
@@ -246,7 +246,7 @@
           "raw_number": "βζʹ",
           "normalized_number": 27,
           "raw_unit": "γο",
-          "normalized_unit": null,
+          "normalized_unit": "uncia",
           "certainty": "uncertain",
           "notes": [
             "Greek unit siglum γο is preserved without secure expansion."
@@ -281,7 +281,7 @@
           "raw_number": "βζʹ",
           "normalized_number": 27,
           "raw_unit": "γο",
-          "normalized_unit": null,
+          "normalized_unit": "uncia",
           "certainty": "uncertain",
           "notes": [
             "Greek unit siglum γο is preserved without secure expansion."
@@ -316,7 +316,7 @@
           "raw_number": "γ",
           "normalized_number": 3,
           "raw_unit": "γο",
-          "normalized_unit": null,
+          "normalized_unit": "uncia",
           "certainty": "uncertain",
           "notes": [
             "Greek unit siglum γο is preserved without secure expansion."
@@ -351,7 +351,7 @@
           "raw_number": "γ",
           "normalized_number": 3,
           "raw_unit": "γο",
-          "normalized_unit": null,
+          "normalized_unit": "uncia",
           "certainty": "uncertain",
           "notes": [
             "Greek unit siglum γο is preserved without secure expansion."
@@ -386,7 +386,7 @@
           "raw_number": "γ",
           "normalized_number": 3,
           "raw_unit": "γο",
-          "normalized_unit": null,
+          "normalized_unit": "uncia",
           "certainty": "uncertain",
           "notes": [
             "Greek unit siglum γο is preserved without secure expansion."
@@ -421,7 +421,7 @@
           "raw_number": "γ",
           "normalized_number": 3,
           "raw_unit": "γο",
-          "normalized_unit": null,
+          "normalized_unit": "uncia",
           "certainty": "uncertain",
           "notes": [
             "Greek unit siglum γο is preserved without secure expansion."
@@ -456,7 +456,7 @@
           "raw_number": "γ",
           "normalized_number": 3,
           "raw_unit": "γο",
-          "normalized_unit": null,
+          "normalized_unit": "uncia",
           "certainty": "uncertain",
           "notes": [
             "Greek unit siglum γο is preserved without secure expansion."
@@ -491,7 +491,7 @@
           "raw_number": "γ",
           "normalized_number": 3,
           "raw_unit": "γο",
-          "normalized_unit": null,
+          "normalized_unit": "uncia",
           "certainty": "uncertain",
           "notes": [
             "Greek unit siglum γο is preserved without secure expansion."
@@ -526,7 +526,7 @@
           "raw_number": "γ",
           "normalized_number": 3,
           "raw_unit": "γο",
-          "normalized_unit": null,
+          "normalized_unit": "uncia",
           "certainty": "uncertain",
           "notes": [
             "Greek unit siglum γο is preserved without secure expansion."
@@ -561,7 +561,7 @@
           "raw_number": "ε",
           "normalized_number": 5,
           "raw_unit": "γο",
-          "normalized_unit": null,
+          "normalized_unit": "uncia",
           "certainty": "uncertain",
           "notes": [
             "Greek unit siglum γο is preserved without secure expansion."
@@ -596,7 +596,7 @@
           "raw_number": "ε",
           "normalized_number": 5,
           "raw_unit": "γο",
-          "normalized_unit": null,
+          "normalized_unit": "uncia",
           "certainty": "uncertain",
           "notes": [
             "Greek unit siglum γο is preserved without secure expansion."
@@ -631,7 +631,7 @@
           "raw_number": "αζʹ",
           "normalized_number": 17,
           "raw_unit": "γο",
-          "normalized_unit": null,
+          "normalized_unit": "uncia",
           "certainty": "uncertain",
           "notes": [
             "Greek unit siglum γο is preserved without secure expansion."
@@ -666,7 +666,7 @@
           "raw_number": null,
           "normalized_number": null,
           "raw_unit": null,
-          "normalized_unit": null,
+          "normalized_unit": "descriptor",
           "certainty": "uncertain",
           "notes": [
             "Indicates the same quantity as the immediately preceding ingredient, likely κόστου γοαζʹ."
@@ -703,7 +703,7 @@
           "raw_number": "α",
           "normalized_number": 1,
           "raw_unit": "γο",
-          "normalized_unit": null,
+          "normalized_unit": "uncia",
           "certainty": "uncertain",
           "notes": [
             "Greek unit siglum γο is preserved without secure expansion."
@@ -740,7 +740,7 @@
           "raw_number": "γ",
           "normalized_number": 3,
           "raw_unit": "γο",
-          "normalized_unit": null,
+          "normalized_unit": "uncia",
           "certainty": "uncertain",
           "notes": [
             "Greek unit siglum γο is preserved without secure expansion."
@@ -946,7 +946,7 @@
           "raw_number": null,
           "normalized_number": "sufficient",
           "raw_unit": null,
-          "normalized_unit": null,
+          "normalized_unit": "descriptor",
           "certainty": "certain",
           "notes": []
         }
@@ -1192,85 +1192,85 @@
         "entity_urn": "urn:aos:recipe-ingredient:aetius-16-151:ingredient:phyllon-1",
         "surface_form": "Φύλλου",
         "normalized_label": "φύλλον",
-        "quantity_display": "γοβζʹ"
+        "quantity_display": "27 uncia"
       },
       {
         "entity_urn": "urn:aos:recipe-ingredient:aetius-16-151:ingredient:karyophyllon-2",
         "surface_form": "καρυοφύλλου",
         "normalized_label": "καρυόφυλλον",
-        "quantity_display": "γοβζʹ"
+        "quantity_display": "27 uncia"
       },
       {
         "entity_urn": "urn:aos:recipe-ingredient:aetius-16-151:ingredient:ypnos-3",
         "surface_form": "ὕπνου",
         "normalized_label": "ὕπνος",
-        "quantity_display": "γοβζʹ"
+        "quantity_display": "27 uncia"
       },
       {
         "entity_urn": "urn:aos:recipe-ingredient:aetius-16-151:ingredient:ladanon-liparon-4",
         "surface_form": "λαδάνου λιπαροῦ",
         "normalized_label": "λάδανον λιπαρόν",
-        "quantity_display": "γοβζʹ"
+        "quantity_display": "27 uncia"
       },
       {
         "entity_urn": "urn:aos:recipe-ingredient:aetius-16-151:ingredient:kalamos-indikos-5",
         "surface_form": "καλάμου ἰνδικοῦ",
         "normalized_label": "κάλαμος ἰνδικός",
-        "quantity_display": "γογ"
+        "quantity_display": "3 uncia"
       },
       {
         "entity_urn": "urn:aos:recipe-ingredient:aetius-16-151:ingredient:nardostachys-6",
         "surface_form": "ναρδοστάχυος",
         "normalized_label": "ναρδόσταχυς",
-        "quantity_display": "γογ"
+        "quantity_display": "3 uncia"
       },
       {
         "entity_urn": "urn:aos:recipe-ingredient:aetius-16-151:ingredient:onyx-megas-7",
         "surface_form": "ὀνύχων μεγάλων",
         "normalized_label": "ὄνυξ μέγας",
-        "quantity_display": "γογ"
+        "quantity_display": "3 uncia"
       },
       {
         "entity_urn": "urn:aos:recipe-ingredient:aetius-16-151:ingredient:bdellion-8",
         "surface_form": "βδελλίου",
         "normalized_label": "βδέλλιον",
-        "quantity_display": "γογ"
+        "quantity_display": "3 uncia"
       },
       {
         "entity_urn": "urn:aos:recipe-ingredient:aetius-16-151:ingredient:karpobalsamon-9",
         "surface_form": "καρποβαλσάμου",
         "normalized_label": "καρποβάλσαμον",
-        "quantity_display": "γογ"
+        "quantity_display": "3 uncia"
       },
       {
         "entity_urn": "urn:aos:recipe-ingredient:aetius-16-151:ingredient:krokos-10",
         "surface_form": "κρόκου",
         "normalized_label": "κρόκος",
-        "quantity_display": "γογ"
+        "quantity_display": "3 uncia"
       },
       {
         "entity_urn": "urn:aos:recipe-ingredient:aetius-16-151:ingredient:kasia-11",
         "surface_form": "κασίας",
         "normalized_label": "κασία",
-        "quantity_display": "γογ"
+        "quantity_display": "3 uncia"
       },
       {
         "entity_urn": "urn:aos:recipe-ingredient:aetius-16-151:ingredient:amomon-12",
         "surface_form": "ἀμώμου",
         "normalized_label": "ἄμωμον",
-        "quantity_display": "γοε"
+        "quantity_display": "5 uncia"
       },
       {
         "entity_urn": "urn:aos:recipe-ingredient:aetius-16-151:ingredient:mastiche-13",
         "surface_form": "μαστίχης",
         "normalized_label": "μαστίχη",
-        "quantity_display": "γοε"
+        "quantity_display": "5 uncia"
       },
       {
         "entity_urn": "urn:aos:recipe-ingredient:aetius-16-151:ingredient:kostos-14",
         "surface_form": "κόστου",
         "normalized_label": "κόστος",
-        "quantity_display": "γοαζʹ"
+        "quantity_display": "17 uncia"
       },
       {
         "entity_urn": "urn:aos:recipe-ingredient:aetius-16-151:ingredient:arnabo-15",
@@ -1282,13 +1282,13 @@
         "entity_urn": "urn:aos:recipe-ingredient:aetius-16-151:ingredient:saroya-16",
         "surface_form": "σαρούα",
         "normalized_label": "σαρούα",
-        "quantity_display": "γοα"
+        "quantity_display": "1 uncia"
       },
       {
         "entity_urn": "urn:aos:recipe-ingredient:aetius-16-151:ingredient:opobalsamon-17",
         "surface_form": "ὀποβαλσάμου",
         "normalized_label": "ὀποβάλσαμον",
-        "quantity_display": "γογ"
+        "quantity_display": "3 uncia"
       },
       {
         "entity_urn": "urn:aos:recipe-ingredient:aetius-16-151:ingredient:styrax-liparos-18",

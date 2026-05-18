@@ -148,7 +148,7 @@
           "raw_number": null,
           "normalized_number": null,
           "raw_unit": "γοι.",
-          "normalized_unit": null,
+          "normalized_unit": "uncia",
           "certainty": "uncertain",
           "notes": [
             "Abbreviated metrological expression not resolved safely."
@@ -183,7 +183,7 @@
           "raw_number": null,
           "normalized_number": null,
           "raw_unit": "γοα.",
-          "normalized_unit": null,
+          "normalized_unit": "uncia",
           "certainty": "uncertain",
           "notes": [
             "Distributive quantity under ἀνὰ; abbreviated metrological expression not resolved safely."
@@ -218,7 +218,7 @@
           "raw_number": null,
           "normalized_number": null,
           "raw_unit": "γοα.",
-          "normalized_unit": null,
+          "normalized_unit": "uncia",
           "certainty": "uncertain",
           "notes": [
             "Distributive quantity under ἀνὰ; abbreviated metrological expression not resolved safely."
@@ -253,7 +253,7 @@
           "raw_number": null,
           "normalized_number": null,
           "raw_unit": "γοα.",
-          "normalized_unit": null,
+          "normalized_unit": "uncia",
           "certainty": "uncertain",
           "notes": [
             "Distributive quantity under ἀνὰ; abbreviated metrological expression not resolved safely."
@@ -288,7 +288,7 @@
           "raw_number": null,
           "normalized_number": null,
           "raw_unit": "γοα.",
-          "normalized_unit": null,
+          "normalized_unit": "uncia",
           "certainty": "uncertain",
           "notes": [
             "Distributive quantity under ἀνὰ; abbreviated metrological expression not resolved safely."
@@ -323,7 +323,7 @@
           "raw_number": null,
           "normalized_number": null,
           "raw_unit": "γοα.",
-          "normalized_unit": null,
+          "normalized_unit": "uncia",
           "certainty": "uncertain",
           "notes": [
             "Distributive quantity under ἀνὰ; abbreviated metrological expression not resolved safely."
@@ -604,37 +604,37 @@
         "entity_urn": "urn:aos:recipe-ingredient:aetius-16-144-1:ingredient:styrax-liparos-1",
         "surface_form": "Στύρακος λιπαροῦ",
         "normalized_label": "στύραξ λιπαρός",
-        "quantity_display": "γοι."
+        "quantity_display": ""
       },
       {
         "entity_urn": "urn:aos:recipe-ingredient:aetius-16-144-1:ingredient:karyophyllon-2",
         "surface_form": "καρυοφύλλου",
         "normalized_label": "καρυόφυλλον",
-        "quantity_display": "γοα."
+        "quantity_display": ""
       },
       {
         "entity_urn": "urn:aos:recipe-ingredient:aetius-16-144-1:ingredient:krokos-3",
         "surface_form": "κρόκου",
         "normalized_label": "κρόκος",
-        "quantity_display": "γοα."
+        "quantity_display": ""
       },
       {
         "entity_urn": "urn:aos:recipe-ingredient:aetius-16-144-1:ingredient:roda-xera-4",
         "surface_form": "ῥόδων ξηρῶν",
         "normalized_label": "ῥόδα ξηρά",
-        "quantity_display": "γοα."
+        "quantity_display": ""
       },
       {
         "entity_urn": "urn:aos:recipe-ingredient:aetius-16-144-1:ingredient:phyllon-5",
         "surface_form": "φύλλου",
         "normalized_label": "φύλλον",
-        "quantity_display": "γοα."
+        "quantity_display": ""
       },
       {
         "entity_urn": "urn:aos:recipe-ingredient:aetius-16-144-1:ingredient:mastiche-6",
         "surface_form": "μαστίχης",
         "normalized_label": "μαστίχη",
-        "quantity_display": "γοα."
+        "quantity_display": ""
       },
       {
         "entity_urn": "urn:aos:recipe-ingredient:aetius-16-144-1:ingredient:moschos-7",

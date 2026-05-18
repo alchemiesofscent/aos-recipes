@@ -250,7 +250,7 @@
           "raw_number": "στ",
           "normalized_number": 6,
           "raw_unit": "γο",
-          "normalized_unit": null,
+          "normalized_unit": "uncia",
           "certainty": "uncertain",
           "notes": [
             "Greek numeral parsed as 6; unit abbreviation unresolved."
@@ -285,7 +285,7 @@
           "raw_number": "στ",
           "normalized_number": 6,
           "raw_unit": "γο",
-          "normalized_unit": null,
+          "normalized_unit": "uncia",
           "certainty": "uncertain",
           "notes": [
             "Greek numeral parsed as 6; unit abbreviation unresolved."
@@ -320,7 +320,7 @@
           "raw_number": "στ",
           "normalized_number": 6,
           "raw_unit": "γο",
-          "normalized_unit": null,
+          "normalized_unit": "uncia",
           "certainty": "uncertain",
           "notes": [
             "Greek numeral parsed as 6; unit abbreviation unresolved."
@@ -355,7 +355,7 @@
           "raw_number": "γ",
           "normalized_number": 3,
           "raw_unit": "γο",
-          "normalized_unit": null,
+          "normalized_unit": "uncia",
           "certainty": "uncertain",
           "notes": [
             "Greek numeral parsed as 3; unit abbreviation unresolved."
@@ -390,7 +390,7 @@
           "raw_number": "γ",
           "normalized_number": 3,
           "raw_unit": "γο",
-          "normalized_unit": null,
+          "normalized_unit": "uncia",
           "certainty": "uncertain",
           "notes": [
             "Greek numeral parsed as 3; unit abbreviation unresolved."
@@ -425,7 +425,7 @@
           "raw_number": "β",
           "normalized_number": 2,
           "raw_unit": "γο",
-          "normalized_unit": null,
+          "normalized_unit": "uncia",
           "certainty": "uncertain",
           "notes": [
             "Greek numeral parsed as 2; unit abbreviation unresolved."
@@ -460,7 +460,7 @@
           "raw_number": "β",
           "normalized_number": 2,
           "raw_unit": "γο",
-          "normalized_unit": null,
+          "normalized_unit": "uncia",
           "certainty": "uncertain",
           "notes": [
             "Greek numeral parsed as 2; unit abbreviation unresolved."

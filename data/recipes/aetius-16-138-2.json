@@ -150,7 +150,7 @@
           "raw_number": null,
           "normalized_number": null,
           "raw_unit": null,
-          "normalized_unit": null,
+          "normalized_unit": "uncia",
           "certainty": "uncertain",
           "notes": [
             "Unresolved abbreviated quantity expression shared by the alternative citron ingredient."
@@ -188,7 +188,7 @@
           "raw_number": null,
           "normalized_number": null,
           "raw_unit": null,
-          "normalized_unit": null,
+          "normalized_unit": "uncia",
           "certainty": "uncertain",
           "notes": [
             "Unresolved abbreviated quantity expression shared by the alternative citron ingredient."
@@ -516,13 +516,13 @@
         "entity_urn": "urn:aos:recipe-ingredient:aetius-16-138-2:ingredient:kalos-phloios-kitrioy-1",
         "surface_form": "Κιτρίου καλοῦ τοῦ φλοιοῦ",
         "normalized_label": "καλὸς φλοιὸς κιτρίου",
-        "quantity_display": "γοη."
+        "quantity_display": ""
       },
       {
         "entity_urn": "urn:aos:recipe-ingredient:aetius-16-138-2:ingredient:kala-phylla-kitrioy-2",
         "surface_form": "τῶν φύλλων",
         "normalized_label": "καλὰ φύλλα κιτρίου",
-        "quantity_display": "γοη."
+        "quantity_display": ""
       },
       {
         "entity_urn": "urn:aos:recipe-ingredient:aetius-16-138-2:ingredient:oinos-3",

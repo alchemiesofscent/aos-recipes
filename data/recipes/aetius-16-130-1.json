@@ -1275,7 +1275,7 @@
         "entity_urn": "urn:aos:recipe-ingredient:aetius-16-130-1:ingredient:amomon-3",
         "surface_form": "ἀμώμου",
         "normalized_label": "ἄμωμον",
-        "quantity_display": "γοστ · οὐγ. στ."
+        "quantity_display": "6 uncia · 6 uncia"
       },
       {
         "entity_urn": "urn:aos:recipe-ingredient:aetius-16-130-1:ingredient:aspalathos-4",
@@ -1317,49 +1317,49 @@
         "entity_urn": "urn:aos:recipe-ingredient:aetius-16-130-1:ingredient:xylokasia-10",
         "surface_form": "ξυλοκασίας",
         "normalized_label": "ξυλοκασία",
-        "quantity_display": "γοε."
+        "quantity_display": "5 uncia"
       },
       {
         "entity_urn": "urn:aos:recipe-ingredient:aetius-16-130-1:ingredient:kasia-11",
         "surface_form": "Κασίας",
         "normalized_label": "κασία",
-        "quantity_display": "γοδ."
+        "quantity_display": "4 uncia"
       },
       {
         "entity_urn": "urn:aos:recipe-ingredient:aetius-16-130-1:ingredient:kostos-12",
         "surface_form": "κόστου",
         "normalized_label": "κόστος",
-        "quantity_display": "γοα."
+        "quantity_display": "1 uncia"
       },
       {
         "entity_urn": "urn:aos:recipe-ingredient:aetius-16-130-1:ingredient:styrax-liparos-13",
         "surface_form": "στύρακος λιπαροῦ",
         "normalized_label": "στύραξ λιπαρός",
-        "quantity_display": "γοα."
+        "quantity_display": "1 uncia"
       },
       {
         "entity_urn": "urn:aos:recipe-ingredient:aetius-16-130-1:ingredient:krokos-14",
         "surface_form": "κρόκου",
         "normalized_label": "κρόκος",
-        "quantity_display": "γοα."
+        "quantity_display": "1 uncia"
       },
       {
         "entity_urn": "urn:aos:recipe-ingredient:aetius-16-130-1:ingredient:smyrna-15",
         "surface_form": "σμύρνης",
         "normalized_label": "σμύρνα",
-        "quantity_display": "γογ."
+        "quantity_display": "3 uncia"
       },
       {
         "entity_urn": "urn:aos:recipe-ingredient:aetius-16-130-1:ingredient:arnabo-16",
         "surface_form": "ἀρναβῶ",
         "normalized_label": "ἀρναβώ",
-        "quantity_display": "γογ."
+        "quantity_display": "3 uncia"
       },
       {
         "entity_urn": "urn:aos:recipe-ingredient:aetius-16-130-1:ingredient:nardostachys-17",
         "surface_form": "ναρδοστάχυος",
         "normalized_label": "ναρδόσταχυς",
-        "quantity_display": "γοδ."
+        "quantity_display": "4 uncia"
       }
     ],
     "processes": [

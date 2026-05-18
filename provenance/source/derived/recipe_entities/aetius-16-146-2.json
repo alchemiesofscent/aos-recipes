@@ -547,7 +547,7 @@
           "raw_number": null,
           "normalized_number": null,
           "raw_unit": "γοη.",
-          "normalized_unit": null,
+          "normalized_unit": "uncia",
           "certainty": "uncertain",
           "notes": [
             "Abbreviated measure left unresolved."
@@ -582,7 +582,7 @@
           "raw_number": null,
           "normalized_number": null,
           "raw_unit": "γοστ.",
-          "normalized_unit": null,
+          "normalized_unit": "uncia",
           "certainty": "uncertain",
           "notes": [
             "Abbreviated measure left unresolved."
@@ -617,7 +617,7 @@
           "raw_number": null,
           "normalized_number": null,
           "raw_unit": "γοστ.",
-          "normalized_unit": null,
+          "normalized_unit": "uncia",
           "certainty": "uncertain",
           "notes": [
             "Abbreviated measure left unresolved."
@@ -757,7 +757,7 @@
           "raw_number": null,
           "normalized_number": null,
           "raw_unit": "γοδ.",
-          "normalized_unit": null,
+          "normalized_unit": "uncia",
           "certainty": "uncertain",
           "notes": [
             "Shared distributive measure under ἀνὰ.",
@@ -795,7 +795,7 @@
           "raw_number": null,
           "normalized_number": null,
           "raw_unit": "γοδ.",
-          "normalized_unit": null,
+          "normalized_unit": "uncia",
           "certainty": "uncertain",
           "notes": [
             "Shared distributive measure under ἀνὰ.",

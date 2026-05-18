@@ -179,7 +179,7 @@
           "raw_number": null,
           "normalized_number": "small",
           "raw_unit": null,
-          "normalized_unit": null,
+          "normalized_unit": "descriptor",
           "certainty": "certain",
           "notes": [
             "Qualitative amount."
@@ -388,7 +388,7 @@
         "entity_urn": "urn:aos:recipe-ingredient:dioscorides-1-60-stakte:ingredient:ydor-2",
         "surface_form": "ὕδατος ὀλίγου",
         "normalized_label": "ὕδωρ",
-        "quantity_display": "ὀλίγου"
+        "quantity_display": "small descriptor"
       }
     ],
     "processes": [

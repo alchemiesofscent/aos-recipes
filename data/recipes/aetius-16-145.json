@@ -166,7 +166,7 @@
           "raw_number": "β",
           "normalized_number": 2,
           "raw_unit": "γο",
-          "normalized_unit": null,
+          "normalized_unit": "uncia",
           "certainty": "uncertain",
           "notes": [
             "Split between unit abbreviation and numeral is inferred from the compressed form; the unit abbreviation is unresolved from the inline evidence."
@@ -201,7 +201,7 @@
           "raw_number": "β",
           "normalized_number": 2,
           "raw_unit": "γο",
-          "normalized_unit": null,
+          "normalized_unit": "uncia",
           "certainty": "uncertain",
           "notes": [
             "Split between unit abbreviation and numeral is inferred from the compressed form; the unit abbreviation is unresolved from the inline evidence."
@@ -244,7 +244,7 @@
           "raw_number": "β",
           "normalized_number": 2,
           "raw_unit": "γο",
-          "normalized_unit": null,
+          "normalized_unit": "uncia",
           "certainty": "uncertain",
           "notes": [
             "Split between unit abbreviation and numeral is inferred from the compressed form; the unit abbreviation is unresolved from the inline evidence."
@@ -279,7 +279,7 @@
           "raw_number": "β",
           "normalized_number": 2,
           "raw_unit": "γο",
-          "normalized_unit": null,
+          "normalized_unit": "uncia",
           "certainty": "uncertain",
           "notes": [
             "Split between unit abbreviation and numeral is inferred from the compressed form; the unit abbreviation is unresolved from the inline evidence."
@@ -314,7 +314,7 @@
           "raw_number": "αζʹ",
           "normalized_number": 8,
           "raw_unit": "γο",
-          "normalized_unit": null,
+          "normalized_unit": "uncia",
           "certainty": "uncertain",
           "notes": [
             "Split between unit abbreviation and numeral is inferred from the compressed form; the unit abbreviation is unresolved from the inline evidence."
@@ -349,7 +349,7 @@
           "raw_number": "αζʹ",
           "normalized_number": 8,
           "raw_unit": "γο",
-          "normalized_unit": null,
+          "normalized_unit": "uncia",
           "certainty": "uncertain",
           "notes": [
             "Split between unit abbreviation and numeral is inferred from the compressed form; the unit abbreviation is unresolved from the inline evidence."
@@ -384,7 +384,7 @@
           "raw_number": "αζʹ",
           "normalized_number": 8,
           "raw_unit": "γο",
-          "normalized_unit": null,
+          "normalized_unit": "uncia",
           "certainty": "uncertain",
           "notes": [
             "Split between unit abbreviation and numeral is inferred from the compressed form; the unit abbreviation is unresolved from the inline evidence."
@@ -419,7 +419,7 @@
           "raw_number": "α",
           "normalized_number": 1,
           "raw_unit": "γο",
-          "normalized_unit": null,
+          "normalized_unit": "uncia",
           "certainty": "uncertain",
           "notes": [
             "Split between unit abbreviation and numeral is inferred from the compressed form; the unit abbreviation is unresolved from the inline evidence."
@@ -454,7 +454,7 @@
           "raw_number": "α",
           "normalized_number": 1,
           "raw_unit": "γο",
-          "normalized_unit": null,
+          "normalized_unit": "uncia",
           "certainty": "uncertain",
           "notes": [
             "Split between unit abbreviation and numeral is inferred from the compressed form; the unit abbreviation is unresolved from the inline evidence."
@@ -489,7 +489,7 @@
           "raw_number": "ι",
           "normalized_number": 10,
           "raw_unit": "γο",
-          "normalized_unit": null,
+          "normalized_unit": "uncia",
           "certainty": "uncertain",
           "notes": [
             "Split between unit abbreviation and numeral is inferred from the compressed form; the unit abbreviation is unresolved from the inline evidence."
@@ -524,7 +524,7 @@
           "raw_number": null,
           "normalized_number": null,
           "raw_unit": null,
-          "normalized_unit": null,
+          "normalized_unit": "descriptor",
           "certainty": "certain",
           "notes": [
             "Shared sufficiency expression across the coordinated pair οἴνου εὐώδους παλαιοῦ καὶ μέλιτος."
@@ -574,7 +574,7 @@
           "raw_number": null,
           "normalized_number": null,
           "raw_unit": null,
-          "normalized_unit": null,
+          "normalized_unit": "descriptor",
           "certainty": "certain",
           "notes": [
             "Shared sufficiency expression across the coordinated pair οἴνου εὐώδους παλαιοῦ καὶ μέλιτος."
@@ -704,61 +704,61 @@
         "entity_urn": "urn:aos:recipe-ingredient:aetius-16-145:ingredient:phyllon-1",
         "surface_form": "Φύλλου",
         "normalized_label": "φύλλον",
-        "quantity_display": "γοβ."
+        "quantity_display": "2 uncia"
       },
       {
         "entity_urn": "urn:aos:recipe-ingredient:aetius-16-145:ingredient:roda-xera-2",
         "surface_form": "ῥόδων ξηρῶν",
         "normalized_label": "ῥόδα ξηρά",
-        "quantity_display": "γοβ."
+        "quantity_display": "2 uncia"
       },
       {
         "entity_urn": "urn:aos:recipe-ingredient:aetius-16-145:ingredient:kostos-3",
         "surface_form": "κόστου",
         "normalized_label": "κόστος",
-        "quantity_display": "γοβ."
+        "quantity_display": "2 uncia"
       },
       {
         "entity_urn": "urn:aos:recipe-ingredient:aetius-16-145:ingredient:mastiche-4",
         "surface_form": "μαστίχης",
         "normalized_label": "μαστίχη",
-        "quantity_display": "γοβ."
+        "quantity_display": "2 uncia"
       },
       {
         "entity_urn": "urn:aos:recipe-ingredient:aetius-16-145:ingredient:nardostachys-5",
         "surface_form": "ναρδοστάχυος",
         "normalized_label": "ναρδοστάχυς",
-        "quantity_display": "γοαζʹ."
+        "quantity_display": "8 uncia"
       },
       {
         "entity_urn": "urn:aos:recipe-ingredient:aetius-16-145:ingredient:amomon-6",
         "surface_form": "ἀμώμου",
         "normalized_label": "ἄμωμον",
-        "quantity_display": "γοαζʹ."
+        "quantity_display": "8 uncia"
       },
       {
         "entity_urn": "urn:aos:recipe-ingredient:aetius-16-145:ingredient:opobalsamon-7",
         "surface_form": "ὀποβαλσάμου",
         "normalized_label": "ὀποβάλσαμον",
-        "quantity_display": "γοαζʹ."
+        "quantity_display": "8 uncia"
       },
       {
         "entity_urn": "urn:aos:recipe-ingredient:aetius-16-145:ingredient:krokos-8",
         "surface_form": "κρόκου",
         "normalized_label": "κρόκος",
-        "quantity_display": "γοα."
+        "quantity_display": "1 uncia"
       },
       {
         "entity_urn": "urn:aos:recipe-ingredient:aetius-16-145:ingredient:smyrna-9",
         "surface_form": "σμύρνης",
         "normalized_label": "σμύρνα",
-        "quantity_display": "γοα."
+        "quantity_display": "1 uncia"
       },
       {
         "entity_urn": "urn:aos:recipe-ingredient:aetius-16-145:ingredient:styrax-10",
         "surface_form": "στύρακος",
         "normalized_label": "στύραξ",
-        "quantity_display": "γοι."
+        "quantity_display": "10 uncia"
       },
       {
         "entity_urn": "urn:aos:recipe-ingredient:aetius-16-145:ingredient:oinos-eyodes-palaios-11",

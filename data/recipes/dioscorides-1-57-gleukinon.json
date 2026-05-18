@@ -441,17 +441,7 @@
       "normalized_label": "κινεῖσθαι",
       "target_type": "recipe",
       "target_ids": [],
-      "quantities": [
-        {
-          "source_span": "ἡμέρας τριάκοντα",
-          "raw_number": "τριάκοντα",
-          "normalized_number": 30,
-          "raw_unit": "ἡμέρας",
-          "normalized_unit": null,
-          "certainty": "certain",
-          "notes": []
-        }
-      ],
+      "quantities": [],
       "qualifiers": [
         {
           "qualifier_type": "duration",
@@ -478,7 +468,18 @@
           "start": "53.1",
           "end": "53.5"
         }
-      }
+      },
+      "durations": [
+        {
+          "source_span": "ἡμέρας τριάκοντα",
+          "raw_number": "τριάκοντα",
+          "normalized_number": 30,
+          "raw_unit": "ἡμέρας",
+          "normalized_unit": "day",
+          "certainty": "certain",
+          "notes": []
+        }
+      ]
     },
     {
       "process_id": "dioscorides-1-57-gleukinon:process:ekpiezesthai-4",

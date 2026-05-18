@@ -183,7 +183,7 @@
           "raw_number": null,
           "normalized_number": null,
           "raw_unit": "γοβ.",
-          "normalized_unit": null,
+          "normalized_unit": "uncia",
           "certainty": "uncertain",
           "notes": [
             "Distributive ἀνὰ implies the same measure for each coordinated ingredient, but no numeral is explicit here.",
@@ -219,7 +219,7 @@
           "raw_number": null,
           "normalized_number": null,
           "raw_unit": "γοβ.",
-          "normalized_unit": null,
+          "normalized_unit": "uncia",
           "certainty": "uncertain",
           "notes": [
             "Distributive ἀνὰ implies the same measure for each coordinated ingredient, but no numeral is explicit here.",
@@ -255,7 +255,7 @@
           "raw_number": null,
           "normalized_number": null,
           "raw_unit": "γοβ.",
-          "normalized_unit": null,
+          "normalized_unit": "uncia",
           "certainty": "uncertain",
           "notes": [
             "Distributive ἀνὰ implies the same measure for each coordinated ingredient, but no numeral is explicit here.",
@@ -291,7 +291,7 @@
           "raw_number": null,
           "normalized_number": null,
           "raw_unit": "γοβ.",
-          "normalized_unit": null,
+          "normalized_unit": "uncia",
           "certainty": "uncertain",
           "notes": [
             "Distributive ἀνὰ implies the same measure for each coordinated ingredient, but no numeral is explicit here.",
@@ -327,7 +327,7 @@
           "raw_number": null,
           "normalized_number": null,
           "raw_unit": "γοβ.",
-          "normalized_unit": null,
+          "normalized_unit": "uncia",
           "certainty": "uncertain",
           "notes": [
             "Distributive ἀνὰ implies the same measure for each coordinated ingredient, but no numeral is explicit here.",
@@ -363,7 +363,7 @@
           "raw_number": null,
           "normalized_number": null,
           "raw_unit": "γοβ.",
-          "normalized_unit": null,
+          "normalized_unit": "uncia",
           "certainty": "uncertain",
           "notes": [
             "Distributive ἀνὰ implies the same measure for each coordinated ingredient, but no numeral is explicit here.",
@@ -399,7 +399,7 @@
           "raw_number": null,
           "normalized_number": null,
           "raw_unit": "γοβ.",
-          "normalized_unit": null,
+          "normalized_unit": "uncia",
           "certainty": "uncertain",
           "notes": [
             "Distributive ἀνὰ implies the same measure for each coordinated ingredient, but no numeral is explicit here.",
@@ -537,43 +537,43 @@
         "entity_urn": "urn:aos:recipe-ingredient:aetius-16-127-1:ingredient:kostos-2",
         "surface_form": "κόστου",
         "normalized_label": "κόστος",
-        "quantity_display": "γοβ."
+        "quantity_display": ""
       },
       {
         "entity_urn": "urn:aos:recipe-ingredient:aetius-16-127-1:ingredient:phyllon-3",
         "surface_form": "φύλλου",
         "normalized_label": "φύλλον",
-        "quantity_display": "γοβ."
+        "quantity_display": ""
       },
       {
         "entity_urn": "urn:aos:recipe-ingredient:aetius-16-127-1:ingredient:karyophyllon-4",
         "surface_form": "καρυοφύλλων",
         "normalized_label": "καρυόφυλλον",
-        "quantity_display": "γοβ."
+        "quantity_display": ""
       },
       {
         "entity_urn": "urn:aos:recipe-ingredient:aetius-16-127-1:ingredient:ypnos-5",
         "surface_form": "ὕπνου",
         "normalized_label": "ὕπνος",
-        "quantity_display": "γοβ."
+        "quantity_display": ""
       },
       {
         "entity_urn": "urn:aos:recipe-ingredient:aetius-16-127-1:ingredient:kalamos-aromatikos-6",
         "surface_form": "καλάμου ἀρωματικοῦ",
         "normalized_label": "κάλαμος ἀρωματικός",
-        "quantity_display": "γοβ."
+        "quantity_display": ""
       },
       {
         "entity_urn": "urn:aos:recipe-ingredient:aetius-16-127-1:ingredient:onyx-7",
         "surface_form": "ὀνύχων",
         "normalized_label": "ὄνυξ",
-        "quantity_display": "γοβ."
+        "quantity_display": ""
       },
       {
         "entity_urn": "urn:aos:recipe-ingredient:aetius-16-127-1:ingredient:styrax-8",
         "surface_form": "στύρακος",
         "normalized_label": "στύραξ",
-        "quantity_display": "γοβ."
+        "quantity_display": ""
       }
     ],
     "processes": [],

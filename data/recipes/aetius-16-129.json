@@ -155,7 +155,7 @@
           "raw_number": "α",
           "normalized_number": 1,
           "raw_unit": "γο",
-          "normalized_unit": null,
+          "normalized_unit": "uncia",
           "certainty": "uncertain",
           "notes": [
             "Unit abbreviation γο left unresolved."
@@ -199,7 +199,7 @@
           "raw_number": "α",
           "normalized_number": 1,
           "raw_unit": "γο",
-          "normalized_unit": null,
+          "normalized_unit": "uncia",
           "certainty": "uncertain",
           "notes": [
             "Unit abbreviation γο left unresolved."
@@ -243,7 +243,7 @@
           "raw_number": "α",
           "normalized_number": 1,
           "raw_unit": "γο",
-          "normalized_unit": null,
+          "normalized_unit": "uncia",
           "certainty": "uncertain",
           "notes": [
             "Unit abbreviation γο left unresolved."
@@ -287,7 +287,7 @@
           "raw_number": "α",
           "normalized_number": 1,
           "raw_unit": "γο",
-          "normalized_unit": null,
+          "normalized_unit": "uncia",
           "certainty": "uncertain",
           "notes": [
             "Unit abbreviation γο left unresolved."
@@ -331,7 +331,7 @@
           "raw_number": "β",
           "normalized_number": 2,
           "raw_unit": "γο",
-          "normalized_unit": null,
+          "normalized_unit": "uncia",
           "certainty": "uncertain",
           "notes": [
             "Unit abbreviation γο left unresolved."
@@ -366,7 +366,7 @@
           "raw_number": "β",
           "normalized_number": 2,
           "raw_unit": "γο",
-          "normalized_unit": null,
+          "normalized_unit": "uncia",
           "certainty": "uncertain",
           "notes": [
             "Unit abbreviation γο left unresolved."
@@ -467,7 +467,7 @@
           "raw_number": "δ",
           "normalized_number": 4,
           "raw_unit": "γο",
-          "normalized_unit": null,
+          "normalized_unit": "uncia",
           "certainty": "uncertain",
           "notes": [
             "Unit abbreviation γο left unresolved."
@@ -625,37 +625,37 @@
         "entity_urn": "urn:aos:recipe-ingredient:aetius-16-129:ingredient:phyllon-1",
         "surface_form": "Φύλλου",
         "normalized_label": "φύλλον",
-        "quantity_display": "γοα · γράμματα ιβ"
+        "quantity_display": "1 uncia · 12 gramma"
       },
       {
         "entity_urn": "urn:aos:recipe-ingredient:aetius-16-129:ingredient:chylos-nardostachyos-2",
         "surface_form": "ναρδοστάχυος χυλοῦ",
         "normalized_label": "χυλὸς ναρδοστάχυος",
-        "quantity_display": "γοα · γράμματα ιβ"
+        "quantity_display": "1 uncia · 12 gramma"
       },
       {
         "entity_urn": "urn:aos:recipe-ingredient:aetius-16-129:ingredient:mastiche-3",
         "surface_form": "μαστίχης",
         "normalized_label": "μαστίχη",
-        "quantity_display": "γοα · γράμματα ιβ"
+        "quantity_display": "1 uncia · 12 gramma"
       },
       {
         "entity_urn": "urn:aos:recipe-ingredient:aetius-16-129:ingredient:karyophyllon-4",
         "surface_form": "καρυοφύλλου",
         "normalized_label": "καρυόφυλλον",
-        "quantity_display": "γοα · γράμματα ιβ"
+        "quantity_display": "1 uncia · 12 gramma"
       },
       {
         "entity_urn": "urn:aos:recipe-ingredient:aetius-16-129:ingredient:styrax-liparos-5",
         "surface_form": "στύρακος λιπαροῦ",
         "normalized_label": "στύραξ λιπαρός",
-        "quantity_display": "γοβ"
+        "quantity_display": "2 uncia"
       },
       {
         "entity_urn": "urn:aos:recipe-ingredient:aetius-16-129:ingredient:opobalsamon-6",
         "surface_form": "ὀποβαλσάμου",
         "normalized_label": "ὀποβάλσαμον",
-        "quantity_display": "γοβ"
+        "quantity_display": "2 uncia"
       },
       {
         "entity_urn": "urn:aos:recipe-ingredient:aetius-16-129:ingredient:krokos-7",
@@ -673,7 +673,7 @@
         "entity_urn": "urn:aos:recipe-ingredient:aetius-16-129:ingredient:elaion-salka-proteion-9",
         "surface_form": "ἐλαίου σαλκᾶ πρωτείου",
         "normalized_label": "ἔλαιον σαλκᾶ πρωτεῖον",
-        "quantity_display": "γοδ"
+        "quantity_display": "4 uncia"
       }
     ],
     "processes": [],

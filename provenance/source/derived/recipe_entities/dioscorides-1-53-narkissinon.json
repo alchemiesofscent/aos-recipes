@@ -822,17 +822,7 @@
       "normalized_label": "κινεῖν",
       "target_type": "recipe",
       "target_ids": [],
-      "quantities": [
-        {
-          "source_span": "ἐπὶ ἡμέρας δύο",
-          "raw_number": "δύο",
-          "normalized_number": 2,
-          "raw_unit": "ἡμέρας",
-          "normalized_unit": null,
-          "certainty": "certain",
-          "notes": []
-        }
-      ],
+      "quantities": [],
       "qualifiers": [
         {
           "qualifier_type": "manner",
@@ -852,7 +842,18 @@
           "start": "49.10",
           "end": "49.25"
         }
-      }
+      },
+      "durations": [
+        {
+          "source_span": "ἐπὶ ἡμέρας δύο",
+          "raw_number": "δύο",
+          "normalized_number": 2,
+          "raw_unit": "ἡμέρας",
+          "normalized_unit": "day",
+          "certainty": "certain",
+          "notes": []
+        }
+      ]
     },
     {
       "process_id": "dioscorides-1-53-narkissinon:process:exipein-18",

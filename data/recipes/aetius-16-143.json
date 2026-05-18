@@ -198,7 +198,7 @@
           "raw_number": "στ",
           "normalized_number": 6,
           "raw_unit": "γο",
-          "normalized_unit": null,
+          "normalized_unit": "uncia",
           "certainty": "uncertain",
           "notes": [
             "unit abbreviation unresolved safely"
@@ -235,7 +235,7 @@
           "raw_number": "α",
           "normalized_number": 1,
           "raw_unit": "γο",
-          "normalized_unit": null,
+          "normalized_unit": "uncia",
           "certainty": "uncertain",
           "notes": [
             "unit abbreviation unresolved safely"
@@ -342,7 +342,7 @@
           "raw_number": "δ",
           "normalized_number": 4,
           "raw_unit": "γο",
-          "normalized_unit": null,
+          "normalized_unit": "uncia",
           "certainty": "uncertain",
           "notes": [
             "unit abbreviation unresolved safely"
@@ -379,7 +379,7 @@
           "raw_number": "α",
           "normalized_number": 1,
           "raw_unit": "γο",
-          "normalized_unit": null,
+          "normalized_unit": "uncia",
           "certainty": "uncertain",
           "notes": [
             "unit abbreviation unresolved safely"
@@ -453,7 +453,7 @@
           "raw_number": null,
           "normalized_number": null,
           "raw_unit": null,
-          "normalized_unit": null,
+          "normalized_unit": "descriptor",
           "certainty": "uncertain",
           "notes": [
             "sufficient amount"
@@ -669,13 +669,13 @@
         "entity_urn": "urn:aos:recipe-ingredient:aetius-16-143:ingredient:aloe-2",
         "surface_form": "ἀλόης",
         "normalized_label": "ἀλόη",
-        "quantity_display": "γοστ."
+        "quantity_display": "6 uncia"
       },
       {
         "entity_urn": "urn:aos:recipe-ingredient:aetius-16-143:ingredient:ambaros-3",
         "surface_form": "ἄμβαρος",
         "normalized_label": "ἄμβαρος",
-        "quantity_display": "γοα."
+        "quantity_display": "1 uncia"
       },
       {
         "entity_urn": "urn:aos:recipe-ingredient:aetius-16-143:ingredient:moschos-4",
@@ -693,13 +693,13 @@
         "entity_urn": "urn:aos:recipe-ingredient:aetius-16-143:ingredient:aloe-6",
         "surface_form": "ἀλόης",
         "normalized_label": "ἀλόη",
-        "quantity_display": "γοδ."
+        "quantity_display": "4 uncia"
       },
       {
         "entity_urn": "urn:aos:recipe-ingredient:aetius-16-143:ingredient:ambaros-7",
         "surface_form": "ἄμβαρος",
         "normalized_label": "ἄμβαρος",
-        "quantity_display": "γοα."
+        "quantity_display": "1 uncia"
       },
       {
         "entity_urn": "urn:aos:recipe-ingredient:aetius-16-143:ingredient:moschos-8",

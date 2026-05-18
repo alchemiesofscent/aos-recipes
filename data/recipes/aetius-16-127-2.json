@@ -148,7 +148,7 @@
           "raw_number": null,
           "normalized_number": null,
           "raw_unit": "γοα.",
-          "normalized_unit": null,
+          "normalized_unit": "uncia",
           "certainty": "uncertain",
           "notes": [
             "Unresolved abbreviated measure."
@@ -183,7 +183,7 @@
           "raw_number": null,
           "normalized_number": null,
           "raw_unit": "γοα.",
-          "normalized_unit": null,
+          "normalized_unit": "uncia",
           "certainty": "uncertain",
           "notes": [
             "Unresolved abbreviated measure."
@@ -218,7 +218,7 @@
           "raw_number": null,
           "normalized_number": null,
           "raw_unit": "γοα.",
-          "normalized_unit": null,
+          "normalized_unit": "uncia",
           "certainty": "uncertain",
           "notes": [
             "Unresolved abbreviated measure."
@@ -253,7 +253,7 @@
           "raw_number": null,
           "normalized_number": null,
           "raw_unit": "γοα.",
-          "normalized_unit": null,
+          "normalized_unit": "uncia",
           "certainty": "uncertain",
           "notes": [
             "Unresolved abbreviated measure."
@@ -288,7 +288,7 @@
           "raw_number": null,
           "normalized_number": null,
           "raw_unit": "γοα.",
-          "normalized_unit": null,
+          "normalized_unit": "uncia",
           "certainty": "uncertain",
           "notes": [
             "Unresolved abbreviated measure."
@@ -323,7 +323,7 @@
           "raw_number": null,
           "normalized_number": null,
           "raw_unit": "γοα.",
-          "normalized_unit": null,
+          "normalized_unit": "uncia",
           "certainty": "uncertain",
           "notes": [
             "Unresolved abbreviated measure."
@@ -358,7 +358,7 @@
           "raw_number": null,
           "normalized_number": null,
           "raw_unit": "γοα.",
-          "normalized_unit": null,
+          "normalized_unit": "uncia",
           "certainty": "uncertain",
           "notes": [
             "Unresolved abbreviated measure."
@@ -575,43 +575,43 @@
         "entity_urn": "urn:aos:recipe-ingredient:aetius-16-127-2:ingredient:xera-phylla-rodon-1",
         "surface_form": "Φύλλων ῥόδων ξηρῶν",
         "normalized_label": "ξηρὰ φύλλα ῥόδων",
-        "quantity_display": "γοα."
+        "quantity_display": ""
       },
       {
         "entity_urn": "urn:aos:recipe-ingredient:aetius-16-127-2:ingredient:amomon-2",
         "surface_form": "ἀμώμου",
         "normalized_label": "ἄμωμον",
-        "quantity_display": "γοα."
+        "quantity_display": ""
       },
       {
         "entity_urn": "urn:aos:recipe-ingredient:aetius-16-127-2:ingredient:kostos-3",
         "surface_form": "κόστου",
         "normalized_label": "κόστος",
-        "quantity_display": "γοα."
+        "quantity_display": ""
       },
       {
         "entity_urn": "urn:aos:recipe-ingredient:aetius-16-127-2:ingredient:karyophylla-4",
         "surface_form": "καρυοφύλλων",
         "normalized_label": "καρυόφυλλα",
-        "quantity_display": "γοα."
+        "quantity_display": ""
       },
       {
         "entity_urn": "urn:aos:recipe-ingredient:aetius-16-127-2:ingredient:nardostachys-5",
         "surface_form": "ναρδοστάχυος",
         "normalized_label": "ναρδοστάχυς",
-        "quantity_display": "γοα."
+        "quantity_display": ""
       },
       {
         "entity_urn": "urn:aos:recipe-ingredient:aetius-16-127-2:ingredient:chylos-arnabo-6",
         "surface_form": "χυλοῦ ἀρναβῶ",
         "normalized_label": "χυλὸς ἀρναβῶ",
-        "quantity_display": "γοα."
+        "quantity_display": ""
       },
       {
         "entity_urn": "urn:aos:recipe-ingredient:aetius-16-127-2:ingredient:krokos-7",
         "surface_form": "κρόκου",
         "normalized_label": "κρόκος",
-        "quantity_display": "γοα."
+        "quantity_display": ""
       },
       {
         "entity_urn": "urn:aos:recipe-ingredient:aetius-16-127-2:ingredient:ypnos-8",

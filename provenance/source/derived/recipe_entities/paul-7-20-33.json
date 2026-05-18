@@ -1123,7 +1123,7 @@
           "raw_number": null,
           "normalized_number": "sufficient",
           "raw_unit": null,
-          "normalized_unit": null,
+          "normalized_unit": "descriptor",
           "certainty": "certain",
           "notes": []
         }
@@ -1435,7 +1435,7 @@
           "raw_number": null,
           "normalized_number": "sufficient",
           "raw_unit": null,
-          "normalized_unit": null,
+          "normalized_unit": "descriptor",
           "certainty": "certain",
           "notes": []
         }

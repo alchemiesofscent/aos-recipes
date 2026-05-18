@@ -222,7 +222,7 @@
           "raw_number": "ἴσον",
           "normalized_number": "equal",
           "raw_unit": "πλῆθος",
-          "normalized_unit": null,
+          "normalized_unit": "descriptor",
           "certainty": "certain",
           "notes": [
             "Equal to the previous oil amount."

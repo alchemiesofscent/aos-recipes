@@ -255,7 +255,7 @@
           "raw_number": "β",
           "normalized_number": 2,
           "raw_unit": "γο",
-          "normalized_unit": null,
+          "normalized_unit": "uncia",
           "certainty": "certain",
           "notes": [
             "Abbreviated unit left unnormalized."
@@ -290,7 +290,7 @@
           "raw_number": "α",
           "normalized_number": 1,
           "raw_unit": "γο",
-          "normalized_unit": null,
+          "normalized_unit": "uncia",
           "certainty": "certain",
           "notes": [
             "Governed by distributive ἀνὰ.",
@@ -328,7 +328,7 @@
           "raw_number": "α",
           "normalized_number": 1,
           "raw_unit": "γο",
-          "normalized_unit": null,
+          "normalized_unit": "uncia",
           "certainty": "certain",
           "notes": [
             "Governed by distributive ἀνὰ.",
@@ -366,7 +366,7 @@
           "raw_number": "α",
           "normalized_number": 1,
           "raw_unit": "γο",
-          "normalized_unit": null,
+          "normalized_unit": "uncia",
           "certainty": "certain",
           "notes": [
             "Governed by distributive ἀνὰ.",
@@ -406,7 +406,7 @@
           "raw_number": "α",
           "normalized_number": 1,
           "raw_unit": "γο",
-          "normalized_unit": null,
+          "normalized_unit": "uncia",
           "certainty": "certain",
           "notes": [
             "Governed by distributive ἀνὰ.",
@@ -444,7 +444,7 @@
           "raw_number": "ε",
           "normalized_number": 5,
           "raw_unit": "γο",
-          "normalized_unit": null,
+          "normalized_unit": "uncia",
           "certainty": "certain",
           "notes": [
             "Abbreviated unit left unnormalized."
@@ -479,7 +479,7 @@
           "raw_number": "δ",
           "normalized_number": 4,
           "raw_unit": "γο",
-          "normalized_unit": null,
+          "normalized_unit": "uncia",
           "certainty": "certain",
           "notes": [
             "Governed by distributive ἀνὰ.",
@@ -519,7 +519,7 @@
           "raw_number": "δ",
           "normalized_number": 4,
           "raw_unit": "γο",
-          "normalized_unit": null,
+          "normalized_unit": "uncia",
           "certainty": "certain",
           "notes": [
             "Governed by distributive ἀνὰ.",
@@ -557,7 +557,7 @@
           "raw_number": "αζʹ",
           "normalized_number": 8,
           "raw_unit": "γο",
-          "normalized_unit": null,
+          "normalized_unit": "uncia",
           "certainty": "certain",
           "notes": [
             "Abbreviated unit left unnormalized."
@@ -594,7 +594,7 @@
           "raw_number": "στ",
           "normalized_number": 6,
           "raw_unit": "γο",
-          "normalized_unit": null,
+          "normalized_unit": "uncia",
           "certainty": "certain",
           "notes": [
             "Abbreviated unit left unnormalized."
@@ -713,7 +713,7 @@
           "raw_number": "β",
           "normalized_number": 2,
           "raw_unit": "γο",
-          "normalized_unit": null,
+          "normalized_unit": "uncia",
           "certainty": "certain",
           "notes": [
             "Abbreviated unit left unnormalized."

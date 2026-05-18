@@ -523,7 +523,7 @@
           "raw_number": null,
           "normalized_number": "same",
           "raw_unit": "πλῆθος",
-          "normalized_unit": null,
+          "normalized_unit": "descriptor",
           "certainty": "uncertain",
           "notes": [
             "Τὸ ποσὸν τῶν προσφάτων ἴσον τῷ προτέρῳ."

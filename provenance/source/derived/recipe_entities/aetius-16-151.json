@@ -176,7 +176,7 @@
           "raw_number": "βζʹ",
           "normalized_number": 27,
           "raw_unit": "γο",
-          "normalized_unit": null,
+          "normalized_unit": "uncia",
           "certainty": "uncertain",
           "notes": [
             "Greek unit siglum γο is preserved without secure expansion."
@@ -211,7 +211,7 @@
           "raw_number": "βζʹ",
           "normalized_number": 27,
           "raw_unit": "γο",
-          "normalized_unit": null,
+          "normalized_unit": "uncia",
           "certainty": "uncertain",
           "notes": [
             "Greek unit siglum γο is preserved without secure expansion."
@@ -246,7 +246,7 @@
           "raw_number": "βζʹ",
           "normalized_number": 27,
           "raw_unit": "γο",
-          "normalized_unit": null,
+          "normalized_unit": "uncia",
           "certainty": "uncertain",
           "notes": [
             "Greek unit siglum γο is preserved without secure expansion."
@@ -281,7 +281,7 @@
           "raw_number": "βζʹ",
           "normalized_number": 27,
           "raw_unit": "γο",
-          "normalized_unit": null,
+          "normalized_unit": "uncia",
           "certainty": "uncertain",
           "notes": [
             "Greek unit siglum γο is preserved without secure expansion."
@@ -316,7 +316,7 @@
           "raw_number": "γ",
           "normalized_number": 3,
           "raw_unit": "γο",
-          "normalized_unit": null,
+          "normalized_unit": "uncia",
           "certainty": "uncertain",
           "notes": [
             "Greek unit siglum γο is preserved without secure expansion."
@@ -351,7 +351,7 @@
           "raw_number": "γ",
           "normalized_number": 3,
           "raw_unit": "γο",
-          "normalized_unit": null,
+          "normalized_unit": "uncia",
           "certainty": "uncertain",
           "notes": [
             "Greek unit siglum γο is preserved without secure expansion."
@@ -386,7 +386,7 @@
           "raw_number": "γ",
           "normalized_number": 3,
           "raw_unit": "γο",
-          "normalized_unit": null,
+          "normalized_unit": "uncia",
           "certainty": "uncertain",
           "notes": [
             "Greek unit siglum γο is preserved without secure expansion."
@@ -421,7 +421,7 @@
           "raw_number": "γ",
           "normalized_number": 3,
           "raw_unit": "γο",
-          "normalized_unit": null,
+          "normalized_unit": "uncia",
           "certainty": "uncertain",
           "notes": [
             "Greek unit siglum γο is preserved without secure expansion."
@@ -456,7 +456,7 @@
           "raw_number": "γ",
           "normalized_number": 3,
           "raw_unit": "γο",
-          "normalized_unit": null,
+          "normalized_unit": "uncia",
           "certainty": "uncertain",
           "notes": [
             "Greek unit siglum γο is preserved without secure expansion."
@@ -491,7 +491,7 @@
           "raw_number": "γ",
           "normalized_number": 3,
           "raw_unit": "γο",
-          "normalized_unit": null,
+          "normalized_unit": "uncia",
           "certainty": "uncertain",
           "notes": [
             "Greek unit siglum γο is preserved without secure expansion."
@@ -526,7 +526,7 @@
           "raw_number": "γ",
           "normalized_number": 3,
           "raw_unit": "γο",
-          "normalized_unit": null,
+          "normalized_unit": "uncia",
           "certainty": "uncertain",
           "notes": [
             "Greek unit siglum γο is preserved without secure expansion."
@@ -561,7 +561,7 @@
           "raw_number": "ε",
           "normalized_number": 5,
           "raw_unit": "γο",
-          "normalized_unit": null,
+          "normalized_unit": "uncia",
           "certainty": "uncertain",
           "notes": [
             "Greek unit siglum γο is preserved without secure expansion."
@@ -596,7 +596,7 @@
           "raw_number": "ε",
           "normalized_number": 5,
           "raw_unit": "γο",
-          "normalized_unit": null,
+          "normalized_unit": "uncia",
           "certainty": "uncertain",
           "notes": [
             "Greek unit siglum γο is preserved without secure expansion."
@@ -631,7 +631,7 @@
           "raw_number": "αζʹ",
           "normalized_number": 17,
           "raw_unit": "γο",
-          "normalized_unit": null,
+          "normalized_unit": "uncia",
           "certainty": "uncertain",
           "notes": [
             "Greek unit siglum γο is preserved without secure expansion."
@@ -666,7 +666,7 @@
           "raw_number": null,
           "normalized_number": null,
           "raw_unit": null,
-          "normalized_unit": null,
+          "normalized_unit": "descriptor",
           "certainty": "uncertain",
           "notes": [
             "Indicates the same quantity as the immediately preceding ingredient, likely κόστου γοαζʹ."
@@ -703,7 +703,7 @@
           "raw_number": "α",
           "normalized_number": 1,
           "raw_unit": "γο",
-          "normalized_unit": null,
+          "normalized_unit": "uncia",
           "certainty": "uncertain",
           "notes": [
             "Greek unit siglum γο is preserved without secure expansion."
@@ -740,7 +740,7 @@
           "raw_number": "γ",
           "normalized_number": 3,
           "raw_unit": "γο",
-          "normalized_unit": null,
+          "normalized_unit": "uncia",
           "certainty": "uncertain",
           "notes": [
             "Greek unit siglum γο is preserved without secure expansion."
@@ -946,7 +946,7 @@
           "raw_number": null,
           "normalized_number": "sufficient",
           "raw_unit": null,
-          "normalized_unit": null,
+          "normalized_unit": "descriptor",
           "certainty": "certain",
           "notes": []
         }

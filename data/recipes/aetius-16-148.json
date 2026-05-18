@@ -150,7 +150,7 @@
           "raw_number": "ιθ",
           "normalized_number": 19,
           "raw_unit": "γο",
-          "normalized_unit": null,
+          "normalized_unit": "uncia",
           "certainty": "uncertain",
           "notes": [
             "Greek numeral letters read as 19; unit abbreviation `γο` unresolved."
@@ -185,7 +185,7 @@
           "raw_number": "δ",
           "normalized_number": 4,
           "raw_unit": "γο",
-          "normalized_unit": null,
+          "normalized_unit": "uncia",
           "certainty": "uncertain",
           "notes": [
             "Greek numeral letters read as 4; unit abbreviation `γο` unresolved."
@@ -255,7 +255,7 @@
           "raw_number": "στ",
           "normalized_number": 6,
           "raw_unit": "γο",
-          "normalized_unit": null,
+          "normalized_unit": "uncia",
           "certainty": "uncertain",
           "notes": [
             "Greek numeral letters read as 6; unit abbreviation `γο` unresolved. Quantity is governed distributively by `ἀνὰ`."
@@ -290,7 +290,7 @@
           "raw_number": "στ",
           "normalized_number": 6,
           "raw_unit": "γο",
-          "normalized_unit": null,
+          "normalized_unit": "uncia",
           "certainty": "uncertain",
           "notes": [
             "Greek numeral letters read as 6; unit abbreviation `γο` unresolved. Quantity is governed distributively by `ἀνὰ`."
@@ -325,7 +325,7 @@
           "raw_number": "ιστ",
           "normalized_number": 16,
           "raw_unit": "γο",
-          "normalized_unit": null,
+          "normalized_unit": "uncia",
           "certainty": "uncertain",
           "notes": [
             "Greek numeral letters read as 16; unit abbreviation `γο` unresolved."
@@ -405,7 +405,7 @@
           "raw_number": "η",
           "normalized_number": 8,
           "raw_unit": "γο",
-          "normalized_unit": null,
+          "normalized_unit": "uncia",
           "certainty": "uncertain",
           "notes": [
             "Greek numeral letters read as 8; unit abbreviation `γο` unresolved."
@@ -440,7 +440,7 @@
           "raw_number": "ε",
           "normalized_number": 5,
           "raw_unit": "γο",
-          "normalized_unit": null,
+          "normalized_unit": "uncia",
           "certainty": "uncertain",
           "notes": [
             "Greek numeral letters read as 5; unit abbreviation `γο` unresolved."
@@ -577,13 +577,13 @@
         "entity_urn": "urn:aos:recipe-ingredient:aetius-16-148:ingredient:kostos-1",
         "surface_form": "Κόστου",
         "normalized_label": "κόστος",
-        "quantity_display": "γοιθ."
+        "quantity_display": "19 uncia"
       },
       {
         "entity_urn": "urn:aos:recipe-ingredient:aetius-16-148:ingredient:karyophyllon-2",
         "surface_form": "καρυοφύλλων",
         "normalized_label": "καρυόφυλλον",
-        "quantity_display": "γοδ."
+        "quantity_display": "4 uncia"
       },
       {
         "entity_urn": "urn:aos:recipe-ingredient:aetius-16-148:ingredient:ladanon-3",
@@ -595,19 +595,19 @@
         "entity_urn": "urn:aos:recipe-ingredient:aetius-16-148:ingredient:nardostachys-4",
         "surface_form": "ναρδοστάχυος",
         "normalized_label": "ναρδόσταχυς",
-        "quantity_display": "γοστ."
+        "quantity_display": "6 uncia"
       },
       {
         "entity_urn": "urn:aos:recipe-ingredient:aetius-16-148:ingredient:phyllon-5",
         "surface_form": "φύλλων",
         "normalized_label": "φύλλον",
-        "quantity_display": "γοστ."
+        "quantity_display": "6 uncia"
       },
       {
         "entity_urn": "urn:aos:recipe-ingredient:aetius-16-148:ingredient:styrax-aspros-6",
         "surface_form": "στύρακος λιγ. ἄσπρου",
         "normalized_label": "στύραξ ἄσπρος",
-        "quantity_display": "γοιστ."
+        "quantity_display": "16 uncia"
       },
       {
         "entity_urn": "urn:aos:recipe-ingredient:aetius-16-148:ingredient:krokos-7",
@@ -619,13 +619,13 @@
         "entity_urn": "urn:aos:recipe-ingredient:aetius-16-148:ingredient:moschos-8",
         "surface_form": "μόσχου",
         "normalized_label": "μόσχος",
-        "quantity_display": "γοη."
+        "quantity_display": "8 uncia"
       },
       {
         "entity_urn": "urn:aos:recipe-ingredient:aetius-16-148:ingredient:meli-9",
         "surface_form": "μέλιτος",
         "normalized_label": "μέλι",
-        "quantity_display": "γοε."
+        "quantity_display": "5 uncia"
       }
     ],
     "processes": [],

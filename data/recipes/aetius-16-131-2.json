@@ -744,67 +744,67 @@
         "entity_urn": "urn:aos:recipe-ingredient:aetius-16-131-2:ingredient:pissa-brytia-3",
         "surface_form": "πίσσης βρυτίας",
         "normalized_label": "πίσσα βρυτία",
-        "quantity_display": "γοε."
+        "quantity_display": "5 uncia"
       },
       {
         "entity_urn": "urn:aos:recipe-ingredient:aetius-16-131-2:ingredient:ladanon-4",
         "surface_form": "λαδάνου",
         "normalized_label": "λάδανον",
-        "quantity_display": "γοα."
+        "quantity_display": "1 uncia"
       },
       {
         "entity_urn": "urn:aos:recipe-ingredient:aetius-16-131-2:ingredient:styrax-liparos-5",
         "surface_form": "στύρακος λιπαροῦ",
         "normalized_label": "στύραξ λιπαρός",
-        "quantity_display": "γογ."
+        "quantity_display": "3 uncia"
       },
       {
         "entity_urn": "urn:aos:recipe-ingredient:aetius-16-131-2:ingredient:kostos-6",
         "surface_form": "κόστου",
         "normalized_label": "κόστος",
-        "quantity_display": "γοβ."
+        "quantity_display": "2 uncia"
       },
       {
         "entity_urn": "urn:aos:recipe-ingredient:aetius-16-131-2:ingredient:kasia-7",
         "surface_form": "κασίας",
         "normalized_label": "κασία",
-        "quantity_display": "γοβ."
+        "quantity_display": "2 uncia"
       },
       {
         "entity_urn": "urn:aos:recipe-ingredient:aetius-16-131-2:ingredient:kardamomon-8",
         "surface_form": "καρδαμώμου",
         "normalized_label": "καρδάμωμον",
-        "quantity_display": "γοα."
+        "quantity_display": "1 uncia"
       },
       {
         "entity_urn": "urn:aos:recipe-ingredient:aetius-16-131-2:ingredient:phyllon-9",
         "surface_form": "φύλλου",
         "normalized_label": "φύλλον",
-        "quantity_display": "γοα."
+        "quantity_display": "1 uncia"
       },
       {
         "entity_urn": "urn:aos:recipe-ingredient:aetius-16-131-2:ingredient:nardostachys-10",
         "surface_form": "ναρδοστάχυος",
         "normalized_label": "ναρδοστάχυς",
-        "quantity_display": "γοα."
+        "quantity_display": "1 uncia"
       },
       {
         "entity_urn": "urn:aos:recipe-ingredient:aetius-16-131-2:ingredient:krokos-11",
         "surface_form": "κρόκου",
         "normalized_label": "κρόκος",
-        "quantity_display": "γοα."
+        "quantity_display": "1 uncia"
       },
       {
         "entity_urn": "urn:aos:recipe-ingredient:aetius-16-131-2:ingredient:oinos-aminaios-12",
         "surface_form": "οἴνου ἀμιναίου",
         "normalized_label": "οἶνος ἀμιναῖος",
-        "quantity_display": "γοα."
+        "quantity_display": "1 uncia"
       },
       {
         "entity_urn": "urn:aos:recipe-ingredient:aetius-16-131-2:ingredient:opobalsamon-13",
         "surface_form": "ὀποβαλσάμου",
         "normalized_label": "ὀποβάλσαμον",
-        "quantity_display": "γογ."
+        "quantity_display": "3 uncia"
       }
     ],
     "processes": [],

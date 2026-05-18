@@ -157,7 +157,7 @@
           "raw_number": null,
           "normalized_number": null,
           "raw_unit": "γοα.",
-          "normalized_unit": null,
+          "normalized_unit": "uncia",
           "certainty": "uncertain",
           "notes": [
             "Abbreviated measure unresolved from the source alone."
@@ -192,7 +192,7 @@
           "raw_number": null,
           "normalized_number": null,
           "raw_unit": "γοα.",
-          "normalized_unit": null,
+          "normalized_unit": "uncia",
           "certainty": "uncertain",
           "notes": [
             "Abbreviated measure unresolved from the source alone."
@@ -227,7 +227,7 @@
           "raw_number": null,
           "normalized_number": null,
           "raw_unit": "γοα.",
-          "normalized_unit": null,
+          "normalized_unit": "uncia",
           "certainty": "uncertain",
           "notes": [
             "Abbreviated measure unresolved from the source alone."
@@ -264,7 +264,7 @@
           "raw_number": null,
           "normalized_number": null,
           "raw_unit": "γοα.",
-          "normalized_unit": null,
+          "normalized_unit": "uncia",
           "certainty": "uncertain",
           "notes": [
             "Abbreviated measure unresolved from the source alone."
@@ -301,7 +301,7 @@
           "raw_number": null,
           "normalized_number": null,
           "raw_unit": "γοα.",
-          "normalized_unit": null,
+          "normalized_unit": "uncia",
           "certainty": "uncertain",
           "notes": [
             "Abbreviated measure unresolved from the source alone."
@@ -336,7 +336,7 @@
           "raw_number": null,
           "normalized_number": null,
           "raw_unit": "γοα.",
-          "normalized_unit": null,
+          "normalized_unit": "uncia",
           "certainty": "uncertain",
           "notes": [
             "Abbreviated measure unresolved from the source alone."
@@ -826,37 +826,37 @@
         "entity_urn": "urn:aos:recipe-ingredient:aetius-16-144-2:ingredient:phyllon-1",
         "surface_form": "Φύλλου",
         "normalized_label": "φύλλον",
-        "quantity_display": "γοα."
+        "quantity_display": ""
       },
       {
         "entity_urn": "urn:aos:recipe-ingredient:aetius-16-144-2:ingredient:kostos-2",
         "surface_form": "κόστου",
         "normalized_label": "κόστος",
-        "quantity_display": "γοα."
+        "quantity_display": ""
       },
       {
         "entity_urn": "urn:aos:recipe-ingredient:aetius-16-144-2:ingredient:bryon-3",
         "surface_form": "βρύου",
         "normalized_label": "βρύον",
-        "quantity_display": "γοα."
+        "quantity_display": ""
       },
       {
         "entity_urn": "urn:aos:recipe-ingredient:aetius-16-144-2:ingredient:ypnos-4",
         "surface_form": "ὕπνου",
         "normalized_label": "ὕπνος",
-        "quantity_display": "γοα."
+        "quantity_display": ""
       },
       {
         "entity_urn": "urn:aos:recipe-ingredient:aetius-16-144-2:ingredient:roda-xera-5",
         "surface_form": "ῥόδων ξηρῶν",
         "normalized_label": "ῥόδα ξηρά",
-        "quantity_display": "γοα."
+        "quantity_display": ""
       },
       {
         "entity_urn": "urn:aos:recipe-ingredient:aetius-16-144-2:ingredient:nardostachys-6",
         "surface_form": "ναρδοστάχυος",
         "normalized_label": "ναρδόσταχυς",
-        "quantity_display": "γοα."
+        "quantity_display": ""
       },
       {
         "entity_urn": "urn:aos:recipe-ingredient:aetius-16-144-2:ingredient:krokos-7",

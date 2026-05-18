@@ -236,17 +236,7 @@
         "dioscorides-1-45-2-melinon-allos:ingredient:melon-1",
         "dioscorides-1-45-2-melinon-allos:ingredient:elaion-2"
       ],
-      "quantities": [
-        {
-          "source_span": "ἡμέρας δύο",
-          "raw_number": "δύο",
-          "normalized_number": 2,
-          "raw_unit": "ἡμέρας",
-          "normalized_unit": null,
-          "certainty": "certain",
-          "notes": []
-        }
-      ],
+      "quantities": [],
       "qualifiers": [
         {
           "qualifier_type": "duration",
@@ -273,7 +263,18 @@
           "start": "44.5",
           "end": "44.15"
         }
-      }
+      },
+      "durations": [
+        {
+          "source_span": "ἡμέρας δύο",
+          "raw_number": "δύο",
+          "normalized_number": 2,
+          "raw_unit": "ἡμέρας",
+          "normalized_unit": "day",
+          "certainty": "certain",
+          "notes": []
+        }
+      ]
     },
     {
       "process_id": "dioscorides-1-45-2-melinon-allos:process:exipan-3",

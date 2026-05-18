@@ -168,7 +168,7 @@
           "raw_number": null,
           "normalized_number": null,
           "raw_unit": "γοι.",
-          "normalized_unit": null,
+          "normalized_unit": "uncia",
           "certainty": "uncertain",
           "notes": [
             "The abbreviation is retained as transmitted and not further normalized."
@@ -1015,7 +1015,7 @@
         "entity_urn": "urn:aos:recipe-ingredient:aetius-16-152:ingredient:libanos-1",
         "surface_form": "Λιβάνου",
         "normalized_label": "λίβανος",
-        "quantity_display": "γοι."
+        "quantity_display": ""
       },
       {
         "entity_urn": "urn:aos:recipe-ingredient:aetius-16-152:ingredient:myelos-elapheios-2",

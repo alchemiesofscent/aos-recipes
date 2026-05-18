@@ -565,19 +565,19 @@
         "entity_urn": "urn:aos:recipe-ingredient:aetius-16-140:ingredient:peperi-3",
         "surface_form": "πεπέρεως",
         "normalized_label": "πέπερι",
-        "quantity_display": "γοε ἤτοι οὐγ. ε."
+        "quantity_display": "5 uncia"
       },
       {
         "entity_urn": "urn:aos:recipe-ingredient:aetius-16-140:ingredient:phyllon-4",
         "surface_form": "φύλλου",
         "normalized_label": "φύλλον",
-        "quantity_display": "γοα. ἤτοι οὐγ. α."
+        "quantity_display": "1 uncia"
       },
       {
         "entity_urn": "urn:aos:recipe-ingredient:aetius-16-140:ingredient:karyophyllon-5",
         "surface_form": "καρυοφύλλου",
         "normalized_label": "καρυόφυλλον",
-        "quantity_display": "γοα. ἤτοι οὐγ. α."
+        "quantity_display": "1 uncia"
       },
       {
         "entity_urn": "urn:aos:recipe-ingredient:aetius-16-140:ingredient:oinos-moystos-glykytatos-6",

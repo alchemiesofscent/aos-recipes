@@ -515,7 +515,7 @@
           "raw_number": null,
           "normalized_number": "equal",
           "raw_unit": null,
-          "normalized_unit": null,
+          "normalized_unit": "descriptor",
           "certainty": "uncertain",
           "notes": [
             "The equal amount is relative to the immediately preceding quantity of ἄνθους κύπρου."

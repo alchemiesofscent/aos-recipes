@@ -150,7 +150,7 @@
           "raw_number": "ιθ",
           "normalized_number": 19,
           "raw_unit": "γο",
-          "normalized_unit": null,
+          "normalized_unit": "uncia",
           "certainty": "uncertain",
           "notes": [
             "Greek numeral letters read as 19; unit abbreviation `γο` unresolved."
@@ -185,7 +185,7 @@
           "raw_number": "δ",
           "normalized_number": 4,
           "raw_unit": "γο",
-          "normalized_unit": null,
+          "normalized_unit": "uncia",
           "certainty": "uncertain",
           "notes": [
             "Greek numeral letters read as 4; unit abbreviation `γο` unresolved."
@@ -255,7 +255,7 @@
           "raw_number": "στ",
           "normalized_number": 6,
           "raw_unit": "γο",
-          "normalized_unit": null,
+          "normalized_unit": "uncia",
           "certainty": "uncertain",
           "notes": [
             "Greek numeral letters read as 6; unit abbreviation `γο` unresolved. Quantity is governed distributively by `ἀνὰ`."
@@ -290,7 +290,7 @@
           "raw_number": "στ",
           "normalized_number": 6,
           "raw_unit": "γο",
-          "normalized_unit": null,
+          "normalized_unit": "uncia",
           "certainty": "uncertain",
           "notes": [
             "Greek numeral letters read as 6; unit abbreviation `γο` unresolved. Quantity is governed distributively by `ἀνὰ`."
@@ -325,7 +325,7 @@
           "raw_number": "ιστ",
           "normalized_number": 16,
           "raw_unit": "γο",
-          "normalized_unit": null,
+          "normalized_unit": "uncia",
           "certainty": "uncertain",
           "notes": [
             "Greek numeral letters read as 16; unit abbreviation `γο` unresolved."
@@ -405,7 +405,7 @@
           "raw_number": "η",
           "normalized_number": 8,
           "raw_unit": "γο",
-          "normalized_unit": null,
+          "normalized_unit": "uncia",
           "certainty": "uncertain",
           "notes": [
             "Greek numeral letters read as 8; unit abbreviation `γο` unresolved."
@@ -440,7 +440,7 @@
           "raw_number": "ε",
           "normalized_number": 5,
           "raw_unit": "γο",
-          "normalized_unit": null,
+          "normalized_unit": "uncia",
           "certainty": "uncertain",
           "notes": [
             "Greek numeral letters read as 5; unit abbreviation `γο` unresolved."

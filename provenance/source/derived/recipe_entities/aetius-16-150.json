@@ -173,7 +173,7 @@
           "raw_number": null,
           "normalized_number": null,
           "raw_unit": "γογ.",
-          "normalized_unit": null,
+          "normalized_unit": "uncia",
           "certainty": "uncertain",
           "notes": [
             "Abbreviated quantity not expanded."
@@ -208,7 +208,7 @@
           "raw_number": null,
           "normalized_number": null,
           "raw_unit": "γογ.",
-          "normalized_unit": null,
+          "normalized_unit": "uncia",
           "certainty": "uncertain",
           "notes": [
             "Abbreviated quantity not expanded."
@@ -243,7 +243,7 @@
           "raw_number": null,
           "normalized_number": null,
           "raw_unit": "γογ.",
-          "normalized_unit": null,
+          "normalized_unit": "uncia",
           "certainty": "uncertain",
           "notes": [
             "Abbreviated quantity not expanded."
@@ -278,7 +278,7 @@
           "raw_number": null,
           "normalized_number": null,
           "raw_unit": "γογ.",
-          "normalized_unit": null,
+          "normalized_unit": "uncia",
           "certainty": "uncertain",
           "notes": [
             "Abbreviated quantity not expanded."
@@ -313,7 +313,7 @@
           "raw_number": null,
           "normalized_number": null,
           "raw_unit": "γογ.",
-          "normalized_unit": null,
+          "normalized_unit": "uncia",
           "certainty": "uncertain",
           "notes": [
             "Abbreviated quantity not expanded."
@@ -348,7 +348,7 @@
           "raw_number": null,
           "normalized_number": null,
           "raw_unit": "γογ.",
-          "normalized_unit": null,
+          "normalized_unit": "uncia",
           "certainty": "uncertain",
           "notes": [
             "Abbreviated quantity not expanded."
@@ -383,7 +383,7 @@
           "raw_number": null,
           "normalized_number": null,
           "raw_unit": "γογ.",
-          "normalized_unit": null,
+          "normalized_unit": "uncia",
           "certainty": "uncertain",
           "notes": [
             "Abbreviated quantity not expanded."
@@ -418,7 +418,7 @@
           "raw_number": null,
           "normalized_number": null,
           "raw_unit": "γογ.",
-          "normalized_unit": null,
+          "normalized_unit": "uncia",
           "certainty": "uncertain",
           "notes": [
             "Abbreviated quantity not expanded."
@@ -453,7 +453,7 @@
           "raw_number": null,
           "normalized_number": null,
           "raw_unit": "γογ.",
-          "normalized_unit": null,
+          "normalized_unit": "uncia",
           "certainty": "uncertain",
           "notes": [
             "Abbreviated quantity not expanded."
@@ -488,7 +488,7 @@
           "raw_number": null,
           "normalized_number": null,
           "raw_unit": "γογ.",
-          "normalized_unit": null,
+          "normalized_unit": "uncia",
           "certainty": "uncertain",
           "notes": [
             "Abbreviated quantity not expanded."
@@ -523,7 +523,7 @@
           "raw_number": null,
           "normalized_number": null,
           "raw_unit": "γοδ.",
-          "normalized_unit": null,
+          "normalized_unit": "uncia",
           "certainty": "uncertain",
           "notes": [
             "Abbreviated quantity not expanded."
@@ -558,7 +558,7 @@
           "raw_number": null,
           "normalized_number": null,
           "raw_unit": "γοδ.",
-          "normalized_unit": null,
+          "normalized_unit": "uncia",
           "certainty": "uncertain",
           "notes": [
             "Abbreviated quantity not expanded."
@@ -593,7 +593,7 @@
           "raw_number": null,
           "normalized_number": null,
           "raw_unit": "γοδ.",
-          "normalized_unit": null,
+          "normalized_unit": "uncia",
           "certainty": "uncertain",
           "notes": [
             "Abbreviated quantity not expanded."
@@ -628,7 +628,7 @@
           "raw_number": null,
           "normalized_number": null,
           "raw_unit": "γοβ.",
-          "normalized_unit": null,
+          "normalized_unit": "uncia",
           "certainty": "uncertain",
           "notes": [
             "Abbreviated quantity not expanded."
@@ -663,7 +663,7 @@
           "raw_number": null,
           "normalized_number": null,
           "raw_unit": "γοστ.",
-          "normalized_unit": null,
+          "normalized_unit": "uncia",
           "certainty": "uncertain",
           "notes": [
             "Abbreviated quantity not expanded."
@@ -698,7 +698,7 @@
           "raw_number": null,
           "normalized_number": null,
           "raw_unit": "γοστ.",
-          "normalized_unit": null,
+          "normalized_unit": "uncia",
           "certainty": "uncertain",
           "notes": [
             "Abbreviated quantity not expanded."
@@ -838,7 +838,7 @@
           "raw_number": null,
           "normalized_number": "q.s.",
           "raw_unit": null,
-          "normalized_unit": null,
+          "normalized_unit": "descriptor",
           "certainty": "certain",
           "notes": [
             "Shared sufficiency phrase with the paired liquid ingredient."
@@ -873,7 +873,7 @@
           "raw_number": null,
           "normalized_number": "q.s.",
           "raw_unit": null,
-          "normalized_unit": null,
+          "normalized_unit": "descriptor",
           "certainty": "certain",
           "notes": [
             "Shared sufficiency phrase with the paired liquid ingredient."

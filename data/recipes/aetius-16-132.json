@@ -156,7 +156,7 @@
           "raw_number": "β",
           "normalized_number": 2,
           "raw_unit": "γο",
-          "normalized_unit": null,
+          "normalized_unit": "uncia",
           "certainty": "uncertain",
           "notes": []
         }
@@ -189,7 +189,7 @@
           "raw_number": "α",
           "normalized_number": 1,
           "raw_unit": "γο",
-          "normalized_unit": null,
+          "normalized_unit": "uncia",
           "certainty": "uncertain",
           "notes": []
         }
@@ -222,7 +222,7 @@
           "raw_number": "α",
           "normalized_number": 1,
           "raw_unit": "γο",
-          "normalized_unit": null,
+          "normalized_unit": "uncia",
           "certainty": "uncertain",
           "notes": []
         }
@@ -255,7 +255,7 @@
           "raw_number": "γ",
           "normalized_number": 3,
           "raw_unit": "γο",
-          "normalized_unit": null,
+          "normalized_unit": "uncia",
           "certainty": "uncertain",
           "notes": []
         }
@@ -288,7 +288,7 @@
           "raw_number": "γ",
           "normalized_number": 3,
           "raw_unit": "γο",
-          "normalized_unit": null,
+          "normalized_unit": "uncia",
           "certainty": "uncertain",
           "notes": []
         }
@@ -321,7 +321,7 @@
           "raw_number": "γ",
           "normalized_number": 3,
           "raw_unit": "γο",
-          "normalized_unit": null,
+          "normalized_unit": "uncia",
           "certainty": "uncertain",
           "notes": []
         }
@@ -354,7 +354,7 @@
           "raw_number": "γ",
           "normalized_number": 3,
           "raw_unit": "γο",
-          "normalized_unit": null,
+          "normalized_unit": "uncia",
           "certainty": "uncertain",
           "notes": []
         }
@@ -389,7 +389,7 @@
           "raw_number": "α",
           "normalized_number": 1,
           "raw_unit": "γο",
-          "normalized_unit": null,
+          "normalized_unit": "uncia",
           "certainty": "uncertain",
           "notes": []
         }
@@ -422,7 +422,7 @@
           "raw_number": "δ",
           "normalized_number": 4,
           "raw_unit": "γο",
-          "normalized_unit": null,
+          "normalized_unit": "uncia",
           "certainty": "uncertain",
           "notes": []
         }
@@ -455,7 +455,7 @@
           "raw_number": "στ",
           "normalized_number": 6,
           "raw_unit": "γο",
-          "normalized_unit": null,
+          "normalized_unit": "uncia",
           "certainty": "uncertain",
           "notes": []
         }
@@ -490,7 +490,7 @@
           "raw_number": null,
           "normalized_number": null,
           "raw_unit": null,
-          "normalized_unit": null,
+          "normalized_unit": "descriptor",
           "certainty": "certain",
           "notes": [
             "Sufficiency quantity."
@@ -525,7 +525,7 @@
           "raw_number": "γ",
           "normalized_number": 3,
           "raw_unit": "γο",
-          "normalized_unit": null,
+          "normalized_unit": "uncia",
           "certainty": "uncertain",
           "notes": []
         }
@@ -692,61 +692,61 @@
         "entity_urn": "urn:aos:recipe-ingredient:aetius-16-132:ingredient:amomon-1",
         "surface_form": "Ἀμώμου",
         "normalized_label": "ἄμωμον",
-        "quantity_display": "γοβ."
+        "quantity_display": "2 uncia"
       },
       {
         "entity_urn": "urn:aos:recipe-ingredient:aetius-16-132:ingredient:smyrne-troglitis-2",
         "surface_form": "σμύρνης τρωγλίτιδος",
         "normalized_label": "σμύρνη τρωγλῖτις",
-        "quantity_display": "γοα."
+        "quantity_display": "1 uncia"
       },
       {
         "entity_urn": "urn:aos:recipe-ingredient:aetius-16-132:ingredient:kostos-3",
         "surface_form": "κόστου",
         "normalized_label": "κόστος",
-        "quantity_display": "γοα."
+        "quantity_display": "1 uncia"
       },
       {
         "entity_urn": "urn:aos:recipe-ingredient:aetius-16-132:ingredient:phyllon-4",
         "surface_form": "φύλλου",
         "normalized_label": "φύλλον",
-        "quantity_display": "γογ."
+        "quantity_display": "3 uncia"
       },
       {
         "entity_urn": "urn:aos:recipe-ingredient:aetius-16-132:ingredient:kasia-5",
         "surface_form": "κασίας",
         "normalized_label": "κασία",
-        "quantity_display": "γογ."
+        "quantity_display": "3 uncia"
       },
       {
         "entity_urn": "urn:aos:recipe-ingredient:aetius-16-132:ingredient:phyllinon-myron-6",
         "surface_form": "φυλλίνου μύρου",
         "normalized_label": "φυλλῖνον μύρον",
-        "quantity_display": "γογ."
+        "quantity_display": "3 uncia"
       },
       {
         "entity_urn": "urn:aos:recipe-ingredient:aetius-16-132:ingredient:salka-myron-7",
         "surface_form": "σαλκᾶ",
         "normalized_label": "σαλκὰ μύρον",
-        "quantity_display": "γογ."
+        "quantity_display": "3 uncia"
       },
       {
         "entity_urn": "urn:aos:recipe-ingredient:aetius-16-132:ingredient:nardostachys-8",
         "surface_form": "ναρδοστάχυος",
         "normalized_label": "ναρδοστάχυς",
-        "quantity_display": "γοα."
+        "quantity_display": "1 uncia"
       },
       {
         "entity_urn": "urn:aos:recipe-ingredient:aetius-16-132:ingredient:nardos-keltike-9",
         "surface_form": "νάρδου κελτικῆς",
         "normalized_label": "νάρδος κελτική",
-        "quantity_display": "γοδ."
+        "quantity_display": "4 uncia"
       },
       {
         "entity_urn": "urn:aos:recipe-ingredient:aetius-16-132:ingredient:nardinon-myron-10",
         "surface_form": "ναρδίνου μύρου",
         "normalized_label": "ναρδῖνον μύρον",
-        "quantity_display": "γοστ."
+        "quantity_display": "6 uncia"
       },
       {
         "entity_urn": "urn:aos:recipe-ingredient:aetius-16-132:ingredient:keros-leykos-11",
@@ -758,7 +758,7 @@
         "entity_urn": "urn:aos:recipe-ingredient:aetius-16-132:ingredient:opobalsamon-12",
         "surface_form": "ὀποβαλσάμου",
         "normalized_label": "ὀποβάλσαμον",
-        "quantity_display": "γογ."
+        "quantity_display": "3 uncia"
       }
     ],
     "processes": [

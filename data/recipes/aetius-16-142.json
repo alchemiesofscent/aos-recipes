@@ -2010,7 +2010,7 @@
         "entity_urn": "urn:aos:recipe-ingredient:aetius-16-142:ingredient:krokos-18",
         "surface_form": "κρόκου",
         "normalized_label": "κρόκος",
-        "quantity_display": "γοα."
+        "quantity_display": "1 uncia"
       },
       {
         "entity_urn": "urn:aos:recipe-ingredient:aetius-16-142:ingredient:ladanon-liparon-19",
@@ -2028,13 +2028,13 @@
         "entity_urn": "urn:aos:recipe-ingredient:aetius-16-142:ingredient:krokos-21",
         "surface_form": "κρόκου",
         "normalized_label": "κρόκος",
-        "quantity_display": "γοα."
+        "quantity_display": "1 uncia"
       },
       {
         "entity_urn": "urn:aos:recipe-ingredient:aetius-16-142:ingredient:mastiche-22",
         "surface_form": "μαστίχης",
         "normalized_label": "μαστίχη",
-        "quantity_display": "γογ."
+        "quantity_display": "3 uncia"
       },
       {
         "entity_urn": "urn:aos:recipe-ingredient:aetius-16-142:ingredient:moschos-23",
