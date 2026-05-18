@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Dioscorides Book 1 Perfumes And Resins</title>
+  <link rel="stylesheet" href="/experiments/dioscorides-book1-perfumes-resins/style.css">
+</head>
+<body>
+  <div class="shell">
+    <header class="masthead">
+      <p class="eyebrow">Experiment</p>
+      <p><a href="/experiments/">All perfume experiments</a></p>
+      <h1>Dioscorides, Book 1</h1>
+      <p class="chapter-name" id="chapter-name"></p>
+      <div class="source-notes" id="source-notes"></div>
+    </header>
+
+    <main class="layout">
+      <aside class="context">
+        <div class="card">
+          <h2>Proemium</h2>
+          <div id="proemium"></div>
+        </div>
+      </aside>
+
+      <section class="reader">
+        <div class="nav-row">
+          <button id="prev" class="nav-button" type="button" aria-label="Previous entry">← Back</button>
+          <div class="counter" id="counter"></div>
+          <button id="next" class="nav-button" type="button" aria-label="Next entry">Next →</button>
+        </div>
+
+        <article class="card entry-card" id="entry"></article>
+      </section>
+    </main>
+  </div>
+
+  <script src="/experiments/dioscorides-book1-perfumes-resins/data/dioscorides_book1_perfumes_resins.js"></script>
+  <script src="/experiments/dioscorides-book1-perfumes-resins/app.js"></script>
+</body>
+</html>
