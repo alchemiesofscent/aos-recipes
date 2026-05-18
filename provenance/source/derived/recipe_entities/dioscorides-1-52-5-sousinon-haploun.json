@@ -1,0 +1,423 @@
+{
+  "dataset_key": "dioscorides_book1_perfumes_resins",
+  "source_json": "experiments/dioscorides-book1-perfumes-resins/data/dioscorides_book1_perfumes_resins.json",
+  "host_raw_file": "tei/raw/tlg0656.tlg001.1st1K-grc1.xml",
+  "work_slug": "diosc.b1.recipes",
+  "recipe_id": "dioscorides-1-52-5-sousinon-haploun",
+  "recipe_urn": "urn:aos:recipe:dioscorides-1-52-5-sousinon-haploun",
+  "record_urn": "urn:aos:recipe-record:dioscorides-1-52-5-sousinon-haploun",
+  "author": "Dioscorides",
+  "work": "De materia medica",
+  "book": "1",
+  "chapter": "52",
+  "section": "5",
+  "chapter_name": "σουσῖνον",
+  "lemma": "σουσῖνον ἁπλοῦν",
+  "text": "ἔνιοι δὲ τὸ ἁπλοῦν ἐξ ἐλαίου βαλανίνου ἢ ἄλλου καὶ 5 κρίνου σκευάζουσι. δοκεῖ δὲ διαφέρειν τὸ ἐν Φοινίκῃ καὶ ἐν Αἰγύπτῳ γινόμενον· ἄριστον δέ ἐστιν αὐτοῦ τὸ ὄζον κρίνων. δύναμιν δὲ ἔχει θερμαντικήν, μαλακτικήν, ἀναστομωτικὴν τῶν περὶ μήτραν μύσεων καὶ φλεγμονῶν, καὶ καθόλου πάντων ἐστὶ χρησιμώτατον πρὸς τὰ γυναικεῖα. ἁρμόζει δὲ καὶ πρὸς ἀχῶρας, ἰόνθους, πίτυρα, ἐκζέματα, μώλωπάς τε ταχέως μεταβάλλει καὶ ὁμόχρους ποιεῖ, καὶ καθόλου ἐστὶν ἀραιωτικόν. ἄγει δὲ καὶ χολὴν κατὰ κοιλίαν πινόμενον, κινεῖ δὲ καὶ οὔρησιν. ἐστι δὲ κακοστόμαχον καὶ ναυτίας ποιητικόν.",
+  "original_text": null,
+  "text_source": null,
+  "emendations": [],
+  "emendation_count": 0,
+  "source_kind": "main_text",
+  "entry_kind": "recipe",
+  "citation": {
+    "pages": [
+      "49"
+    ],
+    "start": {
+      "page": "49",
+      "line": "1"
+    },
+    "end": {
+      "page": "49",
+      "line": "10"
+    },
+    "citation": {
+      "start": "49.1",
+      "end": "49.10"
+    },
+    "page_spans": [
+      {
+        "page": "49",
+        "start_line": "1",
+        "end_line": "10"
+      }
+    ],
+    "lines": [
+      {
+        "page": "49",
+        "line": "1",
+        "break_no": false,
+        "text": "ἔνιοι δὲ τὸ ἁπλοῦν ἐξ ἐλαίου βαλανίνου ἢ ἄλλου καὶ 5",
+        "citation": "49.1"
+      },
+      {
+        "page": "49",
+        "line": "5",
+        "break_no": false,
+        "text": "κρίνου σκευάζουσι. δοκεῖ δὲ διαφέρειν τὸ ἐν Φοινίκῃ καὶ ἐν Αἰγύπτῳ γινόμενον· ἄριστον δέ ἐστιν αὐτοῦ τὸ ὄζον κρίνων. δύναμιν δὲ ἔχει θερμαντικήν, μαλακτικήν, ἀναστομωτικὴν τῶν περὶ μήτραν μύσεων καὶ φλεγμονῶν, καὶ καθόλου πάντων ἐστὶ χρησιμώτατον πρὸς τὰ γυναικεῖα. ἁρμόζει δὲ καὶ πρὸς",
+        "citation": "49.5"
+      },
+      {
+        "page": "49",
+        "line": "10",
+        "break_no": false,
+        "text": "ἀχῶρας, ἰόνθους, πίτυρα, ἐκζέματα, μώλωπάς τε ταχέως μεταβάλλει καὶ ὁμόχρους ποιεῖ, καὶ καθόλου ἐστὶν ἀραιωτικόν. ἄγει δὲ καὶ χολὴν κατὰ κοιλίαν πινόμενον, κινεῖ δὲ καὶ οὔρησιν. ἐστι δὲ κακοστόμαχον καὶ ναυτίας ποιητικόν.",
+        "citation": "49.10"
+      }
+    ],
+    "edition_key": "wellmann"
+  },
+  "notes": [
+    "Raw lines 1590-1633 are book 1 chapter 25 in this witness, although the prompt referred to chapter 35.",
+    "The perfume proemium is taken from the later transition at chapter 42 section 2 (raw lines 2306-2342), not from the chapter 25 κῦφι entry.",
+    "The ἰασμέλαιον entry is preserved only in the apparatus as an addition from another recension."
+  ],
+  "alignment_status": "pending",
+  "alignment_confidence": "pending",
+  "alignment_evidence": null,
+  "review_status": "reviewed_structured_authority",
+  "review_provenance": {
+    "authority_source": "reports/entity_review/structured/dioscorides.json",
+    "authority_recipe_id": "dioscorides-1-52-5-sousinon-haploun",
+    "authority_lemma": "σουσῖνον ἁπλοῦν",
+    "model": "gpt-5.4",
+    "reasoning_effort": "high",
+    "dataset_key": "dioscorides_book1_perfumes_resins",
+    "entity_model_version": "1.2",
+    "authority_version": "2026-04-13-qty-alt-v1",
+    "prompt_version": "qty-alt-pass-v1",
+    "build_version": "2026-05-18T15:51:35Z"
+  },
+  "schema_version": "1.2",
+  "build_metadata": {
+    "builder": "scripts/recipes/build_recipe_entities.py",
+    "built_at": "2026-05-18T15:51:35Z",
+    "source_structured_authority": "reports/entity_review/structured/dioscorides.json",
+    "authority_model": "gpt-5.4",
+    "authority_reasoning_effort": "high",
+    "dataset_key": "dioscorides_book1_perfumes_resins",
+    "entity_model_version": "1.2",
+    "authority_version": "2026-04-13-qty-alt-v1",
+    "prompt_version": "qty-alt-pass-v1",
+    "build_version": "2026-05-18T15:51:35Z"
+  },
+  "recipe_text_excerpt": "ἔνιοι δὲ τὸ ἁπλοῦν ἐξ ἐλαίου βαλανίνου ἢ ἄλλου καὶ 5 κρίνου σκευάζουσι. δοκεῖ δὲ διαφέρειν τὸ ἐν Φοινίκῃ καὶ",
+  "preparation": {
+    "preparation_id": "dioscorides-1-52-5-sousinon-haploun:preparation:soysinon-aployn",
+    "preparation_urn": "urn:aos:recipe-preparation:dioscorides-1-52-5-sousinon-haploun:preparation:soysinon-aployn",
+    "source_span": "σουσῖνον ἁπλοῦν",
+    "surface_form": "σουσῖνον ἁπλοῦν",
+    "normalized_label": "σουσῖνον ἁπλοῦν",
+    "qualifiers": [
+      {
+        "qualifier_type": "other",
+        "source_span": "ἁπλοῦν",
+        "normalized_value": "ἁπλοῦν",
+        "certainty": "certain",
+        "notes": [
+          "recipe-level subtype/style"
+        ]
+      }
+    ],
+    "regimen_notes": [],
+    "certainty": "certain",
+    "notes": [
+      "Used lemma for the preparation label because the running text restates only τὸ ἁπλοῦν."
+    ],
+    "host_locator": {
+      "book": "1",
+      "chapter": "52",
+      "section": "5",
+      "citation": {
+        "start": "49.1",
+        "end": "49.10"
+      }
+    }
+  },
+  "ingredients": [
+    {
+      "ingredient_id": "dioscorides-1-52-5-sousinon-haploun:ingredient:elaion-balaninon-1",
+      "ingredient_urn": "urn:aos:recipe-ingredient:dioscorides-1-52-5-sousinon-haploun:ingredient:elaion-balaninon-1",
+      "source_span": "ἐλαίου βαλανίνου",
+      "surface_form": "ἐλαίου βαλανίνου",
+      "base_label": "ἐλαίου",
+      "normalized_label": "ἔλαιον βαλάνινον",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [
+        "dioscorides-1-52-5-sousinon-haploun:process:skeyazein-1"
+      ],
+      "quantities": [],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "52",
+        "section": "5",
+        "citation": {
+          "start": "49.1",
+          "end": "49.10"
+        }
+      }
+    },
+    {
+      "ingredient_id": "dioscorides-1-52-5-sousinon-haploun:ingredient:allo-elaion-2",
+      "ingredient_urn": "urn:aos:recipe-ingredient:dioscorides-1-52-5-sousinon-haploun:ingredient:allo-elaion-2",
+      "source_span": "ἄλλου",
+      "surface_form": "ἄλλου",
+      "base_label": "ἄλλου",
+      "normalized_label": "ἄλλο ἔλαιον",
+      "alternative_set_id": null,
+      "certainty": "uncertain",
+      "linked_process_ids": [
+        "dioscorides-1-52-5-sousinon-haploun:process:skeyazein-1"
+      ],
+      "quantities": [],
+      "qualifiers": [],
+      "notes": [
+        "Head noun for the alternative ingredient is elided after ἢ and understood from ἐλαίου."
+      ],
+      "host_locator": {
+        "book": "1",
+        "chapter": "52",
+        "section": "5",
+        "citation": {
+          "start": "49.1",
+          "end": "49.10"
+        }
+      }
+    },
+    {
+      "ingredient_id": "dioscorides-1-52-5-sousinon-haploun:ingredient:krinon-3",
+      "ingredient_urn": "urn:aos:recipe-ingredient:dioscorides-1-52-5-sousinon-haploun:ingredient:krinon-3",
+      "source_span": "5 κρίνου",
+      "surface_form": "5 κρίνου",
+      "base_label": "κρίνου",
+      "normalized_label": "κρίνον",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [
+        "dioscorides-1-52-5-sousinon-haploun:process:skeyazein-1"
+      ],
+      "quantities": [
+        {
+          "source_span": "5",
+          "raw_number": "5",
+          "normalized_number": 5,
+          "raw_unit": null,
+          "normalized_unit": "count",
+          "certainty": "certain",
+          "notes": [
+            "No unit is stated in the text."
+          ]
+        }
+      ],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "52",
+        "section": "5",
+        "citation": {
+          "start": "49.1",
+          "end": "49.10"
+        }
+      }
+    }
+  ],
+  "processes": [
+    {
+      "process_id": "dioscorides-1-52-5-sousinon-haploun:process:skeyazein-1",
+      "process_urn": "urn:aos:recipe-process:dioscorides-1-52-5-sousinon-haploun:process:skeyazein-1",
+      "source_span": "σκευάζουσι",
+      "surface_form": "σκευάζουσι",
+      "normalized_label": "σκευάζειν",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "52",
+        "section": "5",
+        "citation": {
+          "start": "49.1",
+          "end": "49.10"
+        }
+      }
+    }
+  ],
+  "materials": [],
+  "people": [],
+  "places": [
+    {
+      "place_id": "dioscorides-1-52-5-sousinon-haploun:place:phoinike-1",
+      "place_urn": "urn:aos:recipe-place:dioscorides-1-52-5-sousinon-haploun:place:phoinike-1",
+      "source_span": "ἐν Φοινίκῃ",
+      "surface_form": "ἐν Φοινίκῃ",
+      "normalized_label": "Φοινίκη",
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "52",
+        "section": "5",
+        "citation": {
+          "start": "49.1",
+          "end": "49.10"
+        }
+      }
+    },
+    {
+      "place_id": "dioscorides-1-52-5-sousinon-haploun:place:aigyptos-2",
+      "place_urn": "urn:aos:recipe-place:dioscorides-1-52-5-sousinon-haploun:place:aigyptos-2",
+      "source_span": "ἐν Αἰγύπτῳ",
+      "surface_form": "ἐν Αἰγύπτῳ",
+      "normalized_label": "Αἴγυπτος",
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "52",
+        "section": "5",
+        "citation": {
+          "start": "49.1",
+          "end": "49.10"
+        }
+      }
+    }
+  ],
+  "uses": [
+    {
+      "use_id": "dioscorides-1-52-5-sousinon-haploun:use:pros-ta-gynaikeia-1",
+      "use_urn": "urn:aos:recipe-use:dioscorides-1-52-5-sousinon-haploun:use:pros-ta-gynaikeia-1",
+      "category": "medical",
+      "source_span": "πρὸς τὰ γυναικεῖα",
+      "snippet": "πρὸς τὰ γυναικεῖα",
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "52",
+        "section": "5",
+        "citation": {
+          "start": "49.1",
+          "end": "49.10"
+        }
+      }
+    },
+    {
+      "use_id": "dioscorides-1-52-5-sousinon-haploun:use:pros-achoras-ionthoys-pityra-ekzemata-2",
+      "use_urn": "urn:aos:recipe-use:dioscorides-1-52-5-sousinon-haploun:use:pros-achoras-ionthoys-pityra-ekzemata-2",
+      "category": "medical",
+      "source_span": "πρὸς ἀχῶρας, ἰόνθους, πίτυρα, ἐκζέματα",
+      "snippet": "πρὸς ἀχῶρας, ἰόνθους, πίτυρα, ἐκζέματα",
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "52",
+        "section": "5",
+        "citation": {
+          "start": "49.1",
+          "end": "49.10"
+        }
+      }
+    },
+    {
+      "use_id": "dioscorides-1-52-5-sousinon-haploun:use:kata-koilian-pinomenon-3",
+      "use_urn": "urn:aos:recipe-use:dioscorides-1-52-5-sousinon-haploun:use:kata-koilian-pinomenon-3",
+      "category": "medical",
+      "source_span": "κατὰ κοιλίαν πινόμενον",
+      "snippet": "ἄγει δὲ καὶ χολὴν κατὰ κοιλίαν πινόμενον, κινεῖ δὲ καὶ οὔρησιν.",
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "52",
+        "section": "5",
+        "citation": {
+          "start": "49.1",
+          "end": "49.10"
+        }
+      }
+    }
+  ],
+  "preparation_names": [],
+  "other_preparations_mentioned": [
+    {
+      "reference_id": "dioscorides-1-52-5-sousinon-haploun:reference:elaion-balaninon-1",
+      "reference_urn": "urn:aos:recipe-reference:dioscorides-1-52-5-sousinon-haploun:reference:elaion-balaninon-1",
+      "source_span": "ἐλαίου βαλανίνου",
+      "surface_form": "ἐλαίου βαλανίνου",
+      "normalized_label": "ἔλαιον βαλάνινον",
+      "certainty": "certain",
+      "notes": [
+        "distinct preparation mentioned as the oil base, not a same-recipe alias"
+      ],
+      "host_locator": {
+        "book": "1",
+        "chapter": "52",
+        "section": "5",
+        "citation": {
+          "start": "49.1",
+          "end": "49.10"
+        }
+      }
+    }
+  ],
+  "works_mentioned": [],
+  "entities": [
+    {
+      "entity_urn": "urn:aos:recipe-preparation:dioscorides-1-52-5-sousinon-haploun:preparation:soysinon-aployn",
+      "entity_type": "label",
+      "surface_form": "σουσῖνον ἁπλοῦν",
+      "normalized_label": "σουσῖνον ἁπλοῦν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:dioscorides-1-52-5-sousinon-haploun:ingredient:elaion-balaninon-1",
+      "entity_type": "ingredient",
+      "surface_form": "ἐλαίου βαλανίνου",
+      "normalized_label": "ἔλαιον βαλάνινον"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:dioscorides-1-52-5-sousinon-haploun:ingredient:allo-elaion-2",
+      "entity_type": "ingredient",
+      "surface_form": "ἄλλου",
+      "normalized_label": "ἄλλο ἔλαιον"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:dioscorides-1-52-5-sousinon-haploun:ingredient:krinon-3",
+      "entity_type": "ingredient",
+      "surface_form": "5 κρίνου",
+      "normalized_label": "κρίνον"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-1-52-5-sousinon-haploun:process:skeyazein-1",
+      "entity_type": "process",
+      "surface_form": "σκευάζουσι",
+      "normalized_label": "σκευάζειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-place:dioscorides-1-52-5-sousinon-haploun:place:phoinike-1",
+      "entity_type": "place",
+      "surface_form": "ἐν Φοινίκῃ",
+      "normalized_label": "Φοινίκη"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-place:dioscorides-1-52-5-sousinon-haploun:place:aigyptos-2",
+      "entity_type": "place",
+      "surface_form": "ἐν Αἰγύπτῳ",
+      "normalized_label": "Αἴγυπτος"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-reference:dioscorides-1-52-5-sousinon-haploun:reference:elaion-balaninon-1",
+      "entity_type": "preparation_reference",
+      "surface_form": "ἐλαίου βαλανίνου",
+      "normalized_label": "ἔλαιον βαλάνινον"
+    }
+  ]
+}

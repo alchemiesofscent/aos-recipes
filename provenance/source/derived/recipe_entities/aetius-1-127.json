@@ -1,0 +1,291 @@
+{
+  "dataset_key": "aetius_book1_oils",
+  "source_json": "experiments/aetius-book1-ch99-136-oils/data/aetius_book1_ch99_136_oils.json",
+  "host_raw_file": "tei/raw/tlg0718001.xml",
+  "work_slug": "aetius.b1.oils",
+  "recipe_id": "aetius-1-127",
+  "recipe_urn": "urn:aos:recipe:aetius-1-127",
+  "record_urn": "urn:aos:recipe-record:aetius-1-127",
+  "author": "Aëtius of Amida",
+  "work": "Libri medicinales",
+  "book": "1",
+  "chapter": "127",
+  "section": "127",
+  "chapter_name": "Μεγάλειον",
+  "lemma": "Μεγάλειον",
+  "text": "Μεγάλειον. Τὸ δὲ μεγάλειον καλούμενον πάλαι μὲν ἐσκευάζετο, ἐκλέλοιπε δὲ νῦν. ἐστὶ δὲ αὐτοῦ ἡ σκευασία ὁμοία τῷ ἀμαρακίνῳ, πλεονάζει δὲ τῷ προσλαμβάνειν ῥητίνην καὶ ποιεῖ πρὸς τὰς αὐτὰς διαθέσεις.",
+  "original_text": "Μεγάλειον. Τὸ δὲ μεγάλειον καλούμενον πάλαι μὲν ἐσπουδάζετο, ἐκλέλοιπε δὲ νῦν. ἐστὶ δὲ αὐτοῦ ἡ σκευασία ὁμοία τῷ ἀμαρακίνῳ, πλεονάζει δὲ τῷ προσλαμβάνειν ῥητίνην καὶ ποιεῖ πρὸς τὰς αὐτὰς διαθέσεις.",
+  "text_source": "emended",
+  "emendations": [
+    {
+      "locus": "[63.14]",
+      "start_citation": "63.14",
+      "end_citation": "63.14",
+      "operation": "replace",
+      "olivieri_text": "ἐσπουδάζετο",
+      "adopted_text": "ἐσκευάζετο",
+      "proposal_author": "Irene Cala",
+      "decision": "accepted",
+      "note": "ἐσκευάζετο replaces ἐσπουδάζετο"
+    }
+  ],
+  "emendation_count": 1,
+  "source_kind": null,
+  "entry_kind": "recipe",
+  "citation": {
+    "pages": [
+      "63"
+    ],
+    "start": {
+      "page": "63",
+      "line": "14",
+      "xml_id": "oliv-63-14"
+    },
+    "end": {
+      "page": "63",
+      "line": "17",
+      "xml_id": "oliv-63-17"
+    },
+    "citation": {
+      "start": "63.14",
+      "end": "63.17"
+    },
+    "page_spans": [
+      {
+        "page": "63",
+        "start_line": "14",
+        "end_line": "17"
+      }
+    ],
+    "lines": [
+      {
+        "page": "63",
+        "line": "14",
+        "xml_id": "oliv-63-14",
+        "break_no": false,
+        "text": "Μεγάλειον. Τὸ δὲ μεγάλειον καλούμενον πάλαι μὲν ἐσπουδάζετο,",
+        "citation": "63.14"
+      },
+      {
+        "page": "63",
+        "line": "15",
+        "xml_id": "oliv-63-15",
+        "break_no": false,
+        "text": "ἐκλέλοιπε δὲ νῦν. ἐστὶ δὲ αὐτοῦ ἡ σκευασία ὁμοία τῷ ἀμαρακίνῳ,",
+        "citation": "63.15"
+      },
+      {
+        "page": "63",
+        "line": "16",
+        "xml_id": "oliv-63-16",
+        "break_no": false,
+        "text": "πλεονάζει δὲ τῷ προσλαμβάνειν ῥητίνην καὶ ποιεῖ πρὸς τὰς αὐτὰς",
+        "citation": "63.16"
+      },
+      {
+        "page": "63",
+        "line": "17",
+        "xml_id": "oliv-63-17",
+        "break_no": false,
+        "text": "διαθέσεις.",
+        "citation": "63.17"
+      }
+    ],
+    "edition_key": "olivieri"
+  },
+  "notes": [
+    "The text says that μεγάλειον was formerly prepared but was no longer current.",
+    "Its preparation is said to be similar to ἀμαρακίνον."
+  ],
+  "alignment_status": "pending",
+  "alignment_confidence": "pending",
+  "alignment_evidence": null,
+  "review_status": "reviewed_structured_authority",
+  "review_provenance": {
+    "authority_source": "reports/entity_review/structured/aetius_book1.json",
+    "authority_recipe_id": "aetius-1-127",
+    "authority_lemma": "Μεγάλειον",
+    "model": "gpt-5.4",
+    "reasoning_effort": "high",
+    "dataset_key": "aetius_book1_oils",
+    "entity_model_version": "1.2",
+    "authority_version": "2026-04-13-qty-alt-v1",
+    "prompt_version": "qty-alt-pass-v1",
+    "build_version": "2026-05-18T15:51:35Z"
+  },
+  "schema_version": "1.2",
+  "build_metadata": {
+    "builder": "scripts/recipes/build_recipe_entities.py",
+    "built_at": "2026-05-18T15:51:35Z",
+    "source_structured_authority": "reports/entity_review/structured/aetius_book1.json",
+    "authority_model": "gpt-5.4",
+    "authority_reasoning_effort": "high",
+    "dataset_key": "aetius_book1_oils",
+    "entity_model_version": "1.2",
+    "authority_version": "2026-04-13-qty-alt-v1",
+    "prompt_version": "qty-alt-pass-v1",
+    "build_version": "2026-05-18T15:51:35Z"
+  },
+  "recipe_text_excerpt": "Μεγάλειον. Τὸ δὲ μεγάλειον καλούμενον πάλαι μὲν ἐσκευάζετο, ἐκλέλοιπε δὲ νῦν. ἐστὶ δὲ αὐτοῦ ἡ σκευασία ὁμοία τῷ ἀμαρακίνῳ, πλεονάζει",
+  "preparation": {
+    "preparation_id": "aetius-1-127:preparation:megaleion",
+    "preparation_urn": "urn:aos:recipe-preparation:aetius-1-127:preparation:megaleion",
+    "source_span": "Μεγάλειον",
+    "surface_form": "Μεγάλειον",
+    "normalized_label": "Μεγάλειον",
+    "qualifiers": [],
+    "regimen_notes": [
+      {
+        "source_span": "ἡ σκευασία ὁμοία τῷ ἀμαρακίνῳ",
+        "normalized_note": "Preparation is similar to ἀμαράκινον",
+        "certainty": "certain",
+        "notes": []
+      },
+      {
+        "source_span": "πλεονάζει δὲ τῷ προσλαμβάνειν ῥητίνην",
+        "normalized_note": "Distinguished by the addition of resin",
+        "certainty": "certain",
+        "notes": []
+      }
+    ],
+    "certainty": "certain",
+    "notes": [],
+    "host_locator": {
+      "book": "1",
+      "chapter": "127",
+      "section": "127",
+      "citation": {
+        "start": "63.14",
+        "end": "63.17"
+      }
+    }
+  },
+  "ingredients": [
+    {
+      "ingredient_id": "aetius-1-127:ingredient:retine-1",
+      "ingredient_urn": "urn:aos:recipe-ingredient:aetius-1-127:ingredient:retine-1",
+      "source_span": "ῥητίνην",
+      "surface_form": "ῥητίνην",
+      "base_label": "ῥητίνη",
+      "normalized_label": "ῥητίνη",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [
+        "aetius-1-127:process:proslambanein-1"
+      ],
+      "quantities": [],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "127",
+        "section": "127",
+        "citation": {
+          "start": "63.14",
+          "end": "63.17"
+        }
+      }
+    }
+  ],
+  "processes": [
+    {
+      "process_id": "aetius-1-127:process:proslambanein-1",
+      "process_urn": "urn:aos:recipe-process:aetius-1-127:process:proslambanein-1",
+      "source_span": "προσλαμβάνειν",
+      "surface_form": "προσλαμβάνειν",
+      "normalized_label": "προσλαμβάνειν",
+      "target_type": "ingredient",
+      "target_ids": [
+        "aetius-1-127:ingredient:retine-1"
+      ],
+      "quantities": [],
+      "qualifiers": [],
+      "certainty": "certain",
+      "notes": [
+        "Describes the distinguishing addition relative to ἀμαρακίνον."
+      ],
+      "host_locator": {
+        "book": "1",
+        "chapter": "127",
+        "section": "127",
+        "citation": {
+          "start": "63.14",
+          "end": "63.17"
+        }
+      }
+    }
+  ],
+  "materials": [],
+  "people": [],
+  "places": [],
+  "uses": [
+    {
+      "use_id": "aetius-1-127:use:pros-tas-aytas-diatheseis-1",
+      "use_urn": "urn:aos:recipe-use:aetius-1-127:use:pros-tas-aytas-diatheseis-1",
+      "category": "medical",
+      "source_span": "πρὸς τὰς αὐτὰς διαθέσεις",
+      "snippet": "πρὸς τὰς αὐτὰς διαθέσεις",
+      "certainty": "uncertain",
+      "notes": [
+        "The application is explicit but referential to the same uses as ἀμαρακίνον."
+      ],
+      "host_locator": {
+        "book": "1",
+        "chapter": "127",
+        "section": "127",
+        "citation": {
+          "start": "63.14",
+          "end": "63.17"
+        }
+      }
+    }
+  ],
+  "preparation_names": [],
+  "other_preparations_mentioned": [
+    {
+      "reference_id": "aetius-1-127:reference:amarakinon-1",
+      "reference_urn": "urn:aos:recipe-reference:aetius-1-127:reference:amarakinon-1",
+      "source_span": "ἀμαρακίνῳ",
+      "surface_form": "ἀμαρακίνῳ",
+      "normalized_label": "ἀμαράκινον",
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "127",
+        "section": "127",
+        "citation": {
+          "start": "63.14",
+          "end": "63.17"
+        }
+      }
+    }
+  ],
+  "works_mentioned": [],
+  "entities": [
+    {
+      "entity_urn": "urn:aos:recipe-preparation:aetius-1-127:preparation:megaleion",
+      "entity_type": "label",
+      "surface_form": "Μεγάλειον",
+      "normalized_label": "Μεγάλειον"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:aetius-1-127:ingredient:retine-1",
+      "entity_type": "ingredient",
+      "surface_form": "ῥητίνην",
+      "normalized_label": "ῥητίνη"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:aetius-1-127:process:proslambanein-1",
+      "entity_type": "process",
+      "surface_form": "προσλαμβάνειν",
+      "normalized_label": "προσλαμβάνειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-reference:aetius-1-127:reference:amarakinon-1",
+      "entity_type": "preparation_reference",
+      "surface_form": "ἀμαρακίνῳ",
+      "normalized_label": "ἀμαράκινον"
+    }
+  ]
+}

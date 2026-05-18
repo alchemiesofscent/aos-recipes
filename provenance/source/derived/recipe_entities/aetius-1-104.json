@@ -1,0 +1,547 @@
+{
+  "dataset_key": "aetius_book1_oils",
+  "source_json": "experiments/aetius-book1-ch99-136-oils/data/aetius_book1_ch99_136_oils.json",
+  "host_raw_file": "tei/raw/tlg0718001.xml",
+  "work_slug": "aetius.b1.oils",
+  "recipe_id": "aetius-1-104",
+  "recipe_urn": "urn:aos:recipe:aetius-1-104",
+  "record_urn": "urn:aos:recipe-record:aetius-1-104",
+  "author": "Aëtius of Amida",
+  "work": "Libri medicinales",
+  "book": "1",
+  "chapter": "104",
+  "section": "104",
+  "chapter_name": "Αἰγείρινον",
+  "lemma": "Αἰγείρινον",
+  "text": "Αἰγείρινον. Τὸ δὲ αἰγείρινον σκευάζεται ἐν τῷ ἔαρι, ὅτε πολλὴ περὶ τὸ σπερμάτιόν ἐστι ῥητίνη. λαβόντες γὰρ τοὺς κόκκους ἐνθλῶσιν ἐπ' ὀλίγον καὶ στήσαντες οὐγγίας δ ἐμβάλλουσιν εἰς ἐλαίου γλυκέος ξέστην ἰταλικὸν καὶ ἡλιοῦσιν ἡμέρας μ καὶ οὕτως σειρώσαντες ἀποτίθενται. ἐστὶ δὲ καὶ αὐτὸ θερμαντικόν, λεπτομερές, μαλακτικὸν μετ' εὐωδίας.",
+  "original_text": "Αἰγείρινον. Τὸ δὲ αἰγείρινον σκευάζεται ἐν τῷ ἔαρι, ὅτε πολλὴ περὶ τὸ σπερμάτιόν ἐστι ῥητίνη. λαβόντες γὰρ τοὺς κόκκους ἐνθλῶσιν ἐπ' ὀλίγον καὶ στήσαντες οὐγγίας δ ἐμβάλλουσιν εἰς ἐλαίου γλυκέος ξέστην ἰταλικὸν καὶ ἡλιοῦσιν ἡμέρας μ καὶ οὕτως σειρώσαντες ἀποτίθενται. ἐστὶ δὲ καὶ αὐτὸ θερμαντικόν, λεπτομερές, μαλακτικὸν μετ' εὐωδίας.",
+  "text_source": "olivieri",
+  "emendations": [],
+  "emendation_count": 0,
+  "source_kind": null,
+  "entry_kind": "recipe",
+  "citation": {
+    "pages": [
+      "55"
+    ],
+    "start": {
+      "page": "55",
+      "line": "8",
+      "xml_id": "oliv-55-8"
+    },
+    "end": {
+      "page": "55",
+      "line": "13",
+      "xml_id": "oliv-55-13"
+    },
+    "citation": {
+      "start": "55.8",
+      "end": "55.13"
+    },
+    "page_spans": [
+      {
+        "page": "55",
+        "start_line": "8",
+        "end_line": "13"
+      }
+    ],
+    "lines": [
+      {
+        "page": "55",
+        "line": "8",
+        "xml_id": "oliv-55-8",
+        "break_no": false,
+        "text": "Αἰγείρινον. Τὸ δὲ αἰγείρινον σκευάζεται ἐν τῷ ἔαρι, ὅτε πολλὴ",
+        "citation": "55.8"
+      },
+      {
+        "page": "55",
+        "line": "9",
+        "xml_id": "oliv-55-9",
+        "break_no": false,
+        "text": "περὶ τὸ σπερμάτιόν ἐστι ῥητίνη. λαβόντες γὰρ τοὺς κόκκους ἐνθλῶσιν",
+        "citation": "55.9"
+      },
+      {
+        "page": "55",
+        "line": "10",
+        "xml_id": "oliv-55-10",
+        "break_no": false,
+        "text": "ἐπ' ὀλίγον καὶ στήσαντες οὐγγίας δ ἐμβάλλουσιν εἰς ἐλαίου γλυκέος",
+        "citation": "55.10"
+      },
+      {
+        "page": "55",
+        "line": "11",
+        "xml_id": "oliv-55-11",
+        "break_no": false,
+        "text": "ξέστην ἰταλικὸν καὶ ἡλιοῦσιν ἡμέρας μ καὶ οὕτως σειρώσαντες ἀπο-",
+        "citation": "55.11"
+      },
+      {
+        "page": "55",
+        "line": "12",
+        "xml_id": "oliv-55-12",
+        "break_no": true,
+        "text": "τίθενται. ἐστὶ δὲ καὶ αὐτὸ θερμαντικόν, λεπτομερές, μαλακτικὸν μετ'",
+        "citation": "55.12"
+      },
+      {
+        "page": "55",
+        "line": "13",
+        "xml_id": "oliv-55-13",
+        "break_no": false,
+        "text": "εὐωδίας.",
+        "citation": "55.13"
+      }
+    ],
+    "edition_key": "olivieri"
+  },
+  "notes": [
+    "The text characterizes the preparation as θερμαντικόν, λεπτομερές, μαλακτικὸν μετ' εὐωδίας."
+  ],
+  "alignment_status": "pending",
+  "alignment_confidence": "pending",
+  "alignment_evidence": null,
+  "review_status": "reviewed_structured_authority",
+  "review_provenance": {
+    "authority_source": "reports/entity_review/structured/aetius_book1.json",
+    "authority_recipe_id": "aetius-1-104",
+    "authority_lemma": "Αἰγείρινον",
+    "model": "gpt-5.4",
+    "reasoning_effort": "high",
+    "dataset_key": "aetius_book1_oils",
+    "entity_model_version": "1.2",
+    "authority_version": "2026-04-13-qty-alt-v1",
+    "prompt_version": "qty-alt-pass-v1",
+    "build_version": "2026-05-18T15:51:35Z"
+  },
+  "schema_version": "1.2",
+  "build_metadata": {
+    "builder": "scripts/recipes/build_recipe_entities.py",
+    "built_at": "2026-05-18T15:51:35Z",
+    "source_structured_authority": "reports/entity_review/structured/aetius_book1.json",
+    "authority_model": "gpt-5.4",
+    "authority_reasoning_effort": "high",
+    "dataset_key": "aetius_book1_oils",
+    "entity_model_version": "1.2",
+    "authority_version": "2026-04-13-qty-alt-v1",
+    "prompt_version": "qty-alt-pass-v1",
+    "build_version": "2026-05-18T15:51:35Z"
+  },
+  "recipe_text_excerpt": "Αἰγείρινον. Τὸ δὲ αἰγείρινον σκευάζεται ἐν τῷ ἔαρι, ὅτε πολλὴ περὶ τὸ σπερμάτιόν ἐστι ῥητίνη. λαβόντες γὰρ τοὺς κόκκους ἐνθλῶσιν",
+  "preparation": {
+    "preparation_id": "aetius-1-104:preparation:aigeirinon",
+    "preparation_urn": "urn:aos:recipe-preparation:aetius-1-104:preparation:aigeirinon",
+    "source_span": "Αἰγείρινον",
+    "surface_form": "Αἰγείρινον",
+    "normalized_label": "Αἰγείρινον",
+    "qualifiers": [],
+    "regimen_notes": [],
+    "certainty": "certain",
+    "notes": [],
+    "host_locator": {
+      "book": "1",
+      "chapter": "104",
+      "section": "104",
+      "citation": {
+        "start": "55.8",
+        "end": "55.13"
+      }
+    }
+  },
+  "ingredients": [
+    {
+      "ingredient_id": "aetius-1-104:ingredient:kokkos-1",
+      "ingredient_urn": "urn:aos:recipe-ingredient:aetius-1-104:ingredient:kokkos-1",
+      "source_span": "τοὺς κόκκους",
+      "surface_form": "τοὺς κόκκους",
+      "base_label": "κόκκος",
+      "normalized_label": "κόκκος",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [
+        "aetius-1-104:process:lambanein-2",
+        "aetius-1-104:process:enthlan-3",
+        "aetius-1-104:process:istanai-4",
+        "aetius-1-104:process:emballein-5"
+      ],
+      "quantities": [],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "104",
+        "section": "104",
+        "citation": {
+          "start": "55.8",
+          "end": "55.13"
+        }
+      }
+    },
+    {
+      "ingredient_id": "aetius-1-104:ingredient:elaion-glyky-italikon-2",
+      "ingredient_urn": "urn:aos:recipe-ingredient:aetius-1-104:ingredient:elaion-glyky-italikon-2",
+      "source_span": "ἐλαίου γλυκέος ξέστην ἰταλικὸν",
+      "surface_form": "ἐλαίου γλυκέος ξέστην ἰταλικὸν",
+      "base_label": "ἔλαιον",
+      "normalized_label": "ἔλαιον γλυκὺ Ἰταλικόν",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [
+        "aetius-1-104:process:emballein-5",
+        "aetius-1-104:process:elioyn-6"
+      ],
+      "quantities": [
+        {
+          "source_span": "ξέστην ἰταλικὸν",
+          "raw_number": null,
+          "normalized_number": 1,
+          "raw_unit": "ξέστην ἰταλικὸν",
+          "normalized_unit": "xestes",
+          "certainty": "uncertain",
+          "notes": [
+            "Singular measure phrase implies one sextarius; no numeral is written."
+          ]
+        }
+      ],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "104",
+        "section": "104",
+        "citation": {
+          "start": "55.8",
+          "end": "55.13"
+        }
+      }
+    }
+  ],
+  "processes": [
+    {
+      "process_id": "aetius-1-104:process:skeyazein-1",
+      "process_urn": "urn:aos:recipe-process:aetius-1-104:process:skeyazein-1",
+      "source_span": "σκευάζεται",
+      "surface_form": "σκευάζεται",
+      "normalized_label": "σκευάζειν",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "other",
+          "source_span": "ἐν τῷ ἔαρι",
+          "normalized_value": "ἔαρ",
+          "certainty": "certain",
+          "notes": []
+        },
+        {
+          "qualifier_type": "other",
+          "source_span": "ὅτε πολλὴ περὶ τὸ σπερμάτιόν ἐστι ῥητίνη",
+          "normalized_value": null,
+          "certainty": "certain",
+          "notes": [
+            "Seasonal condition for preparation."
+          ]
+        }
+      ],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "104",
+        "section": "104",
+        "citation": {
+          "start": "55.8",
+          "end": "55.13"
+        }
+      }
+    },
+    {
+      "process_id": "aetius-1-104:process:lambanein-2",
+      "process_urn": "urn:aos:recipe-process:aetius-1-104:process:lambanein-2",
+      "source_span": "λαβόντες",
+      "surface_form": "λαβόντες",
+      "normalized_label": "λαμβάνειν",
+      "target_type": "ingredient",
+      "target_ids": [
+        "aetius-1-104:ingredient:kokkos-1"
+      ],
+      "quantities": [],
+      "qualifiers": [],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "104",
+        "section": "104",
+        "citation": {
+          "start": "55.8",
+          "end": "55.13"
+        }
+      }
+    },
+    {
+      "process_id": "aetius-1-104:process:enthlan-3",
+      "process_urn": "urn:aos:recipe-process:aetius-1-104:process:enthlan-3",
+      "source_span": "ἐνθλῶσιν",
+      "surface_form": "ἐνθλῶσιν",
+      "normalized_label": "ἐνθλᾶν",
+      "target_type": "ingredient",
+      "target_ids": [
+        "aetius-1-104:ingredient:kokkos-1"
+      ],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "manner",
+          "source_span": "ἐπ' ὀλίγον",
+          "normalized_value": "ὀλίγον",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "104",
+        "section": "104",
+        "citation": {
+          "start": "55.8",
+          "end": "55.13"
+        }
+      }
+    },
+    {
+      "process_id": "aetius-1-104:process:istanai-4",
+      "process_urn": "urn:aos:recipe-process:aetius-1-104:process:istanai-4",
+      "source_span": "στήσαντες",
+      "surface_form": "στήσαντες",
+      "normalized_label": "ἱστάναι",
+      "target_type": "ingredient",
+      "target_ids": [
+        "aetius-1-104:ingredient:kokkos-1"
+      ],
+      "quantities": [
+        {
+          "source_span": "οὐγγίας δ",
+          "raw_number": "δ",
+          "normalized_number": 4,
+          "raw_unit": "οὐγγίας",
+          "normalized_unit": "uncia",
+          "certainty": "certain",
+          "notes": [
+            "Amount weighed refers to the previously mentioned grains."
+          ]
+        }
+      ],
+      "qualifiers": [],
+      "certainty": "uncertain",
+      "notes": [
+        "The participle likely refers to weighing out the grains."
+      ],
+      "host_locator": {
+        "book": "1",
+        "chapter": "104",
+        "section": "104",
+        "citation": {
+          "start": "55.8",
+          "end": "55.13"
+        }
+      }
+    },
+    {
+      "process_id": "aetius-1-104:process:emballein-5",
+      "process_urn": "urn:aos:recipe-process:aetius-1-104:process:emballein-5",
+      "source_span": "ἐμβάλλουσιν",
+      "surface_form": "ἐμβάλλουσιν",
+      "normalized_label": "ἐμβάλλειν",
+      "target_type": "ingredient",
+      "target_ids": [
+        "aetius-1-104:ingredient:kokkos-1"
+      ],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "location",
+          "source_span": "εἰς ἐλαίου γλυκέος ξέστην ἰταλικὸν",
+          "normalized_value": "εἰς ἔλαιον γλυκὺ Ἰταλικόν",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "104",
+        "section": "104",
+        "citation": {
+          "start": "55.8",
+          "end": "55.13"
+        }
+      }
+    },
+    {
+      "process_id": "aetius-1-104:process:elioyn-6",
+      "process_urn": "urn:aos:recipe-process:aetius-1-104:process:elioyn-6",
+      "source_span": "ἡλιοῦσιν",
+      "surface_form": "ἡλιοῦσιν",
+      "normalized_label": "ἡλιοῦν",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "duration",
+          "source_span": "ἡμέρας μ",
+          "normalized_value": "40 ἡμέραι",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "104",
+        "section": "104",
+        "citation": {
+          "start": "55.8",
+          "end": "55.13"
+        }
+      }
+    },
+    {
+      "process_id": "aetius-1-104:process:seiroyn-7",
+      "process_urn": "urn:aos:recipe-process:aetius-1-104:process:seiroyn-7",
+      "source_span": "σειρώσαντες",
+      "surface_form": "σειρώσαντες",
+      "normalized_label": "σειροῦν",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [],
+      "certainty": "uncertain",
+      "notes": [
+        "Normalization inferred from the participle; the exact lexical form is uncertain."
+      ],
+      "host_locator": {
+        "book": "1",
+        "chapter": "104",
+        "section": "104",
+        "citation": {
+          "start": "55.8",
+          "end": "55.13"
+        }
+      }
+    },
+    {
+      "process_id": "aetius-1-104:process:apotithesthai-8",
+      "process_urn": "urn:aos:recipe-process:aetius-1-104:process:apotithesthai-8",
+      "source_span": "ἀποτίθενται",
+      "surface_form": "ἀποτίθενται",
+      "normalized_label": "ἀποτίθεσθαι",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "manner",
+          "source_span": "οὕτως",
+          "normalized_value": "οὕτως",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "104",
+        "section": "104",
+        "citation": {
+          "start": "55.8",
+          "end": "55.13"
+        }
+      }
+    }
+  ],
+  "materials": [],
+  "people": [],
+  "places": [],
+  "uses": [],
+  "preparation_names": [],
+  "other_preparations_mentioned": [],
+  "works_mentioned": [],
+  "entities": [
+    {
+      "entity_urn": "urn:aos:recipe-preparation:aetius-1-104:preparation:aigeirinon",
+      "entity_type": "label",
+      "surface_form": "Αἰγείρινον",
+      "normalized_label": "Αἰγείρινον"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:aetius-1-104:ingredient:kokkos-1",
+      "entity_type": "ingredient",
+      "surface_form": "τοὺς κόκκους",
+      "normalized_label": "κόκκος"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:aetius-1-104:ingredient:elaion-glyky-italikon-2",
+      "entity_type": "ingredient",
+      "surface_form": "ἐλαίου γλυκέος ξέστην ἰταλικὸν",
+      "normalized_label": "ἔλαιον γλυκὺ Ἰταλικόν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:aetius-1-104:process:skeyazein-1",
+      "entity_type": "process",
+      "surface_form": "σκευάζεται",
+      "normalized_label": "σκευάζειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:aetius-1-104:process:lambanein-2",
+      "entity_type": "process",
+      "surface_form": "λαβόντες",
+      "normalized_label": "λαμβάνειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:aetius-1-104:process:enthlan-3",
+      "entity_type": "process",
+      "surface_form": "ἐνθλῶσιν",
+      "normalized_label": "ἐνθλᾶν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:aetius-1-104:process:istanai-4",
+      "entity_type": "process",
+      "surface_form": "στήσαντες",
+      "normalized_label": "ἱστάναι"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:aetius-1-104:process:emballein-5",
+      "entity_type": "process",
+      "surface_form": "ἐμβάλλουσιν",
+      "normalized_label": "ἐμβάλλειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:aetius-1-104:process:elioyn-6",
+      "entity_type": "process",
+      "surface_form": "ἡλιοῦσιν",
+      "normalized_label": "ἡλιοῦν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:aetius-1-104:process:seiroyn-7",
+      "entity_type": "process",
+      "surface_form": "σειρώσαντες",
+      "normalized_label": "σειροῦν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:aetius-1-104:process:apotithesthai-8",
+      "entity_type": "process",
+      "surface_form": "ἀποτίθενται",
+      "normalized_label": "ἀποτίθεσθαι"
+    }
+  ]
+}

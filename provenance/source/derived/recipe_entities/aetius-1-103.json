@@ -1,0 +1,195 @@
+{
+  "dataset_key": "aetius_book1_oils",
+  "source_json": "experiments/aetius-book1-ch99-136-oils/data/aetius_book1_ch99_136_oils.json",
+  "host_raw_file": "tei/raw/tlg0718001.xml",
+  "work_slug": "aetius.b1.oils",
+  "recipe_id": "aetius-1-103",
+  "recipe_urn": "urn:aos:recipe:aetius-1-103",
+  "record_urn": "urn:aos:recipe-record:aetius-1-103",
+  "author": "Aëtius of Amida",
+  "work": "Libri medicinales",
+  "book": "1",
+  "chapter": "103",
+  "section": "103",
+  "chapter_name": "Ῥαφάνινον",
+  "lemma": "Ῥαφάνινον",
+  "text": "Ῥαφάνινον. Τὸ δὲ ῥαφάνινον ὅμοιον τῷ κικίνῳ κατὰ τὰ ἄλλα ἐστί, θερμότερον δέ.",
+  "original_text": "Ῥαφάνινον. Τὸ δὲ ῥαφάνινον ὅμοιον τῷ κικίνῳ κατὰ τὰ ἄλλα ἐστί, θερμότερον δέ.",
+  "text_source": "olivieri",
+  "emendations": [],
+  "emendation_count": 0,
+  "source_kind": null,
+  "entry_kind": "recipe",
+  "citation": {
+    "pages": [
+      "55"
+    ],
+    "start": {
+      "page": "55",
+      "line": "6",
+      "xml_id": "oliv-55-6"
+    },
+    "end": {
+      "page": "55",
+      "line": "7",
+      "xml_id": "oliv-55-7"
+    },
+    "citation": {
+      "start": "55.6",
+      "end": "55.7"
+    },
+    "page_spans": [
+      {
+        "page": "55",
+        "start_line": "6",
+        "end_line": "7"
+      }
+    ],
+    "lines": [
+      {
+        "page": "55",
+        "line": "6",
+        "xml_id": "oliv-55-6",
+        "break_no": false,
+        "text": "Ῥαφάνινον. Τὸ δὲ ῥαφάνινον ὅμοιον τῷ κικίνῳ κατὰ τὰ ἄλλα",
+        "citation": "55.6"
+      },
+      {
+        "page": "55",
+        "line": "7",
+        "xml_id": "oliv-55-7",
+        "break_no": false,
+        "text": "ἐστί, θερμότερον δέ.",
+        "citation": "55.7"
+      }
+    ],
+    "edition_key": "olivieri"
+  },
+  "notes": [],
+  "alignment_status": "pending",
+  "alignment_confidence": "pending",
+  "alignment_evidence": null,
+  "review_status": "reviewed_structured_authority",
+  "review_provenance": {
+    "authority_source": "reports/entity_review/structured/aetius_book1.json",
+    "authority_recipe_id": "aetius-1-103",
+    "authority_lemma": "Ῥαφάνινον",
+    "model": "gpt-5.4",
+    "reasoning_effort": "high",
+    "dataset_key": "aetius_book1_oils",
+    "entity_model_version": "1.2",
+    "authority_version": "2026-04-13-qty-alt-v1",
+    "prompt_version": "qty-alt-pass-v1",
+    "build_version": "2026-05-18T15:51:35Z"
+  },
+  "schema_version": "1.2",
+  "build_metadata": {
+    "builder": "scripts/recipes/build_recipe_entities.py",
+    "built_at": "2026-05-18T15:51:35Z",
+    "source_structured_authority": "reports/entity_review/structured/aetius_book1.json",
+    "authority_model": "gpt-5.4",
+    "authority_reasoning_effort": "high",
+    "dataset_key": "aetius_book1_oils",
+    "entity_model_version": "1.2",
+    "authority_version": "2026-04-13-qty-alt-v1",
+    "prompt_version": "qty-alt-pass-v1",
+    "build_version": "2026-05-18T15:51:35Z"
+  },
+  "recipe_text_excerpt": "Ῥαφάνινον. Τὸ δὲ ῥαφάνινον ὅμοιον τῷ κικίνῳ κατὰ τὰ ἄλλα ἐστί, θερμότερον δέ.",
+  "preparation": {
+    "preparation_id": "aetius-1-103:preparation:raphaninon",
+    "preparation_urn": "urn:aos:recipe-preparation:aetius-1-103:preparation:raphaninon",
+    "source_span": "ῥαφάνινον",
+    "surface_form": "ῥαφάνινον",
+    "normalized_label": "Ῥαφάνινον",
+    "qualifiers": [],
+    "regimen_notes": [],
+    "certainty": "certain",
+    "notes": [],
+    "host_locator": {
+      "book": "1",
+      "chapter": "103",
+      "section": "103",
+      "citation": {
+        "start": "55.6",
+        "end": "55.7"
+      }
+    }
+  },
+  "ingredients": [
+    {
+      "ingredient_id": "aetius-1-103:ingredient:raphanis-1",
+      "ingredient_urn": "urn:aos:recipe-ingredient:aetius-1-103:ingredient:raphanis-1",
+      "source_span": "ῥαφάνινον",
+      "surface_form": "ῥαφάνινον",
+      "base_label": "ῥαφανίς",
+      "normalized_label": "ῥαφανίς",
+      "alternative_set_id": null,
+      "certainty": "uncertain",
+      "linked_process_ids": [],
+      "quantities": [],
+      "qualifiers": [],
+      "notes": [
+        "Ingredient inferred from the preparation name: ῥαφάνινον is radish oil."
+      ],
+      "host_locator": {
+        "book": "1",
+        "chapter": "103",
+        "section": "103",
+        "citation": {
+          "start": "55.6",
+          "end": "55.7"
+        }
+      }
+    }
+  ],
+  "processes": [],
+  "materials": [],
+  "people": [],
+  "places": [],
+  "uses": [],
+  "preparation_names": [],
+  "other_preparations_mentioned": [
+    {
+      "reference_id": "aetius-1-103:reference:elaion-kikinon-1",
+      "reference_urn": "urn:aos:recipe-reference:aetius-1-103:reference:elaion-kikinon-1",
+      "source_span": "κικίνῳ",
+      "surface_form": "κικίνῳ",
+      "normalized_label": "ἔλαιον κίκινον",
+      "certainty": "uncertain",
+      "notes": [
+        "Distinct preparation mentioned only in comparison; attested here in oblique form, with the head noun restored from the Book 1 κίκινον oil entry."
+      ],
+      "host_locator": {
+        "book": "1",
+        "chapter": "103",
+        "section": "103",
+        "citation": {
+          "start": "55.6",
+          "end": "55.7"
+        }
+      }
+    }
+  ],
+  "works_mentioned": [],
+  "entities": [
+    {
+      "entity_urn": "urn:aos:recipe-preparation:aetius-1-103:preparation:raphaninon",
+      "entity_type": "label",
+      "surface_form": "ῥαφάνινον",
+      "normalized_label": "Ῥαφάνινον"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:aetius-1-103:ingredient:raphanis-1",
+      "entity_type": "ingredient",
+      "surface_form": "ῥαφάνινον",
+      "normalized_label": "ῥαφανίς"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-reference:aetius-1-103:reference:elaion-kikinon-1",
+      "entity_type": "preparation_reference",
+      "surface_form": "κικίνῳ",
+      "normalized_label": "ἔλαιον κίκινον"
+    }
+  ]
+}

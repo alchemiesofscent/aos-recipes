@@ -1,0 +1,445 @@
+{
+  "dataset_key": "aetius_book1_oils",
+  "source_json": "experiments/aetius-book1-ch99-136-oils/data/aetius_book1_ch99_136_oils.json",
+  "host_raw_file": "tei/raw/tlg0718001.xml",
+  "work_slug": "aetius.b1.oils",
+  "recipe_id": "aetius-1-109",
+  "recipe_urn": "urn:aos:recipe:aetius-1-109",
+  "record_urn": "urn:aos:recipe-record:aetius-1-109",
+  "author": "Aëtius of Amida",
+  "work": "Libri medicinales",
+  "book": "1",
+  "chapter": "109",
+  "section": "109",
+  "chapter_name": "Σησάμινον",
+  "lemma": "Σησάμινον",
+  "text": "Σησάμινον. Σκευάζεται τοῦτο ἐκ τοῦ σησάμου τριβομένου καὶ ἐμβαλλομένου ὕδατι. τὴν δὲ δύναμιν οὐ μακράν ἐστι τοῦ γλυκέος ἐλαίου. τῆς τε γὰρ θερμασίας μέσως ἔχει καὶ ἄστυφόν ἐστι παντελῶς γευομένοις, καὶ εἰς τὸ ἐσθίειν ἐπιτήδειον, ἡδύ τε ὑπάρχον τῇ γεύσει καὶ πεττόμενον ῥᾳδίως καὶ ὑπαγωγὸν τῆς γαστρός. ἔξωθεν δὲ χριόμενον διὰ τὸ πάχος ἐμπλαστικόν ἐστιν. εἰς μέντοι κατασκευὴν τῶν πρὸς εὐωδίαν συντιθεμένων ἐλαίων ἐπιτηδειότερόν ἐστι τοῦ κοινοῦ ἐλαίου διὰ τὸ μόνιμον εἶναι καὶ μὴ ῥᾳδίως σήπεσθαι.",
+  "original_text": "Σησάμινον. Σκευάζεται τοῦτο ἐκ τοῦ σησάμου τριβομένου καὶ ἐμβαλλομένου ὕδατι. τὴν δὲ δύναμιν οὐ μακράν ἐστι τοῦ γλυκέος ἐλαίου. τῆς τε γὰρ θερμασίας μέσως ἔχει καὶ ἄστυφόν ἐστι παντελῶς γευομένοις, καὶ εἰς τὸ ἐσθίειν ἐπιτήδειον, ἡδύ τε ὑπάρχον τῇ γεύσει καὶ πεττόμενον ῥᾳδίως καὶ ὑπαγωγὸν τῆς γαστρός. ἔξωθεν δὲ χριόμενον διὰ τὸ πάχος ἐμπλαστικόν ἐστιν. εἰς μέντοι κατασκευὴν τῶν πρὸς εὐωδίαν συντιθεμένων ἐλαίων ἐπιτηδειότερόν ἐστι τοῦ κοινοῦ ἐλαίου διὰ τὸ μόνιμον εἶναι καὶ μὴ ῥᾳδίως σήπεσθαι.",
+  "text_source": "olivieri",
+  "emendations": [],
+  "emendation_count": 0,
+  "source_kind": null,
+  "entry_kind": "recipe",
+  "citation": {
+    "pages": [
+      "56"
+    ],
+    "start": {
+      "page": "56",
+      "line": "18",
+      "xml_id": "oliv-56-18"
+    },
+    "end": {
+      "page": "56",
+      "line": "25",
+      "xml_id": "oliv-56-25"
+    },
+    "citation": {
+      "start": "56.18",
+      "end": "56.25"
+    },
+    "page_spans": [
+      {
+        "page": "56",
+        "start_line": "18",
+        "end_line": "25"
+      }
+    ],
+    "lines": [
+      {
+        "page": "56",
+        "line": "18",
+        "xml_id": "oliv-56-18",
+        "break_no": false,
+        "text": "Σησάμινον. Σκευάζεται τοῦτο ἐκ τοῦ σησάμου τριβομένου καὶ ἐμ-",
+        "citation": "56.18"
+      },
+      {
+        "page": "56",
+        "line": "19",
+        "xml_id": "oliv-56-19",
+        "break_no": true,
+        "text": "βαλλομένου ὕδατι. τὴν δὲ δύναμιν οὐ μακράν ἐστι τοῦ γλυκέος ἐλαίου.",
+        "citation": "56.19"
+      },
+      {
+        "page": "56",
+        "line": "20",
+        "xml_id": "oliv-56-20",
+        "break_no": false,
+        "text": "τῆς τε γὰρ θερμασίας μέσως ἔχει καὶ ἄστυφόν ἐστι παντελῶς γευο-",
+        "citation": "56.20"
+      },
+      {
+        "page": "56",
+        "line": "21",
+        "xml_id": "oliv-56-21",
+        "break_no": true,
+        "text": "μένοις, καὶ εἰς τὸ ἐσθίειν ἐπιτήδειον, ἡδύ τε ὑπάρχον τῇ γεύσει",
+        "citation": "56.21"
+      },
+      {
+        "page": "56",
+        "line": "22",
+        "xml_id": "oliv-56-22",
+        "break_no": false,
+        "text": "καὶ πεττόμενον ῥᾳδίως καὶ ὑπαγωγὸν τῆς γαστρός. ἔξωθεν δὲ χριό-",
+        "citation": "56.22"
+      },
+      {
+        "page": "56",
+        "line": "23",
+        "xml_id": "oliv-56-23",
+        "break_no": true,
+        "text": "μενον διὰ τὸ πάχος ἐμπλαστικόν ἐστιν. εἰς μέντοι κατασκευὴν τῶν",
+        "citation": "56.23"
+      },
+      {
+        "page": "56",
+        "line": "24",
+        "xml_id": "oliv-56-24",
+        "break_no": false,
+        "text": "πρὸς εὐωδίαν συντιθεμένων ἐλαίων ἐπιτηδειότερόν ἐστι τοῦ κοινοῦ",
+        "citation": "56.24"
+      },
+      {
+        "page": "56",
+        "line": "25",
+        "xml_id": "oliv-56-25",
+        "break_no": false,
+        "text": "ἐλαίου διὰ τὸ μόνιμον εἶναι καὶ μὴ ῥᾳδίως σήπεσθαι.",
+        "citation": "56.25"
+      }
+    ],
+    "edition_key": "olivieri"
+  },
+  "notes": [],
+  "alignment_status": "pending",
+  "alignment_confidence": "pending",
+  "alignment_evidence": null,
+  "review_status": "reviewed_structured_authority",
+  "review_provenance": {
+    "authority_source": "reports/entity_review/structured/aetius_book1.json",
+    "authority_recipe_id": "aetius-1-109",
+    "authority_lemma": "Σησάμινον",
+    "model": "gpt-5.4",
+    "reasoning_effort": "high",
+    "dataset_key": "aetius_book1_oils",
+    "entity_model_version": "1.2",
+    "authority_version": "2026-04-13-qty-alt-v1",
+    "prompt_version": "qty-alt-pass-v1",
+    "build_version": "2026-05-18T15:51:35Z"
+  },
+  "schema_version": "1.2",
+  "build_metadata": {
+    "builder": "scripts/recipes/build_recipe_entities.py",
+    "built_at": "2026-05-18T15:51:35Z",
+    "source_structured_authority": "reports/entity_review/structured/aetius_book1.json",
+    "authority_model": "gpt-5.4",
+    "authority_reasoning_effort": "high",
+    "dataset_key": "aetius_book1_oils",
+    "entity_model_version": "1.2",
+    "authority_version": "2026-04-13-qty-alt-v1",
+    "prompt_version": "qty-alt-pass-v1",
+    "build_version": "2026-05-18T15:51:35Z"
+  },
+  "recipe_text_excerpt": "Σησάμινον. Σκευάζεται τοῦτο ἐκ τοῦ σησάμου τριβομένου καὶ ἐμβαλλομένου ὕδατι. τὴν δὲ δύναμιν οὐ μακράν ἐστι τοῦ γλυκέος ἐλαίου. τῆς",
+  "preparation": {
+    "preparation_id": "aetius-1-109:preparation:sesaminon",
+    "preparation_urn": "urn:aos:recipe-preparation:aetius-1-109:preparation:sesaminon",
+    "source_span": "Σησάμινον",
+    "surface_form": "Σησάμινον",
+    "normalized_label": "Σησάμινον",
+    "qualifiers": [],
+    "regimen_notes": [],
+    "certainty": "certain",
+    "notes": [],
+    "host_locator": {
+      "book": "1",
+      "chapter": "109",
+      "section": "109",
+      "citation": {
+        "start": "56.18",
+        "end": "56.25"
+      }
+    }
+  },
+  "ingredients": [
+    {
+      "ingredient_id": "aetius-1-109:ingredient:sesamon-1",
+      "ingredient_urn": "urn:aos:recipe-ingredient:aetius-1-109:ingredient:sesamon-1",
+      "source_span": "τοῦ σησάμου τριβομένου καὶ ἐμβαλλομένου ὕδατι",
+      "surface_form": "τοῦ σησάμου τριβομένου καὶ ἐμβαλλομένου ὕδατι",
+      "base_label": "σησάμου",
+      "normalized_label": "σήσαμον",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [
+        "aetius-1-109:process:tribein-1",
+        "aetius-1-109:process:emballein-2"
+      ],
+      "quantities": [],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "109",
+        "section": "109",
+        "citation": {
+          "start": "56.18",
+          "end": "56.25"
+        }
+      }
+    },
+    {
+      "ingredient_id": "aetius-1-109:ingredient:ydor-2",
+      "ingredient_urn": "urn:aos:recipe-ingredient:aetius-1-109:ingredient:ydor-2",
+      "source_span": "ὕδατι",
+      "surface_form": "ὕδατι",
+      "base_label": "ὕδατι",
+      "normalized_label": "ὕδωρ",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [
+        "aetius-1-109:process:emballein-2"
+      ],
+      "quantities": [],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "109",
+        "section": "109",
+        "citation": {
+          "start": "56.18",
+          "end": "56.25"
+        }
+      }
+    }
+  ],
+  "processes": [
+    {
+      "process_id": "aetius-1-109:process:tribein-1",
+      "process_urn": "urn:aos:recipe-process:aetius-1-109:process:tribein-1",
+      "source_span": "τριβομένου",
+      "surface_form": "τριβομένου",
+      "normalized_label": "τρίβειν",
+      "target_type": "ingredient",
+      "target_ids": [
+        "aetius-1-109:ingredient:sesamon-1"
+      ],
+      "quantities": [],
+      "qualifiers": [],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "109",
+        "section": "109",
+        "citation": {
+          "start": "56.18",
+          "end": "56.25"
+        }
+      }
+    },
+    {
+      "process_id": "aetius-1-109:process:emballein-2",
+      "process_urn": "urn:aos:recipe-process:aetius-1-109:process:emballein-2",
+      "source_span": "ἐμβαλλομένου",
+      "surface_form": "ἐμβαλλομένου",
+      "normalized_label": "ἐμβάλλειν",
+      "target_type": "ingredient",
+      "target_ids": [
+        "aetius-1-109:ingredient:sesamon-1"
+      ],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "other",
+          "source_span": "ὕδατι",
+          "normalized_value": "ὕδωρ",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "109",
+        "section": "109",
+        "citation": {
+          "start": "56.18",
+          "end": "56.25"
+        }
+      }
+    }
+  ],
+  "materials": [],
+  "people": [],
+  "places": [],
+  "uses": [
+    {
+      "use_id": "aetius-1-109:use:eis-to-esthiein-epitedeion-1",
+      "use_urn": "urn:aos:recipe-use:aetius-1-109:use:eis-to-esthiein-epitedeion-1",
+      "category": "other",
+      "source_span": "εἰς τὸ ἐσθίειν ἐπιτήδειον",
+      "snippet": "εἰς τὸ ἐσθίειν ἐπιτήδειον",
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "109",
+        "section": "109",
+        "citation": {
+          "start": "56.18",
+          "end": "56.25"
+        }
+      }
+    },
+    {
+      "use_id": "aetius-1-109:use:exothen-de-chriomenon-dia-to-pachos-emplastikon-estin-2",
+      "use_urn": "urn:aos:recipe-use:aetius-1-109:use:exothen-de-chriomenon-dia-to-pachos-emplastikon-estin-2",
+      "category": "medical",
+      "source_span": "ἔξωθεν δὲ χριόμενον διὰ τὸ πάχος ἐμπλαστικόν ἐστιν",
+      "snippet": "ἔξωθεν δὲ χριόμενον διὰ τὸ πάχος ἐμπλαστικόν ἐστιν",
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "109",
+        "section": "109",
+        "citation": {
+          "start": "56.18",
+          "end": "56.25"
+        }
+      }
+    },
+    {
+      "use_id": "aetius-1-109:use:eis-mentoi-kataskeyen-ton-pros-eyodian-syntithemenon-elaion-epitedeioteron-esti-toy-koinoy-elaioy-3",
+      "use_urn": "urn:aos:recipe-use:aetius-1-109:use:eis-mentoi-kataskeyen-ton-pros-eyodian-syntithemenon-elaion-epitedeioteron-esti-toy-koinoy-elaioy-3",
+      "category": "cosmetic",
+      "source_span": "εἰς μέντοι κατασκευὴν τῶν πρὸς εὐωδίαν συντιθεμένων ἐλαίων ἐπιτηδειότερόν ἐστι τοῦ κοινοῦ ἐλαίου",
+      "snippet": "εἰς μέντοι κατασκευὴν τῶν πρὸς εὐωδίαν συντιθεμένων ἐλαίων ἐπιτηδειότερόν ἐστι τοῦ κοινοῦ ἐλαίου",
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "109",
+        "section": "109",
+        "citation": {
+          "start": "56.18",
+          "end": "56.25"
+        }
+      }
+    }
+  ],
+  "preparation_names": [],
+  "other_preparations_mentioned": [
+    {
+      "reference_id": "aetius-1-109:reference:glyky-elaion-1",
+      "reference_urn": "urn:aos:recipe-reference:aetius-1-109:reference:glyky-elaion-1",
+      "source_span": "τοῦ γλυκέος ἐλαίου",
+      "surface_form": "τοῦ γλυκέος ἐλαίου",
+      "normalized_label": "γλυκὺ ἔλαιον",
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "109",
+        "section": "109",
+        "citation": {
+          "start": "56.18",
+          "end": "56.25"
+        }
+      }
+    },
+    {
+      "reference_id": "aetius-1-109:reference:elaia-pros-eyodian-syntithemena-2",
+      "reference_urn": "urn:aos:recipe-reference:aetius-1-109:reference:elaia-pros-eyodian-syntithemena-2",
+      "source_span": "τῶν πρὸς εὐωδίαν συντιθεμένων ἐλαίων",
+      "surface_form": "τῶν πρὸς εὐωδίαν συντιθεμένων ἐλαίων",
+      "normalized_label": "ἔλαια πρὸς εὐωδίαν συντιθέμενα",
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "109",
+        "section": "109",
+        "citation": {
+          "start": "56.18",
+          "end": "56.25"
+        }
+      }
+    },
+    {
+      "reference_id": "aetius-1-109:reference:koinon-elaion-3",
+      "reference_urn": "urn:aos:recipe-reference:aetius-1-109:reference:koinon-elaion-3",
+      "source_span": "τοῦ κοινοῦ ἐλαίου",
+      "surface_form": "τοῦ κοινοῦ ἐλαίου",
+      "normalized_label": "κοινὸν ἔλαιον",
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "109",
+        "section": "109",
+        "citation": {
+          "start": "56.18",
+          "end": "56.25"
+        }
+      }
+    }
+  ],
+  "works_mentioned": [],
+  "entities": [
+    {
+      "entity_urn": "urn:aos:recipe-preparation:aetius-1-109:preparation:sesaminon",
+      "entity_type": "label",
+      "surface_form": "Σησάμινον",
+      "normalized_label": "Σησάμινον"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:aetius-1-109:ingredient:sesamon-1",
+      "entity_type": "ingredient",
+      "surface_form": "τοῦ σησάμου τριβομένου καὶ ἐμβαλλομένου ὕδατι",
+      "normalized_label": "σήσαμον"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:aetius-1-109:ingredient:ydor-2",
+      "entity_type": "ingredient",
+      "surface_form": "ὕδατι",
+      "normalized_label": "ὕδωρ"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:aetius-1-109:process:tribein-1",
+      "entity_type": "process",
+      "surface_form": "τριβομένου",
+      "normalized_label": "τρίβειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:aetius-1-109:process:emballein-2",
+      "entity_type": "process",
+      "surface_form": "ἐμβαλλομένου",
+      "normalized_label": "ἐμβάλλειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-reference:aetius-1-109:reference:glyky-elaion-1",
+      "entity_type": "preparation_reference",
+      "surface_form": "τοῦ γλυκέος ἐλαίου",
+      "normalized_label": "γλυκὺ ἔλαιον"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-reference:aetius-1-109:reference:elaia-pros-eyodian-syntithemena-2",
+      "entity_type": "preparation_reference",
+      "surface_form": "τῶν πρὸς εὐωδίαν συντιθεμένων ἐλαίων",
+      "normalized_label": "ἔλαια πρὸς εὐωδίαν συντιθέμενα"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-reference:aetius-1-109:reference:koinon-elaion-3",
+      "entity_type": "preparation_reference",
+      "surface_form": "τοῦ κοινοῦ ἐλαίου",
+      "normalized_label": "κοινὸν ἔλαιον"
+    }
+  ]
+}

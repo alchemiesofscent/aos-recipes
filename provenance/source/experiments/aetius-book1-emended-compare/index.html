@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Aëtius Book 1 Emended Comparison</title>
+  <link rel="stylesheet" href="/experiments/aetius-book1-emended-compare/style.css">
+</head>
+<body>
+  <div class="shell">
+    <header class="masthead">
+      <p class="eyebrow">Experiment</p>
+      <p><a href="/experiments/">All perfume experiments</a></p>
+      <h1>Aëtius Book 1 Emended Comparison</h1>
+      <p class="chapter-name" id="chapter-name"></p>
+    </header>
+
+    <main class="layout">
+      <aside class="sidebar">
+        <section class="card summary-card">
+          <h2>Summary</h2>
+          <div class="summary-grid" id="summary"></div>
+        </section>
+
+        <section class="card filters-card">
+          <h2>Review Sets</h2>
+          <div class="filter-group" id="filters"></div>
+          <label class="toggle-row">
+            <input type="checkbox" id="show-unchanged" />
+            <span>Show unchanged set</span>
+          </label>
+        </section>
+
+        <section class="card recipe-list-card">
+          <div class="recipe-list-header">
+            <h2>Recipes</h2>
+            <div class="counter" id="recipe-counter"></div>
+          </div>
+          <div class="recipe-list" id="recipe-list"></div>
+        </section>
+      </aside>
+
+      <section class="reader">
+        <article class="card compare-card" id="compare-card"></article>
+      </section>
+    </main>
+  </div>
+
+  <script src="/experiments/aetius-book1-emended-compare/data/aetius_book1_emended_compare.js"></script>
+  <script src="/experiments/aetius-book1-emended-compare/app.js"></script>
+</body>
+</html>

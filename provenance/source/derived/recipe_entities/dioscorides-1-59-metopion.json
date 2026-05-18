@@ -1,0 +1,789 @@
+{
+  "dataset_key": "dioscorides_book1_perfumes_resins",
+  "source_json": "experiments/dioscorides-book1-perfumes-resins/data/dioscorides_book1_perfumes_resins.json",
+  "host_raw_file": "tei/raw/tlg0656.tlg001.1st1K-grc1.xml",
+  "work_slug": "diosc.b1.recipes",
+  "recipe_id": "dioscorides-1-59-metopion",
+  "recipe_urn": "urn:aos:recipe:dioscorides-1-59-metopion",
+  "record_urn": "urn:aos:recipe-record:dioscorides-1-59-metopion",
+  "author": "Dioscorides",
+  "work": "De materia medica",
+  "book": "1",
+  "chapter": "59",
+  "section": "1-2",
+  "chapter_name": "μετώπιον",
+  "lemma": "μετώπιον",
+  "text": "59 σκευάζεται δὲ ἐν Αἰγύπτῳ μύρον, ἐπιχωρίως ὑπʼ αὐτῶν καλούμενον μετώπιον διὰ τὴν τῆς χαλβάνης μεῖξιν· τὸ γὰρ ξύλον, ἐξ οὗ γεννᾶται ἡ χαλβάνη, μέτωπον καλεῖται. διʼ ἀμυγδάλων δὲ πικρῶν καὶ ἐλαίου ὀμφακίνου καὶ καρδαμώμου καὶ σχοίνου καὶ καλάμου καὶ μέλιτος καὶ οἴνου καὶ σμύρνης καὶ βαλσάμου καρποῦ καὶ χαλβάνης καὶ ῥητίνης συντίθεται. δόκιμον δέ ἐστι τὸ βαρύοσμον καὶ λιπαρόν, ἐμφαῖνον μᾶλλον τοῦ καρδαμώμου καὶ τῆς σμύρνης ἤπερ τῆς χαλβάνης. 2 σφόδρα δὲ θερμαίνει καὶ πυροῖ καὶ ἀναστομοῖ ἐπισπᾶταί τε καὶ καθαίρει ἕλκη, πρός τε νεῦρα καὶ μύας διακοπέντα ποιεῖ, ὑδροκήλας τε σὺν σηπταῖς. μείγνυται δὲ καὶ μαλάγμασι καὶ κηρωταῖς, πρός τε ῥίγη καὶ ὀπισθοτονικῶς σπωμένους χρησιμεύει. κινεῖ δὲ καὶ ἱδρῶτας καὶ ἀναστομοῖ τὰ περὶ ὑστέραν καὶ σκληρίας τὰς περὶ αὐτὴν χαλᾷ, καὶ καθόλου μαλακτικὴν ἔχει τὴν δύναμιν.",
+  "original_text": null,
+  "text_source": null,
+  "emendations": [],
+  "emendation_count": 0,
+  "source_kind": "main_text",
+  "entry_kind": "recipe",
+  "citation": {
+    "pages": [
+      "54",
+      "55"
+    ],
+    "start": {
+      "page": "54",
+      "line": "10"
+    },
+    "end": {
+      "page": "55",
+      "line": "5"
+    },
+    "citation": {
+      "start": "54.10",
+      "end": "55.5"
+    },
+    "page_spans": [
+      {
+        "page": "54",
+        "start_line": "10",
+        "end_line": "20"
+      },
+      {
+        "page": "55",
+        "start_line": "1",
+        "end_line": "5"
+      }
+    ],
+    "lines": [
+      {
+        "page": "54",
+        "line": "10",
+        "break_no": false,
+        "text": "59 σκευάζεται δὲ ἐν Αἰγύπτῳ μύρον, ἐπιχωρίως ὑπʼ αὐτῶν",
+        "citation": "54.10"
+      },
+      {
+        "page": "54",
+        "line": "15",
+        "break_no": false,
+        "text": "καλούμενον μετώπιον διὰ τὴν τῆς χαλβάνης μεῖξιν· τὸ γὰρ ξύλον, ἐξ οὗ γεννᾶται ἡ χαλβάνη, μέτωπον καλεῖται. διʼ ἀμυγδάλων δὲ πικρῶν καὶ ἐλαίου ὀμφακίνου καὶ καρδαμώμου καὶ σχοίνου καὶ καλάμου καὶ μέλιτος καὶ οἴνου καὶ σμύρνης καὶ βαλσάμου καρποῦ καὶ χαλβάνης καὶ ῥητίνης συντίθεται. δόκιμον",
+        "citation": "54.15"
+      },
+      {
+        "page": "54",
+        "line": "20",
+        "break_no": false,
+        "text": "δέ ἐστι τὸ βαρύοσμον καὶ λιπαρόν, ἐμφαῖνον μᾶλλον τοῦ καρδαμώμου καὶ τῆς σμύρνης ἤπερ τῆς χαλβάνης. 2 σφόδρα δὲ θερμαίνει καὶ πυροῖ καὶ ἀναστομοῖ ἐπισπᾶταί τε καὶ καθαίρει ἕλκη, πρός τε νεῦρα καὶ μύας διακοπέντα ποιεῖ,",
+        "citation": "54.20"
+      },
+      {
+        "page": "55",
+        "line": "1",
+        "break_no": false,
+        "text": "ὑδροκήλας τε σὺν σηπταῖς. μείγνυται δὲ καὶ μαλάγμασι καὶ κηρωταῖς, πρός τε ῥίγη καὶ ὀπισθοτονικῶς σπωμένους χρησιμεύει. κινεῖ δὲ καὶ ἱδρῶτας καὶ ἀναστομοῖ τὰ περὶ ὑστέραν καὶ σκληρίας τὰς περὶ αὐτὴν χαλᾷ, καὶ καθόλου μαλακτικὴν ἔχει",
+        "citation": "55.1"
+      },
+      {
+        "page": "55",
+        "line": "5",
+        "break_no": false,
+        "text": "τὴν δύναμιν.",
+        "citation": "55.5"
+      }
+    ],
+    "edition_key": "wellmann"
+  },
+  "notes": [
+    "Raw lines 1590-1633 are book 1 chapter 25 in this witness, although the prompt referred to chapter 35.",
+    "The perfume proemium is taken from the later transition at chapter 42 section 2 (raw lines 2306-2342), not from the chapter 25 κῦφι entry.",
+    "The ἰασμέλαιον entry is preserved only in the apparatus as an addition from another recension.",
+    "δόκιμον δέ ἐστι τὸ βαρύοσμον καὶ λιπαρόν, ἐμφαῖνον μᾶλλον τοῦ καρδαμώμου καὶ τῆς σμύρνης ἤπερ τῆς χαλβάνης."
+  ],
+  "alignment_status": "pending",
+  "alignment_confidence": "pending",
+  "alignment_evidence": null,
+  "review_status": "reviewed_structured_authority",
+  "review_provenance": {
+    "authority_source": "reports/entity_review/structured/dioscorides.json",
+    "authority_recipe_id": "dioscorides-1-59-metopion",
+    "authority_lemma": "μετώπιον",
+    "model": "gpt-5.4",
+    "reasoning_effort": "high",
+    "dataset_key": "dioscorides_book1_perfumes_resins",
+    "entity_model_version": "1.2",
+    "authority_version": "2026-04-13-qty-alt-v1",
+    "prompt_version": "qty-alt-pass-v1",
+    "build_version": "2026-05-18T15:51:35Z"
+  },
+  "schema_version": "1.2",
+  "build_metadata": {
+    "builder": "scripts/recipes/build_recipe_entities.py",
+    "built_at": "2026-05-18T15:51:35Z",
+    "source_structured_authority": "reports/entity_review/structured/dioscorides.json",
+    "authority_model": "gpt-5.4",
+    "authority_reasoning_effort": "high",
+    "dataset_key": "dioscorides_book1_perfumes_resins",
+    "entity_model_version": "1.2",
+    "authority_version": "2026-04-13-qty-alt-v1",
+    "prompt_version": "qty-alt-pass-v1",
+    "build_version": "2026-05-18T15:51:35Z"
+  },
+  "recipe_text_excerpt": "σκευάζεται δὲ ἐν Αἰγύπτῳ μύρον, ἐπιχωρίως ὑπʼ αὐτῶν καλούμενον μετώπιον διὰ τὴν τῆς χαλβάνης μεῖξιν· τὸ γὰρ ξύλον, ἐξ οὗ",
+  "preparation": {
+    "preparation_id": "dioscorides-1-59-metopion:preparation:metopion",
+    "preparation_urn": "urn:aos:recipe-preparation:dioscorides-1-59-metopion:preparation:metopion",
+    "source_span": "μετώπιον",
+    "surface_form": "μετώπιον",
+    "normalized_label": "μετώπιον",
+    "qualifiers": [
+      {
+        "qualifier_type": "other",
+        "source_span": "μύρον",
+        "normalized_value": "μύρον",
+        "certainty": "certain",
+        "notes": []
+      },
+      {
+        "qualifier_type": "location",
+        "source_span": "ἐν Αἰγύπτῳ",
+        "normalized_value": "Αἴγυπτος",
+        "certainty": "certain",
+        "notes": []
+      }
+    ],
+    "regimen_notes": [],
+    "certainty": "certain",
+    "notes": [],
+    "host_locator": {
+      "book": "1",
+      "chapter": "59",
+      "section": "1-2",
+      "citation": {
+        "start": "54.10",
+        "end": "55.5"
+      }
+    }
+  },
+  "ingredients": [
+    {
+      "ingredient_id": "dioscorides-1-59-metopion:ingredient:amygdala-pikra-1",
+      "ingredient_urn": "urn:aos:recipe-ingredient:dioscorides-1-59-metopion:ingredient:amygdala-pikra-1",
+      "source_span": "ἀμυγδάλων δὲ πικρῶν",
+      "surface_form": "ἀμυγδάλων δὲ πικρῶν",
+      "base_label": "ἀμυγδάλων",
+      "normalized_label": "ἀμύγδαλα πικρά",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [
+        "dioscorides-1-59-metopion:process:syntithenai-2"
+      ],
+      "quantities": [],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "59",
+        "section": "1-2",
+        "citation": {
+          "start": "54.10",
+          "end": "55.5"
+        }
+      }
+    },
+    {
+      "ingredient_id": "dioscorides-1-59-metopion:ingredient:elaion-omphakinon-2",
+      "ingredient_urn": "urn:aos:recipe-ingredient:dioscorides-1-59-metopion:ingredient:elaion-omphakinon-2",
+      "source_span": "ἐλαίου ὀμφακίνου",
+      "surface_form": "ἐλαίου ὀμφακίνου",
+      "base_label": "ἐλαίου",
+      "normalized_label": "ἔλαιον ὀμφάκινον",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [
+        "dioscorides-1-59-metopion:process:syntithenai-2"
+      ],
+      "quantities": [],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "59",
+        "section": "1-2",
+        "citation": {
+          "start": "54.10",
+          "end": "55.5"
+        }
+      }
+    },
+    {
+      "ingredient_id": "dioscorides-1-59-metopion:ingredient:kardamomon-3",
+      "ingredient_urn": "urn:aos:recipe-ingredient:dioscorides-1-59-metopion:ingredient:kardamomon-3",
+      "source_span": "καρδαμώμου",
+      "surface_form": "καρδαμώμου",
+      "base_label": "καρδαμώμου",
+      "normalized_label": "καρδάμωμον",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [
+        "dioscorides-1-59-metopion:process:syntithenai-2"
+      ],
+      "quantities": [],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "59",
+        "section": "1-2",
+        "citation": {
+          "start": "54.10",
+          "end": "55.5"
+        }
+      }
+    },
+    {
+      "ingredient_id": "dioscorides-1-59-metopion:ingredient:schoinos-4",
+      "ingredient_urn": "urn:aos:recipe-ingredient:dioscorides-1-59-metopion:ingredient:schoinos-4",
+      "source_span": "σχοίνου",
+      "surface_form": "σχοίνου",
+      "base_label": "σχοίνου",
+      "normalized_label": "σχοῖνος",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [
+        "dioscorides-1-59-metopion:process:syntithenai-2"
+      ],
+      "quantities": [],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "59",
+        "section": "1-2",
+        "citation": {
+          "start": "54.10",
+          "end": "55.5"
+        }
+      }
+    },
+    {
+      "ingredient_id": "dioscorides-1-59-metopion:ingredient:kalamos-5",
+      "ingredient_urn": "urn:aos:recipe-ingredient:dioscorides-1-59-metopion:ingredient:kalamos-5",
+      "source_span": "καλάμου",
+      "surface_form": "καλάμου",
+      "base_label": "καλάμου",
+      "normalized_label": "κάλαμος",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [
+        "dioscorides-1-59-metopion:process:syntithenai-2"
+      ],
+      "quantities": [],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "59",
+        "section": "1-2",
+        "citation": {
+          "start": "54.10",
+          "end": "55.5"
+        }
+      }
+    },
+    {
+      "ingredient_id": "dioscorides-1-59-metopion:ingredient:meli-6",
+      "ingredient_urn": "urn:aos:recipe-ingredient:dioscorides-1-59-metopion:ingredient:meli-6",
+      "source_span": "μέλιτος",
+      "surface_form": "μέλιτος",
+      "base_label": "μέλιτος",
+      "normalized_label": "μέλι",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [
+        "dioscorides-1-59-metopion:process:syntithenai-2"
+      ],
+      "quantities": [],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "59",
+        "section": "1-2",
+        "citation": {
+          "start": "54.10",
+          "end": "55.5"
+        }
+      }
+    },
+    {
+      "ingredient_id": "dioscorides-1-59-metopion:ingredient:oinos-7",
+      "ingredient_urn": "urn:aos:recipe-ingredient:dioscorides-1-59-metopion:ingredient:oinos-7",
+      "source_span": "οἴνου",
+      "surface_form": "οἴνου",
+      "base_label": "οἴνου",
+      "normalized_label": "οἶνος",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [
+        "dioscorides-1-59-metopion:process:syntithenai-2"
+      ],
+      "quantities": [],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "59",
+        "section": "1-2",
+        "citation": {
+          "start": "54.10",
+          "end": "55.5"
+        }
+      }
+    },
+    {
+      "ingredient_id": "dioscorides-1-59-metopion:ingredient:smyrna-8",
+      "ingredient_urn": "urn:aos:recipe-ingredient:dioscorides-1-59-metopion:ingredient:smyrna-8",
+      "source_span": "σμύρνης",
+      "surface_form": "σμύρνης",
+      "base_label": "σμύρνης",
+      "normalized_label": "σμύρνα",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [
+        "dioscorides-1-59-metopion:process:syntithenai-2"
+      ],
+      "quantities": [],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "59",
+        "section": "1-2",
+        "citation": {
+          "start": "54.10",
+          "end": "55.5"
+        }
+      }
+    },
+    {
+      "ingredient_id": "dioscorides-1-59-metopion:ingredient:karpos-balsamoy-9",
+      "ingredient_urn": "urn:aos:recipe-ingredient:dioscorides-1-59-metopion:ingredient:karpos-balsamoy-9",
+      "source_span": "βαλσάμου καρποῦ",
+      "surface_form": "βαλσάμου καρποῦ",
+      "base_label": "καρποῦ",
+      "normalized_label": "καρπὸς βαλσάμου",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [
+        "dioscorides-1-59-metopion:process:syntithenai-2"
+      ],
+      "quantities": [],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "59",
+        "section": "1-2",
+        "citation": {
+          "start": "54.10",
+          "end": "55.5"
+        }
+      }
+    },
+    {
+      "ingredient_id": "dioscorides-1-59-metopion:ingredient:chalbane-10",
+      "ingredient_urn": "urn:aos:recipe-ingredient:dioscorides-1-59-metopion:ingredient:chalbane-10",
+      "source_span": "χαλβάνης",
+      "surface_form": "χαλβάνης",
+      "base_label": "χαλβάνης",
+      "normalized_label": "χαλβάνη",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [
+        "dioscorides-1-59-metopion:process:syntithenai-2"
+      ],
+      "quantities": [],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "59",
+        "section": "1-2",
+        "citation": {
+          "start": "54.10",
+          "end": "55.5"
+        }
+      }
+    },
+    {
+      "ingredient_id": "dioscorides-1-59-metopion:ingredient:retine-11",
+      "ingredient_urn": "urn:aos:recipe-ingredient:dioscorides-1-59-metopion:ingredient:retine-11",
+      "source_span": "ῥητίνης",
+      "surface_form": "ῥητίνης",
+      "base_label": "ῥητίνης",
+      "normalized_label": "ῥητίνη",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [
+        "dioscorides-1-59-metopion:process:syntithenai-2"
+      ],
+      "quantities": [],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "59",
+        "section": "1-2",
+        "citation": {
+          "start": "54.10",
+          "end": "55.5"
+        }
+      }
+    }
+  ],
+  "processes": [
+    {
+      "process_id": "dioscorides-1-59-metopion:process:skeyazein-1",
+      "process_urn": "urn:aos:recipe-process:dioscorides-1-59-metopion:process:skeyazein-1",
+      "source_span": "σκευάζεται",
+      "surface_form": "σκευάζεται",
+      "normalized_label": "σκευάζειν",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "location",
+          "source_span": "ἐν Αἰγύπτῳ",
+          "normalized_value": "ἐν Αἰγύπτῳ",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "59",
+        "section": "1-2",
+        "citation": {
+          "start": "54.10",
+          "end": "55.5"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-1-59-metopion:process:syntithenai-2",
+      "process_urn": "urn:aos:recipe-process:dioscorides-1-59-metopion:process:syntithenai-2",
+      "source_span": "συντίθεται",
+      "surface_form": "συντίθεται",
+      "normalized_label": "συντιθέναι",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "59",
+        "section": "1-2",
+        "citation": {
+          "start": "54.10",
+          "end": "55.5"
+        }
+      }
+    }
+  ],
+  "materials": [],
+  "people": [],
+  "places": [
+    {
+      "place_id": "dioscorides-1-59-metopion:place:aigyptos-1",
+      "place_urn": "urn:aos:recipe-place:dioscorides-1-59-metopion:place:aigyptos-1",
+      "source_span": "Αἰγύπτῳ",
+      "surface_form": "Αἰγύπτῳ",
+      "normalized_label": "Αἴγυπτος",
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "59",
+        "section": "1-2",
+        "citation": {
+          "start": "54.10",
+          "end": "55.5"
+        }
+      }
+    }
+  ],
+  "uses": [
+    {
+      "use_id": "dioscorides-1-59-metopion:use:epispatai-te-kai-kathairei-elke-1",
+      "use_urn": "urn:aos:recipe-use:dioscorides-1-59-metopion:use:epispatai-te-kai-kathairei-elke-1",
+      "category": "medical",
+      "source_span": "ἐπισπᾶταί τε καὶ καθαίρει ἕλκη",
+      "snippet": "ἐπισπᾶταί τε καὶ καθαίρει ἕλκη",
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "59",
+        "section": "1-2",
+        "citation": {
+          "start": "54.10",
+          "end": "55.5"
+        }
+      }
+    },
+    {
+      "use_id": "dioscorides-1-59-metopion:use:pros-te-neyra-kai-myas-diakopenta-poiei-2",
+      "use_urn": "urn:aos:recipe-use:dioscorides-1-59-metopion:use:pros-te-neyra-kai-myas-diakopenta-poiei-2",
+      "category": "medical",
+      "source_span": "πρός τε νεῦρα καὶ μύας διακοπέντα ποιεῖ",
+      "snippet": "πρός τε νεῦρα καὶ μύας διακοπέντα ποιεῖ",
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "59",
+        "section": "1-2",
+        "citation": {
+          "start": "54.10",
+          "end": "55.5"
+        }
+      }
+    },
+    {
+      "use_id": "dioscorides-1-59-metopion:use:ydrokelas-te-syn-septais-3",
+      "use_urn": "urn:aos:recipe-use:dioscorides-1-59-metopion:use:ydrokelas-te-syn-septais-3",
+      "category": "medical",
+      "source_span": "ὑδροκήλας τε σὺν σηπταῖς",
+      "snippet": "ὑδροκήλας τε σὺν σηπταῖς",
+      "certainty": "uncertain",
+      "notes": [
+        "Elliptical phrasing; the governing verb is not restated in this span."
+      ],
+      "host_locator": {
+        "book": "1",
+        "chapter": "59",
+        "section": "1-2",
+        "citation": {
+          "start": "54.10",
+          "end": "55.5"
+        }
+      }
+    },
+    {
+      "use_id": "dioscorides-1-59-metopion:use:pros-te-rige-kai-opisthotonikos-spomenoys-chresimeyei-4",
+      "use_urn": "urn:aos:recipe-use:dioscorides-1-59-metopion:use:pros-te-rige-kai-opisthotonikos-spomenoys-chresimeyei-4",
+      "category": "medical",
+      "source_span": "πρός τε ῥίγη καὶ ὀπισθοτονικῶς σπωμένους χρησιμεύει",
+      "snippet": "πρός τε ῥίγη καὶ ὀπισθοτονικῶς σπωμένους χρησιμεύει",
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "59",
+        "section": "1-2",
+        "citation": {
+          "start": "54.10",
+          "end": "55.5"
+        }
+      }
+    },
+    {
+      "use_id": "dioscorides-1-59-metopion:use:kinei-de-kai-idrotas-5",
+      "use_urn": "urn:aos:recipe-use:dioscorides-1-59-metopion:use:kinei-de-kai-idrotas-5",
+      "category": "medical",
+      "source_span": "κινεῖ δὲ καὶ ἱδρῶτας",
+      "snippet": "κινεῖ δὲ καὶ ἱδρῶτας",
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "59",
+        "section": "1-2",
+        "citation": {
+          "start": "54.10",
+          "end": "55.5"
+        }
+      }
+    },
+    {
+      "use_id": "dioscorides-1-59-metopion:use:anastomoi-ta-peri-ysteran-6",
+      "use_urn": "urn:aos:recipe-use:dioscorides-1-59-metopion:use:anastomoi-ta-peri-ysteran-6",
+      "category": "medical",
+      "source_span": "ἀναστομοῖ τὰ περὶ ὑστέραν",
+      "snippet": "ἀναστομοῖ τὰ περὶ ὑστέραν",
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "59",
+        "section": "1-2",
+        "citation": {
+          "start": "54.10",
+          "end": "55.5"
+        }
+      }
+    },
+    {
+      "use_id": "dioscorides-1-59-metopion:use:sklerias-tas-peri-ayten-chala-7",
+      "use_urn": "urn:aos:recipe-use:dioscorides-1-59-metopion:use:sklerias-tas-peri-ayten-chala-7",
+      "category": "medical",
+      "source_span": "σκληρίας τὰς περὶ αὐτὴν χαλᾷ",
+      "snippet": "σκληρίας τὰς περὶ αὐτὴν χαλᾷ",
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "59",
+        "section": "1-2",
+        "citation": {
+          "start": "54.10",
+          "end": "55.5"
+        }
+      }
+    }
+  ],
+  "preparation_names": [],
+  "other_preparations_mentioned": [
+    {
+      "reference_id": "dioscorides-1-59-metopion:reference:malagma-1",
+      "reference_urn": "urn:aos:recipe-reference:dioscorides-1-59-metopion:reference:malagma-1",
+      "source_span": "μαλάγμασι",
+      "surface_form": "μαλάγμασι",
+      "normalized_label": "μάλαγμα",
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "59",
+        "section": "1-2",
+        "citation": {
+          "start": "54.10",
+          "end": "55.5"
+        }
+      }
+    },
+    {
+      "reference_id": "dioscorides-1-59-metopion:reference:kerote-2",
+      "reference_urn": "urn:aos:recipe-reference:dioscorides-1-59-metopion:reference:kerote-2",
+      "source_span": "κηρωταῖς",
+      "surface_form": "κηρωταῖς",
+      "normalized_label": "κηρωτή",
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "59",
+        "section": "1-2",
+        "citation": {
+          "start": "54.10",
+          "end": "55.5"
+        }
+      }
+    }
+  ],
+  "works_mentioned": [],
+  "entities": [
+    {
+      "entity_urn": "urn:aos:recipe-preparation:dioscorides-1-59-metopion:preparation:metopion",
+      "entity_type": "label",
+      "surface_form": "μετώπιον",
+      "normalized_label": "μετώπιον"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:dioscorides-1-59-metopion:ingredient:amygdala-pikra-1",
+      "entity_type": "ingredient",
+      "surface_form": "ἀμυγδάλων δὲ πικρῶν",
+      "normalized_label": "ἀμύγδαλα πικρά"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:dioscorides-1-59-metopion:ingredient:elaion-omphakinon-2",
+      "entity_type": "ingredient",
+      "surface_form": "ἐλαίου ὀμφακίνου",
+      "normalized_label": "ἔλαιον ὀμφάκινον"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:dioscorides-1-59-metopion:ingredient:kardamomon-3",
+      "entity_type": "ingredient",
+      "surface_form": "καρδαμώμου",
+      "normalized_label": "καρδάμωμον"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:dioscorides-1-59-metopion:ingredient:schoinos-4",
+      "entity_type": "ingredient",
+      "surface_form": "σχοίνου",
+      "normalized_label": "σχοῖνος"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:dioscorides-1-59-metopion:ingredient:kalamos-5",
+      "entity_type": "ingredient",
+      "surface_form": "καλάμου",
+      "normalized_label": "κάλαμος"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:dioscorides-1-59-metopion:ingredient:meli-6",
+      "entity_type": "ingredient",
+      "surface_form": "μέλιτος",
+      "normalized_label": "μέλι"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:dioscorides-1-59-metopion:ingredient:oinos-7",
+      "entity_type": "ingredient",
+      "surface_form": "οἴνου",
+      "normalized_label": "οἶνος"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:dioscorides-1-59-metopion:ingredient:smyrna-8",
+      "entity_type": "ingredient",
+      "surface_form": "σμύρνης",
+      "normalized_label": "σμύρνα"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:dioscorides-1-59-metopion:ingredient:karpos-balsamoy-9",
+      "entity_type": "ingredient",
+      "surface_form": "βαλσάμου καρποῦ",
+      "normalized_label": "καρπὸς βαλσάμου"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:dioscorides-1-59-metopion:ingredient:chalbane-10",
+      "entity_type": "ingredient",
+      "surface_form": "χαλβάνης",
+      "normalized_label": "χαλβάνη"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:dioscorides-1-59-metopion:ingredient:retine-11",
+      "entity_type": "ingredient",
+      "surface_form": "ῥητίνης",
+      "normalized_label": "ῥητίνη"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-1-59-metopion:process:skeyazein-1",
+      "entity_type": "process",
+      "surface_form": "σκευάζεται",
+      "normalized_label": "σκευάζειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-1-59-metopion:process:syntithenai-2",
+      "entity_type": "process",
+      "surface_form": "συντίθεται",
+      "normalized_label": "συντιθέναι"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-place:dioscorides-1-59-metopion:place:aigyptos-1",
+      "entity_type": "place",
+      "surface_form": "Αἰγύπτῳ",
+      "normalized_label": "Αἴγυπτος"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-reference:dioscorides-1-59-metopion:reference:malagma-1",
+      "entity_type": "preparation_reference",
+      "surface_form": "μαλάγμασι",
+      "normalized_label": "μάλαγμα"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-reference:dioscorides-1-59-metopion:reference:kerote-2",
+      "entity_type": "preparation_reference",
+      "surface_form": "κηρωταῖς",
+      "normalized_label": "κηρωτή"
+    }
+  ]
+}

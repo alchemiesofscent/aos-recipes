@@ -1,0 +1,1583 @@
+{
+  "dataset_key": "dioscorides_book1_perfumes_resins",
+  "source_json": "experiments/dioscorides-book1-perfumes-resins/data/dioscorides_book1_perfumes_resins.json",
+  "host_raw_file": "tei/raw/tlg0656.tlg001.1st1K-grc1.xml",
+  "work_slug": "diosc.b1.recipes",
+  "recipe_id": "dioscorides-1-56-irinon",
+  "recipe_urn": "urn:aos:recipe:dioscorides-1-56-irinon",
+  "record_urn": "urn:aos:recipe-record:dioscorides-1-56-irinon",
+  "author": "Dioscorides",
+  "work": "De materia medica",
+  "book": "1",
+  "chapter": "56",
+  "section": "1,3-4",
+  "chapter_name": "ἴρινον",
+  "lemma": "ἴρινον",
+  "text": "56 ἰρίνου στύψις· σπάθης λίτρας ἓξ οὐγγίας ὀκτώ, ἐλαίου λίτρας ἐννέα οὐγγίας πέντε κόψας ὡς λεπτότατα μεῖξον ὕδατος κοτύλαις δέκα καὶ βαλὼν εἰς χαλκὸν ἓψε, μέχρις οὗ τὴν ὀσμὴν ἀναλάβῃ, εἶτα ἀπήθει εἰς κρατῆρα μέλιτι κατακεχρισμένον. ἐκ τούτου τοῦ ἠρωματισμένου ἐλαίου τὸ πρῶτον ἴρινον σκευάζεται ἐναποβρεχομένης τῷ ἐστυμμένῳ ἐλαίῳ ἴρεως, ὡς ὑπογέγραπται. 3 κράτιστον δὲ ὑπάρχει τὸ ἐν τῇ ἀσφρήσει μηδενὸς ἄλλου, μόνης δὲ τῆς ἴριδος πνέον. τοιοῦτον δέ ἐστι τὸ ἐν Πέργῃ τῇς Παμσφυλίας καὶ ἐν Ἤλιδι τῆς Ἀχαίας γινόμενον. δύναμιν δὲ ἔχει μαλακτικήν, θερμαντικήν, ἐσχάρας τε καὶ σηπεδόνας καὶ ῥυπαρίας ἀνακαθαίρει καὶ ταῖς περὶ μήτραν διαθέσεσιν ἁρμόζει, φλεγμοναῖς τε καὶ μύσεσιν, ἔμβρυά τε ἐκβάλλει καὶ αἱμορροίδας ἀναστομοῖ, πρός τε ἤχους ὤτων σὺν ὄξει καὶ πηγάνῳ καὶ πικροῖς ἀμυγδάλοις, καὶ πρὸς κατάρρους χρονίζοντας διαχριομένων τῶν μυξωτήρων καὶ πρὸς ὀζαίνας. 4 καθαίρει δὲ καὶ τὴν κοιλίαν κυάθου πλῆθος ποθέν, ποιεῖ καὶ πρὸς εἰλεώδη, κινεῖ καὶ οὖρα. ἁρμόζει καὶ ἐπὶ τῶν δυσχερῶς ἐμούντων διαχριομένων τῶν δακτύλων ἢ τῶν ἐμετηρίων, καὶ ἐπὶ συναγχικῶν δὲ διαχριόμενον ἢ ἀναγαργαριζόμενον σὺν μελικράτῳ καὶ πρὸς τραχύτητα ἀρτηρίας. δίδοται καὶ τοῖς κώνειον ἢ μύκητας ἢ κόριον πεπωκόσιν.",
+  "original_text": null,
+  "text_source": null,
+  "emendations": [],
+  "emendation_count": 0,
+  "source_kind": "main_text",
+  "entry_kind": "recipe",
+  "citation": {
+    "pages": [
+      "51",
+      "52"
+    ],
+    "start": {
+      "page": "51",
+      "line": "25"
+    },
+    "end": {
+      "page": "52",
+      "line": "25"
+    },
+    "citation": {
+      "start": "51.25",
+      "end": "52.25"
+    },
+    "page_spans": [
+      {
+        "page": "51",
+        "start_line": "25",
+        "end_line": "25"
+      },
+      {
+        "page": "52",
+        "start_line": "1",
+        "end_line": "25"
+      }
+    ],
+    "lines": [
+      {
+        "page": "51",
+        "line": "25",
+        "break_no": false,
+        "text": "56 ἰρίνου στύψις· σπάθης λίτρας ἓξ οὐγγίας ὀκτώ, ἐλαίου",
+        "citation": "51.25"
+      },
+      {
+        "page": "52",
+        "line": "1",
+        "break_no": false,
+        "text": "λίτρας ἐννέα οὐγγίας πέντε κόψας ὡς λεπτότατα μεῖξον ὕδατος κοτύλαις δέκα καὶ βαλὼν εἰς χαλκὸν ἓψε, μέχρις οὗ τὴν ὀσμὴν ἀναλάβῃ, εἶτα ἀπήθει εἰς κρατῆρα μέλιτι κατακεχρισμένον. ἐκ τούτου τοῦ ἠρωματισμένου ἐλαίου τὸ πρῶτον ἴρινον σκευάζεται ἐναποβρεχομένης τῷ ἐστυμμένῳ ἐλαίῳ ἴρεως, ὡς ὑπογέγραπται.",
+        "citation": "52.1"
+      },
+      {
+        "page": "52",
+        "line": "10",
+        "break_no": false,
+        "text": "3 κράτιστον δὲ ὑπάρχει τὸ ἐν τῇ ἀσφρήσει μηδενὸς ἄλλου, μόνης δὲ τῆς ἴριδος",
+        "citation": "52.10"
+      },
+      {
+        "page": "52",
+        "line": "15",
+        "break_no": false,
+        "text": "πνέον. τοιοῦτον δέ ἐστι τὸ ἐν Πέργῃ τῇς Παμσφυλίας καὶ ἐν Ἤλιδι τῆς Ἀχαίας γινόμενον. δύναμιν δὲ ἔχει μαλακτικήν, θερμαντικήν, ἐσχάρας τε καὶ σηπεδόνας καὶ ῥυπαρίας ἀνακαθαίρει καὶ ταῖς περὶ μήτραν διαθέσεσιν ἁρμόζει, φλεγμοναῖς τε καὶ μύσεσιν, ἔμβρυά τε ἐκβάλλει",
+        "citation": "52.15"
+      },
+      {
+        "page": "52",
+        "line": "20",
+        "break_no": false,
+        "text": "καὶ αἱμορροίδας ἀναστομοῖ, πρός τε ἤχους ὤτων σὺν ὄξει καὶ πηγάνῳ καὶ πικροῖς ἀμυγδάλοις, καὶ πρὸς κατάρρους χρονίζοντας διαχριομένων τῶν μυξωτήρων καὶ πρὸς ὀζαίνας. 4 καθαίρει δὲ καὶ τὴν κοιλίαν κυάθου πλῆθος ποθέν, ποιεῖ καὶ πρὸς εἰλεώδη, κινεῖ καὶ οὖρα. ἁρμόζει καὶ ἐπὶ τῶν δυσχερῶς",
+        "citation": "52.20"
+      },
+      {
+        "page": "52",
+        "line": "25",
+        "break_no": false,
+        "text": "ἐμούντων διαχριομένων τῶν δακτύλων ἢ τῶν ἐμετηρίων, καὶ ἐπὶ συναγχικῶν δὲ διαχριόμενον ἢ ἀναγαργαριζόμενον σὺν μελικράτῳ καὶ πρὸς τραχύτητα ἀρτηρίας. δίδοται καὶ τοῖς κώνειον ἢ μύκητας ἢ κόριον πεπωκόσιν.",
+        "citation": "52.25"
+      }
+    ],
+    "edition_key": "wellmann"
+  },
+  "notes": [
+    "Raw lines 1590-1633 are book 1 chapter 25 in this witness, although the prompt referred to chapter 35.",
+    "The perfume proemium is taken from the later transition at chapter 42 section 2 (raw lines 2306-2342), not from the chapter 25 κῦφι entry.",
+    "The ἰασμέλαιον entry is preserved only in the apparatus as an addition from another recension.",
+    "Quality criterion: «τὸ ἐν τῇ ἀσφρήσει μηδενὸς ἄλλου, μόνης δὲ τῆς ἴριδος πνέον»."
+  ],
+  "alignment_status": "pending",
+  "alignment_confidence": "pending",
+  "alignment_evidence": null,
+  "review_status": "reviewed_structured_authority",
+  "review_provenance": {
+    "authority_source": "reports/entity_review/structured/dioscorides.json",
+    "authority_recipe_id": "dioscorides-1-56-irinon",
+    "authority_lemma": "ἴρινον",
+    "model": "gpt-5.4",
+    "reasoning_effort": "high",
+    "dataset_key": "dioscorides_book1_perfumes_resins",
+    "entity_model_version": "1.2",
+    "authority_version": "2026-04-13-qty-alt-v1",
+    "prompt_version": "qty-alt-pass-v1",
+    "build_version": "2026-05-18T15:51:35Z"
+  },
+  "schema_version": "1.2",
+  "build_metadata": {
+    "builder": "scripts/recipes/build_recipe_entities.py",
+    "built_at": "2026-05-18T15:51:35Z",
+    "source_structured_authority": "reports/entity_review/structured/dioscorides.json",
+    "authority_model": "gpt-5.4",
+    "authority_reasoning_effort": "high",
+    "dataset_key": "dioscorides_book1_perfumes_resins",
+    "entity_model_version": "1.2",
+    "authority_version": "2026-04-13-qty-alt-v1",
+    "prompt_version": "qty-alt-pass-v1",
+    "build_version": "2026-05-18T15:51:35Z"
+  },
+  "recipe_text_excerpt": "ἰρίνου στύψις· σπάθης λίτρας ἓξ οὐγγίας ὀκτώ, ἐλαίου λίτρας ἐννέα οὐγγίας πέντε κόψας ὡς λεπτότατα μεῖξον ὕδατος κοτύλαις δέκα καὶ",
+  "preparation": {
+    "preparation_id": "dioscorides-1-56-irinon:preparation:irinon",
+    "preparation_urn": "urn:aos:recipe-preparation:dioscorides-1-56-irinon:preparation:irinon",
+    "source_span": "ἴρινον",
+    "surface_form": "ἴρινον",
+    "normalized_label": "ἴρινον",
+    "qualifiers": [
+      {
+        "qualifier_type": "cycle_count",
+        "source_span": "τὸ πρῶτον",
+        "normalized_value": "πρῶτον",
+        "certainty": "certain",
+        "notes": [
+          "Explicit first-pass or first-grade designation attached to the preparation name."
+        ]
+      }
+    ],
+    "regimen_notes": [],
+    "certainty": "certain",
+    "notes": [
+      "The preparation name is supported by the lemma and is restated in the text as «τὸ πρῶτον ἴρινον»."
+    ],
+    "host_locator": {
+      "book": "1",
+      "chapter": "56",
+      "section": "1,3-4",
+      "citation": {
+        "start": "51.25",
+        "end": "52.25"
+      }
+    }
+  },
+  "ingredients": [
+    {
+      "ingredient_id": "dioscorides-1-56-irinon:ingredient:spathe-1",
+      "ingredient_urn": "urn:aos:recipe-ingredient:dioscorides-1-56-irinon:ingredient:spathe-1",
+      "source_span": "σπάθης λίτρας ἓξ οὐγγίας ὀκτώ",
+      "surface_form": "σπάθης λίτρας ἓξ οὐγγίας ὀκτώ",
+      "base_label": "σπάθη",
+      "normalized_label": "σπάθη",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [
+        "dioscorides-1-56-irinon:process:koptein-1",
+        "dioscorides-1-56-irinon:process:meignynai-2"
+      ],
+      "quantities": [
+        {
+          "source_span": "λίτρας ἓξ",
+          "raw_number": "ἓξ",
+          "normalized_number": 6,
+          "raw_unit": "λίτρας",
+          "normalized_unit": "litra",
+          "certainty": "certain",
+          "notes": []
+        },
+        {
+          "source_span": "οὐγγίας ὀκτώ",
+          "raw_number": "ὀκτώ",
+          "normalized_number": 8,
+          "raw_unit": "οὐγγίας",
+          "normalized_unit": "uncia",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "56",
+        "section": "1,3-4",
+        "citation": {
+          "start": "51.25",
+          "end": "52.25"
+        }
+      }
+    },
+    {
+      "ingredient_id": "dioscorides-1-56-irinon:ingredient:elaion-2",
+      "ingredient_urn": "urn:aos:recipe-ingredient:dioscorides-1-56-irinon:ingredient:elaion-2",
+      "source_span": "ἐλαίου λίτρας ἐννέα οὐγγίας πέντε",
+      "surface_form": "ἐλαίου λίτρας ἐννέα οὐγγίας πέντε",
+      "base_label": "ἔλαιον",
+      "normalized_label": "ἔλαιον",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [
+        "dioscorides-1-56-irinon:process:meignynai-2"
+      ],
+      "quantities": [
+        {
+          "source_span": "λίτρας ἐννέα",
+          "raw_number": "ἐννέα",
+          "normalized_number": 9,
+          "raw_unit": "λίτρας",
+          "normalized_unit": "litra",
+          "certainty": "certain",
+          "notes": []
+        },
+        {
+          "source_span": "οὐγγίας πέντε",
+          "raw_number": "πέντε",
+          "normalized_number": 5,
+          "raw_unit": "οὐγγίας",
+          "normalized_unit": "uncia",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "56",
+        "section": "1,3-4",
+        "citation": {
+          "start": "51.25",
+          "end": "52.25"
+        }
+      }
+    },
+    {
+      "ingredient_id": "dioscorides-1-56-irinon:ingredient:ydor-3",
+      "ingredient_urn": "urn:aos:recipe-ingredient:dioscorides-1-56-irinon:ingredient:ydor-3",
+      "source_span": "ὕδατος κοτύλαις δέκα",
+      "surface_form": "ὕδατος κοτύλαις δέκα",
+      "base_label": "ὕδωρ",
+      "normalized_label": "ὕδωρ",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [
+        "dioscorides-1-56-irinon:process:meignynai-2"
+      ],
+      "quantities": [
+        {
+          "source_span": "κοτύλαις δέκα",
+          "raw_number": "δέκα",
+          "normalized_number": 10,
+          "raw_unit": "κοτύλαις",
+          "normalized_unit": "cotyle",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "56",
+        "section": "1,3-4",
+        "citation": {
+          "start": "51.25",
+          "end": "52.25"
+        }
+      }
+    },
+    {
+      "ingredient_id": "dioscorides-1-56-irinon:ingredient:elaion-eromatismenon-4",
+      "ingredient_urn": "urn:aos:recipe-ingredient:dioscorides-1-56-irinon:ingredient:elaion-eromatismenon-4",
+      "source_span": "τοῦ ἠρωματισμένου ἐλαίου",
+      "surface_form": "τοῦ ἠρωματισμένου ἐλαίου",
+      "base_label": "ἔλαιον",
+      "normalized_label": "ἔλαιον ἠρωματισμένον",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [
+        "dioscorides-1-56-irinon:process:aromatizein-6"
+      ],
+      "quantities": [],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "56",
+        "section": "1,3-4",
+        "citation": {
+          "start": "51.25",
+          "end": "52.25"
+        }
+      }
+    },
+    {
+      "ingredient_id": "dioscorides-1-56-irinon:ingredient:elaion-estymmenon-5",
+      "ingredient_urn": "urn:aos:recipe-ingredient:dioscorides-1-56-irinon:ingredient:elaion-estymmenon-5",
+      "source_span": "τῷ ἐστυμμένῳ ἐλαίῳ",
+      "surface_form": "τῷ ἐστυμμένῳ ἐλαίῳ",
+      "base_label": "ἔλαιον",
+      "normalized_label": "ἔλαιον ἐστυμμένον",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [
+        "dioscorides-1-56-irinon:process:stybein-8"
+      ],
+      "quantities": [],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "56",
+        "section": "1,3-4",
+        "citation": {
+          "start": "51.25",
+          "end": "52.25"
+        }
+      }
+    },
+    {
+      "ingredient_id": "dioscorides-1-56-irinon:ingredient:iris-6",
+      "ingredient_urn": "urn:aos:recipe-ingredient:dioscorides-1-56-irinon:ingredient:iris-6",
+      "source_span": "ἴρεως",
+      "surface_form": "ἴρεως",
+      "base_label": "ἴρις",
+      "normalized_label": "ἴρις",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [
+        "dioscorides-1-56-irinon:process:enapobrechein-9"
+      ],
+      "quantities": [],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "56",
+        "section": "1,3-4",
+        "citation": {
+          "start": "51.25",
+          "end": "52.25"
+        }
+      }
+    },
+    {
+      "ingredient_id": "dioscorides-1-56-irinon:ingredient:oxos-7",
+      "ingredient_urn": "urn:aos:recipe-ingredient:dioscorides-1-56-irinon:ingredient:oxos-7",
+      "source_span": "ὄξει",
+      "surface_form": "ὄξει",
+      "base_label": "ὄξος",
+      "normalized_label": "ὄξος",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [],
+      "quantities": [],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "56",
+        "section": "1,3-4",
+        "citation": {
+          "start": "51.25",
+          "end": "52.25"
+        }
+      }
+    },
+    {
+      "ingredient_id": "dioscorides-1-56-irinon:ingredient:peganon-8",
+      "ingredient_urn": "urn:aos:recipe-ingredient:dioscorides-1-56-irinon:ingredient:peganon-8",
+      "source_span": "πηγάνῳ",
+      "surface_form": "πηγάνῳ",
+      "base_label": "πήγανον",
+      "normalized_label": "πήγανον",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [],
+      "quantities": [],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "56",
+        "section": "1,3-4",
+        "citation": {
+          "start": "51.25",
+          "end": "52.25"
+        }
+      }
+    },
+    {
+      "ingredient_id": "dioscorides-1-56-irinon:ingredient:pikra-amygdala-9",
+      "ingredient_urn": "urn:aos:recipe-ingredient:dioscorides-1-56-irinon:ingredient:pikra-amygdala-9",
+      "source_span": "πικροῖς ἀμυγδάλοις",
+      "surface_form": "πικροῖς ἀμυγδάλοις",
+      "base_label": "ἀμύγδαλα",
+      "normalized_label": "πικρὰ ἀμύγδαλα",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [],
+      "quantities": [],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "56",
+        "section": "1,3-4",
+        "citation": {
+          "start": "51.25",
+          "end": "52.25"
+        }
+      }
+    },
+    {
+      "ingredient_id": "dioscorides-1-56-irinon:ingredient:melikraton-10",
+      "ingredient_urn": "urn:aos:recipe-ingredient:dioscorides-1-56-irinon:ingredient:melikraton-10",
+      "source_span": "μελικράτῳ",
+      "surface_form": "μελικράτῳ",
+      "base_label": "μελίκρατον",
+      "normalized_label": "μελίκρατον",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [],
+      "quantities": [],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "56",
+        "section": "1,3-4",
+        "citation": {
+          "start": "51.25",
+          "end": "52.25"
+        }
+      }
+    }
+  ],
+  "processes": [
+    {
+      "process_id": "dioscorides-1-56-irinon:process:koptein-1",
+      "process_urn": "urn:aos:recipe-process:dioscorides-1-56-irinon:process:koptein-1",
+      "source_span": "κόψας",
+      "surface_form": "κόψας",
+      "normalized_label": "κόπτειν",
+      "target_type": "ingredient",
+      "target_ids": [
+        "dioscorides-1-56-irinon:ingredient:spathe-1"
+      ],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "manner",
+          "source_span": "ὡς λεπτότατα",
+          "normalized_value": "λεπτότατα",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "56",
+        "section": "1,3-4",
+        "citation": {
+          "start": "51.25",
+          "end": "52.25"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-1-56-irinon:process:meignynai-2",
+      "process_urn": "urn:aos:recipe-process:dioscorides-1-56-irinon:process:meignynai-2",
+      "source_span": "μεῖξον",
+      "surface_form": "μεῖξον",
+      "normalized_label": "μείγνυναι",
+      "target_type": "ingredient",
+      "target_ids": [
+        "dioscorides-1-56-irinon:ingredient:spathe-1",
+        "dioscorides-1-56-irinon:ingredient:elaion-2",
+        "dioscorides-1-56-irinon:ingredient:elaion-eromatismenon-4",
+        "dioscorides-1-56-irinon:ingredient:elaion-estymmenon-5",
+        "dioscorides-1-56-irinon:ingredient:ydor-3"
+      ],
+      "quantities": [],
+      "qualifiers": [],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "56",
+        "section": "1,3-4",
+        "citation": {
+          "start": "51.25",
+          "end": "52.25"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-1-56-irinon:process:ballein-3",
+      "process_urn": "urn:aos:recipe-process:dioscorides-1-56-irinon:process:ballein-3",
+      "source_span": "βαλὼν",
+      "surface_form": "βαλὼν",
+      "normalized_label": "βάλλειν",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "location",
+          "source_span": "εἰς χαλκὸν",
+          "normalized_value": "εἰς χαλκόν",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "56",
+        "section": "1,3-4",
+        "citation": {
+          "start": "51.25",
+          "end": "52.25"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-1-56-irinon:process:epsein-4",
+      "process_urn": "urn:aos:recipe-process:dioscorides-1-56-irinon:process:epsein-4",
+      "source_span": "ἓψε",
+      "surface_form": "ἓψε",
+      "normalized_label": "ἕψειν",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "duration",
+          "source_span": "μέχρις οὗ τὴν ὀσμὴν ἀναλάβῃ",
+          "normalized_value": "μέχρις οὗ τὴν ὀσμὴν ἀναλάβῃ",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "56",
+        "section": "1,3-4",
+        "citation": {
+          "start": "51.25",
+          "end": "52.25"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-1-56-irinon:process:apethein-5",
+      "process_urn": "urn:aos:recipe-process:dioscorides-1-56-irinon:process:apethein-5",
+      "source_span": "ἀπήθει",
+      "surface_form": "ἀπήθει",
+      "normalized_label": "ἀπηθεῖν",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "location",
+          "source_span": "εἰς κρατῆρα μέλιτι κατακεχρισμένον",
+          "normalized_value": "εἰς κρατῆρα",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "56",
+        "section": "1,3-4",
+        "citation": {
+          "start": "51.25",
+          "end": "52.25"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-1-56-irinon:process:aromatizein-6",
+      "process_urn": "urn:aos:recipe-process:dioscorides-1-56-irinon:process:aromatizein-6",
+      "source_span": "ἠρωματισμένου",
+      "surface_form": "ἠρωματισμένου",
+      "normalized_label": "ἀρωματίζειν",
+      "target_type": "ingredient",
+      "target_ids": [
+        "dioscorides-1-56-irinon:ingredient:elaion-eromatismenon-4"
+      ],
+      "quantities": [],
+      "qualifiers": [],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "56",
+        "section": "1,3-4",
+        "citation": {
+          "start": "51.25",
+          "end": "52.25"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-1-56-irinon:process:skeyazein-7",
+      "process_urn": "urn:aos:recipe-process:dioscorides-1-56-irinon:process:skeyazein-7",
+      "source_span": "σκευάζεται",
+      "surface_form": "σκευάζεται",
+      "normalized_label": "σκευάζειν",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "other",
+          "source_span": "ἐκ τούτου τοῦ ἠρωματισμένου ἐλαίου",
+          "normalized_value": "ἐκ τοῦ ἠρωματισμένου ἐλαίου",
+          "certainty": "certain",
+          "notes": []
+        },
+        {
+          "qualifier_type": "other",
+          "source_span": "ὡς ὑπογέγραπται",
+          "normalized_value": "ὡς ὑπογέγραπται",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "56",
+        "section": "1,3-4",
+        "citation": {
+          "start": "51.25",
+          "end": "52.25"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-1-56-irinon:process:stybein-8",
+      "process_urn": "urn:aos:recipe-process:dioscorides-1-56-irinon:process:stybein-8",
+      "source_span": "ἐστυμμένῳ",
+      "surface_form": "ἐστυμμένῳ",
+      "normalized_label": "στύβειν",
+      "target_type": "ingredient",
+      "target_ids": [
+        "dioscorides-1-56-irinon:ingredient:elaion-estymmenon-5"
+      ],
+      "quantities": [],
+      "qualifiers": [],
+      "certainty": "uncertain",
+      "notes": [
+        "Participial state of the oil, not a fresh imperative step."
+      ],
+      "host_locator": {
+        "book": "1",
+        "chapter": "56",
+        "section": "1,3-4",
+        "citation": {
+          "start": "51.25",
+          "end": "52.25"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-1-56-irinon:process:enapobrechein-9",
+      "process_urn": "urn:aos:recipe-process:dioscorides-1-56-irinon:process:enapobrechein-9",
+      "source_span": "ἐναποβρεχομένης",
+      "surface_form": "ἐναποβρεχομένης",
+      "normalized_label": "ἐναποβρέχειν",
+      "target_type": "ingredient",
+      "target_ids": [
+        "dioscorides-1-56-irinon:ingredient:iris-6"
+      ],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "other",
+          "source_span": "τῷ ἐστυμμένῳ ἐλαίῳ",
+          "normalized_value": "τῷ ἐστυμμένῳ ἐλαίῳ",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "56",
+        "section": "1,3-4",
+        "citation": {
+          "start": "51.25",
+          "end": "52.25"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-1-56-irinon:process:pinein-10",
+      "process_urn": "urn:aos:recipe-process:dioscorides-1-56-irinon:process:pinein-10",
+      "source_span": "ποθέν",
+      "surface_form": "ποθέν",
+      "normalized_label": "πίνειν",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [
+        {
+          "source_span": "κυάθου πλῆθος",
+          "raw_number": null,
+          "normalized_number": null,
+          "raw_unit": "κυάθου πλῆθος",
+          "normalized_unit": "cyathos",
+          "certainty": "uncertain",
+          "notes": [
+            "Dose expressed as a kyathos-full."
+          ]
+        }
+      ],
+      "qualifiers": [],
+      "certainty": "certain",
+      "notes": [
+        "Administration process stated in the purgative use clause."
+      ],
+      "host_locator": {
+        "book": "1",
+        "chapter": "56",
+        "section": "1,3-4",
+        "citation": {
+          "start": "51.25",
+          "end": "52.25"
+        }
+      }
+    }
+  ],
+  "materials": [
+    {
+      "material_id": "dioscorides-1-56-irinon:material:chalkos-1",
+      "material_urn": "urn:aos:recipe-material:dioscorides-1-56-irinon:material:chalkos-1",
+      "source_span": "χαλκὸν",
+      "surface_form": "χαλκὸν",
+      "normalized_label": "χαλκός",
+      "role": "uncertain_material",
+      "certainty": "uncertain",
+      "quantities": [],
+      "qualifiers": [],
+      "notes": [
+        "Likely a copper or bronze vessel, but the vessel type is not named."
+      ],
+      "host_locator": {
+        "book": "1",
+        "chapter": "56",
+        "section": "1,3-4",
+        "citation": {
+          "start": "51.25",
+          "end": "52.25"
+        }
+      }
+    },
+    {
+      "material_id": "dioscorides-1-56-irinon:material:krater-2",
+      "material_urn": "urn:aos:recipe-material:dioscorides-1-56-irinon:material:krater-2",
+      "source_span": "κρατῆρα μέλιτι κατακεχρισμένον",
+      "surface_form": "κρατῆρα μέλιτι κατακεχρισμένον",
+      "normalized_label": "κρατήρ",
+      "role": "apparatus",
+      "certainty": "certain",
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "other",
+          "source_span": "μέλιτι κατακεχρισμένον",
+          "normalized_value": "κατακεχρισμένον μέλιτι",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "56",
+        "section": "1,3-4",
+        "citation": {
+          "start": "51.25",
+          "end": "52.25"
+        }
+      }
+    },
+    {
+      "material_id": "dioscorides-1-56-irinon:material:meli-3",
+      "material_urn": "urn:aos:recipe-material:dioscorides-1-56-irinon:material:meli-3",
+      "source_span": "μέλιτι",
+      "surface_form": "μέλιτι",
+      "normalized_label": "μέλι",
+      "role": "adjunct_material",
+      "certainty": "certain",
+      "quantities": [],
+      "qualifiers": [],
+      "notes": [
+        "Used to coat the κρατήρ."
+      ],
+      "host_locator": {
+        "book": "1",
+        "chapter": "56",
+        "section": "1,3-4",
+        "citation": {
+          "start": "51.25",
+          "end": "52.25"
+        }
+      }
+    }
+  ],
+  "people": [],
+  "places": [
+    {
+      "place_id": "dioscorides-1-56-irinon:place:perge-tes-pamphylias-1",
+      "place_urn": "urn:aos:recipe-place:dioscorides-1-56-irinon:place:perge-tes-pamphylias-1",
+      "source_span": "Πέργῃ τῇς Παμσφυλίας",
+      "surface_form": "Πέργῃ τῇς Παμσφυλίας",
+      "normalized_label": "Πέργη τῆς Παμφυλίας",
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "56",
+        "section": "1,3-4",
+        "citation": {
+          "start": "51.25",
+          "end": "52.25"
+        }
+      }
+    },
+    {
+      "place_id": "dioscorides-1-56-irinon:place:elis-tes-achaias-2",
+      "place_urn": "urn:aos:recipe-place:dioscorides-1-56-irinon:place:elis-tes-achaias-2",
+      "source_span": "Ἤλιδι τῆς Ἀχαίας",
+      "surface_form": "Ἤλιδι τῆς Ἀχαίας",
+      "normalized_label": "Ἦλις τῆς Ἀχαίας",
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "56",
+        "section": "1,3-4",
+        "citation": {
+          "start": "51.25",
+          "end": "52.25"
+        }
+      }
+    }
+  ],
+  "uses": [
+    {
+      "use_id": "dioscorides-1-56-irinon:use:malaktiken-1",
+      "use_urn": "urn:aos:recipe-use:dioscorides-1-56-irinon:use:malaktiken-1",
+      "category": "medical",
+      "source_span": "μαλακτικήν",
+      "snippet": "μαλακτικήν",
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "56",
+        "section": "1,3-4",
+        "citation": {
+          "start": "51.25",
+          "end": "52.25"
+        }
+      }
+    },
+    {
+      "use_id": "dioscorides-1-56-irinon:use:thermantiken-2",
+      "use_urn": "urn:aos:recipe-use:dioscorides-1-56-irinon:use:thermantiken-2",
+      "category": "medical",
+      "source_span": "θερμαντικήν",
+      "snippet": "θερμαντικήν",
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "56",
+        "section": "1,3-4",
+        "citation": {
+          "start": "51.25",
+          "end": "52.25"
+        }
+      }
+    },
+    {
+      "use_id": "dioscorides-1-56-irinon:use:escharas-te-kai-sepedonas-kai-ryparias-anakathairei-3",
+      "use_urn": "urn:aos:recipe-use:dioscorides-1-56-irinon:use:escharas-te-kai-sepedonas-kai-ryparias-anakathairei-3",
+      "category": "medical",
+      "source_span": "ἐσχάρας τε καὶ σηπεδόνας καὶ ῥυπαρίας ἀνακαθαίρει",
+      "snippet": "ἐσχάρας τε καὶ σηπεδόνας καὶ ῥυπαρίας ἀνακαθαίρει",
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "56",
+        "section": "1,3-4",
+        "citation": {
+          "start": "51.25",
+          "end": "52.25"
+        }
+      }
+    },
+    {
+      "use_id": "dioscorides-1-56-irinon:use:tais-peri-metran-diathesesin-armozei-4",
+      "use_urn": "urn:aos:recipe-use:dioscorides-1-56-irinon:use:tais-peri-metran-diathesesin-armozei-4",
+      "category": "medical",
+      "source_span": "ταῖς περὶ μήτραν διαθέσεσιν ἁρμόζει",
+      "snippet": "ταῖς περὶ μήτραν διαθέσεσιν ἁρμόζει",
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "56",
+        "section": "1,3-4",
+        "citation": {
+          "start": "51.25",
+          "end": "52.25"
+        }
+      }
+    },
+    {
+      "use_id": "dioscorides-1-56-irinon:use:phlegmonais-te-kai-mysesin-5",
+      "use_urn": "urn:aos:recipe-use:dioscorides-1-56-irinon:use:phlegmonais-te-kai-mysesin-5",
+      "category": "medical",
+      "source_span": "φλεγμοναῖς τε καὶ μύσεσιν",
+      "snippet": "φλεγμοναῖς τε καὶ μύσεσιν",
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "56",
+        "section": "1,3-4",
+        "citation": {
+          "start": "51.25",
+          "end": "52.25"
+        }
+      }
+    },
+    {
+      "use_id": "dioscorides-1-56-irinon:use:embrya-te-ekballei-6",
+      "use_urn": "urn:aos:recipe-use:dioscorides-1-56-irinon:use:embrya-te-ekballei-6",
+      "category": "medical",
+      "source_span": "ἔμβρυά τε ἐκβάλλει",
+      "snippet": "ἔμβρυά τε ἐκβάλλει",
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "56",
+        "section": "1,3-4",
+        "citation": {
+          "start": "51.25",
+          "end": "52.25"
+        }
+      }
+    },
+    {
+      "use_id": "dioscorides-1-56-irinon:use:aimorroidas-anastomoi-7",
+      "use_urn": "urn:aos:recipe-use:dioscorides-1-56-irinon:use:aimorroidas-anastomoi-7",
+      "category": "medical",
+      "source_span": "αἱμορροίδας ἀναστομοῖ",
+      "snippet": "αἱμορροίδας ἀναστομοῖ",
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "56",
+        "section": "1,3-4",
+        "citation": {
+          "start": "51.25",
+          "end": "52.25"
+        }
+      }
+    },
+    {
+      "use_id": "dioscorides-1-56-irinon:use:pros-te-echoys-oton-syn-oxei-kai-pegano-kai-pikrois-amygdalois-8",
+      "use_urn": "urn:aos:recipe-use:dioscorides-1-56-irinon:use:pros-te-echoys-oton-syn-oxei-kai-pegano-kai-pikrois-amygdalois-8",
+      "category": "medical",
+      "source_span": "πρός τε ἤχους ὤτων σὺν ὄξει καὶ πηγάνῳ καὶ πικροῖς ἀμυγδάλοις",
+      "snippet": "πρός τε ἤχους ὤτων σὺν ὄξει καὶ πηγάνῳ καὶ πικροῖς ἀμυγδάλοις",
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "56",
+        "section": "1,3-4",
+        "citation": {
+          "start": "51.25",
+          "end": "52.25"
+        }
+      }
+    },
+    {
+      "use_id": "dioscorides-1-56-irinon:use:pros-katarroys-chronizontas-diachriomenon-ton-myxoteron-9",
+      "use_urn": "urn:aos:recipe-use:dioscorides-1-56-irinon:use:pros-katarroys-chronizontas-diachriomenon-ton-myxoteron-9",
+      "category": "medical",
+      "source_span": "πρὸς κατάρρους χρονίζοντας διαχριομένων τῶν μυξωτήρων",
+      "snippet": "πρὸς κατάρρους χρονίζοντας διαχριομένων τῶν μυξωτήρων",
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "56",
+        "section": "1,3-4",
+        "citation": {
+          "start": "51.25",
+          "end": "52.25"
+        }
+      }
+    },
+    {
+      "use_id": "dioscorides-1-56-irinon:use:pros-ozainas-10",
+      "use_urn": "urn:aos:recipe-use:dioscorides-1-56-irinon:use:pros-ozainas-10",
+      "category": "medical",
+      "source_span": "πρὸς ὀζαίνας",
+      "snippet": "πρὸς ὀζαίνας",
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "56",
+        "section": "1,3-4",
+        "citation": {
+          "start": "51.25",
+          "end": "52.25"
+        }
+      }
+    },
+    {
+      "use_id": "dioscorides-1-56-irinon:use:kathairei-de-kai-ten-koilian-kyathoy-plethos-pothen-11",
+      "use_urn": "urn:aos:recipe-use:dioscorides-1-56-irinon:use:kathairei-de-kai-ten-koilian-kyathoy-plethos-pothen-11",
+      "category": "medical",
+      "source_span": "καθαίρει δὲ καὶ τὴν κοιλίαν κυάθου πλῆθος ποθέν",
+      "snippet": "καθαίρει δὲ καὶ τὴν κοιλίαν κυάθου πλῆθος ποθέν",
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "56",
+        "section": "1,3-4",
+        "citation": {
+          "start": "51.25",
+          "end": "52.25"
+        }
+      }
+    },
+    {
+      "use_id": "dioscorides-1-56-irinon:use:poiei-kai-pros-eileode-12",
+      "use_urn": "urn:aos:recipe-use:dioscorides-1-56-irinon:use:poiei-kai-pros-eileode-12",
+      "category": "medical",
+      "source_span": "ποιεῖ καὶ πρὸς εἰλεώδη",
+      "snippet": "ποιεῖ καὶ πρὸς εἰλεώδη",
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "56",
+        "section": "1,3-4",
+        "citation": {
+          "start": "51.25",
+          "end": "52.25"
+        }
+      }
+    },
+    {
+      "use_id": "dioscorides-1-56-irinon:use:kinei-kai-oyra-13",
+      "use_urn": "urn:aos:recipe-use:dioscorides-1-56-irinon:use:kinei-kai-oyra-13",
+      "category": "medical",
+      "source_span": "κινεῖ καὶ οὖρα",
+      "snippet": "κινεῖ καὶ οὖρα",
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "56",
+        "section": "1,3-4",
+        "citation": {
+          "start": "51.25",
+          "end": "52.25"
+        }
+      }
+    },
+    {
+      "use_id": "dioscorides-1-56-irinon:use:epi-ton-dyscheros-emoynton-diachriomenon-ton-daktylon-e-ton-emeterion-14",
+      "use_urn": "urn:aos:recipe-use:dioscorides-1-56-irinon:use:epi-ton-dyscheros-emoynton-diachriomenon-ton-daktylon-e-ton-emeterion-14",
+      "category": "medical",
+      "source_span": "ἐπὶ τῶν δυσχερῶς ἐμούντων διαχριομένων τῶν δακτύλων ἢ τῶν ἐμετηρίων",
+      "snippet": "ἐπὶ τῶν δυσχερῶς ἐμούντων διαχριομένων τῶν δακτύλων ἢ τῶν ἐμετηρίων",
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "56",
+        "section": "1,3-4",
+        "citation": {
+          "start": "51.25",
+          "end": "52.25"
+        }
+      }
+    },
+    {
+      "use_id": "dioscorides-1-56-irinon:use:epi-synagchikon-de-diachriomenon-e-anagargarizomenon-syn-melikrato-15",
+      "use_urn": "urn:aos:recipe-use:dioscorides-1-56-irinon:use:epi-synagchikon-de-diachriomenon-e-anagargarizomenon-syn-melikrato-15",
+      "category": "medical",
+      "source_span": "ἐπὶ συναγχικῶν δὲ διαχριόμενον ἢ ἀναγαργαριζόμενον σὺν μελικράτῳ",
+      "snippet": "ἐπὶ συναγχικῶν δὲ διαχριόμενον ἢ ἀναγαργαριζόμενον σὺν μελικράτῳ",
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "56",
+        "section": "1,3-4",
+        "citation": {
+          "start": "51.25",
+          "end": "52.25"
+        }
+      }
+    },
+    {
+      "use_id": "dioscorides-1-56-irinon:use:pros-trachyteta-arterias-16",
+      "use_urn": "urn:aos:recipe-use:dioscorides-1-56-irinon:use:pros-trachyteta-arterias-16",
+      "category": "medical",
+      "source_span": "πρὸς τραχύτητα ἀρτηρίας",
+      "snippet": "πρὸς τραχύτητα ἀρτηρίας",
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "56",
+        "section": "1,3-4",
+        "citation": {
+          "start": "51.25",
+          "end": "52.25"
+        }
+      }
+    },
+    {
+      "use_id": "dioscorides-1-56-irinon:use:didotai-kai-tois-koneion-e-myketas-e-korion-pepokosin-17",
+      "use_urn": "urn:aos:recipe-use:dioscorides-1-56-irinon:use:didotai-kai-tois-koneion-e-myketas-e-korion-pepokosin-17",
+      "category": "medical",
+      "source_span": "δίδοται καὶ τοῖς κώνειον ἢ μύκητας ἢ κόριον πεπωκόσιν",
+      "snippet": "δίδοται καὶ τοῖς κώνειον ἢ μύκητας ἢ κόριον πεπωκόσιν",
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "56",
+        "section": "1,3-4",
+        "citation": {
+          "start": "51.25",
+          "end": "52.25"
+        }
+      }
+    }
+  ],
+  "preparation_names": [],
+  "other_preparations_mentioned": [
+    {
+      "reference_id": "dioscorides-1-56-irinon:reference:irinoy-stypsis-1",
+      "reference_urn": "urn:aos:recipe-reference:dioscorides-1-56-irinon:reference:irinoy-stypsis-1",
+      "source_span": "ἰρίνου στύψις",
+      "surface_form": "ἰρίνου στύψις",
+      "normalized_label": "ἰρίνου στύψις",
+      "certainty": "certain",
+      "notes": [
+        "Opening label names a distinct iris extract/preparatory product rather than an alias of ἴρινον."
+      ],
+      "host_locator": {
+        "book": "1",
+        "chapter": "56",
+        "section": "1,3-4",
+        "citation": {
+          "start": "51.25",
+          "end": "52.25"
+        }
+      }
+    },
+    {
+      "reference_id": "dioscorides-1-56-irinon:reference:eromatismenon-elaion-2",
+      "reference_urn": "urn:aos:recipe-reference:dioscorides-1-56-irinon:reference:eromatismenon-elaion-2",
+      "source_span": "τοῦ ἠρωματισμένου ἐλαίου",
+      "surface_form": "τοῦ ἠρωματισμένου ἐλαίου",
+      "normalized_label": "ἠρωματισμένον ἔλαιον",
+      "certainty": "certain",
+      "notes": [
+        "Explicitly named intermediate perfumed oil from which ἴρινον is prepared."
+      ],
+      "host_locator": {
+        "book": "1",
+        "chapter": "56",
+        "section": "1,3-4",
+        "citation": {
+          "start": "51.25",
+          "end": "52.25"
+        }
+      }
+    }
+  ],
+  "works_mentioned": [],
+  "entities": [
+    {
+      "entity_urn": "urn:aos:recipe-preparation:dioscorides-1-56-irinon:preparation:irinon",
+      "entity_type": "label",
+      "surface_form": "ἴρινον",
+      "normalized_label": "ἴρινον"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:dioscorides-1-56-irinon:ingredient:spathe-1",
+      "entity_type": "ingredient",
+      "surface_form": "σπάθης λίτρας ἓξ οὐγγίας ὀκτώ",
+      "normalized_label": "σπάθη"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:dioscorides-1-56-irinon:ingredient:elaion-2",
+      "entity_type": "ingredient",
+      "surface_form": "ἐλαίου λίτρας ἐννέα οὐγγίας πέντε",
+      "normalized_label": "ἔλαιον"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:dioscorides-1-56-irinon:ingredient:ydor-3",
+      "entity_type": "ingredient",
+      "surface_form": "ὕδατος κοτύλαις δέκα",
+      "normalized_label": "ὕδωρ"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:dioscorides-1-56-irinon:ingredient:elaion-eromatismenon-4",
+      "entity_type": "ingredient",
+      "surface_form": "τοῦ ἠρωματισμένου ἐλαίου",
+      "normalized_label": "ἔλαιον ἠρωματισμένον"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:dioscorides-1-56-irinon:ingredient:elaion-estymmenon-5",
+      "entity_type": "ingredient",
+      "surface_form": "τῷ ἐστυμμένῳ ἐλαίῳ",
+      "normalized_label": "ἔλαιον ἐστυμμένον"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:dioscorides-1-56-irinon:ingredient:iris-6",
+      "entity_type": "ingredient",
+      "surface_form": "ἴρεως",
+      "normalized_label": "ἴρις"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:dioscorides-1-56-irinon:ingredient:oxos-7",
+      "entity_type": "ingredient",
+      "surface_form": "ὄξει",
+      "normalized_label": "ὄξος"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:dioscorides-1-56-irinon:ingredient:peganon-8",
+      "entity_type": "ingredient",
+      "surface_form": "πηγάνῳ",
+      "normalized_label": "πήγανον"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:dioscorides-1-56-irinon:ingredient:pikra-amygdala-9",
+      "entity_type": "ingredient",
+      "surface_form": "πικροῖς ἀμυγδάλοις",
+      "normalized_label": "πικρὰ ἀμύγδαλα"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:dioscorides-1-56-irinon:ingredient:melikraton-10",
+      "entity_type": "ingredient",
+      "surface_form": "μελικράτῳ",
+      "normalized_label": "μελίκρατον"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-1-56-irinon:process:koptein-1",
+      "entity_type": "process",
+      "surface_form": "κόψας",
+      "normalized_label": "κόπτειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-1-56-irinon:process:meignynai-2",
+      "entity_type": "process",
+      "surface_form": "μεῖξον",
+      "normalized_label": "μείγνυναι"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-1-56-irinon:process:ballein-3",
+      "entity_type": "process",
+      "surface_form": "βαλὼν",
+      "normalized_label": "βάλλειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-1-56-irinon:process:epsein-4",
+      "entity_type": "process",
+      "surface_form": "ἓψε",
+      "normalized_label": "ἕψειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-1-56-irinon:process:apethein-5",
+      "entity_type": "process",
+      "surface_form": "ἀπήθει",
+      "normalized_label": "ἀπηθεῖν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-1-56-irinon:process:aromatizein-6",
+      "entity_type": "process",
+      "surface_form": "ἠρωματισμένου",
+      "normalized_label": "ἀρωματίζειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-1-56-irinon:process:skeyazein-7",
+      "entity_type": "process",
+      "surface_form": "σκευάζεται",
+      "normalized_label": "σκευάζειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-1-56-irinon:process:stybein-8",
+      "entity_type": "process",
+      "surface_form": "ἐστυμμένῳ",
+      "normalized_label": "στύβειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-1-56-irinon:process:enapobrechein-9",
+      "entity_type": "process",
+      "surface_form": "ἐναποβρεχομένης",
+      "normalized_label": "ἐναποβρέχειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-1-56-irinon:process:pinein-10",
+      "entity_type": "process",
+      "surface_form": "ποθέν",
+      "normalized_label": "πίνειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-material:dioscorides-1-56-irinon:material:chalkos-1",
+      "entity_type": "material",
+      "surface_form": "χαλκὸν",
+      "normalized_label": "χαλκός"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-material:dioscorides-1-56-irinon:material:krater-2",
+      "entity_type": "material",
+      "surface_form": "κρατῆρα μέλιτι κατακεχρισμένον",
+      "normalized_label": "κρατήρ"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-material:dioscorides-1-56-irinon:material:meli-3",
+      "entity_type": "material",
+      "surface_form": "μέλιτι",
+      "normalized_label": "μέλι"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-place:dioscorides-1-56-irinon:place:perge-tes-pamphylias-1",
+      "entity_type": "place",
+      "surface_form": "Πέργῃ τῇς Παμσφυλίας",
+      "normalized_label": "Πέργη τῆς Παμφυλίας"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-place:dioscorides-1-56-irinon:place:elis-tes-achaias-2",
+      "entity_type": "place",
+      "surface_form": "Ἤλιδι τῆς Ἀχαίας",
+      "normalized_label": "Ἦλις τῆς Ἀχαίας"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-reference:dioscorides-1-56-irinon:reference:irinoy-stypsis-1",
+      "entity_type": "preparation_reference",
+      "surface_form": "ἰρίνου στύψις",
+      "normalized_label": "ἰρίνου στύψις"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-reference:dioscorides-1-56-irinon:reference:eromatismenon-elaion-2",
+      "entity_type": "preparation_reference",
+      "surface_form": "τοῦ ἠρωματισμένου ἐλαίου",
+      "normalized_label": "ἠρωματισμένον ἔλαιον"
+    }
+  ],
+  "canonical_file": "data/recipes/dioscorides-1-56-irinon.json",
+  "source_entry": {
+    "source_id": "dioscorides-1-56-irinon",
+    "derived_recipe_id": "dioscorides-1-56-irinon",
+    "entry_kind": "recipe",
+    "source_kind": "main_text",
+    "source_lines": {
+      "start": 1855,
+      "end": 3167
+    },
+    "section_markers": []
+  },
+  "entity_groups": {
+    "labels": [
+      {
+        "entity_urn": "urn:aos:recipe-preparation:dioscorides-1-56-irinon:preparation:irinon",
+        "surface_form": "ἴρινον",
+        "normalized_label": "ἴρινον"
+      }
+    ],
+    "ingredients": [
+      {
+        "entity_urn": "urn:aos:recipe-ingredient:dioscorides-1-56-irinon:ingredient:spathe-1",
+        "surface_form": "σπάθης λίτρας ἓξ οὐγγίας ὀκτώ",
+        "normalized_label": "σπάθη",
+        "quantity_display": "λίτρας ἓξ · οὐγγίας ὀκτώ"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-ingredient:dioscorides-1-56-irinon:ingredient:elaion-2",
+        "surface_form": "ἐλαίου λίτρας ἐννέα οὐγγίας πέντε",
+        "normalized_label": "ἔλαιον",
+        "quantity_display": "λίτρας ἐννέα · οὐγγίας πέντε"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-ingredient:dioscorides-1-56-irinon:ingredient:ydor-3",
+        "surface_form": "ὕδατος κοτύλαις δέκα",
+        "normalized_label": "ὕδωρ",
+        "quantity_display": "κοτύλαις δέκα"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-ingredient:dioscorides-1-56-irinon:ingredient:elaion-eromatismenon-4",
+        "surface_form": "τοῦ ἠρωματισμένου ἐλαίου",
+        "normalized_label": "ἔλαιον ἠρωματισμένον",
+        "quantity_display": ""
+      },
+      {
+        "entity_urn": "urn:aos:recipe-ingredient:dioscorides-1-56-irinon:ingredient:elaion-estymmenon-5",
+        "surface_form": "τῷ ἐστυμμένῳ ἐλαίῳ",
+        "normalized_label": "ἔλαιον ἐστυμμένον",
+        "quantity_display": ""
+      },
+      {
+        "entity_urn": "urn:aos:recipe-ingredient:dioscorides-1-56-irinon:ingredient:iris-6",
+        "surface_form": "ἴρεως",
+        "normalized_label": "ἴρις",
+        "quantity_display": ""
+      },
+      {
+        "entity_urn": "urn:aos:recipe-ingredient:dioscorides-1-56-irinon:ingredient:oxos-7",
+        "surface_form": "ὄξει",
+        "normalized_label": "ὄξος",
+        "quantity_display": ""
+      },
+      {
+        "entity_urn": "urn:aos:recipe-ingredient:dioscorides-1-56-irinon:ingredient:peganon-8",
+        "surface_form": "πηγάνῳ",
+        "normalized_label": "πήγανον",
+        "quantity_display": ""
+      },
+      {
+        "entity_urn": "urn:aos:recipe-ingredient:dioscorides-1-56-irinon:ingredient:pikra-amygdala-9",
+        "surface_form": "πικροῖς ἀμυγδάλοις",
+        "normalized_label": "πικρὰ ἀμύγδαλα",
+        "quantity_display": ""
+      },
+      {
+        "entity_urn": "urn:aos:recipe-ingredient:dioscorides-1-56-irinon:ingredient:melikraton-10",
+        "surface_form": "μελικράτῳ",
+        "normalized_label": "μελίκρατον",
+        "quantity_display": ""
+      }
+    ],
+    "processes": [
+      {
+        "entity_urn": "urn:aos:recipe-process:dioscorides-1-56-irinon:process:koptein-1",
+        "surface_form": "κόψας",
+        "normalized_label": "κόπτειν"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-process:dioscorides-1-56-irinon:process:meignynai-2",
+        "surface_form": "μεῖξον",
+        "normalized_label": "μείγνυναι"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-process:dioscorides-1-56-irinon:process:ballein-3",
+        "surface_form": "βαλὼν",
+        "normalized_label": "βάλλειν"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-process:dioscorides-1-56-irinon:process:epsein-4",
+        "surface_form": "ἓψε",
+        "normalized_label": "ἕψειν"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-process:dioscorides-1-56-irinon:process:apethein-5",
+        "surface_form": "ἀπήθει",
+        "normalized_label": "ἀπηθεῖν"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-process:dioscorides-1-56-irinon:process:aromatizein-6",
+        "surface_form": "ἠρωματισμένου",
+        "normalized_label": "ἀρωματίζειν"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-process:dioscorides-1-56-irinon:process:skeyazein-7",
+        "surface_form": "σκευάζεται",
+        "normalized_label": "σκευάζειν"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-process:dioscorides-1-56-irinon:process:stybein-8",
+        "surface_form": "ἐστυμμένῳ",
+        "normalized_label": "στύβειν"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-process:dioscorides-1-56-irinon:process:enapobrechein-9",
+        "surface_form": "ἐναποβρεχομένης",
+        "normalized_label": "ἐναποβρέχειν"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-process:dioscorides-1-56-irinon:process:pinein-10",
+        "surface_form": "ποθέν",
+        "normalized_label": "πίνειν"
+      }
+    ],
+    "tools": [
+      {
+        "entity_urn": "urn:aos:recipe-material:dioscorides-1-56-irinon:material:chalkos-1",
+        "surface_form": "χαλκὸν",
+        "normalized_label": "χαλκός"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-material:dioscorides-1-56-irinon:material:krater-2",
+        "surface_form": "κρατῆρα μέλιτι κατακεχρισμένον",
+        "normalized_label": "κρατήρ"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-material:dioscorides-1-56-irinon:material:meli-3",
+        "surface_form": "μέλιτι",
+        "normalized_label": "μέλι"
+      }
+    ],
+    "other_preparations_mentioned": [
+      {
+        "entity_urn": "urn:aos:recipe-reference:dioscorides-1-56-irinon:reference:irinoy-stypsis-1",
+        "surface_form": "ἰρίνου στύψις",
+        "normalized_label": "ἰρίνου στύψις"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-reference:dioscorides-1-56-irinon:reference:eromatismenon-elaion-2",
+        "surface_form": "τοῦ ἠρωματισμένου ἐλαίου",
+        "normalized_label": "ἠρωματισμένον ἔλαιον"
+      }
+    ],
+    "people": [],
+    "places": [
+      {
+        "entity_urn": "urn:aos:recipe-place:dioscorides-1-56-irinon:place:perge-tes-pamphylias-1",
+        "surface_form": "Πέργῃ τῇς Παμσφυλίας",
+        "normalized_label": "Πέργη τῆς Παμφυλίας"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-place:dioscorides-1-56-irinon:place:elis-tes-achaias-2",
+        "surface_form": "Ἤλιδι τῆς Ἀχαίας",
+        "normalized_label": "Ἦλις τῆς Ἀχαίας"
+      }
+    ],
+    "works_mentioned": [],
+    "preparation_names": []
+  }
+}

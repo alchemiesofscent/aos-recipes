@@ -1,0 +1,493 @@
+{
+  "dataset_key": "dioscorides_book2_fats",
+  "source_json": "experiments/dioscorides-book2-fats/data/dioscorides_book2_fats.json",
+  "host_raw_file": "tei/raw/tlg0656.tlg001.1st1K-grc1.xml",
+  "work_slug": "diosc.b2.fats",
+  "recipe_id": "dioscorides-2-76-ox-stear",
+  "recipe_urn": "urn:aos:recipe:dioscorides-2-76-ox-stear",
+  "record_urn": "urn:aos:recipe-record:dioscorides-2-76-ox-stear",
+  "author": "Dioscorides",
+  "work": "De materia medica",
+  "book": "2",
+  "chapter": "76",
+  "section": "5-6",
+  "chapter_name": "στέαρ",
+  "lemma": "στέαρ βόειον",
+  "text": "καὶ τοῦ βοείου δὲ στέατος ἐξυμενιστέον τὸ νεφριαῖον καὶ θαλάττῃ πελαγίᾳ πλυτέον, εἶτα εἰς ὅλμον ἐμβλητέον καὶ κοπτέον ἐπιμελῶς, ἐπιρραινομένης τῆς θαλάττης. ὅταν δὲ διαλυθῇ ἅπαν, εἰσβλητέον αὐτὸ εἰς χύτραν κεραμεᾶν καὶ θάλασσαν ἐπιχυτέον, ὡς ὑπερέχειν μὴ ἦττον σπιθαμῆς, ἑψητέον τε, ἄχρι τὴν ἰδίαν ὀσμὴν ἀποβάλῃ· εἶτα πρὸς μίαν μνᾶν τοῦ στέατος Ἀττικὴν κηροῦ Τυρρηνικοῦ ὁλκὰς τέτταρας ἐμβλητέον καὶ διηθητέον, ἀφαιρετέον τε τὴν προσκαθημένην ἐν τῳ πυθμένι ἀκαθαρσίαν καὶ εἰς λοπάδα καινὴν ἀποθετέον· εἶτα εἰς ἥλιον καθ᾿ ἡμέραν κομιστέον περιεσκεπασμένον, ὅπως ἀπολευκανθῇ καὶ τὴν δυσωδίαν ἀποβάλῃ.",
+  "original_text": null,
+  "text_source": null,
+  "emendations": [],
+  "emendation_count": 0,
+  "source_kind": "main_text",
+  "entry_kind": "recipe",
+  "citation": {
+    "pages": [
+      "152",
+      "153"
+    ],
+    "start": {
+      "page": "152",
+      "line": "25"
+    },
+    "end": {
+      "page": "153",
+      "line": "5"
+    },
+    "citation": {
+      "start": "152.25",
+      "end": "153.5"
+    },
+    "page_spans": [
+      {
+        "page": "152",
+        "start_line": "25",
+        "end_line": "25"
+      },
+      {
+        "page": "153",
+        "start_line": "1",
+        "end_line": "5"
+      }
+    ],
+    "lines": [
+      {
+        "page": "152",
+        "line": "25",
+        "break_no": false,
+        "raw_text": "καὶ τοῦ βοείου δὲ στέατος ἐξυμενιστέον τὸ νεφριαῖον καὶ",
+        "text": "καὶ τοῦ βοείου δὲ στέατος ἐξυμενιστέον τὸ νεφριαῖον καὶ",
+        "citation": "152.25"
+      },
+      {
+        "page": "153",
+        "line": "1",
+        "break_no": false,
+        "raw_text": "θαλάττῃ πελαγίᾳ πλυτέον, εἶτα εἰς ὅλμον ἐμβλητέον καὶ κοπτέον ἐπιμελῶς, ἐπιρραινομένης τῆς θαλάττης. ὅταν δὲ διαλυθῇ ἅπαν, εἰσβλητέον αὐτὸ εἰς χύτραν κεραμεᾶν καὶ θάλασσαν ἐπιχυτέον, ὡς ὑπερέχειν μὴ ἦττον σπιθαμῆς, ἑψητέον τε, ἄχρι",
+        "text": "θαλάττῃ πελαγίᾳ πλυτέον, εἶτα εἰς ὅλμον ἐμβλητέον καὶ κοπτέον ἐπιμελῶς, ἐπιρραινομένης τῆς θαλάττης. ὅταν δὲ διαλυθῇ ἅπαν, εἰσβλητέον αὐτὸ εἰς χύτραν κεραμεᾶν καὶ θάλασσαν ἐπιχυτέον, ὡς ὑπερέχειν μὴ ἦττον σπιθαμῆς, ἑψητέον τε, ἄχρι",
+        "citation": "153.1"
+      },
+      {
+        "page": "153",
+        "line": "5",
+        "break_no": false,
+        "raw_text": "τὴν ἰδίαν ὀσμὴν ἀποβάλῃ· εἶτα πρὸς μίαν μνᾶν τοῦ στέατος 6 Ἀττικὴν κηροῦ Τυρρηνικοῦ ὁλκὰς τέτταρας ἐμβλητέον καὶ διηθητέον, ἀφαιρετέον τε τὴν προσκαθημένην ἐν τῳ πυθμένι ἀκαθαρσίαν καὶ εἰς λοπάδα καινὴν ἀποθετέον· εἶτα εἰς ἥλιον καθ᾿ ἡμέραν κομιστέον περιεσκεπασμένον, ὅπως ἀπολευκανθῇ",
+        "text": "τὴν ἰδίαν ὀσμὴν ἀποβάλῃ· εἶτα πρὸς μίαν μνᾶν τοῦ στέατος Ἀττικὴν κηροῦ Τυρρηνικοῦ ὁλκὰς τέτταρας ἐμβλητέον καὶ διηθητέον, ἀφαιρετέον τε τὴν προσκαθημένην ἐν τῳ πυθμένι ἀκαθαρσίαν καὶ εἰς λοπάδα καινὴν ἀποθετέον· εἶτα εἰς ἥλιον καθ᾿ ἡμέραν κομιστέον περιεσκεπασμένον, ὅπως ἀπολευκανθῇ",
+        "citation": "153.5"
+      }
+    ],
+    "edition_key": "wellmann"
+  },
+  "notes": [
+    "Book 2 fats slice split into logical preparation and technique units from chapters 72, 74, and 76.",
+    "Bare Arabic numerals in the raw witness are treated as structural or note noise and removed from display text, except parenthetical cross-references such as (I 68).",
+    "Section markers are stored separately and displayed near sentence boundaries as heuristic navigation aids.",
+    "Conservative split record generated locally because Codex structured-authority generation was rate-limited."
+  ],
+  "alignment_status": "pending",
+  "alignment_confidence": "pending",
+  "alignment_evidence": null,
+  "review_status": "reviewed_structured_authority",
+  "review_provenance": {
+    "authority_source": "reports/entity_review/structured/dioscorides.json",
+    "authority_recipe_id": "dioscorides-2-76-ox-stear",
+    "authority_lemma": "στέαρ βόειον",
+    "model": "gpt-5.4",
+    "reasoning_effort": "high",
+    "dataset_key": "dioscorides_book2_fats",
+    "entity_model_version": "1.2",
+    "authority_version": "2026-04-13-qty-alt-v1",
+    "prompt_version": "qty-alt-pass-v1",
+    "build_version": "2026-05-18T15:51:35Z"
+  },
+  "schema_version": "1.2",
+  "build_metadata": {
+    "builder": "scripts/recipes/build_recipe_entities.py",
+    "built_at": "2026-05-18T15:51:35Z",
+    "source_structured_authority": "reports/entity_review/structured/dioscorides.json",
+    "authority_model": "gpt-5.4",
+    "authority_reasoning_effort": "high",
+    "dataset_key": "dioscorides_book2_fats",
+    "entity_model_version": "1.2",
+    "authority_version": "2026-04-13-qty-alt-v1",
+    "prompt_version": "qty-alt-pass-v1",
+    "build_version": "2026-05-18T15:51:35Z"
+  },
+  "recipe_text_excerpt": "καὶ τοῦ βοείου δὲ στέατος ἐξυμενιστέον τὸ νεφριαῖον καὶ θαλάττῃ πελαγίᾳ πλυτέον, εἶτα εἰς ὅλμον ἐμβλητέον καὶ κοπτέον ἐπιμελῶς, ἐπιρραινομένης",
+  "preparation": {
+    "preparation_id": "dioscorides-2-76-ox-stear:preparation:stear-boeion",
+    "preparation_urn": "urn:aos:recipe-preparation:dioscorides-2-76-ox-stear:preparation:stear-boeion",
+    "source_span": "στέαρ βόειον",
+    "surface_form": "στέαρ βόειον",
+    "normalized_label": "στέαρ βόειον",
+    "qualifiers": [],
+    "regimen_notes": [],
+    "certainty": "certain",
+    "notes": [
+      "Conservative split authority generated from exact spans in the previous broad Book 2 fat authority."
+    ],
+    "host_locator": {
+      "book": "2",
+      "chapter": "76",
+      "section": "5-6",
+      "citation": {
+        "start": "152.25",
+        "end": "153.5"
+      }
+    }
+  },
+  "ingredients": [
+    {
+      "ingredient_id": "dioscorides-2-76-ox-stear:ingredient:thalassa-pelagia-1",
+      "ingredient_urn": "urn:aos:recipe-ingredient:dioscorides-2-76-ox-stear:ingredient:thalassa-pelagia-1",
+      "source_span": "θαλάττῃ πελαγίᾳ",
+      "surface_form": "θαλάττῃ πελαγίᾳ",
+      "base_label": "θάλασσα",
+      "normalized_label": "θάλασσα πελαγία",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [
+        "dioscorides-2-76-ox-stear:process:plynein-1",
+        "dioscorides-2-76-ox-stear:process:epsein-3"
+      ],
+      "quantities": [],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "2",
+        "chapter": "76",
+        "section": "5-6",
+        "citation": {
+          "start": "152.25",
+          "end": "153.5"
+        }
+      }
+    },
+    {
+      "ingredient_id": "dioscorides-2-76-ox-stear:ingredient:keros-tyrrenikos-2",
+      "ingredient_urn": "urn:aos:recipe-ingredient:dioscorides-2-76-ox-stear:ingredient:keros-tyrrenikos-2",
+      "source_span": "Ἀττικὴν κηροῦ Τυρρηνικοῦ",
+      "surface_form": "Ἀττικὴν κηροῦ Τυρρηνικοῦ",
+      "base_label": "κηρός",
+      "normalized_label": "κηρός Τυρρηνικός",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [],
+      "quantities": [
+        {
+          "source_span": "ὁλκὰς τέτταρας",
+          "raw_number": "τέτταρας",
+          "normalized_number": 4,
+          "raw_unit": "ὁλκὰς",
+          "normalized_unit": "holce",
+          "certainty": "certain",
+          "notes": [
+            "Relative to one mna of stear in the same clause."
+          ]
+        }
+      ],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "2",
+        "chapter": "76",
+        "section": "5-6",
+        "citation": {
+          "start": "152.25",
+          "end": "153.5"
+        }
+      }
+    }
+  ],
+  "processes": [
+    {
+      "process_id": "dioscorides-2-76-ox-stear:process:plynein-1",
+      "process_urn": "urn:aos:recipe-process:dioscorides-2-76-ox-stear:process:plynein-1",
+      "source_span": "πλυτέον",
+      "surface_form": "πλυτέον",
+      "normalized_label": "πλύνειν",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "other",
+          "source_span": "θαλάττῃ πελαγίᾳ",
+          "normalized_value": "with open-sea water",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "2",
+        "chapter": "76",
+        "section": "5-6",
+        "citation": {
+          "start": "152.25",
+          "end": "153.5"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-2-76-ox-stear:process:koptein-2",
+      "process_urn": "urn:aos:recipe-process:dioscorides-2-76-ox-stear:process:koptein-2",
+      "source_span": "κοπτέον",
+      "surface_form": "κοπτέον",
+      "normalized_label": "κόπτειν",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "manner",
+          "source_span": "ἐπιμελῶς",
+          "normalized_value": "carefully",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "2",
+        "chapter": "76",
+        "section": "5-6",
+        "citation": {
+          "start": "152.25",
+          "end": "153.5"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-2-76-ox-stear:process:epsein-3",
+      "process_urn": "urn:aos:recipe-process:dioscorides-2-76-ox-stear:process:epsein-3",
+      "source_span": "ἑψητέον",
+      "surface_form": "ἑψητέον",
+      "normalized_label": "ἑψεῖν",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "other",
+          "source_span": "ἄχρι τὴν ἰδίαν ὀσμὴν ἀποβάλῃ",
+          "normalized_value": "until it loses its own smell",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "2",
+        "chapter": "76",
+        "section": "5-6",
+        "citation": {
+          "start": "152.25",
+          "end": "153.5"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-2-76-ox-stear:process:komizein-4",
+      "process_urn": "urn:aos:recipe-process:dioscorides-2-76-ox-stear:process:komizein-4",
+      "source_span": "κομιστέον",
+      "surface_form": "κομιστέον",
+      "normalized_label": "κομίζειν",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "exposure",
+          "source_span": "εἰς ἥλιον καθ᾿ ἡμέραν",
+          "normalized_value": "into the sun each day",
+          "certainty": "certain",
+          "notes": []
+        },
+        {
+          "qualifier_type": "manner",
+          "source_span": "περιεσκεπασμένον",
+          "normalized_value": "covered around",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "2",
+        "chapter": "76",
+        "section": "5-6",
+        "citation": {
+          "start": "152.25",
+          "end": "153.5"
+        }
+      }
+    }
+  ],
+  "materials": [
+    {
+      "material_id": "dioscorides-2-76-ox-stear:material:olmos-1",
+      "material_urn": "urn:aos:recipe-material:dioscorides-2-76-ox-stear:material:olmos-1",
+      "source_span": "ὅλμον",
+      "surface_form": "ὅλμον",
+      "normalized_label": "ὅλμος",
+      "role": "tool",
+      "certainty": "certain",
+      "quantities": [],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "2",
+        "chapter": "76",
+        "section": "5-6",
+        "citation": {
+          "start": "152.25",
+          "end": "153.5"
+        }
+      }
+    }
+  ],
+  "people": [],
+  "places": [],
+  "uses": [],
+  "preparation_names": [],
+  "other_preparations_mentioned": [],
+  "works_mentioned": [],
+  "entities": [
+    {
+      "entity_urn": "urn:aos:recipe-preparation:dioscorides-2-76-ox-stear:preparation:stear-boeion",
+      "entity_type": "label",
+      "surface_form": "στέαρ βόειον",
+      "normalized_label": "στέαρ βόειον"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:dioscorides-2-76-ox-stear:ingredient:thalassa-pelagia-1",
+      "entity_type": "ingredient",
+      "surface_form": "θαλάττῃ πελαγίᾳ",
+      "normalized_label": "θάλασσα πελαγία"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:dioscorides-2-76-ox-stear:ingredient:keros-tyrrenikos-2",
+      "entity_type": "ingredient",
+      "surface_form": "Ἀττικὴν κηροῦ Τυρρηνικοῦ",
+      "normalized_label": "κηρός Τυρρηνικός"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-2-76-ox-stear:process:plynein-1",
+      "entity_type": "process",
+      "surface_form": "πλυτέον",
+      "normalized_label": "πλύνειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-2-76-ox-stear:process:koptein-2",
+      "entity_type": "process",
+      "surface_form": "κοπτέον",
+      "normalized_label": "κόπτειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-2-76-ox-stear:process:epsein-3",
+      "entity_type": "process",
+      "surface_form": "ἑψητέον",
+      "normalized_label": "ἑψεῖν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-2-76-ox-stear:process:komizein-4",
+      "entity_type": "process",
+      "surface_form": "κομιστέον",
+      "normalized_label": "κομίζειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-material:dioscorides-2-76-ox-stear:material:olmos-1",
+      "entity_type": "material",
+      "surface_form": "ὅλμον",
+      "normalized_label": "ὅλμος"
+    }
+  ],
+  "canonical_file": "data/recipes/dioscorides-2-76-ox-stear.json",
+  "source_entry": {
+    "source_id": "dioscorides-2-76-ox-stear",
+    "derived_recipe_id": "dioscorides-2-76-ox-stear",
+    "entry_kind": "recipe",
+    "source_kind": "main_text",
+    "source_lines": {
+      "start": "152.25",
+      "end": "153.5"
+    },
+    "section_markers": [
+      {
+        "chapter": "76",
+        "section": "5",
+        "label": "§5",
+        "raw_token": null,
+        "offset": 0
+      },
+      {
+        "chapter": "76",
+        "section": "6",
+        "label": "§6",
+        "raw_token": "6",
+        "offset": 312
+      }
+    ]
+  },
+  "entity_groups": {
+    "labels": [
+      {
+        "entity_urn": "urn:aos:recipe-preparation:dioscorides-2-76-ox-stear:preparation:stear-boeion",
+        "surface_form": "στέαρ βόειον",
+        "normalized_label": "στέαρ βόειον"
+      }
+    ],
+    "ingredients": [
+      {
+        "entity_urn": "urn:aos:recipe-ingredient:dioscorides-2-76-ox-stear:ingredient:thalassa-pelagia-1",
+        "surface_form": "θαλάττῃ πελαγίᾳ",
+        "normalized_label": "θάλασσα πελαγία",
+        "quantity_display": ""
+      },
+      {
+        "entity_urn": "urn:aos:recipe-ingredient:dioscorides-2-76-ox-stear:ingredient:keros-tyrrenikos-2",
+        "surface_form": "Ἀττικὴν κηροῦ Τυρρηνικοῦ",
+        "normalized_label": "κηρός Τυρρηνικός",
+        "quantity_display": "ὁλκὰς τέτταρας"
+      }
+    ],
+    "processes": [
+      {
+        "entity_urn": "urn:aos:recipe-process:dioscorides-2-76-ox-stear:process:plynein-1",
+        "surface_form": "πλυτέον",
+        "normalized_label": "πλύνειν"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-process:dioscorides-2-76-ox-stear:process:koptein-2",
+        "surface_form": "κοπτέον",
+        "normalized_label": "κόπτειν"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-process:dioscorides-2-76-ox-stear:process:epsein-3",
+        "surface_form": "ἑψητέον",
+        "normalized_label": "ἑψεῖν"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-process:dioscorides-2-76-ox-stear:process:komizein-4",
+        "surface_form": "κομιστέον",
+        "normalized_label": "κομίζειν"
+      }
+    ],
+    "tools": [
+      {
+        "entity_urn": "urn:aos:recipe-material:dioscorides-2-76-ox-stear:material:olmos-1",
+        "surface_form": "ὅλμον",
+        "normalized_label": "ὅλμος"
+      }
+    ],
+    "other_preparations_mentioned": [],
+    "people": [],
+    "places": [],
+    "works_mentioned": [],
+    "preparation_names": []
+  }
+}

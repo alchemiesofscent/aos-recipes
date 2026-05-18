@@ -1,0 +1,1078 @@
+{
+  "dataset_key": "paul_book7_perfumes",
+  "source_json": "experiments/paul-book7-ch20-perfumes/data/paul_book7_ch20_perfumes.json",
+  "host_raw_file": "tei/raw/tlg0715001.xml",
+  "work_slug": "paul.b7.perfumes",
+  "recipe_id": "paul-7-20-25",
+  "recipe_urn": "urn:aos:recipe:paul-7-20-25",
+  "record_urn": "urn:aos:recipe-record:paul-7-20-25",
+  "author": "Paul of Aegina",
+  "work": "Medical Epitome",
+  "book": "7",
+  "chapter": "20",
+  "section": "25",
+  "chapter_name": "Ἐλαίων καὶ μύρων σκευασίαι διάφοροι.",
+  "lemma": "Ἄλλο Σικυώνιον δραστικώτερον",
+  "text": "Ἐλατηρίου χυλοῦ ξ̸ γ, ἀριστολοχίας στρογγύλης καὶ μακρᾶς, στύρακος, ἑλενίου, ὑσσώπου, ἴρεως, κολοκυνθίδος, γλήχωνος, ὀριγάνου, κυπέρου, δενδρολιβάνου, κενταυρίου, δαφνοφύλλων ἀνὰ 𐆄 β, ἐλαίου ξ̸ ε· μίξας ἕψε, ἕως ὀλίγον τοῦ χυλοῦ περιλειφθῇ.",
+  "original_text": null,
+  "text_source": null,
+  "emendations": [],
+  "emendation_count": 0,
+  "source_kind": null,
+  "entry_kind": "recipe",
+  "citation": {
+    "pages": [
+      "2.386",
+      "2.387"
+    ],
+    "start": {
+      "page": "2.386",
+      "line": "24",
+      "xml_id": "heib-2-386-24"
+    },
+    "end": {
+      "page": "2.387",
+      "line": "2",
+      "xml_id": "heib-2-387-2"
+    },
+    "citation": {
+      "start": "2.386.24",
+      "end": "2.387.2"
+    },
+    "page_spans": [
+      {
+        "page": "2.386",
+        "start_line": "24",
+        "end_line": "26"
+      },
+      {
+        "page": "2.387",
+        "start_line": "1",
+        "end_line": "2"
+      }
+    ],
+    "lines": [
+      {
+        "page": "2.386",
+        "line": "24",
+        "xml_id": "heib-2-386-24",
+        "break_no": false,
+        "text": "Ἄλλο Σικυώνιον δραστικώτερον.",
+        "citation": "2.386.24"
+      },
+      {
+        "page": "2.386",
+        "line": "25",
+        "xml_id": "heib-2-386-25",
+        "break_no": false,
+        "text": "Ἐλατηρίου χυλοῦ ξ̸ γ, ἀριστολοχίας στρογγύλης καὶ μακρᾶς, στύ-",
+        "citation": "2.386.25"
+      },
+      {
+        "page": "2.386",
+        "line": "26",
+        "xml_id": "heib-2-386-26",
+        "break_no": true,
+        "text": "ρακος, ἑλενίου, ὑσσώπου, ἴρεως, κολοκυνθίδος, γλήχωνος, ὀριγάνου, κυ-",
+        "citation": "2.386.26"
+      },
+      {
+        "page": "2.387",
+        "line": "1",
+        "xml_id": "heib-2-387-1",
+        "break_no": true,
+        "text": "πέρου, δενδρολιβάνου, κενταυρίου, δαφνοφύλλων ἀνὰ 𐆄 β, ἐλαίου ξ̸ ε·",
+        "citation": "2.387.1"
+      },
+      {
+        "page": "2.387",
+        "line": "2",
+        "xml_id": "heib-2-387-2",
+        "break_no": false,
+        "text": "μίξας ἕψε, ἕως ὀλίγον τοῦ χυλοῦ περιλειφθῇ.",
+        "citation": "2.387.2"
+      }
+    ],
+    "edition_key": "heiberg"
+  },
+  "notes": [
+    "Distributive ἀνὰ governs the ingredient cluster from ἀριστολοχίας στρογγύλης through δαφνοφύλλων."
+  ],
+  "alignment_status": "pending",
+  "alignment_confidence": "pending",
+  "alignment_evidence": null,
+  "review_status": "reviewed_structured_authority",
+  "review_provenance": {
+    "authority_source": "reports/entity_review/structured/paul.json",
+    "authority_recipe_id": "paul-7-20-25",
+    "authority_lemma": "Ἄλλο Σικυώνιον δραστικώτερον",
+    "model": "gpt-5.4",
+    "reasoning_effort": "high",
+    "dataset_key": "paul_book7_perfumes",
+    "entity_model_version": "1.2",
+    "authority_version": "2026-04-13-qty-alt-v1",
+    "prompt_version": "qty-alt-pass-v1",
+    "build_version": "2026-05-18T15:51:35Z"
+  },
+  "schema_version": "1.2",
+  "build_metadata": {
+    "builder": "scripts/recipes/build_recipe_entities.py",
+    "built_at": "2026-05-18T15:51:35Z",
+    "source_structured_authority": "reports/entity_review/structured/paul.json",
+    "authority_model": "gpt-5.4",
+    "authority_reasoning_effort": "high",
+    "dataset_key": "paul_book7_perfumes",
+    "entity_model_version": "1.2",
+    "authority_version": "2026-04-13-qty-alt-v1",
+    "prompt_version": "qty-alt-pass-v1",
+    "build_version": "2026-05-18T15:51:35Z"
+  },
+  "recipe_text_excerpt": "Ἐλατηρίου χυλοῦ ξ̸ γ, ἀριστολοχίας στρογγύλης καὶ μακρᾶς, στύρακος, ἑλενίου, ὑσσώπου, ἴρεως, κολοκυνθίδος, γλήχωνος, ὀριγάνου, κυπέρου, δενδρολιβάνου, κενταυρίου, δαφνοφύλλων ἀνὰ",
+  "preparation": {
+    "preparation_id": "paul-7-20-25:preparation:allo-sikyonion-drastikoteron",
+    "preparation_urn": "urn:aos:recipe-preparation:paul-7-20-25:preparation:allo-sikyonion-drastikoteron",
+    "source_span": "Ἄλλο Σικυώνιον δραστικώτερον",
+    "surface_form": "Ἄλλο Σικυώνιον δραστικώτερον",
+    "normalized_label": "Ἄλλο Σικυώνιον δραστικώτερον",
+    "qualifiers": [
+      {
+        "qualifier_type": "other",
+        "source_span": "δραστικώτερον",
+        "normalized_value": "δραστικώτερον",
+        "certainty": "certain",
+        "notes": []
+      }
+    ],
+    "regimen_notes": [],
+    "certainty": "certain",
+    "notes": [
+      "The lemma supplies the preparation label because the procedure text does not restate it."
+    ],
+    "host_locator": {
+      "book": "7",
+      "chapter": "20",
+      "section": "25",
+      "citation": {
+        "start": "2.386.24",
+        "end": "2.387.2"
+      }
+    }
+  },
+  "ingredients": [
+    {
+      "ingredient_id": "paul-7-20-25:ingredient:chylos-elaterioy-1",
+      "ingredient_urn": "urn:aos:recipe-ingredient:paul-7-20-25:ingredient:chylos-elaterioy-1",
+      "source_span": "Ἐλατηρίου χυλοῦ",
+      "surface_form": "Ἐλατηρίου χυλοῦ",
+      "base_label": "χυλοῦ",
+      "normalized_label": "χυλὸς ἐλατηρίου",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [
+        "paul-7-20-25:process:mignynai-1",
+        "paul-7-20-25:process:epsein-2"
+      ],
+      "quantities": [
+        {
+          "source_span": "ξ̸ γ",
+          "raw_number": "γ",
+          "normalized_number": 3,
+          "raw_unit": "ξ̸",
+          "normalized_unit": "xestes",
+          "certainty": "uncertain",
+          "notes": [
+            "The metrological symbol ξ̸ is preserved without expansion."
+          ]
+        }
+      ],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "7",
+        "chapter": "20",
+        "section": "25",
+        "citation": {
+          "start": "2.386.24",
+          "end": "2.387.2"
+        }
+      }
+    },
+    {
+      "ingredient_id": "paul-7-20-25:ingredient:aristolochia-stroggyle-2",
+      "ingredient_urn": "urn:aos:recipe-ingredient:paul-7-20-25:ingredient:aristolochia-stroggyle-2",
+      "source_span": "ἀριστολοχίας στρογγύλης",
+      "surface_form": "ἀριστολοχίας στρογγύλης",
+      "base_label": "ἀριστολοχίας",
+      "normalized_label": "ἀριστολοχία στρογγύλη",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [
+        "paul-7-20-25:process:mignynai-1",
+        "paul-7-20-25:process:epsein-2"
+      ],
+      "quantities": [
+        {
+          "source_span": "𐆄 β",
+          "raw_number": "β",
+          "normalized_number": 2,
+          "raw_unit": "𐆄",
+          "normalized_unit": "uncia",
+          "certainty": "uncertain",
+          "notes": [
+            "The metrological symbol 𐆄 is preserved without expansion.",
+            "This quantity is governed distributively by ἀνὰ."
+          ]
+        }
+      ],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "7",
+        "chapter": "20",
+        "section": "25",
+        "citation": {
+          "start": "2.386.24",
+          "end": "2.387.2"
+        }
+      }
+    },
+    {
+      "ingredient_id": "paul-7-20-25:ingredient:aristolochia-makra-3",
+      "ingredient_urn": "urn:aos:recipe-ingredient:paul-7-20-25:ingredient:aristolochia-makra-3",
+      "source_span": "μακρᾶς",
+      "surface_form": "μακρᾶς",
+      "base_label": "μακρᾶς",
+      "normalized_label": "ἀριστολοχία μακρά",
+      "alternative_set_id": null,
+      "certainty": "uncertain",
+      "linked_process_ids": [
+        "paul-7-20-25:process:mignynai-1",
+        "paul-7-20-25:process:epsein-2"
+      ],
+      "quantities": [
+        {
+          "source_span": "𐆄 β",
+          "raw_number": "β",
+          "normalized_number": 2,
+          "raw_unit": "𐆄",
+          "normalized_unit": "uncia",
+          "certainty": "uncertain",
+          "notes": [
+            "The metrological symbol 𐆄 is preserved without expansion.",
+            "This quantity is governed distributively by ἀνὰ."
+          ]
+        }
+      ],
+      "qualifiers": [],
+      "notes": [
+        "Head noun restored from the preceding coordinated term ἀριστολοχίας."
+      ],
+      "host_locator": {
+        "book": "7",
+        "chapter": "20",
+        "section": "25",
+        "citation": {
+          "start": "2.386.24",
+          "end": "2.387.2"
+        }
+      }
+    },
+    {
+      "ingredient_id": "paul-7-20-25:ingredient:styrax-4",
+      "ingredient_urn": "urn:aos:recipe-ingredient:paul-7-20-25:ingredient:styrax-4",
+      "source_span": "στύρακος",
+      "surface_form": "στύρακος",
+      "base_label": "στύρακος",
+      "normalized_label": "στύραξ",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [
+        "paul-7-20-25:process:mignynai-1",
+        "paul-7-20-25:process:epsein-2"
+      ],
+      "quantities": [
+        {
+          "source_span": "𐆄 β",
+          "raw_number": "β",
+          "normalized_number": 2,
+          "raw_unit": "𐆄",
+          "normalized_unit": "uncia",
+          "certainty": "uncertain",
+          "notes": [
+            "The metrological symbol 𐆄 is preserved without expansion.",
+            "This quantity is governed distributively by ἀνὰ."
+          ]
+        }
+      ],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "7",
+        "chapter": "20",
+        "section": "25",
+        "citation": {
+          "start": "2.386.24",
+          "end": "2.387.2"
+        }
+      }
+    },
+    {
+      "ingredient_id": "paul-7-20-25:ingredient:elenion-5",
+      "ingredient_urn": "urn:aos:recipe-ingredient:paul-7-20-25:ingredient:elenion-5",
+      "source_span": "ἑλενίου",
+      "surface_form": "ἑλενίου",
+      "base_label": "ἑλενίου",
+      "normalized_label": "ἑλένιον",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [
+        "paul-7-20-25:process:mignynai-1",
+        "paul-7-20-25:process:epsein-2"
+      ],
+      "quantities": [
+        {
+          "source_span": "𐆄 β",
+          "raw_number": "β",
+          "normalized_number": 2,
+          "raw_unit": "𐆄",
+          "normalized_unit": "uncia",
+          "certainty": "uncertain",
+          "notes": [
+            "The metrological symbol 𐆄 is preserved without expansion.",
+            "This quantity is governed distributively by ἀνὰ."
+          ]
+        }
+      ],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "7",
+        "chapter": "20",
+        "section": "25",
+        "citation": {
+          "start": "2.386.24",
+          "end": "2.387.2"
+        }
+      }
+    },
+    {
+      "ingredient_id": "paul-7-20-25:ingredient:yssopos-6",
+      "ingredient_urn": "urn:aos:recipe-ingredient:paul-7-20-25:ingredient:yssopos-6",
+      "source_span": "ὑσσώπου",
+      "surface_form": "ὑσσώπου",
+      "base_label": "ὑσσώπου",
+      "normalized_label": "ὕσσωπος",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [
+        "paul-7-20-25:process:mignynai-1",
+        "paul-7-20-25:process:epsein-2"
+      ],
+      "quantities": [
+        {
+          "source_span": "𐆄 β",
+          "raw_number": "β",
+          "normalized_number": 2,
+          "raw_unit": "𐆄",
+          "normalized_unit": "uncia",
+          "certainty": "uncertain",
+          "notes": [
+            "The metrological symbol 𐆄 is preserved without expansion.",
+            "This quantity is governed distributively by ἀνὰ."
+          ]
+        }
+      ],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "7",
+        "chapter": "20",
+        "section": "25",
+        "citation": {
+          "start": "2.386.24",
+          "end": "2.387.2"
+        }
+      }
+    },
+    {
+      "ingredient_id": "paul-7-20-25:ingredient:iris-7",
+      "ingredient_urn": "urn:aos:recipe-ingredient:paul-7-20-25:ingredient:iris-7",
+      "source_span": "ἴρεως",
+      "surface_form": "ἴρεως",
+      "base_label": "ἴρεως",
+      "normalized_label": "ἶρις",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [
+        "paul-7-20-25:process:mignynai-1",
+        "paul-7-20-25:process:epsein-2"
+      ],
+      "quantities": [
+        {
+          "source_span": "𐆄 β",
+          "raw_number": "β",
+          "normalized_number": 2,
+          "raw_unit": "𐆄",
+          "normalized_unit": "uncia",
+          "certainty": "uncertain",
+          "notes": [
+            "The metrological symbol 𐆄 is preserved without expansion.",
+            "This quantity is governed distributively by ἀνὰ."
+          ]
+        }
+      ],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "7",
+        "chapter": "20",
+        "section": "25",
+        "citation": {
+          "start": "2.386.24",
+          "end": "2.387.2"
+        }
+      }
+    },
+    {
+      "ingredient_id": "paul-7-20-25:ingredient:kolokynthis-8",
+      "ingredient_urn": "urn:aos:recipe-ingredient:paul-7-20-25:ingredient:kolokynthis-8",
+      "source_span": "κολοκυνθίδος",
+      "surface_form": "κολοκυνθίδος",
+      "base_label": "κολοκυνθίδος",
+      "normalized_label": "κολοκυνθίς",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [
+        "paul-7-20-25:process:mignynai-1",
+        "paul-7-20-25:process:epsein-2"
+      ],
+      "quantities": [
+        {
+          "source_span": "𐆄 β",
+          "raw_number": "β",
+          "normalized_number": 2,
+          "raw_unit": "𐆄",
+          "normalized_unit": "uncia",
+          "certainty": "uncertain",
+          "notes": [
+            "The metrological symbol 𐆄 is preserved without expansion.",
+            "This quantity is governed distributively by ἀνὰ."
+          ]
+        }
+      ],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "7",
+        "chapter": "20",
+        "section": "25",
+        "citation": {
+          "start": "2.386.24",
+          "end": "2.387.2"
+        }
+      }
+    },
+    {
+      "ingredient_id": "paul-7-20-25:ingredient:glechon-9",
+      "ingredient_urn": "urn:aos:recipe-ingredient:paul-7-20-25:ingredient:glechon-9",
+      "source_span": "γλήχωνος",
+      "surface_form": "γλήχωνος",
+      "base_label": "γλήχωνος",
+      "normalized_label": "γλήχων",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [
+        "paul-7-20-25:process:mignynai-1",
+        "paul-7-20-25:process:epsein-2"
+      ],
+      "quantities": [
+        {
+          "source_span": "𐆄 β",
+          "raw_number": "β",
+          "normalized_number": 2,
+          "raw_unit": "𐆄",
+          "normalized_unit": "uncia",
+          "certainty": "uncertain",
+          "notes": [
+            "The metrological symbol 𐆄 is preserved without expansion.",
+            "This quantity is governed distributively by ἀνὰ."
+          ]
+        }
+      ],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "7",
+        "chapter": "20",
+        "section": "25",
+        "citation": {
+          "start": "2.386.24",
+          "end": "2.387.2"
+        }
+      }
+    },
+    {
+      "ingredient_id": "paul-7-20-25:ingredient:origanon-10",
+      "ingredient_urn": "urn:aos:recipe-ingredient:paul-7-20-25:ingredient:origanon-10",
+      "source_span": "ὀριγάνου",
+      "surface_form": "ὀριγάνου",
+      "base_label": "ὀριγάνου",
+      "normalized_label": "ὀρίγανον",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [
+        "paul-7-20-25:process:mignynai-1",
+        "paul-7-20-25:process:epsein-2"
+      ],
+      "quantities": [
+        {
+          "source_span": "𐆄 β",
+          "raw_number": "β",
+          "normalized_number": 2,
+          "raw_unit": "𐆄",
+          "normalized_unit": "uncia",
+          "certainty": "uncertain",
+          "notes": [
+            "The metrological symbol 𐆄 is preserved without expansion.",
+            "This quantity is governed distributively by ἀνὰ."
+          ]
+        }
+      ],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "7",
+        "chapter": "20",
+        "section": "25",
+        "citation": {
+          "start": "2.386.24",
+          "end": "2.387.2"
+        }
+      }
+    },
+    {
+      "ingredient_id": "paul-7-20-25:ingredient:kyperos-11",
+      "ingredient_urn": "urn:aos:recipe-ingredient:paul-7-20-25:ingredient:kyperos-11",
+      "source_span": "κυπέρου",
+      "surface_form": "κυπέρου",
+      "base_label": "κυπέρου",
+      "normalized_label": "κύπερος",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [
+        "paul-7-20-25:process:mignynai-1",
+        "paul-7-20-25:process:epsein-2"
+      ],
+      "quantities": [
+        {
+          "source_span": "𐆄 β",
+          "raw_number": "β",
+          "normalized_number": 2,
+          "raw_unit": "𐆄",
+          "normalized_unit": "uncia",
+          "certainty": "uncertain",
+          "notes": [
+            "The metrological symbol 𐆄 is preserved without expansion.",
+            "This quantity is governed distributively by ἀνὰ."
+          ]
+        }
+      ],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "7",
+        "chapter": "20",
+        "section": "25",
+        "citation": {
+          "start": "2.386.24",
+          "end": "2.387.2"
+        }
+      }
+    },
+    {
+      "ingredient_id": "paul-7-20-25:ingredient:dendrolibanon-12",
+      "ingredient_urn": "urn:aos:recipe-ingredient:paul-7-20-25:ingredient:dendrolibanon-12",
+      "source_span": "δενδρολιβάνου",
+      "surface_form": "δενδρολιβάνου",
+      "base_label": "δενδρολιβάνου",
+      "normalized_label": "δενδρολίβανον",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [
+        "paul-7-20-25:process:mignynai-1",
+        "paul-7-20-25:process:epsein-2"
+      ],
+      "quantities": [
+        {
+          "source_span": "𐆄 β",
+          "raw_number": "β",
+          "normalized_number": 2,
+          "raw_unit": "𐆄",
+          "normalized_unit": "uncia",
+          "certainty": "uncertain",
+          "notes": [
+            "The metrological symbol 𐆄 is preserved without expansion.",
+            "This quantity is governed distributively by ἀνὰ."
+          ]
+        }
+      ],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "7",
+        "chapter": "20",
+        "section": "25",
+        "citation": {
+          "start": "2.386.24",
+          "end": "2.387.2"
+        }
+      }
+    },
+    {
+      "ingredient_id": "paul-7-20-25:ingredient:kentayrion-13",
+      "ingredient_urn": "urn:aos:recipe-ingredient:paul-7-20-25:ingredient:kentayrion-13",
+      "source_span": "κενταυρίου",
+      "surface_form": "κενταυρίου",
+      "base_label": "κενταυρίου",
+      "normalized_label": "κενταύριον",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [
+        "paul-7-20-25:process:mignynai-1",
+        "paul-7-20-25:process:epsein-2"
+      ],
+      "quantities": [
+        {
+          "source_span": "𐆄 β",
+          "raw_number": "β",
+          "normalized_number": 2,
+          "raw_unit": "𐆄",
+          "normalized_unit": "uncia",
+          "certainty": "uncertain",
+          "notes": [
+            "The metrological symbol 𐆄 is preserved without expansion.",
+            "This quantity is governed distributively by ἀνὰ."
+          ]
+        }
+      ],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "7",
+        "chapter": "20",
+        "section": "25",
+        "citation": {
+          "start": "2.386.24",
+          "end": "2.387.2"
+        }
+      }
+    },
+    {
+      "ingredient_id": "paul-7-20-25:ingredient:daphnophyllon-14",
+      "ingredient_urn": "urn:aos:recipe-ingredient:paul-7-20-25:ingredient:daphnophyllon-14",
+      "source_span": "δαφνοφύλλων",
+      "surface_form": "δαφνοφύλλων",
+      "base_label": "δαφνοφύλλων",
+      "normalized_label": "δαφνόφυλλον",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [
+        "paul-7-20-25:process:mignynai-1",
+        "paul-7-20-25:process:epsein-2"
+      ],
+      "quantities": [
+        {
+          "source_span": "𐆄 β",
+          "raw_number": "β",
+          "normalized_number": 2,
+          "raw_unit": "𐆄",
+          "normalized_unit": "uncia",
+          "certainty": "uncertain",
+          "notes": [
+            "The metrological symbol 𐆄 is preserved without expansion.",
+            "This quantity is governed distributively by ἀνὰ."
+          ]
+        }
+      ],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "7",
+        "chapter": "20",
+        "section": "25",
+        "citation": {
+          "start": "2.386.24",
+          "end": "2.387.2"
+        }
+      }
+    },
+    {
+      "ingredient_id": "paul-7-20-25:ingredient:elaion-15",
+      "ingredient_urn": "urn:aos:recipe-ingredient:paul-7-20-25:ingredient:elaion-15",
+      "source_span": "ἐλαίου",
+      "surface_form": "ἐλαίου",
+      "base_label": "ἐλαίου",
+      "normalized_label": "ἔλαιον",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [
+        "paul-7-20-25:process:mignynai-1",
+        "paul-7-20-25:process:epsein-2"
+      ],
+      "quantities": [
+        {
+          "source_span": "ξ̸ ε",
+          "raw_number": "ε",
+          "normalized_number": 5,
+          "raw_unit": "ξ̸",
+          "normalized_unit": "xestes",
+          "certainty": "uncertain",
+          "notes": [
+            "The metrological symbol ξ̸ is preserved without expansion."
+          ]
+        }
+      ],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "7",
+        "chapter": "20",
+        "section": "25",
+        "citation": {
+          "start": "2.386.24",
+          "end": "2.387.2"
+        }
+      }
+    }
+  ],
+  "processes": [
+    {
+      "process_id": "paul-7-20-25:process:mignynai-1",
+      "process_urn": "urn:aos:recipe-process:paul-7-20-25:process:mignynai-1",
+      "source_span": "μίξας",
+      "surface_form": "μίξας",
+      "normalized_label": "μιγνύναι",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "7",
+        "chapter": "20",
+        "section": "25",
+        "citation": {
+          "start": "2.386.24",
+          "end": "2.387.2"
+        }
+      }
+    },
+    {
+      "process_id": "paul-7-20-25:process:epsein-2",
+      "process_urn": "urn:aos:recipe-process:paul-7-20-25:process:epsein-2",
+      "source_span": "ἕψε",
+      "surface_form": "ἕψε",
+      "normalized_label": "ἕψειν",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "other",
+          "source_span": "ἕως ὀλίγον τοῦ χυλοῦ περιλειφθῇ",
+          "normalized_value": "ἕως ὀλίγον τοῦ χυλοῦ περιλειφθῇ",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "7",
+        "chapter": "20",
+        "section": "25",
+        "citation": {
+          "start": "2.386.24",
+          "end": "2.387.2"
+        }
+      }
+    }
+  ],
+  "materials": [],
+  "people": [],
+  "places": [],
+  "uses": [],
+  "preparation_names": [
+    {
+      "preparation_name_id": "paul-7-20-25:preparation_name:sikyonion-1",
+      "preparation_name_urn": "urn:aos:recipe-preparation_name:paul-7-20-25:preparation_name:sikyonion-1",
+      "source_span": "Σικυώνιον",
+      "surface_form": "Σικυώνιον",
+      "normalized_label": "Σικυώνιον",
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "7",
+        "chapter": "20",
+        "section": "25",
+        "citation": {
+          "start": "2.386.24",
+          "end": "2.387.2"
+        }
+      }
+    }
+  ],
+  "other_preparations_mentioned": [],
+  "works_mentioned": [],
+  "entities": [
+    {
+      "entity_urn": "urn:aos:recipe-preparation:paul-7-20-25:preparation:allo-sikyonion-drastikoteron",
+      "entity_type": "label",
+      "surface_form": "Ἄλλο Σικυώνιον δραστικώτερον",
+      "normalized_label": "Ἄλλο Σικυώνιον δραστικώτερον"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:paul-7-20-25:ingredient:chylos-elaterioy-1",
+      "entity_type": "ingredient",
+      "surface_form": "Ἐλατηρίου χυλοῦ",
+      "normalized_label": "χυλὸς ἐλατηρίου"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:paul-7-20-25:ingredient:aristolochia-stroggyle-2",
+      "entity_type": "ingredient",
+      "surface_form": "ἀριστολοχίας στρογγύλης",
+      "normalized_label": "ἀριστολοχία στρογγύλη"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:paul-7-20-25:ingredient:aristolochia-makra-3",
+      "entity_type": "ingredient",
+      "surface_form": "μακρᾶς",
+      "normalized_label": "ἀριστολοχία μακρά"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:paul-7-20-25:ingredient:styrax-4",
+      "entity_type": "ingredient",
+      "surface_form": "στύρακος",
+      "normalized_label": "στύραξ"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:paul-7-20-25:ingredient:elenion-5",
+      "entity_type": "ingredient",
+      "surface_form": "ἑλενίου",
+      "normalized_label": "ἑλένιον"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:paul-7-20-25:ingredient:yssopos-6",
+      "entity_type": "ingredient",
+      "surface_form": "ὑσσώπου",
+      "normalized_label": "ὕσσωπος"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:paul-7-20-25:ingredient:iris-7",
+      "entity_type": "ingredient",
+      "surface_form": "ἴρεως",
+      "normalized_label": "ἶρις"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:paul-7-20-25:ingredient:kolokynthis-8",
+      "entity_type": "ingredient",
+      "surface_form": "κολοκυνθίδος",
+      "normalized_label": "κολοκυνθίς"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:paul-7-20-25:ingredient:glechon-9",
+      "entity_type": "ingredient",
+      "surface_form": "γλήχωνος",
+      "normalized_label": "γλήχων"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:paul-7-20-25:ingredient:origanon-10",
+      "entity_type": "ingredient",
+      "surface_form": "ὀριγάνου",
+      "normalized_label": "ὀρίγανον"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:paul-7-20-25:ingredient:kyperos-11",
+      "entity_type": "ingredient",
+      "surface_form": "κυπέρου",
+      "normalized_label": "κύπερος"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:paul-7-20-25:ingredient:dendrolibanon-12",
+      "entity_type": "ingredient",
+      "surface_form": "δενδρολιβάνου",
+      "normalized_label": "δενδρολίβανον"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:paul-7-20-25:ingredient:kentayrion-13",
+      "entity_type": "ingredient",
+      "surface_form": "κενταυρίου",
+      "normalized_label": "κενταύριον"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:paul-7-20-25:ingredient:daphnophyllon-14",
+      "entity_type": "ingredient",
+      "surface_form": "δαφνοφύλλων",
+      "normalized_label": "δαφνόφυλλον"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:paul-7-20-25:ingredient:elaion-15",
+      "entity_type": "ingredient",
+      "surface_form": "ἐλαίου",
+      "normalized_label": "ἔλαιον"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:paul-7-20-25:process:mignynai-1",
+      "entity_type": "process",
+      "surface_form": "μίξας",
+      "normalized_label": "μιγνύναι"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:paul-7-20-25:process:epsein-2",
+      "entity_type": "process",
+      "surface_form": "ἕψε",
+      "normalized_label": "ἕψειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-preparation_name:paul-7-20-25:preparation_name:sikyonion-1",
+      "entity_type": "preparation_name",
+      "surface_form": "Σικυώνιον",
+      "normalized_label": "Σικυώνιον"
+    }
+  ],
+  "canonical_file": "data/recipes/paul-7-20-25.json",
+  "source_entry": {
+    "source_id": "paul-7-20-25",
+    "derived_recipe_id": "paul-7-20-25",
+    "entry_kind": null,
+    "source_kind": null,
+    "source_lines": null,
+    "section_markers": []
+  },
+  "entity_groups": {
+    "labels": [
+      {
+        "entity_urn": "urn:aos:recipe-preparation:paul-7-20-25:preparation:allo-sikyonion-drastikoteron",
+        "surface_form": "Ἄλλο Σικυώνιον δραστικώτερον",
+        "normalized_label": "Ἄλλο Σικυώνιον δραστικώτερον"
+      }
+    ],
+    "ingredients": [
+      {
+        "entity_urn": "urn:aos:recipe-ingredient:paul-7-20-25:ingredient:chylos-elaterioy-1",
+        "surface_form": "Ἐλατηρίου χυλοῦ",
+        "normalized_label": "χυλὸς ἐλατηρίου",
+        "quantity_display": "ξ̸ γ"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-ingredient:paul-7-20-25:ingredient:aristolochia-stroggyle-2",
+        "surface_form": "ἀριστολοχίας στρογγύλης",
+        "normalized_label": "ἀριστολοχία στρογγύλη",
+        "quantity_display": "𐆄 β"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-ingredient:paul-7-20-25:ingredient:aristolochia-makra-3",
+        "surface_form": "μακρᾶς",
+        "normalized_label": "ἀριστολοχία μακρά",
+        "quantity_display": "𐆄 β"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-ingredient:paul-7-20-25:ingredient:styrax-4",
+        "surface_form": "στύρακος",
+        "normalized_label": "στύραξ",
+        "quantity_display": "𐆄 β"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-ingredient:paul-7-20-25:ingredient:elenion-5",
+        "surface_form": "ἑλενίου",
+        "normalized_label": "ἑλένιον",
+        "quantity_display": "𐆄 β"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-ingredient:paul-7-20-25:ingredient:yssopos-6",
+        "surface_form": "ὑσσώπου",
+        "normalized_label": "ὕσσωπος",
+        "quantity_display": "𐆄 β"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-ingredient:paul-7-20-25:ingredient:iris-7",
+        "surface_form": "ἴρεως",
+        "normalized_label": "ἶρις",
+        "quantity_display": "𐆄 β"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-ingredient:paul-7-20-25:ingredient:kolokynthis-8",
+        "surface_form": "κολοκυνθίδος",
+        "normalized_label": "κολοκυνθίς",
+        "quantity_display": "𐆄 β"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-ingredient:paul-7-20-25:ingredient:glechon-9",
+        "surface_form": "γλήχωνος",
+        "normalized_label": "γλήχων",
+        "quantity_display": "𐆄 β"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-ingredient:paul-7-20-25:ingredient:origanon-10",
+        "surface_form": "ὀριγάνου",
+        "normalized_label": "ὀρίγανον",
+        "quantity_display": "𐆄 β"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-ingredient:paul-7-20-25:ingredient:kyperos-11",
+        "surface_form": "κυπέρου",
+        "normalized_label": "κύπερος",
+        "quantity_display": "𐆄 β"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-ingredient:paul-7-20-25:ingredient:dendrolibanon-12",
+        "surface_form": "δενδρολιβάνου",
+        "normalized_label": "δενδρολίβανον",
+        "quantity_display": "𐆄 β"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-ingredient:paul-7-20-25:ingredient:kentayrion-13",
+        "surface_form": "κενταυρίου",
+        "normalized_label": "κενταύριον",
+        "quantity_display": "𐆄 β"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-ingredient:paul-7-20-25:ingredient:daphnophyllon-14",
+        "surface_form": "δαφνοφύλλων",
+        "normalized_label": "δαφνόφυλλον",
+        "quantity_display": "𐆄 β"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-ingredient:paul-7-20-25:ingredient:elaion-15",
+        "surface_form": "ἐλαίου",
+        "normalized_label": "ἔλαιον",
+        "quantity_display": "ξ̸ ε"
+      }
+    ],
+    "processes": [
+      {
+        "entity_urn": "urn:aos:recipe-process:paul-7-20-25:process:mignynai-1",
+        "surface_form": "μίξας",
+        "normalized_label": "μιγνύναι"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-process:paul-7-20-25:process:epsein-2",
+        "surface_form": "ἕψε",
+        "normalized_label": "ἕψειν"
+      }
+    ],
+    "tools": [],
+    "other_preparations_mentioned": [],
+    "people": [],
+    "places": [],
+    "works_mentioned": [],
+    "preparation_names": [
+      {
+        "entity_urn": "urn:aos:recipe-preparation_name:paul-7-20-25:preparation_name:sikyonion-1",
+        "surface_form": "Σικυώνιον",
+        "normalized_label": "Σικυώνιον"
+      }
+    ]
+  }
+}

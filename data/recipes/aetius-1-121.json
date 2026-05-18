@@ -1,0 +1,1014 @@
+{
+  "dataset_key": "aetius_book1_oils",
+  "source_json": "experiments/aetius-book1-ch99-136-oils/data/aetius_book1_ch99_136_oils.json",
+  "host_raw_file": "tei/raw/tlg0718001.xml",
+  "work_slug": "aetius.b1.oils",
+  "recipe_id": "aetius-1-121",
+  "recipe_urn": "urn:aos:recipe:aetius-1-121",
+  "record_urn": "urn:aos:recipe-record:aetius-1-121",
+  "author": "Aëtius of Amida",
+  "work": "Libri medicinales",
+  "book": "1",
+  "chapter": "121",
+  "section": "121",
+  "chapter_name": "Μυρσινάτον",
+  "lemma": "Μυρσινάτον",
+  "text": "Μυρσινάτον. Γίγνεται καὶ τοῦτο τῶν φύλλων τῆς μυρσίνης χλωρῶν ἐμβαλλομένων ἐλαίῳ ὀμφακίνῳ εἰς ξέστην α ἰταλικὸν 𐆄 β καὶ ἴνου εὐώδους στύφοντος ἰταλικοῦ τὸ τέταρτον, εἶθ’ ἕψειν ἐπὶ λεπτῆς ἀνθρακιᾶς μέχρις ὅτου τὰ φύλλα ξηρανθῇ καὶ θραύηται καὶ ὁ οἶνος ἀναλωθῇ· εἶτα διηθήσαντα καθαρὸν τὸ ἔλαιον ἐμβάλλειν εἰς ὑελοῦν ἀγγεῖον καὶ ἐπεμβάλλοντα φύλλων χλωρῶν τῆς μυρσίνης διεψυγμένων νύκτα καὶ ἡμέραν 𐆄 α καὶ οὕτως ἀποτίθεσθαι. στύφει δὲ καὶ ψύχει τὸ ἔλαιον τοῦτο πλέον τοῦ σχινίνου καὶ τοῦ μηλίνου καὶ διὰ τοῦτο διαβροχαῖς μὲν στομάχου καὶ ἥπατος ἀνοίκειόν ἐστιν, ἀλλ’ οὐδὲ τοῖς ἄλλοις σπλάγχνοις ἐστὶ προσηνές. εὗρεν οὖν αὐτοῦ τὴν χρῆσιν ἡ πολλὴ πεῖρα τὴν ἐν κηρωταῖς καὶ ἐμπλάστροις φαρμάκοις, δι’ ὧν πυκνοῦν τῇ στύψει καὶ ἀποκρουόμενον ἔσται χρήσιμον εἰς τὰ ἐπιφερόμενα ῥεύματα καὶ ὑγραινομένοις ἕλκεσιν οὐλὴν ἐργάσασθαι καὶ κεφαλαῖς γυναικῶν ὥστε συνέχειν τὴν τρίχα ἐπιτήδειον καὶ εὐῶδές.",
+  "original_text": "Μυρσινάτον. Γίγνεται καὶ τοῦτο τῶν φύλλων τῆς μυρσίνης χλωρῶν ἐμβαλλομένων ἐλαίῳ ὀμφακίνῳ εἰς ξέστην α ἰταλικὸν 𐆄 β καὶ ἴνου εὐώδους στύφοντος ἰταλικοῦ τὸ τέταρτον, εἶθ' ἕψειν ἐπὶ λεπτῆς ἀνθρακιᾶς μέχρις ὅτου τὰ φύλλα ξηρανθῇ καὶ θραύηται καὶ ὁ οἶνος ἀναλωθῇ· εἶτα διηθήσαντα καθαρὸν τὸ ἔλαιον ἐμβάλλειν εἰς ὑάλινον ἀγγεῖον καὶ ἐπεμβάλλοντα φύλλων χλωρῶν τῆς μυρσίνης διεψυγμένων νύκτα καὶ ἡμέραν 𐆄 α καὶ οὕτως ἀποτίθεσθαι. στύφει δὲ καὶ ψύχει τὸ ἔλαιον τοῦτο πλέον τοῦ σχινίνου καὶ τοῦ μηλίνου καὶ διὰ τοῦτο διαβροχαῖς μὲν στομάχου καὶ ἥπατος ἀνοίκειόν ἐστιν, ἀλλ' οὐδὲ τοῖς ἄλλοις σπλάγχνοις ἐστὶ προσηνές. εὗρεν οὖν αὐτοῦ τὴν χρῆσιν ἡ πολλὴ πεῖρα τὴν ἐν κηρωταῖς καὶ ἐμπλάστοις φαρμάκοις, δι' ὧν πυκνοῦν τῇ στύψει καὶ ἀποκρουόμενον ἔσται χρήσιμον εἰς τὰ ἐπιφερόμενα ῥεύματα καὶ ἠραιωμένοις ἕλκεσιν οὐλὴν ἐργάσασθαι καὶ κεφαλαῖς γυναικῶν ὥστε συνέχειν τὴν τρίχα ἐπιτήδειον καὶ εὐῶδές ἐστιν.",
+  "text_source": "emended",
+  "emendations": [
+    {
+      "locus": "[62.3]",
+      "start_citation": "62.3",
+      "end_citation": "62.3",
+      "operation": "replace",
+      "olivieri_text": "ὑάλινον",
+      "adopted_text": "ὑελοῦν",
+      "proposal_author": "Irene Cala",
+      "decision": "accepted",
+      "note": "ὑελοῦν replaces ὑάλινον"
+    },
+    {
+      "locus": "[62.8]",
+      "start_citation": "62.8",
+      "end_citation": "62.8",
+      "operation": "replace",
+      "olivieri_text": "ἐμπλάστοις. 139",
+      "adopted_text": "ἐμπλάστροις",
+      "proposal_author": "Irene Cala",
+      "decision": "accepted",
+      "note": "ἐμπλάστροις replaces ἐμπλάστοις. 139"
+    },
+    {
+      "locus": "[62.10]",
+      "start_citation": "62.10",
+      "end_citation": "62.10",
+      "operation": "replace",
+      "olivieri_text": "ἠραιωμένοις",
+      "adopted_text": "ὑγραινομένοις",
+      "proposal_author": "Irene Cala",
+      "decision": "accepted",
+      "note": "ὑγραινομένοις replaces ἠραιωμένοις"
+    },
+    {
+      "locus": "[62.12]",
+      "start_citation": "62.12",
+      "end_citation": "62.12",
+      "operation": "omit",
+      "olivieri_text": "ἐστιν",
+      "adopted_text": null,
+      "proposal_author": "Irene Cala",
+      "decision": "accepted",
+      "note": "after εὐῶδές"
+    }
+  ],
+  "emendation_count": 4,
+  "source_kind": null,
+  "entry_kind": "recipe",
+  "citation": {
+    "pages": [
+      "61",
+      "62"
+    ],
+    "start": {
+      "page": "61",
+      "line": "28",
+      "xml_id": "oliv-61-28"
+    },
+    "end": {
+      "page": "62",
+      "line": "12",
+      "xml_id": "oliv-62-12"
+    },
+    "citation": {
+      "start": "61.28",
+      "end": "62.12"
+    },
+    "page_spans": [
+      {
+        "page": "61",
+        "start_line": "28",
+        "end_line": "30"
+      },
+      {
+        "page": "62",
+        "start_line": "1",
+        "end_line": "12"
+      }
+    ],
+    "lines": [
+      {
+        "page": "61",
+        "line": "28",
+        "xml_id": "oliv-61-28",
+        "break_no": false,
+        "text": "Μυρσινάτον. Γίγνεται καὶ τοῦτο τῶν φύλλων τῆς μυρσίνης χλω-",
+        "citation": "61.28"
+      },
+      {
+        "page": "61",
+        "line": "29",
+        "xml_id": "oliv-61-29",
+        "break_no": true,
+        "text": "ρῶν ἐμβαλλομένων ἐλαίῳ ὀμφακίνῳ εἰς ξέστην α ἰταλικὸν 𐆄 β καὶ",
+        "citation": "61.29"
+      },
+      {
+        "page": "61",
+        "line": "30",
+        "xml_id": "oliv-61-30",
+        "break_no": false,
+        "text": "ἴνου εὐώδους στύφοντος ἰταλικοῦ τὸ τέταρτον, εἶθ' ἕψειν ἐπὶ λεπ-",
+        "citation": "61.30"
+      },
+      {
+        "page": "62",
+        "line": "1",
+        "xml_id": "oliv-62-1",
+        "break_no": true,
+        "text": "τῆς ἀνθρακιᾶς μέχρις ὅτου τὰ φύλλα ξηρανθῇ καὶ θραύηται καὶ ὁ",
+        "citation": "62.1"
+      },
+      {
+        "page": "62",
+        "line": "2",
+        "xml_id": "oliv-62-2",
+        "break_no": false,
+        "text": "οἶνος ἀναλωθῇ· εἶτα διηθήσαντα καθαρὸν τὸ ἔλαιον ἐμβάλλειν εἰς",
+        "citation": "62.2"
+      },
+      {
+        "page": "62",
+        "line": "3",
+        "xml_id": "oliv-62-3",
+        "break_no": false,
+        "text": "ὑάλινον ἀγγεῖον καὶ ἐπεμβάλλοντα φύλλων χλωρῶν τῆς μυρσίνης",
+        "citation": "62.3"
+      },
+      {
+        "page": "62",
+        "line": "4",
+        "xml_id": "oliv-62-4",
+        "break_no": false,
+        "text": "διεψυγμένων νύκτα καὶ ἡμέραν 𐆄 α καὶ οὕτως ἀποτίθεσθαι. στύφει",
+        "citation": "62.4"
+      },
+      {
+        "page": "62",
+        "line": "5",
+        "xml_id": "oliv-62-5",
+        "break_no": false,
+        "text": "δὲ καὶ ψύχει τὸ ἔλαιον τοῦτο πλέον τοῦ σχινίνου καὶ τοῦ μηλίνου",
+        "citation": "62.5"
+      },
+      {
+        "page": "62",
+        "line": "6",
+        "xml_id": "oliv-62-6",
+        "break_no": false,
+        "text": "καὶ διὰ τοῦτο διαβροχαῖς μὲν στομάχου καὶ ἥπατος ἀνοίκειόν ἐστιν,",
+        "citation": "62.6"
+      },
+      {
+        "page": "62",
+        "line": "7",
+        "xml_id": "oliv-62-7",
+        "break_no": false,
+        "text": "ἀλλ' οὐδὲ τοῖς ἄλλοις σπλάγχνοις ἐστὶ προσηνές. εὗρεν οὖν αὐτοῦ",
+        "citation": "62.7"
+      },
+      {
+        "page": "62",
+        "line": "8",
+        "xml_id": "oliv-62-8",
+        "break_no": false,
+        "text": "τὴν χρῆσιν ἡ πολλὴ πεῖρα τὴν ἐν κηρωταῖς καὶ ἐμπλάστοις φαρμάκοις,",
+        "citation": "62.8"
+      },
+      {
+        "page": "62",
+        "line": "9",
+        "xml_id": "oliv-62-9",
+        "break_no": false,
+        "text": "δι' ὧν πυκνοῦν τῇ στύψει καὶ ἀποκρουόμενον ἔσται χρήσιμον εἰς τὰ",
+        "citation": "62.9"
+      },
+      {
+        "page": "62",
+        "line": "10",
+        "xml_id": "oliv-62-10",
+        "break_no": false,
+        "text": "ἐπιφερόμενα ῥεύματα καὶ ἠραιωμένοις ἕλκεσιν οὐλὴν ἐργάσασθαι καὶ",
+        "citation": "62.10"
+      },
+      {
+        "page": "62",
+        "line": "11",
+        "xml_id": "oliv-62-11",
+        "break_no": false,
+        "text": "κεφαλαῖς γυναικῶν ὥστε συνέχειν τὴν τρίχα ἐπιτήδειον καὶ εὐῶδές",
+        "citation": "62.11"
+      },
+      {
+        "page": "62",
+        "line": "12",
+        "xml_id": "oliv-62-12",
+        "break_no": false,
+        "text": "ἐστιν.",
+        "citation": "62.12"
+      }
+    ],
+    "edition_key": "olivieri"
+  },
+  "notes": [
+    "The text explicitly states that this oil is unsuitable for moist applications of the stomach and liver and not agreeable to the other viscera."
+  ],
+  "alignment_status": "pending",
+  "alignment_confidence": "pending",
+  "alignment_evidence": null,
+  "review_status": "reviewed_structured_authority",
+  "review_provenance": {
+    "authority_source": "reports/entity_review/structured/aetius_book1.json",
+    "authority_recipe_id": "aetius-1-121",
+    "authority_lemma": "Μυρσινάτον",
+    "model": "gpt-5.4",
+    "reasoning_effort": "high",
+    "dataset_key": "aetius_book1_oils",
+    "entity_model_version": "1.2",
+    "authority_version": "2026-04-13-qty-alt-v1",
+    "prompt_version": "qty-alt-pass-v1",
+    "build_version": "2026-05-18T15:51:35Z"
+  },
+  "schema_version": "1.2",
+  "build_metadata": {
+    "builder": "scripts/recipes/build_recipe_entities.py",
+    "built_at": "2026-05-18T15:51:35Z",
+    "source_structured_authority": "reports/entity_review/structured/aetius_book1.json",
+    "authority_model": "gpt-5.4",
+    "authority_reasoning_effort": "high",
+    "dataset_key": "aetius_book1_oils",
+    "entity_model_version": "1.2",
+    "authority_version": "2026-04-13-qty-alt-v1",
+    "prompt_version": "qty-alt-pass-v1",
+    "build_version": "2026-05-18T15:51:35Z"
+  },
+  "recipe_text_excerpt": "Μυρσινάτον. Γίγνεται καὶ τοῦτο τῶν φύλλων τῆς μυρσίνης χλωρῶν ἐμβαλλομένων ἐλαίῳ ὀμφακίνῳ εἰς ξέστην α ἰταλικὸν 𐆄 β καὶ ἴνου",
+  "preparation": {
+    "preparation_id": "aetius-1-121:preparation:myrsinaton",
+    "preparation_urn": "urn:aos:recipe-preparation:aetius-1-121:preparation:myrsinaton",
+    "source_span": "Μυρσινάτον",
+    "surface_form": "Μυρσινάτον",
+    "normalized_label": "Μυρσινάτον",
+    "qualifiers": [],
+    "regimen_notes": [],
+    "certainty": "certain",
+    "notes": [],
+    "host_locator": {
+      "book": "1",
+      "chapter": "121",
+      "section": "121",
+      "citation": {
+        "start": "61.28",
+        "end": "62.12"
+      }
+    }
+  },
+  "ingredients": [
+    {
+      "ingredient_id": "aetius-1-121:ingredient:phylla-chlora-myrsines-1",
+      "ingredient_urn": "urn:aos:recipe-ingredient:aetius-1-121:ingredient:phylla-chlora-myrsines-1",
+      "source_span": "τῶν φύλλων τῆς μυρσίνης χλωρῶν ἐμβαλλομένων",
+      "surface_form": "τῶν φύλλων τῆς μυρσίνης χλωρῶν ἐμβαλλομένων",
+      "base_label": "φύλλων",
+      "normalized_label": "φύλλα χλωρὰ μυρσίνης",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [
+        "aetius-1-121:process:emballein-1",
+        "aetius-1-121:process:emballein-4"
+      ],
+      "quantities": [],
+      "qualifiers": [],
+      "notes": [
+        "First addition of myrtle leaves."
+      ],
+      "host_locator": {
+        "book": "1",
+        "chapter": "121",
+        "section": "121",
+        "citation": {
+          "start": "61.28",
+          "end": "62.12"
+        }
+      }
+    },
+    {
+      "ingredient_id": "aetius-1-121:ingredient:elaion-omphakinon-2",
+      "ingredient_urn": "urn:aos:recipe-ingredient:aetius-1-121:ingredient:elaion-omphakinon-2",
+      "source_span": "ἐλαίῳ ὀμφακίνῳ",
+      "surface_form": "ἐλαίῳ ὀμφακίνῳ",
+      "base_label": "ἐλαίῳ",
+      "normalized_label": "ἔλαιον ὀμφάκινον",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [],
+      "quantities": [
+        {
+          "source_span": "ξέστην α ἰταλικὸν 𐆄 β",
+          "raw_number": "α 𐆄 β",
+          "normalized_number": null,
+          "raw_unit": "ξέστην ἰταλικὸν",
+          "normalized_unit": "uncia",
+          "certainty": "uncertain",
+          "notes": [
+            "Composite measure not resolved further."
+          ]
+        }
+      ],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "121",
+        "section": "121",
+        "citation": {
+          "start": "61.28",
+          "end": "62.12"
+        }
+      }
+    },
+    {
+      "ingredient_id": "aetius-1-121:ingredient:oinos-eyodes-styphon-italikos-3",
+      "ingredient_urn": "urn:aos:recipe-ingredient:aetius-1-121:ingredient:oinos-eyodes-styphon-italikos-3",
+      "source_span": "ἴνου εὐώδους στύφοντος ἰταλικοῦ",
+      "surface_form": "ἴνου εὐώδους στύφοντος ἰταλικοῦ",
+      "base_label": "ἴνου",
+      "normalized_label": "οἶνος εὐώδης στύφων Ἰταλικός",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [],
+      "quantities": [
+        {
+          "source_span": "τὸ τέταρτον",
+          "raw_number": "τέταρτον",
+          "normalized_number": "1/4",
+          "raw_unit": null,
+          "normalized_unit": null,
+          "certainty": "certain",
+          "notes": [
+            "Fraction of the preceding measure is implied, but the base unit is not restated."
+          ]
+        }
+      ],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "121",
+        "section": "121",
+        "citation": {
+          "start": "61.28",
+          "end": "62.12"
+        }
+      }
+    },
+    {
+      "ingredient_id": "aetius-1-121:ingredient:phylla-chlora-myrsines-4",
+      "ingredient_urn": "urn:aos:recipe-ingredient:aetius-1-121:ingredient:phylla-chlora-myrsines-4",
+      "source_span": "φύλλων χλωρῶν τῆς μυρσίνης διεψυγμένων",
+      "surface_form": "φύλλων χλωρῶν τῆς μυρσίνης διεψυγμένων",
+      "base_label": "φύλλων",
+      "normalized_label": "φύλλα χλωρὰ μυρσίνης",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [
+        "aetius-1-121:process:diapsychein-5",
+        "aetius-1-121:process:epemballein-6"
+      ],
+      "quantities": [],
+      "qualifiers": [],
+      "notes": [
+        "Second addition of myrtle leaves after cooling."
+      ],
+      "host_locator": {
+        "book": "1",
+        "chapter": "121",
+        "section": "121",
+        "citation": {
+          "start": "61.28",
+          "end": "62.12"
+        }
+      }
+    }
+  ],
+  "processes": [
+    {
+      "process_id": "aetius-1-121:process:emballein-1",
+      "process_urn": "urn:aos:recipe-process:aetius-1-121:process:emballein-1",
+      "source_span": "ἐμβαλλομένων",
+      "surface_form": "ἐμβαλλομένων",
+      "normalized_label": "ἐμβάλλειν",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [],
+      "certainty": "certain",
+      "notes": [
+        "Adds the first myrtle leaves to the oil."
+      ],
+      "host_locator": {
+        "book": "1",
+        "chapter": "121",
+        "section": "121",
+        "citation": {
+          "start": "61.28",
+          "end": "62.12"
+        }
+      }
+    },
+    {
+      "process_id": "aetius-1-121:process:epsein-2",
+      "process_urn": "urn:aos:recipe-process:aetius-1-121:process:epsein-2",
+      "source_span": "ἕψειν",
+      "surface_form": "ἕψειν",
+      "normalized_label": "ἕψειν",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "exposure",
+          "source_span": "ἐπὶ λεπτῆς ἀνθρακιᾶς",
+          "normalized_value": "λεπτή ἀνθρακιά",
+          "certainty": "certain",
+          "notes": []
+        },
+        {
+          "qualifier_type": "duration",
+          "source_span": "μέχρις ὅτου τὰ φύλλα ξηρανθῇ καὶ θραύηται καὶ ὁ οἶνος ἀναλωθῇ",
+          "normalized_value": null,
+          "certainty": "certain",
+          "notes": [
+            "Endpoint condition for the boiling step."
+          ]
+        }
+      ],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "121",
+        "section": "121",
+        "citation": {
+          "start": "61.28",
+          "end": "62.12"
+        }
+      }
+    },
+    {
+      "process_id": "aetius-1-121:process:diethein-3",
+      "process_urn": "urn:aos:recipe-process:aetius-1-121:process:diethein-3",
+      "source_span": "διηθήσαντα",
+      "surface_form": "διηθήσαντα",
+      "normalized_label": "διηθεῖν",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "121",
+        "section": "121",
+        "citation": {
+          "start": "61.28",
+          "end": "62.12"
+        }
+      }
+    },
+    {
+      "process_id": "aetius-1-121:process:emballein-4",
+      "process_urn": "urn:aos:recipe-process:aetius-1-121:process:emballein-4",
+      "source_span": "ἐμβάλλειν",
+      "surface_form": "ἐμβάλλειν",
+      "normalized_label": "ἐμβάλλειν",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "location",
+          "source_span": "εἰς ὑάλινον ἀγγεῖον",
+          "normalized_value": "ὑάλινον ἀγγεῖον",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "certainty": "certain",
+      "notes": [
+        "Places the strained oil into a glass vessel."
+      ],
+      "host_locator": {
+        "book": "1",
+        "chapter": "121",
+        "section": "121",
+        "citation": {
+          "start": "61.28",
+          "end": "62.12"
+        }
+      }
+    },
+    {
+      "process_id": "aetius-1-121:process:diapsychein-5",
+      "process_urn": "urn:aos:recipe-process:aetius-1-121:process:diapsychein-5",
+      "source_span": "διεψυγμένων",
+      "surface_form": "διεψυγμένων",
+      "normalized_label": "διαψύχειν",
+      "target_type": "ingredient",
+      "target_ids": [
+        "aetius-1-121:ingredient:phylla-chlora-myrsines-1",
+        "aetius-1-121:ingredient:phylla-chlora-myrsines-4"
+      ],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "duration",
+          "source_span": "νύκτα καὶ ἡμέραν 𐆄 α",
+          "normalized_value": "1 νύκτα καὶ ἡμέραν",
+          "certainty": "uncertain",
+          "notes": [
+            "The numeral sign is interpreted as one."
+          ]
+        }
+      ],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "121",
+        "section": "121",
+        "citation": {
+          "start": "61.28",
+          "end": "62.12"
+        }
+      }
+    },
+    {
+      "process_id": "aetius-1-121:process:epemballein-6",
+      "process_urn": "urn:aos:recipe-process:aetius-1-121:process:epemballein-6",
+      "source_span": "ἐπεμβάλλοντα",
+      "surface_form": "ἐπεμβάλλοντα",
+      "normalized_label": "ἐπεμβάλλειν",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [],
+      "certainty": "certain",
+      "notes": [
+        "Adds the cooled myrtle leaves to the oil in the vessel."
+      ],
+      "host_locator": {
+        "book": "1",
+        "chapter": "121",
+        "section": "121",
+        "citation": {
+          "start": "61.28",
+          "end": "62.12"
+        }
+      }
+    },
+    {
+      "process_id": "aetius-1-121:process:apotithesthai-7",
+      "process_urn": "urn:aos:recipe-process:aetius-1-121:process:apotithesthai-7",
+      "source_span": "ἀποτίθεσθαι",
+      "surface_form": "ἀποτίθεσθαι",
+      "normalized_label": "ἀποτίθεσθαι",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "121",
+        "section": "121",
+        "citation": {
+          "start": "61.28",
+          "end": "62.12"
+        }
+      }
+    }
+  ],
+  "materials": [
+    {
+      "material_id": "aetius-1-121:material:anthrakia-1",
+      "material_urn": "urn:aos:recipe-material:aetius-1-121:material:anthrakia-1",
+      "source_span": "λεπτῆς ἀνθρακιᾶς",
+      "surface_form": "λεπτῆς ἀνθρακιᾶς",
+      "normalized_label": "ἀνθρακιά",
+      "role": "fuel",
+      "certainty": "certain",
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "other",
+          "source_span": "λεπτῆς",
+          "normalized_value": "λεπτή",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "121",
+        "section": "121",
+        "citation": {
+          "start": "61.28",
+          "end": "62.12"
+        }
+      }
+    },
+    {
+      "material_id": "aetius-1-121:material:yeloyn-aggeion-2",
+      "material_urn": "urn:aos:recipe-material:aetius-1-121:material:yeloyn-aggeion-2",
+      "source_span": "ὑελοῦν ἀγγεῖον",
+      "surface_form": "ὑελοῦν ἀγγεῖον",
+      "normalized_label": "ὑελοῦν ἀγγεῖον",
+      "role": "apparatus",
+      "certainty": "certain",
+      "quantities": [],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "121",
+        "section": "121",
+        "citation": {
+          "start": "61.28",
+          "end": "62.12"
+        }
+      }
+    }
+  ],
+  "people": [
+    {
+      "person_id": "aetius-1-121:person:gynaikes-1",
+      "person_urn": "urn:aos:recipe-person:aetius-1-121:person:gynaikes-1",
+      "source_span": "γυναικῶν",
+      "surface_form": "γυναικῶν",
+      "normalized_label": "γυναῖκες",
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "121",
+        "section": "121",
+        "citation": {
+          "start": "61.28",
+          "end": "62.12"
+        }
+      }
+    }
+  ],
+  "places": [],
+  "uses": [
+    {
+      "use_id": "aetius-1-121:use:en-kerotais-kai-emplastrois-pharmakois-1",
+      "use_urn": "urn:aos:recipe-use:aetius-1-121:use:en-kerotais-kai-emplastrois-pharmakois-1",
+      "category": "medical",
+      "source_span": "ἐν κηρωταῖς καὶ ἐμπλάστροις φαρμάκοις",
+      "snippet": "ἐν κηρωταῖς καὶ ἐμπλάστροις φαρμάκοις",
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "121",
+        "section": "121",
+        "citation": {
+          "start": "61.28",
+          "end": "62.12"
+        }
+      }
+    },
+    {
+      "use_id": "aetius-1-121:use:eis-ta-epipheromena-reymata-2",
+      "use_urn": "urn:aos:recipe-use:aetius-1-121:use:eis-ta-epipheromena-reymata-2",
+      "category": "medical",
+      "source_span": "εἰς τὰ ἐπιφερόμενα ῥεύματα",
+      "snippet": "χρήσιμον εἰς τὰ ἐπιφερόμενα ῥεύματα",
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "121",
+        "section": "121",
+        "citation": {
+          "start": "61.28",
+          "end": "62.12"
+        }
+      }
+    },
+    {
+      "use_id": "aetius-1-121:use:ygrainomenois-elkesin-oylen-ergasasthai-3",
+      "use_urn": "urn:aos:recipe-use:aetius-1-121:use:ygrainomenois-elkesin-oylen-ergasasthai-3",
+      "category": "medical",
+      "source_span": "ὑγραινομένοις ἕλκεσιν οὐλὴν ἐργάσασθαι",
+      "snippet": "ὑγραινομένοις ἕλκεσιν οὐλὴν ἐργάσασθαι",
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "121",
+        "section": "121",
+        "citation": {
+          "start": "61.28",
+          "end": "62.12"
+        }
+      }
+    },
+    {
+      "use_id": "aetius-1-121:use:kephalais-gynaikon-oste-synechein-ten-tricha-4",
+      "use_urn": "urn:aos:recipe-use:aetius-1-121:use:kephalais-gynaikon-oste-synechein-ten-tricha-4",
+      "category": "cosmetic",
+      "source_span": "κεφαλαῖς γυναικῶν ὥστε συνέχειν τὴν τρίχα",
+      "snippet": "κεφαλαῖς γυναικῶν ὥστε συνέχειν τὴν τρίχα ἐπιτήδειον καὶ εὐῶδές ἐστιν",
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "121",
+        "section": "121",
+        "citation": {
+          "start": "61.28",
+          "end": "62.12"
+        }
+      }
+    }
+  ],
+  "preparation_names": [],
+  "other_preparations_mentioned": [
+    {
+      "reference_id": "aetius-1-121:reference:schininon-elaion-1",
+      "reference_urn": "urn:aos:recipe-reference:aetius-1-121:reference:schininon-elaion-1",
+      "source_span": "τοῦ σχινίνου",
+      "surface_form": "τοῦ σχινίνου",
+      "normalized_label": "σχίνινον ἔλαιον",
+      "certainty": "uncertain",
+      "notes": [
+        "The comparison is adjectival and elliptic; ἔλαιον is understood from context rather than repeated."
+      ],
+      "host_locator": {
+        "book": "1",
+        "chapter": "121",
+        "section": "121",
+        "citation": {
+          "start": "61.28",
+          "end": "62.12"
+        }
+      }
+    },
+    {
+      "reference_id": "aetius-1-121:reference:melinon-elaion-2",
+      "reference_urn": "urn:aos:recipe-reference:aetius-1-121:reference:melinon-elaion-2",
+      "source_span": "τοῦ μηλίνου",
+      "surface_form": "τοῦ μηλίνου",
+      "normalized_label": "μηλίνον ἔλαιον",
+      "certainty": "uncertain",
+      "notes": [
+        "The comparison is adjectival and elliptic; ἔλαιον is understood from context rather than repeated."
+      ],
+      "host_locator": {
+        "book": "1",
+        "chapter": "121",
+        "section": "121",
+        "citation": {
+          "start": "61.28",
+          "end": "62.12"
+        }
+      }
+    }
+  ],
+  "works_mentioned": [],
+  "entities": [
+    {
+      "entity_urn": "urn:aos:recipe-preparation:aetius-1-121:preparation:myrsinaton",
+      "entity_type": "label",
+      "surface_form": "Μυρσινάτον",
+      "normalized_label": "Μυρσινάτον"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:aetius-1-121:ingredient:phylla-chlora-myrsines-1",
+      "entity_type": "ingredient",
+      "surface_form": "τῶν φύλλων τῆς μυρσίνης χλωρῶν ἐμβαλλομένων",
+      "normalized_label": "φύλλα χλωρὰ μυρσίνης"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:aetius-1-121:ingredient:elaion-omphakinon-2",
+      "entity_type": "ingredient",
+      "surface_form": "ἐλαίῳ ὀμφακίνῳ",
+      "normalized_label": "ἔλαιον ὀμφάκινον"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:aetius-1-121:ingredient:oinos-eyodes-styphon-italikos-3",
+      "entity_type": "ingredient",
+      "surface_form": "ἴνου εὐώδους στύφοντος ἰταλικοῦ",
+      "normalized_label": "οἶνος εὐώδης στύφων Ἰταλικός"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:aetius-1-121:ingredient:phylla-chlora-myrsines-4",
+      "entity_type": "ingredient",
+      "surface_form": "φύλλων χλωρῶν τῆς μυρσίνης διεψυγμένων",
+      "normalized_label": "φύλλα χλωρὰ μυρσίνης"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:aetius-1-121:process:emballein-1",
+      "entity_type": "process",
+      "surface_form": "ἐμβαλλομένων",
+      "normalized_label": "ἐμβάλλειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:aetius-1-121:process:epsein-2",
+      "entity_type": "process",
+      "surface_form": "ἕψειν",
+      "normalized_label": "ἕψειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:aetius-1-121:process:diethein-3",
+      "entity_type": "process",
+      "surface_form": "διηθήσαντα",
+      "normalized_label": "διηθεῖν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:aetius-1-121:process:emballein-4",
+      "entity_type": "process",
+      "surface_form": "ἐμβάλλειν",
+      "normalized_label": "ἐμβάλλειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:aetius-1-121:process:diapsychein-5",
+      "entity_type": "process",
+      "surface_form": "διεψυγμένων",
+      "normalized_label": "διαψύχειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:aetius-1-121:process:epemballein-6",
+      "entity_type": "process",
+      "surface_form": "ἐπεμβάλλοντα",
+      "normalized_label": "ἐπεμβάλλειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:aetius-1-121:process:apotithesthai-7",
+      "entity_type": "process",
+      "surface_form": "ἀποτίθεσθαι",
+      "normalized_label": "ἀποτίθεσθαι"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-material:aetius-1-121:material:anthrakia-1",
+      "entity_type": "material",
+      "surface_form": "λεπτῆς ἀνθρακιᾶς",
+      "normalized_label": "ἀνθρακιά"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-material:aetius-1-121:material:yeloyn-aggeion-2",
+      "entity_type": "material",
+      "surface_form": "ὑελοῦν ἀγγεῖον",
+      "normalized_label": "ὑελοῦν ἀγγεῖον"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-person:aetius-1-121:person:gynaikes-1",
+      "entity_type": "person",
+      "surface_form": "γυναικῶν",
+      "normalized_label": "γυναῖκες"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-reference:aetius-1-121:reference:schininon-elaion-1",
+      "entity_type": "preparation_reference",
+      "surface_form": "τοῦ σχινίνου",
+      "normalized_label": "σχίνινον ἔλαιον"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-reference:aetius-1-121:reference:melinon-elaion-2",
+      "entity_type": "preparation_reference",
+      "surface_form": "τοῦ μηλίνου",
+      "normalized_label": "μηλίνον ἔλαιον"
+    }
+  ],
+  "canonical_file": "data/recipes/aetius-1-121.json",
+  "source_entry": {
+    "source_id": "aetius-1-121",
+    "derived_recipe_id": "aetius-1-121",
+    "entry_kind": null,
+    "source_kind": null,
+    "source_lines": null,
+    "section_markers": []
+  },
+  "entity_groups": {
+    "labels": [
+      {
+        "entity_urn": "urn:aos:recipe-preparation:aetius-1-121:preparation:myrsinaton",
+        "surface_form": "Μυρσινάτον",
+        "normalized_label": "Μυρσινάτον"
+      }
+    ],
+    "ingredients": [
+      {
+        "entity_urn": "urn:aos:recipe-ingredient:aetius-1-121:ingredient:phylla-chlora-myrsines-1",
+        "surface_form": "τῶν φύλλων τῆς μυρσίνης χλωρῶν ἐμβαλλομένων",
+        "normalized_label": "φύλλα χλωρὰ μυρσίνης",
+        "quantity_display": ""
+      },
+      {
+        "entity_urn": "urn:aos:recipe-ingredient:aetius-1-121:ingredient:elaion-omphakinon-2",
+        "surface_form": "ἐλαίῳ ὀμφακίνῳ",
+        "normalized_label": "ἔλαιον ὀμφάκινον",
+        "quantity_display": "ξέστην α ἰταλικὸν 𐆄 β"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-ingredient:aetius-1-121:ingredient:oinos-eyodes-styphon-italikos-3",
+        "surface_form": "ἴνου εὐώδους στύφοντος ἰταλικοῦ",
+        "normalized_label": "οἶνος εὐώδης στύφων Ἰταλικός",
+        "quantity_display": "τὸ τέταρτον"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-ingredient:aetius-1-121:ingredient:phylla-chlora-myrsines-4",
+        "surface_form": "φύλλων χλωρῶν τῆς μυρσίνης διεψυγμένων",
+        "normalized_label": "φύλλα χλωρὰ μυρσίνης",
+        "quantity_display": ""
+      }
+    ],
+    "processes": [
+      {
+        "entity_urn": "urn:aos:recipe-process:aetius-1-121:process:emballein-1",
+        "surface_form": "ἐμβαλλομένων",
+        "normalized_label": "ἐμβάλλειν"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-process:aetius-1-121:process:epsein-2",
+        "surface_form": "ἕψειν",
+        "normalized_label": "ἕψειν"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-process:aetius-1-121:process:diethein-3",
+        "surface_form": "διηθήσαντα",
+        "normalized_label": "διηθεῖν"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-process:aetius-1-121:process:emballein-4",
+        "surface_form": "ἐμβάλλειν",
+        "normalized_label": "ἐμβάλλειν"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-process:aetius-1-121:process:diapsychein-5",
+        "surface_form": "διεψυγμένων",
+        "normalized_label": "διαψύχειν"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-process:aetius-1-121:process:epemballein-6",
+        "surface_form": "ἐπεμβάλλοντα",
+        "normalized_label": "ἐπεμβάλλειν"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-process:aetius-1-121:process:apotithesthai-7",
+        "surface_form": "ἀποτίθεσθαι",
+        "normalized_label": "ἀποτίθεσθαι"
+      }
+    ],
+    "tools": [
+      {
+        "entity_urn": "urn:aos:recipe-material:aetius-1-121:material:anthrakia-1",
+        "surface_form": "λεπτῆς ἀνθρακιᾶς",
+        "normalized_label": "ἀνθρακιά"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-material:aetius-1-121:material:yeloyn-aggeion-2",
+        "surface_form": "ὑελοῦν ἀγγεῖον",
+        "normalized_label": "ὑελοῦν ἀγγεῖον"
+      }
+    ],
+    "other_preparations_mentioned": [
+      {
+        "entity_urn": "urn:aos:recipe-reference:aetius-1-121:reference:schininon-elaion-1",
+        "surface_form": "τοῦ σχινίνου",
+        "normalized_label": "σχίνινον ἔλαιον"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-reference:aetius-1-121:reference:melinon-elaion-2",
+        "surface_form": "τοῦ μηλίνου",
+        "normalized_label": "μηλίνον ἔλαιον"
+      }
+    ],
+    "people": [
+      {
+        "entity_urn": "urn:aos:recipe-person:aetius-1-121:person:gynaikes-1",
+        "surface_form": "γυναικῶν",
+        "normalized_label": "γυναῖκες"
+      }
+    ],
+    "places": [],
+    "works_mentioned": [],
+    "preparation_names": []
+  }
+}

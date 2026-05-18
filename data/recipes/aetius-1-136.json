@@ -1,0 +1,323 @@
+{
+  "dataset_key": "aetius_book1_oils",
+  "source_json": "experiments/aetius-book1-ch99-136-oils/data/aetius_book1_ch99_136_oils.json",
+  "host_raw_file": "tei/raw/tlg0718001.xml",
+  "work_slug": "aetius.b1.oils",
+  "recipe_id": "aetius-1-136",
+  "recipe_urn": "urn:aos:recipe:aetius-1-136",
+  "record_urn": "urn:aos:recipe-record:aetius-1-136",
+  "author": "Aëtius of Amida",
+  "work": "Libri medicinales",
+  "book": "1",
+  "chapter": "136",
+  "section": "136",
+  "chapter_name": "Περὶ τῶν ἄλλων συγχρισμάτων",
+  "lemma": "Περὶ τῶν ἄλλων συγχρισμάτων",
+  "text": "Περὶ τῶν ἄλλων συγχρισμάτων. Ἐκ τούτων δὲ ἔνεστί σοι καὶ περὶ τῶν ἄλλων ἐλαίων γινώσκειν ἤδη, ὁπόσα τοῖς μύροις ὁμωνύμως λέγεται. κατὰ γὰρ τὴν ἑκάστου φύσιν τῶν ἐμβληθέντων ἀλλοιωθήσεται τὸ ἔλαιον, ὧν ἑκάστου εἴδους τὴν δύναμιν ἐν τῷδε τῷ λόγῳ μαθήσῃ. περὶ δὲ τῶν λοιπῶν ἀνετικῶν τε καὶ χαλαστικῶν συγχρισμάτων ἐν τῷ περὶ συνθέσεως φαρμάκων μετὰ τὰ ἀρθριτικὰ βοηθήματα λεχθήσεται, γλευκίνου ἐλαίου λέγω καὶ τῶν παραπλησίων.",
+  "original_text": "Περὶ τῶν ἄλλων συγχρισμάτων. Ἐκ τούτων δὲ ἔνεστί σοι καὶ περὶ τῶν ἄλλων ἐλαίων γινώσκειν ἤδη, ὁπόσα τοῖς μύροις ὁμωνύμως λέγεται. κατὰ γὰρ τὴν ἑκάστου φύσιν τῶν ἐμβληθέντων ἀλλοιωθήσεται τὸ ἔλαιον, ὧν ἑκάστου εἴδους τὴν δύναμιν ἐν τῷδε τῷ λόγῳ μαθήσῃ. περὶ δὲ τῶν λοιπῶν ἀνετικῶν τε καὶ χαλαστικῶν συγχρισμάτων ἐν τῷ περὶ συνθέσεως φαρμάκων μετὰ τὰ ἀρθριτικὰ βοηθήματα λεχθήσεται, γλευκίνου ἐλαίου λέγω καὶ τῶν παραπλησίων.",
+  "text_source": "olivieri",
+  "emendations": [],
+  "emendation_count": 0,
+  "source_kind": null,
+  "entry_kind": "recipe",
+  "citation": {
+    "pages": [
+      "69"
+    ],
+    "start": {
+      "page": "69",
+      "line": "13",
+      "xml_id": "oliv-69-13"
+    },
+    "end": {
+      "page": "69",
+      "line": "19",
+      "xml_id": "oliv-69-19"
+    },
+    "citation": {
+      "start": "69.13",
+      "end": "69.19"
+    },
+    "page_spans": [
+      {
+        "page": "69",
+        "start_line": "13",
+        "end_line": "19"
+      }
+    ],
+    "lines": [
+      {
+        "page": "69",
+        "line": "13",
+        "xml_id": "oliv-69-13",
+        "break_no": false,
+        "text": "Περὶ τῶν ἄλλων συγχρισμάτων. Ἐκ τούτων δὲ ἔνεστί σοι καὶ περὶ",
+        "citation": "69.13"
+      },
+      {
+        "page": "69",
+        "line": "14",
+        "xml_id": "oliv-69-14",
+        "break_no": false,
+        "text": "τῶν ἄλλων ἐλαίων γινώσκειν ἤδη, ὁπόσα τοῖς μύροις ὁμωνύμως λέ-",
+        "citation": "69.14"
+      },
+      {
+        "page": "69",
+        "line": "15",
+        "xml_id": "oliv-69-15",
+        "break_no": true,
+        "text": "γεται. κατὰ γὰρ τὴν ἑκάστου φύσιν τῶν ἐμβληθέντων ἀλλοιωθήσεται",
+        "citation": "69.15"
+      },
+      {
+        "page": "69",
+        "line": "16",
+        "xml_id": "oliv-69-16",
+        "break_no": false,
+        "text": "τὸ ἔλαιον, ὧν ἑκάστου εἴδους τὴν δύναμιν ἐν τῷδε τῷ λόγῳ μαθήσῃ.",
+        "citation": "69.16"
+      },
+      {
+        "page": "69",
+        "line": "17",
+        "xml_id": "oliv-69-17",
+        "break_no": false,
+        "text": "περὶ δὲ τῶν λοιπῶν ἀνετικῶν τε καὶ χαλαστικῶν συγχρισμάτων ἐν τῷ",
+        "citation": "69.17"
+      },
+      {
+        "page": "69",
+        "line": "18",
+        "xml_id": "oliv-69-18",
+        "break_no": false,
+        "text": "περὶ συνθέσεως φαρμάκων μετὰ τὰ ἀρθριτικὰ βοηθήματα λεχθήσεται,",
+        "citation": "69.18"
+      },
+      {
+        "page": "69",
+        "line": "19",
+        "xml_id": "oliv-69-19",
+        "break_no": false,
+        "text": "γλευκίνου ἐλαίου λέγω καὶ τῶν παραπλησίων.",
+        "citation": "69.19"
+      }
+    ],
+    "edition_key": "olivieri"
+  },
+  "notes": [
+    "The passage explicitly defers fuller treatment of these ointments to another work/section and does not provide a stepwise recipe."
+  ],
+  "alignment_status": "pending",
+  "alignment_confidence": "pending",
+  "alignment_evidence": null,
+  "review_status": "reviewed_structured_authority",
+  "review_provenance": {
+    "authority_source": "reports/entity_review/structured/aetius_book1.json",
+    "authority_recipe_id": "aetius-1-136",
+    "authority_lemma": "ἄλλα συγχρίσματα",
+    "model": "gpt-5.4",
+    "reasoning_effort": "high",
+    "dataset_key": "aetius_book1_oils",
+    "entity_model_version": "1.2",
+    "authority_version": "2026-04-13-qty-alt-v1",
+    "prompt_version": "qty-alt-pass-v1",
+    "build_version": "2026-05-18T15:51:35Z"
+  },
+  "schema_version": "1.2",
+  "build_metadata": {
+    "builder": "scripts/recipes/build_recipe_entities.py",
+    "built_at": "2026-05-18T15:51:35Z",
+    "source_structured_authority": "reports/entity_review/structured/aetius_book1.json",
+    "authority_model": "gpt-5.4",
+    "authority_reasoning_effort": "high",
+    "dataset_key": "aetius_book1_oils",
+    "entity_model_version": "1.2",
+    "authority_version": "2026-04-13-qty-alt-v1",
+    "prompt_version": "qty-alt-pass-v1",
+    "build_version": "2026-05-18T15:51:35Z"
+  },
+  "recipe_text_excerpt": "Περὶ τῶν ἄλλων συγχρισμάτων. Ἐκ τούτων δὲ ἔνεστί σοι καὶ περὶ τῶν ἄλλων ἐλαίων γινώσκειν ἤδη, ὁπόσα τοῖς μύροις ὁμωνύμως",
+  "preparation": {
+    "preparation_id": "aetius-1-136:preparation:alla-sygchrismata",
+    "preparation_urn": "urn:aos:recipe-preparation:aetius-1-136:preparation:alla-sygchrismata",
+    "source_span": "Περὶ τῶν ἄλλων συγχρισμάτων",
+    "surface_form": "Περὶ τῶν ἄλλων συγχρισμάτων",
+    "normalized_label": "ἄλλα συγχρίσματα",
+    "qualifiers": [],
+    "regimen_notes": [],
+    "certainty": "uncertain",
+    "notes": [
+      "The passage is largely meta-discursive and does not restate a single clean preparation name in the running text.",
+      "Normalized label is reduced from the lemma heading to keep a lexical Greek preparation label."
+    ],
+    "host_locator": {
+      "book": "1",
+      "chapter": "136",
+      "section": "136",
+      "citation": {
+        "start": "69.13",
+        "end": "69.19"
+      }
+    }
+  },
+  "ingredients": [],
+  "processes": [],
+  "materials": [],
+  "people": [],
+  "places": [],
+  "uses": [
+    {
+      "use_id": "aetius-1-136:use:anetikon-te-kai-chalastikon-sygchrismaton-1",
+      "use_urn": "urn:aos:recipe-use:aetius-1-136:use:anetikon-te-kai-chalastikon-sygchrismaton-1",
+      "category": "medical",
+      "source_span": "ἀνετικῶν τε καὶ χαλαστικῶν συγχρισμάτων",
+      "snippet": "ἀνετικῶν τε καὶ χαλαστικῶν συγχρισμάτων",
+      "certainty": "certain",
+      "notes": [
+        "The phrase describes the therapeutic character of the λοιπὰ συγχρίσματα mentioned for later discussion."
+      ],
+      "host_locator": {
+        "book": "1",
+        "chapter": "136",
+        "section": "136",
+        "citation": {
+          "start": "69.13",
+          "end": "69.19"
+        }
+      }
+    }
+  ],
+  "preparation_names": [],
+  "other_preparations_mentioned": [
+    {
+      "reference_id": "aetius-1-136:reference:anetika-kai-chalastika-sygchrismata-1",
+      "reference_urn": "urn:aos:recipe-reference:aetius-1-136:reference:anetika-kai-chalastika-sygchrismata-1",
+      "source_span": "τῶν λοιπῶν ἀνετικῶν τε καὶ χαλαστικῶν συγχρισμάτων",
+      "surface_form": "τῶν λοιπῶν ἀνετικῶν τε καὶ χαλαστικῶν συγχρισμάτων",
+      "normalized_label": "ἀνετικὰ καὶ χαλαστικὰ συγχρίσματα",
+      "certainty": "certain",
+      "notes": [
+        "Explicitly mentioned as a distinct class of preparations to be discussed elsewhere."
+      ],
+      "host_locator": {
+        "book": "1",
+        "chapter": "136",
+        "section": "136",
+        "citation": {
+          "start": "69.13",
+          "end": "69.19"
+        }
+      }
+    },
+    {
+      "reference_id": "aetius-1-136:reference:gleykinon-elaion-2",
+      "reference_urn": "urn:aos:recipe-reference:aetius-1-136:reference:gleykinon-elaion-2",
+      "source_span": "γλευκίνου ἐλαίου",
+      "surface_form": "γλευκίνου ἐλαίου",
+      "normalized_label": "γλευκῖνον ἔλαιον",
+      "certainty": "certain",
+      "notes": [
+        "Explicitly cited as another preparation mentioned in the passage."
+      ],
+      "host_locator": {
+        "book": "1",
+        "chapter": "136",
+        "section": "136",
+        "citation": {
+          "start": "69.13",
+          "end": "69.19"
+        }
+      }
+    }
+  ],
+  "works_mentioned": [
+    {
+      "work_id": "aetius-1-136:work:peri-syntheseos-pharmakon-1",
+      "work_urn": "urn:aos:recipe-work:aetius-1-136:work:peri-syntheseos-pharmakon-1",
+      "source_span": "ἐν τῷ περὶ συνθέσεως φαρμάκων",
+      "surface_form": "ἐν τῷ περὶ συνθέσεως φαρμάκων",
+      "normalized_label": "Περὶ συνθέσεως φαρμάκων",
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "136",
+        "section": "136",
+        "citation": {
+          "start": "69.13",
+          "end": "69.19"
+        }
+      }
+    }
+  ],
+  "entities": [
+    {
+      "entity_urn": "urn:aos:recipe-preparation:aetius-1-136:preparation:alla-sygchrismata",
+      "entity_type": "label",
+      "surface_form": "Περὶ τῶν ἄλλων συγχρισμάτων",
+      "normalized_label": "ἄλλα συγχρίσματα"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-reference:aetius-1-136:reference:anetika-kai-chalastika-sygchrismata-1",
+      "entity_type": "preparation_reference",
+      "surface_form": "τῶν λοιπῶν ἀνετικῶν τε καὶ χαλαστικῶν συγχρισμάτων",
+      "normalized_label": "ἀνετικὰ καὶ χαλαστικὰ συγχρίσματα"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-reference:aetius-1-136:reference:gleykinon-elaion-2",
+      "entity_type": "preparation_reference",
+      "surface_form": "γλευκίνου ἐλαίου",
+      "normalized_label": "γλευκῖνον ἔλαιον"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-work:aetius-1-136:work:peri-syntheseos-pharmakon-1",
+      "entity_type": "work",
+      "surface_form": "ἐν τῷ περὶ συνθέσεως φαρμάκων",
+      "normalized_label": "Περὶ συνθέσεως φαρμάκων"
+    }
+  ],
+  "canonical_file": "data/recipes/aetius-1-136.json",
+  "source_entry": {
+    "source_id": "aetius-1-136",
+    "derived_recipe_id": "aetius-1-136",
+    "entry_kind": null,
+    "source_kind": null,
+    "source_lines": null,
+    "section_markers": []
+  },
+  "entity_groups": {
+    "labels": [
+      {
+        "entity_urn": "urn:aos:recipe-preparation:aetius-1-136:preparation:alla-sygchrismata",
+        "surface_form": "Περὶ τῶν ἄλλων συγχρισμάτων",
+        "normalized_label": "ἄλλα συγχρίσματα"
+      }
+    ],
+    "ingredients": [],
+    "processes": [],
+    "tools": [],
+    "other_preparations_mentioned": [
+      {
+        "entity_urn": "urn:aos:recipe-reference:aetius-1-136:reference:anetika-kai-chalastika-sygchrismata-1",
+        "surface_form": "τῶν λοιπῶν ἀνετικῶν τε καὶ χαλαστικῶν συγχρισμάτων",
+        "normalized_label": "ἀνετικὰ καὶ χαλαστικὰ συγχρίσματα"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-reference:aetius-1-136:reference:gleykinon-elaion-2",
+        "surface_form": "γλευκίνου ἐλαίου",
+        "normalized_label": "γλευκῖνον ἔλαιον"
+      }
+    ],
+    "people": [],
+    "places": [],
+    "works_mentioned": [
+      {
+        "entity_urn": "urn:aos:recipe-work:aetius-1-136:work:peri-syntheseos-pharmakon-1",
+        "surface_form": "ἐν τῷ περὶ συνθέσεως φαρμάκων",
+        "normalized_label": "Περὶ συνθέσεως φαρμάκων"
+      }
+    ],
+    "preparation_names": []
+  }
+}

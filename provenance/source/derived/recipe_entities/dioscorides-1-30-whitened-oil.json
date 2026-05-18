@@ -1,0 +1,1156 @@
+{
+  "dataset_key": "dioscorides_book1_perfumes_resins",
+  "source_json": "experiments/dioscorides-book1-perfumes-resins/data/dioscorides_book1_perfumes_resins.json",
+  "host_raw_file": "tei/raw/tlg0656.tlg001.1st1K-grc1.xml",
+  "work_slug": "diosc.b1.recipes",
+  "recipe_id": "dioscorides-1-30-whitened-oil",
+  "recipe_urn": "urn:aos:recipe:dioscorides-1-30-whitened-oil",
+  "record_urn": "urn:aos:recipe-record:dioscorides-1-30-whitened-oil",
+  "author": "Dioscorides",
+  "work": "De materia medica",
+  "book": "1",
+  "chapter": "30",
+  "section": "3-4",
+  "chapter_name": "ἔλαιον πρὸς τὴν ἐν ὑγιείᾳ χρῆσιν",
+  "lemma": "λευκανθὲν ἔλαιον",
+  "text": "λευκαίνεται δὲ ἔλαιον οὕτως· λαβὼν τὸ τῇ χρόᾳ μὲν λευκὸν τὴν ἡλικίαν δὲ μὴ πλέον ἐνιαυσίου ἔγχεε εἰς κεραμεοῦν ἀγγεῖον πλατύστομον καινόν — ἔστωσαν δὲ μέτρῳ κοτύλαι ἑκατόν —, εἶτα θεὶς ὑφ᾿ ἥλιον ἀνάχει κόγχῳ καθ᾿ ἑκάστην ἡμέραν κατὰ τὸ μέσον, ὑψόθεν τῇ καταφορᾷ χρώμενος, ἵνα τῇ συνεχεῖ κυκήσει καὶ πληγῇ μεταβάλληται καὶ ἀφρίσῃ. τῇ δὲ ὀγδόῃ 4 ἡμέρᾳ βρέξας τήλεως καθαρᾶς δραχμὰς πεντήκοντα ἐν ὕδατι θερμῷ ἔμβαλε μαλακὴν γενομένην εἰς τὸ προειρημένον ἔλαιον χωρὶς τοῦ στραγγίσαι τὸ ὕδωρ· προσαπόδος δὲ καὶ δαλὸν πιτυίνης ὡς ὅτι λιπαρωτάτης καὶ εἰς λεπτὰ κατεσχισμένης τὰς ἴσας ὁλκὰς καὶ οὕτως ἔασον ἄλλας ὀκτὼ ἡμέρας διελθεῖν. μετὰ ταύτας δὲ ἀνάχει τῷ κόγχῳ τὸ ἔλαιον, τό τε λοιπόν, εἰ μὲν εἵη τοῦ τέλους τετευχός, εἰς καινὸν ἀγγεῖον προκεκλυσμένον οἴνῳ παλαιῷ κατεράσας ἀποτίθεσο, προυπεστρωμένων μελιλώτου στεφανίσκων αὔων ὁλκῶν ἕνδεκα καὶ ἴρεως τῆς ἴσης. εἰ δὲ μή, πάλιν ἐν ἡλίῳ θετέον αὐτὸ καὶ ἐργαστέον, ἄχρις οὗ λευκὸν γένηται.",
+  "original_text": null,
+  "text_source": null,
+  "emendations": [],
+  "emendation_count": 0,
+  "source_kind": "main_text",
+  "entry_kind": "recipe",
+  "citation": {
+    "pages": [
+      "34",
+      "35"
+    ],
+    "start": {
+      "page": "34",
+      "line": "20"
+    },
+    "end": {
+      "page": "35",
+      "line": "15"
+    },
+    "citation": {
+      "start": "34.20",
+      "end": "35.15"
+    },
+    "page_spans": [
+      {
+        "page": "34",
+        "start_line": "20",
+        "end_line": "20"
+      },
+      {
+        "page": "35",
+        "start_line": "1",
+        "end_line": "15"
+      }
+    ],
+    "lines": [
+      {
+        "page": "34",
+        "line": "20",
+        "break_no": false,
+        "text": "λευκαίνεται δὲ ἔλαιον οὕτως· λαβὼν τὸ τῇ χρόᾳ μὲν λευκὸν",
+        "citation": "34.20"
+      },
+      {
+        "page": "35",
+        "line": "1",
+        "break_no": false,
+        "text": "τὴν ἡλικίαν δὲ μὴ πλέον ἐνιαυσίου ἔγχεε εἰς κεραμεοῦν ἀγγεῖον πλατύστομον καινόν — ἔστωσαν δὲ μέτρῳ κοτύλαι ἑκατόν —, εἶτα θεὶς ὑφ᾿ ἥλιον ἀνάχει κόγχῳ καθ᾿ ἑκάστην ἡμέραν κατὰ τὸ μέσον, ὑψόθεν τῇ καταφορᾷ χρώμενος, ἵνα τῇ συνεχεῖ",
+        "citation": "35.1"
+      },
+      {
+        "page": "35",
+        "line": "5",
+        "break_no": false,
+        "text": "κυκήσει καὶ πληγῇ μεταβάλληται καὶ ἀφρίσῃ. τῇ δὲ ὀγδόῃ 4 ἡμέρᾳ βρέξας τήλεως καθαρᾶς δραχμὰς πεντήκοντα ἐν ὕδατι θερμῷ ἔμβαλε μαλακὴν γενομένην εἰς τὸ προειρημένον ἔλαιον χωρὶς τοῦ στραγγίσαι τὸ ὕδωρ· προσαπόδος δὲ καὶ δαλὸν πιτυίνης ὡς ὅτι λιπαρωτάτης καὶ εἰς λεπτὰ κατεσχισμένης τὰς",
+        "citation": "35.5"
+      },
+      {
+        "page": "35",
+        "line": "10",
+        "break_no": false,
+        "text": "ἴσας ὁλκὰς καὶ οὕτως ἔασον ἄλλας ὀκτὼ ἡμέρας διελθεῖν. μετὰ ταύτας δὲ ἀνάχει τῷ κόγχῳ τὸ ἔλαιον, τό τε λοιπόν, εἰ μὲν εἵη τοῦ τέλους τετευχός, εἰς καινὸν ἀγγεῖον προκεκλυσμένον οἴνῳ παλαιῷ κατεράσας ἀποτίθεσο, προυπεστρωμένων μελιλώτου στεφανίσκων αὔων ὁλκῶν ἕνδεκα καὶ ἴρεως τῆς ἴσης. εἰ δὲ μή,",
+        "citation": "35.10"
+      },
+      {
+        "page": "35",
+        "line": "15",
+        "break_no": false,
+        "text": "πάλιν ἐν ἡλίῳ θετέον αὐτὸ καὶ ἐργαστέον, ἄχρις οὗ λευκὸν γένηται.",
+        "citation": "35.15"
+      }
+    ],
+    "edition_key": "wellmann"
+  },
+  "notes": [
+    "Raw lines 1590-1633 are book 1 chapter 25 in this witness, although the prompt referred to chapter 35.",
+    "The perfume proemium is taken from the later transition at chapter 42 section 2 (raw lines 2306-2342), not from the chapter 25 κῦφι entry.",
+    "The ἰασμέλαιον entry is preserved only in the apparatus as an addition from another recension."
+  ],
+  "alignment_status": "pending",
+  "alignment_confidence": "pending",
+  "alignment_evidence": null,
+  "review_status": "reviewed_structured_authority",
+  "review_provenance": {
+    "authority_source": "reports/entity_review/structured/dioscorides.json",
+    "authority_recipe_id": "dioscorides-1-30-whitened-oil",
+    "authority_lemma": "λευκανθὲν ἔλαιον",
+    "model": "gpt-5.4",
+    "reasoning_effort": "high",
+    "dataset_key": "dioscorides_book1_perfumes_resins",
+    "entity_model_version": "1.2",
+    "authority_version": "2026-04-13-qty-alt-v1",
+    "prompt_version": "qty-alt-pass-v1",
+    "build_version": "2026-05-18T15:51:35Z"
+  },
+  "schema_version": "1.2",
+  "build_metadata": {
+    "builder": "scripts/recipes/build_recipe_entities.py",
+    "built_at": "2026-05-18T15:51:35Z",
+    "source_structured_authority": "reports/entity_review/structured/dioscorides.json",
+    "authority_model": "gpt-5.4",
+    "authority_reasoning_effort": "high",
+    "dataset_key": "dioscorides_book1_perfumes_resins",
+    "entity_model_version": "1.2",
+    "authority_version": "2026-04-13-qty-alt-v1",
+    "prompt_version": "qty-alt-pass-v1",
+    "build_version": "2026-05-18T15:51:35Z"
+  },
+  "recipe_text_excerpt": "λευκαίνεται δὲ ἔλαιον οὕτως· λαβὼν τὸ τῇ χρόᾳ μὲν λευκὸν τὴν ἡλικίαν δὲ μὴ πλέον ἐνιαυσίου ἔγχεε εἰς κεραμεοῦν ἀγγεῖον",
+  "preparation": {
+    "preparation_id": "dioscorides-1-30-whitened-oil:preparation:leykanthen-elaion",
+    "preparation_urn": "urn:aos:recipe-preparation:dioscorides-1-30-whitened-oil:preparation:leykanthen-elaion",
+    "source_span": "λευκανθὲν ἔλαιον",
+    "surface_form": "λευκανθὲν ἔλαιον",
+    "normalized_label": "λευκανθὲν ἔλαιον",
+    "qualifiers": [],
+    "regimen_notes": [],
+    "certainty": "certain",
+    "notes": [
+      "The running text gives a verbal process statement ('λευκαίνεται δὲ ἔλαιον οὕτως·') rather than a clean nominal restatement, so the lemma is used for the preparation label."
+    ],
+    "host_locator": {
+      "book": "1",
+      "chapter": "30",
+      "section": "3-4",
+      "citation": {
+        "start": "34.20",
+        "end": "35.15"
+      }
+    }
+  },
+  "ingredients": [
+    {
+      "ingredient_id": "dioscorides-1-30-whitened-oil:ingredient:elaion-leykon-1",
+      "ingredient_urn": "urn:aos:recipe-ingredient:dioscorides-1-30-whitened-oil:ingredient:elaion-leykon-1",
+      "source_span": "τὸ τῇ χρόᾳ μὲν λευκὸν τὴν ἡλικίαν δὲ μὴ πλέον ἐνιαυσίου",
+      "surface_form": "τὸ τῇ χρόᾳ μὲν λευκὸν τὴν ἡλικίαν δὲ μὴ πλέον ἐνιαυσίου",
+      "base_label": "ἔλαιον",
+      "normalized_label": "ἔλαιον λευκόν",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [
+        "dioscorides-1-30-whitened-oil:process:lambanein-1",
+        "dioscorides-1-30-whitened-oil:process:egcheein-2",
+        "dioscorides-1-30-whitened-oil:process:anachein-4",
+        "dioscorides-1-30-whitened-oil:process:anachein-11",
+        "dioscorides-1-30-whitened-oil:process:tithenai-3",
+        "dioscorides-1-30-whitened-oil:process:tithenai-13"
+      ],
+      "quantities": [
+        {
+          "source_span": "κοτύλαι ἑκατόν",
+          "raw_number": "ἑκατόν",
+          "normalized_number": 100,
+          "raw_unit": "κοτύλαι",
+          "normalized_unit": "cotyle",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "qualifiers": [
+        {
+          "qualifier_type": "color",
+          "source_span": "τῇ χρόᾳ μὲν λευκὸν",
+          "normalized_value": "λευκόν",
+          "certainty": "certain",
+          "notes": []
+        },
+        {
+          "qualifier_type": "duration",
+          "source_span": "τὴν ἡλικίαν δὲ μὴ πλέον ἐνιαυσίου",
+          "normalized_value": "μὴ πλέον ἐνιαυσίου",
+          "certainty": "certain",
+          "notes": [
+            "Age constraint on the oil."
+          ]
+        }
+      ],
+      "notes": [
+        "Ingredient noun is understood from the preceding ἔλαιον."
+      ],
+      "host_locator": {
+        "book": "1",
+        "chapter": "30",
+        "section": "3-4",
+        "citation": {
+          "start": "34.20",
+          "end": "35.15"
+        }
+      }
+    },
+    {
+      "ingredient_id": "dioscorides-1-30-whitened-oil:ingredient:teleos-2",
+      "ingredient_urn": "urn:aos:recipe-ingredient:dioscorides-1-30-whitened-oil:ingredient:teleos-2",
+      "source_span": "τήλεως καθαρᾶς",
+      "surface_form": "τήλεως καθαρᾶς",
+      "base_label": "τήλεως",
+      "normalized_label": "τήλεως",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [
+        "dioscorides-1-30-whitened-oil:process:brechein-5",
+        "dioscorides-1-30-whitened-oil:process:gignesthai-6",
+        "dioscorides-1-30-whitened-oil:process:emballein-7"
+      ],
+      "quantities": [
+        {
+          "source_span": "δραχμὰς πεντήκοντα",
+          "raw_number": "πεντήκοντα",
+          "normalized_number": 50,
+          "raw_unit": "δραχμὰς",
+          "normalized_unit": "drachme",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "qualifiers": [
+        {
+          "qualifier_type": "other",
+          "source_span": "καθαρᾶς",
+          "normalized_value": "καθαρά",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "30",
+        "section": "3-4",
+        "citation": {
+          "start": "34.20",
+          "end": "35.15"
+        }
+      }
+    },
+    {
+      "ingredient_id": "dioscorides-1-30-whitened-oil:ingredient:ydor-3",
+      "ingredient_urn": "urn:aos:recipe-ingredient:dioscorides-1-30-whitened-oil:ingredient:ydor-3",
+      "source_span": "ὕδατι θερμῷ",
+      "surface_form": "ὕδατι θερμῷ",
+      "base_label": "ὕδωρ",
+      "normalized_label": "ὕδωρ",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [
+        "dioscorides-1-30-whitened-oil:process:brechein-5",
+        "dioscorides-1-30-whitened-oil:process:emballein-7"
+      ],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "temperature",
+          "source_span": "θερμῷ",
+          "normalized_value": "θερμός",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "30",
+        "section": "3-4",
+        "citation": {
+          "start": "34.20",
+          "end": "35.15"
+        }
+      }
+    },
+    {
+      "ingredient_id": "dioscorides-1-30-whitened-oil:ingredient:dalos-pityines-4",
+      "ingredient_urn": "urn:aos:recipe-ingredient:dioscorides-1-30-whitened-oil:ingredient:dalos-pityines-4",
+      "source_span": "δαλὸν πιτυίνης ὡς ὅτι λιπαρωτάτης καὶ εἰς λεπτὰ κατεσχισμένης",
+      "surface_form": "δαλὸν πιτυίνης ὡς ὅτι λιπαρωτάτης καὶ εἰς λεπτὰ κατεσχισμένης",
+      "base_label": "δαλός",
+      "normalized_label": "δαλὸς πιτυίνης",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [
+        "dioscorides-1-30-whitened-oil:process:kataschizein-8",
+        "dioscorides-1-30-whitened-oil:process:prosapodidonai-9"
+      ],
+      "quantities": [
+        {
+          "source_span": "τὰς ἴσας ὁλκὰς",
+          "raw_number": "ἴσας",
+          "normalized_number": "equal",
+          "raw_unit": "ὁλκὰς",
+          "normalized_unit": "holce",
+          "certainty": "uncertain",
+          "notes": [
+            "Equal amount, but the exact referent of equality is implicit."
+          ]
+        }
+      ],
+      "qualifiers": [
+        {
+          "qualifier_type": "other",
+          "source_span": "ὡς ὅτι λιπαρωτάτης",
+          "normalized_value": "λιπαρωτάτη",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "notes": [
+        "The exact material form of δαλός is somewhat uncertain; it is treated as an added pine product."
+      ],
+      "host_locator": {
+        "book": "1",
+        "chapter": "30",
+        "section": "3-4",
+        "citation": {
+          "start": "34.20",
+          "end": "35.15"
+        }
+      }
+    },
+    {
+      "ingredient_id": "dioscorides-1-30-whitened-oil:ingredient:stephaniskoi-melilotoy-5",
+      "ingredient_urn": "urn:aos:recipe-ingredient:dioscorides-1-30-whitened-oil:ingredient:stephaniskoi-melilotoy-5",
+      "source_span": "μελιλώτου στεφανίσκων αὔων",
+      "surface_form": "μελιλώτου στεφανίσκων αὔων",
+      "base_label": "στεφανίσκοι",
+      "normalized_label": "στεφανίσκοι μελιλώτου",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [],
+      "quantities": [
+        {
+          "source_span": "ὁλκῶν ἕνδεκα",
+          "raw_number": "ἕνδεκα",
+          "normalized_number": 11,
+          "raw_unit": "ὁλκῶν",
+          "normalized_unit": "holce",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "qualifiers": [
+        {
+          "qualifier_type": "other",
+          "source_span": "αὔων",
+          "normalized_value": "αὖος",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "30",
+        "section": "3-4",
+        "citation": {
+          "start": "34.20",
+          "end": "35.15"
+        }
+      }
+    },
+    {
+      "ingredient_id": "dioscorides-1-30-whitened-oil:ingredient:iris-6",
+      "ingredient_urn": "urn:aos:recipe-ingredient:dioscorides-1-30-whitened-oil:ingredient:iris-6",
+      "source_span": "ἴρεως τῆς ἴσης",
+      "surface_form": "ἴρεως τῆς ἴσης",
+      "base_label": "ἴρις",
+      "normalized_label": "ἴρις",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [],
+      "quantities": [
+        {
+          "source_span": "τῆς ἴσης",
+          "raw_number": "ἴσης",
+          "normalized_number": "equal",
+          "raw_unit": null,
+          "normalized_unit": "holce",
+          "certainty": "uncertain",
+          "notes": [
+            "Unit and amount are inherited from the preceding ὁλκῶν ἕνδεκα."
+          ]
+        }
+      ],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "30",
+        "section": "3-4",
+        "citation": {
+          "start": "34.20",
+          "end": "35.15"
+        }
+      }
+    }
+  ],
+  "processes": [
+    {
+      "process_id": "dioscorides-1-30-whitened-oil:process:lambanein-1",
+      "process_urn": "urn:aos:recipe-process:dioscorides-1-30-whitened-oil:process:lambanein-1",
+      "source_span": "λαβὼν",
+      "surface_form": "λαβὼν",
+      "normalized_label": "λαμβάνειν",
+      "target_type": "ingredient",
+      "target_ids": [
+        "dioscorides-1-30-whitened-oil:ingredient:elaion-leykon-1"
+      ],
+      "quantities": [],
+      "qualifiers": [],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "30",
+        "section": "3-4",
+        "citation": {
+          "start": "34.20",
+          "end": "35.15"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-1-30-whitened-oil:process:egcheein-2",
+      "process_urn": "urn:aos:recipe-process:dioscorides-1-30-whitened-oil:process:egcheein-2",
+      "source_span": "ἔγχεε",
+      "surface_form": "ἔγχεε",
+      "normalized_label": "ἐγχέειν",
+      "target_type": "ingredient",
+      "target_ids": [
+        "dioscorides-1-30-whitened-oil:ingredient:elaion-leykon-1"
+      ],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "location",
+          "source_span": "εἰς κεραμεοῦν ἀγγεῖον πλατύστομον καινόν",
+          "normalized_value": "εἰς κεραμεοῦν ἀγγεῖον πλατύστομον καινόν",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "30",
+        "section": "3-4",
+        "citation": {
+          "start": "34.20",
+          "end": "35.15"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-1-30-whitened-oil:process:tithenai-3",
+      "process_urn": "urn:aos:recipe-process:dioscorides-1-30-whitened-oil:process:tithenai-3",
+      "source_span": "θεὶς",
+      "surface_form": "θεὶς",
+      "normalized_label": "τιθέναι",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "exposure",
+          "source_span": "ὑφ᾿ ἥλιον",
+          "normalized_value": "ὑφ᾿ ἥλιον",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "30",
+        "section": "3-4",
+        "citation": {
+          "start": "34.20",
+          "end": "35.15"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-1-30-whitened-oil:process:anachein-4",
+      "process_urn": "urn:aos:recipe-process:dioscorides-1-30-whitened-oil:process:anachein-4",
+      "source_span": "ἀνάχει",
+      "surface_form": "ἀνάχει",
+      "normalized_label": "ἀναχεῖν",
+      "target_type": "ingredient",
+      "target_ids": [
+        "dioscorides-1-30-whitened-oil:ingredient:elaion-leykon-1"
+      ],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "duration",
+          "source_span": "καθ᾿ ἑκάστην ἡμέραν",
+          "normalized_value": "καθ᾿ ἑκάστην ἡμέραν",
+          "certainty": "certain",
+          "notes": [
+            "Repeated daily action."
+          ]
+        },
+        {
+          "qualifier_type": "other",
+          "source_span": "κατὰ τὸ μέσον",
+          "normalized_value": "κατὰ τὸ μέσον",
+          "certainty": "certain",
+          "notes": [
+            "Time of day."
+          ]
+        },
+        {
+          "qualifier_type": "manner",
+          "source_span": "ὑψόθεν τῇ καταφορᾷ χρώμενος",
+          "normalized_value": "ὑψόθεν τῇ καταφορᾷ",
+          "certainty": "certain",
+          "notes": []
+        },
+        {
+          "qualifier_type": "other",
+          "source_span": "κόγχῳ",
+          "normalized_value": "κόγχῳ",
+          "certainty": "certain",
+          "notes": [
+            "Instrument expressed in the verbal phrase."
+          ]
+        }
+      ],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "30",
+        "section": "3-4",
+        "citation": {
+          "start": "34.20",
+          "end": "35.15"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-1-30-whitened-oil:process:brechein-5",
+      "process_urn": "urn:aos:recipe-process:dioscorides-1-30-whitened-oil:process:brechein-5",
+      "source_span": "βρέξας",
+      "surface_form": "βρέξας",
+      "normalized_label": "βρέχειν",
+      "target_type": "ingredient",
+      "target_ids": [
+        "dioscorides-1-30-whitened-oil:ingredient:teleos-2",
+        "dioscorides-1-30-whitened-oil:ingredient:ydor-3"
+      ],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "location",
+          "source_span": "ἐν ὕδατι θερμῷ",
+          "normalized_value": "ἐν ὕδατι θερμῷ",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "30",
+        "section": "3-4",
+        "citation": {
+          "start": "34.20",
+          "end": "35.15"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-1-30-whitened-oil:process:gignesthai-6",
+      "process_urn": "urn:aos:recipe-process:dioscorides-1-30-whitened-oil:process:gignesthai-6",
+      "source_span": "γενομένην",
+      "surface_form": "γενομένην",
+      "normalized_label": "γίγνεσθαι",
+      "target_type": "ingredient",
+      "target_ids": [
+        "dioscorides-1-30-whitened-oil:ingredient:teleos-2"
+      ],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "other",
+          "source_span": "μαλακὴν",
+          "normalized_value": "μαλακή",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "30",
+        "section": "3-4",
+        "citation": {
+          "start": "34.20",
+          "end": "35.15"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-1-30-whitened-oil:process:emballein-7",
+      "process_urn": "urn:aos:recipe-process:dioscorides-1-30-whitened-oil:process:emballein-7",
+      "source_span": "ἔμβαλε",
+      "surface_form": "ἔμβαλε",
+      "normalized_label": "ἐμβάλλειν",
+      "target_type": "ingredient",
+      "target_ids": [
+        "dioscorides-1-30-whitened-oil:ingredient:teleos-2",
+        "dioscorides-1-30-whitened-oil:ingredient:ydor-3"
+      ],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "location",
+          "source_span": "εἰς τὸ προειρημένον ἔλαιον",
+          "normalized_value": "εἰς τὸ προειρημένον ἔλαιον",
+          "certainty": "certain",
+          "notes": []
+        },
+        {
+          "qualifier_type": "manner",
+          "source_span": "χωρὶς τοῦ στραγγίσαι τὸ ὕδωρ",
+          "normalized_value": "χωρὶς τοῦ στραγγίσαι τὸ ὕδωρ",
+          "certainty": "certain",
+          "notes": [
+            "The water is added unstrained."
+          ]
+        }
+      ],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "30",
+        "section": "3-4",
+        "citation": {
+          "start": "34.20",
+          "end": "35.15"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-1-30-whitened-oil:process:kataschizein-8",
+      "process_urn": "urn:aos:recipe-process:dioscorides-1-30-whitened-oil:process:kataschizein-8",
+      "source_span": "κατεσχισμένης",
+      "surface_form": "κατεσχισμένης",
+      "normalized_label": "κατασχίζειν",
+      "target_type": "ingredient",
+      "target_ids": [
+        "dioscorides-1-30-whitened-oil:ingredient:dalos-pityines-4"
+      ],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "manner",
+          "source_span": "εἰς λεπτὰ",
+          "normalized_value": "εἰς λεπτά",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "30",
+        "section": "3-4",
+        "citation": {
+          "start": "34.20",
+          "end": "35.15"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-1-30-whitened-oil:process:prosapodidonai-9",
+      "process_urn": "urn:aos:recipe-process:dioscorides-1-30-whitened-oil:process:prosapodidonai-9",
+      "source_span": "προσαπόδος",
+      "surface_form": "προσαπόδος",
+      "normalized_label": "προσαποδιδόναι",
+      "target_type": "ingredient",
+      "target_ids": [
+        "dioscorides-1-30-whitened-oil:ingredient:dalos-pityines-4"
+      ],
+      "quantities": [],
+      "qualifiers": [],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "30",
+        "section": "3-4",
+        "citation": {
+          "start": "34.20",
+          "end": "35.15"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-1-30-whitened-oil:process:ean-10",
+      "process_urn": "urn:aos:recipe-process:dioscorides-1-30-whitened-oil:process:ean-10",
+      "source_span": "ἔασον",
+      "surface_form": "ἔασον",
+      "normalized_label": "ἐᾶν",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "duration",
+          "source_span": "ἄλλας ὀκτὼ ἡμέρας",
+          "normalized_value": "ὀκτὼ ἡμέρας",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "30",
+        "section": "3-4",
+        "citation": {
+          "start": "34.20",
+          "end": "35.15"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-1-30-whitened-oil:process:anachein-11",
+      "process_urn": "urn:aos:recipe-process:dioscorides-1-30-whitened-oil:process:anachein-11",
+      "source_span": "ἀνάχει",
+      "surface_form": "ἀνάχει",
+      "normalized_label": "ἀναχεῖν",
+      "target_type": "ingredient",
+      "target_ids": [
+        "dioscorides-1-30-whitened-oil:ingredient:elaion-leykon-1"
+      ],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "other",
+          "source_span": "τῷ κόγχῳ",
+          "normalized_value": "τῷ κόγχῳ",
+          "certainty": "certain",
+          "notes": [
+            "Instrument expressed in the verbal phrase."
+          ]
+        }
+      ],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "30",
+        "section": "3-4",
+        "citation": {
+          "start": "34.20",
+          "end": "35.15"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-1-30-whitened-oil:process:apotithesthai-12",
+      "process_urn": "urn:aos:recipe-process:dioscorides-1-30-whitened-oil:process:apotithesthai-12",
+      "source_span": "ἀποτίθεσο",
+      "surface_form": "ἀποτίθεσο",
+      "normalized_label": "ἀποτίθεσθαι",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "location",
+          "source_span": "εἰς καινὸν ἀγγεῖον προκεκλυσμένον οἴνῳ παλαιῷ",
+          "normalized_value": "εἰς καινὸν ἀγγεῖον προκεκλυσμένον οἴνῳ παλαιῷ",
+          "certainty": "certain",
+          "notes": []
+        },
+        {
+          "qualifier_type": "manner",
+          "source_span": "προυπεστρωμένων μελιλώτου στεφανίσκων αὔων ὁλκῶν ἕνδεκα καὶ ἴρεως τῆς ἴσης",
+          "normalized_value": "προυπεστρωμένων μελιλώτου στεφανίσκων αὔων ὁλκῶν ἕνδεκα καὶ ἴρεως τῆς ἴσης",
+          "certainty": "certain",
+          "notes": [
+            "Storage occurs over a pre-laid aromatic bed."
+          ]
+        }
+      ],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "30",
+        "section": "3-4",
+        "citation": {
+          "start": "34.20",
+          "end": "35.15"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-1-30-whitened-oil:process:tithenai-13",
+      "process_urn": "urn:aos:recipe-process:dioscorides-1-30-whitened-oil:process:tithenai-13",
+      "source_span": "θετέον",
+      "surface_form": "θετέον",
+      "normalized_label": "τιθέναι",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "exposure",
+          "source_span": "ἐν ἡλίῳ",
+          "normalized_value": "ἐν ἡλίῳ",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "30",
+        "section": "3-4",
+        "citation": {
+          "start": "34.20",
+          "end": "35.15"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-1-30-whitened-oil:process:ergazesthai-14",
+      "process_urn": "urn:aos:recipe-process:dioscorides-1-30-whitened-oil:process:ergazesthai-14",
+      "source_span": "ἐργαστέον",
+      "surface_form": "ἐργαστέον",
+      "normalized_label": "ἐργάζεσθαι",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "other",
+          "source_span": "ἄχρις οὗ λευκὸν γένηται",
+          "normalized_value": "ἄχρις οὗ λευκὸν γένηται",
+          "certainty": "certain",
+          "notes": [
+            "Continue until the oil becomes white."
+          ]
+        }
+      ],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "30",
+        "section": "3-4",
+        "citation": {
+          "start": "34.20",
+          "end": "35.15"
+        }
+      }
+    }
+  ],
+  "materials": [
+    {
+      "material_id": "dioscorides-1-30-whitened-oil:material:aggeion-kerameon-platystomon-1",
+      "material_urn": "urn:aos:recipe-material:dioscorides-1-30-whitened-oil:material:aggeion-kerameon-platystomon-1",
+      "source_span": "κεραμεοῦν ἀγγεῖον πλατύστομον καινόν",
+      "surface_form": "κεραμεοῦν ἀγγεῖον πλατύστομον καινόν",
+      "normalized_label": "ἀγγεῖον κεράμεον πλατύστομον",
+      "role": "apparatus",
+      "certainty": "certain",
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "other",
+          "source_span": "καινόν",
+          "normalized_value": "καινόν",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "30",
+        "section": "3-4",
+        "citation": {
+          "start": "34.20",
+          "end": "35.15"
+        }
+      }
+    },
+    {
+      "material_id": "dioscorides-1-30-whitened-oil:material:kogche-2",
+      "material_urn": "urn:aos:recipe-material:dioscorides-1-30-whitened-oil:material:kogche-2",
+      "source_span": "κόγχῳ",
+      "surface_form": "κόγχῳ",
+      "normalized_label": "κόγχη",
+      "role": "tool",
+      "certainty": "certain",
+      "quantities": [],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "30",
+        "section": "3-4",
+        "citation": {
+          "start": "34.20",
+          "end": "35.15"
+        }
+      }
+    },
+    {
+      "material_id": "dioscorides-1-30-whitened-oil:material:aggeion-3",
+      "material_urn": "urn:aos:recipe-material:dioscorides-1-30-whitened-oil:material:aggeion-3",
+      "source_span": "καινὸν ἀγγεῖον προκεκλυσμένον οἴνῳ παλαιῷ",
+      "surface_form": "καινὸν ἀγγεῖον προκεκλυσμένον οἴνῳ παλαιῷ",
+      "normalized_label": "ἀγγεῖον",
+      "role": "apparatus",
+      "certainty": "certain",
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "other",
+          "source_span": "καινόν",
+          "normalized_value": "καινόν",
+          "certainty": "certain",
+          "notes": []
+        },
+        {
+          "qualifier_type": "other",
+          "source_span": "προκεκλυσμένον οἴνῳ παλαιῷ",
+          "normalized_value": "προκεκλυσμένον οἴνῳ παλαιῷ",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "30",
+        "section": "3-4",
+        "citation": {
+          "start": "34.20",
+          "end": "35.15"
+        }
+      }
+    },
+    {
+      "material_id": "dioscorides-1-30-whitened-oil:material:oinos-palaios-4",
+      "material_urn": "urn:aos:recipe-material:dioscorides-1-30-whitened-oil:material:oinos-palaios-4",
+      "source_span": "οἴνῳ παλαιῷ",
+      "surface_form": "οἴνῳ παλαιῷ",
+      "normalized_label": "οἶνος παλαιός",
+      "role": "adjunct_material",
+      "certainty": "certain",
+      "quantities": [],
+      "qualifiers": [],
+      "notes": [
+        "Used to pre-rinse the storage vessel."
+      ],
+      "host_locator": {
+        "book": "1",
+        "chapter": "30",
+        "section": "3-4",
+        "citation": {
+          "start": "34.20",
+          "end": "35.15"
+        }
+      }
+    }
+  ],
+  "people": [],
+  "places": [],
+  "uses": [],
+  "preparation_names": [],
+  "other_preparations_mentioned": [],
+  "works_mentioned": [],
+  "entities": [
+    {
+      "entity_urn": "urn:aos:recipe-preparation:dioscorides-1-30-whitened-oil:preparation:leykanthen-elaion",
+      "entity_type": "label",
+      "surface_form": "λευκανθὲν ἔλαιον",
+      "normalized_label": "λευκανθὲν ἔλαιον"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:dioscorides-1-30-whitened-oil:ingredient:elaion-leykon-1",
+      "entity_type": "ingredient",
+      "surface_form": "τὸ τῇ χρόᾳ μὲν λευκὸν τὴν ἡλικίαν δὲ μὴ πλέον ἐνιαυσίου",
+      "normalized_label": "ἔλαιον λευκόν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:dioscorides-1-30-whitened-oil:ingredient:teleos-2",
+      "entity_type": "ingredient",
+      "surface_form": "τήλεως καθαρᾶς",
+      "normalized_label": "τήλεως"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:dioscorides-1-30-whitened-oil:ingredient:ydor-3",
+      "entity_type": "ingredient",
+      "surface_form": "ὕδατι θερμῷ",
+      "normalized_label": "ὕδωρ"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:dioscorides-1-30-whitened-oil:ingredient:dalos-pityines-4",
+      "entity_type": "ingredient",
+      "surface_form": "δαλὸν πιτυίνης ὡς ὅτι λιπαρωτάτης καὶ εἰς λεπτὰ κατεσχισμένης",
+      "normalized_label": "δαλὸς πιτυίνης"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:dioscorides-1-30-whitened-oil:ingredient:stephaniskoi-melilotoy-5",
+      "entity_type": "ingredient",
+      "surface_form": "μελιλώτου στεφανίσκων αὔων",
+      "normalized_label": "στεφανίσκοι μελιλώτου"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:dioscorides-1-30-whitened-oil:ingredient:iris-6",
+      "entity_type": "ingredient",
+      "surface_form": "ἴρεως τῆς ἴσης",
+      "normalized_label": "ἴρις"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-1-30-whitened-oil:process:lambanein-1",
+      "entity_type": "process",
+      "surface_form": "λαβὼν",
+      "normalized_label": "λαμβάνειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-1-30-whitened-oil:process:egcheein-2",
+      "entity_type": "process",
+      "surface_form": "ἔγχεε",
+      "normalized_label": "ἐγχέειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-1-30-whitened-oil:process:tithenai-3",
+      "entity_type": "process",
+      "surface_form": "θεὶς",
+      "normalized_label": "τιθέναι"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-1-30-whitened-oil:process:anachein-4",
+      "entity_type": "process",
+      "surface_form": "ἀνάχει",
+      "normalized_label": "ἀναχεῖν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-1-30-whitened-oil:process:brechein-5",
+      "entity_type": "process",
+      "surface_form": "βρέξας",
+      "normalized_label": "βρέχειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-1-30-whitened-oil:process:gignesthai-6",
+      "entity_type": "process",
+      "surface_form": "γενομένην",
+      "normalized_label": "γίγνεσθαι"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-1-30-whitened-oil:process:emballein-7",
+      "entity_type": "process",
+      "surface_form": "ἔμβαλε",
+      "normalized_label": "ἐμβάλλειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-1-30-whitened-oil:process:kataschizein-8",
+      "entity_type": "process",
+      "surface_form": "κατεσχισμένης",
+      "normalized_label": "κατασχίζειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-1-30-whitened-oil:process:prosapodidonai-9",
+      "entity_type": "process",
+      "surface_form": "προσαπόδος",
+      "normalized_label": "προσαποδιδόναι"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-1-30-whitened-oil:process:ean-10",
+      "entity_type": "process",
+      "surface_form": "ἔασον",
+      "normalized_label": "ἐᾶν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-1-30-whitened-oil:process:anachein-11",
+      "entity_type": "process",
+      "surface_form": "ἀνάχει",
+      "normalized_label": "ἀναχεῖν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-1-30-whitened-oil:process:apotithesthai-12",
+      "entity_type": "process",
+      "surface_form": "ἀποτίθεσο",
+      "normalized_label": "ἀποτίθεσθαι"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-1-30-whitened-oil:process:tithenai-13",
+      "entity_type": "process",
+      "surface_form": "θετέον",
+      "normalized_label": "τιθέναι"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-1-30-whitened-oil:process:ergazesthai-14",
+      "entity_type": "process",
+      "surface_form": "ἐργαστέον",
+      "normalized_label": "ἐργάζεσθαι"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-material:dioscorides-1-30-whitened-oil:material:aggeion-kerameon-platystomon-1",
+      "entity_type": "material",
+      "surface_form": "κεραμεοῦν ἀγγεῖον πλατύστομον καινόν",
+      "normalized_label": "ἀγγεῖον κεράμεον πλατύστομον"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-material:dioscorides-1-30-whitened-oil:material:kogche-2",
+      "entity_type": "material",
+      "surface_form": "κόγχῳ",
+      "normalized_label": "κόγχη"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-material:dioscorides-1-30-whitened-oil:material:aggeion-3",
+      "entity_type": "material",
+      "surface_form": "καινὸν ἀγγεῖον προκεκλυσμένον οἴνῳ παλαιῷ",
+      "normalized_label": "ἀγγεῖον"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-material:dioscorides-1-30-whitened-oil:material:oinos-palaios-4",
+      "entity_type": "material",
+      "surface_form": "οἴνῳ παλαιῷ",
+      "normalized_label": "οἶνος παλαιός"
+    }
+  ]
+}

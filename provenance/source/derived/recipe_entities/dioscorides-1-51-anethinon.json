@@ -1,0 +1,594 @@
+{
+  "dataset_key": "dioscorides_book1_perfumes_resins",
+  "source_json": "experiments/dioscorides-book1-perfumes-resins/data/dioscorides_book1_perfumes_resins.json",
+  "host_raw_file": "tei/raw/tlg0656.tlg001.1st1K-grc1.xml",
+  "work_slug": "diosc.b1.recipes",
+  "recipe_id": "dioscorides-1-51-anethinon",
+  "recipe_urn": "urn:aos:recipe:dioscorides-1-51-anethinon",
+  "record_urn": "urn:aos:recipe-record:dioscorides-1-51-anethinon",
+  "author": "Dioscorides",
+  "work": "De materia medica",
+  "book": "1",
+  "chapter": "51",
+  "section": null,
+  "chapter_name": "ἀνηθίνον",
+  "lemma": "ἀνηθίνον",
+  "text": "51 ἀνηθίνου σκευασία· ἐλαίου λίτρας ὀκτὼ οὐγγίας ἐννέα, ἀνήθου ἄνθους λίτρας ἕνδεκα οὐγγίας ὀκτὼ ἐναπόβρεχε τῷ ἐλαίῳ ἡμέραν μίαν, εἶτα ἐκπίεζε ταῖς χερσὶ καὶ ἀποτίθεσο. ἐὰν δὲ θέλῃς δίβροχον ποιῆσαι, πρόσφατον ἀνήθου ἄνθος ὡσαύτως ἀπόβρεχε. δύναται δὲ μαλάσσειν τὰ περὶ μήτραν καὶ ἀναστομοῦν, ἁρμόζον πρὸς τὰ περιοδικὰ ῥίγη, θερμαῖνον καὶ κόπους λύον καὶ ἀλγήματα ἄρθρων ὠφελοῦν.",
+  "original_text": null,
+  "text_source": null,
+  "emendations": [],
+  "emendation_count": 0,
+  "source_kind": "main_text",
+  "entry_kind": "recipe",
+  "citation": {
+    "pages": [
+      "47"
+    ],
+    "start": {
+      "page": "47",
+      "line": "5"
+    },
+    "end": {
+      "page": "47",
+      "line": "10"
+    },
+    "citation": {
+      "start": "47.5",
+      "end": "47.10"
+    },
+    "page_spans": [
+      {
+        "page": "47",
+        "start_line": "5",
+        "end_line": "10"
+      }
+    ],
+    "lines": [
+      {
+        "page": "47",
+        "line": "5",
+        "break_no": false,
+        "text": "51 ἀνηθίνου σκευασία· ἐλαίου λίτρας ὀκτὼ οὐγγίας ἐννέα, ἀνήθου ἄνθους λίτρας ἕνδεκα οὐγγίας ὀκτὼ ἐναπόβρεχε τῷ ἐλαίῳ ἡμέραν μίαν, εἶτα ἐκπίεζε ταῖς χερσὶ καὶ ἀποτίθεσο.",
+        "citation": "47.5"
+      },
+      {
+        "page": "47",
+        "line": "10",
+        "break_no": false,
+        "text": "ἐὰν δὲ θέλῃς δίβροχον ποιῆσαι, πρόσφατον ἀνήθου ἄνθος ὡσαύτως ἀπόβρεχε. δύναται δὲ μαλάσσειν τὰ περὶ μήτραν καὶ ἀναστομοῦν, ἁρμόζον πρὸς τὰ περιοδικὰ ῥίγη, θερμαῖνον καὶ κόπους λύον καὶ ἀλγήματα ἄρθρων ὠφελοῦν.",
+        "citation": "47.10"
+      }
+    ],
+    "edition_key": "wellmann"
+  },
+  "notes": [
+    "Raw lines 1590-1633 are book 1 chapter 25 in this witness, although the prompt referred to chapter 35.",
+    "The perfume proemium is taken from the later transition at chapter 42 section 2 (raw lines 2306-2342), not from the chapter 25 κῦφι entry.",
+    "The ἰασμέλαιον entry is preserved only in the apparatus as an addition from another recension."
+  ],
+  "alignment_status": "pending",
+  "alignment_confidence": "pending",
+  "alignment_evidence": null,
+  "review_status": "reviewed_structured_authority",
+  "review_provenance": {
+    "authority_source": "reports/entity_review/structured/dioscorides.json",
+    "authority_recipe_id": "dioscorides-1-51-anethinon",
+    "authority_lemma": "ἀνηθίνον",
+    "model": "gpt-5.4",
+    "reasoning_effort": "high",
+    "dataset_key": "dioscorides_book1_perfumes_resins",
+    "entity_model_version": "1.2",
+    "authority_version": "2026-04-13-qty-alt-v1",
+    "prompt_version": "qty-alt-pass-v1",
+    "build_version": "2026-05-18T15:51:35Z"
+  },
+  "schema_version": "1.2",
+  "build_metadata": {
+    "builder": "scripts/recipes/build_recipe_entities.py",
+    "built_at": "2026-05-18T15:51:35Z",
+    "source_structured_authority": "reports/entity_review/structured/dioscorides.json",
+    "authority_model": "gpt-5.4",
+    "authority_reasoning_effort": "high",
+    "dataset_key": "dioscorides_book1_perfumes_resins",
+    "entity_model_version": "1.2",
+    "authority_version": "2026-04-13-qty-alt-v1",
+    "prompt_version": "qty-alt-pass-v1",
+    "build_version": "2026-05-18T15:51:35Z"
+  },
+  "recipe_text_excerpt": "ἀνηθίνου σκευασία· ἐλαίου λίτρας ὀκτὼ οὐγγίας ἐννέα, ἀνήθου ἄνθους λίτρας ἕνδεκα οὐγγίας ὀκτὼ ἐναπόβρεχε τῷ ἐλαίῳ ἡμέραν μίαν, εἶτα ἐκπίεζε",
+  "preparation": {
+    "preparation_id": "dioscorides-1-51-anethinon:preparation:anethinon",
+    "preparation_urn": "urn:aos:recipe-preparation:dioscorides-1-51-anethinon:preparation:anethinon",
+    "source_span": "ἀνηθίνον",
+    "surface_form": "ἀνηθίνον",
+    "normalized_label": "ἀνηθίνον",
+    "qualifiers": [
+      {
+        "qualifier_type": "cycle_count",
+        "source_span": "δίβροχον",
+        "normalized_value": "δίβροχον",
+        "certainty": "certain",
+        "notes": [
+          "Whole-preparation variant marked by repeated soaking."
+        ]
+      }
+    ],
+    "regimen_notes": [],
+    "certainty": "certain",
+    "notes": [
+      "Used the lemma as the preparation label because the running text gives a heading formula rather than a clean lexical restatement."
+    ],
+    "host_locator": {
+      "book": "1",
+      "chapter": "51",
+      "section": null,
+      "citation": {
+        "start": "47.5",
+        "end": "47.10"
+      }
+    }
+  },
+  "ingredients": [
+    {
+      "ingredient_id": "dioscorides-1-51-anethinon:ingredient:elaion-1",
+      "ingredient_urn": "urn:aos:recipe-ingredient:dioscorides-1-51-anethinon:ingredient:elaion-1",
+      "source_span": "ἐλαίου λίτρας ὀκτὼ οὐγγίας ἐννέα",
+      "surface_form": "ἐλαίου λίτρας ὀκτὼ οὐγγίας ἐννέα",
+      "base_label": "ἔλαιον",
+      "normalized_label": "ἔλαιον",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [
+        "dioscorides-1-51-anethinon:process:enapobrechein-1"
+      ],
+      "quantities": [
+        {
+          "source_span": "λίτρας ὀκτὼ",
+          "raw_number": "ὀκτὼ",
+          "normalized_number": 8,
+          "raw_unit": "λίτρας",
+          "normalized_unit": "litra",
+          "certainty": "certain",
+          "notes": []
+        },
+        {
+          "source_span": "οὐγγίας ἐννέα",
+          "raw_number": "ἐννέα",
+          "normalized_number": 9,
+          "raw_unit": "οὐγγίας",
+          "normalized_unit": "uncia",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "51",
+        "section": null,
+        "citation": {
+          "start": "47.5",
+          "end": "47.10"
+        }
+      }
+    },
+    {
+      "ingredient_id": "dioscorides-1-51-anethinon:ingredient:anthos-anethoy-2",
+      "ingredient_urn": "urn:aos:recipe-ingredient:dioscorides-1-51-anethinon:ingredient:anthos-anethoy-2",
+      "source_span": "ἀνήθου ἄνθους λίτρας ἕνδεκα οὐγγίας ὀκτὼ",
+      "surface_form": "ἀνήθου ἄνθους λίτρας ἕνδεκα οὐγγίας ὀκτὼ",
+      "base_label": "ἄνθος",
+      "normalized_label": "ἄνθος ἀνήθου",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [
+        "dioscorides-1-51-anethinon:process:enapobrechein-1",
+        "dioscorides-1-51-anethinon:process:ekpiezein-2"
+      ],
+      "quantities": [
+        {
+          "source_span": "λίτρας ἕνδεκα",
+          "raw_number": "ἕνδεκα",
+          "normalized_number": 11,
+          "raw_unit": "λίτρας",
+          "normalized_unit": "litra",
+          "certainty": "certain",
+          "notes": []
+        },
+        {
+          "source_span": "οὐγγίας ὀκτὼ",
+          "raw_number": "ὀκτὼ",
+          "normalized_number": 8,
+          "raw_unit": "οὐγγίας",
+          "normalized_unit": "uncia",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "51",
+        "section": null,
+        "citation": {
+          "start": "47.5",
+          "end": "47.10"
+        }
+      }
+    },
+    {
+      "ingredient_id": "dioscorides-1-51-anethinon:ingredient:anthos-anethoy-3",
+      "ingredient_urn": "urn:aos:recipe-ingredient:dioscorides-1-51-anethinon:ingredient:anthos-anethoy-3",
+      "source_span": "πρόσφατον ἀνήθου ἄνθος",
+      "surface_form": "πρόσφατον ἀνήθου ἄνθος",
+      "base_label": "ἄνθος",
+      "normalized_label": "ἄνθος ἀνήθου",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [
+        "dioscorides-1-51-anethinon:process:apobrechein-5"
+      ],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "other",
+          "source_span": "πρόσφατον",
+          "normalized_value": "πρόσφατον",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "51",
+        "section": null,
+        "citation": {
+          "start": "47.5",
+          "end": "47.10"
+        }
+      }
+    }
+  ],
+  "processes": [
+    {
+      "process_id": "dioscorides-1-51-anethinon:process:enapobrechein-1",
+      "process_urn": "urn:aos:recipe-process:dioscorides-1-51-anethinon:process:enapobrechein-1",
+      "source_span": "ἐναπόβρεχε",
+      "surface_form": "ἐναπόβρεχε",
+      "normalized_label": "ἐναποβρέχειν",
+      "target_type": "ingredient",
+      "target_ids": [
+        "dioscorides-1-51-anethinon:ingredient:anthos-anethoy-2",
+        "dioscorides-1-51-anethinon:ingredient:anthos-anethoy-3"
+      ],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "location",
+          "source_span": "τῷ ἐλαίῳ",
+          "normalized_value": "τῷ ἐλαίῳ",
+          "certainty": "certain",
+          "notes": []
+        },
+        {
+          "qualifier_type": "duration",
+          "source_span": "ἡμέραν μίαν",
+          "normalized_value": "1 ἡμέρα",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "51",
+        "section": null,
+        "citation": {
+          "start": "47.5",
+          "end": "47.10"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-1-51-anethinon:process:ekpiezein-2",
+      "process_urn": "urn:aos:recipe-process:dioscorides-1-51-anethinon:process:ekpiezein-2",
+      "source_span": "ἐκπίεζε",
+      "surface_form": "ἐκπίεζε",
+      "normalized_label": "ἐκπιέζειν",
+      "target_type": "ingredient",
+      "target_ids": [
+        "dioscorides-1-51-anethinon:ingredient:anthos-anethoy-2",
+        "dioscorides-1-51-anethinon:ingredient:anthos-anethoy-3"
+      ],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "manner",
+          "source_span": "ταῖς χερσὶ",
+          "normalized_value": "ταῖς χερσὶ",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "51",
+        "section": null,
+        "citation": {
+          "start": "47.5",
+          "end": "47.10"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-1-51-anethinon:process:apotithesthai-3",
+      "process_urn": "urn:aos:recipe-process:dioscorides-1-51-anethinon:process:apotithesthai-3",
+      "source_span": "ἀποτίθεσο",
+      "surface_form": "ἀποτίθεσο",
+      "normalized_label": "ἀποτίθεσθαι",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "51",
+        "section": null,
+        "citation": {
+          "start": "47.5",
+          "end": "47.10"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-1-51-anethinon:process:poiein-4",
+      "process_urn": "urn:aos:recipe-process:dioscorides-1-51-anethinon:process:poiein-4",
+      "source_span": "ποιῆσαι",
+      "surface_form": "ποιῆσαι",
+      "normalized_label": "ποιεῖν",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "other",
+          "source_span": "δίβροχον",
+          "normalized_value": "δίβροχον",
+          "certainty": "certain",
+          "notes": []
+        },
+        {
+          "qualifier_type": "other",
+          "source_span": "ἐὰν δὲ θέλῃς",
+          "normalized_value": "ἐὰν θέλῃς",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "51",
+        "section": null,
+        "citation": {
+          "start": "47.5",
+          "end": "47.10"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-1-51-anethinon:process:apobrechein-5",
+      "process_urn": "urn:aos:recipe-process:dioscorides-1-51-anethinon:process:apobrechein-5",
+      "source_span": "ἀπόβρεχε",
+      "surface_form": "ἀπόβρεχε",
+      "normalized_label": "ἀποβρέχειν",
+      "target_type": "ingredient",
+      "target_ids": [
+        "dioscorides-1-51-anethinon:ingredient:anthos-anethoy-2",
+        "dioscorides-1-51-anethinon:ingredient:anthos-anethoy-3"
+      ],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "manner",
+          "source_span": "ὡσαύτως",
+          "normalized_value": "ὡσαύτως",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "51",
+        "section": null,
+        "citation": {
+          "start": "47.5",
+          "end": "47.10"
+        }
+      }
+    }
+  ],
+  "materials": [],
+  "people": [],
+  "places": [],
+  "uses": [
+    {
+      "use_id": "dioscorides-1-51-anethinon:use:malassein-ta-peri-metran-1",
+      "use_urn": "urn:aos:recipe-use:dioscorides-1-51-anethinon:use:malassein-ta-peri-metran-1",
+      "category": "medical",
+      "source_span": "μαλάσσειν τὰ περὶ μήτραν",
+      "snippet": "μαλάσσειν τὰ περὶ μήτραν",
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "51",
+        "section": null,
+        "citation": {
+          "start": "47.5",
+          "end": "47.10"
+        }
+      }
+    },
+    {
+      "use_id": "dioscorides-1-51-anethinon:use:anastomoyn-2",
+      "use_urn": "urn:aos:recipe-use:dioscorides-1-51-anethinon:use:anastomoyn-2",
+      "category": "medical",
+      "source_span": "ἀναστομοῦν",
+      "snippet": "ἀναστομοῦν",
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "51",
+        "section": null,
+        "citation": {
+          "start": "47.5",
+          "end": "47.10"
+        }
+      }
+    },
+    {
+      "use_id": "dioscorides-1-51-anethinon:use:armozon-pros-ta-periodika-rige-3",
+      "use_urn": "urn:aos:recipe-use:dioscorides-1-51-anethinon:use:armozon-pros-ta-periodika-rige-3",
+      "category": "medical",
+      "source_span": "ἁρμόζον πρὸς τὰ περιοδικὰ ῥίγη",
+      "snippet": "ἁρμόζον πρὸς τὰ περιοδικὰ ῥίγη",
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "51",
+        "section": null,
+        "citation": {
+          "start": "47.5",
+          "end": "47.10"
+        }
+      }
+    },
+    {
+      "use_id": "dioscorides-1-51-anethinon:use:thermainon-4",
+      "use_urn": "urn:aos:recipe-use:dioscorides-1-51-anethinon:use:thermainon-4",
+      "category": "medical",
+      "source_span": "θερμαῖνον",
+      "snippet": "θερμαῖνον",
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "51",
+        "section": null,
+        "citation": {
+          "start": "47.5",
+          "end": "47.10"
+        }
+      }
+    },
+    {
+      "use_id": "dioscorides-1-51-anethinon:use:kopoys-lyon-5",
+      "use_urn": "urn:aos:recipe-use:dioscorides-1-51-anethinon:use:kopoys-lyon-5",
+      "category": "medical",
+      "source_span": "κόπους λύον",
+      "snippet": "κόπους λύον",
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "51",
+        "section": null,
+        "citation": {
+          "start": "47.5",
+          "end": "47.10"
+        }
+      }
+    },
+    {
+      "use_id": "dioscorides-1-51-anethinon:use:algemata-arthron-opheloyn-6",
+      "use_urn": "urn:aos:recipe-use:dioscorides-1-51-anethinon:use:algemata-arthron-opheloyn-6",
+      "category": "medical",
+      "source_span": "ἀλγήματα ἄρθρων ὠφελοῦν",
+      "snippet": "ἀλγήματα ἄρθρων ὠφελοῦν",
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "51",
+        "section": null,
+        "citation": {
+          "start": "47.5",
+          "end": "47.10"
+        }
+      }
+    }
+  ],
+  "preparation_names": [],
+  "other_preparations_mentioned": [],
+  "works_mentioned": [],
+  "entities": [
+    {
+      "entity_urn": "urn:aos:recipe-preparation:dioscorides-1-51-anethinon:preparation:anethinon",
+      "entity_type": "label",
+      "surface_form": "ἀνηθίνον",
+      "normalized_label": "ἀνηθίνον"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:dioscorides-1-51-anethinon:ingredient:elaion-1",
+      "entity_type": "ingredient",
+      "surface_form": "ἐλαίου λίτρας ὀκτὼ οὐγγίας ἐννέα",
+      "normalized_label": "ἔλαιον"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:dioscorides-1-51-anethinon:ingredient:anthos-anethoy-2",
+      "entity_type": "ingredient",
+      "surface_form": "ἀνήθου ἄνθους λίτρας ἕνδεκα οὐγγίας ὀκτὼ",
+      "normalized_label": "ἄνθος ἀνήθου"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:dioscorides-1-51-anethinon:ingredient:anthos-anethoy-3",
+      "entity_type": "ingredient",
+      "surface_form": "πρόσφατον ἀνήθου ἄνθος",
+      "normalized_label": "ἄνθος ἀνήθου"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-1-51-anethinon:process:enapobrechein-1",
+      "entity_type": "process",
+      "surface_form": "ἐναπόβρεχε",
+      "normalized_label": "ἐναποβρέχειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-1-51-anethinon:process:ekpiezein-2",
+      "entity_type": "process",
+      "surface_form": "ἐκπίεζε",
+      "normalized_label": "ἐκπιέζειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-1-51-anethinon:process:apotithesthai-3",
+      "entity_type": "process",
+      "surface_form": "ἀποτίθεσο",
+      "normalized_label": "ἀποτίθεσθαι"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-1-51-anethinon:process:poiein-4",
+      "entity_type": "process",
+      "surface_form": "ποιῆσαι",
+      "normalized_label": "ποιεῖν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-1-51-anethinon:process:apobrechein-5",
+      "entity_type": "process",
+      "surface_form": "ἀπόβρεχε",
+      "normalized_label": "ἀποβρέχειν"
+    }
+  ]
+}

@@ -1,0 +1,852 @@
+{
+  "dataset_key": "aetius_book1_oils",
+  "source_json": "experiments/aetius-book1-ch99-136-oils/data/aetius_book1_ch99_136_oils.json",
+  "host_raw_file": "tei/raw/tlg0718001.xml",
+  "work_slug": "aetius.b1.oils",
+  "recipe_id": "aetius-1-125",
+  "recipe_urn": "urn:aos:recipe:aetius-1-125",
+  "record_urn": "urn:aos:recipe-record:aetius-1-125",
+  "author": "Aëtius of Amida",
+  "work": "Libri medicinales",
+  "book": "1",
+  "chapter": "125",
+  "section": "125",
+  "chapter_name": "Μετώπιον",
+  "lemma": "Μετώπιον",
+  "text": "Μετώπιον ἐν Αἰγύπτῳ σκευάζεται, καλεῖται δὲ μετώπιον διὰ τὸ τῆς χαλβάνης ξύλον. σκευάζεται δὲ δι' ἐλαίου ὀμφακίνου καὶ ἀμυγδάλων πικρῶν καὶ καρδαμώμου καὶ σχίνου καὶ καλάμου καὶ μέλιτος καὶ οἴνου καὶ καρποβαλσάμου καὶ χαλβάνης καὶ ῥητίνης. ἐστὶ δὲ θερμαντικόν, ἀναστομοῖ δέ, ἐπισπᾶται, καθαίρει, ποιεῖ πρὸς μῦς καὶ νεῦρα διακοπέντα, ποιεῖ πρὸς ὑδροκήλας καὶ καθόλου δύναμιν ἔχει μαλακτικήν.",
+  "original_text": "Μετώπιον ἐν Αἰγύπτῳ σκευάζεται, καλεῖται δὲ μετώπιον διὰ τὸ τῆς χαλβάνης ξύλον. σκευάζεται δὲ δι' ἐλαίου ὀμφακίνου καὶ ἀμυγδάλων πικρῶν καὶ καρδαμώμου καὶ σχίνου καὶ καλάμου καὶ μέλιτος καὶ οἴνου καὶ καρποβαλσάμου καὶ χαλβάνης καὶ ῥητίνης. ἐστὶ δὲ θερμαντικόν, ἀναστομοῖ δέ, ἐπισπᾶται, καθαίρει, ποιεῖ πρὸς μῦς καὶ νεῦρα διακοπέντα, ποιεῖ πρὸς ὑδροκήλας καὶ καθόλου δύναμιν ἔχει μαλακτικήν.",
+  "text_source": "olivieri",
+  "emendations": [],
+  "emendation_count": 0,
+  "source_kind": null,
+  "entry_kind": "recipe",
+  "citation": {
+    "pages": [
+      "63"
+    ],
+    "start": {
+      "page": "63",
+      "line": "3",
+      "xml_id": "oliv-63-3"
+    },
+    "end": {
+      "page": "63",
+      "line": "9",
+      "xml_id": "oliv-63-9"
+    },
+    "citation": {
+      "start": "63.3",
+      "end": "63.9"
+    },
+    "page_spans": [
+      {
+        "page": "63",
+        "start_line": "3",
+        "end_line": "9"
+      }
+    ],
+    "lines": [
+      {
+        "page": "63",
+        "line": "3",
+        "xml_id": "oliv-63-3",
+        "break_no": false,
+        "text": "Μετώπιον ἐν Αἰγύπτῳ σκευάζεται, καλεῖται δὲ μετώπιον διὰ τὸ",
+        "citation": "63.3"
+      },
+      {
+        "page": "63",
+        "line": "4",
+        "xml_id": "oliv-63-4",
+        "break_no": false,
+        "text": "τῆς χαλβάνης ξύλον. σκευάζεται δὲ δι' ἐλαίου ὀμφακίνου καὶ ἀμυγδά-",
+        "citation": "63.4"
+      },
+      {
+        "page": "63",
+        "line": "5",
+        "xml_id": "oliv-63-5",
+        "break_no": true,
+        "text": "λων πικρῶν καὶ καρδαμώμου καὶ σχίνου καὶ καλάμου καὶ μέλιτος καὶ",
+        "citation": "63.5"
+      },
+      {
+        "page": "63",
+        "line": "6",
+        "xml_id": "oliv-63-6",
+        "break_no": false,
+        "text": "οἴνου καὶ καρποβαλσάμου καὶ χαλβάνης καὶ ῥητίνης. ἐστὶ δὲ θερμαν-",
+        "citation": "63.6"
+      },
+      {
+        "page": "63",
+        "line": "7",
+        "xml_id": "oliv-63-7",
+        "break_no": true,
+        "text": "τικόν, ἀναστομοῖ δέ, ἐπισπᾶται, καθαίρει, ποιεῖ πρὸς μῦς καὶ νεῦρα",
+        "citation": "63.7"
+      },
+      {
+        "page": "63",
+        "line": "8",
+        "xml_id": "oliv-63-8",
+        "break_no": false,
+        "text": "διακοπέντα, ποιεῖ πρὸς ὑδροκήλας καὶ καθόλου δύναμιν ἔχει μαλα-",
+        "citation": "63.8"
+      },
+      {
+        "page": "63",
+        "line": "9",
+        "xml_id": "oliv-63-9",
+        "break_no": true,
+        "text": "κτικήν.",
+        "citation": "63.9"
+      }
+    ],
+    "edition_key": "olivieri"
+  },
+  "notes": [],
+  "alignment_status": "pending",
+  "alignment_confidence": "pending",
+  "alignment_evidence": null,
+  "review_status": "reviewed_structured_authority",
+  "review_provenance": {
+    "authority_source": "reports/entity_review/structured/aetius_book1.json",
+    "authority_recipe_id": "aetius-1-125",
+    "authority_lemma": "Μετώπιον",
+    "model": "gpt-5.4",
+    "reasoning_effort": "high",
+    "dataset_key": "aetius_book1_oils",
+    "entity_model_version": "1.2",
+    "authority_version": "2026-04-13-qty-alt-v1",
+    "prompt_version": "qty-alt-pass-v1",
+    "build_version": "2026-05-18T15:51:35Z"
+  },
+  "schema_version": "1.2",
+  "build_metadata": {
+    "builder": "scripts/recipes/build_recipe_entities.py",
+    "built_at": "2026-05-18T15:51:35Z",
+    "source_structured_authority": "reports/entity_review/structured/aetius_book1.json",
+    "authority_model": "gpt-5.4",
+    "authority_reasoning_effort": "high",
+    "dataset_key": "aetius_book1_oils",
+    "entity_model_version": "1.2",
+    "authority_version": "2026-04-13-qty-alt-v1",
+    "prompt_version": "qty-alt-pass-v1",
+    "build_version": "2026-05-18T15:51:35Z"
+  },
+  "recipe_text_excerpt": "Μετώπιον ἐν Αἰγύπτῳ σκευάζεται, καλεῖται δὲ μετώπιον διὰ τὸ τῆς χαλβάνης ξύλον. σκευάζεται δὲ δι' ἐλαίου ὀμφακίνου καὶ ἀμυγδάλων πικρῶν",
+  "preparation": {
+    "preparation_id": "aetius-1-125:preparation:metopion",
+    "preparation_urn": "urn:aos:recipe-preparation:aetius-1-125:preparation:metopion",
+    "source_span": "Μετώπιον",
+    "surface_form": "Μετώπιον",
+    "normalized_label": "Μετώπιον",
+    "qualifiers": [
+      {
+        "qualifier_type": "location",
+        "source_span": "ἐν Αἰγύπτῳ",
+        "normalized_value": "Αἴγυπτος",
+        "certainty": "certain",
+        "notes": []
+      }
+    ],
+    "regimen_notes": [],
+    "certainty": "certain",
+    "notes": [],
+    "host_locator": {
+      "book": "1",
+      "chapter": "125",
+      "section": "125",
+      "citation": {
+        "start": "63.3",
+        "end": "63.9"
+      }
+    }
+  },
+  "ingredients": [
+    {
+      "ingredient_id": "aetius-1-125:ingredient:elaion-omphakinon-1",
+      "ingredient_urn": "urn:aos:recipe-ingredient:aetius-1-125:ingredient:elaion-omphakinon-1",
+      "source_span": "ἐλαίου ὀμφακίνου",
+      "surface_form": "ἐλαίου ὀμφακίνου",
+      "base_label": "ἔλαιον",
+      "normalized_label": "ἔλαιον ὀμφακίνον",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [
+        "aetius-1-125:process:skeyazein-1"
+      ],
+      "quantities": [],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "125",
+        "section": "125",
+        "citation": {
+          "start": "63.3",
+          "end": "63.9"
+        }
+      }
+    },
+    {
+      "ingredient_id": "aetius-1-125:ingredient:amygdala-pikra-2",
+      "ingredient_urn": "urn:aos:recipe-ingredient:aetius-1-125:ingredient:amygdala-pikra-2",
+      "source_span": "ἀμυγδάλων πικρῶν",
+      "surface_form": "ἀμυγδάλων πικρῶν",
+      "base_label": "ἀμύγδαλον",
+      "normalized_label": "ἀμύγδαλα πικρά",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [
+        "aetius-1-125:process:skeyazein-1"
+      ],
+      "quantities": [],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "125",
+        "section": "125",
+        "citation": {
+          "start": "63.3",
+          "end": "63.9"
+        }
+      }
+    },
+    {
+      "ingredient_id": "aetius-1-125:ingredient:kardamomon-3",
+      "ingredient_urn": "urn:aos:recipe-ingredient:aetius-1-125:ingredient:kardamomon-3",
+      "source_span": "καρδαμώμου",
+      "surface_form": "καρδαμώμου",
+      "base_label": "καρδάμωμον",
+      "normalized_label": "καρδάμωμον",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [
+        "aetius-1-125:process:skeyazein-1"
+      ],
+      "quantities": [],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "125",
+        "section": "125",
+        "citation": {
+          "start": "63.3",
+          "end": "63.9"
+        }
+      }
+    },
+    {
+      "ingredient_id": "aetius-1-125:ingredient:schinos-4",
+      "ingredient_urn": "urn:aos:recipe-ingredient:aetius-1-125:ingredient:schinos-4",
+      "source_span": "σχίνου",
+      "surface_form": "σχίνου",
+      "base_label": "σχῖνος",
+      "normalized_label": "σχῖνος",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [
+        "aetius-1-125:process:skeyazein-1"
+      ],
+      "quantities": [],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "125",
+        "section": "125",
+        "citation": {
+          "start": "63.3",
+          "end": "63.9"
+        }
+      }
+    },
+    {
+      "ingredient_id": "aetius-1-125:ingredient:kalamos-5",
+      "ingredient_urn": "urn:aos:recipe-ingredient:aetius-1-125:ingredient:kalamos-5",
+      "source_span": "καλάμου",
+      "surface_form": "καλάμου",
+      "base_label": "κάλαμος",
+      "normalized_label": "κάλαμος",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [
+        "aetius-1-125:process:skeyazein-1"
+      ],
+      "quantities": [],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "125",
+        "section": "125",
+        "citation": {
+          "start": "63.3",
+          "end": "63.9"
+        }
+      }
+    },
+    {
+      "ingredient_id": "aetius-1-125:ingredient:meli-6",
+      "ingredient_urn": "urn:aos:recipe-ingredient:aetius-1-125:ingredient:meli-6",
+      "source_span": "μέλιτος",
+      "surface_form": "μέλιτος",
+      "base_label": "μέλι",
+      "normalized_label": "μέλι",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [
+        "aetius-1-125:process:skeyazein-1"
+      ],
+      "quantities": [],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "125",
+        "section": "125",
+        "citation": {
+          "start": "63.3",
+          "end": "63.9"
+        }
+      }
+    },
+    {
+      "ingredient_id": "aetius-1-125:ingredient:oinos-7",
+      "ingredient_urn": "urn:aos:recipe-ingredient:aetius-1-125:ingredient:oinos-7",
+      "source_span": "οἴνου",
+      "surface_form": "οἴνου",
+      "base_label": "οἶνος",
+      "normalized_label": "οἶνος",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [
+        "aetius-1-125:process:skeyazein-1"
+      ],
+      "quantities": [],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "125",
+        "section": "125",
+        "citation": {
+          "start": "63.3",
+          "end": "63.9"
+        }
+      }
+    },
+    {
+      "ingredient_id": "aetius-1-125:ingredient:karpobalsamon-8",
+      "ingredient_urn": "urn:aos:recipe-ingredient:aetius-1-125:ingredient:karpobalsamon-8",
+      "source_span": "καρποβαλσάμου",
+      "surface_form": "καρποβαλσάμου",
+      "base_label": "καρποβάλσαμον",
+      "normalized_label": "καρποβάλσαμον",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [
+        "aetius-1-125:process:skeyazein-1"
+      ],
+      "quantities": [],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "125",
+        "section": "125",
+        "citation": {
+          "start": "63.3",
+          "end": "63.9"
+        }
+      }
+    },
+    {
+      "ingredient_id": "aetius-1-125:ingredient:chalbane-9",
+      "ingredient_urn": "urn:aos:recipe-ingredient:aetius-1-125:ingredient:chalbane-9",
+      "source_span": "χαλβάνης",
+      "surface_form": "χαλβάνης",
+      "base_label": "χαλβάνη",
+      "normalized_label": "χαλβάνη",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [
+        "aetius-1-125:process:skeyazein-1"
+      ],
+      "quantities": [],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "125",
+        "section": "125",
+        "citation": {
+          "start": "63.3",
+          "end": "63.9"
+        }
+      }
+    },
+    {
+      "ingredient_id": "aetius-1-125:ingredient:retine-10",
+      "ingredient_urn": "urn:aos:recipe-ingredient:aetius-1-125:ingredient:retine-10",
+      "source_span": "ῥητίνης",
+      "surface_form": "ῥητίνης",
+      "base_label": "ῥητίνη",
+      "normalized_label": "ῥητίνη",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [
+        "aetius-1-125:process:skeyazein-1"
+      ],
+      "quantities": [],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "125",
+        "section": "125",
+        "citation": {
+          "start": "63.3",
+          "end": "63.9"
+        }
+      }
+    }
+  ],
+  "processes": [
+    {
+      "process_id": "aetius-1-125:process:skeyazein-1",
+      "process_urn": "urn:aos:recipe-process:aetius-1-125:process:skeyazein-1",
+      "source_span": "σκευάζεται",
+      "surface_form": "σκευάζεται",
+      "normalized_label": "σκευάζειν",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "location",
+          "source_span": "ἐν Αἰγύπτῳ",
+          "normalized_value": "Αἴγυπτος",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "125",
+        "section": "125",
+        "citation": {
+          "start": "63.3",
+          "end": "63.9"
+        }
+      }
+    }
+  ],
+  "materials": [
+    {
+      "material_id": "aetius-1-125:material:xylon-chalbanes-1",
+      "material_urn": "urn:aos:recipe-material:aetius-1-125:material:xylon-chalbanes-1",
+      "source_span": "τὸ τῆς χαλβάνης ξύλον",
+      "surface_form": "τὸ τῆς χαλβάνης ξύλον",
+      "normalized_label": "ξύλον χαλβάνης",
+      "role": "uncertain_material",
+      "certainty": "uncertain",
+      "quantities": [],
+      "qualifiers": [],
+      "notes": [
+        "Mentioned as the basis of the name, not explicitly as a preparation component."
+      ],
+      "host_locator": {
+        "book": "1",
+        "chapter": "125",
+        "section": "125",
+        "citation": {
+          "start": "63.3",
+          "end": "63.9"
+        }
+      }
+    }
+  ],
+  "people": [],
+  "places": [
+    {
+      "place_id": "aetius-1-125:place:aigyptos-1",
+      "place_urn": "urn:aos:recipe-place:aetius-1-125:place:aigyptos-1",
+      "source_span": "Αἰγύπτῳ",
+      "surface_form": "Αἰγύπτῳ",
+      "normalized_label": "Αἴγυπτος",
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "125",
+        "section": "125",
+        "citation": {
+          "start": "63.3",
+          "end": "63.9"
+        }
+      }
+    }
+  ],
+  "uses": [
+    {
+      "use_id": "aetius-1-125:use:esti-de-thermantikon-1",
+      "use_urn": "urn:aos:recipe-use:aetius-1-125:use:esti-de-thermantikon-1",
+      "category": "medical",
+      "source_span": "ἐστὶ δὲ θερμαντικόν",
+      "snippet": "ἐστὶ δὲ θερμαντικόν",
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "125",
+        "section": "125",
+        "citation": {
+          "start": "63.3",
+          "end": "63.9"
+        }
+      }
+    },
+    {
+      "use_id": "aetius-1-125:use:anastomoi-de-2",
+      "use_urn": "urn:aos:recipe-use:aetius-1-125:use:anastomoi-de-2",
+      "category": "medical",
+      "source_span": "ἀναστομοῖ δέ",
+      "snippet": "ἀναστομοῖ δέ",
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "125",
+        "section": "125",
+        "citation": {
+          "start": "63.3",
+          "end": "63.9"
+        }
+      }
+    },
+    {
+      "use_id": "aetius-1-125:use:epispatai-3",
+      "use_urn": "urn:aos:recipe-use:aetius-1-125:use:epispatai-3",
+      "category": "medical",
+      "source_span": "ἐπισπᾶται",
+      "snippet": "ἐπισπᾶται",
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "125",
+        "section": "125",
+        "citation": {
+          "start": "63.3",
+          "end": "63.9"
+        }
+      }
+    },
+    {
+      "use_id": "aetius-1-125:use:kathairei-4",
+      "use_urn": "urn:aos:recipe-use:aetius-1-125:use:kathairei-4",
+      "category": "medical",
+      "source_span": "καθαίρει",
+      "snippet": "καθαίρει",
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "125",
+        "section": "125",
+        "citation": {
+          "start": "63.3",
+          "end": "63.9"
+        }
+      }
+    },
+    {
+      "use_id": "aetius-1-125:use:poiei-pros-mys-kai-neyra-diakopenta-5",
+      "use_urn": "urn:aos:recipe-use:aetius-1-125:use:poiei-pros-mys-kai-neyra-diakopenta-5",
+      "category": "medical",
+      "source_span": "ποιεῖ πρὸς μῦς καὶ νεῦρα διακοπέντα",
+      "snippet": "ποιεῖ πρὸς μῦς καὶ νεῦρα διακοπέντα",
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "125",
+        "section": "125",
+        "citation": {
+          "start": "63.3",
+          "end": "63.9"
+        }
+      }
+    },
+    {
+      "use_id": "aetius-1-125:use:poiei-pros-ydrokelas-6",
+      "use_urn": "urn:aos:recipe-use:aetius-1-125:use:poiei-pros-ydrokelas-6",
+      "category": "medical",
+      "source_span": "ποιεῖ πρὸς ὑδροκήλας",
+      "snippet": "ποιεῖ πρὸς ὑδροκήλας",
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "125",
+        "section": "125",
+        "citation": {
+          "start": "63.3",
+          "end": "63.9"
+        }
+      }
+    },
+    {
+      "use_id": "aetius-1-125:use:katholoy-dynamin-echei-malaktiken-7",
+      "use_urn": "urn:aos:recipe-use:aetius-1-125:use:katholoy-dynamin-echei-malaktiken-7",
+      "category": "medical",
+      "source_span": "καθόλου δύναμιν ἔχει μαλακτικήν",
+      "snippet": "καθόλου δύναμιν ἔχει μαλακτικήν",
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "125",
+        "section": "125",
+        "citation": {
+          "start": "63.3",
+          "end": "63.9"
+        }
+      }
+    }
+  ],
+  "preparation_names": [
+    {
+      "preparation_name_id": "aetius-1-125:preparation_name:metopion-1",
+      "preparation_name_urn": "urn:aos:recipe-preparation_name:aetius-1-125:preparation_name:metopion-1",
+      "source_span": "μετώπιον",
+      "surface_form": "μετώπιον",
+      "normalized_label": "Μετώπιον",
+      "certainty": "certain",
+      "notes": [
+        "Explicit naming formula in the text: καλεῖται δὲ μετώπιον."
+      ],
+      "host_locator": {
+        "book": "1",
+        "chapter": "125",
+        "section": "125",
+        "citation": {
+          "start": "63.3",
+          "end": "63.9"
+        }
+      }
+    }
+  ],
+  "other_preparations_mentioned": [],
+  "works_mentioned": [],
+  "entities": [
+    {
+      "entity_urn": "urn:aos:recipe-preparation:aetius-1-125:preparation:metopion",
+      "entity_type": "label",
+      "surface_form": "Μετώπιον",
+      "normalized_label": "Μετώπιον"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:aetius-1-125:ingredient:elaion-omphakinon-1",
+      "entity_type": "ingredient",
+      "surface_form": "ἐλαίου ὀμφακίνου",
+      "normalized_label": "ἔλαιον ὀμφακίνον"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:aetius-1-125:ingredient:amygdala-pikra-2",
+      "entity_type": "ingredient",
+      "surface_form": "ἀμυγδάλων πικρῶν",
+      "normalized_label": "ἀμύγδαλα πικρά"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:aetius-1-125:ingredient:kardamomon-3",
+      "entity_type": "ingredient",
+      "surface_form": "καρδαμώμου",
+      "normalized_label": "καρδάμωμον"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:aetius-1-125:ingredient:schinos-4",
+      "entity_type": "ingredient",
+      "surface_form": "σχίνου",
+      "normalized_label": "σχῖνος"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:aetius-1-125:ingredient:kalamos-5",
+      "entity_type": "ingredient",
+      "surface_form": "καλάμου",
+      "normalized_label": "κάλαμος"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:aetius-1-125:ingredient:meli-6",
+      "entity_type": "ingredient",
+      "surface_form": "μέλιτος",
+      "normalized_label": "μέλι"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:aetius-1-125:ingredient:oinos-7",
+      "entity_type": "ingredient",
+      "surface_form": "οἴνου",
+      "normalized_label": "οἶνος"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:aetius-1-125:ingredient:karpobalsamon-8",
+      "entity_type": "ingredient",
+      "surface_form": "καρποβαλσάμου",
+      "normalized_label": "καρποβάλσαμον"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:aetius-1-125:ingredient:chalbane-9",
+      "entity_type": "ingredient",
+      "surface_form": "χαλβάνης",
+      "normalized_label": "χαλβάνη"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:aetius-1-125:ingredient:retine-10",
+      "entity_type": "ingredient",
+      "surface_form": "ῥητίνης",
+      "normalized_label": "ῥητίνη"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:aetius-1-125:process:skeyazein-1",
+      "entity_type": "process",
+      "surface_form": "σκευάζεται",
+      "normalized_label": "σκευάζειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-material:aetius-1-125:material:xylon-chalbanes-1",
+      "entity_type": "material",
+      "surface_form": "τὸ τῆς χαλβάνης ξύλον",
+      "normalized_label": "ξύλον χαλβάνης"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-place:aetius-1-125:place:aigyptos-1",
+      "entity_type": "place",
+      "surface_form": "Αἰγύπτῳ",
+      "normalized_label": "Αἴγυπτος"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-preparation_name:aetius-1-125:preparation_name:metopion-1",
+      "entity_type": "preparation_name",
+      "surface_form": "μετώπιον",
+      "normalized_label": "Μετώπιον"
+    }
+  ],
+  "canonical_file": "data/recipes/aetius-1-125.json",
+  "source_entry": {
+    "source_id": "aetius-1-125",
+    "derived_recipe_id": "aetius-1-125",
+    "entry_kind": null,
+    "source_kind": null,
+    "source_lines": null,
+    "section_markers": []
+  },
+  "entity_groups": {
+    "labels": [
+      {
+        "entity_urn": "urn:aos:recipe-preparation:aetius-1-125:preparation:metopion",
+        "surface_form": "Μετώπιον",
+        "normalized_label": "Μετώπιον"
+      }
+    ],
+    "ingredients": [
+      {
+        "entity_urn": "urn:aos:recipe-ingredient:aetius-1-125:ingredient:elaion-omphakinon-1",
+        "surface_form": "ἐλαίου ὀμφακίνου",
+        "normalized_label": "ἔλαιον ὀμφακίνον",
+        "quantity_display": ""
+      },
+      {
+        "entity_urn": "urn:aos:recipe-ingredient:aetius-1-125:ingredient:amygdala-pikra-2",
+        "surface_form": "ἀμυγδάλων πικρῶν",
+        "normalized_label": "ἀμύγδαλα πικρά",
+        "quantity_display": ""
+      },
+      {
+        "entity_urn": "urn:aos:recipe-ingredient:aetius-1-125:ingredient:kardamomon-3",
+        "surface_form": "καρδαμώμου",
+        "normalized_label": "καρδάμωμον",
+        "quantity_display": ""
+      },
+      {
+        "entity_urn": "urn:aos:recipe-ingredient:aetius-1-125:ingredient:schinos-4",
+        "surface_form": "σχίνου",
+        "normalized_label": "σχῖνος",
+        "quantity_display": ""
+      },
+      {
+        "entity_urn": "urn:aos:recipe-ingredient:aetius-1-125:ingredient:kalamos-5",
+        "surface_form": "καλάμου",
+        "normalized_label": "κάλαμος",
+        "quantity_display": ""
+      },
+      {
+        "entity_urn": "urn:aos:recipe-ingredient:aetius-1-125:ingredient:meli-6",
+        "surface_form": "μέλιτος",
+        "normalized_label": "μέλι",
+        "quantity_display": ""
+      },
+      {
+        "entity_urn": "urn:aos:recipe-ingredient:aetius-1-125:ingredient:oinos-7",
+        "surface_form": "οἴνου",
+        "normalized_label": "οἶνος",
+        "quantity_display": ""
+      },
+      {
+        "entity_urn": "urn:aos:recipe-ingredient:aetius-1-125:ingredient:karpobalsamon-8",
+        "surface_form": "καρποβαλσάμου",
+        "normalized_label": "καρποβάλσαμον",
+        "quantity_display": ""
+      },
+      {
+        "entity_urn": "urn:aos:recipe-ingredient:aetius-1-125:ingredient:chalbane-9",
+        "surface_form": "χαλβάνης",
+        "normalized_label": "χαλβάνη",
+        "quantity_display": ""
+      },
+      {
+        "entity_urn": "urn:aos:recipe-ingredient:aetius-1-125:ingredient:retine-10",
+        "surface_form": "ῥητίνης",
+        "normalized_label": "ῥητίνη",
+        "quantity_display": ""
+      }
+    ],
+    "processes": [
+      {
+        "entity_urn": "urn:aos:recipe-process:aetius-1-125:process:skeyazein-1",
+        "surface_form": "σκευάζεται",
+        "normalized_label": "σκευάζειν"
+      }
+    ],
+    "tools": [
+      {
+        "entity_urn": "urn:aos:recipe-material:aetius-1-125:material:xylon-chalbanes-1",
+        "surface_form": "τὸ τῆς χαλβάνης ξύλον",
+        "normalized_label": "ξύλον χαλβάνης"
+      }
+    ],
+    "other_preparations_mentioned": [],
+    "people": [],
+    "places": [
+      {
+        "entity_urn": "urn:aos:recipe-place:aetius-1-125:place:aigyptos-1",
+        "surface_form": "Αἰγύπτῳ",
+        "normalized_label": "Αἴγυπτος"
+      }
+    ],
+    "works_mentioned": [],
+    "preparation_names": [
+      {
+        "entity_urn": "urn:aos:recipe-preparation_name:aetius-1-125:preparation_name:metopion-1",
+        "surface_form": "μετώπιον",
+        "normalized_label": "Μετώπιον"
+      }
+    ]
+  }
+}

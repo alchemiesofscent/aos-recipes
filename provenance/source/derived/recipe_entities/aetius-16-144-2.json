@@ -1,0 +1,807 @@
+{
+  "dataset_key": "aetius_book16_myrepsika",
+  "source_json": "experiments/aetius-book16-ch126-153-myrepsika/data/aetius_book16_ch126_153_myrepsika.json",
+  "host_raw_file": "tei/raw/tlg0718016.xml",
+  "work_slug": "aetius.b16.myrepsika",
+  "recipe_id": "aetius-16-144-2",
+  "recipe_urn": "urn:aos:recipe:aetius-16-144-2",
+  "record_urn": "urn:aos:recipe-record:aetius-16-144-2",
+  "author": "Aëtius of Amida",
+  "work": "Libri medicinales",
+  "book": "16",
+  "chapter": "144",
+  "section": "2",
+  "chapter_name": "θυμιάματος μοσχάτου Θεοπέμπτου σκευασία · ἄλλου θυμιάματος μοσχάτου σκευασία",
+  "lemma": "ἄλλου θυμιάματος μοσχάτου σκευασία",
+  "text": "Φύλλου, κόστου, βρύου ἤτοι ὕπνου, ῥόδων ξηρῶν, ναρδοστάχυος, ἀνὰ γοα. κρόκου, ὀνύχων, καρυοφύλλου, ἀμώμου, κασίας ἀνὰ γράμματα ιβ. καρποβαλσάμου, βδελλίου ἀνὰ ὁμοίως. στύρακος γράμματα κ. μόσχου γράμματα γ. ῥοδομέλιτος τὸ ἱκανόν.",
+  "original_text": null,
+  "text_source": null,
+  "emendations": [],
+  "emendation_count": 0,
+  "source_kind": null,
+  "entry_kind": "recipe",
+  "citation": {
+    "pages": [
+      "169"
+    ],
+    "start": {
+      "page": "169",
+      "line": "12",
+      "xml_id": "zerv-169-12"
+    },
+    "end": {
+      "page": "169",
+      "line": "16",
+      "xml_id": "zerv-169-16"
+    },
+    "citation": {
+      "start": "169.12",
+      "end": "169.16"
+    },
+    "page_spans": [
+      {
+        "page": "169",
+        "start_line": "12",
+        "end_line": "16"
+      }
+    ],
+    "lines": [
+      {
+        "page": "169",
+        "line": "12",
+        "xml_id": "zerv-169-12",
+        "citation": "169.12",
+        "text": "ΑΛΛΟΥ ΘΥΜΙΑΜΑΤΟΣ ΜΟΣΧΑΤΟΥ ΣΚΕΥΑΣΙΑ."
+      },
+      {
+        "page": "169",
+        "line": "13",
+        "xml_id": "zerv-169-13",
+        "citation": "169.13",
+        "text": "Φύλλου, κόστου, βρύου ἤτοι ὕπνου, ῥόδων ξηρῶν, ναρδοστά-"
+      },
+      {
+        "page": "169",
+        "line": "14",
+        "xml_id": "zerv-169-14",
+        "citation": "169.14",
+        "text": "χυος, ἀνὰ γοα. κρόκου, ὀνύχων, καρυοφύλλου, ἀμώμου, κασίας"
+      },
+      {
+        "page": "169",
+        "line": "15",
+        "xml_id": "zerv-169-15",
+        "citation": "169.15",
+        "text": "ἀνὰ γράμματα ιβ. καρποβαλσάμου, βδελλίου ἀνὰ ὁμοίως. στύρακος"
+      },
+      {
+        "page": "169",
+        "line": "16",
+        "xml_id": "zerv-169-16",
+        "citation": "169.16",
+        "text": "γράμματα κ. μόσχου γράμματα γ. ῥοδομέλιτος τὸ ἱκανόν."
+      }
+    ],
+    "edition_key": "zervos"
+  },
+  "notes": [
+    "Distributive ἀνὰ governs the ingredient cluster 'Φύλλου, κόστου, βρύου ἤτοι ὕπνου, ῥόδων ξηρῶν, ναρδοστάχυος' with the shared quantity 'γοα.'.",
+    "Distributive ἀνὰ governs the ingredient cluster 'κρόκου, ὀνύχων, καρυοφύλλου, ἀμώμου, κασίας' with the shared quantity 'γράμματα ιβ.'; 'καρποβαλσάμου, βδελλίου' take the same amount by 'ὁμοίως'."
+  ],
+  "alignment_status": "pending",
+  "alignment_confidence": "pending",
+  "alignment_evidence": null,
+  "review_status": "reviewed_structured_authority",
+  "review_provenance": {
+    "authority_source": "reports/entity_review/structured/aetius_book16.json",
+    "authority_recipe_id": "aetius-16-144-2",
+    "authority_lemma": "ἄλλου θυμιάματος μοσχάτου σκευασία",
+    "model": "gpt-5.4",
+    "reasoning_effort": "high",
+    "dataset_key": "aetius_book16_myrepsika",
+    "entity_model_version": "1.2",
+    "authority_version": "2026-04-13-qty-alt-v1",
+    "prompt_version": "qty-alt-pass-v1",
+    "build_version": "2026-05-18T15:51:35Z"
+  },
+  "schema_version": "1.2",
+  "build_metadata": {
+    "builder": "scripts/recipes/build_recipe_entities.py",
+    "built_at": "2026-05-18T15:51:35Z",
+    "source_structured_authority": "reports/entity_review/structured/aetius_book16.json",
+    "authority_model": "gpt-5.4",
+    "authority_reasoning_effort": "high",
+    "dataset_key": "aetius_book16_myrepsika",
+    "entity_model_version": "1.2",
+    "authority_version": "2026-04-13-qty-alt-v1",
+    "prompt_version": "qty-alt-pass-v1",
+    "build_version": "2026-05-18T15:51:35Z"
+  },
+  "recipe_text_excerpt": "Φύλλου, κόστου, βρύου ἤτοι ὕπνου, ῥόδων ξηρῶν, ναρδοστάχυος, ἀνὰ γοα. κρόκου, ὀνύχων, καρυοφύλλου, ἀμώμου, κασίας ἀνὰ γράμματα ιβ. καρποβαλσάμου, βδελλίου",
+  "preparation": {
+    "preparation_id": "aetius-16-144-2:preparation:alloy-thymiamatos-moschatoy-skeyasia",
+    "preparation_urn": "urn:aos:recipe-preparation:aetius-16-144-2:preparation:alloy-thymiamatos-moschatoy-skeyasia",
+    "source_span": "ἄλλου θυμιάματος μοσχάτου σκευασία",
+    "surface_form": "ἄλλου θυμιάματος μοσχάτου σκευασία",
+    "normalized_label": "ἄλλου θυμιάματος μοσχάτου σκευασία",
+    "qualifiers": [],
+    "regimen_notes": [],
+    "certainty": "certain",
+    "notes": [
+      "The procedure text gives an ingredient list without an explicit verbal preparation step."
+    ],
+    "host_locator": {
+      "book": "16",
+      "chapter": "144",
+      "section": "2",
+      "citation": {
+        "start": "169.12",
+        "end": "169.16"
+      }
+    }
+  },
+  "ingredients": [
+    {
+      "ingredient_id": "aetius-16-144-2:ingredient:phyllon-1",
+      "ingredient_urn": "urn:aos:recipe-ingredient:aetius-16-144-2:ingredient:phyllon-1",
+      "source_span": "Φύλλου",
+      "surface_form": "Φύλλου",
+      "base_label": "φύλλον",
+      "normalized_label": "φύλλον",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [],
+      "quantities": [
+        {
+          "source_span": "γοα.",
+          "raw_number": null,
+          "normalized_number": null,
+          "raw_unit": "γοα.",
+          "normalized_unit": null,
+          "certainty": "uncertain",
+          "notes": [
+            "Abbreviated measure unresolved from the source alone."
+          ]
+        }
+      ],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "16",
+        "chapter": "144",
+        "section": "2",
+        "citation": {
+          "start": "169.12",
+          "end": "169.16"
+        }
+      }
+    },
+    {
+      "ingredient_id": "aetius-16-144-2:ingredient:kostos-2",
+      "ingredient_urn": "urn:aos:recipe-ingredient:aetius-16-144-2:ingredient:kostos-2",
+      "source_span": "κόστου",
+      "surface_form": "κόστου",
+      "base_label": "κόστος",
+      "normalized_label": "κόστος",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [],
+      "quantities": [
+        {
+          "source_span": "γοα.",
+          "raw_number": null,
+          "normalized_number": null,
+          "raw_unit": "γοα.",
+          "normalized_unit": null,
+          "certainty": "uncertain",
+          "notes": [
+            "Abbreviated measure unresolved from the source alone."
+          ]
+        }
+      ],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "16",
+        "chapter": "144",
+        "section": "2",
+        "citation": {
+          "start": "169.12",
+          "end": "169.16"
+        }
+      }
+    },
+    {
+      "ingredient_id": "aetius-16-144-2:ingredient:bryon-3",
+      "ingredient_urn": "urn:aos:recipe-ingredient:aetius-16-144-2:ingredient:bryon-3",
+      "source_span": "βρύου",
+      "surface_form": "βρύου",
+      "base_label": "βρύον",
+      "normalized_label": "βρύον",
+      "alternative_set_id": "alt-1",
+      "certainty": "certain",
+      "linked_process_ids": [],
+      "quantities": [
+        {
+          "source_span": "γοα.",
+          "raw_number": null,
+          "normalized_number": null,
+          "raw_unit": "γοα.",
+          "normalized_unit": null,
+          "certainty": "uncertain",
+          "notes": [
+            "Abbreviated measure unresolved from the source alone."
+          ]
+        }
+      ],
+      "qualifiers": [],
+      "notes": [
+        "Alternative marked with ἤτοι."
+      ],
+      "host_locator": {
+        "book": "16",
+        "chapter": "144",
+        "section": "2",
+        "citation": {
+          "start": "169.12",
+          "end": "169.16"
+        }
+      }
+    },
+    {
+      "ingredient_id": "aetius-16-144-2:ingredient:ypnos-4",
+      "ingredient_urn": "urn:aos:recipe-ingredient:aetius-16-144-2:ingredient:ypnos-4",
+      "source_span": "ὕπνου",
+      "surface_form": "ὕπνου",
+      "base_label": "ὕπνος",
+      "normalized_label": "ὕπνος",
+      "alternative_set_id": "alt-1",
+      "certainty": "certain",
+      "linked_process_ids": [],
+      "quantities": [
+        {
+          "source_span": "γοα.",
+          "raw_number": null,
+          "normalized_number": null,
+          "raw_unit": "γοα.",
+          "normalized_unit": null,
+          "certainty": "uncertain",
+          "notes": [
+            "Abbreviated measure unresolved from the source alone."
+          ]
+        }
+      ],
+      "qualifiers": [],
+      "notes": [
+        "Alternative marked with ἤτοι."
+      ],
+      "host_locator": {
+        "book": "16",
+        "chapter": "144",
+        "section": "2",
+        "citation": {
+          "start": "169.12",
+          "end": "169.16"
+        }
+      }
+    },
+    {
+      "ingredient_id": "aetius-16-144-2:ingredient:roda-xera-5",
+      "ingredient_urn": "urn:aos:recipe-ingredient:aetius-16-144-2:ingredient:roda-xera-5",
+      "source_span": "ῥόδων ξηρῶν",
+      "surface_form": "ῥόδων ξηρῶν",
+      "base_label": "ῥόδα",
+      "normalized_label": "ῥόδα ξηρά",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [],
+      "quantities": [
+        {
+          "source_span": "γοα.",
+          "raw_number": null,
+          "normalized_number": null,
+          "raw_unit": "γοα.",
+          "normalized_unit": null,
+          "certainty": "uncertain",
+          "notes": [
+            "Abbreviated measure unresolved from the source alone."
+          ]
+        }
+      ],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "16",
+        "chapter": "144",
+        "section": "2",
+        "citation": {
+          "start": "169.12",
+          "end": "169.16"
+        }
+      }
+    },
+    {
+      "ingredient_id": "aetius-16-144-2:ingredient:nardostachys-6",
+      "ingredient_urn": "urn:aos:recipe-ingredient:aetius-16-144-2:ingredient:nardostachys-6",
+      "source_span": "ναρδοστάχυος",
+      "surface_form": "ναρδοστάχυος",
+      "base_label": "ναρδόσταχυς",
+      "normalized_label": "ναρδόσταχυς",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [],
+      "quantities": [
+        {
+          "source_span": "γοα.",
+          "raw_number": null,
+          "normalized_number": null,
+          "raw_unit": "γοα.",
+          "normalized_unit": null,
+          "certainty": "uncertain",
+          "notes": [
+            "Abbreviated measure unresolved from the source alone."
+          ]
+        }
+      ],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "16",
+        "chapter": "144",
+        "section": "2",
+        "citation": {
+          "start": "169.12",
+          "end": "169.16"
+        }
+      }
+    },
+    {
+      "ingredient_id": "aetius-16-144-2:ingredient:krokos-7",
+      "ingredient_urn": "urn:aos:recipe-ingredient:aetius-16-144-2:ingredient:krokos-7",
+      "source_span": "κρόκου",
+      "surface_form": "κρόκου",
+      "base_label": "κρόκος",
+      "normalized_label": "κρόκος",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [],
+      "quantities": [
+        {
+          "source_span": "γράμματα ιβ.",
+          "raw_number": "ιβ",
+          "normalized_number": 12,
+          "raw_unit": "γράμματα",
+          "normalized_unit": "gramma",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "16",
+        "chapter": "144",
+        "section": "2",
+        "citation": {
+          "start": "169.12",
+          "end": "169.16"
+        }
+      }
+    },
+    {
+      "ingredient_id": "aetius-16-144-2:ingredient:onyx-8",
+      "ingredient_urn": "urn:aos:recipe-ingredient:aetius-16-144-2:ingredient:onyx-8",
+      "source_span": "ὀνύχων",
+      "surface_form": "ὀνύχων",
+      "base_label": "ὄνυξ",
+      "normalized_label": "ὄνυξ",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [],
+      "quantities": [
+        {
+          "source_span": "γράμματα ιβ.",
+          "raw_number": "ιβ",
+          "normalized_number": 12,
+          "raw_unit": "γράμματα",
+          "normalized_unit": "gramma",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "16",
+        "chapter": "144",
+        "section": "2",
+        "citation": {
+          "start": "169.12",
+          "end": "169.16"
+        }
+      }
+    },
+    {
+      "ingredient_id": "aetius-16-144-2:ingredient:karyophyllon-9",
+      "ingredient_urn": "urn:aos:recipe-ingredient:aetius-16-144-2:ingredient:karyophyllon-9",
+      "source_span": "καρυοφύλλου",
+      "surface_form": "καρυοφύλλου",
+      "base_label": "καρυόφυλλον",
+      "normalized_label": "καρυόφυλλον",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [],
+      "quantities": [
+        {
+          "source_span": "γράμματα ιβ.",
+          "raw_number": "ιβ",
+          "normalized_number": 12,
+          "raw_unit": "γράμματα",
+          "normalized_unit": "gramma",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "16",
+        "chapter": "144",
+        "section": "2",
+        "citation": {
+          "start": "169.12",
+          "end": "169.16"
+        }
+      }
+    },
+    {
+      "ingredient_id": "aetius-16-144-2:ingredient:amomon-10",
+      "ingredient_urn": "urn:aos:recipe-ingredient:aetius-16-144-2:ingredient:amomon-10",
+      "source_span": "ἀμώμου",
+      "surface_form": "ἀμώμου",
+      "base_label": "ἄμωμον",
+      "normalized_label": "ἄμωμον",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [],
+      "quantities": [
+        {
+          "source_span": "γράμματα ιβ.",
+          "raw_number": "ιβ",
+          "normalized_number": 12,
+          "raw_unit": "γράμματα",
+          "normalized_unit": "gramma",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "16",
+        "chapter": "144",
+        "section": "2",
+        "citation": {
+          "start": "169.12",
+          "end": "169.16"
+        }
+      }
+    },
+    {
+      "ingredient_id": "aetius-16-144-2:ingredient:kasia-11",
+      "ingredient_urn": "urn:aos:recipe-ingredient:aetius-16-144-2:ingredient:kasia-11",
+      "source_span": "κασίας",
+      "surface_form": "κασίας",
+      "base_label": "κασία",
+      "normalized_label": "κασία",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [],
+      "quantities": [
+        {
+          "source_span": "γράμματα ιβ.",
+          "raw_number": "ιβ",
+          "normalized_number": 12,
+          "raw_unit": "γράμματα",
+          "normalized_unit": "gramma",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "16",
+        "chapter": "144",
+        "section": "2",
+        "citation": {
+          "start": "169.12",
+          "end": "169.16"
+        }
+      }
+    },
+    {
+      "ingredient_id": "aetius-16-144-2:ingredient:karpobalsamon-12",
+      "ingredient_urn": "urn:aos:recipe-ingredient:aetius-16-144-2:ingredient:karpobalsamon-12",
+      "source_span": "καρποβαλσάμου",
+      "surface_form": "καρποβαλσάμου",
+      "base_label": "καρποβάλσαμον",
+      "normalized_label": "καρποβάλσαμον",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [],
+      "quantities": [
+        {
+          "source_span": "ὁμοίως",
+          "raw_number": null,
+          "normalized_number": 12,
+          "raw_unit": null,
+          "normalized_unit": "gramma",
+          "certainty": "uncertain",
+          "notes": [
+            "Quantity resolved anaphorically from the preceding 'γράμματα ιβ.'."
+          ]
+        }
+      ],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "16",
+        "chapter": "144",
+        "section": "2",
+        "citation": {
+          "start": "169.12",
+          "end": "169.16"
+        }
+      }
+    },
+    {
+      "ingredient_id": "aetius-16-144-2:ingredient:bdellion-13",
+      "ingredient_urn": "urn:aos:recipe-ingredient:aetius-16-144-2:ingredient:bdellion-13",
+      "source_span": "βδελλίου",
+      "surface_form": "βδελλίου",
+      "base_label": "βδέλλιον",
+      "normalized_label": "βδέλλιον",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [],
+      "quantities": [
+        {
+          "source_span": "ὁμοίως",
+          "raw_number": null,
+          "normalized_number": 12,
+          "raw_unit": null,
+          "normalized_unit": "gramma",
+          "certainty": "uncertain",
+          "notes": [
+            "Quantity resolved anaphorically from the preceding 'γράμματα ιβ.'."
+          ]
+        }
+      ],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "16",
+        "chapter": "144",
+        "section": "2",
+        "citation": {
+          "start": "169.12",
+          "end": "169.16"
+        }
+      }
+    },
+    {
+      "ingredient_id": "aetius-16-144-2:ingredient:styrax-14",
+      "ingredient_urn": "urn:aos:recipe-ingredient:aetius-16-144-2:ingredient:styrax-14",
+      "source_span": "στύρακος",
+      "surface_form": "στύρακος",
+      "base_label": "στύραξ",
+      "normalized_label": "στύραξ",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [],
+      "quantities": [
+        {
+          "source_span": "γράμματα κ.",
+          "raw_number": "κ",
+          "normalized_number": 20,
+          "raw_unit": "γράμματα",
+          "normalized_unit": "gramma",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "16",
+        "chapter": "144",
+        "section": "2",
+        "citation": {
+          "start": "169.12",
+          "end": "169.16"
+        }
+      }
+    },
+    {
+      "ingredient_id": "aetius-16-144-2:ingredient:moschos-15",
+      "ingredient_urn": "urn:aos:recipe-ingredient:aetius-16-144-2:ingredient:moschos-15",
+      "source_span": "μόσχου",
+      "surface_form": "μόσχου",
+      "base_label": "μόσχος",
+      "normalized_label": "μόσχος",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [],
+      "quantities": [
+        {
+          "source_span": "γράμματα γ.",
+          "raw_number": "γ",
+          "normalized_number": 3,
+          "raw_unit": "γράμματα",
+          "normalized_unit": "gramma",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "16",
+        "chapter": "144",
+        "section": "2",
+        "citation": {
+          "start": "169.12",
+          "end": "169.16"
+        }
+      }
+    },
+    {
+      "ingredient_id": "aetius-16-144-2:ingredient:rodomeliton-16",
+      "ingredient_urn": "urn:aos:recipe-ingredient:aetius-16-144-2:ingredient:rodomeliton-16",
+      "source_span": "ῥοδομέλιτος τὸ ἱκανόν",
+      "surface_form": "ῥοδομέλιτος τὸ ἱκανόν",
+      "base_label": "ῥοδομέλιτον",
+      "normalized_label": "ῥοδομέλιτον",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [],
+      "quantities": [
+        {
+          "source_span": "τὸ ἱκανόν",
+          "raw_number": null,
+          "normalized_number": null,
+          "raw_unit": null,
+          "normalized_unit": null,
+          "certainty": "certain",
+          "notes": [
+            "Indefinite sufficiency quantity."
+          ]
+        }
+      ],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "16",
+        "chapter": "144",
+        "section": "2",
+        "citation": {
+          "start": "169.12",
+          "end": "169.16"
+        }
+      }
+    }
+  ],
+  "processes": [],
+  "materials": [],
+  "people": [],
+  "places": [],
+  "uses": [],
+  "preparation_names": [],
+  "other_preparations_mentioned": [],
+  "works_mentioned": [],
+  "entities": [
+    {
+      "entity_urn": "urn:aos:recipe-preparation:aetius-16-144-2:preparation:alloy-thymiamatos-moschatoy-skeyasia",
+      "entity_type": "label",
+      "surface_form": "ἄλλου θυμιάματος μοσχάτου σκευασία",
+      "normalized_label": "ἄλλου θυμιάματος μοσχάτου σκευασία"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:aetius-16-144-2:ingredient:phyllon-1",
+      "entity_type": "ingredient",
+      "surface_form": "Φύλλου",
+      "normalized_label": "φύλλον"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:aetius-16-144-2:ingredient:kostos-2",
+      "entity_type": "ingredient",
+      "surface_form": "κόστου",
+      "normalized_label": "κόστος"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:aetius-16-144-2:ingredient:bryon-3",
+      "entity_type": "ingredient",
+      "surface_form": "βρύου",
+      "normalized_label": "βρύον"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:aetius-16-144-2:ingredient:ypnos-4",
+      "entity_type": "ingredient",
+      "surface_form": "ὕπνου",
+      "normalized_label": "ὕπνος"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:aetius-16-144-2:ingredient:roda-xera-5",
+      "entity_type": "ingredient",
+      "surface_form": "ῥόδων ξηρῶν",
+      "normalized_label": "ῥόδα ξηρά"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:aetius-16-144-2:ingredient:nardostachys-6",
+      "entity_type": "ingredient",
+      "surface_form": "ναρδοστάχυος",
+      "normalized_label": "ναρδόσταχυς"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:aetius-16-144-2:ingredient:krokos-7",
+      "entity_type": "ingredient",
+      "surface_form": "κρόκου",
+      "normalized_label": "κρόκος"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:aetius-16-144-2:ingredient:onyx-8",
+      "entity_type": "ingredient",
+      "surface_form": "ὀνύχων",
+      "normalized_label": "ὄνυξ"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:aetius-16-144-2:ingredient:karyophyllon-9",
+      "entity_type": "ingredient",
+      "surface_form": "καρυοφύλλου",
+      "normalized_label": "καρυόφυλλον"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:aetius-16-144-2:ingredient:amomon-10",
+      "entity_type": "ingredient",
+      "surface_form": "ἀμώμου",
+      "normalized_label": "ἄμωμον"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:aetius-16-144-2:ingredient:kasia-11",
+      "entity_type": "ingredient",
+      "surface_form": "κασίας",
+      "normalized_label": "κασία"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:aetius-16-144-2:ingredient:karpobalsamon-12",
+      "entity_type": "ingredient",
+      "surface_form": "καρποβαλσάμου",
+      "normalized_label": "καρποβάλσαμον"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:aetius-16-144-2:ingredient:bdellion-13",
+      "entity_type": "ingredient",
+      "surface_form": "βδελλίου",
+      "normalized_label": "βδέλλιον"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:aetius-16-144-2:ingredient:styrax-14",
+      "entity_type": "ingredient",
+      "surface_form": "στύρακος",
+      "normalized_label": "στύραξ"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:aetius-16-144-2:ingredient:moschos-15",
+      "entity_type": "ingredient",
+      "surface_form": "μόσχου",
+      "normalized_label": "μόσχος"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:aetius-16-144-2:ingredient:rodomeliton-16",
+      "entity_type": "ingredient",
+      "surface_form": "ῥοδομέλιτος τὸ ἱκανόν",
+      "normalized_label": "ῥοδομέλιτον"
+    }
+  ]
+}

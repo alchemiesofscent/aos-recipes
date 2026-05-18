@@ -1,0 +1,460 @@
+{
+  "dataset_key": "aetius_book1_oils",
+  "source_json": "experiments/aetius-book1-ch99-136-oils/data/aetius_book1_ch99_136_oils.json",
+  "host_raw_file": "tei/raw/tlg0718001.xml",
+  "work_slug": "aetius.b1.oils",
+  "recipe_id": "aetius-1-123",
+  "recipe_urn": "urn:aos:recipe:aetius-1-123",
+  "record_urn": "urn:aos:recipe-record:aetius-1-123",
+  "author": "Aëtius of Amida",
+  "work": "Libri medicinales",
+  "book": "1",
+  "chapter": "123",
+  "section": "123",
+  "chapter_name": "Στυράκινον",
+  "lemma": "Στυράκινον",
+  "text": "Στυράκινον σκευάζεται οὕτως· γλυκέος ἐλαίου καλλίστου ξ̸εʹ εἷς, στύρακος λιπαροῦ 𐆄 β. ἑψηθέντα δὲ ἐν διπλώματι ἐναποτίθεται τῷ ἐλαίῳ τὴν τοῦ στύρακος δύναμιν. θερμότερον δέ ἐστιν ἐπ' ὀλίγον τοῦτο τοῦ ἀνηθίνου, μαλακτικὸν δέ ἐστι σφόδρα καὶ διὰ τοῦτο ἁπαλύνει τὰ ἐσκληρυσμένα τῶν σωμάτων γενναίως.",
+  "original_text": "Στυράκινον σκευάζεται οὕτως· γλυκέος ἐλαίου καλλίστου ξ̸εʹ εἷς, στύρακος λιπαροῦ 𐆄 β. ἑψηθέντα δὲ ἐν διπλώματι ἐναποτίθεται τῷ ἐλαίῳ τὴν τοῦ στύρακος δύναμιν. θερμότερον δέ ἐστιν ἐπ' ὀλίγον τοῦτο τοῦ ἀνηθίνου, μαλακτικὸν δέ ἐστι σφόδρα καὶ διὰ τοῦτο ἁπαλύνει τὰ ἐσκληρυσμένα τῶν σωμάτων γενναίως.",
+  "text_source": "olivieri",
+  "emendations": [],
+  "emendation_count": 0,
+  "source_kind": null,
+  "entry_kind": "recipe",
+  "citation": {
+    "pages": [
+      "62"
+    ],
+    "start": {
+      "page": "62",
+      "line": "19",
+      "xml_id": "oliv-62-19"
+    },
+    "end": {
+      "page": "62",
+      "line": "23",
+      "xml_id": "oliv-62-23"
+    },
+    "citation": {
+      "start": "62.19",
+      "end": "62.23"
+    },
+    "page_spans": [
+      {
+        "page": "62",
+        "start_line": "19",
+        "end_line": "23"
+      }
+    ],
+    "lines": [
+      {
+        "page": "62",
+        "line": "19",
+        "xml_id": "oliv-62-19",
+        "break_no": false,
+        "text": "Στυράκινον σκευάζεται οὕτως· γλυκέος ἐλαίου καλλίστου ξ̸εʹ εἷς,",
+        "citation": "62.19"
+      },
+      {
+        "page": "62",
+        "line": "20",
+        "xml_id": "oliv-62-20",
+        "break_no": false,
+        "text": "στύρακος λιπαροῦ 𐆄 β. ἑψηθέντα δὲ ἐν διπλώματι ἐναποτίθεται τῷ",
+        "citation": "62.20"
+      },
+      {
+        "page": "62",
+        "line": "21",
+        "xml_id": "oliv-62-21",
+        "break_no": false,
+        "text": "ἐλαίῳ τὴν τοῦ στύρακος δύναμιν. θερμότερον δέ ἐστιν ἐπ' ὀλίγον",
+        "citation": "62.21"
+      },
+      {
+        "page": "62",
+        "line": "22",
+        "xml_id": "oliv-62-22",
+        "break_no": false,
+        "text": "τοῦτο τοῦ ἀνηθίνου, μαλακτικὸν δέ ἐστι σφόδρα καὶ διὰ τοῦτο ἁπα-",
+        "citation": "62.22"
+      },
+      {
+        "page": "62",
+        "line": "23",
+        "xml_id": "oliv-62-23",
+        "break_no": true,
+        "text": "λύνει τὰ ἐσκληρυσμένα τῶν σωμάτων γενναίως.",
+        "citation": "62.23"
+      }
+    ],
+    "edition_key": "olivieri"
+  },
+  "notes": [],
+  "alignment_status": "pending",
+  "alignment_confidence": "pending",
+  "alignment_evidence": null,
+  "review_status": "reviewed_structured_authority",
+  "review_provenance": {
+    "authority_source": "reports/entity_review/structured/aetius_book1.json",
+    "authority_recipe_id": "aetius-1-123",
+    "authority_lemma": "Στυράκινον",
+    "model": "gpt-5.4",
+    "reasoning_effort": "high",
+    "dataset_key": "aetius_book1_oils",
+    "entity_model_version": "1.2",
+    "authority_version": "2026-04-13-qty-alt-v1",
+    "prompt_version": "qty-alt-pass-v1",
+    "build_version": "2026-05-18T15:51:35Z"
+  },
+  "schema_version": "1.2",
+  "build_metadata": {
+    "builder": "scripts/recipes/build_recipe_entities.py",
+    "built_at": "2026-05-18T15:51:35Z",
+    "source_structured_authority": "reports/entity_review/structured/aetius_book1.json",
+    "authority_model": "gpt-5.4",
+    "authority_reasoning_effort": "high",
+    "dataset_key": "aetius_book1_oils",
+    "entity_model_version": "1.2",
+    "authority_version": "2026-04-13-qty-alt-v1",
+    "prompt_version": "qty-alt-pass-v1",
+    "build_version": "2026-05-18T15:51:35Z"
+  },
+  "recipe_text_excerpt": "Στυράκινον σκευάζεται οὕτως· γλυκέος ἐλαίου καλλίστου ξ̸εʹ εἷς, στύρακος λιπαροῦ 𐆄 β. ἑψηθέντα δὲ ἐν διπλώματι ἐναποτίθεται τῷ ἐλαίῳ τὴν",
+  "preparation": {
+    "preparation_id": "aetius-1-123:preparation:styrakinon",
+    "preparation_urn": "urn:aos:recipe-preparation:aetius-1-123:preparation:styrakinon",
+    "source_span": "Στυράκινον",
+    "surface_form": "Στυράκινον",
+    "normalized_label": "Στυράκινον",
+    "qualifiers": [],
+    "regimen_notes": [],
+    "certainty": "certain",
+    "notes": [],
+    "host_locator": {
+      "book": "1",
+      "chapter": "123",
+      "section": "123",
+      "citation": {
+        "start": "62.19",
+        "end": "62.23"
+      }
+    }
+  },
+  "ingredients": [
+    {
+      "ingredient_id": "aetius-1-123:ingredient:glyky-elaion-1",
+      "ingredient_urn": "urn:aos:recipe-ingredient:aetius-1-123:ingredient:glyky-elaion-1",
+      "source_span": "γλυκέος ἐλαίου καλλίστου",
+      "surface_form": "γλυκέος ἐλαίου καλλίστου",
+      "base_label": "ἔλαιον",
+      "normalized_label": "γλυκὺ ἔλαιον",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [
+        "aetius-1-123:process:enapotithesthai-2"
+      ],
+      "quantities": [
+        {
+          "source_span": "ξ̸εʹ εἷς",
+          "raw_number": "εἷς",
+          "normalized_number": 1,
+          "raw_unit": "ξ̸εʹ",
+          "normalized_unit": "xestes",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "qualifiers": [
+        {
+          "qualifier_type": "other",
+          "source_span": "καλλίστου",
+          "normalized_value": "κάλλιστον",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "123",
+        "section": "123",
+        "citation": {
+          "start": "62.19",
+          "end": "62.23"
+        }
+      }
+    },
+    {
+      "ingredient_id": "aetius-1-123:ingredient:styrax-liparos-2",
+      "ingredient_urn": "urn:aos:recipe-ingredient:aetius-1-123:ingredient:styrax-liparos-2",
+      "source_span": "στύρακος λιπαροῦ",
+      "surface_form": "στύρακος λιπαροῦ",
+      "base_label": "στύραξ",
+      "normalized_label": "στύραξ λιπαρός",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [
+        "aetius-1-123:process:epsein-1"
+      ],
+      "quantities": [
+        {
+          "source_span": "𐆄 β.",
+          "raw_number": "β",
+          "normalized_number": 2,
+          "raw_unit": "𐆄",
+          "normalized_unit": "uncia",
+          "certainty": "uncertain",
+          "notes": [
+            "Unit symbol expanded cautiously from the transmitted sign."
+          ]
+        }
+      ],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "123",
+        "section": "123",
+        "citation": {
+          "start": "62.19",
+          "end": "62.23"
+        }
+      }
+    }
+  ],
+  "processes": [
+    {
+      "process_id": "aetius-1-123:process:epsein-1",
+      "process_urn": "urn:aos:recipe-process:aetius-1-123:process:epsein-1",
+      "source_span": "ἑψηθέντα",
+      "surface_form": "ἑψηθέντα",
+      "normalized_label": "ἕψειν",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "location",
+          "source_span": "ἐν διπλώματι",
+          "normalized_value": "ἐν διπλώματι",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "certainty": "uncertain",
+      "notes": [
+        "The participle likely refers to the combined ingredients."
+      ],
+      "host_locator": {
+        "book": "1",
+        "chapter": "123",
+        "section": "123",
+        "citation": {
+          "start": "62.19",
+          "end": "62.23"
+        }
+      }
+    },
+    {
+      "process_id": "aetius-1-123:process:enapotithesthai-2",
+      "process_urn": "urn:aos:recipe-process:aetius-1-123:process:enapotithesthai-2",
+      "source_span": "ἐναποτίθεται",
+      "surface_form": "ἐναποτίθεται",
+      "normalized_label": "ἐναποτίθεσθαι",
+      "target_type": "ingredient",
+      "target_ids": [
+        "aetius-1-123:ingredient:glyky-elaion-1"
+      ],
+      "quantities": [],
+      "qualifiers": [],
+      "certainty": "uncertain",
+      "notes": [
+        "The deposited object is expressed as τὴν τοῦ στύρακος δύναμιν."
+      ],
+      "host_locator": {
+        "book": "1",
+        "chapter": "123",
+        "section": "123",
+        "citation": {
+          "start": "62.19",
+          "end": "62.23"
+        }
+      }
+    }
+  ],
+  "materials": [
+    {
+      "material_id": "aetius-1-123:material:diploma-1",
+      "material_urn": "urn:aos:recipe-material:aetius-1-123:material:diploma-1",
+      "source_span": "διπλώματι",
+      "surface_form": "διπλώματι",
+      "normalized_label": "δίπλωμα",
+      "role": "apparatus",
+      "certainty": "certain",
+      "quantities": [],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "123",
+        "section": "123",
+        "citation": {
+          "start": "62.19",
+          "end": "62.23"
+        }
+      }
+    }
+  ],
+  "people": [],
+  "places": [],
+  "uses": [
+    {
+      "use_id": "aetius-1-123:use:malaktikon-de-esti-sphodra-kai-dia-toyto-apalynei-ta-esklerysmena-ton-somaton-gennaios-1",
+      "use_urn": "urn:aos:recipe-use:aetius-1-123:use:malaktikon-de-esti-sphodra-kai-dia-toyto-apalynei-ta-esklerysmena-ton-somaton-gennaios-1",
+      "category": "medical",
+      "source_span": "μαλακτικὸν δέ ἐστι σφόδρα καὶ διὰ τοῦτο ἁπαλύνει τὰ ἐσκληρυσμένα τῶν σωμάτων γενναίως",
+      "snippet": "μαλακτικὸν δέ ἐστι σφόδρα καὶ διὰ τοῦτο ἁπαλύνει τὰ ἐσκληρυσμένα τῶν σωμάτων γενναίως",
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "123",
+        "section": "123",
+        "citation": {
+          "start": "62.19",
+          "end": "62.23"
+        }
+      }
+    }
+  ],
+  "preparation_names": [],
+  "other_preparations_mentioned": [
+    {
+      "reference_id": "aetius-1-123:reference:anethinon-1",
+      "reference_urn": "urn:aos:recipe-reference:aetius-1-123:reference:anethinon-1",
+      "source_span": "τοῦ ἀνηθίνου",
+      "surface_form": "τοῦ ἀνηθίνου",
+      "normalized_label": "ἀνηθίνον",
+      "certainty": "certain",
+      "notes": [
+        "Distinct preparation mentioned only for comparison, not as an alias of the recipe."
+      ],
+      "host_locator": {
+        "book": "1",
+        "chapter": "123",
+        "section": "123",
+        "citation": {
+          "start": "62.19",
+          "end": "62.23"
+        }
+      }
+    }
+  ],
+  "works_mentioned": [],
+  "entities": [
+    {
+      "entity_urn": "urn:aos:recipe-preparation:aetius-1-123:preparation:styrakinon",
+      "entity_type": "label",
+      "surface_form": "Στυράκινον",
+      "normalized_label": "Στυράκινον"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:aetius-1-123:ingredient:glyky-elaion-1",
+      "entity_type": "ingredient",
+      "surface_form": "γλυκέος ἐλαίου καλλίστου",
+      "normalized_label": "γλυκὺ ἔλαιον"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:aetius-1-123:ingredient:styrax-liparos-2",
+      "entity_type": "ingredient",
+      "surface_form": "στύρακος λιπαροῦ",
+      "normalized_label": "στύραξ λιπαρός"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:aetius-1-123:process:epsein-1",
+      "entity_type": "process",
+      "surface_form": "ἑψηθέντα",
+      "normalized_label": "ἕψειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:aetius-1-123:process:enapotithesthai-2",
+      "entity_type": "process",
+      "surface_form": "ἐναποτίθεται",
+      "normalized_label": "ἐναποτίθεσθαι"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-material:aetius-1-123:material:diploma-1",
+      "entity_type": "material",
+      "surface_form": "διπλώματι",
+      "normalized_label": "δίπλωμα"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-reference:aetius-1-123:reference:anethinon-1",
+      "entity_type": "preparation_reference",
+      "surface_form": "τοῦ ἀνηθίνου",
+      "normalized_label": "ἀνηθίνον"
+    }
+  ],
+  "canonical_file": "data/recipes/aetius-1-123.json",
+  "source_entry": {
+    "source_id": "aetius-1-123",
+    "derived_recipe_id": "aetius-1-123",
+    "entry_kind": null,
+    "source_kind": null,
+    "source_lines": null,
+    "section_markers": []
+  },
+  "entity_groups": {
+    "labels": [
+      {
+        "entity_urn": "urn:aos:recipe-preparation:aetius-1-123:preparation:styrakinon",
+        "surface_form": "Στυράκινον",
+        "normalized_label": "Στυράκινον"
+      }
+    ],
+    "ingredients": [
+      {
+        "entity_urn": "urn:aos:recipe-ingredient:aetius-1-123:ingredient:glyky-elaion-1",
+        "surface_form": "γλυκέος ἐλαίου καλλίστου",
+        "normalized_label": "γλυκὺ ἔλαιον",
+        "quantity_display": "ξ̸εʹ εἷς"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-ingredient:aetius-1-123:ingredient:styrax-liparos-2",
+        "surface_form": "στύρακος λιπαροῦ",
+        "normalized_label": "στύραξ λιπαρός",
+        "quantity_display": "𐆄 β."
+      }
+    ],
+    "processes": [
+      {
+        "entity_urn": "urn:aos:recipe-process:aetius-1-123:process:epsein-1",
+        "surface_form": "ἑψηθέντα",
+        "normalized_label": "ἕψειν"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-process:aetius-1-123:process:enapotithesthai-2",
+        "surface_form": "ἐναποτίθεται",
+        "normalized_label": "ἐναποτίθεσθαι"
+      }
+    ],
+    "tools": [
+      {
+        "entity_urn": "urn:aos:recipe-material:aetius-1-123:material:diploma-1",
+        "surface_form": "διπλώματι",
+        "normalized_label": "δίπλωμα"
+      }
+    ],
+    "other_preparations_mentioned": [
+      {
+        "entity_urn": "urn:aos:recipe-reference:aetius-1-123:reference:anethinon-1",
+        "surface_form": "τοῦ ἀνηθίνου",
+        "normalized_label": "ἀνηθίνον"
+      }
+    ],
+    "people": [],
+    "places": [],
+    "works_mentioned": [],
+    "preparation_names": []
+  }
+}

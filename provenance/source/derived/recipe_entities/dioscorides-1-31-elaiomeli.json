@@ -1,0 +1,321 @@
+{
+  "dataset_key": "dioscorides_book1_perfumes_resins",
+  "source_json": "experiments/dioscorides-book1-perfumes-resins/data/dioscorides_book1_perfumes_resins.json",
+  "host_raw_file": "tei/raw/tlg0656.tlg001.1st1K-grc1.xml",
+  "work_slug": "diosc.b1.recipes",
+  "recipe_id": "dioscorides-1-31-elaiomeli",
+  "recipe_urn": "urn:aos:recipe:dioscorides-1-31-elaiomeli",
+  "record_urn": "urn:aos:recipe-record:dioscorides-1-31-elaiomeli",
+  "author": "Dioscorides",
+  "work": "De materia medica",
+  "book": "1",
+  "chapter": "31",
+  "section": null,
+  "chapter_name": "ἐλαιόμελι",
+  "lemma": "ἐλαιόμελι",
+  "text": "31 ἐλαιόμελι κατὰ Πάλμυρα τῆς Συρίας ἐκ τοῦ στελέχους ἐλαιῶν μέλιτος παχύτερον ῥεῖ, γλυκὺ τῇ γεύσει, ὅπερ πινόμενον πλῆθος κυάθων δυεῖν μετὰ κοτύλης μιᾶς ὕδατος ἄγει κατὰ κοιλίαν ὠμὸν καὶ χολῶδες. ἔννωθροι δὲ γίνονται καὶ ἔκλυτοι οἱ λαμβάνοντες, ὅπερ οὐ δεῖ εὐλαβεῖσθαι, διεγείρειν δὲ αὐτοὺς μὴ ἐῶντας καταφέρεσθαι.",
+  "original_text": null,
+  "text_source": null,
+  "emendations": [],
+  "emendation_count": 0,
+  "source_kind": "main_text",
+  "entry_kind": "recipe",
+  "citation": {
+    "pages": [
+      "36"
+    ],
+    "start": {
+      "page": "36",
+      "line": "5"
+    },
+    "end": {
+      "page": "36",
+      "line": "10"
+    },
+    "citation": {
+      "start": "36.5",
+      "end": "36.10"
+    },
+    "page_spans": [
+      {
+        "page": "36",
+        "start_line": "5",
+        "end_line": "10"
+      }
+    ],
+    "lines": [
+      {
+        "page": "36",
+        "line": "5",
+        "break_no": false,
+        "text": "31 ἐλαιόμελι κατὰ Πάλμυρα τῆς Συρίας ἐκ τοῦ στελέχους",
+        "citation": "36.5"
+      },
+      {
+        "page": "36",
+        "line": "10",
+        "break_no": false,
+        "text": "ἐλαιῶν μέλιτος παχύτερον ῥεῖ, γλυκὺ τῇ γεύσει, ὅπερ πινόμενον πλῆθος κυάθων δυεῖν μετὰ κοτύλης μιᾶς ὕδατος ἄγει κατὰ κοιλίαν ὠμὸν καὶ χολῶδες. ἔννωθροι δὲ γίνονται καὶ ἔκλυτοι οἱ λαμβάνοντες, ὅπερ οὐ δεῖ εὐλαβεῖσθαι, διεγείρειν δὲ αὐτοὺς μὴ ἐῶντας καταφέρεσθαι.",
+        "citation": "36.10"
+      }
+    ],
+    "edition_key": "wellmann"
+  },
+  "notes": [
+    "Raw lines 1590-1633 are book 1 chapter 25 in this witness, although the prompt referred to chapter 35.",
+    "The perfume proemium is taken from the later transition at chapter 42 section 2 (raw lines 2306-2342), not from the chapter 25 κῦφι entry.",
+    "The ἰασμέλαιον entry is preserved only in the apparatus as an addition from another recension."
+  ],
+  "alignment_status": "pending",
+  "alignment_confidence": "pending",
+  "alignment_evidence": null,
+  "review_status": "reviewed_structured_authority",
+  "review_provenance": {
+    "authority_source": "reports/entity_review/structured/dioscorides.json",
+    "authority_recipe_id": "dioscorides-1-31-elaiomeli",
+    "authority_lemma": "ἐλαιόμελι",
+    "model": "gpt-5.4",
+    "reasoning_effort": "high",
+    "dataset_key": "dioscorides_book1_perfumes_resins",
+    "entity_model_version": "1.2",
+    "authority_version": "2026-04-13-qty-alt-v1",
+    "prompt_version": "qty-alt-pass-v1",
+    "build_version": "2026-05-18T15:51:35Z"
+  },
+  "schema_version": "1.2",
+  "build_metadata": {
+    "builder": "scripts/recipes/build_recipe_entities.py",
+    "built_at": "2026-05-18T15:51:35Z",
+    "source_structured_authority": "reports/entity_review/structured/dioscorides.json",
+    "authority_model": "gpt-5.4",
+    "authority_reasoning_effort": "high",
+    "dataset_key": "dioscorides_book1_perfumes_resins",
+    "entity_model_version": "1.2",
+    "authority_version": "2026-04-13-qty-alt-v1",
+    "prompt_version": "qty-alt-pass-v1",
+    "build_version": "2026-05-18T15:51:35Z"
+  },
+  "recipe_text_excerpt": "ἐλαιόμελι κατὰ Πάλμυρα τῆς Συρίας ἐκ τοῦ στελέχους ἐλαιῶν μέλιτος παχύτερον ῥεῖ, γλυκὺ τῇ γεύσει, ὅπερ πινόμενον πλῆθος κυάθων δυεῖν",
+  "preparation": {
+    "preparation_id": "dioscorides-1-31-elaiomeli:preparation:elaiomeli",
+    "preparation_urn": "urn:aos:recipe-preparation:dioscorides-1-31-elaiomeli:preparation:elaiomeli",
+    "source_span": "ἐλαιόμελι",
+    "surface_form": "ἐλαιόμελι",
+    "normalized_label": "ἐλαιόμελι",
+    "qualifiers": [],
+    "regimen_notes": [],
+    "certainty": "certain",
+    "notes": [],
+    "host_locator": {
+      "book": "1",
+      "chapter": "31",
+      "section": null,
+      "citation": {
+        "start": "36.5",
+        "end": "36.10"
+      }
+    }
+  },
+  "ingredients": [
+    {
+      "ingredient_id": "dioscorides-1-31-elaiomeli:ingredient:ydor-1",
+      "ingredient_urn": "urn:aos:recipe-ingredient:dioscorides-1-31-elaiomeli:ingredient:ydor-1",
+      "source_span": "κοτύλης μιᾶς ὕδατος",
+      "surface_form": "κοτύλης μιᾶς ὕδατος",
+      "base_label": "ὕδωρ",
+      "normalized_label": "ὕδωρ",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [
+        "dioscorides-1-31-elaiomeli:process:pinein-2"
+      ],
+      "quantities": [
+        {
+          "source_span": "κοτύλης μιᾶς",
+          "raw_number": "μιᾶς",
+          "normalized_number": 1,
+          "raw_unit": "κοτύλης",
+          "normalized_unit": "cotyle",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "31",
+        "section": null,
+        "citation": {
+          "start": "36.5",
+          "end": "36.10"
+        }
+      }
+    }
+  ],
+  "processes": [
+    {
+      "process_id": "dioscorides-1-31-elaiomeli:process:rein-1",
+      "process_urn": "urn:aos:recipe-process:dioscorides-1-31-elaiomeli:process:rein-1",
+      "source_span": "ῥεῖ",
+      "surface_form": "ῥεῖ",
+      "normalized_label": "ῥεῖν",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "location",
+          "source_span": "κατὰ Πάλμυρα τῆς Συρίας",
+          "normalized_value": "Πάλμυρα τῆς Συρίας",
+          "certainty": "certain",
+          "notes": []
+        },
+        {
+          "qualifier_type": "location",
+          "source_span": "ἐκ τοῦ στελέχους ἐλαιῶν",
+          "normalized_value": "ἐκ τοῦ στελέχους ἐλαιῶν",
+          "certainty": "certain",
+          "notes": []
+        },
+        {
+          "qualifier_type": "manner",
+          "source_span": "μέλιτος παχύτερον",
+          "normalized_value": "μέλιτος παχύτερον",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "31",
+        "section": null,
+        "citation": {
+          "start": "36.5",
+          "end": "36.10"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-1-31-elaiomeli:process:pinein-2",
+      "process_urn": "urn:aos:recipe-process:dioscorides-1-31-elaiomeli:process:pinein-2",
+      "source_span": "πινόμενον",
+      "surface_form": "πινόμενον",
+      "normalized_label": "πίνειν",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [
+        {
+          "source_span": "πλῆθος κυάθων δυεῖν",
+          "raw_number": "δυεῖν",
+          "normalized_number": 2,
+          "raw_unit": "κυάθων",
+          "normalized_unit": "cyathos",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "qualifiers": [
+        {
+          "qualifier_type": "other",
+          "source_span": "μετὰ κοτύλης μιᾶς ὕδατος",
+          "normalized_value": "μετὰ κοτύλης μιᾶς ὕδατος",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "31",
+        "section": null,
+        "citation": {
+          "start": "36.5",
+          "end": "36.10"
+        }
+      }
+    }
+  ],
+  "materials": [],
+  "people": [],
+  "places": [
+    {
+      "place_id": "dioscorides-1-31-elaiomeli:place:palmyra-tes-syrias-1",
+      "place_urn": "urn:aos:recipe-place:dioscorides-1-31-elaiomeli:place:palmyra-tes-syrias-1",
+      "source_span": "Πάλμυρα τῆς Συρίας",
+      "surface_form": "Πάλμυρα τῆς Συρίας",
+      "normalized_label": "Πάλμυρα τῆς Συρίας",
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "31",
+        "section": null,
+        "citation": {
+          "start": "36.5",
+          "end": "36.10"
+        }
+      }
+    }
+  ],
+  "uses": [
+    {
+      "use_id": "dioscorides-1-31-elaiomeli:use:oper-pinomenon-plethos-kyathon-dyein-meta-kotyles-mias-ydatos-agei-kata-koilian-omon-kai-cholodes-1",
+      "use_urn": "urn:aos:recipe-use:dioscorides-1-31-elaiomeli:use:oper-pinomenon-plethos-kyathon-dyein-meta-kotyles-mias-ydatos-agei-kata-koilian-omon-kai-cholodes-1",
+      "category": "medical",
+      "source_span": "ὅπερ πινόμενον πλῆθος κυάθων δυεῖν μετὰ κοτύλης μιᾶς ὕδατος ἄγει κατὰ κοιλίαν ὠμὸν καὶ χολῶδες.",
+      "snippet": "ὅπερ πινόμενον πλῆθος κυάθων δυεῖν μετὰ κοτύλης μιᾶς ὕδατος ἄγει κατὰ κοιλίαν ὠμὸν καὶ χολῶδες.",
+      "certainty": "certain",
+      "notes": [
+        "ἔννωθροι δὲ γίνονται καὶ ἔκλυτοι οἱ λαμβάνοντες, ὅπερ οὐ δεῖ εὐλαβεῖσθαι, διεγείρειν δὲ αὐτοὺς μὴ ἐῶντας καταφέρεσθαι."
+      ],
+      "host_locator": {
+        "book": "1",
+        "chapter": "31",
+        "section": null,
+        "citation": {
+          "start": "36.5",
+          "end": "36.10"
+        }
+      }
+    }
+  ],
+  "preparation_names": [],
+  "other_preparations_mentioned": [],
+  "works_mentioned": [],
+  "entities": [
+    {
+      "entity_urn": "urn:aos:recipe-preparation:dioscorides-1-31-elaiomeli:preparation:elaiomeli",
+      "entity_type": "label",
+      "surface_form": "ἐλαιόμελι",
+      "normalized_label": "ἐλαιόμελι"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:dioscorides-1-31-elaiomeli:ingredient:ydor-1",
+      "entity_type": "ingredient",
+      "surface_form": "κοτύλης μιᾶς ὕδατος",
+      "normalized_label": "ὕδωρ"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-1-31-elaiomeli:process:rein-1",
+      "entity_type": "process",
+      "surface_form": "ῥεῖ",
+      "normalized_label": "ῥεῖν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-1-31-elaiomeli:process:pinein-2",
+      "entity_type": "process",
+      "surface_form": "πινόμενον",
+      "normalized_label": "πίνειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-place:dioscorides-1-31-elaiomeli:place:palmyra-tes-syrias-1",
+      "entity_type": "place",
+      "surface_form": "Πάλμυρα τῆς Συρίας",
+      "normalized_label": "Πάλμυρα τῆς Συρίας"
+    }
+  ]
+}

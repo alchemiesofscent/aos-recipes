@@ -1,0 +1,1082 @@
+{
+  "dataset_key": "dioscorides_book2_fats",
+  "source_json": "experiments/dioscorides-book2-fats/data/dioscorides_book2_fats.json",
+  "host_raw_file": "tei/raw/tlg0656.tlg001.1st1K-grc1.xml",
+  "work_slug": "diosc.b2.fats",
+  "recipe_id": "dioscorides-2-72-boutyron",
+  "recipe_urn": "urn:aos:recipe:dioscorides-2-72-boutyron",
+  "record_urn": "urn:aos:recipe-record:dioscorides-2-72-boutyron",
+  "author": "Dioscorides",
+  "work": "De materia medica",
+  "book": "2",
+  "chapter": "72",
+  "section": "1-2",
+  "chapter_name": "βούτυρον",
+  "lemma": "βούτυρον",
+  "text": "βούτυρον σκευάζεται καλὸν ἐκ τοῦ λιπαρωτάτου γάλακτος· τοιοῦτον δέ ἐστι τὸ προβάτειον. γίνεται δὲ καὶ ἐκ τοῦ αἰγείου, ἐν ἀγγείοις κινουμένου τοῦ γάλακτος καὶ χωριζομένου τοῦ λίπους. ἔχεται δὲ δυνάμεως μαλακτικῆς, ἐλαιώδους, ὅθεν κοιλίαν τε ἐκλύει πλεῖον ποθὲν καὶ πρὸς τὰ θανάσιμα μὴ παρόντος ἐλαίου χρησιμεύει. μιχθὲν δὲ μέλιτι καὶ παρατριβὲν ὀδοντιάσεις ὠφελεῖ καὶ τοὺς τῶν οὔλων ὀδαξισμοὺς ἐπὶ παιδίων καὶ ἄφθας, ἔξωθεν δὲ καταπλασσόμενον εὔτροφον καὶ ἀψυδρακίωτον τηρεῖ τὸ σῶμα· ποιεῖ καὶ πρὸς φλεγμονὰς καὶ σκληρίας ὑστέρας τὸ μὴ δυσῶδες μηδὲ παλαιόν, καὶ πρὸς δυσεντερίας καὶ πρὸς κόλου ἕλκωσιν ἐγκλυζόμενον, πυοποιοῖς τε μείγνυται χρησίμως, καὶ μάλιστα ἐπὶ τῶν κατὰ τὰ νεῦρα καὶ μήνιγγας καὶ κύστεως τράχηλον τραυμάτων· τὸ δὲ αὐτὸ πληροῖ καὶ καθαίρει καὶ σαρκοῖ, καὶ τοὺς ὑπὸ ἀσπίδος δηχθέντας ἐπιτιθέμενον ὠφελεῖ, μείγνυται δὲ καὶ προσοψήμασιν ἀντὶ ἐλαίου τὸ νεαρὸν καὶ ἐν τοῖς πέμμασιν ἀντὶ στέατος.",
+  "original_text": null,
+  "text_source": null,
+  "emendations": [],
+  "emendation_count": 0,
+  "source_kind": "main_text",
+  "entry_kind": "recipe",
+  "citation": {
+    "pages": [
+      "146",
+      "147"
+    ],
+    "start": {
+      "page": "146",
+      "line": "10"
+    },
+    "end": {
+      "page": "147",
+      "line": "10"
+    },
+    "citation": {
+      "start": "146.10",
+      "end": "147.10"
+    },
+    "page_spans": [
+      {
+        "page": "146",
+        "start_line": "10",
+        "end_line": "15"
+      },
+      {
+        "page": "147",
+        "start_line": "1",
+        "end_line": "10"
+      }
+    ],
+    "lines": [
+      {
+        "page": "146",
+        "line": "10",
+        "break_no": false,
+        "raw_text": "72 βούτυρον σκευάζεται καλὸν ἐκ τοῦ λιπαρωτάτου γάλακτος· τοιοῦτον δέ ἐστι τὸ προβάτειον. γίνεται δὲ καὶ ἐκ τοῦ αἰγείου, ἐν ἀγγείοις κινουμένου τοῦ γάλακτος καὶ χωριζομένου",
+        "text": "βούτυρον σκευάζεται καλὸν ἐκ τοῦ λιπαρωτάτου γάλακτος· τοιοῦτον δέ ἐστι τὸ προβάτειον. γίνεται δὲ καὶ ἐκ τοῦ αἰγείου, ἐν ἀγγείοις κινουμένου τοῦ γάλακτος καὶ χωριζομένου",
+        "citation": "146.10"
+      },
+      {
+        "page": "146",
+        "line": "15",
+        "break_no": false,
+        "raw_text": "τοῦ λίπους. ἔχεται δὲ δυνάμεως μαλακτικῆς, ἐλαιώδους, ὅθεν κοιλίαν",
+        "text": "τοῦ λίπους. ἔχεται δὲ δυνάμεως μαλακτικῆς, ἐλαιώδους, ὅθεν κοιλίαν",
+        "citation": "146.15"
+      },
+      {
+        "page": "147",
+        "line": "1",
+        "break_no": false,
+        "raw_text": "τε ἐκλύει πλεῖον ποθὲν καὶ πρὸς τὰ θανάσιμα μὴ παρόντος ἐλαίου χρησιμεύει. μιχθὲν δὲ μέλιτι καὶ παρατριβὲν ὀδοντιάσεις ὠφελεῖ καὶ τοὺς τῶν οὔλων ὀδαξισμοὺς ἐπὶ παιδίων καὶ ἄφθας, ἔξωθεν δὲ καταπλασσόμενον εὔτροφον καὶ ἀψυδρακίωτον",
+        "text": "τε ἐκλύει πλεῖον ποθὲν καὶ πρὸς τὰ θανάσιμα μὴ παρόντος ἐλαίου χρησιμεύει. μιχθὲν δὲ μέλιτι καὶ παρατριβὲν ὀδοντιάσεις ὠφελεῖ καὶ τοὺς τῶν οὔλων ὀδαξισμοὺς ἐπὶ παιδίων καὶ ἄφθας, ἔξωθεν δὲ καταπλασσόμενον εὔτροφον καὶ ἀψυδρακίωτον",
+        "citation": "147.1"
+      },
+      {
+        "page": "147",
+        "line": "5",
+        "break_no": false,
+        "raw_text": "τηρεῖ τὸ σῶμα·",
+        "text": "τηρεῖ τὸ σῶμα·",
+        "citation": "147.5"
+      },
+      {
+        "page": "147",
+        "line": "5",
+        "break_no": false,
+        "raw_text": "ποιεῖ καὶ πρὸς φλεγμονὰς καὶ σκληρίας 2 ὑστέρας τὸ μὴ δυσῶδες μηδὲ παλαιόν, καὶ πρὸς δυσεντερίας καὶ πρὸς κόλου ἕλκωσιν ἐγκλυζόμενον, πυοποιοῖς τε μείγνυται χρησίμως, καὶ μάλιστα ἐπὶ τῶν κατὰ τὰ νεῦρα καὶ μήνιγγας καὶ κύστεως τράχηλον τραυμάτων· τὸ δὲ αὐτὸ πληροῖ καὶ καθαίρει",
+        "text": "ποιεῖ καὶ πρὸς φλεγμονὰς καὶ σκληρίας ὑστέρας τὸ μὴ δυσῶδες μηδὲ παλαιόν, καὶ πρὸς δυσεντερίας καὶ πρὸς κόλου ἕλκωσιν ἐγκλυζόμενον, πυοποιοῖς τε μείγνυται χρησίμως, καὶ μάλιστα ἐπὶ τῶν κατὰ τὰ νεῦρα καὶ μήνιγγας καὶ κύστεως τράχηλον τραυμάτων· τὸ δὲ αὐτὸ πληροῖ καὶ καθαίρει",
+        "citation": "147.5"
+      },
+      {
+        "page": "147",
+        "line": "10",
+        "break_no": false,
+        "raw_text": "καὶ σαρκοῖ, καὶ τοὺς ὑπὸ ἀσπίδος δηχθέντας ἐπιτιθέμενον ὠφελεῖ, μείγνυται δὲ καὶ προσοψήμασιν ἀντὶ ἐλαίου τὸ νεαρὸν καὶ ἐν τοῖς πέμμασιν ἀντὶ στέατος.",
+        "text": "καὶ σαρκοῖ, καὶ τοὺς ὑπὸ ἀσπίδος δηχθέντας ἐπιτιθέμενον ὠφελεῖ, μείγνυται δὲ καὶ προσοψήμασιν ἀντὶ ἐλαίου τὸ νεαρὸν καὶ ἐν τοῖς πέμμασιν ἀντὶ στέατος.",
+        "citation": "147.10"
+      }
+    ],
+    "edition_key": "wellmann"
+  },
+  "notes": [
+    "Book 2 fats slice split into logical preparation and technique units from chapters 72, 74, and 76.",
+    "Bare Arabic numerals in the raw witness are treated as structural or note noise and removed from display text, except parenthetical cross-references such as (I 68).",
+    "Section markers are stored separately and displayed near sentence boundaries as heuristic navigation aids.",
+    "The passage combines a brief preparation note with extensive therapeutic and culinary uses of βούτυρον."
+  ],
+  "alignment_status": "pending",
+  "alignment_confidence": "pending",
+  "alignment_evidence": null,
+  "review_status": "reviewed_structured_authority",
+  "review_provenance": {
+    "authority_source": "reports/entity_review/structured/dioscorides.json",
+    "authority_recipe_id": "dioscorides-2-72-boutyron",
+    "authority_lemma": "βούτυρον",
+    "model": "gpt-5.4",
+    "reasoning_effort": "high",
+    "dataset_key": "dioscorides_book2_fats",
+    "entity_model_version": "1.2",
+    "authority_version": "2026-04-13-qty-alt-v1",
+    "prompt_version": "qty-alt-pass-v1",
+    "build_version": "2026-05-18T15:51:35Z"
+  },
+  "schema_version": "1.2",
+  "build_metadata": {
+    "builder": "scripts/recipes/build_recipe_entities.py",
+    "built_at": "2026-05-18T15:51:35Z",
+    "source_structured_authority": "reports/entity_review/structured/dioscorides.json",
+    "authority_model": "gpt-5.4",
+    "authority_reasoning_effort": "high",
+    "dataset_key": "dioscorides_book2_fats",
+    "entity_model_version": "1.2",
+    "authority_version": "2026-04-13-qty-alt-v1",
+    "prompt_version": "qty-alt-pass-v1",
+    "build_version": "2026-05-18T15:51:35Z"
+  },
+  "recipe_text_excerpt": "βούτυρον σκευάζεται καλὸν ἐκ τοῦ λιπαρωτάτου γάλακτος· τοιοῦτον δέ ἐστι τὸ προβάτειον. γίνεται δὲ καὶ ἐκ τοῦ αἰγείου, ἐν ἀγγείοις",
+  "preparation": {
+    "preparation_id": "dioscorides-2-72-boutyron:preparation:boytyron",
+    "preparation_urn": "urn:aos:recipe-preparation:dioscorides-2-72-boutyron:preparation:boytyron",
+    "source_span": "βούτυρον",
+    "surface_form": "βούτυρον",
+    "normalized_label": "βούτυρον",
+    "qualifiers": [],
+    "regimen_notes": [],
+    "certainty": "certain",
+    "notes": [],
+    "host_locator": {
+      "book": "2",
+      "chapter": "72",
+      "section": "1-2",
+      "citation": {
+        "start": "146.10",
+        "end": "147.10"
+      }
+    }
+  },
+  "ingredients": [
+    {
+      "ingredient_id": "dioscorides-2-72-boutyron:ingredient:liparotaton-gala-1",
+      "ingredient_urn": "urn:aos:recipe-ingredient:dioscorides-2-72-boutyron:ingredient:liparotaton-gala-1",
+      "source_span": "τοῦ λιπαρωτάτου γάλακτος",
+      "surface_form": "τοῦ λιπαρωτάτου γάλακτος",
+      "base_label": "γάλα",
+      "normalized_label": "λιπαρώτατον γάλα",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [
+        "dioscorides-2-72-boutyron:process:skeyazesthai-1"
+      ],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "other",
+          "source_span": "λιπαρωτάτου",
+          "normalized_value": "very fatty",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "notes": [],
+      "host_locator": {
+        "book": "2",
+        "chapter": "72",
+        "section": "1-2",
+        "citation": {
+          "start": "146.10",
+          "end": "147.10"
+        }
+      }
+    },
+    {
+      "ingredient_id": "dioscorides-2-72-boutyron:ingredient:probeion-gala-2",
+      "ingredient_urn": "urn:aos:recipe-ingredient:dioscorides-2-72-boutyron:ingredient:probeion-gala-2",
+      "source_span": "τὸ προβάτειον",
+      "surface_form": "τὸ προβάτειον",
+      "base_label": "γάλα",
+      "normalized_label": "πρόβειον γάλα",
+      "alternative_set_id": null,
+      "certainty": "uncertain",
+      "linked_process_ids": [
+        "dioscorides-2-72-boutyron:process:skeyazesthai-1"
+      ],
+      "quantities": [],
+      "qualifiers": [],
+      "notes": [
+        "Head noun γάλα is restored from the immediately preceding context."
+      ],
+      "host_locator": {
+        "book": "2",
+        "chapter": "72",
+        "section": "1-2",
+        "citation": {
+          "start": "146.10",
+          "end": "147.10"
+        }
+      }
+    },
+    {
+      "ingredient_id": "dioscorides-2-72-boutyron:ingredient:aigeion-gala-3",
+      "ingredient_urn": "urn:aos:recipe-ingredient:dioscorides-2-72-boutyron:ingredient:aigeion-gala-3",
+      "source_span": "τοῦ αἰγείου",
+      "surface_form": "τοῦ αἰγείου",
+      "base_label": "γάλα",
+      "normalized_label": "αἴγειον γάλα",
+      "alternative_set_id": null,
+      "certainty": "uncertain",
+      "linked_process_ids": [
+        "dioscorides-2-72-boutyron:process:ginesthai-2",
+        "dioscorides-2-72-boutyron:process:kinein-3"
+      ],
+      "quantities": [],
+      "qualifiers": [],
+      "notes": [
+        "Head noun γάλα is restored from context."
+      ],
+      "host_locator": {
+        "book": "2",
+        "chapter": "72",
+        "section": "1-2",
+        "citation": {
+          "start": "146.10",
+          "end": "147.10"
+        }
+      }
+    },
+    {
+      "ingredient_id": "dioscorides-2-72-boutyron:ingredient:lipos-4",
+      "ingredient_urn": "urn:aos:recipe-ingredient:dioscorides-2-72-boutyron:ingredient:lipos-4",
+      "source_span": "τοῦ λίπους",
+      "surface_form": "τοῦ λίπους",
+      "base_label": "λίπος",
+      "normalized_label": "λίπος",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [
+        "dioscorides-2-72-boutyron:process:chorizein-4"
+      ],
+      "quantities": [],
+      "qualifiers": [],
+      "notes": [
+        "Named as the fat separated from the milk in the preparation description."
+      ],
+      "host_locator": {
+        "book": "2",
+        "chapter": "72",
+        "section": "1-2",
+        "citation": {
+          "start": "146.10",
+          "end": "147.10"
+        }
+      }
+    },
+    {
+      "ingredient_id": "dioscorides-2-72-boutyron:ingredient:meli-5",
+      "ingredient_urn": "urn:aos:recipe-ingredient:dioscorides-2-72-boutyron:ingredient:meli-5",
+      "source_span": "μέλιτι",
+      "surface_form": "μέλιτι",
+      "base_label": "μέλι",
+      "normalized_label": "μέλι",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [
+        "dioscorides-2-72-boutyron:process:mignynai-6",
+        "dioscorides-2-72-boutyron:process:mignynai-10",
+        "dioscorides-2-72-boutyron:process:mignynai-12"
+      ],
+      "quantities": [],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "2",
+        "chapter": "72",
+        "section": "1-2",
+        "citation": {
+          "start": "146.10",
+          "end": "147.10"
+        }
+      }
+    }
+  ],
+  "processes": [
+    {
+      "process_id": "dioscorides-2-72-boutyron:process:skeyazesthai-1",
+      "process_urn": "urn:aos:recipe-process:dioscorides-2-72-boutyron:process:skeyazesthai-1",
+      "source_span": "σκευάζεται",
+      "surface_form": "σκευάζεται",
+      "normalized_label": "σκευάζεσθαι",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "other",
+          "source_span": "καλὸν",
+          "normalized_value": "good",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "2",
+        "chapter": "72",
+        "section": "1-2",
+        "citation": {
+          "start": "146.10",
+          "end": "147.10"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-2-72-boutyron:process:ginesthai-2",
+      "process_urn": "urn:aos:recipe-process:dioscorides-2-72-boutyron:process:ginesthai-2",
+      "source_span": "γίνεται",
+      "surface_form": "γίνεται",
+      "normalized_label": "γίνεσθαι",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "other",
+          "source_span": "ἐκ τοῦ αἰγείου",
+          "normalized_value": "from goat milk",
+          "certainty": "uncertain",
+          "notes": [
+            "The noun γάλα is omitted in the source and restored from context."
+          ]
+        }
+      ],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "2",
+        "chapter": "72",
+        "section": "1-2",
+        "citation": {
+          "start": "146.10",
+          "end": "147.10"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-2-72-boutyron:process:kinein-3",
+      "process_urn": "urn:aos:recipe-process:dioscorides-2-72-boutyron:process:kinein-3",
+      "source_span": "κινουμένου",
+      "surface_form": "κινουμένου",
+      "normalized_label": "κινεῖν",
+      "target_type": "ingredient",
+      "target_ids": [
+        "dioscorides-2-72-boutyron:ingredient:aigeion-gala-3"
+      ],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "location",
+          "source_span": "ἐν ἀγγείοις",
+          "normalized_value": "in vessels",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "2",
+        "chapter": "72",
+        "section": "1-2",
+        "citation": {
+          "start": "146.10",
+          "end": "147.10"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-2-72-boutyron:process:chorizein-4",
+      "process_urn": "urn:aos:recipe-process:dioscorides-2-72-boutyron:process:chorizein-4",
+      "source_span": "χωριζομένου",
+      "surface_form": "χωριζομένου",
+      "normalized_label": "χωρίζειν",
+      "target_type": "ingredient",
+      "target_ids": [
+        "dioscorides-2-72-boutyron:ingredient:lipos-4"
+      ],
+      "quantities": [],
+      "qualifiers": [],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "2",
+        "chapter": "72",
+        "section": "1-2",
+        "citation": {
+          "start": "146.10",
+          "end": "147.10"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-2-72-boutyron:process:pinein-5",
+      "process_urn": "urn:aos:recipe-process:dioscorides-2-72-boutyron:process:pinein-5",
+      "source_span": "ποθὲν",
+      "surface_form": "ποθὲν",
+      "normalized_label": "πίνειν",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "other",
+          "source_span": "πλεῖον",
+          "normalized_value": "in greater quantity",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "2",
+        "chapter": "72",
+        "section": "1-2",
+        "citation": {
+          "start": "146.10",
+          "end": "147.10"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-2-72-boutyron:process:mignynai-6",
+      "process_urn": "urn:aos:recipe-process:dioscorides-2-72-boutyron:process:mignynai-6",
+      "source_span": "μιχθὲν",
+      "surface_form": "μιχθὲν",
+      "normalized_label": "μιγνύναι",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "other",
+          "source_span": "μέλιτι",
+          "normalized_value": "with honey",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "2",
+        "chapter": "72",
+        "section": "1-2",
+        "citation": {
+          "start": "146.10",
+          "end": "147.10"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-2-72-boutyron:process:paratribein-7",
+      "process_urn": "urn:aos:recipe-process:dioscorides-2-72-boutyron:process:paratribein-7",
+      "source_span": "παρατριβὲν",
+      "surface_form": "παρατριβὲν",
+      "normalized_label": "παρατρίβειν",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "2",
+        "chapter": "72",
+        "section": "1-2",
+        "citation": {
+          "start": "146.10",
+          "end": "147.10"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-2-72-boutyron:process:kataplassein-8",
+      "process_urn": "urn:aos:recipe-process:dioscorides-2-72-boutyron:process:kataplassein-8",
+      "source_span": "καταπλασσόμενον",
+      "surface_form": "καταπλασσόμενον",
+      "normalized_label": "καταπλάσσειν",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "location",
+          "source_span": "ἔξωθεν",
+          "normalized_value": "externally",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "2",
+        "chapter": "72",
+        "section": "1-2",
+        "citation": {
+          "start": "146.10",
+          "end": "147.10"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-2-72-boutyron:process:egklyzein-9",
+      "process_urn": "urn:aos:recipe-process:dioscorides-2-72-boutyron:process:egklyzein-9",
+      "source_span": "ἐγκλυζόμενον",
+      "surface_form": "ἐγκλυζόμενον",
+      "normalized_label": "ἐγκλύζειν",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "2",
+        "chapter": "72",
+        "section": "1-2",
+        "citation": {
+          "start": "146.10",
+          "end": "147.10"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-2-72-boutyron:process:mignynai-10",
+      "process_urn": "urn:aos:recipe-process:dioscorides-2-72-boutyron:process:mignynai-10",
+      "source_span": "μείγνυται",
+      "surface_form": "μείγνυται",
+      "normalized_label": "μιγνύναι",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "other",
+          "source_span": "πυοποιοῖς",
+          "normalized_value": "with suppurative remedies",
+          "certainty": "uncertain",
+          "notes": [
+            "The substantival adjective names a remedy class rather than a specific named preparation."
+          ]
+        },
+        {
+          "qualifier_type": "manner",
+          "source_span": "χρησίμως",
+          "normalized_value": "usefully",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "2",
+        "chapter": "72",
+        "section": "1-2",
+        "citation": {
+          "start": "146.10",
+          "end": "147.10"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-2-72-boutyron:process:epitithenai-11",
+      "process_urn": "urn:aos:recipe-process:dioscorides-2-72-boutyron:process:epitithenai-11",
+      "source_span": "ἐπιτιθέμενον",
+      "surface_form": "ἐπιτιθέμενον",
+      "normalized_label": "ἐπιτιθέναι",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "2",
+        "chapter": "72",
+        "section": "1-2",
+        "citation": {
+          "start": "146.10",
+          "end": "147.10"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-2-72-boutyron:process:mignynai-12",
+      "process_urn": "urn:aos:recipe-process:dioscorides-2-72-boutyron:process:mignynai-12",
+      "source_span": "μείγνυται",
+      "surface_form": "μείγνυται",
+      "normalized_label": "μιγνύναι",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "other",
+          "source_span": "τὸ νεαρὸν",
+          "normalized_value": "fresh butter",
+          "certainty": "certain",
+          "notes": []
+        },
+        {
+          "qualifier_type": "other",
+          "source_span": "προσοψήμασιν ἀντὶ ἐλαίου",
+          "normalized_value": "into side-dishes instead of oil",
+          "certainty": "certain",
+          "notes": []
+        },
+        {
+          "qualifier_type": "other",
+          "source_span": "ἐν τοῖς πέμμασιν ἀντὶ στέατος",
+          "normalized_value": "in pastries instead of suet",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "2",
+        "chapter": "72",
+        "section": "1-2",
+        "citation": {
+          "start": "146.10",
+          "end": "147.10"
+        }
+      }
+    }
+  ],
+  "materials": [
+    {
+      "material_id": "dioscorides-2-72-boutyron:material:aggeion-1",
+      "material_urn": "urn:aos:recipe-material:dioscorides-2-72-boutyron:material:aggeion-1",
+      "source_span": "ἀγγείοις",
+      "surface_form": "ἀγγείοις",
+      "normalized_label": "ἀγγεῖον",
+      "role": "apparatus",
+      "certainty": "certain",
+      "quantities": [],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "2",
+        "chapter": "72",
+        "section": "1-2",
+        "citation": {
+          "start": "146.10",
+          "end": "147.10"
+        }
+      }
+    }
+  ],
+  "people": [],
+  "places": [],
+  "uses": [
+    {
+      "use_id": "dioscorides-2-72-boutyron:use:koilian-te-eklyei-pleion-pothen-1",
+      "use_urn": "urn:aos:recipe-use:dioscorides-2-72-boutyron:use:koilian-te-eklyei-pleion-pothen-1",
+      "category": "medical",
+      "source_span": "κοιλίαν τε ἐκλύει πλεῖον ποθὲν",
+      "snippet": "κοιλίαν τε ἐκλύει πλεῖον ποθὲν",
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "2",
+        "chapter": "72",
+        "section": "1-2",
+        "citation": {
+          "start": "146.10",
+          "end": "147.10"
+        }
+      }
+    },
+    {
+      "use_id": "dioscorides-2-72-boutyron:use:pros-ta-thanasima-me-parontos-elaioy-chresimeyei-2",
+      "use_urn": "urn:aos:recipe-use:dioscorides-2-72-boutyron:use:pros-ta-thanasima-me-parontos-elaioy-chresimeyei-2",
+      "category": "medical",
+      "source_span": "πρὸς τὰ θανάσιμα μὴ παρόντος ἐλαίου χρησιμεύει",
+      "snippet": "πρὸς τὰ θανάσιμα μὴ παρόντος ἐλαίου χρησιμεύει",
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "2",
+        "chapter": "72",
+        "section": "1-2",
+        "citation": {
+          "start": "146.10",
+          "end": "147.10"
+        }
+      }
+    },
+    {
+      "use_id": "dioscorides-2-72-boutyron:use:michthen-de-meliti-kai-paratriben-odontiaseis-ophelei-3",
+      "use_urn": "urn:aos:recipe-use:dioscorides-2-72-boutyron:use:michthen-de-meliti-kai-paratriben-odontiaseis-ophelei-3",
+      "category": "medical",
+      "source_span": "μιχθὲν δὲ μέλιτι καὶ παρατριβὲν ὀδοντιάσεις ὠφελεῖ",
+      "snippet": "μιχθὲν δὲ μέλιτι καὶ παρατριβὲν ὀδοντιάσεις ὠφελεῖ",
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "2",
+        "chapter": "72",
+        "section": "1-2",
+        "citation": {
+          "start": "146.10",
+          "end": "147.10"
+        }
+      }
+    },
+    {
+      "use_id": "dioscorides-2-72-boutyron:use:kai-toys-ton-oylon-odaxismoys-epi-paidion-kai-aphthas-4",
+      "use_urn": "urn:aos:recipe-use:dioscorides-2-72-boutyron:use:kai-toys-ton-oylon-odaxismoys-epi-paidion-kai-aphthas-4",
+      "category": "medical",
+      "source_span": "καὶ τοὺς τῶν οὔλων ὀδαξισμοὺς ἐπὶ παιδίων καὶ ἄφθας",
+      "snippet": "καὶ τοὺς τῶν οὔλων ὀδαξισμοὺς ἐπὶ παιδίων καὶ ἄφθας",
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "2",
+        "chapter": "72",
+        "section": "1-2",
+        "citation": {
+          "start": "146.10",
+          "end": "147.10"
+        }
+      }
+    },
+    {
+      "use_id": "dioscorides-2-72-boutyron:use:exothen-de-kataplassomenon-eytrophon-kai-apsydrakioton-terei-to-soma-5",
+      "use_urn": "urn:aos:recipe-use:dioscorides-2-72-boutyron:use:exothen-de-kataplassomenon-eytrophon-kai-apsydrakioton-terei-to-soma-5",
+      "category": "cosmetic",
+      "source_span": "ἔξωθεν δὲ καταπλασσόμενον εὔτροφον καὶ ἀψυδρακίωτον τηρεῖ τὸ σῶμα",
+      "snippet": "ἔξωθεν δὲ καταπλασσόμενον εὔτροφον καὶ ἀψυδρακίωτον τηρεῖ τὸ σῶμα",
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "2",
+        "chapter": "72",
+        "section": "1-2",
+        "citation": {
+          "start": "146.10",
+          "end": "147.10"
+        }
+      }
+    },
+    {
+      "use_id": "dioscorides-2-72-boutyron:use:poiei-kai-pros-phlegmonas-kai-sklerias-ysteras-to-me-dysodes-mede-palaion-6",
+      "use_urn": "urn:aos:recipe-use:dioscorides-2-72-boutyron:use:poiei-kai-pros-phlegmonas-kai-sklerias-ysteras-to-me-dysodes-mede-palaion-6",
+      "category": "medical",
+      "source_span": "ποιεῖ καὶ πρὸς φλεγμονὰς καὶ σκληρίας ὑστέρας τὸ μὴ δυσῶδες μηδὲ παλαιόν",
+      "snippet": "ποιεῖ καὶ πρὸς φλεγμονὰς καὶ σκληρίας ὑστέρας τὸ μὴ δυσῶδες μηδὲ παλαιόν",
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "2",
+        "chapter": "72",
+        "section": "1-2",
+        "citation": {
+          "start": "146.10",
+          "end": "147.10"
+        }
+      }
+    },
+    {
+      "use_id": "dioscorides-2-72-boutyron:use:kai-pros-dysenterias-kai-pros-koloy-elkosin-egklyzomenon-7",
+      "use_urn": "urn:aos:recipe-use:dioscorides-2-72-boutyron:use:kai-pros-dysenterias-kai-pros-koloy-elkosin-egklyzomenon-7",
+      "category": "medical",
+      "source_span": "καὶ πρὸς δυσεντερίας καὶ πρὸς κόλου ἕλκωσιν ἐγκλυζόμενον",
+      "snippet": "καὶ πρὸς δυσεντερίας καὶ πρὸς κόλου ἕλκωσιν ἐγκλυζόμενον",
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "2",
+        "chapter": "72",
+        "section": "1-2",
+        "citation": {
+          "start": "146.10",
+          "end": "147.10"
+        }
+      }
+    },
+    {
+      "use_id": "dioscorides-2-72-boutyron:use:pyopoiois-te-meignytai-chresimos-kai-malista-epi-ton-kata-ta-neyra-kai-meniggas-kai-kysteos-trachelon-traymaton-8",
+      "use_urn": "urn:aos:recipe-use:dioscorides-2-72-boutyron:use:pyopoiois-te-meignytai-chresimos-kai-malista-epi-ton-kata-ta-neyra-kai-meniggas-kai-kysteos-trachelon-traymaton-8",
+      "category": "medical",
+      "source_span": "πυοποιοῖς τε μείγνυται χρησίμως, καὶ μάλιστα ἐπὶ τῶν κατὰ τὰ νεῦρα καὶ μήνιγγας καὶ κύστεως τράχηλον τραυμάτων",
+      "snippet": "πυοποιοῖς τε μείγνυται χρησίμως, καὶ μάλιστα ἐπὶ τῶν κατὰ τὰ νεῦρα καὶ μήνιγγας καὶ κύστεως τράχηλον τραυμάτων",
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "2",
+        "chapter": "72",
+        "section": "1-2",
+        "citation": {
+          "start": "146.10",
+          "end": "147.10"
+        }
+      }
+    },
+    {
+      "use_id": "dioscorides-2-72-boutyron:use:to-de-ayto-pleroi-kai-kathairei-kai-sarkoi-9",
+      "use_urn": "urn:aos:recipe-use:dioscorides-2-72-boutyron:use:to-de-ayto-pleroi-kai-kathairei-kai-sarkoi-9",
+      "category": "medical",
+      "source_span": "τὸ δὲ αὐτὸ πληροῖ καὶ καθαίρει καὶ σαρκοῖ",
+      "snippet": "τὸ δὲ αὐτὸ πληροῖ καὶ καθαίρει καὶ σαρκοῖ",
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "2",
+        "chapter": "72",
+        "section": "1-2",
+        "citation": {
+          "start": "146.10",
+          "end": "147.10"
+        }
+      }
+    },
+    {
+      "use_id": "dioscorides-2-72-boutyron:use:kai-toys-ypo-aspidos-dechthentas-epitithemenon-ophelei-10",
+      "use_urn": "urn:aos:recipe-use:dioscorides-2-72-boutyron:use:kai-toys-ypo-aspidos-dechthentas-epitithemenon-ophelei-10",
+      "category": "medical",
+      "source_span": "καὶ τοὺς ὑπὸ ἀσπίδος δηχθέντας ἐπιτιθέμενον ὠφελεῖ",
+      "snippet": "καὶ τοὺς ὑπὸ ἀσπίδος δηχθέντας ἐπιτιθέμενον ὠφελεῖ",
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "2",
+        "chapter": "72",
+        "section": "1-2",
+        "citation": {
+          "start": "146.10",
+          "end": "147.10"
+        }
+      }
+    },
+    {
+      "use_id": "dioscorides-2-72-boutyron:use:meignytai-de-kai-prosopsemasin-anti-elaioy-to-nearon-kai-en-tois-pemmasin-anti-steatos-11",
+      "use_urn": "urn:aos:recipe-use:dioscorides-2-72-boutyron:use:meignytai-de-kai-prosopsemasin-anti-elaioy-to-nearon-kai-en-tois-pemmasin-anti-steatos-11",
+      "category": "other",
+      "source_span": "μείγνυται δὲ καὶ προσοψήμασιν ἀντὶ ἐλαίου τὸ νεαρὸν καὶ ἐν τοῖς πέμμασιν ἀντὶ στέατος",
+      "snippet": "μείγνυται δὲ καὶ προσοψήμασιν ἀντὶ ἐλαίου τὸ νεαρὸν καὶ ἐν τοῖς πέμμασιν ἀντὶ στέατος",
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "2",
+        "chapter": "72",
+        "section": "1-2",
+        "citation": {
+          "start": "146.10",
+          "end": "147.10"
+        }
+      }
+    }
+  ],
+  "preparation_names": [],
+  "other_preparations_mentioned": [
+    {
+      "reference_id": "dioscorides-2-72-boutyron:reference:pyopoion-1",
+      "reference_urn": "urn:aos:recipe-reference:dioscorides-2-72-boutyron:reference:pyopoion-1",
+      "source_span": "πυοποιοῖς",
+      "surface_form": "πυοποιοῖς",
+      "normalized_label": "πυοποιόν",
+      "certainty": "uncertain",
+      "notes": [
+        "Substantival adjective referring to suppurative remedies as a preparation class."
+      ],
+      "host_locator": {
+        "book": "2",
+        "chapter": "72",
+        "section": "1-2",
+        "citation": {
+          "start": "146.10",
+          "end": "147.10"
+        }
+      }
+    },
+    {
+      "reference_id": "dioscorides-2-72-boutyron:reference:prosopsema-2",
+      "reference_urn": "urn:aos:recipe-reference:dioscorides-2-72-boutyron:reference:prosopsema-2",
+      "source_span": "προσοψήμασιν",
+      "surface_form": "προσοψήμασιν",
+      "normalized_label": "προσόψημα",
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "2",
+        "chapter": "72",
+        "section": "1-2",
+        "citation": {
+          "start": "146.10",
+          "end": "147.10"
+        }
+      }
+    },
+    {
+      "reference_id": "dioscorides-2-72-boutyron:reference:pemma-3",
+      "reference_urn": "urn:aos:recipe-reference:dioscorides-2-72-boutyron:reference:pemma-3",
+      "source_span": "πέμμασιν",
+      "surface_form": "πέμμασιν",
+      "normalized_label": "πέμμα",
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "2",
+        "chapter": "72",
+        "section": "1-2",
+        "citation": {
+          "start": "146.10",
+          "end": "147.10"
+        }
+      }
+    }
+  ],
+  "works_mentioned": [],
+  "entities": [
+    {
+      "entity_urn": "urn:aos:recipe-preparation:dioscorides-2-72-boutyron:preparation:boytyron",
+      "entity_type": "label",
+      "surface_form": "βούτυρον",
+      "normalized_label": "βούτυρον"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:dioscorides-2-72-boutyron:ingredient:liparotaton-gala-1",
+      "entity_type": "ingredient",
+      "surface_form": "τοῦ λιπαρωτάτου γάλακτος",
+      "normalized_label": "λιπαρώτατον γάλα"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:dioscorides-2-72-boutyron:ingredient:probeion-gala-2",
+      "entity_type": "ingredient",
+      "surface_form": "τὸ προβάτειον",
+      "normalized_label": "πρόβειον γάλα"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:dioscorides-2-72-boutyron:ingredient:aigeion-gala-3",
+      "entity_type": "ingredient",
+      "surface_form": "τοῦ αἰγείου",
+      "normalized_label": "αἴγειον γάλα"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:dioscorides-2-72-boutyron:ingredient:lipos-4",
+      "entity_type": "ingredient",
+      "surface_form": "τοῦ λίπους",
+      "normalized_label": "λίπος"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:dioscorides-2-72-boutyron:ingredient:meli-5",
+      "entity_type": "ingredient",
+      "surface_form": "μέλιτι",
+      "normalized_label": "μέλι"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-2-72-boutyron:process:skeyazesthai-1",
+      "entity_type": "process",
+      "surface_form": "σκευάζεται",
+      "normalized_label": "σκευάζεσθαι"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-2-72-boutyron:process:ginesthai-2",
+      "entity_type": "process",
+      "surface_form": "γίνεται",
+      "normalized_label": "γίνεσθαι"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-2-72-boutyron:process:kinein-3",
+      "entity_type": "process",
+      "surface_form": "κινουμένου",
+      "normalized_label": "κινεῖν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-2-72-boutyron:process:chorizein-4",
+      "entity_type": "process",
+      "surface_form": "χωριζομένου",
+      "normalized_label": "χωρίζειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-2-72-boutyron:process:pinein-5",
+      "entity_type": "process",
+      "surface_form": "ποθὲν",
+      "normalized_label": "πίνειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-2-72-boutyron:process:mignynai-6",
+      "entity_type": "process",
+      "surface_form": "μιχθὲν",
+      "normalized_label": "μιγνύναι"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-2-72-boutyron:process:paratribein-7",
+      "entity_type": "process",
+      "surface_form": "παρατριβὲν",
+      "normalized_label": "παρατρίβειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-2-72-boutyron:process:kataplassein-8",
+      "entity_type": "process",
+      "surface_form": "καταπλασσόμενον",
+      "normalized_label": "καταπλάσσειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-2-72-boutyron:process:egklyzein-9",
+      "entity_type": "process",
+      "surface_form": "ἐγκλυζόμενον",
+      "normalized_label": "ἐγκλύζειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-2-72-boutyron:process:mignynai-10",
+      "entity_type": "process",
+      "surface_form": "μείγνυται",
+      "normalized_label": "μιγνύναι"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-2-72-boutyron:process:epitithenai-11",
+      "entity_type": "process",
+      "surface_form": "ἐπιτιθέμενον",
+      "normalized_label": "ἐπιτιθέναι"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-2-72-boutyron:process:mignynai-12",
+      "entity_type": "process",
+      "surface_form": "μείγνυται",
+      "normalized_label": "μιγνύναι"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-material:dioscorides-2-72-boutyron:material:aggeion-1",
+      "entity_type": "material",
+      "surface_form": "ἀγγείοις",
+      "normalized_label": "ἀγγεῖον"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-reference:dioscorides-2-72-boutyron:reference:pyopoion-1",
+      "entity_type": "preparation_reference",
+      "surface_form": "πυοποιοῖς",
+      "normalized_label": "πυοποιόν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-reference:dioscorides-2-72-boutyron:reference:prosopsema-2",
+      "entity_type": "preparation_reference",
+      "surface_form": "προσοψήμασιν",
+      "normalized_label": "προσόψημα"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-reference:dioscorides-2-72-boutyron:reference:pemma-3",
+      "entity_type": "preparation_reference",
+      "surface_form": "πέμμασιν",
+      "normalized_label": "πέμμα"
+    }
+  ]
+}

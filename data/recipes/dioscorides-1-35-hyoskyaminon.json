@@ -1,0 +1,847 @@
+{
+  "dataset_key": "dioscorides_book1_perfumes_resins",
+  "source_json": "experiments/dioscorides-book1-perfumes-resins/data/dioscorides_book1_perfumes_resins.json",
+  "host_raw_file": "tei/raw/tlg0656.tlg001.1st1K-grc1.xml",
+  "work_slug": "diosc.b1.recipes",
+  "recipe_id": "dioscorides-1-35-hyoskyaminon",
+  "recipe_urn": "urn:aos:recipe:dioscorides-1-35-hyoskyaminon",
+  "record_urn": "urn:aos:recipe-record:dioscorides-1-35-hyoskyaminon",
+  "author": "Dioscorides",
+  "work": "De materia medica",
+  "book": "1",
+  "chapter": "35",
+  "section": null,
+  "chapter_name": "ὑοσκυάμινον",
+  "lemma": "ὑοσκυάμινον",
+  "text": "35 καὶ τὸ ὑ ὑοσκυάμινον δὲ σκευάζεται οὕτως· λαβὼν τὸν λευκὸν καρπὸν ξηρόν, πρόσφατον καὶ κόψας ὕδατι θερμῷ φύρα, ὡς προείρηται ἐπὶ τοῦ ἀμυγδαλίνου, ἡλιάζων τε τὰ ὑπὸ χεῖρα ξηραινόμενα αὐτοῦ μέρη τῷ ὅλῳ ἀνάμισγε καὶ τὸ αὐτὸ ποίει, ἄχρις ὅτου ἂν μελανθῇ καὶ δυσῶδες γένηται, εἶτα διὰ φορμοῦ ἐκθλίψας ἀποτίθεσο. ποιεῖ δὲ καὶ πρὸς ὠταλγίας καὶ πεσσοῖς μείγνυται μαλακτικὸν ὄν.",
+  "original_text": null,
+  "text_source": null,
+  "emendations": [],
+  "emendation_count": 0,
+  "source_kind": "main_text",
+  "entry_kind": "recipe",
+  "citation": {
+    "pages": [
+      "38",
+      "39"
+    ],
+    "start": {
+      "page": "38",
+      "line": "15"
+    },
+    "end": {
+      "page": "39",
+      "line": "1"
+    },
+    "citation": {
+      "start": "38.15",
+      "end": "39.1"
+    },
+    "page_spans": [
+      {
+        "page": "38",
+        "start_line": "15",
+        "end_line": "15"
+      },
+      {
+        "page": "39",
+        "start_line": "1",
+        "end_line": "1"
+      }
+    ],
+    "lines": [
+      {
+        "page": "38",
+        "line": "15",
+        "break_no": false,
+        "text": "35 καὶ τὸ ὑ ὑοσκυάμινον δὲ σκευάζεται οὕτως· λαβὼν τὸν λευκὸν καρπὸν ξηρόν, πρόσφατον καὶ κόψας ὕδατι θερμῷ φύρα, ὡς προείρηται ἐπὶ τοῦ ἀμυγδαλίνου, ἡλιάζων τε τὰ ὑπὸ χεῖρα ξηραινόμενα αὐτοῦ μέρη τῷ ὅλῳ ἀνάμισγε καὶ τὸ αὐτὸ ποίει,",
+        "citation": "38.15"
+      },
+      {
+        "page": "39",
+        "line": "1",
+        "break_no": false,
+        "text": "ἄχρις ὅτου ἂν μελανθῇ καὶ δυσῶδες γένηται, εἶτα διὰ φορμοῦ ἐκθλίψας ἀποτίθεσο. ποιεῖ δὲ καὶ πρὸς ὠταλγίας καὶ πεσσοῖς μείγνυται μαλακτικὸν ὄν.",
+        "citation": "39.1"
+      }
+    ],
+    "edition_key": "wellmann"
+  },
+  "notes": [
+    "Raw lines 1590-1633 are book 1 chapter 25 in this witness, although the prompt referred to chapter 35.",
+    "The perfume proemium is taken from the later transition at chapter 42 section 2 (raw lines 2306-2342), not from the chapter 25 κῦφι entry.",
+    "The ἰασμέλαιον entry is preserved only in the apparatus as an addition from another recension."
+  ],
+  "alignment_status": "pending",
+  "alignment_confidence": "pending",
+  "alignment_evidence": null,
+  "review_status": "reviewed_structured_authority",
+  "review_provenance": {
+    "authority_source": "reports/entity_review/structured/dioscorides.json",
+    "authority_recipe_id": "dioscorides-1-35-hyoskyaminon",
+    "authority_lemma": "ὑοσκυάμινον",
+    "model": "gpt-5.4",
+    "reasoning_effort": "high",
+    "dataset_key": "dioscorides_book1_perfumes_resins",
+    "entity_model_version": "1.2",
+    "authority_version": "2026-04-13-qty-alt-v1",
+    "prompt_version": "qty-alt-pass-v1",
+    "build_version": "2026-05-18T15:51:35Z"
+  },
+  "schema_version": "1.2",
+  "build_metadata": {
+    "builder": "scripts/recipes/build_recipe_entities.py",
+    "built_at": "2026-05-18T15:51:35Z",
+    "source_structured_authority": "reports/entity_review/structured/dioscorides.json",
+    "authority_model": "gpt-5.4",
+    "authority_reasoning_effort": "high",
+    "dataset_key": "dioscorides_book1_perfumes_resins",
+    "entity_model_version": "1.2",
+    "authority_version": "2026-04-13-qty-alt-v1",
+    "prompt_version": "qty-alt-pass-v1",
+    "build_version": "2026-05-18T15:51:35Z"
+  },
+  "recipe_text_excerpt": "καὶ τὸ ὑ ὑοσκυάμινον δὲ σκευάζεται οὕτως· λαβὼν τὸν λευκὸν καρπὸν ξηρόν, πρόσφατον καὶ κόψας ὕδατι θερμῷ φύρα, ὡς προείρηται",
+  "preparation": {
+    "preparation_id": "dioscorides-1-35-hyoskyaminon:preparation:yoskyaminon",
+    "preparation_urn": "urn:aos:recipe-preparation:dioscorides-1-35-hyoskyaminon:preparation:yoskyaminon",
+    "source_span": "ὑοσκυάμινον",
+    "surface_form": "ὑοσκυάμινον",
+    "normalized_label": "ὑοσκυάμινον",
+    "qualifiers": [],
+    "regimen_notes": [],
+    "certainty": "certain",
+    "notes": [
+      "Used lemma because the running text does not restate the preparation name cleanly."
+    ],
+    "host_locator": {
+      "book": "1",
+      "chapter": "35",
+      "section": null,
+      "citation": {
+        "start": "38.15",
+        "end": "39.1"
+      }
+    }
+  },
+  "ingredients": [
+    {
+      "ingredient_id": "dioscorides-1-35-hyoskyaminon:ingredient:leykos-karpos-1",
+      "ingredient_urn": "urn:aos:recipe-ingredient:dioscorides-1-35-hyoskyaminon:ingredient:leykos-karpos-1",
+      "source_span": "τὸν λευκὸν καρπὸν ξηρόν, πρόσφατον",
+      "surface_form": "τὸν λευκὸν καρπὸν ξηρόν, πρόσφατον",
+      "base_label": "καρπός",
+      "normalized_label": "λευκὸς καρπός",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [
+        "dioscorides-1-35-hyoskyaminon:process:lambanein-1",
+        "dioscorides-1-35-hyoskyaminon:process:koptein-2",
+        "dioscorides-1-35-hyoskyaminon:process:phyran-3"
+      ],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "other",
+          "source_span": "ξηρόν",
+          "normalized_value": "ξηρός",
+          "certainty": "certain",
+          "notes": []
+        },
+        {
+          "qualifier_type": "other",
+          "source_span": "πρόσφατον",
+          "normalized_value": "πρόσφατος",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "35",
+        "section": null,
+        "citation": {
+          "start": "38.15",
+          "end": "39.1"
+        }
+      }
+    },
+    {
+      "ingredient_id": "dioscorides-1-35-hyoskyaminon:ingredient:ydor-2",
+      "ingredient_urn": "urn:aos:recipe-ingredient:dioscorides-1-35-hyoskyaminon:ingredient:ydor-2",
+      "source_span": "ὕδατι θερμῷ",
+      "surface_form": "ὕδατι θερμῷ",
+      "base_label": "ὕδωρ",
+      "normalized_label": "ὕδωρ",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [
+        "dioscorides-1-35-hyoskyaminon:process:phyran-3"
+      ],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "temperature",
+          "source_span": "θερμῷ",
+          "normalized_value": "θερμός",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "35",
+        "section": null,
+        "citation": {
+          "start": "38.15",
+          "end": "39.1"
+        }
+      }
+    },
+    {
+      "ingredient_id": "dioscorides-1-35-hyoskyaminon:ingredient:mere-3",
+      "ingredient_urn": "urn:aos:recipe-ingredient:dioscorides-1-35-hyoskyaminon:ingredient:mere-3",
+      "source_span": "τὰ ὑπὸ χεῖρα ξηραινόμενα αὐτοῦ μέρη",
+      "surface_form": "τὰ ὑπὸ χεῖρα ξηραινόμενα αὐτοῦ μέρη",
+      "base_label": "μέρη",
+      "normalized_label": "μέρη",
+      "alternative_set_id": null,
+      "certainty": "uncertain",
+      "linked_process_ids": [
+        "dioscorides-1-35-hyoskyaminon:process:eliazein-4",
+        "dioscorides-1-35-hyoskyaminon:process:xerainein-5",
+        "dioscorides-1-35-hyoskyaminon:process:anamisgein-6"
+      ],
+      "quantities": [],
+      "qualifiers": [],
+      "notes": [
+        "τὸ αὐτοῦ ἀναφέρεται πιθανῶς εἰς τὰ μέρη τοῦ φυτικοῦ ὑλικοῦ ὑπὸ παρασκευήν."
+      ],
+      "host_locator": {
+        "book": "1",
+        "chapter": "35",
+        "section": null,
+        "citation": {
+          "start": "38.15",
+          "end": "39.1"
+        }
+      }
+    }
+  ],
+  "processes": [
+    {
+      "process_id": "dioscorides-1-35-hyoskyaminon:process:lambanein-1",
+      "process_urn": "urn:aos:recipe-process:dioscorides-1-35-hyoskyaminon:process:lambanein-1",
+      "source_span": "λαβὼν",
+      "surface_form": "λαβὼν",
+      "normalized_label": "λαμβάνειν",
+      "target_type": "ingredient",
+      "target_ids": [
+        "dioscorides-1-35-hyoskyaminon:ingredient:leykos-karpos-1"
+      ],
+      "quantities": [],
+      "qualifiers": [],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "35",
+        "section": null,
+        "citation": {
+          "start": "38.15",
+          "end": "39.1"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-1-35-hyoskyaminon:process:koptein-2",
+      "process_urn": "urn:aos:recipe-process:dioscorides-1-35-hyoskyaminon:process:koptein-2",
+      "source_span": "κόψας",
+      "surface_form": "κόψας",
+      "normalized_label": "κόπτειν",
+      "target_type": "ingredient",
+      "target_ids": [
+        "dioscorides-1-35-hyoskyaminon:ingredient:leykos-karpos-1"
+      ],
+      "quantities": [],
+      "qualifiers": [],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "35",
+        "section": null,
+        "citation": {
+          "start": "38.15",
+          "end": "39.1"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-1-35-hyoskyaminon:process:phyran-3",
+      "process_urn": "urn:aos:recipe-process:dioscorides-1-35-hyoskyaminon:process:phyran-3",
+      "source_span": "φύρα",
+      "surface_form": "φύρα",
+      "normalized_label": "φυρᾶν",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "other",
+          "source_span": "ὡς προείρηται ἐπὶ τοῦ ἀμυγδαλίνου",
+          "normalized_value": "ὡς προείρηται ἐπὶ τοῦ ἀμυγδαλίνου",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "35",
+        "section": null,
+        "citation": {
+          "start": "38.15",
+          "end": "39.1"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-1-35-hyoskyaminon:process:eliazein-4",
+      "process_urn": "urn:aos:recipe-process:dioscorides-1-35-hyoskyaminon:process:eliazein-4",
+      "source_span": "ἡλιάζων",
+      "surface_form": "ἡλιάζων",
+      "normalized_label": "ἡλιάζειν",
+      "target_type": "ingredient",
+      "target_ids": [
+        "dioscorides-1-35-hyoskyaminon:ingredient:mere-3"
+      ],
+      "quantities": [],
+      "qualifiers": [],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "35",
+        "section": null,
+        "citation": {
+          "start": "38.15",
+          "end": "39.1"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-1-35-hyoskyaminon:process:xerainein-5",
+      "process_urn": "urn:aos:recipe-process:dioscorides-1-35-hyoskyaminon:process:xerainein-5",
+      "source_span": "ξηραινόμενα",
+      "surface_form": "ξηραινόμενα",
+      "normalized_label": "ξηραίνειν",
+      "target_type": "ingredient",
+      "target_ids": [
+        "dioscorides-1-35-hyoskyaminon:ingredient:mere-3"
+      ],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "location",
+          "source_span": "ὑπὸ χεῖρα",
+          "normalized_value": "ὑπὸ χεῖρα",
+          "certainty": "uncertain",
+          "notes": []
+        }
+      ],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "35",
+        "section": null,
+        "citation": {
+          "start": "38.15",
+          "end": "39.1"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-1-35-hyoskyaminon:process:anamisgein-6",
+      "process_urn": "urn:aos:recipe-process:dioscorides-1-35-hyoskyaminon:process:anamisgein-6",
+      "source_span": "ἀνάμισγε",
+      "surface_form": "ἀνάμισγε",
+      "normalized_label": "ἀναμίσγειν",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "other",
+          "source_span": "τῷ ὅλῳ",
+          "normalized_value": "τῷ ὅλῳ",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "35",
+        "section": null,
+        "citation": {
+          "start": "38.15",
+          "end": "39.1"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-1-35-hyoskyaminon:process:poiein-7",
+      "process_urn": "urn:aos:recipe-process:dioscorides-1-35-hyoskyaminon:process:poiein-7",
+      "source_span": "ποίει",
+      "surface_form": "ποίει",
+      "normalized_label": "ποιεῖν",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "other",
+          "source_span": "τὸ αὐτὸ",
+          "normalized_value": "τὸ αὐτὸ",
+          "certainty": "certain",
+          "notes": []
+        },
+        {
+          "qualifier_type": "duration",
+          "source_span": "ἄχρις ὅτου ἂν μελανθῇ καὶ δυσῶδες γένηται",
+          "normalized_value": null,
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "35",
+        "section": null,
+        "citation": {
+          "start": "38.15",
+          "end": "39.1"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-1-35-hyoskyaminon:process:melainesthai-8",
+      "process_urn": "urn:aos:recipe-process:dioscorides-1-35-hyoskyaminon:process:melainesthai-8",
+      "source_span": "μελανθῇ",
+      "surface_form": "μελανθῇ",
+      "normalized_label": "μελαίνεσθαι",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "35",
+        "section": null,
+        "citation": {
+          "start": "38.15",
+          "end": "39.1"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-1-35-hyoskyaminon:process:gignesthai-9",
+      "process_urn": "urn:aos:recipe-process:dioscorides-1-35-hyoskyaminon:process:gignesthai-9",
+      "source_span": "γένηται",
+      "surface_form": "γένηται",
+      "normalized_label": "γίγνεσθαι",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "other",
+          "source_span": "δυσῶδες",
+          "normalized_value": "δυσῶδες",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "35",
+        "section": null,
+        "citation": {
+          "start": "38.15",
+          "end": "39.1"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-1-35-hyoskyaminon:process:ekthlibein-10",
+      "process_urn": "urn:aos:recipe-process:dioscorides-1-35-hyoskyaminon:process:ekthlibein-10",
+      "source_span": "ἐκθλίψας",
+      "surface_form": "ἐκθλίψας",
+      "normalized_label": "ἐκθλίβειν",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "other",
+          "source_span": "διὰ φορμοῦ",
+          "normalized_value": "διὰ φορμοῦ",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "35",
+        "section": null,
+        "citation": {
+          "start": "38.15",
+          "end": "39.1"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-1-35-hyoskyaminon:process:apotithesthai-11",
+      "process_urn": "urn:aos:recipe-process:dioscorides-1-35-hyoskyaminon:process:apotithesthai-11",
+      "source_span": "ἀποτίθεσο",
+      "surface_form": "ἀποτίθεσο",
+      "normalized_label": "ἀποτίθεσθαι",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "35",
+        "section": null,
+        "citation": {
+          "start": "38.15",
+          "end": "39.1"
+        }
+      }
+    }
+  ],
+  "materials": [
+    {
+      "material_id": "dioscorides-1-35-hyoskyaminon:material:phormos-1",
+      "material_urn": "urn:aos:recipe-material:dioscorides-1-35-hyoskyaminon:material:phormos-1",
+      "source_span": "φορμοῦ",
+      "surface_form": "φορμοῦ",
+      "normalized_label": "φορμός",
+      "role": "apparatus",
+      "certainty": "certain",
+      "quantities": [],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "35",
+        "section": null,
+        "citation": {
+          "start": "38.15",
+          "end": "39.1"
+        }
+      }
+    }
+  ],
+  "people": [],
+  "places": [],
+  "uses": [
+    {
+      "use_id": "dioscorides-1-35-hyoskyaminon:use:pros-otalgias-1",
+      "use_urn": "urn:aos:recipe-use:dioscorides-1-35-hyoskyaminon:use:pros-otalgias-1",
+      "category": "medical",
+      "source_span": "πρὸς ὠταλγίας",
+      "snippet": "πρὸς ὠταλγίας",
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "35",
+        "section": null,
+        "citation": {
+          "start": "38.15",
+          "end": "39.1"
+        }
+      }
+    },
+    {
+      "use_id": "dioscorides-1-35-hyoskyaminon:use:pessois-meignytai-malaktikon-on-2",
+      "use_urn": "urn:aos:recipe-use:dioscorides-1-35-hyoskyaminon:use:pessois-meignytai-malaktikon-on-2",
+      "category": "medical",
+      "source_span": "πεσσοῖς μείγνυται μαλακτικὸν ὄν",
+      "snippet": "πεσσοῖς μείγνυται μαλακτικὸν ὄν",
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "35",
+        "section": null,
+        "citation": {
+          "start": "38.15",
+          "end": "39.1"
+        }
+      }
+    }
+  ],
+  "preparation_names": [],
+  "other_preparations_mentioned": [
+    {
+      "reference_id": "dioscorides-1-35-hyoskyaminon:reference:amygdalinon-1",
+      "reference_urn": "urn:aos:recipe-reference:dioscorides-1-35-hyoskyaminon:reference:amygdalinon-1",
+      "source_span": "ἀμυγδαλίνου",
+      "surface_form": "ἀμυγδαλίνου",
+      "normalized_label": "ἀμυγδάλινον",
+      "certainty": "uncertain",
+      "notes": [
+        "Referenced as a distinct preparation in comparison, not as an alias of the present recipe."
+      ],
+      "host_locator": {
+        "book": "1",
+        "chapter": "35",
+        "section": null,
+        "citation": {
+          "start": "38.15",
+          "end": "39.1"
+        }
+      }
+    }
+  ],
+  "works_mentioned": [],
+  "entities": [
+    {
+      "entity_urn": "urn:aos:recipe-preparation:dioscorides-1-35-hyoskyaminon:preparation:yoskyaminon",
+      "entity_type": "label",
+      "surface_form": "ὑοσκυάμινον",
+      "normalized_label": "ὑοσκυάμινον"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:dioscorides-1-35-hyoskyaminon:ingredient:leykos-karpos-1",
+      "entity_type": "ingredient",
+      "surface_form": "τὸν λευκὸν καρπὸν ξηρόν, πρόσφατον",
+      "normalized_label": "λευκὸς καρπός"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:dioscorides-1-35-hyoskyaminon:ingredient:ydor-2",
+      "entity_type": "ingredient",
+      "surface_form": "ὕδατι θερμῷ",
+      "normalized_label": "ὕδωρ"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:dioscorides-1-35-hyoskyaminon:ingredient:mere-3",
+      "entity_type": "ingredient",
+      "surface_form": "τὰ ὑπὸ χεῖρα ξηραινόμενα αὐτοῦ μέρη",
+      "normalized_label": "μέρη"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-1-35-hyoskyaminon:process:lambanein-1",
+      "entity_type": "process",
+      "surface_form": "λαβὼν",
+      "normalized_label": "λαμβάνειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-1-35-hyoskyaminon:process:koptein-2",
+      "entity_type": "process",
+      "surface_form": "κόψας",
+      "normalized_label": "κόπτειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-1-35-hyoskyaminon:process:phyran-3",
+      "entity_type": "process",
+      "surface_form": "φύρα",
+      "normalized_label": "φυρᾶν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-1-35-hyoskyaminon:process:eliazein-4",
+      "entity_type": "process",
+      "surface_form": "ἡλιάζων",
+      "normalized_label": "ἡλιάζειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-1-35-hyoskyaminon:process:xerainein-5",
+      "entity_type": "process",
+      "surface_form": "ξηραινόμενα",
+      "normalized_label": "ξηραίνειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-1-35-hyoskyaminon:process:anamisgein-6",
+      "entity_type": "process",
+      "surface_form": "ἀνάμισγε",
+      "normalized_label": "ἀναμίσγειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-1-35-hyoskyaminon:process:poiein-7",
+      "entity_type": "process",
+      "surface_form": "ποίει",
+      "normalized_label": "ποιεῖν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-1-35-hyoskyaminon:process:melainesthai-8",
+      "entity_type": "process",
+      "surface_form": "μελανθῇ",
+      "normalized_label": "μελαίνεσθαι"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-1-35-hyoskyaminon:process:gignesthai-9",
+      "entity_type": "process",
+      "surface_form": "γένηται",
+      "normalized_label": "γίγνεσθαι"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-1-35-hyoskyaminon:process:ekthlibein-10",
+      "entity_type": "process",
+      "surface_form": "ἐκθλίψας",
+      "normalized_label": "ἐκθλίβειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-1-35-hyoskyaminon:process:apotithesthai-11",
+      "entity_type": "process",
+      "surface_form": "ἀποτίθεσο",
+      "normalized_label": "ἀποτίθεσθαι"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-material:dioscorides-1-35-hyoskyaminon:material:phormos-1",
+      "entity_type": "material",
+      "surface_form": "φορμοῦ",
+      "normalized_label": "φορμός"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-reference:dioscorides-1-35-hyoskyaminon:reference:amygdalinon-1",
+      "entity_type": "preparation_reference",
+      "surface_form": "ἀμυγδαλίνου",
+      "normalized_label": "ἀμυγδάλινον"
+    }
+  ],
+  "canonical_file": "data/recipes/dioscorides-1-35-hyoskyaminon.json",
+  "source_entry": {
+    "source_id": "dioscorides-1-35-hyoskyaminon",
+    "derived_recipe_id": "dioscorides-1-35-hyoskyaminon",
+    "entry_kind": "recipe",
+    "source_kind": "main_text",
+    "source_lines": {
+      "start": 1855,
+      "end": 3167
+    },
+    "section_markers": []
+  },
+  "entity_groups": {
+    "labels": [
+      {
+        "entity_urn": "urn:aos:recipe-preparation:dioscorides-1-35-hyoskyaminon:preparation:yoskyaminon",
+        "surface_form": "ὑοσκυάμινον",
+        "normalized_label": "ὑοσκυάμινον"
+      }
+    ],
+    "ingredients": [
+      {
+        "entity_urn": "urn:aos:recipe-ingredient:dioscorides-1-35-hyoskyaminon:ingredient:leykos-karpos-1",
+        "surface_form": "τὸν λευκὸν καρπὸν ξηρόν, πρόσφατον",
+        "normalized_label": "λευκὸς καρπός",
+        "quantity_display": ""
+      },
+      {
+        "entity_urn": "urn:aos:recipe-ingredient:dioscorides-1-35-hyoskyaminon:ingredient:ydor-2",
+        "surface_form": "ὕδατι θερμῷ",
+        "normalized_label": "ὕδωρ",
+        "quantity_display": ""
+      },
+      {
+        "entity_urn": "urn:aos:recipe-ingredient:dioscorides-1-35-hyoskyaminon:ingredient:mere-3",
+        "surface_form": "τὰ ὑπὸ χεῖρα ξηραινόμενα αὐτοῦ μέρη",
+        "normalized_label": "μέρη",
+        "quantity_display": ""
+      }
+    ],
+    "processes": [
+      {
+        "entity_urn": "urn:aos:recipe-process:dioscorides-1-35-hyoskyaminon:process:lambanein-1",
+        "surface_form": "λαβὼν",
+        "normalized_label": "λαμβάνειν"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-process:dioscorides-1-35-hyoskyaminon:process:koptein-2",
+        "surface_form": "κόψας",
+        "normalized_label": "κόπτειν"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-process:dioscorides-1-35-hyoskyaminon:process:phyran-3",
+        "surface_form": "φύρα",
+        "normalized_label": "φυρᾶν"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-process:dioscorides-1-35-hyoskyaminon:process:eliazein-4",
+        "surface_form": "ἡλιάζων",
+        "normalized_label": "ἡλιάζειν"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-process:dioscorides-1-35-hyoskyaminon:process:xerainein-5",
+        "surface_form": "ξηραινόμενα",
+        "normalized_label": "ξηραίνειν"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-process:dioscorides-1-35-hyoskyaminon:process:anamisgein-6",
+        "surface_form": "ἀνάμισγε",
+        "normalized_label": "ἀναμίσγειν"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-process:dioscorides-1-35-hyoskyaminon:process:poiein-7",
+        "surface_form": "ποίει",
+        "normalized_label": "ποιεῖν"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-process:dioscorides-1-35-hyoskyaminon:process:melainesthai-8",
+        "surface_form": "μελανθῇ",
+        "normalized_label": "μελαίνεσθαι"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-process:dioscorides-1-35-hyoskyaminon:process:gignesthai-9",
+        "surface_form": "γένηται",
+        "normalized_label": "γίγνεσθαι"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-process:dioscorides-1-35-hyoskyaminon:process:ekthlibein-10",
+        "surface_form": "ἐκθλίψας",
+        "normalized_label": "ἐκθλίβειν"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-process:dioscorides-1-35-hyoskyaminon:process:apotithesthai-11",
+        "surface_form": "ἀποτίθεσο",
+        "normalized_label": "ἀποτίθεσθαι"
+      }
+    ],
+    "tools": [
+      {
+        "entity_urn": "urn:aos:recipe-material:dioscorides-1-35-hyoskyaminon:material:phormos-1",
+        "surface_form": "φορμοῦ",
+        "normalized_label": "φορμός"
+      }
+    ],
+    "other_preparations_mentioned": [
+      {
+        "entity_urn": "urn:aos:recipe-reference:dioscorides-1-35-hyoskyaminon:reference:amygdalinon-1",
+        "surface_form": "ἀμυγδαλίνου",
+        "normalized_label": "ἀμυγδάλινον"
+      }
+    ],
+    "people": [],
+    "places": [],
+    "works_mentioned": [],
+    "preparation_names": []
+  }
+}

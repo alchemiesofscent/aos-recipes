@@ -1,0 +1,1808 @@
+{
+  "dataset_key": "aetius_book1_oils",
+  "source_json": "experiments/aetius-book1-ch99-136-oils/data/aetius_book1_ch99_136_oils.json",
+  "host_raw_file": "tei/raw/tlg0718001.xml",
+  "work_slug": "aetius.b1.oils",
+  "recipe_id": "aetius-1-131-3",
+  "recipe_urn": "urn:aos:recipe:aetius-1-131-3",
+  "record_urn": "urn:aos:recipe-record:aetius-1-131-3",
+  "author": "Aëtius of Amida",
+  "work": "Libri medicinales",
+  "book": "1",
+  "chapter": "131",
+  "section": "131.3",
+  "chapter_name": "Νάρδου Κυζικηνῆς σκευασία",
+  "lemma": "Νάρδου σκευασία",
+  "text": "Νάρδου σκευασία. Νάρδος σκευαζομένη ἐν τῇ ἐκκλησίᾳ. στάχους λι κιναμώμου λι καρυοφύλλων λι ἀμώμου λι σχινάνθων λι καλάμου ἀρωματικοῦ λι ξυλαλόης λι καρύων μυριστικῶν λι καχρύου λι ξανθοκαρύων λι μάκερ λι γαλαγγὰ λι βαλσάμου λι καρποβαλσάμου λι ξυλοβαλσάμου λι μυροβαλάνου λι φύλλου ἰνδικοῦ λι κασίας λι ξηροκαρυοφύλλου λι πεπέρεως μακροῦ λι πεπέρεως λευκοῦ λι πεπέρεως κοινοῦ λι ἄσαρ χαλδαικοῦ λι κελτικοῦ λι θυμιάματος λι σμύρνης τρωγλίτιδος λι κόστου λι μόσχου λι ἄμπαρ λι γομφίτου λαδάνου λι τερεβίνθης λι οἴνου εὐώδους τὸ ἀρκοῦν.",
+  "original_text": "Νάρδου σκευασία. Νάρδος σκευαζομένη ἐν τῇ ἐκκλησίᾳ. στάχους λι κιναμώμου λι καρυοφύλλων λι ἀμώμου λι σχινάνθων λι καλάμου ἀρωματικοῦ λι ξυλαλόης λι καρύων μυριστικῶν λι καχρύου λι ξανθοκαρύων λι μάκερ λι γαλαγγὰ λι βαλσάμου λι καρποβαλσάμου λι ξυλοβαλσάμου λι μυροβαλάνου λι φύλλου ἰνδικοῦ λι κασίας λι ξηροκαρυοφύλλου λι πεπέρεως μακροῦ λι πεπέρεως λευκοῦ λι πεπέρεως κοινοῦ λι ἄσαρ χαλδαικοῦ λι κελτικοῦ λι θυμιάματος λι σμύρνης τρωγλίτιδος λι κόστου λι μόσχου λι ἄμπαρ λι γομφίτου λαδάνου λι τερεβίνθης λι οἴνου εὐώδους τὸ ἀρκοῦν.",
+  "text_source": "olivieri",
+  "emendations": [],
+  "emendation_count": 0,
+  "source_kind": null,
+  "entry_kind": "recipe",
+  "citation": {
+    "pages": [
+      "66"
+    ],
+    "start": {
+      "page": "66",
+      "line": "10",
+      "xml_id": "oliv-66-10"
+    },
+    "end": {
+      "page": "66",
+      "line": "18",
+      "xml_id": "oliv-66-18"
+    },
+    "citation": {
+      "start": "66.10",
+      "end": "66.18"
+    },
+    "page_spans": [
+      {
+        "page": "66",
+        "start_line": "10",
+        "end_line": "18"
+      }
+    ],
+    "lines": [
+      {
+        "page": "66",
+        "line": "10",
+        "xml_id": "oliv-66-10",
+        "break_no": false,
+        "text": "Νάρδου σκευασία. Νάρδος σκευαζομένη ἐν τῇ ἐκκλησίᾳ. στάχους",
+        "citation": "66.10"
+      },
+      {
+        "page": "66",
+        "line": "11",
+        "xml_id": "oliv-66-11",
+        "break_no": false,
+        "text": "λι κιναμώμου λι καρυοφύλλων λι ἀμώμου λι σχινάνθων λι καλάμου",
+        "citation": "66.11"
+      },
+      {
+        "page": "66",
+        "line": "12",
+        "xml_id": "oliv-66-12",
+        "break_no": false,
+        "text": "ἀρωματικοῦ λι ξυλαλόης λι καρύων μυριστικῶν λι καχρύου λι ξανθο-",
+        "citation": "66.12"
+      },
+      {
+        "page": "66",
+        "line": "13",
+        "xml_id": "oliv-66-13",
+        "break_no": true,
+        "text": "καρύων λι μάκερ λι γαλαγγὰ λι βαλσάμου λι καρποβαλσάμου λι ξυλο-",
+        "citation": "66.13"
+      },
+      {
+        "page": "66",
+        "line": "14",
+        "xml_id": "oliv-66-14",
+        "break_no": true,
+        "text": "βαλσάμου λι μυροβαλάνου λι φύλλου ἰνδικοῦ λι κασίας λι ξηροκαρυο-",
+        "citation": "66.14"
+      },
+      {
+        "page": "66",
+        "line": "15",
+        "xml_id": "oliv-66-15",
+        "break_no": true,
+        "text": "φύλλου λι πεπέρεως μακροῦ λι πεπέρεως λευκοῦ λι πεπέρεως κοινοῦ",
+        "citation": "66.15"
+      },
+      {
+        "page": "66",
+        "line": "16",
+        "xml_id": "oliv-66-16",
+        "break_no": false,
+        "text": "λι ἄσαρ χαλδαικοῦ λι κελτικοῦ λι θυμιάματος λι σμύρνης τρωγλίτιδος",
+        "citation": "66.16"
+      },
+      {
+        "page": "66",
+        "line": "17",
+        "xml_id": "oliv-66-17",
+        "break_no": false,
+        "text": "λι κόστου λι μόσχου λι ἄμπαρ λι γομφίτου λαδάνου λι τερεβίνθης λι",
+        "citation": "66.17"
+      },
+      {
+        "page": "66",
+        "line": "18",
+        "xml_id": "oliv-66-18",
+        "break_no": false,
+        "text": "οἴνου εὐώδους τὸ ἀρκοῦν.",
+        "citation": "66.18"
+      }
+    ],
+    "edition_key": "olivieri"
+  },
+  "notes": [
+    "Church-prepared nard formulation split from aetius-1-131."
+  ],
+  "alignment_status": "pending",
+  "alignment_confidence": "pending",
+  "alignment_evidence": null,
+  "review_status": "reviewed_structured_authority",
+  "review_provenance": {
+    "authority_source": "reports/entity_review/structured/aetius_book1.json",
+    "authority_recipe_id": "aetius-1-131-3",
+    "authority_lemma": "νάρδος",
+    "model": "gpt-5.4",
+    "reasoning_effort": "high",
+    "dataset_key": "aetius_book1_oils",
+    "entity_model_version": "1.2",
+    "authority_version": "2026-04-13-qty-alt-v1",
+    "prompt_version": "qty-alt-pass-v1",
+    "build_version": "2026-05-18T15:51:35Z"
+  },
+  "schema_version": "1.2",
+  "build_metadata": {
+    "builder": "scripts/recipes/build_recipe_entities.py",
+    "built_at": "2026-05-18T15:51:35Z",
+    "source_structured_authority": "reports/entity_review/structured/aetius_book1.json",
+    "authority_model": "gpt-5.4",
+    "authority_reasoning_effort": "high",
+    "dataset_key": "aetius_book1_oils",
+    "entity_model_version": "1.2",
+    "authority_version": "2026-04-13-qty-alt-v1",
+    "prompt_version": "qty-alt-pass-v1",
+    "build_version": "2026-05-18T15:51:35Z"
+  },
+  "recipe_text_excerpt": "Νάρδου σκευασία. Νάρδος σκευαζομένη ἐν τῇ ἐκκλησίᾳ. στάχους λι κιναμώμου λι καρυοφύλλων λι ἀμώμου λι σχινάνθων λι καλάμου ἀρωματικοῦ λι",
+  "preparation": {
+    "preparation_id": "aetius-1-131-3:preparation:nardos",
+    "preparation_urn": "urn:aos:recipe-preparation:aetius-1-131-3:preparation:nardos",
+    "source_span": "Νάρδου σκευασία",
+    "surface_form": "Νάρδου σκευασία",
+    "normalized_label": "νάρδος",
+    "qualifiers": [
+      {
+        "qualifier_type": "location",
+        "source_span": "ἐν τῇ ἐκκλησίᾳ",
+        "normalized_value": "ἐκκλησία",
+        "certainty": "certain",
+        "notes": []
+      }
+    ],
+    "regimen_notes": [],
+    "certainty": "certain",
+    "notes": [
+      "The clause Νάρδος σκευαζομένη ἐν τῇ ἐκκλησίᾳ is treated as an explicit characterization of this headed formulation."
+    ],
+    "host_locator": {
+      "book": "1",
+      "chapter": "131",
+      "section": "131.3",
+      "citation": {
+        "start": "66.10",
+        "end": "66.18"
+      }
+    }
+  },
+  "ingredients": [
+    {
+      "ingredient_id": "aetius-1-131-3:ingredient:nardostachys-1",
+      "ingredient_urn": "urn:aos:recipe-ingredient:aetius-1-131-3:ingredient:nardostachys-1",
+      "source_span": "στάχους",
+      "surface_form": "στάχους",
+      "base_label": "στάχους",
+      "normalized_label": "ναρδοστάχυς",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [],
+      "quantities": [
+        {
+          "source_span": "λι",
+          "raw_number": null,
+          "normalized_number": null,
+          "raw_unit": "λι",
+          "normalized_unit": "litra",
+          "certainty": "uncertain",
+          "notes": [
+            "The numeral is omitted after repeated λι."
+          ]
+        }
+      ],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "131",
+        "section": "131.3",
+        "citation": {
+          "start": "66.10",
+          "end": "66.18"
+        }
+      }
+    },
+    {
+      "ingredient_id": "aetius-1-131-3:ingredient:kinamomon-2",
+      "ingredient_urn": "urn:aos:recipe-ingredient:aetius-1-131-3:ingredient:kinamomon-2",
+      "source_span": "κιναμώμου",
+      "surface_form": "κιναμώμου",
+      "base_label": "κιναμώμου",
+      "normalized_label": "κινάμωμον",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [],
+      "quantities": [
+        {
+          "source_span": "λι",
+          "raw_number": null,
+          "normalized_number": null,
+          "raw_unit": "λι",
+          "normalized_unit": "litra",
+          "certainty": "uncertain",
+          "notes": [
+            "The numeral is omitted after repeated λι."
+          ]
+        }
+      ],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "131",
+        "section": "131.3",
+        "citation": {
+          "start": "66.10",
+          "end": "66.18"
+        }
+      }
+    },
+    {
+      "ingredient_id": "aetius-1-131-3:ingredient:karyophyllon-3",
+      "ingredient_urn": "urn:aos:recipe-ingredient:aetius-1-131-3:ingredient:karyophyllon-3",
+      "source_span": "καρυοφύλλων",
+      "surface_form": "καρυοφύλλων",
+      "base_label": "καρυοφύλλων",
+      "normalized_label": "καρυόφυλλον",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [],
+      "quantities": [
+        {
+          "source_span": "λι",
+          "raw_number": null,
+          "normalized_number": null,
+          "raw_unit": "λι",
+          "normalized_unit": "litra",
+          "certainty": "uncertain",
+          "notes": [
+            "The numeral is omitted after repeated λι."
+          ]
+        }
+      ],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "131",
+        "section": "131.3",
+        "citation": {
+          "start": "66.10",
+          "end": "66.18"
+        }
+      }
+    },
+    {
+      "ingredient_id": "aetius-1-131-3:ingredient:amomon-4",
+      "ingredient_urn": "urn:aos:recipe-ingredient:aetius-1-131-3:ingredient:amomon-4",
+      "source_span": "ἀμώμου",
+      "surface_form": "ἀμώμου",
+      "base_label": "ἀμώμου",
+      "normalized_label": "ἄμωμον",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [],
+      "quantities": [
+        {
+          "source_span": "λι",
+          "raw_number": null,
+          "normalized_number": null,
+          "raw_unit": "λι",
+          "normalized_unit": "litra",
+          "certainty": "uncertain",
+          "notes": [
+            "The numeral is omitted after repeated λι."
+          ]
+        }
+      ],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "131",
+        "section": "131.3",
+        "citation": {
+          "start": "66.10",
+          "end": "66.18"
+        }
+      }
+    },
+    {
+      "ingredient_id": "aetius-1-131-3:ingredient:schinanthos-5",
+      "ingredient_urn": "urn:aos:recipe-ingredient:aetius-1-131-3:ingredient:schinanthos-5",
+      "source_span": "σχινάνθων",
+      "surface_form": "σχινάνθων",
+      "base_label": "σχινάνθων",
+      "normalized_label": "σχίνανθος",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [],
+      "quantities": [
+        {
+          "source_span": "λι",
+          "raw_number": null,
+          "normalized_number": null,
+          "raw_unit": "λι",
+          "normalized_unit": "litra",
+          "certainty": "uncertain",
+          "notes": [
+            "The numeral is omitted after repeated λι."
+          ]
+        }
+      ],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "131",
+        "section": "131.3",
+        "citation": {
+          "start": "66.10",
+          "end": "66.18"
+        }
+      }
+    },
+    {
+      "ingredient_id": "aetius-1-131-3:ingredient:kalamos-aromatikos-6",
+      "ingredient_urn": "urn:aos:recipe-ingredient:aetius-1-131-3:ingredient:kalamos-aromatikos-6",
+      "source_span": "καλάμου ἀρωματικοῦ",
+      "surface_form": "καλάμου ἀρωματικοῦ",
+      "base_label": "καλάμου",
+      "normalized_label": "κάλαμος ἀρωματικός",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [],
+      "quantities": [
+        {
+          "source_span": "λι",
+          "raw_number": null,
+          "normalized_number": null,
+          "raw_unit": "λι",
+          "normalized_unit": "litra",
+          "certainty": "uncertain",
+          "notes": [
+            "The numeral is omitted after repeated λι."
+          ]
+        }
+      ],
+      "qualifiers": [
+        {
+          "qualifier_type": "other",
+          "source_span": "ἀρωματικοῦ",
+          "normalized_value": "ἀρωματικός",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "131",
+        "section": "131.3",
+        "citation": {
+          "start": "66.10",
+          "end": "66.18"
+        }
+      }
+    },
+    {
+      "ingredient_id": "aetius-1-131-3:ingredient:xylaloe-7",
+      "ingredient_urn": "urn:aos:recipe-ingredient:aetius-1-131-3:ingredient:xylaloe-7",
+      "source_span": "ξυλαλόης",
+      "surface_form": "ξυλαλόης",
+      "base_label": "ξυλαλόης",
+      "normalized_label": "ξυλάλοη",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [],
+      "quantities": [
+        {
+          "source_span": "λι",
+          "raw_number": null,
+          "normalized_number": null,
+          "raw_unit": "λι",
+          "normalized_unit": "litra",
+          "certainty": "uncertain",
+          "notes": [
+            "The numeral is omitted after repeated λι."
+          ]
+        }
+      ],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "131",
+        "section": "131.3",
+        "citation": {
+          "start": "66.10",
+          "end": "66.18"
+        }
+      }
+    },
+    {
+      "ingredient_id": "aetius-1-131-3:ingredient:karya-myristika-8",
+      "ingredient_urn": "urn:aos:recipe-ingredient:aetius-1-131-3:ingredient:karya-myristika-8",
+      "source_span": "καρύων μυριστικῶν",
+      "surface_form": "καρύων μυριστικῶν",
+      "base_label": "καρύων",
+      "normalized_label": "κάρυα μυριστικά",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [],
+      "quantities": [
+        {
+          "source_span": "λι",
+          "raw_number": null,
+          "normalized_number": null,
+          "raw_unit": "λι",
+          "normalized_unit": "litra",
+          "certainty": "uncertain",
+          "notes": [
+            "The numeral is omitted after repeated λι."
+          ]
+        }
+      ],
+      "qualifiers": [
+        {
+          "qualifier_type": "other",
+          "source_span": "μυριστικῶν",
+          "normalized_value": "μυριστικός",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "131",
+        "section": "131.3",
+        "citation": {
+          "start": "66.10",
+          "end": "66.18"
+        }
+      }
+    },
+    {
+      "ingredient_id": "aetius-1-131-3:ingredient:kachrys-9",
+      "ingredient_urn": "urn:aos:recipe-ingredient:aetius-1-131-3:ingredient:kachrys-9",
+      "source_span": "καχρύου",
+      "surface_form": "καχρύου",
+      "base_label": "καχρύου",
+      "normalized_label": "κάχρυς",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [],
+      "quantities": [
+        {
+          "source_span": "λι",
+          "raw_number": null,
+          "normalized_number": null,
+          "raw_unit": "λι",
+          "normalized_unit": "litra",
+          "certainty": "uncertain",
+          "notes": [
+            "The numeral is omitted after repeated λι."
+          ]
+        }
+      ],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "131",
+        "section": "131.3",
+        "citation": {
+          "start": "66.10",
+          "end": "66.18"
+        }
+      }
+    },
+    {
+      "ingredient_id": "aetius-1-131-3:ingredient:xanthokarya-10",
+      "ingredient_urn": "urn:aos:recipe-ingredient:aetius-1-131-3:ingredient:xanthokarya-10",
+      "source_span": "ξανθοκαρύων",
+      "surface_form": "ξανθοκαρύων",
+      "base_label": "ξανθοκαρύων",
+      "normalized_label": "ξανθοκάρυα",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [],
+      "quantities": [
+        {
+          "source_span": "λι",
+          "raw_number": null,
+          "normalized_number": null,
+          "raw_unit": "λι",
+          "normalized_unit": "litra",
+          "certainty": "uncertain",
+          "notes": [
+            "The numeral is omitted after repeated λι."
+          ]
+        }
+      ],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "131",
+        "section": "131.3",
+        "citation": {
+          "start": "66.10",
+          "end": "66.18"
+        }
+      }
+    },
+    {
+      "ingredient_id": "aetius-1-131-3:ingredient:maker-11",
+      "ingredient_urn": "urn:aos:recipe-ingredient:aetius-1-131-3:ingredient:maker-11",
+      "source_span": "μάκερ",
+      "surface_form": "μάκερ",
+      "base_label": "μάκερ",
+      "normalized_label": "μάκερ",
+      "alternative_set_id": null,
+      "certainty": "uncertain",
+      "linked_process_ids": [],
+      "quantities": [
+        {
+          "source_span": "λι",
+          "raw_number": null,
+          "normalized_number": null,
+          "raw_unit": "λι",
+          "normalized_unit": "litra",
+          "certainty": "uncertain",
+          "notes": [
+            "The numeral is omitted after repeated λι."
+          ]
+        }
+      ],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "131",
+        "section": "131.3",
+        "citation": {
+          "start": "66.10",
+          "end": "66.18"
+        }
+      }
+    },
+    {
+      "ingredient_id": "aetius-1-131-3:ingredient:galagga-12",
+      "ingredient_urn": "urn:aos:recipe-ingredient:aetius-1-131-3:ingredient:galagga-12",
+      "source_span": "γαλαγγὰ",
+      "surface_form": "γαλαγγὰ",
+      "base_label": "γαλαγγὰ",
+      "normalized_label": "γαλάγγα",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [],
+      "quantities": [
+        {
+          "source_span": "λι",
+          "raw_number": null,
+          "normalized_number": null,
+          "raw_unit": "λι",
+          "normalized_unit": "litra",
+          "certainty": "uncertain",
+          "notes": [
+            "The numeral is omitted after repeated λι."
+          ]
+        }
+      ],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "131",
+        "section": "131.3",
+        "citation": {
+          "start": "66.10",
+          "end": "66.18"
+        }
+      }
+    },
+    {
+      "ingredient_id": "aetius-1-131-3:ingredient:balsamon-13",
+      "ingredient_urn": "urn:aos:recipe-ingredient:aetius-1-131-3:ingredient:balsamon-13",
+      "source_span": "βαλσάμου",
+      "surface_form": "βαλσάμου",
+      "base_label": "βαλσάμου",
+      "normalized_label": "βάλσαμον",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [],
+      "quantities": [
+        {
+          "source_span": "λι",
+          "raw_number": null,
+          "normalized_number": null,
+          "raw_unit": "λι",
+          "normalized_unit": "litra",
+          "certainty": "uncertain",
+          "notes": [
+            "The numeral is omitted after repeated λι."
+          ]
+        }
+      ],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "131",
+        "section": "131.3",
+        "citation": {
+          "start": "66.10",
+          "end": "66.18"
+        }
+      }
+    },
+    {
+      "ingredient_id": "aetius-1-131-3:ingredient:karpobalsamon-14",
+      "ingredient_urn": "urn:aos:recipe-ingredient:aetius-1-131-3:ingredient:karpobalsamon-14",
+      "source_span": "καρποβαλσάμου",
+      "surface_form": "καρποβαλσάμου",
+      "base_label": "καρποβαλσάμου",
+      "normalized_label": "καρποβάλσαμον",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [],
+      "quantities": [
+        {
+          "source_span": "λι",
+          "raw_number": null,
+          "normalized_number": null,
+          "raw_unit": "λι",
+          "normalized_unit": "litra",
+          "certainty": "uncertain",
+          "notes": [
+            "The numeral is omitted after repeated λι."
+          ]
+        }
+      ],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "131",
+        "section": "131.3",
+        "citation": {
+          "start": "66.10",
+          "end": "66.18"
+        }
+      }
+    },
+    {
+      "ingredient_id": "aetius-1-131-3:ingredient:xylobalsamon-15",
+      "ingredient_urn": "urn:aos:recipe-ingredient:aetius-1-131-3:ingredient:xylobalsamon-15",
+      "source_span": "ξυλοβαλσάμου",
+      "surface_form": "ξυλοβαλσάμου",
+      "base_label": "ξυλοβαλσάμου",
+      "normalized_label": "ξυλοβάλσαμον",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [],
+      "quantities": [
+        {
+          "source_span": "λι",
+          "raw_number": null,
+          "normalized_number": null,
+          "raw_unit": "λι",
+          "normalized_unit": "litra",
+          "certainty": "uncertain",
+          "notes": [
+            "The numeral is omitted after repeated λι."
+          ]
+        }
+      ],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "131",
+        "section": "131.3",
+        "citation": {
+          "start": "66.10",
+          "end": "66.18"
+        }
+      }
+    },
+    {
+      "ingredient_id": "aetius-1-131-3:ingredient:myrobalanon-16",
+      "ingredient_urn": "urn:aos:recipe-ingredient:aetius-1-131-3:ingredient:myrobalanon-16",
+      "source_span": "μυροβαλάνου",
+      "surface_form": "μυροβαλάνου",
+      "base_label": "μυροβαλάνου",
+      "normalized_label": "μυροβάλανον",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [],
+      "quantities": [
+        {
+          "source_span": "λι",
+          "raw_number": null,
+          "normalized_number": null,
+          "raw_unit": "λι",
+          "normalized_unit": "litra",
+          "certainty": "uncertain",
+          "notes": [
+            "The numeral is omitted after repeated λι."
+          ]
+        }
+      ],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "131",
+        "section": "131.3",
+        "citation": {
+          "start": "66.10",
+          "end": "66.18"
+        }
+      }
+    },
+    {
+      "ingredient_id": "aetius-1-131-3:ingredient:phyllon-indikon-17",
+      "ingredient_urn": "urn:aos:recipe-ingredient:aetius-1-131-3:ingredient:phyllon-indikon-17",
+      "source_span": "φύλλου ἰνδικοῦ",
+      "surface_form": "φύλλου ἰνδικοῦ",
+      "base_label": "φύλλου",
+      "normalized_label": "φύλλον ἰνδικόν",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [],
+      "quantities": [
+        {
+          "source_span": "λι",
+          "raw_number": null,
+          "normalized_number": null,
+          "raw_unit": "λι",
+          "normalized_unit": "litra",
+          "certainty": "uncertain",
+          "notes": [
+            "The numeral is omitted after repeated λι."
+          ]
+        }
+      ],
+      "qualifiers": [
+        {
+          "qualifier_type": "other",
+          "source_span": "ἰνδικοῦ",
+          "normalized_value": "ἰνδικός",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "131",
+        "section": "131.3",
+        "citation": {
+          "start": "66.10",
+          "end": "66.18"
+        }
+      }
+    },
+    {
+      "ingredient_id": "aetius-1-131-3:ingredient:kasia-18",
+      "ingredient_urn": "urn:aos:recipe-ingredient:aetius-1-131-3:ingredient:kasia-18",
+      "source_span": "κασίας",
+      "surface_form": "κασίας",
+      "base_label": "κασίας",
+      "normalized_label": "κασία",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [],
+      "quantities": [
+        {
+          "source_span": "λι",
+          "raw_number": null,
+          "normalized_number": null,
+          "raw_unit": "λι",
+          "normalized_unit": "litra",
+          "certainty": "uncertain",
+          "notes": [
+            "The numeral is omitted after repeated λι."
+          ]
+        }
+      ],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "131",
+        "section": "131.3",
+        "citation": {
+          "start": "66.10",
+          "end": "66.18"
+        }
+      }
+    },
+    {
+      "ingredient_id": "aetius-1-131-3:ingredient:xerokaryophyllon-19",
+      "ingredient_urn": "urn:aos:recipe-ingredient:aetius-1-131-3:ingredient:xerokaryophyllon-19",
+      "source_span": "ξηροκαρυοφύλλου",
+      "surface_form": "ξηροκαρυοφύλλου",
+      "base_label": "ξηροκαρυοφύλλου",
+      "normalized_label": "ξηροκαρυόφυλλον",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [],
+      "quantities": [
+        {
+          "source_span": "λι",
+          "raw_number": null,
+          "normalized_number": null,
+          "raw_unit": "λι",
+          "normalized_unit": "litra",
+          "certainty": "uncertain",
+          "notes": [
+            "The numeral is omitted after repeated λι."
+          ]
+        }
+      ],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "131",
+        "section": "131.3",
+        "citation": {
+          "start": "66.10",
+          "end": "66.18"
+        }
+      }
+    },
+    {
+      "ingredient_id": "aetius-1-131-3:ingredient:peperi-makron-20",
+      "ingredient_urn": "urn:aos:recipe-ingredient:aetius-1-131-3:ingredient:peperi-makron-20",
+      "source_span": "πεπέρεως μακροῦ",
+      "surface_form": "πεπέρεως μακροῦ",
+      "base_label": "πεπέρεως",
+      "normalized_label": "πέπερι μακρόν",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [],
+      "quantities": [
+        {
+          "source_span": "λι",
+          "raw_number": null,
+          "normalized_number": null,
+          "raw_unit": "λι",
+          "normalized_unit": "litra",
+          "certainty": "uncertain",
+          "notes": [
+            "The numeral is omitted after repeated λι."
+          ]
+        }
+      ],
+      "qualifiers": [
+        {
+          "qualifier_type": "other",
+          "source_span": "μακροῦ",
+          "normalized_value": "μακρός",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "131",
+        "section": "131.3",
+        "citation": {
+          "start": "66.10",
+          "end": "66.18"
+        }
+      }
+    },
+    {
+      "ingredient_id": "aetius-1-131-3:ingredient:peperi-leykon-21",
+      "ingredient_urn": "urn:aos:recipe-ingredient:aetius-1-131-3:ingredient:peperi-leykon-21",
+      "source_span": "πεπέρεως λευκοῦ",
+      "surface_form": "πεπέρεως λευκοῦ",
+      "base_label": "πεπέρεως",
+      "normalized_label": "πέπερι λευκόν",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [],
+      "quantities": [
+        {
+          "source_span": "λι",
+          "raw_number": null,
+          "normalized_number": null,
+          "raw_unit": "λι",
+          "normalized_unit": "litra",
+          "certainty": "uncertain",
+          "notes": [
+            "The numeral is omitted after repeated λι."
+          ]
+        }
+      ],
+      "qualifiers": [
+        {
+          "qualifier_type": "color",
+          "source_span": "λευκοῦ",
+          "normalized_value": "λευκός",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "131",
+        "section": "131.3",
+        "citation": {
+          "start": "66.10",
+          "end": "66.18"
+        }
+      }
+    },
+    {
+      "ingredient_id": "aetius-1-131-3:ingredient:peperi-koinon-22",
+      "ingredient_urn": "urn:aos:recipe-ingredient:aetius-1-131-3:ingredient:peperi-koinon-22",
+      "source_span": "πεπέρεως κοινοῦ",
+      "surface_form": "πεπέρεως κοινοῦ",
+      "base_label": "πεπέρεως",
+      "normalized_label": "πέπερι κοινόν",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [],
+      "quantities": [
+        {
+          "source_span": "λι",
+          "raw_number": null,
+          "normalized_number": null,
+          "raw_unit": "λι",
+          "normalized_unit": "litra",
+          "certainty": "uncertain",
+          "notes": [
+            "The numeral is omitted after repeated λι."
+          ]
+        }
+      ],
+      "qualifiers": [
+        {
+          "qualifier_type": "other",
+          "source_span": "κοινοῦ",
+          "normalized_value": "κοινός",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "131",
+        "section": "131.3",
+        "citation": {
+          "start": "66.10",
+          "end": "66.18"
+        }
+      }
+    },
+    {
+      "ingredient_id": "aetius-1-131-3:ingredient:asar-chaldaikon-23",
+      "ingredient_urn": "urn:aos:recipe-ingredient:aetius-1-131-3:ingredient:asar-chaldaikon-23",
+      "source_span": "ἄσαρ χαλδαικοῦ",
+      "surface_form": "ἄσαρ χαλδαικοῦ",
+      "base_label": "ἄσαρ",
+      "normalized_label": "ἄσαρ χαλδαικόν",
+      "alternative_set_id": null,
+      "certainty": "uncertain",
+      "linked_process_ids": [],
+      "quantities": [
+        {
+          "source_span": "λι",
+          "raw_number": null,
+          "normalized_number": null,
+          "raw_unit": "λι",
+          "normalized_unit": "litra",
+          "certainty": "uncertain",
+          "notes": [
+            "The numeral is omitted after repeated λι."
+          ]
+        }
+      ],
+      "qualifiers": [
+        {
+          "qualifier_type": "other",
+          "source_span": "χαλδαικοῦ",
+          "normalized_value": "χαλδαικόν",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "131",
+        "section": "131.3",
+        "citation": {
+          "start": "66.10",
+          "end": "66.18"
+        }
+      }
+    },
+    {
+      "ingredient_id": "aetius-1-131-3:ingredient:keltikon-24",
+      "ingredient_urn": "urn:aos:recipe-ingredient:aetius-1-131-3:ingredient:keltikon-24",
+      "source_span": "κελτικοῦ",
+      "surface_form": "κελτικοῦ",
+      "base_label": "κελτικοῦ",
+      "normalized_label": "κελτικόν",
+      "alternative_set_id": null,
+      "certainty": "uncertain",
+      "linked_process_ids": [],
+      "quantities": [
+        {
+          "source_span": "λι",
+          "raw_number": null,
+          "normalized_number": null,
+          "raw_unit": "λι",
+          "normalized_unit": "litra",
+          "certainty": "uncertain",
+          "notes": [
+            "The numeral is omitted after repeated λι."
+          ]
+        }
+      ],
+      "qualifiers": [],
+      "notes": [
+        "The head noun is not restated in this compressed list."
+      ],
+      "host_locator": {
+        "book": "1",
+        "chapter": "131",
+        "section": "131.3",
+        "citation": {
+          "start": "66.10",
+          "end": "66.18"
+        }
+      }
+    },
+    {
+      "ingredient_id": "aetius-1-131-3:ingredient:thymiama-25",
+      "ingredient_urn": "urn:aos:recipe-ingredient:aetius-1-131-3:ingredient:thymiama-25",
+      "source_span": "θυμιάματος",
+      "surface_form": "θυμιάματος",
+      "base_label": "θυμιάματος",
+      "normalized_label": "θυμίαμα",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [],
+      "quantities": [
+        {
+          "source_span": "λι",
+          "raw_number": null,
+          "normalized_number": null,
+          "raw_unit": "λι",
+          "normalized_unit": "litra",
+          "certainty": "uncertain",
+          "notes": [
+            "The numeral is omitted after repeated λι."
+          ]
+        }
+      ],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "131",
+        "section": "131.3",
+        "citation": {
+          "start": "66.10",
+          "end": "66.18"
+        }
+      }
+    },
+    {
+      "ingredient_id": "aetius-1-131-3:ingredient:smyrna-troglitis-26",
+      "ingredient_urn": "urn:aos:recipe-ingredient:aetius-1-131-3:ingredient:smyrna-troglitis-26",
+      "source_span": "σμύρνης τρωγλίτιδος",
+      "surface_form": "σμύρνης τρωγλίτιδος",
+      "base_label": "σμύρνης",
+      "normalized_label": "σμύρνα τρωγλῖτις",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [],
+      "quantities": [
+        {
+          "source_span": "λι",
+          "raw_number": null,
+          "normalized_number": null,
+          "raw_unit": "λι",
+          "normalized_unit": "litra",
+          "certainty": "uncertain",
+          "notes": [
+            "The numeral is omitted after repeated λι."
+          ]
+        }
+      ],
+      "qualifiers": [
+        {
+          "qualifier_type": "other",
+          "source_span": "τρωγλίτιδος",
+          "normalized_value": "τρωγλῖτις",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "131",
+        "section": "131.3",
+        "citation": {
+          "start": "66.10",
+          "end": "66.18"
+        }
+      }
+    },
+    {
+      "ingredient_id": "aetius-1-131-3:ingredient:kostos-27",
+      "ingredient_urn": "urn:aos:recipe-ingredient:aetius-1-131-3:ingredient:kostos-27",
+      "source_span": "κόστου",
+      "surface_form": "κόστου",
+      "base_label": "κόστου",
+      "normalized_label": "κόστος",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [],
+      "quantities": [
+        {
+          "source_span": "λι",
+          "raw_number": null,
+          "normalized_number": null,
+          "raw_unit": "λι",
+          "normalized_unit": "litra",
+          "certainty": "uncertain",
+          "notes": [
+            "The numeral is omitted after repeated λι."
+          ]
+        }
+      ],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "131",
+        "section": "131.3",
+        "citation": {
+          "start": "66.10",
+          "end": "66.18"
+        }
+      }
+    },
+    {
+      "ingredient_id": "aetius-1-131-3:ingredient:moschos-28",
+      "ingredient_urn": "urn:aos:recipe-ingredient:aetius-1-131-3:ingredient:moschos-28",
+      "source_span": "μόσχου",
+      "surface_form": "μόσχου",
+      "base_label": "μόσχου",
+      "normalized_label": "μόσχος",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [],
+      "quantities": [
+        {
+          "source_span": "λι",
+          "raw_number": null,
+          "normalized_number": null,
+          "raw_unit": "λι",
+          "normalized_unit": "litra",
+          "certainty": "uncertain",
+          "notes": [
+            "The numeral is omitted after repeated λι."
+          ]
+        }
+      ],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "131",
+        "section": "131.3",
+        "citation": {
+          "start": "66.10",
+          "end": "66.18"
+        }
+      }
+    },
+    {
+      "ingredient_id": "aetius-1-131-3:ingredient:ampar-29",
+      "ingredient_urn": "urn:aos:recipe-ingredient:aetius-1-131-3:ingredient:ampar-29",
+      "source_span": "ἄμπαρ",
+      "surface_form": "ἄμπαρ",
+      "base_label": "ἄμπαρ",
+      "normalized_label": "ἄμπαρ",
+      "alternative_set_id": null,
+      "certainty": "uncertain",
+      "linked_process_ids": [],
+      "quantities": [
+        {
+          "source_span": "λι",
+          "raw_number": null,
+          "normalized_number": null,
+          "raw_unit": "λι",
+          "normalized_unit": "litra",
+          "certainty": "uncertain",
+          "notes": [
+            "The numeral is omitted after repeated λι."
+          ]
+        }
+      ],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "131",
+        "section": "131.3",
+        "citation": {
+          "start": "66.10",
+          "end": "66.18"
+        }
+      }
+    },
+    {
+      "ingredient_id": "aetius-1-131-3:ingredient:ladanon-gomphiton-30",
+      "ingredient_urn": "urn:aos:recipe-ingredient:aetius-1-131-3:ingredient:ladanon-gomphiton-30",
+      "source_span": "γομφίτου λαδάνου",
+      "surface_form": "γομφίτου λαδάνου",
+      "base_label": "λαδάνου",
+      "normalized_label": "λάδανον γομφῖτον",
+      "alternative_set_id": null,
+      "certainty": "uncertain",
+      "linked_process_ids": [],
+      "quantities": [
+        {
+          "source_span": "λι",
+          "raw_number": null,
+          "normalized_number": null,
+          "raw_unit": "λι",
+          "normalized_unit": "litra",
+          "certainty": "uncertain",
+          "notes": [
+            "The numeral is omitted after repeated λι."
+          ]
+        }
+      ],
+      "qualifiers": [
+        {
+          "qualifier_type": "other",
+          "source_span": "γομφίτου",
+          "normalized_value": "γομφῖτον",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "131",
+        "section": "131.3",
+        "citation": {
+          "start": "66.10",
+          "end": "66.18"
+        }
+      }
+    },
+    {
+      "ingredient_id": "aetius-1-131-3:ingredient:terebinthos-31",
+      "ingredient_urn": "urn:aos:recipe-ingredient:aetius-1-131-3:ingredient:terebinthos-31",
+      "source_span": "τερεβίνθης",
+      "surface_form": "τερεβίνθης",
+      "base_label": "τερεβίνθης",
+      "normalized_label": "τερέβινθος",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [],
+      "quantities": [
+        {
+          "source_span": "λι",
+          "raw_number": null,
+          "normalized_number": null,
+          "raw_unit": "λι",
+          "normalized_unit": "litra",
+          "certainty": "uncertain",
+          "notes": [
+            "The numeral is omitted after repeated λι."
+          ]
+        }
+      ],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "131",
+        "section": "131.3",
+        "citation": {
+          "start": "66.10",
+          "end": "66.18"
+        }
+      }
+    },
+    {
+      "ingredient_id": "aetius-1-131-3:ingredient:oinos-eyodes-32",
+      "ingredient_urn": "urn:aos:recipe-ingredient:aetius-1-131-3:ingredient:oinos-eyodes-32",
+      "source_span": "οἴνου εὐώδους",
+      "surface_form": "οἴνου εὐώδους",
+      "base_label": "οἴνου",
+      "normalized_label": "οἶνος εὐώδης",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "other",
+          "source_span": "εὐώδους",
+          "normalized_value": "εὐώδης",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "notes": [
+        "Quantity expressed only as τὸ ἀρκοῦν."
+      ],
+      "host_locator": {
+        "book": "1",
+        "chapter": "131",
+        "section": "131.3",
+        "citation": {
+          "start": "66.10",
+          "end": "66.18"
+        }
+      }
+    }
+  ],
+  "processes": [],
+  "materials": [],
+  "people": [],
+  "places": [],
+  "uses": [],
+  "preparation_names": [],
+  "other_preparations_mentioned": [],
+  "works_mentioned": [],
+  "entities": [
+    {
+      "entity_urn": "urn:aos:recipe-preparation:aetius-1-131-3:preparation:nardos",
+      "entity_type": "label",
+      "surface_form": "Νάρδου σκευασία",
+      "normalized_label": "νάρδος"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:aetius-1-131-3:ingredient:nardostachys-1",
+      "entity_type": "ingredient",
+      "surface_form": "στάχους",
+      "normalized_label": "ναρδοστάχυς"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:aetius-1-131-3:ingredient:kinamomon-2",
+      "entity_type": "ingredient",
+      "surface_form": "κιναμώμου",
+      "normalized_label": "κινάμωμον"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:aetius-1-131-3:ingredient:karyophyllon-3",
+      "entity_type": "ingredient",
+      "surface_form": "καρυοφύλλων",
+      "normalized_label": "καρυόφυλλον"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:aetius-1-131-3:ingredient:amomon-4",
+      "entity_type": "ingredient",
+      "surface_form": "ἀμώμου",
+      "normalized_label": "ἄμωμον"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:aetius-1-131-3:ingredient:schinanthos-5",
+      "entity_type": "ingredient",
+      "surface_form": "σχινάνθων",
+      "normalized_label": "σχίνανθος"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:aetius-1-131-3:ingredient:kalamos-aromatikos-6",
+      "entity_type": "ingredient",
+      "surface_form": "καλάμου ἀρωματικοῦ",
+      "normalized_label": "κάλαμος ἀρωματικός"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:aetius-1-131-3:ingredient:xylaloe-7",
+      "entity_type": "ingredient",
+      "surface_form": "ξυλαλόης",
+      "normalized_label": "ξυλάλοη"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:aetius-1-131-3:ingredient:karya-myristika-8",
+      "entity_type": "ingredient",
+      "surface_form": "καρύων μυριστικῶν",
+      "normalized_label": "κάρυα μυριστικά"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:aetius-1-131-3:ingredient:kachrys-9",
+      "entity_type": "ingredient",
+      "surface_form": "καχρύου",
+      "normalized_label": "κάχρυς"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:aetius-1-131-3:ingredient:xanthokarya-10",
+      "entity_type": "ingredient",
+      "surface_form": "ξανθοκαρύων",
+      "normalized_label": "ξανθοκάρυα"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:aetius-1-131-3:ingredient:maker-11",
+      "entity_type": "ingredient",
+      "surface_form": "μάκερ",
+      "normalized_label": "μάκερ"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:aetius-1-131-3:ingredient:galagga-12",
+      "entity_type": "ingredient",
+      "surface_form": "γαλαγγὰ",
+      "normalized_label": "γαλάγγα"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:aetius-1-131-3:ingredient:balsamon-13",
+      "entity_type": "ingredient",
+      "surface_form": "βαλσάμου",
+      "normalized_label": "βάλσαμον"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:aetius-1-131-3:ingredient:karpobalsamon-14",
+      "entity_type": "ingredient",
+      "surface_form": "καρποβαλσάμου",
+      "normalized_label": "καρποβάλσαμον"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:aetius-1-131-3:ingredient:xylobalsamon-15",
+      "entity_type": "ingredient",
+      "surface_form": "ξυλοβαλσάμου",
+      "normalized_label": "ξυλοβάλσαμον"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:aetius-1-131-3:ingredient:myrobalanon-16",
+      "entity_type": "ingredient",
+      "surface_form": "μυροβαλάνου",
+      "normalized_label": "μυροβάλανον"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:aetius-1-131-3:ingredient:phyllon-indikon-17",
+      "entity_type": "ingredient",
+      "surface_form": "φύλλου ἰνδικοῦ",
+      "normalized_label": "φύλλον ἰνδικόν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:aetius-1-131-3:ingredient:kasia-18",
+      "entity_type": "ingredient",
+      "surface_form": "κασίας",
+      "normalized_label": "κασία"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:aetius-1-131-3:ingredient:xerokaryophyllon-19",
+      "entity_type": "ingredient",
+      "surface_form": "ξηροκαρυοφύλλου",
+      "normalized_label": "ξηροκαρυόφυλλον"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:aetius-1-131-3:ingredient:peperi-makron-20",
+      "entity_type": "ingredient",
+      "surface_form": "πεπέρεως μακροῦ",
+      "normalized_label": "πέπερι μακρόν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:aetius-1-131-3:ingredient:peperi-leykon-21",
+      "entity_type": "ingredient",
+      "surface_form": "πεπέρεως λευκοῦ",
+      "normalized_label": "πέπερι λευκόν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:aetius-1-131-3:ingredient:peperi-koinon-22",
+      "entity_type": "ingredient",
+      "surface_form": "πεπέρεως κοινοῦ",
+      "normalized_label": "πέπερι κοινόν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:aetius-1-131-3:ingredient:asar-chaldaikon-23",
+      "entity_type": "ingredient",
+      "surface_form": "ἄσαρ χαλδαικοῦ",
+      "normalized_label": "ἄσαρ χαλδαικόν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:aetius-1-131-3:ingredient:keltikon-24",
+      "entity_type": "ingredient",
+      "surface_form": "κελτικοῦ",
+      "normalized_label": "κελτικόν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:aetius-1-131-3:ingredient:thymiama-25",
+      "entity_type": "ingredient",
+      "surface_form": "θυμιάματος",
+      "normalized_label": "θυμίαμα"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:aetius-1-131-3:ingredient:smyrna-troglitis-26",
+      "entity_type": "ingredient",
+      "surface_form": "σμύρνης τρωγλίτιδος",
+      "normalized_label": "σμύρνα τρωγλῖτις"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:aetius-1-131-3:ingredient:kostos-27",
+      "entity_type": "ingredient",
+      "surface_form": "κόστου",
+      "normalized_label": "κόστος"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:aetius-1-131-3:ingredient:moschos-28",
+      "entity_type": "ingredient",
+      "surface_form": "μόσχου",
+      "normalized_label": "μόσχος"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:aetius-1-131-3:ingredient:ampar-29",
+      "entity_type": "ingredient",
+      "surface_form": "ἄμπαρ",
+      "normalized_label": "ἄμπαρ"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:aetius-1-131-3:ingredient:ladanon-gomphiton-30",
+      "entity_type": "ingredient",
+      "surface_form": "γομφίτου λαδάνου",
+      "normalized_label": "λάδανον γομφῖτον"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:aetius-1-131-3:ingredient:terebinthos-31",
+      "entity_type": "ingredient",
+      "surface_form": "τερεβίνθης",
+      "normalized_label": "τερέβινθος"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:aetius-1-131-3:ingredient:oinos-eyodes-32",
+      "entity_type": "ingredient",
+      "surface_form": "οἴνου εὐώδους",
+      "normalized_label": "οἶνος εὐώδης"
+    }
+  ],
+  "canonical_file": "data/recipes/aetius-1-131-3.json",
+  "source_entry": {
+    "source_id": "aetius-1-131-3",
+    "derived_recipe_id": "aetius-1-131-3",
+    "entry_kind": null,
+    "source_kind": null,
+    "source_lines": null,
+    "section_markers": []
+  },
+  "entity_groups": {
+    "labels": [
+      {
+        "entity_urn": "urn:aos:recipe-preparation:aetius-1-131-3:preparation:nardos",
+        "surface_form": "Νάρδου σκευασία",
+        "normalized_label": "νάρδος"
+      }
+    ],
+    "ingredients": [
+      {
+        "entity_urn": "urn:aos:recipe-ingredient:aetius-1-131-3:ingredient:nardostachys-1",
+        "surface_form": "στάχους",
+        "normalized_label": "ναρδοστάχυς",
+        "quantity_display": "λι"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-ingredient:aetius-1-131-3:ingredient:kinamomon-2",
+        "surface_form": "κιναμώμου",
+        "normalized_label": "κινάμωμον",
+        "quantity_display": "λι"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-ingredient:aetius-1-131-3:ingredient:karyophyllon-3",
+        "surface_form": "καρυοφύλλων",
+        "normalized_label": "καρυόφυλλον",
+        "quantity_display": "λι"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-ingredient:aetius-1-131-3:ingredient:amomon-4",
+        "surface_form": "ἀμώμου",
+        "normalized_label": "ἄμωμον",
+        "quantity_display": "λι"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-ingredient:aetius-1-131-3:ingredient:schinanthos-5",
+        "surface_form": "σχινάνθων",
+        "normalized_label": "σχίνανθος",
+        "quantity_display": "λι"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-ingredient:aetius-1-131-3:ingredient:kalamos-aromatikos-6",
+        "surface_form": "καλάμου ἀρωματικοῦ",
+        "normalized_label": "κάλαμος ἀρωματικός",
+        "quantity_display": "λι"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-ingredient:aetius-1-131-3:ingredient:xylaloe-7",
+        "surface_form": "ξυλαλόης",
+        "normalized_label": "ξυλάλοη",
+        "quantity_display": "λι"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-ingredient:aetius-1-131-3:ingredient:karya-myristika-8",
+        "surface_form": "καρύων μυριστικῶν",
+        "normalized_label": "κάρυα μυριστικά",
+        "quantity_display": "λι"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-ingredient:aetius-1-131-3:ingredient:kachrys-9",
+        "surface_form": "καχρύου",
+        "normalized_label": "κάχρυς",
+        "quantity_display": "λι"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-ingredient:aetius-1-131-3:ingredient:xanthokarya-10",
+        "surface_form": "ξανθοκαρύων",
+        "normalized_label": "ξανθοκάρυα",
+        "quantity_display": "λι"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-ingredient:aetius-1-131-3:ingredient:maker-11",
+        "surface_form": "μάκερ",
+        "normalized_label": "μάκερ",
+        "quantity_display": "λι"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-ingredient:aetius-1-131-3:ingredient:galagga-12",
+        "surface_form": "γαλαγγὰ",
+        "normalized_label": "γαλάγγα",
+        "quantity_display": "λι"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-ingredient:aetius-1-131-3:ingredient:balsamon-13",
+        "surface_form": "βαλσάμου",
+        "normalized_label": "βάλσαμον",
+        "quantity_display": "λι"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-ingredient:aetius-1-131-3:ingredient:karpobalsamon-14",
+        "surface_form": "καρποβαλσάμου",
+        "normalized_label": "καρποβάλσαμον",
+        "quantity_display": "λι"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-ingredient:aetius-1-131-3:ingredient:xylobalsamon-15",
+        "surface_form": "ξυλοβαλσάμου",
+        "normalized_label": "ξυλοβάλσαμον",
+        "quantity_display": "λι"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-ingredient:aetius-1-131-3:ingredient:myrobalanon-16",
+        "surface_form": "μυροβαλάνου",
+        "normalized_label": "μυροβάλανον",
+        "quantity_display": "λι"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-ingredient:aetius-1-131-3:ingredient:phyllon-indikon-17",
+        "surface_form": "φύλλου ἰνδικοῦ",
+        "normalized_label": "φύλλον ἰνδικόν",
+        "quantity_display": "λι"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-ingredient:aetius-1-131-3:ingredient:kasia-18",
+        "surface_form": "κασίας",
+        "normalized_label": "κασία",
+        "quantity_display": "λι"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-ingredient:aetius-1-131-3:ingredient:xerokaryophyllon-19",
+        "surface_form": "ξηροκαρυοφύλλου",
+        "normalized_label": "ξηροκαρυόφυλλον",
+        "quantity_display": "λι"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-ingredient:aetius-1-131-3:ingredient:peperi-makron-20",
+        "surface_form": "πεπέρεως μακροῦ",
+        "normalized_label": "πέπερι μακρόν",
+        "quantity_display": "λι"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-ingredient:aetius-1-131-3:ingredient:peperi-leykon-21",
+        "surface_form": "πεπέρεως λευκοῦ",
+        "normalized_label": "πέπερι λευκόν",
+        "quantity_display": "λι"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-ingredient:aetius-1-131-3:ingredient:peperi-koinon-22",
+        "surface_form": "πεπέρεως κοινοῦ",
+        "normalized_label": "πέπερι κοινόν",
+        "quantity_display": "λι"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-ingredient:aetius-1-131-3:ingredient:asar-chaldaikon-23",
+        "surface_form": "ἄσαρ χαλδαικοῦ",
+        "normalized_label": "ἄσαρ χαλδαικόν",
+        "quantity_display": "λι"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-ingredient:aetius-1-131-3:ingredient:keltikon-24",
+        "surface_form": "κελτικοῦ",
+        "normalized_label": "κελτικόν",
+        "quantity_display": "λι"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-ingredient:aetius-1-131-3:ingredient:thymiama-25",
+        "surface_form": "θυμιάματος",
+        "normalized_label": "θυμίαμα",
+        "quantity_display": "λι"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-ingredient:aetius-1-131-3:ingredient:smyrna-troglitis-26",
+        "surface_form": "σμύρνης τρωγλίτιδος",
+        "normalized_label": "σμύρνα τρωγλῖτις",
+        "quantity_display": "λι"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-ingredient:aetius-1-131-3:ingredient:kostos-27",
+        "surface_form": "κόστου",
+        "normalized_label": "κόστος",
+        "quantity_display": "λι"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-ingredient:aetius-1-131-3:ingredient:moschos-28",
+        "surface_form": "μόσχου",
+        "normalized_label": "μόσχος",
+        "quantity_display": "λι"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-ingredient:aetius-1-131-3:ingredient:ampar-29",
+        "surface_form": "ἄμπαρ",
+        "normalized_label": "ἄμπαρ",
+        "quantity_display": "λι"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-ingredient:aetius-1-131-3:ingredient:ladanon-gomphiton-30",
+        "surface_form": "γομφίτου λαδάνου",
+        "normalized_label": "λάδανον γομφῖτον",
+        "quantity_display": "λι"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-ingredient:aetius-1-131-3:ingredient:terebinthos-31",
+        "surface_form": "τερεβίνθης",
+        "normalized_label": "τερέβινθος",
+        "quantity_display": "λι"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-ingredient:aetius-1-131-3:ingredient:oinos-eyodes-32",
+        "surface_form": "οἴνου εὐώδους",
+        "normalized_label": "οἶνος εὐώδης",
+        "quantity_display": ""
+      }
+    ],
+    "processes": [],
+    "tools": [],
+    "other_preparations_mentioned": [],
+    "people": [],
+    "places": [],
+    "works_mentioned": [],
+    "preparation_names": []
+  }
+}

@@ -1,0 +1,513 @@
+{
+  "dataset_key": "aetius_book1_oils",
+  "source_json": "experiments/aetius-book1-ch99-136-oils/data/aetius_book1_ch99_136_oils.json",
+  "host_raw_file": "tei/raw/tlg0718001.xml",
+  "work_slug": "aetius.b1.oils",
+  "recipe_id": "aetius-1-120",
+  "recipe_urn": "urn:aos:recipe:aetius-1-120",
+  "record_urn": "urn:aos:recipe-record:aetius-1-120",
+  "author": "Aëtius of Amida",
+  "work": "Libri medicinales",
+  "book": "1",
+  "chapter": "120",
+  "section": "120",
+  "chapter_name": "Ἰασμή",
+  "lemma": "Ἰασμή",
+  "text": "Ἰασμή. Ἡ δὲ καλουμένη ἰασμὴ παρὰ Πέρσαις σκευάζεται ἐκ τῶν ἀνθῶν τῶν λευκῶν τοῦ ἴου καὶ ἐλαίου σησαμίνου 𐆄 β ἐμβαλλομένων τῷ ἰταλικῷ ξέστῃ [τοῦ σησαμίνου ἐλαίου] καὶ ἀμειβομένων ὡς ἐπὶ τοῦ κρινίνου εἴρηται. ἡ δὲ τούτου χρῆσις παρὰ τὰς ἑστιάσεις εὐωδίας ἕνεκα παρὰ Πέρσαις λαμβάνεται. ἁρμόζει δὲ καὶ ὅλῳ τῷ σώματι κατὰ τὰ λουτρὰ ἐπὶ τῶν θερμασίας καὶ χαλάσεως δεομένων σωμάτων. βαρυτέραν δὲ ἔχει τὴν εὐωδίαν, ὡς πολλοὺς αὐτῆς μηδὲ ἡδέως ἀντέχεσθαι.",
+  "original_text": "Ἰασμή. Ἡ δὲ καλουμένη ἰασμὴ παρὰ Πέρσαις σκευάζεται ἐκ τῶν ἀνθῶν τῶν λευκῶν τοῦ ἴου καὶ ἐλαίου σησαμίνου 𐆄 β ἐμβαλλομένων τῷ ἰταλικῷ ξέστῃ [τοῦ σησαμίνου ἐλαίου] καὶ ἀμειβομένων ὡς ἐπὶ τοῦ κρινίνου εἴρηται. ἡ δὲ τούτου χρῆσις παρὰ τὰς ἑστιάσεις εὐωδίας ἕνεκα παρὰ Πέρσαις λαμβάνεται. ἁρμόζει δὲ καὶ ὅλῳ τῷ σώματι κατὰ τὰ λουτρὰ ἐπὶ τῶν θερμασίας καὶ χαλάσεως δεομένων σωμάτων. βαρυτέραν δὲ ἔχει τὴν εὐωδίαν, ὡς πολλοὺς αὐτῆς μηδὲ ἡδέως ἀντιλαμβάνεσθαι.",
+  "text_source": "emended",
+  "emendations": [
+    {
+      "locus": "[61.27]",
+      "start_citation": "61.27",
+      "end_citation": "61.27",
+      "operation": "replace",
+      "olivieri_text": "ἀντιλαμβάνεσθαι",
+      "adopted_text": "ἀντέχεσθαι",
+      "proposal_author": "Irene Cala",
+      "decision": "accepted",
+      "note": "ἀντέχεσθαι replaces ἀντιλαμβάνεσθαι"
+    }
+  ],
+  "emendation_count": 1,
+  "source_kind": null,
+  "entry_kind": "recipe",
+  "citation": {
+    "pages": [
+      "61"
+    ],
+    "start": {
+      "page": "61",
+      "line": "21",
+      "xml_id": "oliv-61-21"
+    },
+    "end": {
+      "page": "61",
+      "line": "27",
+      "xml_id": "oliv-61-27"
+    },
+    "citation": {
+      "start": "61.21",
+      "end": "61.27"
+    },
+    "page_spans": [
+      {
+        "page": "61",
+        "start_line": "21",
+        "end_line": "27"
+      }
+    ],
+    "lines": [
+      {
+        "page": "61",
+        "line": "21",
+        "xml_id": "oliv-61-21",
+        "break_no": false,
+        "text": "Ἰασμή. Ἡ δὲ καλουμένη ἰασμὴ παρὰ Πέρσαις σκευάζεται ἐκ τῶν",
+        "citation": "61.21"
+      },
+      {
+        "page": "61",
+        "line": "22",
+        "xml_id": "oliv-61-22",
+        "break_no": false,
+        "text": "ἀνθῶν τῶν λευκῶν τοῦ ἴου καὶ ἐλαίου σησαμίνου 𐆄 β ἐμβαλλομένων",
+        "citation": "61.22"
+      },
+      {
+        "page": "61",
+        "line": "23",
+        "xml_id": "oliv-61-23",
+        "break_no": false,
+        "text": "τῷ ἰταλικῷ ξέστῃ [τοῦ σησαμίνου ἐλαίου] καὶ ἀμειβομένων ὡς ἐπὶ τοῦ",
+        "citation": "61.23"
+      },
+      {
+        "page": "61",
+        "line": "24",
+        "xml_id": "oliv-61-24",
+        "break_no": false,
+        "text": "κρινίνου εἴρηται. ἡ δὲ τούτου χρῆσις παρὰ τὰς ἑστιάσεις εὐωδίας ἕνεκα",
+        "citation": "61.24"
+      },
+      {
+        "page": "61",
+        "line": "25",
+        "xml_id": "oliv-61-25",
+        "break_no": false,
+        "text": "παρὰ Πέρσαις λαμβάνεται. ἁρμόζει δὲ καὶ ὅλῳ τῷ σώματι κατὰ τὰ",
+        "citation": "61.25"
+      },
+      {
+        "page": "61",
+        "line": "26",
+        "xml_id": "oliv-61-26",
+        "break_no": false,
+        "text": "λουτρὰ ἐπὶ τῶν θερμασίας καὶ χαλάσεως δεομένων σωμάτων. βαρυτέραν",
+        "citation": "61.26"
+      },
+      {
+        "page": "61",
+        "line": "27",
+        "xml_id": "oliv-61-27",
+        "break_no": false,
+        "text": "δὲ ἔχει τὴν εὐωδίαν, ὡς πολλοὺς αὐτῆς μηδὲ ἡδέως ἀντιλαμβάνεσθαι.",
+        "citation": "61.27"
+      }
+    ],
+    "edition_key": "olivieri"
+  },
+  "notes": [],
+  "alignment_status": "pending",
+  "alignment_confidence": "pending",
+  "alignment_evidence": null,
+  "review_status": "reviewed_structured_authority",
+  "review_provenance": {
+    "authority_source": "reports/entity_review/structured/aetius_book1.json",
+    "authority_recipe_id": "aetius-1-120",
+    "authority_lemma": "Ἰασμή",
+    "model": "gpt-5.4",
+    "reasoning_effort": "high",
+    "dataset_key": "aetius_book1_oils",
+    "entity_model_version": "1.2",
+    "authority_version": "2026-04-13-qty-alt-v1",
+    "prompt_version": "qty-alt-pass-v1",
+    "build_version": "2026-05-18T15:51:35Z"
+  },
+  "schema_version": "1.2",
+  "build_metadata": {
+    "builder": "scripts/recipes/build_recipe_entities.py",
+    "built_at": "2026-05-18T15:51:35Z",
+    "source_structured_authority": "reports/entity_review/structured/aetius_book1.json",
+    "authority_model": "gpt-5.4",
+    "authority_reasoning_effort": "high",
+    "dataset_key": "aetius_book1_oils",
+    "entity_model_version": "1.2",
+    "authority_version": "2026-04-13-qty-alt-v1",
+    "prompt_version": "qty-alt-pass-v1",
+    "build_version": "2026-05-18T15:51:35Z"
+  },
+  "recipe_text_excerpt": "Ἰασμή. Ἡ δὲ καλουμένη ἰασμὴ παρὰ Πέρσαις σκευάζεται ἐκ τῶν ἀνθῶν τῶν λευκῶν τοῦ ἴου καὶ ἐλαίου σησαμίνου 𐆄 β",
+  "preparation": {
+    "preparation_id": "aetius-1-120:preparation:iasme",
+    "preparation_urn": "urn:aos:recipe-preparation:aetius-1-120:preparation:iasme",
+    "source_span": "Ἰασμή",
+    "surface_form": "Ἰασμή",
+    "normalized_label": "Ἰασμή",
+    "qualifiers": [],
+    "regimen_notes": [
+      {
+        "source_span": "ὡς πολλοὺς αὐτῆς μηδὲ ἡδέως ἀντέχεσθαι",
+        "normalized_note": "πολλοὶ αὐτῆς μηδὲ ἡδέως ἀντέχονται",
+        "certainty": "certain",
+        "notes": []
+      }
+    ],
+    "certainty": "certain",
+    "notes": [],
+    "host_locator": {
+      "book": "1",
+      "chapter": "120",
+      "section": "120",
+      "citation": {
+        "start": "61.21",
+        "end": "61.27"
+      }
+    }
+  },
+  "ingredients": [
+    {
+      "ingredient_id": "aetius-1-120:ingredient:leyka-anthe-ioy-1",
+      "ingredient_urn": "urn:aos:recipe-ingredient:aetius-1-120:ingredient:leyka-anthe-ioy-1",
+      "source_span": "τῶν ἀνθῶν τῶν λευκῶν τοῦ ἴου",
+      "surface_form": "τῶν ἀνθῶν τῶν λευκῶν τοῦ ἴου",
+      "base_label": "ἄνθη",
+      "normalized_label": "λευκὰ ἄνθη ἴου",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [
+        "aetius-1-120:process:emballein-2",
+        "aetius-1-120:process:ameibein-3"
+      ],
+      "quantities": [
+        {
+          "source_span": "𐆄 β",
+          "raw_number": "β",
+          "normalized_number": 2,
+          "raw_unit": "𐆄",
+          "normalized_unit": "uncia",
+          "certainty": "uncertain",
+          "notes": [
+            "The ounce count is attached to the white violet flowers; the sesame oil is separately measured by the Italian xestes."
+          ]
+        }
+      ],
+      "qualifiers": [
+        {
+          "qualifier_type": "color",
+          "source_span": "τῶν λευκῶν",
+          "normalized_value": "λευκός",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "120",
+        "section": "120",
+        "citation": {
+          "start": "61.21",
+          "end": "61.27"
+        }
+      }
+    },
+    {
+      "ingredient_id": "aetius-1-120:ingredient:elaion-sesaminon-2",
+      "ingredient_urn": "urn:aos:recipe-ingredient:aetius-1-120:ingredient:elaion-sesaminon-2",
+      "source_span": "ἐλαίου σησαμίνου",
+      "surface_form": "ἐλαίου σησαμίνου",
+      "base_label": "ἔλαιον",
+      "normalized_label": "ἔλαιον σησάμινον",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [],
+      "quantities": [
+        {
+          "source_span": "τῷ ἰταλικῷ ξέστῃ",
+          "raw_number": null,
+          "normalized_number": 1,
+          "raw_unit": "ἰταλικῷ ξέστῃ",
+          "normalized_unit": "xestes",
+          "certainty": "uncertain",
+          "notes": [
+            "Singular measure implies one xestes, but no numeral is written; the separate 𐆄 β belongs to the flowers."
+          ]
+        }
+      ],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "120",
+        "section": "120",
+        "citation": {
+          "start": "61.21",
+          "end": "61.27"
+        }
+      }
+    }
+  ],
+  "processes": [
+    {
+      "process_id": "aetius-1-120:process:skeyazein-1",
+      "process_urn": "urn:aos:recipe-process:aetius-1-120:process:skeyazein-1",
+      "source_span": "σκευάζεται",
+      "surface_form": "σκευάζεται",
+      "normalized_label": "σκευάζειν",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "120",
+        "section": "120",
+        "citation": {
+          "start": "61.21",
+          "end": "61.27"
+        }
+      }
+    },
+    {
+      "process_id": "aetius-1-120:process:emballein-2",
+      "process_urn": "urn:aos:recipe-process:aetius-1-120:process:emballein-2",
+      "source_span": "ἐμβαλλομένων",
+      "surface_form": "ἐμβαλλομένων",
+      "normalized_label": "ἐμβάλλειν",
+      "target_type": "ingredient",
+      "target_ids": [
+        "aetius-1-120:ingredient:leyka-anthe-ioy-1"
+      ],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "location",
+          "source_span": "τῷ ἰταλικῷ ξέστῃ [τοῦ σησαμίνου ἐλαίου]",
+          "normalized_value": null,
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "120",
+        "section": "120",
+        "citation": {
+          "start": "61.21",
+          "end": "61.27"
+        }
+      }
+    },
+    {
+      "process_id": "aetius-1-120:process:ameibein-3",
+      "process_urn": "urn:aos:recipe-process:aetius-1-120:process:ameibein-3",
+      "source_span": "ἀμειβομένων",
+      "surface_form": "ἀμειβομένων",
+      "normalized_label": "ἀμείβειν",
+      "target_type": "ingredient",
+      "target_ids": [
+        "aetius-1-120:ingredient:leyka-anthe-ioy-1"
+      ],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "manner",
+          "source_span": "ὡς ἐπὶ τοῦ κρινίνου εἴρηται",
+          "normalized_value": null,
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "120",
+        "section": "120",
+        "citation": {
+          "start": "61.21",
+          "end": "61.27"
+        }
+      }
+    }
+  ],
+  "materials": [
+    {
+      "material_id": "aetius-1-120:material:italikos-xestes-1",
+      "material_urn": "urn:aos:recipe-material:aetius-1-120:material:italikos-xestes-1",
+      "source_span": "τῷ ἰταλικῷ ξέστῃ",
+      "surface_form": "τῷ ἰταλικῷ ξέστῃ",
+      "normalized_label": "Ἰταλικὸς ξέστης",
+      "role": "apparatus",
+      "certainty": "certain",
+      "quantities": [],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "120",
+        "section": "120",
+        "citation": {
+          "start": "61.21",
+          "end": "61.27"
+        }
+      }
+    }
+  ],
+  "people": [
+    {
+      "person_id": "aetius-1-120:person:persai-1",
+      "person_urn": "urn:aos:recipe-person:aetius-1-120:person:persai-1",
+      "source_span": "Πέρσαις",
+      "surface_form": "Πέρσαις",
+      "normalized_label": "Πέρσαι",
+      "certainty": "certain",
+      "notes": [
+        "Mentioned twice in the text."
+      ],
+      "host_locator": {
+        "book": "1",
+        "chapter": "120",
+        "section": "120",
+        "citation": {
+          "start": "61.21",
+          "end": "61.27"
+        }
+      }
+    }
+  ],
+  "places": [],
+  "uses": [
+    {
+      "use_id": "aetius-1-120:use:e-de-toytoy-chresis-para-tas-estiaseis-eyodias-eneka-para-persais-lambanetai-1",
+      "use_urn": "urn:aos:recipe-use:aetius-1-120:use:e-de-toytoy-chresis-para-tas-estiaseis-eyodias-eneka-para-persais-lambanetai-1",
+      "category": "cosmetic",
+      "source_span": "ἡ δὲ τούτου χρῆσις παρὰ τὰς ἑστιάσεις εὐωδίας ἕνεκα παρὰ Πέρσαις λαμβάνεται",
+      "snippet": "ἡ δὲ τούτου χρῆσις παρὰ τὰς ἑστιάσεις εὐωδίας ἕνεκα παρὰ Πέρσαις λαμβάνεται",
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "120",
+        "section": "120",
+        "citation": {
+          "start": "61.21",
+          "end": "61.27"
+        }
+      }
+    },
+    {
+      "use_id": "aetius-1-120:use:armozei-de-kai-olo-to-somati-kata-ta-loytra-epi-ton-thermasias-kai-chalaseos-deomenon-somaton-2",
+      "use_urn": "urn:aos:recipe-use:aetius-1-120:use:armozei-de-kai-olo-to-somati-kata-ta-loytra-epi-ton-thermasias-kai-chalaseos-deomenon-somaton-2",
+      "category": "medical",
+      "source_span": "ἁρμόζει δὲ καὶ ὅλῳ τῷ σώματι κατὰ τὰ λουτρὰ ἐπὶ τῶν θερμασίας καὶ χαλάσεως δεομένων σωμάτων",
+      "snippet": "ἁρμόζει δὲ καὶ ὅλῳ τῷ σώματι κατὰ τὰ λουτρὰ ἐπὶ τῶν θερμασίας καὶ χαλάσεως δεομένων σωμάτων",
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "120",
+        "section": "120",
+        "citation": {
+          "start": "61.21",
+          "end": "61.27"
+        }
+      }
+    }
+  ],
+  "preparation_names": [],
+  "other_preparations_mentioned": [
+    {
+      "reference_id": "aetius-1-120:reference:krininon-1",
+      "reference_urn": "urn:aos:recipe-reference:aetius-1-120:reference:krininon-1",
+      "source_span": "τοῦ κρινίνου",
+      "surface_form": "τοῦ κρινίνου",
+      "normalized_label": "κρίνινον",
+      "certainty": "certain",
+      "notes": [
+        "Referenced by cross-recipe comparison in «ὡς ἐπὶ τοῦ κρινίνου εἴρηται»."
+      ],
+      "host_locator": {
+        "book": "1",
+        "chapter": "120",
+        "section": "120",
+        "citation": {
+          "start": "61.21",
+          "end": "61.27"
+        }
+      }
+    }
+  ],
+  "works_mentioned": [],
+  "entities": [
+    {
+      "entity_urn": "urn:aos:recipe-preparation:aetius-1-120:preparation:iasme",
+      "entity_type": "label",
+      "surface_form": "Ἰασμή",
+      "normalized_label": "Ἰασμή"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:aetius-1-120:ingredient:leyka-anthe-ioy-1",
+      "entity_type": "ingredient",
+      "surface_form": "τῶν ἀνθῶν τῶν λευκῶν τοῦ ἴου",
+      "normalized_label": "λευκὰ ἄνθη ἴου"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:aetius-1-120:ingredient:elaion-sesaminon-2",
+      "entity_type": "ingredient",
+      "surface_form": "ἐλαίου σησαμίνου",
+      "normalized_label": "ἔλαιον σησάμινον"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:aetius-1-120:process:skeyazein-1",
+      "entity_type": "process",
+      "surface_form": "σκευάζεται",
+      "normalized_label": "σκευάζειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:aetius-1-120:process:emballein-2",
+      "entity_type": "process",
+      "surface_form": "ἐμβαλλομένων",
+      "normalized_label": "ἐμβάλλειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:aetius-1-120:process:ameibein-3",
+      "entity_type": "process",
+      "surface_form": "ἀμειβομένων",
+      "normalized_label": "ἀμείβειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-material:aetius-1-120:material:italikos-xestes-1",
+      "entity_type": "material",
+      "surface_form": "τῷ ἰταλικῷ ξέστῃ",
+      "normalized_label": "Ἰταλικὸς ξέστης"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-person:aetius-1-120:person:persai-1",
+      "entity_type": "person",
+      "surface_form": "Πέρσαις",
+      "normalized_label": "Πέρσαι"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-reference:aetius-1-120:reference:krininon-1",
+      "entity_type": "preparation_reference",
+      "surface_form": "τοῦ κρινίνου",
+      "normalized_label": "κρίνινον"
+    }
+  ]
+}

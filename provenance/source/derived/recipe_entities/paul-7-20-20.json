@@ -1,0 +1,358 @@
+{
+  "dataset_key": "paul_book7_perfumes",
+  "source_json": "experiments/paul-book7-ch20-perfumes/data/paul_book7_ch20_perfumes.json",
+  "host_raw_file": "tei/raw/tlg0715001.xml",
+  "work_slug": "paul.b7.perfumes",
+  "recipe_id": "paul-7-20-20",
+  "recipe_urn": "urn:aos:recipe:paul-7-20-20",
+  "record_urn": "urn:aos:recipe-record:paul-7-20-20",
+  "author": "Paul of Aegina",
+  "work": "Medical Epitome",
+  "book": "7",
+  "chapter": "20",
+  "section": "20",
+  "chapter_name": "Ἐλαίων καὶ μύρων σκευασίαι διάφοροι.",
+  "lemma": "Σχίνινον",
+  "text": "Καὶ τοῦτο τὸν ὅμοιον τρόπον τῷ δαφνίνῳ σκευάζεται ἀπὸ τοῦ καρποῦ τοῦ σχίνου διττῶς, καθ' αὑτόν τε καὶ σὺν ἐλαίαις οὐ πεπείροις ἀλλ' ὄμφαξιν.",
+  "original_text": null,
+  "text_source": null,
+  "emendations": [],
+  "emendation_count": 0,
+  "source_kind": null,
+  "entry_kind": "recipe",
+  "citation": {
+    "pages": [
+      "2.385"
+    ],
+    "start": {
+      "page": "2.385",
+      "line": "23",
+      "xml_id": "heib-2-385-23"
+    },
+    "end": {
+      "page": "2.385",
+      "line": "26",
+      "xml_id": "heib-2-385-26"
+    },
+    "citation": {
+      "start": "2.385.23",
+      "end": "2.385.26"
+    },
+    "page_spans": [
+      {
+        "page": "2.385",
+        "start_line": "23",
+        "end_line": "26"
+      }
+    ],
+    "lines": [
+      {
+        "page": "2.385",
+        "line": "23",
+        "xml_id": "heib-2-385-23",
+        "break_no": false,
+        "text": "Σχίνινον.",
+        "citation": "2.385.23"
+      },
+      {
+        "page": "2.385",
+        "line": "24",
+        "xml_id": "heib-2-385-24",
+        "break_no": false,
+        "text": "Καὶ τοῦτο τὸν ὅμοιον τρόπον τῷ δαφνίνῳ σκευάζεται ἀπὸ τοῦ",
+        "citation": "2.385.24"
+      },
+      {
+        "page": "2.385",
+        "line": "25",
+        "xml_id": "heib-2-385-25",
+        "break_no": false,
+        "text": "καρποῦ τοῦ σχίνου διττῶς, καθ' αὑτόν τε καὶ σὺν ἐλαίαις οὐ πεπεί-",
+        "citation": "2.385.25"
+      },
+      {
+        "page": "2.385",
+        "line": "26",
+        "xml_id": "heib-2-385-26",
+        "break_no": true,
+        "text": "ροις ἀλλ' ὄμφαξιν.",
+        "citation": "2.385.26"
+      }
+    ],
+    "edition_key": "heiberg"
+  },
+  "notes": [],
+  "alignment_status": "pending",
+  "alignment_confidence": "pending",
+  "alignment_evidence": null,
+  "review_status": "reviewed_structured_authority",
+  "review_provenance": {
+    "authority_source": "reports/entity_review/structured/paul.json",
+    "authority_recipe_id": "paul-7-20-20",
+    "authority_lemma": "Σχίνινον",
+    "model": "gpt-5.4",
+    "reasoning_effort": "high",
+    "dataset_key": "paul_book7_perfumes",
+    "entity_model_version": "1.2",
+    "authority_version": "2026-04-13-qty-alt-v1",
+    "prompt_version": "qty-alt-pass-v1",
+    "build_version": "2026-05-18T15:51:35Z"
+  },
+  "schema_version": "1.2",
+  "build_metadata": {
+    "builder": "scripts/recipes/build_recipe_entities.py",
+    "built_at": "2026-05-18T15:51:35Z",
+    "source_structured_authority": "reports/entity_review/structured/paul.json",
+    "authority_model": "gpt-5.4",
+    "authority_reasoning_effort": "high",
+    "dataset_key": "paul_book7_perfumes",
+    "entity_model_version": "1.2",
+    "authority_version": "2026-04-13-qty-alt-v1",
+    "prompt_version": "qty-alt-pass-v1",
+    "build_version": "2026-05-18T15:51:35Z"
+  },
+  "recipe_text_excerpt": "Καὶ τοῦτο τὸν ὅμοιον τρόπον τῷ δαφνίνῳ σκευάζεται ἀπὸ τοῦ καρποῦ τοῦ σχίνου διττῶς, καθ' αὑτόν τε καὶ σὺν ἐλαίαις",
+  "preparation": {
+    "preparation_id": "paul-7-20-20:preparation:schininon",
+    "preparation_urn": "urn:aos:recipe-preparation:paul-7-20-20:preparation:schininon",
+    "source_span": "Σχίνινον",
+    "surface_form": "Σχίνινον",
+    "normalized_label": "Σχίνινον",
+    "qualifiers": [
+      {
+        "qualifier_type": "other",
+        "source_span": "διττῶς",
+        "normalized_value": "διττῶς",
+        "certainty": "certain",
+        "notes": [
+          "Explicit overall statement that the preparation is made in two variants."
+        ]
+      }
+    ],
+    "regimen_notes": [
+      {
+        "source_span": "καθ' αὑτόν τε καὶ σὺν ἐλαίαις οὐ πεπείροις ἀλλ' ὄμφαξιν",
+        "normalized_note": "δύο παραλλαγαί: καθ' αὑτόν, καὶ σὺν ἐλαίαις οὐ πεπείροις ἀλλ' ὄμφαξιν",
+        "certainty": "certain",
+        "notes": []
+      }
+    ],
+    "certainty": "certain",
+    "notes": [
+      "The running text refers to the preparation anaphorically, so the lemma is used for the preparation span."
+    ],
+    "host_locator": {
+      "book": "7",
+      "chapter": "20",
+      "section": "20",
+      "citation": {
+        "start": "2.385.23",
+        "end": "2.385.26"
+      }
+    }
+  },
+  "ingredients": [
+    {
+      "ingredient_id": "paul-7-20-20:ingredient:karpos-schinoy-1",
+      "ingredient_urn": "urn:aos:recipe-ingredient:paul-7-20-20:ingredient:karpos-schinoy-1",
+      "source_span": "τοῦ καρποῦ τοῦ σχίνου",
+      "surface_form": "τοῦ καρποῦ τοῦ σχίνου",
+      "base_label": "καρπός",
+      "normalized_label": "καρπὸς σχίνου",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [
+        "paul-7-20-20:process:skeyazein-1"
+      ],
+      "quantities": [],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "7",
+        "chapter": "20",
+        "section": "20",
+        "citation": {
+          "start": "2.385.23",
+          "end": "2.385.26"
+        }
+      }
+    },
+    {
+      "ingredient_id": "paul-7-20-20:ingredient:elaiai-omphakes-2",
+      "ingredient_urn": "urn:aos:recipe-ingredient:paul-7-20-20:ingredient:elaiai-omphakes-2",
+      "source_span": "ἐλαίαις οὐ πεπείροις ἀλλ' ὄμφαξιν",
+      "surface_form": "ἐλαίαις οὐ πεπείροις ἀλλ' ὄμφαξιν",
+      "base_label": "ἐλαία",
+      "normalized_label": "ἐλαῖαι ὄμφακες",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [
+        "paul-7-20-20:process:skeyazein-1",
+        "paul-7-20-20:process:pepainein-2"
+      ],
+      "quantities": [],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "7",
+        "chapter": "20",
+        "section": "20",
+        "citation": {
+          "start": "2.385.23",
+          "end": "2.385.26"
+        }
+      }
+    }
+  ],
+  "processes": [
+    {
+      "process_id": "paul-7-20-20:process:skeyazein-1",
+      "process_urn": "urn:aos:recipe-process:paul-7-20-20:process:skeyazein-1",
+      "source_span": "σκευάζεται",
+      "surface_form": "σκευάζεται",
+      "normalized_label": "σκευάζειν",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "manner",
+          "source_span": "τὸν ὅμοιον τρόπον τῷ δαφνίνῳ",
+          "normalized_value": "ὅμοιον τρόπον τῷ δαφνίνῳ",
+          "certainty": "certain",
+          "notes": []
+        },
+        {
+          "qualifier_type": "manner",
+          "source_span": "διττῶς",
+          "normalized_value": "διττῶς",
+          "certainty": "certain",
+          "notes": []
+        },
+        {
+          "qualifier_type": "manner",
+          "source_span": "καθ' αὑτόν",
+          "normalized_value": "καθ' αὑτόν",
+          "certainty": "certain",
+          "notes": []
+        },
+        {
+          "qualifier_type": "other",
+          "source_span": "σὺν ἐλαίαις οὐ πεπείροις ἀλλ' ὄμφαξιν",
+          "normalized_value": "σὺν ἐλαίαις ὄμφαξιν",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "7",
+        "chapter": "20",
+        "section": "20",
+        "citation": {
+          "start": "2.385.23",
+          "end": "2.385.26"
+        }
+      }
+    },
+    {
+      "process_id": "paul-7-20-20:process:pepainein-2",
+      "process_urn": "urn:aos:recipe-process:paul-7-20-20:process:pepainein-2",
+      "source_span": "πεπείροις",
+      "surface_form": "πεπείροις",
+      "normalized_label": "πεπαίνειν",
+      "target_type": "ingredient",
+      "target_ids": [
+        "paul-7-20-20:ingredient:elaiai-omphakes-2"
+      ],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "other",
+          "source_span": "οὐ",
+          "normalized_value": "negated",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "7",
+        "chapter": "20",
+        "section": "20",
+        "citation": {
+          "start": "2.385.23",
+          "end": "2.385.26"
+        }
+      }
+    }
+  ],
+  "materials": [],
+  "people": [],
+  "places": [],
+  "uses": [],
+  "preparation_names": [],
+  "other_preparations_mentioned": [
+    {
+      "reference_id": "paul-7-20-20:reference:daphninon-1",
+      "reference_urn": "urn:aos:recipe-reference:paul-7-20-20:reference:daphninon-1",
+      "source_span": "τῷ δαφνίνῳ",
+      "surface_form": "τῷ δαφνίνῳ",
+      "normalized_label": "δαφνίνον",
+      "certainty": "certain",
+      "notes": [
+        "Distinct preparation mentioned as a comparator for the method."
+      ],
+      "host_locator": {
+        "book": "7",
+        "chapter": "20",
+        "section": "20",
+        "citation": {
+          "start": "2.385.23",
+          "end": "2.385.26"
+        }
+      }
+    }
+  ],
+  "works_mentioned": [],
+  "entities": [
+    {
+      "entity_urn": "urn:aos:recipe-preparation:paul-7-20-20:preparation:schininon",
+      "entity_type": "label",
+      "surface_form": "Σχίνινον",
+      "normalized_label": "Σχίνινον"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:paul-7-20-20:ingredient:karpos-schinoy-1",
+      "entity_type": "ingredient",
+      "surface_form": "τοῦ καρποῦ τοῦ σχίνου",
+      "normalized_label": "καρπὸς σχίνου"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:paul-7-20-20:ingredient:elaiai-omphakes-2",
+      "entity_type": "ingredient",
+      "surface_form": "ἐλαίαις οὐ πεπείροις ἀλλ' ὄμφαξιν",
+      "normalized_label": "ἐλαῖαι ὄμφακες"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:paul-7-20-20:process:skeyazein-1",
+      "entity_type": "process",
+      "surface_form": "σκευάζεται",
+      "normalized_label": "σκευάζειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:paul-7-20-20:process:pepainein-2",
+      "entity_type": "process",
+      "surface_form": "πεπείροις",
+      "normalized_label": "πεπαίνειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-reference:paul-7-20-20:reference:daphninon-1",
+      "entity_type": "preparation_reference",
+      "surface_form": "τῷ δαφνίνῳ",
+      "normalized_label": "δαφνίνον"
+    }
+  ]
+}

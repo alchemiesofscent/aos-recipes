@@ -1,0 +1,303 @@
+{
+  "dataset_key": "dioscorides_book1_perfumes_resins",
+  "source_json": "experiments/dioscorides-book1-perfumes-resins/data/dioscorides_book1_perfumes_resins.json",
+  "host_raw_file": "tei/raw/tlg0656.tlg001.1st1K-grc1.xml",
+  "work_slug": "diosc.b1.recipes",
+  "recipe_id": "dioscorides-1-31-thalloi-oil",
+  "recipe_urn": "urn:aos:recipe:dioscorides-1-31-thalloi-oil",
+  "record_urn": "urn:aos:recipe-record:dioscorides-1-31-thalloi-oil",
+  "author": "Dioscorides",
+  "work": "De materia medica",
+  "book": "1",
+  "chapter": "31",
+  "section": null,
+  "chapter_name": "ἐλαιόμελι",
+  "lemma": "ἔλαιον ἐκ θαλλῶν ἐλαίας",
+  "text": "σκευάζεται δὲ καὶ ἐκ τοῦ λίπους τῶν θαλλῶν ἔλαιον. ἔστι δὲ αὐτοῦ κάλλιστον τὸ παλαιὸν καὶ παχὺ καὶ λιπαρόν, οὐ τεθολωμένον. θερμαίνει δὲ ἰδίως ποιοῦν πρὸς τὰ ἐπισκοτοῦντα ταῖς κόραις ἐγχριόμενον, καὶ λέπρας καὶ ἀλγήματα τὰ περὶ νεῦρα ἐγχριόμενον ὠφελεῖ.",
+  "original_text": null,
+  "text_source": null,
+  "emendations": [],
+  "emendation_count": 0,
+  "source_kind": "main_text",
+  "entry_kind": "recipe",
+  "citation": {
+    "pages": [
+      "36"
+    ],
+    "start": {
+      "page": "36",
+      "line": "15"
+    },
+    "end": {
+      "page": "36",
+      "line": "15"
+    },
+    "citation": {
+      "start": "36.15",
+      "end": "36.15"
+    },
+    "page_spans": [
+      {
+        "page": "36",
+        "start_line": "15",
+        "end_line": "15"
+      }
+    ],
+    "lines": [
+      {
+        "page": "36",
+        "line": "15",
+        "break_no": false,
+        "text": "σκευάζεται δὲ καὶ ἐκ τοῦ λίπους τῶν θαλλῶν ἔλαιον. ἔστι δὲ αὐτοῦ κάλλιστον τὸ παλαιὸν καὶ παχὺ καὶ λιπαρόν, οὐ τεθολωμένον. θερμαίνει δὲ ἰδίως ποιοῦν πρὸς τὰ ἐπισκοτοῦντα ταῖς κόραις ἐγχριόμενον, καὶ λέπρας καὶ ἀλγήματα τὰ περὶ νεῦρα ἐγχριόμενον ὠφελεῖ.",
+        "citation": "36.15"
+      }
+    ],
+    "edition_key": "wellmann"
+  },
+  "notes": [
+    "Raw lines 1590-1633 are book 1 chapter 25 in this witness, although the prompt referred to chapter 35.",
+    "The perfume proemium is taken from the later transition at chapter 42 section 2 (raw lines 2306-2342), not from the chapter 25 κῦφι entry.",
+    "The ἰασμέλαιον entry is preserved only in the apparatus as an addition from another recension.",
+    "The text attributes warming action to the preparation: θερμαίνει δὲ ἰδίως ποιοῦν."
+  ],
+  "alignment_status": "pending",
+  "alignment_confidence": "pending",
+  "alignment_evidence": null,
+  "review_status": "reviewed_structured_authority",
+  "review_provenance": {
+    "authority_source": "reports/entity_review/structured/dioscorides.json",
+    "authority_recipe_id": "dioscorides-1-31-thalloi-oil",
+    "authority_lemma": "ἔλαιον ἐκ θαλλῶν ἐλαίας",
+    "model": "gpt-5.4",
+    "reasoning_effort": "high",
+    "dataset_key": "dioscorides_book1_perfumes_resins",
+    "entity_model_version": "1.2",
+    "authority_version": "2026-04-13-qty-alt-v1",
+    "prompt_version": "qty-alt-pass-v1",
+    "build_version": "2026-05-18T15:51:35Z"
+  },
+  "schema_version": "1.2",
+  "build_metadata": {
+    "builder": "scripts/recipes/build_recipe_entities.py",
+    "built_at": "2026-05-18T15:51:35Z",
+    "source_structured_authority": "reports/entity_review/structured/dioscorides.json",
+    "authority_model": "gpt-5.4",
+    "authority_reasoning_effort": "high",
+    "dataset_key": "dioscorides_book1_perfumes_resins",
+    "entity_model_version": "1.2",
+    "authority_version": "2026-04-13-qty-alt-v1",
+    "prompt_version": "qty-alt-pass-v1",
+    "build_version": "2026-05-18T15:51:35Z"
+  },
+  "recipe_text_excerpt": "σκευάζεται δὲ καὶ ἐκ τοῦ λίπους τῶν θαλλῶν ἔλαιον. ἔστι δὲ αὐτοῦ κάλλιστον τὸ παλαιὸν καὶ παχὺ καὶ λιπαρόν, οὐ",
+  "preparation": {
+    "preparation_id": "dioscorides-1-31-thalloi-oil:preparation:elaion-ek-thallon-elaias",
+    "preparation_urn": "urn:aos:recipe-preparation:dioscorides-1-31-thalloi-oil:preparation:elaion-ek-thallon-elaias",
+    "source_span": "ἔλαιον ἐκ θαλλῶν ἐλαίας",
+    "surface_form": "ἔλαιον ἐκ θαλλῶν ἐλαίας",
+    "normalized_label": "ἔλαιον ἐκ θαλλῶν ἐλαίας",
+    "qualifiers": [],
+    "regimen_notes": [],
+    "certainty": "certain",
+    "notes": [
+      "Used lemma because the running text only restates generic ἔλαιον.",
+      "The text describes desirable quality (τὸ παλαιὸν καὶ παχὺ καὶ λιπαρόν, οὐ τεθολωμένον) rather than a distinct preparation subtype or regimen."
+    ],
+    "host_locator": {
+      "book": "1",
+      "chapter": "31",
+      "section": null,
+      "citation": {
+        "start": "36.15",
+        "end": "36.15"
+      }
+    }
+  },
+  "ingredients": [
+    {
+      "ingredient_id": "dioscorides-1-31-thalloi-oil:ingredient:lipos-thallon-elaias-1",
+      "ingredient_urn": "urn:aos:recipe-ingredient:dioscorides-1-31-thalloi-oil:ingredient:lipos-thallon-elaias-1",
+      "source_span": "τοῦ λίπους τῶν θαλλῶν",
+      "surface_form": "τοῦ λίπους τῶν θαλλῶν",
+      "base_label": "λίπος",
+      "normalized_label": "λίπος θαλλῶν ἐλαίας",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [
+        "dioscorides-1-31-thalloi-oil:process:skeyazein-1"
+      ],
+      "quantities": [],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "31",
+        "section": null,
+        "citation": {
+          "start": "36.15",
+          "end": "36.15"
+        }
+      }
+    }
+  ],
+  "processes": [
+    {
+      "process_id": "dioscorides-1-31-thalloi-oil:process:skeyazein-1",
+      "process_urn": "urn:aos:recipe-process:dioscorides-1-31-thalloi-oil:process:skeyazein-1",
+      "source_span": "σκευάζεται",
+      "surface_form": "σκευάζεται",
+      "normalized_label": "σκευάζειν",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "31",
+        "section": null,
+        "citation": {
+          "start": "36.15",
+          "end": "36.15"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-1-31-thalloi-oil:process:egchriein-2",
+      "process_urn": "urn:aos:recipe-process:dioscorides-1-31-thalloi-oil:process:egchriein-2",
+      "source_span": "ἐγχριόμενον",
+      "surface_form": "ἐγχριόμενον",
+      "normalized_label": "ἐγχρίειν",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "other",
+          "source_span": "πρὸς τὰ ἐπισκοτοῦντα ταῖς κόραις",
+          "normalized_value": null,
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "31",
+        "section": null,
+        "citation": {
+          "start": "36.15",
+          "end": "36.15"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-1-31-thalloi-oil:process:egchriein-3",
+      "process_urn": "urn:aos:recipe-process:dioscorides-1-31-thalloi-oil:process:egchriein-3",
+      "source_span": "ἐγχριόμενον",
+      "surface_form": "ἐγχριόμενον",
+      "normalized_label": "ἐγχρίειν",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "other",
+          "source_span": "λέπρας καὶ ἀλγήματα τὰ περὶ νεῦρα",
+          "normalized_value": null,
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "31",
+        "section": null,
+        "citation": {
+          "start": "36.15",
+          "end": "36.15"
+        }
+      }
+    }
+  ],
+  "materials": [],
+  "people": [],
+  "places": [],
+  "uses": [
+    {
+      "use_id": "dioscorides-1-31-thalloi-oil:use:pros-ta-episkotoynta-tais-korais-egchriomenon-1",
+      "use_urn": "urn:aos:recipe-use:dioscorides-1-31-thalloi-oil:use:pros-ta-episkotoynta-tais-korais-egchriomenon-1",
+      "category": "medical",
+      "source_span": "πρὸς τὰ ἐπισκοτοῦντα ταῖς κόραις ἐγχριόμενον",
+      "snippet": "πρὸς τὰ ἐπισκοτοῦντα ταῖς κόραις ἐγχριόμενον",
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "31",
+        "section": null,
+        "citation": {
+          "start": "36.15",
+          "end": "36.15"
+        }
+      }
+    },
+    {
+      "use_id": "dioscorides-1-31-thalloi-oil:use:lepras-kai-algemata-ta-peri-neyra-egchriomenon-ophelei-2",
+      "use_urn": "urn:aos:recipe-use:dioscorides-1-31-thalloi-oil:use:lepras-kai-algemata-ta-peri-neyra-egchriomenon-ophelei-2",
+      "category": "medical",
+      "source_span": "λέπρας καὶ ἀλγήματα τὰ περὶ νεῦρα ἐγχριόμενον ὠφελεῖ",
+      "snippet": "λέπρας καὶ ἀλγήματα τὰ περὶ νεῦρα ἐγχριόμενον ὠφελεῖ",
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "31",
+        "section": null,
+        "citation": {
+          "start": "36.15",
+          "end": "36.15"
+        }
+      }
+    }
+  ],
+  "preparation_names": [],
+  "other_preparations_mentioned": [],
+  "works_mentioned": [],
+  "entities": [
+    {
+      "entity_urn": "urn:aos:recipe-preparation:dioscorides-1-31-thalloi-oil:preparation:elaion-ek-thallon-elaias",
+      "entity_type": "label",
+      "surface_form": "ἔλαιον ἐκ θαλλῶν ἐλαίας",
+      "normalized_label": "ἔλαιον ἐκ θαλλῶν ἐλαίας"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:dioscorides-1-31-thalloi-oil:ingredient:lipos-thallon-elaias-1",
+      "entity_type": "ingredient",
+      "surface_form": "τοῦ λίπους τῶν θαλλῶν",
+      "normalized_label": "λίπος θαλλῶν ἐλαίας"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-1-31-thalloi-oil:process:skeyazein-1",
+      "entity_type": "process",
+      "surface_form": "σκευάζεται",
+      "normalized_label": "σκευάζειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-1-31-thalloi-oil:process:egchriein-2",
+      "entity_type": "process",
+      "surface_form": "ἐγχριόμενον",
+      "normalized_label": "ἐγχρίειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-1-31-thalloi-oil:process:egchriein-3",
+      "entity_type": "process",
+      "surface_form": "ἐγχριόμενον",
+      "normalized_label": "ἐγχρίειν"
+    }
+  ]
+}

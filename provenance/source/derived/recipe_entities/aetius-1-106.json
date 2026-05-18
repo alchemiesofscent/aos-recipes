@@ -1,0 +1,471 @@
+{
+  "dataset_key": "aetius_book1_oils",
+  "source_json": "experiments/aetius-book1-ch99-136-oils/data/aetius_book1_ch99_136_oils.json",
+  "host_raw_file": "tei/raw/tlg0718001.xml",
+  "work_slug": "aetius.b1.oils",
+  "recipe_id": "aetius-1-106",
+  "recipe_urn": "urn:aos:recipe:aetius-1-106",
+  "record_urn": "urn:aos:recipe-record:aetius-1-106",
+  "author": "Aëtius of Amida",
+  "work": "Libri medicinales",
+  "book": "1",
+  "chapter": "106",
+  "section": "106",
+  "chapter_name": "Καρύινον",
+  "lemma": "Καρύινον",
+  "text": "Καρύινον. Ὁμοίως τῷ ἀμυγδαλίνῳ καὶ τοῦτο σκευάζεται ἢ κοπτομένῳ καὶ πιεζομένῳ ἢ εἰς ζέον ὕδωρ ἐμβαλλομένῳ μετὰ τὸ κοπῆναι καὶ ἁρμόζει δὲ τοῖς αὐτοῖς· περιττὸν δὲ ἔχει τὸ χρησιμεύειν τοῖς χρυσοῦσιν ἢ ἐγκαίουσι· ξηραίνει τε γὰρ καὶ συνέχει πολὺν χρόνον τὰς χρυσώσεις καὶ ἐγκαύσεις.",
+  "original_text": "Καρύινον. Ὁμοίως τῷ ἀμυγδαλίνῳ καὶ τοῦτο σκευάζεται ἢ κοπτομένῳ καὶ πιεζομένῳ ἢ εἰς ζέον ὕδωρ ἐμβαλλομένῳ μετὰ τὸ κοπῆναι καὶ ἁρμόζει δὲ τοῖς αὐτοῖς· περιττὸν δὲ ἔχει τὸ χρησιμεύειν τοῖς χρυσοῦσιν ἢ ἐγκαίουσι· ξηραίνει τε γὰρ καὶ συνέχει πολὺν χρόνον τὰς χρυσώσεις καὶ ἐγκαύσεις.",
+  "text_source": "olivieri",
+  "emendations": [],
+  "emendation_count": 0,
+  "source_kind": null,
+  "entry_kind": "recipe",
+  "citation": {
+    "pages": [
+      "55"
+    ],
+    "start": {
+      "page": "55",
+      "line": "20",
+      "xml_id": "oliv-55-20"
+    },
+    "end": {
+      "page": "55",
+      "line": "24",
+      "xml_id": "oliv-55-24"
+    },
+    "citation": {
+      "start": "55.20",
+      "end": "55.24"
+    },
+    "page_spans": [
+      {
+        "page": "55",
+        "start_line": "20",
+        "end_line": "24"
+      }
+    ],
+    "lines": [
+      {
+        "page": "55",
+        "line": "20",
+        "xml_id": "oliv-55-20",
+        "break_no": false,
+        "text": "Καρύινον. Ὁμοίως τῷ ἀμυγδαλίνῳ καὶ τοῦτο σκευάζεται ἢ κοπτο-",
+        "citation": "55.20"
+      },
+      {
+        "page": "55",
+        "line": "21",
+        "xml_id": "oliv-55-21",
+        "break_no": true,
+        "text": "μένῳ καὶ πιεζομένῳ ἢ εἰς ζέον ὕδωρ ἐμβαλλομένῳ μετὰ τὸ κοπῆναι",
+        "citation": "55.21"
+      },
+      {
+        "page": "55",
+        "line": "22",
+        "xml_id": "oliv-55-22",
+        "break_no": false,
+        "text": "καὶ ἁρμόζει δὲ τοῖς αὐτοῖς· περιττὸν δὲ ἔχει τὸ χρησιμεύειν τοῖς",
+        "citation": "55.22"
+      },
+      {
+        "page": "55",
+        "line": "23",
+        "xml_id": "oliv-55-23",
+        "break_no": false,
+        "text": "χρυσοῦσιν ἢ ἐγκαίουσι· ξηραίνει τε γὰρ καὶ συνέχει πολὺν χρόνον",
+        "citation": "55.23"
+      },
+      {
+        "page": "55",
+        "line": "24",
+        "xml_id": "oliv-55-24",
+        "break_no": false,
+        "text": "τὰς χρυσώσεις καὶ ἐγκαύσεις.",
+        "citation": "55.24"
+      }
+    ],
+    "edition_key": "olivieri"
+  },
+  "notes": [],
+  "alignment_status": "pending",
+  "alignment_confidence": "pending",
+  "alignment_evidence": null,
+  "review_status": "reviewed_structured_authority",
+  "review_provenance": {
+    "authority_source": "reports/entity_review/structured/aetius_book1.json",
+    "authority_recipe_id": "aetius-1-106",
+    "authority_lemma": "Καρύινον",
+    "model": "gpt-5.4",
+    "reasoning_effort": "high",
+    "dataset_key": "aetius_book1_oils",
+    "entity_model_version": "1.2",
+    "authority_version": "2026-04-13-qty-alt-v1",
+    "prompt_version": "qty-alt-pass-v1",
+    "build_version": "2026-05-18T15:51:35Z"
+  },
+  "schema_version": "1.2",
+  "build_metadata": {
+    "builder": "scripts/recipes/build_recipe_entities.py",
+    "built_at": "2026-05-18T15:51:35Z",
+    "source_structured_authority": "reports/entity_review/structured/aetius_book1.json",
+    "authority_model": "gpt-5.4",
+    "authority_reasoning_effort": "high",
+    "dataset_key": "aetius_book1_oils",
+    "entity_model_version": "1.2",
+    "authority_version": "2026-04-13-qty-alt-v1",
+    "prompt_version": "qty-alt-pass-v1",
+    "build_version": "2026-05-18T15:51:35Z"
+  },
+  "recipe_text_excerpt": "Καρύινον. Ὁμοίως τῷ ἀμυγδαλίνῳ καὶ τοῦτο σκευάζεται ἢ κοπτομένῳ καὶ πιεζομένῳ ἢ εἰς ζέον ὕδωρ ἐμβαλλομένῳ μετὰ τὸ κοπῆναι καὶ",
+  "preparation": {
+    "preparation_id": "aetius-1-106:preparation:karyinon",
+    "preparation_urn": "urn:aos:recipe-preparation:aetius-1-106:preparation:karyinon",
+    "source_span": "Καρύινον",
+    "surface_form": "Καρύινον",
+    "normalized_label": "Καρύινον",
+    "qualifiers": [],
+    "regimen_notes": [
+      {
+        "source_span": "Ὁμοίως τῷ ἀμυγδαλίνῳ καὶ τοῦτο σκευάζεται",
+        "normalized_note": "ὁμοίως τῷ ἀμυγδαλίνῳ σκευάζεται",
+        "certainty": "certain",
+        "notes": []
+      }
+    ],
+    "certainty": "certain",
+    "notes": [
+      "Used lemma because the running text does not restate the preparation name cleanly."
+    ],
+    "host_locator": {
+      "book": "1",
+      "chapter": "106",
+      "section": "106",
+      "citation": {
+        "start": "55.20",
+        "end": "55.24"
+      }
+    }
+  },
+  "ingredients": [
+    {
+      "ingredient_id": "aetius-1-106:ingredient:karya-1",
+      "ingredient_urn": "urn:aos:recipe-ingredient:aetius-1-106:ingredient:karya-1",
+      "source_span": "καρυῶν",
+      "surface_form": "καρυῶν",
+      "base_label": "κάρυα",
+      "normalized_label": "κάρυα",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [
+        "aetius-1-106:process:koptein-2",
+        "aetius-1-106:process:koptein-4",
+        "aetius-1-106:process:piezein-3",
+        "aetius-1-106:process:emballein-5"
+      ],
+      "quantities": [],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "106",
+        "section": "106",
+        "citation": {
+          "start": "55.20",
+          "end": "55.24"
+        }
+      }
+    },
+    {
+      "ingredient_id": "aetius-1-106:ingredient:zeon-ydor-2",
+      "ingredient_urn": "urn:aos:recipe-ingredient:aetius-1-106:ingredient:zeon-ydor-2",
+      "source_span": "ζέον ὕδωρ",
+      "surface_form": "ζέον ὕδωρ",
+      "base_label": "ὕδωρ",
+      "normalized_label": "ζέον ὕδωρ",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [
+        "aetius-1-106:process:emballein-5"
+      ],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "temperature",
+          "source_span": "ζέον",
+          "normalized_value": "ζέον",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "106",
+        "section": "106",
+        "citation": {
+          "start": "55.20",
+          "end": "55.24"
+        }
+      }
+    }
+  ],
+  "processes": [
+    {
+      "process_id": "aetius-1-106:process:skeyazesthai-1",
+      "process_urn": "urn:aos:recipe-process:aetius-1-106:process:skeyazesthai-1",
+      "source_span": "σκευάζεται",
+      "surface_form": "σκευάζεται",
+      "normalized_label": "σκευάζεσθαι",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "manner",
+          "source_span": "Ὁμοίως τῷ ἀμυγδαλίνῳ",
+          "normalized_value": "ὁμοίως τῷ ἀμυγδαλίνῳ",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "106",
+        "section": "106",
+        "citation": {
+          "start": "55.20",
+          "end": "55.24"
+        }
+      }
+    },
+    {
+      "process_id": "aetius-1-106:process:koptein-2",
+      "process_urn": "urn:aos:recipe-process:aetius-1-106:process:koptein-2",
+      "source_span": "κοπτομένῳ",
+      "surface_form": "κοπτομένῳ",
+      "normalized_label": "κόπτειν",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "106",
+        "section": "106",
+        "citation": {
+          "start": "55.20",
+          "end": "55.24"
+        }
+      }
+    },
+    {
+      "process_id": "aetius-1-106:process:piezein-3",
+      "process_urn": "urn:aos:recipe-process:aetius-1-106:process:piezein-3",
+      "source_span": "πιεζομένῳ",
+      "surface_form": "πιεζομένῳ",
+      "normalized_label": "πιέζειν",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "106",
+        "section": "106",
+        "citation": {
+          "start": "55.20",
+          "end": "55.24"
+        }
+      }
+    },
+    {
+      "process_id": "aetius-1-106:process:koptein-4",
+      "process_urn": "urn:aos:recipe-process:aetius-1-106:process:koptein-4",
+      "source_span": "κοπῆναι",
+      "surface_form": "κοπῆναι",
+      "normalized_label": "κόπτειν",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "106",
+        "section": "106",
+        "citation": {
+          "start": "55.20",
+          "end": "55.24"
+        }
+      }
+    },
+    {
+      "process_id": "aetius-1-106:process:emballein-5",
+      "process_urn": "urn:aos:recipe-process:aetius-1-106:process:emballein-5",
+      "source_span": "ἐμβαλλομένῳ",
+      "surface_form": "ἐμβαλλομένῳ",
+      "normalized_label": "ἐμβάλλειν",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "location",
+          "source_span": "εἰς ζέον ὕδωρ",
+          "normalized_value": "εἰς ζέον ὕδωρ",
+          "certainty": "certain",
+          "notes": []
+        },
+        {
+          "qualifier_type": "other",
+          "source_span": "μετὰ τὸ κοπῆναι",
+          "normalized_value": "μετὰ τὸ κόπτειν",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "106",
+        "section": "106",
+        "citation": {
+          "start": "55.20",
+          "end": "55.24"
+        }
+      }
+    }
+  ],
+  "materials": [],
+  "people": [],
+  "places": [],
+  "uses": [
+    {
+      "use_id": "aetius-1-106:use:tois-chrysoysin-1",
+      "use_urn": "urn:aos:recipe-use:aetius-1-106:use:tois-chrysoysin-1",
+      "category": "other",
+      "source_span": "τοῖς χρυσοῦσιν",
+      "snippet": "χρησιμεύειν τοῖς χρυσοῦσιν",
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "106",
+        "section": "106",
+        "citation": {
+          "start": "55.20",
+          "end": "55.24"
+        }
+      }
+    },
+    {
+      "use_id": "aetius-1-106:use:egkaioysi-2",
+      "use_urn": "urn:aos:recipe-use:aetius-1-106:use:egkaioysi-2",
+      "category": "medical",
+      "source_span": "ἐγκαίουσι",
+      "snippet": "χρησιμεύειν τοῖς χρυσοῦσιν ἢ ἐγκαίουσι",
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "106",
+        "section": "106",
+        "citation": {
+          "start": "55.20",
+          "end": "55.24"
+        }
+      }
+    }
+  ],
+  "preparation_names": [],
+  "other_preparations_mentioned": [
+    {
+      "reference_id": "aetius-1-106:reference:amygdalinon-1",
+      "reference_urn": "urn:aos:recipe-reference:aetius-1-106:reference:amygdalinon-1",
+      "source_span": "τῷ ἀμυγδαλίνῳ",
+      "surface_form": "τῷ ἀμυγδαλίνῳ",
+      "normalized_label": "ἀμυγδάλινον",
+      "certainty": "certain",
+      "notes": [
+        "Referenced as a distinct preparation for comparison of preparation method."
+      ],
+      "host_locator": {
+        "book": "1",
+        "chapter": "106",
+        "section": "106",
+        "citation": {
+          "start": "55.20",
+          "end": "55.24"
+        }
+      }
+    }
+  ],
+  "works_mentioned": [],
+  "entities": [
+    {
+      "entity_urn": "urn:aos:recipe-preparation:aetius-1-106:preparation:karyinon",
+      "entity_type": "label",
+      "surface_form": "Καρύινον",
+      "normalized_label": "Καρύινον"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:aetius-1-106:ingredient:karya-1",
+      "entity_type": "ingredient",
+      "surface_form": "καρυῶν",
+      "normalized_label": "κάρυα"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:aetius-1-106:ingredient:zeon-ydor-2",
+      "entity_type": "ingredient",
+      "surface_form": "ζέον ὕδωρ",
+      "normalized_label": "ζέον ὕδωρ"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:aetius-1-106:process:skeyazesthai-1",
+      "entity_type": "process",
+      "surface_form": "σκευάζεται",
+      "normalized_label": "σκευάζεσθαι"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:aetius-1-106:process:koptein-2",
+      "entity_type": "process",
+      "surface_form": "κοπτομένῳ",
+      "normalized_label": "κόπτειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:aetius-1-106:process:piezein-3",
+      "entity_type": "process",
+      "surface_form": "πιεζομένῳ",
+      "normalized_label": "πιέζειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:aetius-1-106:process:koptein-4",
+      "entity_type": "process",
+      "surface_form": "κοπῆναι",
+      "normalized_label": "κόπτειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:aetius-1-106:process:emballein-5",
+      "entity_type": "process",
+      "surface_form": "ἐμβαλλομένῳ",
+      "normalized_label": "ἐμβάλλειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-reference:aetius-1-106:reference:amygdalinon-1",
+      "entity_type": "preparation_reference",
+      "surface_form": "τῷ ἀμυγδαλίνῳ",
+      "normalized_label": "ἀμυγδάλινον"
+    }
+  ]
+}

@@ -1,0 +1,462 @@
+{
+  "dataset_key": "dioscorides_book1_perfumes_resins",
+  "source_json": "experiments/dioscorides-book1-perfumes-resins/data/dioscorides_book1_perfumes_resins.json",
+  "host_raw_file": "tei/raw/tlg0656.tlg001.1st1K-grc1.xml",
+  "work_slug": "diosc.b1.recipes",
+  "recipe_id": "dioscorides-1-37-raphaninon",
+  "recipe_urn": "urn:aos:recipe:dioscorides-1-37-raphaninon",
+  "record_urn": "urn:aos:recipe-record:dioscorides-1-37-raphaninon",
+  "author": "Dioscorides",
+  "work": "De materia medica",
+  "book": "1",
+  "chapter": "37",
+  "section": null,
+  "chapter_name": "ῥαφάνινον",
+  "lemma": "ῥαφάνινον",
+  "text": "37 τὸ δὲ ῥαφάνινον σκευάζεται ἐκ τοῦ αὐτῆς σπέρματος ὁμοίως ὥσπερ καὶ τὰ λοιπά. ἁρμόζει δὲ τοῖς ἐκ νόσου φθειριῶσι καὶ τὰς περὶ τὸ πρόσωπον σμήχει τραχύτητας. χρῶνται δὲ αὐτῷ οἱ ἐν Αἰγύπτῳ τοῖς προσοψήμασι συνέψοντες αὐτό.",
+  "original_text": null,
+  "text_source": null,
+  "emendations": [],
+  "emendation_count": 0,
+  "source_kind": "main_text",
+  "entry_kind": "recipe",
+  "citation": {
+    "pages": [
+      "39"
+    ],
+    "start": {
+      "page": "39",
+      "line": "5"
+    },
+    "end": {
+      "page": "39",
+      "line": "10"
+    },
+    "citation": {
+      "start": "39.5",
+      "end": "39.10"
+    },
+    "page_spans": [
+      {
+        "page": "39",
+        "start_line": "5",
+        "end_line": "10"
+      }
+    ],
+    "lines": [
+      {
+        "page": "39",
+        "line": "5",
+        "break_no": false,
+        "text": "37 τὸ δὲ ῥαφάνινον σκευάζεται ἐκ τοῦ αὐτῆς σπέρματος",
+        "citation": "39.5"
+      },
+      {
+        "page": "39",
+        "line": "10",
+        "break_no": false,
+        "text": "ὁμοίως ὥσπερ καὶ τὰ λοιπά. ἁρμόζει δὲ τοῖς ἐκ νόσου φθειριῶσι καὶ τὰς περὶ τὸ πρόσωπον σμήχει τραχύτητας. χρῶνται δὲ αὐτῷ οἱ ἐν Αἰγύπτῳ τοῖς προσοψήμασι συνέψοντες αὐτό.",
+        "citation": "39.10"
+      }
+    ],
+    "edition_key": "wellmann"
+  },
+  "notes": [
+    "Raw lines 1590-1633 are book 1 chapter 25 in this witness, although the prompt referred to chapter 35.",
+    "The perfume proemium is taken from the later transition at chapter 42 section 2 (raw lines 2306-2342), not from the chapter 25 κῦφι entry.",
+    "The ἰασμέλαιον entry is preserved only in the apparatus as an addition from another recension."
+  ],
+  "alignment_status": "pending",
+  "alignment_confidence": "pending",
+  "alignment_evidence": null,
+  "review_status": "reviewed_structured_authority",
+  "review_provenance": {
+    "authority_source": "reports/entity_review/structured/dioscorides.json",
+    "authority_recipe_id": "dioscorides-1-37-raphaninon",
+    "authority_lemma": "ῥαφάνινον",
+    "model": "gpt-5.4",
+    "reasoning_effort": "high",
+    "dataset_key": "dioscorides_book1_perfumes_resins",
+    "entity_model_version": "1.2",
+    "authority_version": "2026-04-13-qty-alt-v1",
+    "prompt_version": "qty-alt-pass-v1",
+    "build_version": "2026-05-18T15:51:35Z"
+  },
+  "schema_version": "1.2",
+  "build_metadata": {
+    "builder": "scripts/recipes/build_recipe_entities.py",
+    "built_at": "2026-05-18T15:51:35Z",
+    "source_structured_authority": "reports/entity_review/structured/dioscorides.json",
+    "authority_model": "gpt-5.4",
+    "authority_reasoning_effort": "high",
+    "dataset_key": "dioscorides_book1_perfumes_resins",
+    "entity_model_version": "1.2",
+    "authority_version": "2026-04-13-qty-alt-v1",
+    "prompt_version": "qty-alt-pass-v1",
+    "build_version": "2026-05-18T15:51:35Z"
+  },
+  "recipe_text_excerpt": "τὸ δὲ ῥαφάνινον σκευάζεται ἐκ τοῦ αὐτῆς σπέρματος ὁμοίως ὥσπερ καὶ τὰ λοιπά. ἁρμόζει δὲ τοῖς ἐκ νόσου φθειριῶσι καὶ",
+  "preparation": {
+    "preparation_id": "dioscorides-1-37-raphaninon:preparation:raphaninon",
+    "preparation_urn": "urn:aos:recipe-preparation:dioscorides-1-37-raphaninon:preparation:raphaninon",
+    "source_span": "ῥαφάνινον",
+    "surface_form": "ῥαφάνινον",
+    "normalized_label": "ῥαφάνινον",
+    "qualifiers": [],
+    "regimen_notes": [
+      {
+        "source_span": "σκευάζεται ἐκ τοῦ αὐτῆς σπέρματος ὁμοίως ὥσπερ καὶ τὰ λοιπά",
+        "normalized_note": "ἐκ τοῦ αὐτῆς σπέρματος σκευάζεται, ὁμοίως τοῖς λοιποῖς",
+        "certainty": "certain",
+        "notes": [
+          "The preparation statement is abbreviated by cross-reference to τὰ λοιπά rather than restated in full."
+        ]
+      }
+    ],
+    "certainty": "certain",
+    "notes": [],
+    "host_locator": {
+      "book": "1",
+      "chapter": "37",
+      "section": null,
+      "citation": {
+        "start": "39.5",
+        "end": "39.10"
+      }
+    }
+  },
+  "ingredients": [
+    {
+      "ingredient_id": "dioscorides-1-37-raphaninon:ingredient:sperma-1",
+      "ingredient_urn": "urn:aos:recipe-ingredient:dioscorides-1-37-raphaninon:ingredient:sperma-1",
+      "source_span": "τοῦ αὐτῆς σπέρματος",
+      "surface_form": "τοῦ αὐτῆς σπέρματος",
+      "base_label": "σπέρμα",
+      "normalized_label": "σπέρμα",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [
+        "dioscorides-1-37-raphaninon:process:skeyazesthai-1"
+      ],
+      "quantities": [],
+      "qualifiers": [],
+      "notes": [
+        "The possessor is given only by αὐτῆς."
+      ],
+      "host_locator": {
+        "book": "1",
+        "chapter": "37",
+        "section": null,
+        "citation": {
+          "start": "39.5",
+          "end": "39.10"
+        }
+      }
+    }
+  ],
+  "processes": [
+    {
+      "process_id": "dioscorides-1-37-raphaninon:process:skeyazesthai-1",
+      "process_urn": "urn:aos:recipe-process:dioscorides-1-37-raphaninon:process:skeyazesthai-1",
+      "source_span": "σκευάζεται",
+      "surface_form": "σκευάζεται",
+      "normalized_label": "σκευάζεσθαι",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "manner",
+          "source_span": "ὁμοίως ὥσπερ καὶ τὰ λοιπά",
+          "normalized_value": "ὁμοίως",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "37",
+        "section": null,
+        "citation": {
+          "start": "39.5",
+          "end": "39.10"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-1-37-raphaninon:process:synepsein-2",
+      "process_urn": "urn:aos:recipe-process:dioscorides-1-37-raphaninon:process:synepsein-2",
+      "source_span": "συνέψοντες",
+      "surface_form": "συνέψοντες",
+      "normalized_label": "συνέψειν",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "location",
+          "source_span": "ἐν Αἰγύπτῳ",
+          "normalized_value": "Αἴγυπτος",
+          "certainty": "certain",
+          "notes": []
+        },
+        {
+          "qualifier_type": "other",
+          "source_span": "τοῖς προσοψήμασι",
+          "normalized_value": "προσοψήματα",
+          "certainty": "certain",
+          "notes": [
+            "Use-context accompaniment rather than a preparation ingredient."
+          ]
+        }
+      ],
+      "certainty": "certain",
+      "notes": [
+        "Describes culinary use rather than the initial preparation."
+      ],
+      "host_locator": {
+        "book": "1",
+        "chapter": "37",
+        "section": null,
+        "citation": {
+          "start": "39.5",
+          "end": "39.10"
+        }
+      }
+    }
+  ],
+  "materials": [],
+  "people": [
+    {
+      "person_id": "dioscorides-1-37-raphaninon:person:oi-en-aigypto-1",
+      "person_urn": "urn:aos:recipe-person:dioscorides-1-37-raphaninon:person:oi-en-aigypto-1",
+      "source_span": "οἱ ἐν Αἰγύπτῳ",
+      "surface_form": "οἱ ἐν Αἰγύπτῳ",
+      "normalized_label": "οἱ ἐν Αἰγύπτῳ",
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "37",
+        "section": null,
+        "citation": {
+          "start": "39.5",
+          "end": "39.10"
+        }
+      }
+    }
+  ],
+  "places": [
+    {
+      "place_id": "dioscorides-1-37-raphaninon:place:aigyptos-1",
+      "place_urn": "urn:aos:recipe-place:dioscorides-1-37-raphaninon:place:aigyptos-1",
+      "source_span": "Αἰγύπτῳ",
+      "surface_form": "Αἰγύπτῳ",
+      "normalized_label": "Αἴγυπτος",
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "37",
+        "section": null,
+        "citation": {
+          "start": "39.5",
+          "end": "39.10"
+        }
+      }
+    }
+  ],
+  "uses": [
+    {
+      "use_id": "dioscorides-1-37-raphaninon:use:armozei-de-tois-ek-nosoy-phtheiriosi-1",
+      "use_urn": "urn:aos:recipe-use:dioscorides-1-37-raphaninon:use:armozei-de-tois-ek-nosoy-phtheiriosi-1",
+      "category": "medical",
+      "source_span": "ἁρμόζει δὲ τοῖς ἐκ νόσου φθειριῶσι",
+      "snippet": "τοῖς ἐκ νόσου φθειριῶσι",
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "37",
+        "section": null,
+        "citation": {
+          "start": "39.5",
+          "end": "39.10"
+        }
+      }
+    },
+    {
+      "use_id": "dioscorides-1-37-raphaninon:use:tas-peri-to-prosopon-smechei-trachytetas-2",
+      "use_urn": "urn:aos:recipe-use:dioscorides-1-37-raphaninon:use:tas-peri-to-prosopon-smechei-trachytetas-2",
+      "category": "cosmetic",
+      "source_span": "τὰς περὶ τὸ πρόσωπον σμήχει τραχύτητας",
+      "snippet": "τὰς περὶ τὸ πρόσωπον σμήχει τραχύτητας",
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "37",
+        "section": null,
+        "citation": {
+          "start": "39.5",
+          "end": "39.10"
+        }
+      }
+    },
+    {
+      "use_id": "dioscorides-1-37-raphaninon:use:chrontai-de-ayto-oi-en-aigypto-tois-prosopsemasi-synepsontes-ayto-3",
+      "use_urn": "urn:aos:recipe-use:dioscorides-1-37-raphaninon:use:chrontai-de-ayto-oi-en-aigypto-tois-prosopsemasi-synepsontes-ayto-3",
+      "category": "other",
+      "source_span": "χρῶνται δὲ αὐτῷ οἱ ἐν Αἰγύπτῳ τοῖς προσοψήμασι συνέψοντες αὐτό",
+      "snippet": "χρῶνται δὲ αὐτῷ οἱ ἐν Αἰγύπτῳ τοῖς προσοψήμασι συνέψοντες αὐτό",
+      "certainty": "certain",
+      "notes": [
+        "Culinary use in Egypt."
+      ],
+      "host_locator": {
+        "book": "1",
+        "chapter": "37",
+        "section": null,
+        "citation": {
+          "start": "39.5",
+          "end": "39.10"
+        }
+      }
+    }
+  ],
+  "preparation_names": [],
+  "other_preparations_mentioned": [
+    {
+      "reference_id": "dioscorides-1-37-raphaninon:reference:prosopsemata-1",
+      "reference_urn": "urn:aos:recipe-reference:dioscorides-1-37-raphaninon:reference:prosopsemata-1",
+      "source_span": "προσοψήμασι",
+      "surface_form": "προσοψήμασι",
+      "normalized_label": "προσοψήματα",
+      "certainty": "uncertain",
+      "notes": [
+        "Generic culinary accompaniments are mentioned, not a clearly named parallel recipe."
+      ],
+      "host_locator": {
+        "book": "1",
+        "chapter": "37",
+        "section": null,
+        "citation": {
+          "start": "39.5",
+          "end": "39.10"
+        }
+      }
+    }
+  ],
+  "works_mentioned": [],
+  "entities": [
+    {
+      "entity_urn": "urn:aos:recipe-preparation:dioscorides-1-37-raphaninon:preparation:raphaninon",
+      "entity_type": "label",
+      "surface_form": "ῥαφάνινον",
+      "normalized_label": "ῥαφάνινον"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:dioscorides-1-37-raphaninon:ingredient:sperma-1",
+      "entity_type": "ingredient",
+      "surface_form": "τοῦ αὐτῆς σπέρματος",
+      "normalized_label": "σπέρμα"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-1-37-raphaninon:process:skeyazesthai-1",
+      "entity_type": "process",
+      "surface_form": "σκευάζεται",
+      "normalized_label": "σκευάζεσθαι"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-1-37-raphaninon:process:synepsein-2",
+      "entity_type": "process",
+      "surface_form": "συνέψοντες",
+      "normalized_label": "συνέψειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-person:dioscorides-1-37-raphaninon:person:oi-en-aigypto-1",
+      "entity_type": "person",
+      "surface_form": "οἱ ἐν Αἰγύπτῳ",
+      "normalized_label": "οἱ ἐν Αἰγύπτῳ"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-place:dioscorides-1-37-raphaninon:place:aigyptos-1",
+      "entity_type": "place",
+      "surface_form": "Αἰγύπτῳ",
+      "normalized_label": "Αἴγυπτος"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-reference:dioscorides-1-37-raphaninon:reference:prosopsemata-1",
+      "entity_type": "preparation_reference",
+      "surface_form": "προσοψήμασι",
+      "normalized_label": "προσοψήματα"
+    }
+  ],
+  "canonical_file": "data/recipes/dioscorides-1-37-raphaninon.json",
+  "source_entry": {
+    "source_id": "dioscorides-1-37-raphaninon",
+    "derived_recipe_id": "dioscorides-1-37-raphaninon",
+    "entry_kind": "recipe",
+    "source_kind": "main_text",
+    "source_lines": {
+      "start": 1855,
+      "end": 3167
+    },
+    "section_markers": []
+  },
+  "entity_groups": {
+    "labels": [
+      {
+        "entity_urn": "urn:aos:recipe-preparation:dioscorides-1-37-raphaninon:preparation:raphaninon",
+        "surface_form": "ῥαφάνινον",
+        "normalized_label": "ῥαφάνινον"
+      }
+    ],
+    "ingredients": [
+      {
+        "entity_urn": "urn:aos:recipe-ingredient:dioscorides-1-37-raphaninon:ingredient:sperma-1",
+        "surface_form": "τοῦ αὐτῆς σπέρματος",
+        "normalized_label": "σπέρμα",
+        "quantity_display": ""
+      }
+    ],
+    "processes": [
+      {
+        "entity_urn": "urn:aos:recipe-process:dioscorides-1-37-raphaninon:process:skeyazesthai-1",
+        "surface_form": "σκευάζεται",
+        "normalized_label": "σκευάζεσθαι"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-process:dioscorides-1-37-raphaninon:process:synepsein-2",
+        "surface_form": "συνέψοντες",
+        "normalized_label": "συνέψειν"
+      }
+    ],
+    "tools": [],
+    "other_preparations_mentioned": [
+      {
+        "entity_urn": "urn:aos:recipe-reference:dioscorides-1-37-raphaninon:reference:prosopsemata-1",
+        "surface_form": "προσοψήμασι",
+        "normalized_label": "προσοψήματα"
+      }
+    ],
+    "people": [
+      {
+        "entity_urn": "urn:aos:recipe-person:dioscorides-1-37-raphaninon:person:oi-en-aigypto-1",
+        "surface_form": "οἱ ἐν Αἰγύπτῳ",
+        "normalized_label": "οἱ ἐν Αἰγύπτῳ"
+      }
+    ],
+    "places": [
+      {
+        "entity_urn": "urn:aos:recipe-place:dioscorides-1-37-raphaninon:place:aigyptos-1",
+        "surface_form": "Αἰγύπτῳ",
+        "normalized_label": "Αἴγυπτος"
+      }
+    ],
+    "works_mentioned": [],
+    "preparation_names": []
+  }
+}

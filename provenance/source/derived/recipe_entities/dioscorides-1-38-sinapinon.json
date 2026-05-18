@@ -1,0 +1,377 @@
+{
+  "dataset_key": "dioscorides_book1_perfumes_resins",
+  "source_json": "experiments/dioscorides-book1-perfumes-resins/data/dioscorides_book1_perfumes_resins.json",
+  "host_raw_file": "tei/raw/tlg0656.tlg001.1st1K-grc1.xml",
+  "work_slug": "diosc.b1.recipes",
+  "recipe_id": "dioscorides-1-38-sinapinon",
+  "recipe_urn": "urn:aos:recipe:dioscorides-1-38-sinapinon",
+  "record_urn": "urn:aos:recipe-record:dioscorides-1-38-sinapinon",
+  "author": "Dioscorides",
+  "work": "De materia medica",
+  "book": "1",
+  "chapter": "38",
+  "section": null,
+  "chapter_name": "σινάπινον",
+  "lemma": "σινάπινον",
+  "text": "38 τὸ δὲ σινάπινον σκευάζεται λεαινομένου τοῦ σινήπεως καὶ βρεχομένου ὕδατι θερμῷ, ἔπειτα μειγνυμένου ἐλαίου καὶ συνεκθλιβομένου. ποιεῖ δὲ πρὸς τὰ χρόνια ἀλγήματα μετασυγκριτικὸν ὄν .",
+  "original_text": null,
+  "text_source": null,
+  "emendations": [],
+  "emendation_count": 0,
+  "source_kind": "main_text",
+  "entry_kind": "recipe",
+  "citation": {
+    "pages": [
+      "39"
+    ],
+    "start": {
+      "page": "39",
+      "line": "15"
+    },
+    "end": {
+      "page": "39",
+      "line": "15"
+    },
+    "citation": {
+      "start": "39.15",
+      "end": "39.15"
+    },
+    "page_spans": [
+      {
+        "page": "39",
+        "start_line": "15",
+        "end_line": "15"
+      }
+    ],
+    "lines": [
+      {
+        "page": "39",
+        "line": "15",
+        "break_no": false,
+        "text": "38 τὸ δὲ σινάπινον σκευάζεται λεαινομένου τοῦ σινήπεως καὶ βρεχομένου ὕδατι θερμῷ, ἔπειτα μειγνυμένου ἐλαίου καὶ συνεκθλιβομένου. ποιεῖ δὲ πρὸς τὰ χρόνια ἀλγήματα μετασυγκριτικὸν ὄν .",
+        "citation": "39.15"
+      }
+    ],
+    "edition_key": "wellmann"
+  },
+  "notes": [
+    "Raw lines 1590-1633 are book 1 chapter 25 in this witness, although the prompt referred to chapter 35.",
+    "The perfume proemium is taken from the later transition at chapter 42 section 2 (raw lines 2306-2342), not from the chapter 25 κῦφι entry.",
+    "The ἰασμέλαιον entry is preserved only in the apparatus as an addition from another recension."
+  ],
+  "alignment_status": "pending",
+  "alignment_confidence": "pending",
+  "alignment_evidence": null,
+  "review_status": "reviewed_structured_authority",
+  "review_provenance": {
+    "authority_source": "reports/entity_review/structured/dioscorides.json",
+    "authority_recipe_id": "dioscorides-1-38-sinapinon",
+    "authority_lemma": "σινάπινον",
+    "model": "gpt-5.4",
+    "reasoning_effort": "high",
+    "dataset_key": "dioscorides_book1_perfumes_resins",
+    "entity_model_version": "1.2",
+    "authority_version": "2026-04-13-qty-alt-v1",
+    "prompt_version": "qty-alt-pass-v1",
+    "build_version": "2026-05-18T15:51:35Z"
+  },
+  "schema_version": "1.2",
+  "build_metadata": {
+    "builder": "scripts/recipes/build_recipe_entities.py",
+    "built_at": "2026-05-18T15:51:35Z",
+    "source_structured_authority": "reports/entity_review/structured/dioscorides.json",
+    "authority_model": "gpt-5.4",
+    "authority_reasoning_effort": "high",
+    "dataset_key": "dioscorides_book1_perfumes_resins",
+    "entity_model_version": "1.2",
+    "authority_version": "2026-04-13-qty-alt-v1",
+    "prompt_version": "qty-alt-pass-v1",
+    "build_version": "2026-05-18T15:51:35Z"
+  },
+  "recipe_text_excerpt": "τὸ δὲ σινάπινον σκευάζεται λεαινομένου τοῦ σινήπεως καὶ βρεχομένου ὕδατι θερμῷ, ἔπειτα μειγνυμένου ἐλαίου καὶ συνεκθλιβομένου. ποιεῖ δὲ πρὸς τὰ",
+  "preparation": {
+    "preparation_id": "dioscorides-1-38-sinapinon:preparation:sinapinon",
+    "preparation_urn": "urn:aos:recipe-preparation:dioscorides-1-38-sinapinon:preparation:sinapinon",
+    "source_span": "σινάπινον",
+    "surface_form": "σινάπινον",
+    "normalized_label": "σινάπινον",
+    "qualifiers": [],
+    "regimen_notes": [],
+    "certainty": "certain",
+    "notes": [],
+    "host_locator": {
+      "book": "1",
+      "chapter": "38",
+      "section": null,
+      "citation": {
+        "start": "39.15",
+        "end": "39.15"
+      }
+    }
+  },
+  "ingredients": [
+    {
+      "ingredient_id": "dioscorides-1-38-sinapinon:ingredient:sinapi-1",
+      "ingredient_urn": "urn:aos:recipe-ingredient:dioscorides-1-38-sinapinon:ingredient:sinapi-1",
+      "source_span": "λεαινομένου τοῦ σινήπεως",
+      "surface_form": "λεαινομένου τοῦ σινήπεως",
+      "base_label": "σινήπεως",
+      "normalized_label": "σίναπι",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [
+        "dioscorides-1-38-sinapinon:process:leiainein-1",
+        "dioscorides-1-38-sinapinon:process:brechein-2",
+        "dioscorides-1-38-sinapinon:process:meignynai-3",
+        "dioscorides-1-38-sinapinon:process:synekthlibein-4"
+      ],
+      "quantities": [],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "38",
+        "section": null,
+        "citation": {
+          "start": "39.15",
+          "end": "39.15"
+        }
+      }
+    },
+    {
+      "ingredient_id": "dioscorides-1-38-sinapinon:ingredient:ydor-2",
+      "ingredient_urn": "urn:aos:recipe-ingredient:dioscorides-1-38-sinapinon:ingredient:ydor-2",
+      "source_span": "ὕδατι θερμῷ",
+      "surface_form": "ὕδατι θερμῷ",
+      "base_label": "ὕδατι",
+      "normalized_label": "ὕδωρ",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [
+        "dioscorides-1-38-sinapinon:process:brechein-2"
+      ],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "temperature",
+          "source_span": "θερμῷ",
+          "normalized_value": "θερμός",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "38",
+        "section": null,
+        "citation": {
+          "start": "39.15",
+          "end": "39.15"
+        }
+      }
+    },
+    {
+      "ingredient_id": "dioscorides-1-38-sinapinon:ingredient:elaion-3",
+      "ingredient_urn": "urn:aos:recipe-ingredient:dioscorides-1-38-sinapinon:ingredient:elaion-3",
+      "source_span": "μειγνυμένου ἐλαίου",
+      "surface_form": "μειγνυμένου ἐλαίου",
+      "base_label": "ἐλαίου",
+      "normalized_label": "ἔλαιον",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [
+        "dioscorides-1-38-sinapinon:process:meignynai-3",
+        "dioscorides-1-38-sinapinon:process:synekthlibein-4"
+      ],
+      "quantities": [],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "38",
+        "section": null,
+        "citation": {
+          "start": "39.15",
+          "end": "39.15"
+        }
+      }
+    }
+  ],
+  "processes": [
+    {
+      "process_id": "dioscorides-1-38-sinapinon:process:leiainein-1",
+      "process_urn": "urn:aos:recipe-process:dioscorides-1-38-sinapinon:process:leiainein-1",
+      "source_span": "λεαινομένου",
+      "surface_form": "λεαινομένου",
+      "normalized_label": "λειαίνειν",
+      "target_type": "ingredient",
+      "target_ids": [
+        "dioscorides-1-38-sinapinon:ingredient:sinapi-1"
+      ],
+      "quantities": [],
+      "qualifiers": [],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "38",
+        "section": null,
+        "citation": {
+          "start": "39.15",
+          "end": "39.15"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-1-38-sinapinon:process:brechein-2",
+      "process_urn": "urn:aos:recipe-process:dioscorides-1-38-sinapinon:process:brechein-2",
+      "source_span": "βρεχομένου",
+      "surface_form": "βρεχομένου",
+      "normalized_label": "βρέχειν",
+      "target_type": "ingredient",
+      "target_ids": [
+        "dioscorides-1-38-sinapinon:ingredient:sinapi-1"
+      ],
+      "quantities": [],
+      "qualifiers": [],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "38",
+        "section": null,
+        "citation": {
+          "start": "39.15",
+          "end": "39.15"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-1-38-sinapinon:process:meignynai-3",
+      "process_urn": "urn:aos:recipe-process:dioscorides-1-38-sinapinon:process:meignynai-3",
+      "source_span": "μειγνυμένου",
+      "surface_form": "μειγνυμένου",
+      "normalized_label": "μείγνυναι",
+      "target_type": "ingredient",
+      "target_ids": [
+        "dioscorides-1-38-sinapinon:ingredient:sinapi-1",
+        "dioscorides-1-38-sinapinon:ingredient:elaion-3"
+      ],
+      "quantities": [],
+      "qualifiers": [],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "38",
+        "section": null,
+        "citation": {
+          "start": "39.15",
+          "end": "39.15"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-1-38-sinapinon:process:synekthlibein-4",
+      "process_urn": "urn:aos:recipe-process:dioscorides-1-38-sinapinon:process:synekthlibein-4",
+      "source_span": "συνεκθλιβομένου",
+      "surface_form": "συνεκθλιβομένου",
+      "normalized_label": "συνεκθλίβειν",
+      "target_type": "ingredient",
+      "target_ids": [
+        "dioscorides-1-38-sinapinon:ingredient:sinapi-1",
+        "dioscorides-1-38-sinapinon:ingredient:elaion-3"
+      ],
+      "quantities": [],
+      "qualifiers": [],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "38",
+        "section": null,
+        "citation": {
+          "start": "39.15",
+          "end": "39.15"
+        }
+      }
+    }
+  ],
+  "materials": [],
+  "people": [],
+  "places": [],
+  "uses": [
+    {
+      "use_id": "dioscorides-1-38-sinapinon:use:poiei-de-pros-ta-chronia-algemata-metasygkritikon-on-1",
+      "use_urn": "urn:aos:recipe-use:dioscorides-1-38-sinapinon:use:poiei-de-pros-ta-chronia-algemata-metasygkritikon-on-1",
+      "category": "medical",
+      "source_span": "ποιεῖ δὲ πρὸς τὰ χρόνια ἀλγήματα μετασυγκριτικὸν ὄν",
+      "snippet": "ποιεῖ δὲ πρὸς τὰ χρόνια ἀλγήματα μετασυγκριτικὸν ὄν",
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "38",
+        "section": null,
+        "citation": {
+          "start": "39.15",
+          "end": "39.15"
+        }
+      }
+    }
+  ],
+  "preparation_names": [],
+  "other_preparations_mentioned": [],
+  "works_mentioned": [],
+  "entities": [
+    {
+      "entity_urn": "urn:aos:recipe-preparation:dioscorides-1-38-sinapinon:preparation:sinapinon",
+      "entity_type": "label",
+      "surface_form": "σινάπινον",
+      "normalized_label": "σινάπινον"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:dioscorides-1-38-sinapinon:ingredient:sinapi-1",
+      "entity_type": "ingredient",
+      "surface_form": "λεαινομένου τοῦ σινήπεως",
+      "normalized_label": "σίναπι"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:dioscorides-1-38-sinapinon:ingredient:ydor-2",
+      "entity_type": "ingredient",
+      "surface_form": "ὕδατι θερμῷ",
+      "normalized_label": "ὕδωρ"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:dioscorides-1-38-sinapinon:ingredient:elaion-3",
+      "entity_type": "ingredient",
+      "surface_form": "μειγνυμένου ἐλαίου",
+      "normalized_label": "ἔλαιον"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-1-38-sinapinon:process:leiainein-1",
+      "entity_type": "process",
+      "surface_form": "λεαινομένου",
+      "normalized_label": "λειαίνειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-1-38-sinapinon:process:brechein-2",
+      "entity_type": "process",
+      "surface_form": "βρεχομένου",
+      "normalized_label": "βρέχειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-1-38-sinapinon:process:meignynai-3",
+      "entity_type": "process",
+      "surface_form": "μειγνυμένου",
+      "normalized_label": "μείγνυναι"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-1-38-sinapinon:process:synekthlibein-4",
+      "entity_type": "process",
+      "surface_form": "συνεκθλιβομένου",
+      "normalized_label": "συνεκθλίβειν"
+    }
+  ]
+}

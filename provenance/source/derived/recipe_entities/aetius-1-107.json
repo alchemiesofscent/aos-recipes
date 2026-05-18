@@ -1,0 +1,435 @@
+{
+  "dataset_key": "aetius_book1_oils",
+  "source_json": "experiments/aetius-book1-ch99-136-oils/data/aetius_book1_ch99_136_oils.json",
+  "host_raw_file": "tei/raw/tlg0718001.xml",
+  "work_slug": "aetius.b1.oils",
+  "recipe_id": "aetius-1-107",
+  "recipe_urn": "urn:aos:recipe:aetius-1-107",
+  "record_urn": "urn:aos:recipe-record:aetius-1-107",
+  "author": "Aëtius of Amida",
+  "work": "Libri medicinales",
+  "book": "1",
+  "chapter": "107",
+  "section": "107",
+  "chapter_name": "Μυροβαλάνινον",
+  "lemma": "Μυροβαλάνινον",
+  "text": "Μυροβαλάνινον δύναμιν ἔχει καθαρτικὴν σπίλων φακῶν ἰόνθων πάσης μελανίας καὶ τὰ κατὰ κοιλίαν καθαίρει. ἁρμόζει δὲ καὶ πρὸς ὠταλγίαν καὶ πρὸς ἤχους μετὰ στέατος χηνείου ἐγχεόμενον. σκευάζεται δὲ ὁμοίως τῷ ἀμυγδαλίνῳ, ἀληθομένης τῆς μυροβαλάνου.",
+  "original_text": "Μυροβαλάνινον δύναμιν ἔχει καθαρτικὴν σπίλων φακῶν ἰόνθων πάσης μελανίας καὶ τὰ κατὰ κοιλίαν καθαίρει. ἁρμόζει δὲ καὶ πρὸς ὠταλγίαν καὶ πρὸς ἤχους μετὰ στέατος χηνείου ἐγχεόμενον. σκευάζεται δὲ ὁμοίως τῷ ἀμυγδαλίνῳ, ἀληθομένης τῆς μυροβαλάνου.",
+  "text_source": "olivieri",
+  "emendations": [],
+  "emendation_count": 0,
+  "source_kind": null,
+  "entry_kind": "recipe",
+  "citation": {
+    "pages": [
+      "55",
+      "56"
+    ],
+    "start": {
+      "page": "55",
+      "line": "25",
+      "xml_id": "oliv-55-25"
+    },
+    "end": {
+      "page": "56",
+      "line": "2",
+      "xml_id": "oliv-56-2"
+    },
+    "citation": {
+      "start": "55.25",
+      "end": "56.2"
+    },
+    "page_spans": [
+      {
+        "page": "55",
+        "start_line": "25",
+        "end_line": "26"
+      },
+      {
+        "page": "56",
+        "start_line": "1",
+        "end_line": "2"
+      }
+    ],
+    "lines": [
+      {
+        "page": "55",
+        "line": "25",
+        "xml_id": "oliv-55-25",
+        "break_no": false,
+        "text": "Μυροβαλάνινον δύναμιν ἔχει καθαρτικὴν σπίλων φακῶν ἰόνθων πάσης",
+        "citation": "55.25"
+      },
+      {
+        "page": "55",
+        "line": "26",
+        "xml_id": "oliv-55-26",
+        "break_no": false,
+        "text": "μελανίας καὶ τὰ κατὰ κοιλίαν καθαίρει. ἁρμόζει δὲ καὶ πρὸς ὠταλγίαν",
+        "citation": "55.26"
+      },
+      {
+        "page": "56",
+        "line": "1",
+        "xml_id": "oliv-56-1",
+        "break_no": false,
+        "text": "καὶ πρὸς ἤχους μετὰ στέατος χηνείου ἐγχεόμενον. σκευάζεται δὲ ὁμοίως",
+        "citation": "56.1"
+      },
+      {
+        "page": "56",
+        "line": "2",
+        "xml_id": "oliv-56-2",
+        "break_no": false,
+        "text": "τῷ ἀμυγδαλίνῳ, ἀληθομένης τῆς μυροβαλάνου.",
+        "citation": "56.2"
+      }
+    ],
+    "edition_key": "olivieri"
+  },
+  "notes": [],
+  "alignment_status": "pending",
+  "alignment_confidence": "pending",
+  "alignment_evidence": null,
+  "review_status": "reviewed_structured_authority",
+  "review_provenance": {
+    "authority_source": "reports/entity_review/structured/aetius_book1.json",
+    "authority_recipe_id": "aetius-1-107",
+    "authority_lemma": "Μυροβαλάνινον",
+    "model": "gpt-5.4",
+    "reasoning_effort": "high",
+    "dataset_key": "aetius_book1_oils",
+    "entity_model_version": "1.2",
+    "authority_version": "2026-04-13-qty-alt-v1",
+    "prompt_version": "qty-alt-pass-v1",
+    "build_version": "2026-05-18T15:51:35Z"
+  },
+  "schema_version": "1.2",
+  "build_metadata": {
+    "builder": "scripts/recipes/build_recipe_entities.py",
+    "built_at": "2026-05-18T15:51:35Z",
+    "source_structured_authority": "reports/entity_review/structured/aetius_book1.json",
+    "authority_model": "gpt-5.4",
+    "authority_reasoning_effort": "high",
+    "dataset_key": "aetius_book1_oils",
+    "entity_model_version": "1.2",
+    "authority_version": "2026-04-13-qty-alt-v1",
+    "prompt_version": "qty-alt-pass-v1",
+    "build_version": "2026-05-18T15:51:35Z"
+  },
+  "recipe_text_excerpt": "Μυροβαλάνινον δύναμιν ἔχει καθαρτικὴν σπίλων φακῶν ἰόνθων πάσης μελανίας καὶ τὰ κατὰ κοιλίαν καθαίρει. ἁρμόζει δὲ καὶ πρὸς ὠταλγίαν καὶ",
+  "preparation": {
+    "preparation_id": "aetius-1-107:preparation:myrobalaninon",
+    "preparation_urn": "urn:aos:recipe-preparation:aetius-1-107:preparation:myrobalaninon",
+    "source_span": "Μυροβαλάνινον",
+    "surface_form": "Μυροβαλάνινον",
+    "normalized_label": "Μυροβαλάνινον",
+    "qualifiers": [],
+    "regimen_notes": [
+      {
+        "source_span": "σκευάζεται δὲ ὁμοίως τῷ ἀμυγδαλίνῳ",
+        "normalized_note": "σκευάζεται ὁμοίως τῷ ἀμυγδαλίνῳ",
+        "certainty": "certain",
+        "notes": []
+      }
+    ],
+    "certainty": "certain",
+    "notes": [],
+    "host_locator": {
+      "book": "1",
+      "chapter": "107",
+      "section": "107",
+      "citation": {
+        "start": "55.25",
+        "end": "56.2"
+      }
+    }
+  },
+  "ingredients": [
+    {
+      "ingredient_id": "aetius-1-107:ingredient:stear-cheneion-1",
+      "ingredient_urn": "urn:aos:recipe-ingredient:aetius-1-107:ingredient:stear-cheneion-1",
+      "source_span": "στέατος χηνείου",
+      "surface_form": "στέατος χηνείου",
+      "base_label": "στέαρ",
+      "normalized_label": "στέαρ χήνειον",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [
+        "aetius-1-107:process:egcheein-3"
+      ],
+      "quantities": [],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "107",
+        "section": "107",
+        "citation": {
+          "start": "55.25",
+          "end": "56.2"
+        }
+      }
+    },
+    {
+      "ingredient_id": "aetius-1-107:ingredient:myrobalanos-2",
+      "ingredient_urn": "urn:aos:recipe-ingredient:aetius-1-107:ingredient:myrobalanos-2",
+      "source_span": "ἀληθομένης τῆς μυροβαλάνου",
+      "surface_form": "ἀληθομένης τῆς μυροβαλάνου",
+      "base_label": "μυροβάλανος",
+      "normalized_label": "μυροβάλανος",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [
+        "aetius-1-107:process:alethein-2"
+      ],
+      "quantities": [],
+      "qualifiers": [],
+      "notes": [
+        "Participial ingredient phrase split into ingredient and process records."
+      ],
+      "host_locator": {
+        "book": "1",
+        "chapter": "107",
+        "section": "107",
+        "citation": {
+          "start": "55.25",
+          "end": "56.2"
+        }
+      }
+    }
+  ],
+  "processes": [
+    {
+      "process_id": "aetius-1-107:process:skeyazein-1",
+      "process_urn": "urn:aos:recipe-process:aetius-1-107:process:skeyazein-1",
+      "source_span": "σκευάζεται",
+      "surface_form": "σκευάζεται",
+      "normalized_label": "σκευάζειν",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "manner",
+          "source_span": "ὁμοίως τῷ ἀμυγδαλίνῳ",
+          "normalized_value": "ὁμοίως τῷ ἀμυγδαλίνῳ",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "107",
+        "section": "107",
+        "citation": {
+          "start": "55.25",
+          "end": "56.2"
+        }
+      }
+    },
+    {
+      "process_id": "aetius-1-107:process:alethein-2",
+      "process_urn": "urn:aos:recipe-process:aetius-1-107:process:alethein-2",
+      "source_span": "ἀληθομένης",
+      "surface_form": "ἀληθομένης",
+      "normalized_label": "ἀληθεῖν",
+      "target_type": "ingredient",
+      "target_ids": [
+        "aetius-1-107:ingredient:myrobalanos-2"
+      ],
+      "quantities": [],
+      "qualifiers": [],
+      "certainty": "uncertain",
+      "notes": [
+        "Infinitive normalization from the participle is uncertain."
+      ],
+      "host_locator": {
+        "book": "1",
+        "chapter": "107",
+        "section": "107",
+        "citation": {
+          "start": "55.25",
+          "end": "56.2"
+        }
+      }
+    },
+    {
+      "process_id": "aetius-1-107:process:egcheein-3",
+      "process_urn": "urn:aos:recipe-process:aetius-1-107:process:egcheein-3",
+      "source_span": "ἐγχεόμενον",
+      "surface_form": "ἐγχεόμενον",
+      "normalized_label": "ἐγχέειν",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "manner",
+          "source_span": "μετὰ στέατος χηνείου",
+          "normalized_value": "μετὰ στέατος χηνείου",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "107",
+        "section": "107",
+        "citation": {
+          "start": "55.25",
+          "end": "56.2"
+        }
+      }
+    }
+  ],
+  "materials": [],
+  "people": [],
+  "places": [],
+  "uses": [
+    {
+      "use_id": "aetius-1-107:use:kathartiken-spilon-phakon-ionthon-pases-melanias-1",
+      "use_urn": "urn:aos:recipe-use:aetius-1-107:use:kathartiken-spilon-phakon-ionthon-pases-melanias-1",
+      "category": "medical",
+      "source_span": "καθαρτικὴν σπίλων φακῶν ἰόνθων πάσης μελανίας",
+      "snippet": "καθαρτικὴν σπίλων φακῶν ἰόνθων πάσης μελανίας",
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "107",
+        "section": "107",
+        "citation": {
+          "start": "55.25",
+          "end": "56.2"
+        }
+      }
+    },
+    {
+      "use_id": "aetius-1-107:use:ta-kata-koilian-kathairei-2",
+      "use_urn": "urn:aos:recipe-use:aetius-1-107:use:ta-kata-koilian-kathairei-2",
+      "category": "medical",
+      "source_span": "τὰ κατὰ κοιλίαν καθαίρει",
+      "snippet": "τὰ κατὰ κοιλίαν καθαίρει",
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "107",
+        "section": "107",
+        "citation": {
+          "start": "55.25",
+          "end": "56.2"
+        }
+      }
+    },
+    {
+      "use_id": "aetius-1-107:use:pros-otalgian-3",
+      "use_urn": "urn:aos:recipe-use:aetius-1-107:use:pros-otalgian-3",
+      "category": "medical",
+      "source_span": "πρὸς ὠταλγίαν",
+      "snippet": "πρὸς ὠταλγίαν",
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "107",
+        "section": "107",
+        "citation": {
+          "start": "55.25",
+          "end": "56.2"
+        }
+      }
+    },
+    {
+      "use_id": "aetius-1-107:use:pros-echoys-4",
+      "use_urn": "urn:aos:recipe-use:aetius-1-107:use:pros-echoys-4",
+      "category": "medical",
+      "source_span": "πρὸς ἤχους",
+      "snippet": "πρὸς ἤχους",
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "107",
+        "section": "107",
+        "citation": {
+          "start": "55.25",
+          "end": "56.2"
+        }
+      }
+    }
+  ],
+  "preparation_names": [],
+  "other_preparations_mentioned": [
+    {
+      "reference_id": "aetius-1-107:reference:amygdalinon-1",
+      "reference_urn": "urn:aos:recipe-reference:aetius-1-107:reference:amygdalinon-1",
+      "source_span": "ἀμυγδαλίνῳ",
+      "surface_form": "ἀμυγδαλίνῳ",
+      "normalized_label": "ἀμυγδαλίνον",
+      "certainty": "certain",
+      "notes": [
+        "Referenced as a distinct comparator preparation."
+      ],
+      "host_locator": {
+        "book": "1",
+        "chapter": "107",
+        "section": "107",
+        "citation": {
+          "start": "55.25",
+          "end": "56.2"
+        }
+      }
+    }
+  ],
+  "works_mentioned": [],
+  "entities": [
+    {
+      "entity_urn": "urn:aos:recipe-preparation:aetius-1-107:preparation:myrobalaninon",
+      "entity_type": "label",
+      "surface_form": "Μυροβαλάνινον",
+      "normalized_label": "Μυροβαλάνινον"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:aetius-1-107:ingredient:stear-cheneion-1",
+      "entity_type": "ingredient",
+      "surface_form": "στέατος χηνείου",
+      "normalized_label": "στέαρ χήνειον"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:aetius-1-107:ingredient:myrobalanos-2",
+      "entity_type": "ingredient",
+      "surface_form": "ἀληθομένης τῆς μυροβαλάνου",
+      "normalized_label": "μυροβάλανος"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:aetius-1-107:process:skeyazein-1",
+      "entity_type": "process",
+      "surface_form": "σκευάζεται",
+      "normalized_label": "σκευάζειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:aetius-1-107:process:alethein-2",
+      "entity_type": "process",
+      "surface_form": "ἀληθομένης",
+      "normalized_label": "ἀληθεῖν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:aetius-1-107:process:egcheein-3",
+      "entity_type": "process",
+      "surface_form": "ἐγχεόμενον",
+      "normalized_label": "ἐγχέειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-reference:aetius-1-107:reference:amygdalinon-1",
+      "entity_type": "preparation_reference",
+      "surface_form": "ἀμυγδαλίνῳ",
+      "normalized_label": "ἀμυγδαλίνον"
+    }
+  ]
+}

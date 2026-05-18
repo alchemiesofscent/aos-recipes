@@ -1,0 +1,467 @@
+{
+  "dataset_key": "aetius_book16_myrepsika",
+  "source_json": "experiments/aetius-book16-ch126-153-myrepsika/data/aetius_book16_ch126_153_myrepsika.json",
+  "host_raw_file": "tei/raw/tlg0718016.xml",
+  "work_slug": "aetius.b16.myrepsika",
+  "recipe_id": "aetius-16-130-3",
+  "recipe_urn": "urn:aos:recipe:aetius-16-130-3",
+  "record_urn": "urn:aos:recipe-record:aetius-16-130-3",
+  "author": "Aëtius of Amida",
+  "work": "Libri medicinales",
+  "book": "16",
+  "chapter": "130",
+  "section": "3",
+  "chapter_name": "ἐλαίου σάλκα σκευασία πολυτελής · πρώτη ἕψησις · δευτέρα ἕψησις · τρίτη ἕψησις · ὑγρομύρου σκευασία · λευκοφύλλου σκευασία ἤτοι ξηρομύρου λευκοῦ",
+  "lemma": "λευκοφύλλου σκευασία ἤτοι ξηρομύρου λευκοῦ",
+  "text": "Σπεκλαρίου κεκομμένου λιτ. α. φύλλου, ναρδοστάχυος, καρυοφύλλου, ἀνὰ γράμματα στ. σανδαράχης γράμματα ιβ. μόσχου κέγχρους γ.",
+  "original_text": null,
+  "text_source": null,
+  "emendations": [],
+  "emendation_count": 0,
+  "source_kind": null,
+  "entry_kind": "recipe",
+  "citation": {
+    "pages": [
+      "163"
+    ],
+    "start": {
+      "page": "163",
+      "line": "13",
+      "xml_id": "zerv-163-13"
+    },
+    "end": {
+      "page": "163",
+      "line": "16",
+      "xml_id": "zerv-163-16"
+    },
+    "citation": {
+      "start": "163.13",
+      "end": "163.16"
+    },
+    "page_spans": [
+      {
+        "page": "163",
+        "start_line": "13",
+        "end_line": "16"
+      }
+    ],
+    "lines": [
+      {
+        "page": "163",
+        "line": "13",
+        "xml_id": "zerv-163-13",
+        "citation": "163.13",
+        "text": "ΛΕΥΚΟΦΥΛΛΟΥ ΣΚΕΥΑΣΙΑ ΗΤΟΙ ΞΗΡΟΜΥΡΟΥ ΛΕΥΚΟΥ."
+      },
+      {
+        "page": "163",
+        "line": "14",
+        "xml_id": "zerv-163-14",
+        "citation": "163.14",
+        "text": "Σπεκλαρίου κεκομμένου λιτ. α. φύλλου, ναρδοστάχυος, καρυο-"
+      },
+      {
+        "page": "163",
+        "line": "15",
+        "xml_id": "zerv-163-15",
+        "citation": "163.15",
+        "text": "φύλλου, ἀνὰ γράμματα στ. σανδαράχης γράμματα ιβ. μόσχου"
+      },
+      {
+        "page": "163",
+        "line": "16",
+        "xml_id": "zerv-163-16",
+        "citation": "163.16",
+        "text": "κέγχρους γ."
+      }
+    ],
+    "edition_key": "zervos"
+  },
+  "notes": [
+    "Distributive ἀνὰ governs φύλλου, ναρδοστάχυος, and καρυοφύλλου, assigning each γράμματα στ."
+  ],
+  "alignment_status": "pending",
+  "alignment_confidence": "pending",
+  "alignment_evidence": null,
+  "review_status": "reviewed_structured_authority",
+  "review_provenance": {
+    "authority_source": "reports/entity_review/structured/aetius_book16.json",
+    "authority_recipe_id": "aetius-16-130-3",
+    "authority_lemma": "λευκοφύλλου σκευασία",
+    "model": "gpt-5.4",
+    "reasoning_effort": "high",
+    "dataset_key": "aetius_book16_myrepsika",
+    "entity_model_version": "1.2",
+    "authority_version": "2026-04-13-qty-alt-v1",
+    "prompt_version": "qty-alt-pass-v1",
+    "build_version": "2026-05-18T15:51:35Z"
+  },
+  "schema_version": "1.2",
+  "build_metadata": {
+    "builder": "scripts/recipes/build_recipe_entities.py",
+    "built_at": "2026-05-18T15:51:35Z",
+    "source_structured_authority": "reports/entity_review/structured/aetius_book16.json",
+    "authority_model": "gpt-5.4",
+    "authority_reasoning_effort": "high",
+    "dataset_key": "aetius_book16_myrepsika",
+    "entity_model_version": "1.2",
+    "authority_version": "2026-04-13-qty-alt-v1",
+    "prompt_version": "qty-alt-pass-v1",
+    "build_version": "2026-05-18T15:51:35Z"
+  },
+  "recipe_text_excerpt": "Σπεκλαρίου κεκομμένου λιτ. α. φύλλου, ναρδοστάχυος, καρυοφύλλου, ἀνὰ γράμματα στ. σανδαράχης γράμματα ιβ. μόσχου κέγχρους γ.",
+  "preparation": {
+    "preparation_id": "aetius-16-130-3:preparation:leykophylloy-skeyasia",
+    "preparation_urn": "urn:aos:recipe-preparation:aetius-16-130-3:preparation:leykophylloy-skeyasia",
+    "source_span": "λευκοφύλλου σκευασία ἤτοι ξηρομύρου λευκοῦ",
+    "surface_form": "λευκοφύλλου σκευασία ἤτοι ξηρομύρου λευκοῦ",
+    "normalized_label": "λευκοφύλλου σκευασία",
+    "qualifiers": [],
+    "regimen_notes": [],
+    "certainty": "certain",
+    "notes": [],
+    "host_locator": {
+      "book": "16",
+      "chapter": "130",
+      "section": "3",
+      "citation": {
+        "start": "163.13",
+        "end": "163.16"
+      }
+    }
+  },
+  "ingredients": [
+    {
+      "ingredient_id": "aetius-16-130-3:ingredient:speklarion-1",
+      "ingredient_urn": "urn:aos:recipe-ingredient:aetius-16-130-3:ingredient:speklarion-1",
+      "source_span": "Σπεκλαρίου κεκομμένου",
+      "surface_form": "Σπεκλαρίου κεκομμένου",
+      "base_label": "σπεκλάριον",
+      "normalized_label": "σπεκλάριον",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [
+        "aetius-16-130-3:process:koptein-1"
+      ],
+      "quantities": [
+        {
+          "source_span": "λιτ. α.",
+          "raw_number": "α",
+          "normalized_number": 1,
+          "raw_unit": "λιτ.",
+          "normalized_unit": "litra",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "16",
+        "chapter": "130",
+        "section": "3",
+        "citation": {
+          "start": "163.13",
+          "end": "163.16"
+        }
+      }
+    },
+    {
+      "ingredient_id": "aetius-16-130-3:ingredient:phyllon-2",
+      "ingredient_urn": "urn:aos:recipe-ingredient:aetius-16-130-3:ingredient:phyllon-2",
+      "source_span": "φύλλου",
+      "surface_form": "φύλλου",
+      "base_label": "φύλλον",
+      "normalized_label": "φύλλον",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [],
+      "quantities": [
+        {
+          "source_span": "γράμματα στ.",
+          "raw_number": "στ",
+          "normalized_number": 6,
+          "raw_unit": "γράμματα",
+          "normalized_unit": "gramma",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "16",
+        "chapter": "130",
+        "section": "3",
+        "citation": {
+          "start": "163.13",
+          "end": "163.16"
+        }
+      }
+    },
+    {
+      "ingredient_id": "aetius-16-130-3:ingredient:nardostachys-3",
+      "ingredient_urn": "urn:aos:recipe-ingredient:aetius-16-130-3:ingredient:nardostachys-3",
+      "source_span": "ναρδοστάχυος",
+      "surface_form": "ναρδοστάχυος",
+      "base_label": "ναρδόσταχυς",
+      "normalized_label": "ναρδόσταχυς",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [],
+      "quantities": [
+        {
+          "source_span": "γράμματα στ.",
+          "raw_number": "στ",
+          "normalized_number": 6,
+          "raw_unit": "γράμματα",
+          "normalized_unit": "gramma",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "16",
+        "chapter": "130",
+        "section": "3",
+        "citation": {
+          "start": "163.13",
+          "end": "163.16"
+        }
+      }
+    },
+    {
+      "ingredient_id": "aetius-16-130-3:ingredient:karyophyllon-4",
+      "ingredient_urn": "urn:aos:recipe-ingredient:aetius-16-130-3:ingredient:karyophyllon-4",
+      "source_span": "καρυοφύλλου",
+      "surface_form": "καρυοφύλλου",
+      "base_label": "καρυόφυλλον",
+      "normalized_label": "καρυόφυλλον",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [],
+      "quantities": [
+        {
+          "source_span": "γράμματα στ.",
+          "raw_number": "στ",
+          "normalized_number": 6,
+          "raw_unit": "γράμματα",
+          "normalized_unit": "gramma",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "16",
+        "chapter": "130",
+        "section": "3",
+        "citation": {
+          "start": "163.13",
+          "end": "163.16"
+        }
+      }
+    },
+    {
+      "ingredient_id": "aetius-16-130-3:ingredient:sandarache-5",
+      "ingredient_urn": "urn:aos:recipe-ingredient:aetius-16-130-3:ingredient:sandarache-5",
+      "source_span": "σανδαράχης",
+      "surface_form": "σανδαράχης",
+      "base_label": "σανδαράχη",
+      "normalized_label": "σανδαράχη",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [],
+      "quantities": [
+        {
+          "source_span": "γράμματα ιβ.",
+          "raw_number": "ιβ",
+          "normalized_number": 12,
+          "raw_unit": "γράμματα",
+          "normalized_unit": "gramma",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "16",
+        "chapter": "130",
+        "section": "3",
+        "citation": {
+          "start": "163.13",
+          "end": "163.16"
+        }
+      }
+    },
+    {
+      "ingredient_id": "aetius-16-130-3:ingredient:moschos-6",
+      "ingredient_urn": "urn:aos:recipe-ingredient:aetius-16-130-3:ingredient:moschos-6",
+      "source_span": "μόσχου",
+      "surface_form": "μόσχου",
+      "base_label": "μόσχος",
+      "normalized_label": "μόσχος",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [],
+      "quantities": [
+        {
+          "source_span": "κέγχρους γ.",
+          "raw_number": "γ",
+          "normalized_number": 3,
+          "raw_unit": "κέγχρους",
+          "normalized_unit": null,
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "16",
+        "chapter": "130",
+        "section": "3",
+        "citation": {
+          "start": "163.13",
+          "end": "163.16"
+        }
+      }
+    }
+  ],
+  "processes": [
+    {
+      "process_id": "aetius-16-130-3:process:koptein-1",
+      "process_urn": "urn:aos:recipe-process:aetius-16-130-3:process:koptein-1",
+      "source_span": "κεκομμένου",
+      "surface_form": "κεκομμένου",
+      "normalized_label": "κόπτειν",
+      "target_type": "ingredient",
+      "target_ids": [
+        "aetius-16-130-3:ingredient:speklarion-1"
+      ],
+      "quantities": [],
+      "qualifiers": [],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "16",
+        "chapter": "130",
+        "section": "3",
+        "citation": {
+          "start": "163.13",
+          "end": "163.16"
+        }
+      }
+    }
+  ],
+  "materials": [],
+  "people": [],
+  "places": [],
+  "uses": [],
+  "preparation_names": [
+    {
+      "preparation_name_id": "aetius-16-130-3:preparation_name:leykophylloy-skeyasia-1",
+      "preparation_name_urn": "urn:aos:recipe-preparation_name:aetius-16-130-3:preparation_name:leykophylloy-skeyasia-1",
+      "source_span": "λευκοφύλλου σκευασία",
+      "surface_form": "λευκοφύλλου σκευασία",
+      "normalized_label": "λευκοφύλλου σκευασία",
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "16",
+        "chapter": "130",
+        "section": "3",
+        "citation": {
+          "start": "163.13",
+          "end": "163.16"
+        }
+      }
+    },
+    {
+      "preparation_name_id": "aetius-16-130-3:preparation_name:xeromyron-leykon-2",
+      "preparation_name_urn": "urn:aos:recipe-preparation_name:aetius-16-130-3:preparation_name:xeromyron-leykon-2",
+      "source_span": "ξηρομύρου λευκοῦ",
+      "surface_form": "ξηρομύρου λευκοῦ",
+      "normalized_label": "ξηρόμυρον λευκόν",
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "16",
+        "chapter": "130",
+        "section": "3",
+        "citation": {
+          "start": "163.13",
+          "end": "163.16"
+        }
+      }
+    }
+  ],
+  "other_preparations_mentioned": [],
+  "works_mentioned": [],
+  "entities": [
+    {
+      "entity_urn": "urn:aos:recipe-preparation:aetius-16-130-3:preparation:leykophylloy-skeyasia",
+      "entity_type": "label",
+      "surface_form": "λευκοφύλλου σκευασία ἤτοι ξηρομύρου λευκοῦ",
+      "normalized_label": "λευκοφύλλου σκευασία"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:aetius-16-130-3:ingredient:speklarion-1",
+      "entity_type": "ingredient",
+      "surface_form": "Σπεκλαρίου κεκομμένου",
+      "normalized_label": "σπεκλάριον"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:aetius-16-130-3:ingredient:phyllon-2",
+      "entity_type": "ingredient",
+      "surface_form": "φύλλου",
+      "normalized_label": "φύλλον"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:aetius-16-130-3:ingredient:nardostachys-3",
+      "entity_type": "ingredient",
+      "surface_form": "ναρδοστάχυος",
+      "normalized_label": "ναρδόσταχυς"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:aetius-16-130-3:ingredient:karyophyllon-4",
+      "entity_type": "ingredient",
+      "surface_form": "καρυοφύλλου",
+      "normalized_label": "καρυόφυλλον"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:aetius-16-130-3:ingredient:sandarache-5",
+      "entity_type": "ingredient",
+      "surface_form": "σανδαράχης",
+      "normalized_label": "σανδαράχη"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:aetius-16-130-3:ingredient:moschos-6",
+      "entity_type": "ingredient",
+      "surface_form": "μόσχου",
+      "normalized_label": "μόσχος"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:aetius-16-130-3:process:koptein-1",
+      "entity_type": "process",
+      "surface_form": "κεκομμένου",
+      "normalized_label": "κόπτειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-preparation_name:aetius-16-130-3:preparation_name:leykophylloy-skeyasia-1",
+      "entity_type": "preparation_name",
+      "surface_form": "λευκοφύλλου σκευασία",
+      "normalized_label": "λευκοφύλλου σκευασία"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-preparation_name:aetius-16-130-3:preparation_name:xeromyron-leykon-2",
+      "entity_type": "preparation_name",
+      "surface_form": "ξηρομύρου λευκοῦ",
+      "normalized_label": "ξηρόμυρον λευκόν"
+    }
+  ]
+}

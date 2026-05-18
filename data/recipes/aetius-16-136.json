@@ -1,0 +1,1004 @@
+{
+  "dataset_key": "aetius_book16_myrepsika",
+  "source_json": "experiments/aetius-book16-ch126-153-myrepsika/data/aetius_book16_ch126_153_myrepsika.json",
+  "host_raw_file": "tei/raw/tlg0718016.xml",
+  "work_slug": "aetius.b16.myrepsika",
+  "recipe_id": "aetius-16-136",
+  "recipe_urn": "urn:aos:recipe:aetius-16-136",
+  "record_urn": "urn:aos:recipe-record:aetius-16-136",
+  "author": "Aëtius of Amida",
+  "work": "Libri medicinales",
+  "book": "16",
+  "chapter": "136",
+  "section": null,
+  "chapter_name": "κονδίτου καθαρτικοῦ σκευασία ἐπὶ τῶν φλεγματικῶν, χρῶ δὲ τούτῳ ἐν χειμῶνι",
+  "lemma": "κονδίτου καθαρτικοῦ σκευασία ἐπὶ τῶν φλεγματικῶν, χρῶ δὲ τούτῳ ἐν χειμῶνι",
+  "text": "Μέλιτος ξστα ἤτοι ξέστ. α. οἴνου ξεε ἤτοι ξέστ. ε. πεπέρεως γράμματα μστ. στύρακος καλαμίτου γράμματα γ. τὸ πέπερι κόψας καὶ σήσας, τὸν δὲ στύρακα διαλύσας ἐν τρουλλίῳ μετ' ὀλίγου μέλιτος ἐπ' ἀνθράκων, εἶτα λειώσας αὐτὰ ἐν θυίᾳ μετὰ τοῦ πεπέρεως ἱκανῶς οἶνον ὀλίγον κατὰ βραχὺ ἐπιστάζων, ἐπίβαλλε τῷ μέλιτι, καὶ συλλεάνας ἐπίβαλλε τὸν οἶνον καὶ ἀναλάμβανε. Μεμνῆσθαι δὲ τούτου ἀεὶ χρή· ὅτι εἰ μὴ ἔστι καθαρὸν τὸ μέλι, οὐ καθίσταται καλῶς τὸ ἐξ αὐτοῦ σκευαζόμενον πρόπομα, ὅθεν χρὴ προεπαφρίζειν τὸ μὴ καθαρὸν μέλι· καθίσταται γὰρ εἰ ἐπαφρισθῇ, ἐν μιᾷ ἡμέρᾳ τὸ πρόπομα καὶ καθαρὸν γίνεται.",
+  "original_text": null,
+  "text_source": null,
+  "emendations": [],
+  "emendation_count": 0,
+  "source_kind": null,
+  "entry_kind": "recipe",
+  "citation": {
+    "pages": [
+      "166"
+    ],
+    "start": {
+      "page": "166",
+      "line": "8",
+      "xml_id": "zerv-166-8"
+    },
+    "end": {
+      "page": "166",
+      "line": "19",
+      "xml_id": "zerv-166-19"
+    },
+    "citation": {
+      "start": "166.8",
+      "end": "166.19"
+    },
+    "page_spans": [
+      {
+        "page": "166",
+        "start_line": "8",
+        "end_line": "19"
+      }
+    ],
+    "lines": [
+      {
+        "page": "166",
+        "line": "8",
+        "xml_id": "zerv-166-8",
+        "citation": "166.8",
+        "text": "ΚΟΝΔΙΤΟΥ ΚΑΘΑΡΤΙΚΟΥ ΣΚΕΥΑΣΙΑ ΕΠΙ ΤΩΝ ΦΛΕΓΜΑΤΙΚΩΝ,"
+      },
+      {
+        "page": "166",
+        "line": "9",
+        "xml_id": "zerv-166-9",
+        "citation": "166.9",
+        "text": "ΧΡΩ ΔΕ ΤΟΥΤΩ ΕΝ ΧΕΙΜΩΝΙ."
+      },
+      {
+        "page": "166",
+        "line": "10",
+        "xml_id": "zerv-166-10",
+        "citation": "166.10",
+        "text": "Μέλιτος ξστα ἤτοι ξέστ. α. οἴνου ξεε ἤτοι ξέστ. ε. πεπέρεως"
+      },
+      {
+        "page": "166",
+        "line": "11",
+        "xml_id": "zerv-166-11",
+        "citation": "166.11",
+        "text": "γράμματα μστ. στύρακος καλαμίτου γράμματα γ. τὸ πέπερι"
+      },
+      {
+        "page": "166",
+        "line": "12",
+        "xml_id": "zerv-166-12",
+        "citation": "166.12",
+        "text": "κόψας καὶ σήσας, τὸν δὲ στύρακα διαλύσας ἐν τρουλλίῳ μετ'"
+      },
+      {
+        "page": "166",
+        "line": "13",
+        "xml_id": "zerv-166-13",
+        "citation": "166.13",
+        "text": "ὀλίγου μέλιτος ἐπ' ἀνθράκων, εἶτα λειώσας αὐτὰ ἐν θυίᾳ μετὰ"
+      },
+      {
+        "page": "166",
+        "line": "14",
+        "xml_id": "zerv-166-14",
+        "citation": "166.14",
+        "text": "τοῦ πεπέρεως ἱκανῶς οἶνον ὀλίγον κατὰ βραχὺ ἐπιστάζων, ἐπίβαλλε"
+      },
+      {
+        "page": "166",
+        "line": "15",
+        "xml_id": "zerv-166-15",
+        "citation": "166.15",
+        "text": "τῷ μέλιτι, καὶ συλλεάνας ἐπίβαλλε τὸν οἶνον καὶ ἀναλάμβανε."
+      },
+      {
+        "page": "166",
+        "line": "16",
+        "xml_id": "zerv-166-16",
+        "citation": "166.16",
+        "text": "Μεμνῆσθαι δὲ τούτου ἀεὶ χρή· ὅτι εἰ μὴ ἔστι καθαρὸν τὸ μέλι,"
+      },
+      {
+        "page": "166",
+        "line": "17",
+        "xml_id": "zerv-166-17",
+        "citation": "166.17",
+        "text": "οὐ καθίσταται καλῶς τὸ ἐξ αὐτοῦ σκευαζόμενον πρόπομα, ὅθεν"
+      },
+      {
+        "page": "166",
+        "line": "18",
+        "xml_id": "zerv-166-18",
+        "citation": "166.18",
+        "text": "χρὴ προεπαφρίζειν τὸ μὴ καθαρὸν μέλι· καθίσταται γὰρ εἰ"
+      },
+      {
+        "page": "166",
+        "line": "19",
+        "xml_id": "zerv-166-19",
+        "citation": "166.19",
+        "text": "ἐπαφρισθῇ, ἐν μιᾷ ἡμέρᾳ τὸ πρόπομα καὶ καθαρὸν γίνεται."
+      }
+    ],
+    "edition_key": "zervos"
+  },
+  "notes": [
+    "Preparation label taken from the lemma because the procedure does not restate the name.",
+    "Pepper quantity μστ. is interpreted as 46 grams with uncertainty.",
+    "The process label for συλλεάνας is uncertain."
+  ],
+  "alignment_status": "pending",
+  "alignment_confidence": "pending",
+  "alignment_evidence": null,
+  "review_status": "reviewed_structured_authority",
+  "review_provenance": {
+    "authority_source": "reports/entity_review/structured/aetius_book16.json",
+    "authority_recipe_id": "aetius-16-136",
+    "authority_lemma": "κονδίτον καθαρτικόν",
+    "model": "gpt-5.4",
+    "reasoning_effort": "high",
+    "dataset_key": "aetius_book16_myrepsika",
+    "entity_model_version": "1.2",
+    "authority_version": "2026-04-13-qty-alt-v1",
+    "prompt_version": "qty-alt-pass-v1",
+    "build_version": "2026-05-18T15:51:35Z"
+  },
+  "schema_version": "1.2",
+  "build_metadata": {
+    "builder": "scripts/recipes/build_recipe_entities.py",
+    "built_at": "2026-05-18T15:51:35Z",
+    "source_structured_authority": "reports/entity_review/structured/aetius_book16.json",
+    "authority_model": "gpt-5.4",
+    "authority_reasoning_effort": "high",
+    "dataset_key": "aetius_book16_myrepsika",
+    "entity_model_version": "1.2",
+    "authority_version": "2026-04-13-qty-alt-v1",
+    "prompt_version": "qty-alt-pass-v1",
+    "build_version": "2026-05-18T15:51:35Z"
+  },
+  "recipe_text_excerpt": "Μέλιτος ξστα ἤτοι ξέστ. α. οἴνου ξεε ἤτοι ξέστ. ε. πεπέρεως γράμματα μστ. στύρακος καλαμίτου γράμματα γ. τὸ πέπερι κόψας",
+  "preparation": {
+    "preparation_id": "aetius-16-136:preparation:konditon-kathartikon",
+    "preparation_urn": "urn:aos:recipe-preparation:aetius-16-136:preparation:konditon-kathartikon",
+    "source_span": "κονδίτου καθαρτικοῦ σκευασία",
+    "surface_form": "κονδίτου καθαρτικοῦ σκευασία",
+    "normalized_label": "κονδίτον καθαρτικόν",
+    "qualifiers": [
+      {
+        "qualifier_type": "other",
+        "source_span": "ἐπὶ τῶν φλεγματικῶν",
+        "normalized_value": "φλεγματικοί",
+        "certainty": "certain",
+        "notes": []
+      },
+      {
+        "qualifier_type": "temperature",
+        "source_span": "ἐν χειμῶνι",
+        "normalized_value": "χειμών",
+        "certainty": "certain",
+        "notes": []
+      }
+    ],
+    "regimen_notes": [],
+    "certainty": "certain",
+    "notes": [
+      "Running text does not restate the preparation name cleanly; label normalized from the lemma."
+    ],
+    "host_locator": {
+      "book": "16",
+      "chapter": "136",
+      "section": null,
+      "citation": {
+        "start": "166.8",
+        "end": "166.19"
+      }
+    }
+  },
+  "ingredients": [
+    {
+      "ingredient_id": "aetius-16-136:ingredient:meli-1",
+      "ingredient_urn": "urn:aos:recipe-ingredient:aetius-16-136:ingredient:meli-1",
+      "source_span": "Μέλιτος ξστα ἤτοι ξέστ. α.",
+      "surface_form": "Μέλιτος ξστα ἤτοι ξέστ. α.",
+      "base_label": "Μέλιτος",
+      "normalized_label": "μέλι",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [
+        "aetius-16-136:process:dialyein-3",
+        "aetius-16-136:process:epiballein-6",
+        "aetius-16-136:process:epiballein-8",
+        "aetius-16-136:process:proepaphrizein-10"
+      ],
+      "quantities": [
+        {
+          "source_span": "ξστα ἤτοι ξέστ. α.",
+          "raw_number": "α.",
+          "normalized_number": 1,
+          "raw_unit": "ξέστ.",
+          "normalized_unit": "xestes",
+          "certainty": "certain",
+          "notes": [
+            "Also given as ξστα."
+          ]
+        }
+      ],
+      "qualifiers": [],
+      "notes": [
+        "A small portion is later used in dissolving the styrax."
+      ],
+      "host_locator": {
+        "book": "16",
+        "chapter": "136",
+        "section": null,
+        "citation": {
+          "start": "166.8",
+          "end": "166.19"
+        }
+      }
+    },
+    {
+      "ingredient_id": "aetius-16-136:ingredient:oinos-2",
+      "ingredient_urn": "urn:aos:recipe-ingredient:aetius-16-136:ingredient:oinos-2",
+      "source_span": "οἴνου ξεε ἤτοι ξέστ. ε.",
+      "surface_form": "οἴνου ξεε ἤτοι ξέστ. ε.",
+      "base_label": "οἴνου",
+      "normalized_label": "οἶνος",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [
+        "aetius-16-136:process:epistazein-5",
+        "aetius-16-136:process:epiballein-6",
+        "aetius-16-136:process:epiballein-8"
+      ],
+      "quantities": [
+        {
+          "source_span": "ξεε ἤτοι ξέστ. ε.",
+          "raw_number": "ε.",
+          "normalized_number": 5,
+          "raw_unit": "ξέστ.",
+          "normalized_unit": "xestes",
+          "certainty": "certain",
+          "notes": [
+            "Also given as ξεε."
+          ]
+        }
+      ],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "16",
+        "chapter": "136",
+        "section": null,
+        "citation": {
+          "start": "166.8",
+          "end": "166.19"
+        }
+      }
+    },
+    {
+      "ingredient_id": "aetius-16-136:ingredient:peperi-3",
+      "ingredient_urn": "urn:aos:recipe-ingredient:aetius-16-136:ingredient:peperi-3",
+      "source_span": "πεπέρεως γράμματα μστ.",
+      "surface_form": "πεπέρεως γράμματα μστ.",
+      "base_label": "πεπέρεως",
+      "normalized_label": "πέπερι",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [
+        "aetius-16-136:process:koptein-1",
+        "aetius-16-136:process:sethein-2",
+        "aetius-16-136:process:leioyn-4"
+      ],
+      "quantities": [
+        {
+          "source_span": "γράμματα μστ.",
+          "raw_number": "μστ.",
+          "normalized_number": 46,
+          "raw_unit": "γράμματα",
+          "normalized_unit": "gramma",
+          "certainty": "uncertain",
+          "notes": [
+            "Interpreted as 46 using stigma notation."
+          ]
+        }
+      ],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "16",
+        "chapter": "136",
+        "section": null,
+        "citation": {
+          "start": "166.8",
+          "end": "166.19"
+        }
+      }
+    },
+    {
+      "ingredient_id": "aetius-16-136:ingredient:styrax-kalamites-4",
+      "ingredient_urn": "urn:aos:recipe-ingredient:aetius-16-136:ingredient:styrax-kalamites-4",
+      "source_span": "στύρακος καλαμίτου γράμματα γ.",
+      "surface_form": "στύρακος καλαμίτου γράμματα γ.",
+      "base_label": "στύρακος καλαμίτου",
+      "normalized_label": "στύραξ καλαμίτης",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [
+        "aetius-16-136:process:dialyein-3",
+        "aetius-16-136:process:leioyn-4"
+      ],
+      "quantities": [
+        {
+          "source_span": "γράμματα γ.",
+          "raw_number": "γ.",
+          "normalized_number": 3,
+          "raw_unit": "γράμματα",
+          "normalized_unit": "gramma",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "16",
+        "chapter": "136",
+        "section": null,
+        "citation": {
+          "start": "166.8",
+          "end": "166.19"
+        }
+      }
+    }
+  ],
+  "processes": [
+    {
+      "process_id": "aetius-16-136:process:koptein-1",
+      "process_urn": "urn:aos:recipe-process:aetius-16-136:process:koptein-1",
+      "source_span": "κόψας",
+      "surface_form": "κόψας",
+      "normalized_label": "κόπτειν",
+      "target_type": "ingredient",
+      "target_ids": [
+        "aetius-16-136:ingredient:peperi-3"
+      ],
+      "quantities": [],
+      "qualifiers": [],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "16",
+        "chapter": "136",
+        "section": null,
+        "citation": {
+          "start": "166.8",
+          "end": "166.19"
+        }
+      }
+    },
+    {
+      "process_id": "aetius-16-136:process:sethein-2",
+      "process_urn": "urn:aos:recipe-process:aetius-16-136:process:sethein-2",
+      "source_span": "σήσας",
+      "surface_form": "σήσας",
+      "normalized_label": "σήθειν",
+      "target_type": "ingredient",
+      "target_ids": [
+        "aetius-16-136:ingredient:peperi-3"
+      ],
+      "quantities": [],
+      "qualifiers": [],
+      "certainty": "uncertain",
+      "notes": [
+        "Normalized from σήσας as a sifting/sieving step."
+      ],
+      "host_locator": {
+        "book": "16",
+        "chapter": "136",
+        "section": null,
+        "citation": {
+          "start": "166.8",
+          "end": "166.19"
+        }
+      }
+    },
+    {
+      "process_id": "aetius-16-136:process:dialyein-3",
+      "process_urn": "urn:aos:recipe-process:aetius-16-136:process:dialyein-3",
+      "source_span": "διαλύσας",
+      "surface_form": "διαλύσας",
+      "normalized_label": "διαλύειν",
+      "target_type": "ingredient",
+      "target_ids": [
+        "aetius-16-136:ingredient:styrax-kalamites-4",
+        "aetius-16-136:ingredient:meli-1"
+      ],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "location",
+          "source_span": "ἐν τρουλλίῳ",
+          "normalized_value": "ἐν τρουλλίῳ",
+          "certainty": "certain",
+          "notes": []
+        },
+        {
+          "qualifier_type": "other",
+          "source_span": "μετ' ὀλίγου μέλιτος",
+          "normalized_value": "μετὰ ὀλίγου μέλιτος",
+          "certainty": "certain",
+          "notes": []
+        },
+        {
+          "qualifier_type": "exposure",
+          "source_span": "ἐπ' ἀνθράκων",
+          "normalized_value": "ἐπ' ἀνθράκων",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "16",
+        "chapter": "136",
+        "section": null,
+        "citation": {
+          "start": "166.8",
+          "end": "166.19"
+        }
+      }
+    },
+    {
+      "process_id": "aetius-16-136:process:leioyn-4",
+      "process_urn": "urn:aos:recipe-process:aetius-16-136:process:leioyn-4",
+      "source_span": "λειώσας",
+      "surface_form": "λειώσας",
+      "normalized_label": "λειοῦν",
+      "target_type": "ingredient",
+      "target_ids": [
+        "aetius-16-136:ingredient:styrax-kalamites-4",
+        "aetius-16-136:ingredient:peperi-3"
+      ],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "location",
+          "source_span": "ἐν θυίᾳ",
+          "normalized_value": "ἐν θυίᾳ",
+          "certainty": "certain",
+          "notes": []
+        },
+        {
+          "qualifier_type": "manner",
+          "source_span": "ἱκανῶς",
+          "normalized_value": "ἱκανῶς",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "16",
+        "chapter": "136",
+        "section": null,
+        "citation": {
+          "start": "166.8",
+          "end": "166.19"
+        }
+      }
+    },
+    {
+      "process_id": "aetius-16-136:process:epistazein-5",
+      "process_urn": "urn:aos:recipe-process:aetius-16-136:process:epistazein-5",
+      "source_span": "ἐπιστάζων",
+      "surface_form": "ἐπιστάζων",
+      "normalized_label": "ἐπιστάζειν",
+      "target_type": "ingredient",
+      "target_ids": [
+        "aetius-16-136:ingredient:oinos-2"
+      ],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "other",
+          "source_span": "οἶνον ὀλίγον",
+          "normalized_value": "οἶνος ὀλίγος",
+          "certainty": "certain",
+          "notes": []
+        },
+        {
+          "qualifier_type": "manner",
+          "source_span": "κατὰ βραχὺ",
+          "normalized_value": "κατὰ βραχὺ",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "16",
+        "chapter": "136",
+        "section": null,
+        "citation": {
+          "start": "166.8",
+          "end": "166.19"
+        }
+      }
+    },
+    {
+      "process_id": "aetius-16-136:process:epiballein-6",
+      "process_urn": "urn:aos:recipe-process:aetius-16-136:process:epiballein-6",
+      "source_span": "ἐπίβαλλε τῷ μέλιτι",
+      "surface_form": "ἐπίβαλλε τῷ μέλιτι",
+      "normalized_label": "ἐπιβάλλειν",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "16",
+        "chapter": "136",
+        "section": null,
+        "citation": {
+          "start": "166.8",
+          "end": "166.19"
+        }
+      }
+    },
+    {
+      "process_id": "aetius-16-136:process:sylleainein-7",
+      "process_urn": "urn:aos:recipe-process:aetius-16-136:process:sylleainein-7",
+      "source_span": "συλλεάνας",
+      "surface_form": "συλλεάνας",
+      "normalized_label": "συλλεαίνειν",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [],
+      "certainty": "uncertain",
+      "notes": [
+        "Normalization of συλλεάνας is uncertain."
+      ],
+      "host_locator": {
+        "book": "16",
+        "chapter": "136",
+        "section": null,
+        "citation": {
+          "start": "166.8",
+          "end": "166.19"
+        }
+      }
+    },
+    {
+      "process_id": "aetius-16-136:process:epiballein-8",
+      "process_urn": "urn:aos:recipe-process:aetius-16-136:process:epiballein-8",
+      "source_span": "ἐπίβαλλε τὸν οἶνον",
+      "surface_form": "ἐπίβαλλε τὸν οἶνον",
+      "normalized_label": "ἐπιβάλλειν",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "16",
+        "chapter": "136",
+        "section": null,
+        "citation": {
+          "start": "166.8",
+          "end": "166.19"
+        }
+      }
+    },
+    {
+      "process_id": "aetius-16-136:process:analambanein-9",
+      "process_urn": "urn:aos:recipe-process:aetius-16-136:process:analambanein-9",
+      "source_span": "ἀναλάμβανε",
+      "surface_form": "ἀναλάμβανε",
+      "normalized_label": "ἀναλαμβάνειν",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "16",
+        "chapter": "136",
+        "section": null,
+        "citation": {
+          "start": "166.8",
+          "end": "166.19"
+        }
+      }
+    },
+    {
+      "process_id": "aetius-16-136:process:proepaphrizein-10",
+      "process_urn": "urn:aos:recipe-process:aetius-16-136:process:proepaphrizein-10",
+      "source_span": "προεπαφρίζειν",
+      "surface_form": "προεπαφρίζειν",
+      "normalized_label": "προεπαφρίζειν",
+      "target_type": "ingredient",
+      "target_ids": [
+        "aetius-16-136:ingredient:meli-1"
+      ],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "other",
+          "source_span": "τὸ μὴ καθαρὸν μέλι",
+          "normalized_value": "μὴ καθαρὸν μέλι",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "16",
+        "chapter": "136",
+        "section": null,
+        "citation": {
+          "start": "166.8",
+          "end": "166.19"
+        }
+      }
+    }
+  ],
+  "materials": [
+    {
+      "material_id": "aetius-16-136:material:troyllion-1",
+      "material_urn": "urn:aos:recipe-material:aetius-16-136:material:troyllion-1",
+      "source_span": "τρουλλίῳ",
+      "surface_form": "τρουλλίῳ",
+      "normalized_label": "τρουλλίον",
+      "role": "apparatus",
+      "certainty": "certain",
+      "quantities": [],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "16",
+        "chapter": "136",
+        "section": null,
+        "citation": {
+          "start": "166.8",
+          "end": "166.19"
+        }
+      }
+    },
+    {
+      "material_id": "aetius-16-136:material:anthrakes-2",
+      "material_urn": "urn:aos:recipe-material:aetius-16-136:material:anthrakes-2",
+      "source_span": "ἀνθράκων",
+      "surface_form": "ἀνθράκων",
+      "normalized_label": "ἄνθρακες",
+      "role": "fuel",
+      "certainty": "certain",
+      "quantities": [],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "16",
+        "chapter": "136",
+        "section": null,
+        "citation": {
+          "start": "166.8",
+          "end": "166.19"
+        }
+      }
+    },
+    {
+      "material_id": "aetius-16-136:material:thyia-3",
+      "material_urn": "urn:aos:recipe-material:aetius-16-136:material:thyia-3",
+      "source_span": "θυίᾳ",
+      "surface_form": "θυίᾳ",
+      "normalized_label": "θυία",
+      "role": "tool",
+      "certainty": "uncertain",
+      "quantities": [],
+      "qualifiers": [],
+      "notes": [
+        "Grinding vessel/tool term."
+      ],
+      "host_locator": {
+        "book": "16",
+        "chapter": "136",
+        "section": null,
+        "citation": {
+          "start": "166.8",
+          "end": "166.19"
+        }
+      }
+    }
+  ],
+  "people": [],
+  "places": [],
+  "uses": [
+    {
+      "use_id": "aetius-16-136:use:epi-ton-phlegmatikon-1",
+      "use_urn": "urn:aos:recipe-use:aetius-16-136:use:epi-ton-phlegmatikon-1",
+      "category": "medical",
+      "source_span": "ἐπὶ τῶν φλεγματικῶν",
+      "snippet": "ἐπὶ τῶν φλεγματικῶν",
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "16",
+        "chapter": "136",
+        "section": null,
+        "citation": {
+          "start": "166.8",
+          "end": "166.19"
+        }
+      }
+    },
+    {
+      "use_id": "aetius-16-136:use:chro-de-toyto-en-cheimoni-2",
+      "use_urn": "urn:aos:recipe-use:aetius-16-136:use:chro-de-toyto-en-cheimoni-2",
+      "category": "medical",
+      "source_span": "χρῶ δὲ τούτῳ ἐν χειμῶνι",
+      "snippet": "χρῶ δὲ τούτῳ ἐν χειμῶνι",
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "16",
+        "chapter": "136",
+        "section": null,
+        "citation": {
+          "start": "166.8",
+          "end": "166.19"
+        }
+      }
+    }
+  ],
+  "preparation_names": [],
+  "other_preparations_mentioned": [],
+  "works_mentioned": [],
+  "entities": [
+    {
+      "entity_urn": "urn:aos:recipe-preparation:aetius-16-136:preparation:konditon-kathartikon",
+      "entity_type": "label",
+      "surface_form": "κονδίτου καθαρτικοῦ σκευασία",
+      "normalized_label": "κονδίτον καθαρτικόν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:aetius-16-136:ingredient:meli-1",
+      "entity_type": "ingredient",
+      "surface_form": "Μέλιτος ξστα ἤτοι ξέστ. α.",
+      "normalized_label": "μέλι"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:aetius-16-136:ingredient:oinos-2",
+      "entity_type": "ingredient",
+      "surface_form": "οἴνου ξεε ἤτοι ξέστ. ε.",
+      "normalized_label": "οἶνος"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:aetius-16-136:ingredient:peperi-3",
+      "entity_type": "ingredient",
+      "surface_form": "πεπέρεως γράμματα μστ.",
+      "normalized_label": "πέπερι"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:aetius-16-136:ingredient:styrax-kalamites-4",
+      "entity_type": "ingredient",
+      "surface_form": "στύρακος καλαμίτου γράμματα γ.",
+      "normalized_label": "στύραξ καλαμίτης"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:aetius-16-136:process:koptein-1",
+      "entity_type": "process",
+      "surface_form": "κόψας",
+      "normalized_label": "κόπτειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:aetius-16-136:process:sethein-2",
+      "entity_type": "process",
+      "surface_form": "σήσας",
+      "normalized_label": "σήθειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:aetius-16-136:process:dialyein-3",
+      "entity_type": "process",
+      "surface_form": "διαλύσας",
+      "normalized_label": "διαλύειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:aetius-16-136:process:leioyn-4",
+      "entity_type": "process",
+      "surface_form": "λειώσας",
+      "normalized_label": "λειοῦν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:aetius-16-136:process:epistazein-5",
+      "entity_type": "process",
+      "surface_form": "ἐπιστάζων",
+      "normalized_label": "ἐπιστάζειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:aetius-16-136:process:epiballein-6",
+      "entity_type": "process",
+      "surface_form": "ἐπίβαλλε τῷ μέλιτι",
+      "normalized_label": "ἐπιβάλλειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:aetius-16-136:process:sylleainein-7",
+      "entity_type": "process",
+      "surface_form": "συλλεάνας",
+      "normalized_label": "συλλεαίνειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:aetius-16-136:process:epiballein-8",
+      "entity_type": "process",
+      "surface_form": "ἐπίβαλλε τὸν οἶνον",
+      "normalized_label": "ἐπιβάλλειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:aetius-16-136:process:analambanein-9",
+      "entity_type": "process",
+      "surface_form": "ἀναλάμβανε",
+      "normalized_label": "ἀναλαμβάνειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:aetius-16-136:process:proepaphrizein-10",
+      "entity_type": "process",
+      "surface_form": "προεπαφρίζειν",
+      "normalized_label": "προεπαφρίζειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-material:aetius-16-136:material:troyllion-1",
+      "entity_type": "material",
+      "surface_form": "τρουλλίῳ",
+      "normalized_label": "τρουλλίον"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-material:aetius-16-136:material:anthrakes-2",
+      "entity_type": "material",
+      "surface_form": "ἀνθράκων",
+      "normalized_label": "ἄνθρακες"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-material:aetius-16-136:material:thyia-3",
+      "entity_type": "material",
+      "surface_form": "θυίᾳ",
+      "normalized_label": "θυία"
+    }
+  ],
+  "canonical_file": "data/recipes/aetius-16-136.json",
+  "source_entry": {
+    "source_id": "aetius-16-136",
+    "derived_recipe_id": "aetius-16-136",
+    "entry_kind": null,
+    "source_kind": null,
+    "source_lines": null,
+    "section_markers": []
+  },
+  "entity_groups": {
+    "labels": [
+      {
+        "entity_urn": "urn:aos:recipe-preparation:aetius-16-136:preparation:konditon-kathartikon",
+        "surface_form": "κονδίτου καθαρτικοῦ σκευασία",
+        "normalized_label": "κονδίτον καθαρτικόν"
+      }
+    ],
+    "ingredients": [
+      {
+        "entity_urn": "urn:aos:recipe-ingredient:aetius-16-136:ingredient:meli-1",
+        "surface_form": "Μέλιτος ξστα ἤτοι ξέστ. α.",
+        "normalized_label": "μέλι",
+        "quantity_display": "ξστα ἤτοι ξέστ. α."
+      },
+      {
+        "entity_urn": "urn:aos:recipe-ingredient:aetius-16-136:ingredient:oinos-2",
+        "surface_form": "οἴνου ξεε ἤτοι ξέστ. ε.",
+        "normalized_label": "οἶνος",
+        "quantity_display": "ξεε ἤτοι ξέστ. ε."
+      },
+      {
+        "entity_urn": "urn:aos:recipe-ingredient:aetius-16-136:ingredient:peperi-3",
+        "surface_form": "πεπέρεως γράμματα μστ.",
+        "normalized_label": "πέπερι",
+        "quantity_display": "γράμματα μστ."
+      },
+      {
+        "entity_urn": "urn:aos:recipe-ingredient:aetius-16-136:ingredient:styrax-kalamites-4",
+        "surface_form": "στύρακος καλαμίτου γράμματα γ.",
+        "normalized_label": "στύραξ καλαμίτης",
+        "quantity_display": "γράμματα γ."
+      }
+    ],
+    "processes": [
+      {
+        "entity_urn": "urn:aos:recipe-process:aetius-16-136:process:koptein-1",
+        "surface_form": "κόψας",
+        "normalized_label": "κόπτειν"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-process:aetius-16-136:process:sethein-2",
+        "surface_form": "σήσας",
+        "normalized_label": "σήθειν"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-process:aetius-16-136:process:dialyein-3",
+        "surface_form": "διαλύσας",
+        "normalized_label": "διαλύειν"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-process:aetius-16-136:process:leioyn-4",
+        "surface_form": "λειώσας",
+        "normalized_label": "λειοῦν"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-process:aetius-16-136:process:epistazein-5",
+        "surface_form": "ἐπιστάζων",
+        "normalized_label": "ἐπιστάζειν"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-process:aetius-16-136:process:epiballein-6",
+        "surface_form": "ἐπίβαλλε τῷ μέλιτι",
+        "normalized_label": "ἐπιβάλλειν"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-process:aetius-16-136:process:sylleainein-7",
+        "surface_form": "συλλεάνας",
+        "normalized_label": "συλλεαίνειν"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-process:aetius-16-136:process:epiballein-8",
+        "surface_form": "ἐπίβαλλε τὸν οἶνον",
+        "normalized_label": "ἐπιβάλλειν"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-process:aetius-16-136:process:analambanein-9",
+        "surface_form": "ἀναλάμβανε",
+        "normalized_label": "ἀναλαμβάνειν"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-process:aetius-16-136:process:proepaphrizein-10",
+        "surface_form": "προεπαφρίζειν",
+        "normalized_label": "προεπαφρίζειν"
+      }
+    ],
+    "tools": [
+      {
+        "entity_urn": "urn:aos:recipe-material:aetius-16-136:material:troyllion-1",
+        "surface_form": "τρουλλίῳ",
+        "normalized_label": "τρουλλίον"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-material:aetius-16-136:material:anthrakes-2",
+        "surface_form": "ἀνθράκων",
+        "normalized_label": "ἄνθρακες"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-material:aetius-16-136:material:thyia-3",
+        "surface_form": "θυίᾳ",
+        "normalized_label": "θυία"
+      }
+    ],
+    "other_preparations_mentioned": [],
+    "people": [],
+    "places": [],
+    "works_mentioned": [],
+    "preparation_names": []
+  }
+}

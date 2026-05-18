@@ -1,0 +1,803 @@
+{
+  "dataset_key": "dioscorides_book2_fats",
+  "source_json": "experiments/dioscorides-book2-fats/data/dioscorides_book2_fats.json",
+  "host_raw_file": "tei/raw/tlg0656.tlg001.1st1K-grc1.xml",
+  "work_slug": "diosc.b2.fats",
+  "recipe_id": "dioscorides-2-74-oisypos-boiled",
+  "recipe_urn": "urn:aos:recipe:dioscorides-2-74-oisypos-boiled",
+  "record_urn": "urn:aos:recipe-record:dioscorides-2-74-oisypos-boiled",
+  "author": "Dioscorides",
+  "work": "De materia medica",
+  "book": "2",
+  "chapter": "74",
+  "section": "3",
+  "chapter_name": "οἴσυπος",
+  "lemma": "οἴσυπος ἑψητός",
+  "text": "οἱ δὲ πλύναντες τὰ ἔρια καὶ ἐκθλίψαντες τὸν ῥύπον ἕψουσι μεθʼ ὕδατος ἐν λέβητι πυρὶ κούφῳ, καὶ τὸ ἐφιστάμενον λίπος ἀφαιροῦντες πλύνουσιν ὕδατι, ὥσπερ εἴρηται, καὶ διυλίσαντες εἰς λοπάδιον κεραμεοῦν ἔχον ὕδωρ θερμὸν λινῷ τε ῥάκει περιπωμάσαντες τιθέασιν ἐν ἡλίῳ, μέχρι ἂν αὐταρκῶς παχὺς γένηται καὶ λευκός· ἔνιοι δὲ διὰ δύο ἡμερῶν ἀποχέοντες τὸ πρῶτον ὕδωρ ἄλλο ἐπιχέουσιν. ἐστι δὲ βελτίων ὁ ἀστρούθιστος καὶ λεῖος, ὄζων ἐρίων οἰσυπηρῶν, ἀνατριβόμενός τε μεθʼ ὕδατος ψυχροῦ ἐν μύακι λευκαινόμενος καὶ οὐδὲν ἔχων ἐν ἑαυτῷ σκληρὸν ἢ συνεστηκὸς ὥσπερ ὁ δολιζόμενος κηρωτῇ ἢ στέατι.",
+  "original_text": null,
+  "text_source": null,
+  "emendations": [],
+  "emendation_count": 0,
+  "source_kind": "main_text",
+  "entry_kind": "recipe",
+  "citation": {
+    "pages": [
+      "149"
+    ],
+    "start": {
+      "page": "149",
+      "line": "10"
+    },
+    "end": {
+      "page": "149",
+      "line": "20"
+    },
+    "citation": {
+      "start": "149.10",
+      "end": "149.20"
+    },
+    "page_spans": [
+      {
+        "page": "149",
+        "start_line": "10",
+        "end_line": "20"
+      }
+    ],
+    "lines": [
+      {
+        "page": "149",
+        "line": "10",
+        "break_no": false,
+        "raw_text": "οἱ δὲ πλύναντες 3",
+        "text": "οἱ δὲ πλύναντες",
+        "citation": "149.10"
+      },
+      {
+        "page": "149",
+        "line": "15",
+        "break_no": false,
+        "raw_text": "τὰ ἔρια καὶ ἐκθλίψαντες τὸν ῥύπον ἕψουσι μεθʼ ὕδατος ἐν λέβητι πυρὶ κούφῳ, καὶ τὸ ἐφιστάμενον λίπος ἀφαιροῦντες πλύνουσιν ὕδατι, ὥσπερ εἴρηται, καὶ διυλίσαντες εἰς λοπάδιον κεραμεοῦν ἔχον ὕδωρ θερμὸν λινῷ τε ῥάκει περιπωμάσαντες τιθέασιν ἐν ἡλίῳ, μέχρι ἂν αὐταρκῶς παχὺς γένηται καὶ",
+        "text": "τὰ ἔρια καὶ ἐκθλίψαντες τὸν ῥύπον ἕψουσι μεθʼ ὕδατος ἐν λέβητι πυρὶ κούφῳ, καὶ τὸ ἐφιστάμενον λίπος ἀφαιροῦντες πλύνουσιν ὕδατι, ὥσπερ εἴρηται, καὶ διυλίσαντες εἰς λοπάδιον κεραμεοῦν ἔχον ὕδωρ θερμὸν λινῷ τε ῥάκει περιπωμάσαντες τιθέασιν ἐν ἡλίῳ, μέχρι ἂν αὐταρκῶς παχὺς γένηται καὶ",
+        "citation": "149.15"
+      },
+      {
+        "page": "149",
+        "line": "20",
+        "break_no": false,
+        "raw_text": "λευκός· ἔνιοι δὲ διὰ δύο ἡμερῶν ἀποχέοντες τὸ πρῶτον ὕδωρ ἄλλο ἐπιχέουσιν. ἐστι δὲ βελτίων ὁ ἀστρούθιστος καὶ λεῖος, ὄζων ἐρίων οἰσυπηρῶν, ἀνατριβόμενός τε μεθʼ ὕδατος ψυχροῦ ἐν μύακι λευκαινόμενος καὶ οὐδὲν ἔχων ἐν ἑαυτῷ σκληρὸν ἢ συνεστηκὸς ὥσπερ ὁ δολιζόμενος κηρωτῇ ἢ στέατι.",
+        "text": "λευκός· ἔνιοι δὲ διὰ δύο ἡμερῶν ἀποχέοντες τὸ πρῶτον ὕδωρ ἄλλο ἐπιχέουσιν. ἐστι δὲ βελτίων ὁ ἀστρούθιστος καὶ λεῖος, ὄζων ἐρίων οἰσυπηρῶν, ἀνατριβόμενός τε μεθʼ ὕδατος ψυχροῦ ἐν μύακι λευκαινόμενος καὶ οὐδὲν ἔχων ἐν ἑαυτῷ σκληρὸν ἢ συνεστηκὸς ὥσπερ ὁ δολιζόμενος κηρωτῇ ἢ στέατι.",
+        "citation": "149.20"
+      }
+    ],
+    "edition_key": "wellmann"
+  },
+  "notes": [
+    "Book 2 fats slice split into logical preparation and technique units from chapters 72, 74, and 76.",
+    "Bare Arabic numerals in the raw witness are treated as structural or note noise and removed from display text, except parenthetical cross-references such as (I 68).",
+    "Section markers are stored separately and displayed near sentence boundaries as heuristic navigation aids."
+  ],
+  "alignment_status": "pending",
+  "alignment_confidence": "pending",
+  "alignment_evidence": null,
+  "review_status": "reviewed_structured_authority",
+  "review_provenance": {
+    "authority_source": "reports/entity_review/structured/dioscorides.json",
+    "authority_recipe_id": "dioscorides-2-74-oisypos-boiled",
+    "authority_lemma": "οἴσυπος ἑψητός",
+    "model": "gpt-5.4",
+    "reasoning_effort": "high",
+    "dataset_key": "dioscorides_book2_fats",
+    "entity_model_version": "1.2",
+    "authority_version": "2026-04-13-qty-alt-v1",
+    "prompt_version": "qty-alt-pass-v1",
+    "build_version": "2026-05-18T15:51:35Z"
+  },
+  "schema_version": "1.2",
+  "build_metadata": {
+    "builder": "scripts/recipes/build_recipe_entities.py",
+    "built_at": "2026-05-18T15:51:35Z",
+    "source_structured_authority": "reports/entity_review/structured/dioscorides.json",
+    "authority_model": "gpt-5.4",
+    "authority_reasoning_effort": "high",
+    "dataset_key": "dioscorides_book2_fats",
+    "entity_model_version": "1.2",
+    "authority_version": "2026-04-13-qty-alt-v1",
+    "prompt_version": "qty-alt-pass-v1",
+    "build_version": "2026-05-18T15:51:35Z"
+  },
+  "recipe_text_excerpt": "οἱ δὲ πλύναντες τὰ ἔρια καὶ ἐκθλίψαντες τὸν ῥύπον ἕψουσι μεθʼ ὕδατος ἐν λέβητι πυρὶ κούφῳ, καὶ τὸ ἐφιστάμενον λίπος",
+  "preparation": {
+    "preparation_id": "dioscorides-2-74-oisypos-boiled:preparation:oisypos-epsetos",
+    "preparation_urn": "urn:aos:recipe-preparation:dioscorides-2-74-oisypos-boiled:preparation:oisypos-epsetos",
+    "source_span": "οἴσυπος ἑψητός",
+    "surface_form": "οἴσυπος ἑψητός",
+    "normalized_label": "οἴσυπος ἑψητός",
+    "qualifiers": [],
+    "regimen_notes": [],
+    "certainty": "certain",
+    "notes": [],
+    "host_locator": {
+      "book": "2",
+      "chapter": "74",
+      "section": "3",
+      "citation": {
+        "start": "149.10",
+        "end": "149.20"
+      }
+    }
+  },
+  "ingredients": [
+    {
+      "ingredient_id": "dioscorides-2-74-oisypos-boiled:ingredient:erion-1",
+      "ingredient_urn": "urn:aos:recipe-ingredient:dioscorides-2-74-oisypos-boiled:ingredient:erion-1",
+      "source_span": "τὰ ἔρια",
+      "surface_form": "τὰ ἔρια",
+      "base_label": "ἔριον",
+      "normalized_label": "ἔριον",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [
+        "dioscorides-2-74-oisypos-boiled:process:plynein-1",
+        "dioscorides-2-74-oisypos-boiled:process:plynein-5",
+        "dioscorides-2-74-oisypos-boiled:process:ekthlibein-2"
+      ],
+      "quantities": [],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "2",
+        "chapter": "74",
+        "section": "3",
+        "citation": {
+          "start": "149.10",
+          "end": "149.20"
+        }
+      }
+    },
+    {
+      "ingredient_id": "dioscorides-2-74-oisypos-boiled:ingredient:rypos-2",
+      "ingredient_urn": "urn:aos:recipe-ingredient:dioscorides-2-74-oisypos-boiled:ingredient:rypos-2",
+      "source_span": "τὸν ῥύπον",
+      "surface_form": "τὸν ῥύπον",
+      "base_label": "ῥύπος",
+      "normalized_label": "ῥύπος",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [
+        "dioscorides-2-74-oisypos-boiled:process:ekthlibein-2",
+        "dioscorides-2-74-oisypos-boiled:process:epsein-3"
+      ],
+      "quantities": [],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "2",
+        "chapter": "74",
+        "section": "3",
+        "citation": {
+          "start": "149.10",
+          "end": "149.20"
+        }
+      }
+    },
+    {
+      "ingredient_id": "dioscorides-2-74-oisypos-boiled:ingredient:ydor-3",
+      "ingredient_urn": "urn:aos:recipe-ingredient:dioscorides-2-74-oisypos-boiled:ingredient:ydor-3",
+      "source_span": "ὕδατος",
+      "surface_form": "ὕδατος",
+      "base_label": "ὕδωρ",
+      "normalized_label": "ὕδωρ",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [
+        "dioscorides-2-74-oisypos-boiled:process:epsein-3",
+        "dioscorides-2-74-oisypos-boiled:process:plynein-1",
+        "dioscorides-2-74-oisypos-boiled:process:plynein-5",
+        "dioscorides-2-74-oisypos-boiled:process:diylizein-6",
+        "dioscorides-2-74-oisypos-boiled:process:epicheein-10"
+      ],
+      "quantities": [],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "2",
+        "chapter": "74",
+        "section": "3",
+        "citation": {
+          "start": "149.10",
+          "end": "149.20"
+        }
+      }
+    },
+    {
+      "ingredient_id": "dioscorides-2-74-oisypos-boiled:ingredient:lipos-4",
+      "ingredient_urn": "urn:aos:recipe-ingredient:dioscorides-2-74-oisypos-boiled:ingredient:lipos-4",
+      "source_span": "τὸ ἐφιστάμενον λίπος",
+      "surface_form": "τὸ ἐφιστάμενον λίπος",
+      "base_label": "λίπος",
+      "normalized_label": "λίπος",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [
+        "dioscorides-2-74-oisypos-boiled:process:aphairein-4",
+        "dioscorides-2-74-oisypos-boiled:process:plynein-1",
+        "dioscorides-2-74-oisypos-boiled:process:plynein-5",
+        "dioscorides-2-74-oisypos-boiled:process:diylizein-6",
+        "dioscorides-2-74-oisypos-boiled:process:peripomazein-7",
+        "dioscorides-2-74-oisypos-boiled:process:tithenai-8"
+      ],
+      "quantities": [],
+      "qualifiers": [],
+      "notes": [
+        "Intermediate skimmed fat becomes the worked substance in later steps."
+      ],
+      "host_locator": {
+        "book": "2",
+        "chapter": "74",
+        "section": "3",
+        "citation": {
+          "start": "149.10",
+          "end": "149.20"
+        }
+      }
+    },
+    {
+      "ingredient_id": "dioscorides-2-74-oisypos-boiled:ingredient:ydor-5",
+      "ingredient_urn": "urn:aos:recipe-ingredient:dioscorides-2-74-oisypos-boiled:ingredient:ydor-5",
+      "source_span": "τὸ πρῶτον ὕδωρ",
+      "surface_form": "τὸ πρῶτον ὕδωρ",
+      "base_label": "ὕδωρ",
+      "normalized_label": "ὕδωρ",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [
+        "dioscorides-2-74-oisypos-boiled:process:apocheein-9"
+      ],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "other",
+          "source_span": "πρῶτον",
+          "normalized_value": "πρῶτον",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "notes": [],
+      "host_locator": {
+        "book": "2",
+        "chapter": "74",
+        "section": "3",
+        "citation": {
+          "start": "149.10",
+          "end": "149.20"
+        }
+      }
+    }
+  ],
+  "processes": [
+    {
+      "process_id": "dioscorides-2-74-oisypos-boiled:process:plynein-1",
+      "process_urn": "urn:aos:recipe-process:dioscorides-2-74-oisypos-boiled:process:plynein-1",
+      "source_span": "πλύναντες",
+      "surface_form": "πλύναντες",
+      "normalized_label": "πλύνειν",
+      "target_type": "ingredient",
+      "target_ids": [
+        "dioscorides-2-74-oisypos-boiled:ingredient:erion-1"
+      ],
+      "quantities": [],
+      "qualifiers": [],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "2",
+        "chapter": "74",
+        "section": "3",
+        "citation": {
+          "start": "149.10",
+          "end": "149.20"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-2-74-oisypos-boiled:process:ekthlibein-2",
+      "process_urn": "urn:aos:recipe-process:dioscorides-2-74-oisypos-boiled:process:ekthlibein-2",
+      "source_span": "ἐκθλίψαντες",
+      "surface_form": "ἐκθλίψαντες",
+      "normalized_label": "ἐκθλίβειν",
+      "target_type": "ingredient",
+      "target_ids": [
+        "dioscorides-2-74-oisypos-boiled:ingredient:erion-1"
+      ],
+      "quantities": [],
+      "qualifiers": [],
+      "certainty": "certain",
+      "notes": [
+        "Object expressed in text as τὸν ῥύπον."
+      ],
+      "host_locator": {
+        "book": "2",
+        "chapter": "74",
+        "section": "3",
+        "citation": {
+          "start": "149.10",
+          "end": "149.20"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-2-74-oisypos-boiled:process:epsein-3",
+      "process_urn": "urn:aos:recipe-process:dioscorides-2-74-oisypos-boiled:process:epsein-3",
+      "source_span": "ἕψουσι",
+      "surface_form": "ἕψουσι",
+      "normalized_label": "ἕψειν",
+      "target_type": "ingredient",
+      "target_ids": [
+        "dioscorides-2-74-oisypos-boiled:ingredient:rypos-2"
+      ],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "manner",
+          "source_span": "μεθʼ ὕδατος",
+          "normalized_value": "μετὰ ὕδατος",
+          "certainty": "certain",
+          "notes": []
+        },
+        {
+          "qualifier_type": "location",
+          "source_span": "ἐν λέβητι",
+          "normalized_value": "ἐν λέβητι",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "2",
+        "chapter": "74",
+        "section": "3",
+        "citation": {
+          "start": "149.10",
+          "end": "149.20"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-2-74-oisypos-boiled:process:aphairein-4",
+      "process_urn": "urn:aos:recipe-process:dioscorides-2-74-oisypos-boiled:process:aphairein-4",
+      "source_span": "ἀφαιροῦντες",
+      "surface_form": "ἀφαιροῦντες",
+      "normalized_label": "ἀφαιρεῖν",
+      "target_type": "ingredient",
+      "target_ids": [
+        "dioscorides-2-74-oisypos-boiled:ingredient:lipos-4"
+      ],
+      "quantities": [],
+      "qualifiers": [],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "2",
+        "chapter": "74",
+        "section": "3",
+        "citation": {
+          "start": "149.10",
+          "end": "149.20"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-2-74-oisypos-boiled:process:plynein-5",
+      "process_urn": "urn:aos:recipe-process:dioscorides-2-74-oisypos-boiled:process:plynein-5",
+      "source_span": "πλύνουσιν",
+      "surface_form": "πλύνουσιν",
+      "normalized_label": "πλύνειν",
+      "target_type": "ingredient",
+      "target_ids": [
+        "dioscorides-2-74-oisypos-boiled:ingredient:lipos-4"
+      ],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "manner",
+          "source_span": "ὕδατι",
+          "normalized_value": "ὕδατι",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "certainty": "certain",
+      "notes": [
+        "The comparison ὥσπερ εἴρηται is retained only as procedural cross-reference."
+      ],
+      "host_locator": {
+        "book": "2",
+        "chapter": "74",
+        "section": "3",
+        "citation": {
+          "start": "149.10",
+          "end": "149.20"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-2-74-oisypos-boiled:process:diylizein-6",
+      "process_urn": "urn:aos:recipe-process:dioscorides-2-74-oisypos-boiled:process:diylizein-6",
+      "source_span": "διυλίσαντες",
+      "surface_form": "διυλίσαντες",
+      "normalized_label": "διυλίζειν",
+      "target_type": "ingredient",
+      "target_ids": [
+        "dioscorides-2-74-oisypos-boiled:ingredient:lipos-4"
+      ],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "location",
+          "source_span": "εἰς λοπάδιον κεραμεοῦν ἔχον ὕδωρ θερμὸν",
+          "normalized_value": "εἰς λοπάδιον κεραμεοῦν ἔχον ὕδωρ θερμὸν",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "2",
+        "chapter": "74",
+        "section": "3",
+        "citation": {
+          "start": "149.10",
+          "end": "149.20"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-2-74-oisypos-boiled:process:peripomazein-7",
+      "process_urn": "urn:aos:recipe-process:dioscorides-2-74-oisypos-boiled:process:peripomazein-7",
+      "source_span": "περιπωμάσαντες",
+      "surface_form": "περιπωμάσαντες",
+      "normalized_label": "περιπωμάζειν",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "2",
+        "chapter": "74",
+        "section": "3",
+        "citation": {
+          "start": "149.10",
+          "end": "149.20"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-2-74-oisypos-boiled:process:tithenai-8",
+      "process_urn": "urn:aos:recipe-process:dioscorides-2-74-oisypos-boiled:process:tithenai-8",
+      "source_span": "τιθέασιν",
+      "surface_form": "τιθέασιν",
+      "normalized_label": "τιθέναι",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "exposure",
+          "source_span": "ἐν ἡλίῳ",
+          "normalized_value": "ἐν ἡλίῳ",
+          "certainty": "certain",
+          "notes": []
+        },
+        {
+          "qualifier_type": "duration",
+          "source_span": "μέχρι ἂν αὐταρκῶς παχὺς γένηται καὶ λευκός",
+          "normalized_value": null,
+          "certainty": "certain",
+          "notes": [
+            "Endpoint clause for sun exposure."
+          ]
+        }
+      ],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "2",
+        "chapter": "74",
+        "section": "3",
+        "citation": {
+          "start": "149.10",
+          "end": "149.20"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-2-74-oisypos-boiled:process:apocheein-9",
+      "process_urn": "urn:aos:recipe-process:dioscorides-2-74-oisypos-boiled:process:apocheein-9",
+      "source_span": "ἀποχέοντες",
+      "surface_form": "ἀποχέοντες",
+      "normalized_label": "ἀποχέειν",
+      "target_type": "ingredient",
+      "target_ids": [
+        "dioscorides-2-74-oisypos-boiled:ingredient:ydor-3",
+        "dioscorides-2-74-oisypos-boiled:ingredient:ydor-5"
+      ],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "duration",
+          "source_span": "διὰ δύο ἡμερῶν",
+          "normalized_value": "2 days",
+          "certainty": "uncertain",
+          "notes": [
+            "Likely interval for changing the water in the variant procedure."
+          ]
+        }
+      ],
+      "certainty": "certain",
+      "notes": [
+        "Variant procedure introduced by ἔνιοι."
+      ],
+      "host_locator": {
+        "book": "2",
+        "chapter": "74",
+        "section": "3",
+        "citation": {
+          "start": "149.10",
+          "end": "149.20"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-2-74-oisypos-boiled:process:epicheein-10",
+      "process_urn": "urn:aos:recipe-process:dioscorides-2-74-oisypos-boiled:process:epicheein-10",
+      "source_span": "ἐπιχέουσιν",
+      "surface_form": "ἐπιχέουσιν",
+      "normalized_label": "ἐπιχέειν",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [],
+      "certainty": "uncertain",
+      "notes": [
+        "Variant procedure introduced by ἔνιοι; object understood from context as fresh water (ἄλλο)."
+      ],
+      "host_locator": {
+        "book": "2",
+        "chapter": "74",
+        "section": "3",
+        "citation": {
+          "start": "149.10",
+          "end": "149.20"
+        }
+      }
+    }
+  ],
+  "materials": [
+    {
+      "material_id": "dioscorides-2-74-oisypos-boiled:material:lebes-1",
+      "material_urn": "urn:aos:recipe-material:dioscorides-2-74-oisypos-boiled:material:lebes-1",
+      "source_span": "λέβητι",
+      "surface_form": "λέβητι",
+      "normalized_label": "λέβης",
+      "role": "apparatus",
+      "certainty": "certain",
+      "quantities": [],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "2",
+        "chapter": "74",
+        "section": "3",
+        "citation": {
+          "start": "149.10",
+          "end": "149.20"
+        }
+      }
+    },
+    {
+      "material_id": "dioscorides-2-74-oisypos-boiled:material:pyr-2",
+      "material_urn": "urn:aos:recipe-material:dioscorides-2-74-oisypos-boiled:material:pyr-2",
+      "source_span": "πυρὶ",
+      "surface_form": "πυρὶ",
+      "normalized_label": "πῦρ",
+      "role": "fuel",
+      "certainty": "certain",
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "manner",
+          "source_span": "κούφῳ",
+          "normalized_value": "κούφος",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "notes": [],
+      "host_locator": {
+        "book": "2",
+        "chapter": "74",
+        "section": "3",
+        "citation": {
+          "start": "149.10",
+          "end": "149.20"
+        }
+      }
+    },
+    {
+      "material_id": "dioscorides-2-74-oisypos-boiled:material:lopadion-kerameoyn-3",
+      "material_urn": "urn:aos:recipe-material:dioscorides-2-74-oisypos-boiled:material:lopadion-kerameoyn-3",
+      "source_span": "λοπάδιον κεραμεοῦν",
+      "surface_form": "λοπάδιον κεραμεοῦν",
+      "normalized_label": "λοπάδιον κεραμεοῦν",
+      "role": "apparatus",
+      "certainty": "certain",
+      "quantities": [],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "2",
+        "chapter": "74",
+        "section": "3",
+        "citation": {
+          "start": "149.10",
+          "end": "149.20"
+        }
+      }
+    },
+    {
+      "material_id": "dioscorides-2-74-oisypos-boiled:material:lineon-rakos-4",
+      "material_urn": "urn:aos:recipe-material:dioscorides-2-74-oisypos-boiled:material:lineon-rakos-4",
+      "source_span": "λινῷ τε ῥάκει",
+      "surface_form": "λινῷ τε ῥάκει",
+      "normalized_label": "λίνεον ῥάκος",
+      "role": "adjunct_material",
+      "certainty": "certain",
+      "quantities": [],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "2",
+        "chapter": "74",
+        "section": "3",
+        "citation": {
+          "start": "149.10",
+          "end": "149.20"
+        }
+      }
+    }
+  ],
+  "people": [],
+  "places": [],
+  "uses": [],
+  "preparation_names": [],
+  "other_preparations_mentioned": [],
+  "works_mentioned": [],
+  "entities": [
+    {
+      "entity_urn": "urn:aos:recipe-preparation:dioscorides-2-74-oisypos-boiled:preparation:oisypos-epsetos",
+      "entity_type": "label",
+      "surface_form": "οἴσυπος ἑψητός",
+      "normalized_label": "οἴσυπος ἑψητός"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:dioscorides-2-74-oisypos-boiled:ingredient:erion-1",
+      "entity_type": "ingredient",
+      "surface_form": "τὰ ἔρια",
+      "normalized_label": "ἔριον"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:dioscorides-2-74-oisypos-boiled:ingredient:rypos-2",
+      "entity_type": "ingredient",
+      "surface_form": "τὸν ῥύπον",
+      "normalized_label": "ῥύπος"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:dioscorides-2-74-oisypos-boiled:ingredient:ydor-3",
+      "entity_type": "ingredient",
+      "surface_form": "ὕδατος",
+      "normalized_label": "ὕδωρ"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:dioscorides-2-74-oisypos-boiled:ingredient:lipos-4",
+      "entity_type": "ingredient",
+      "surface_form": "τὸ ἐφιστάμενον λίπος",
+      "normalized_label": "λίπος"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:dioscorides-2-74-oisypos-boiled:ingredient:ydor-5",
+      "entity_type": "ingredient",
+      "surface_form": "τὸ πρῶτον ὕδωρ",
+      "normalized_label": "ὕδωρ"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-2-74-oisypos-boiled:process:plynein-1",
+      "entity_type": "process",
+      "surface_form": "πλύναντες",
+      "normalized_label": "πλύνειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-2-74-oisypos-boiled:process:ekthlibein-2",
+      "entity_type": "process",
+      "surface_form": "ἐκθλίψαντες",
+      "normalized_label": "ἐκθλίβειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-2-74-oisypos-boiled:process:epsein-3",
+      "entity_type": "process",
+      "surface_form": "ἕψουσι",
+      "normalized_label": "ἕψειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-2-74-oisypos-boiled:process:aphairein-4",
+      "entity_type": "process",
+      "surface_form": "ἀφαιροῦντες",
+      "normalized_label": "ἀφαιρεῖν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-2-74-oisypos-boiled:process:plynein-5",
+      "entity_type": "process",
+      "surface_form": "πλύνουσιν",
+      "normalized_label": "πλύνειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-2-74-oisypos-boiled:process:diylizein-6",
+      "entity_type": "process",
+      "surface_form": "διυλίσαντες",
+      "normalized_label": "διυλίζειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-2-74-oisypos-boiled:process:peripomazein-7",
+      "entity_type": "process",
+      "surface_form": "περιπωμάσαντες",
+      "normalized_label": "περιπωμάζειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-2-74-oisypos-boiled:process:tithenai-8",
+      "entity_type": "process",
+      "surface_form": "τιθέασιν",
+      "normalized_label": "τιθέναι"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-2-74-oisypos-boiled:process:apocheein-9",
+      "entity_type": "process",
+      "surface_form": "ἀποχέοντες",
+      "normalized_label": "ἀποχέειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-2-74-oisypos-boiled:process:epicheein-10",
+      "entity_type": "process",
+      "surface_form": "ἐπιχέουσιν",
+      "normalized_label": "ἐπιχέειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-material:dioscorides-2-74-oisypos-boiled:material:lebes-1",
+      "entity_type": "material",
+      "surface_form": "λέβητι",
+      "normalized_label": "λέβης"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-material:dioscorides-2-74-oisypos-boiled:material:pyr-2",
+      "entity_type": "material",
+      "surface_form": "πυρὶ",
+      "normalized_label": "πῦρ"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-material:dioscorides-2-74-oisypos-boiled:material:lopadion-kerameoyn-3",
+      "entity_type": "material",
+      "surface_form": "λοπάδιον κεραμεοῦν",
+      "normalized_label": "λοπάδιον κεραμεοῦν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-material:dioscorides-2-74-oisypos-boiled:material:lineon-rakos-4",
+      "entity_type": "material",
+      "surface_form": "λινῷ τε ῥάκει",
+      "normalized_label": "λίνεον ῥάκος"
+    }
+  ]
+}

@@ -1,0 +1,682 @@
+{
+  "dataset_key": "aetius_book1_oils",
+  "source_json": "experiments/aetius-book1-ch99-136-oils/data/aetius_book1_ch99_136_oils.json",
+  "host_raw_file": "tei/raw/tlg0718001.xml",
+  "work_slug": "aetius.b1.oils",
+  "recipe_id": "aetius-1-119",
+  "recipe_urn": "urn:aos:recipe:aetius-1-119",
+  "record_urn": "urn:aos:recipe-record:aetius-1-119",
+  "author": "Aëtius of Amida",
+  "work": "Libri medicinales",
+  "book": "1",
+  "chapter": "119",
+  "section": "119",
+  "chapter_name": "Ἰάτον",
+  "lemma": "Ἰάτον",
+  "text": "Ἰάτον. Σκευάζεται καὶ τοῦτο ἐκ τῶν πορφυρῶν ἀνθῶν τοῦ ἴου καὶ ἐκ τῶν λευκῶν τριῶν ὀγκιῶν ἐμβαλλομένων τῷ ἰταλικῷ ξέστῃ τοῦ γλυκυτάτου ἐλαίου καὶ ἀμειβομένων τρίτον, ὥσπερ ἐπὶ τοῦ κρινίνου προείρηται. ἐστὶ δὲ ἡ δύναμις αὐτοῦ θερμοτέρα τοῦ ῥοδίνου ἐπ' ὀλίγον, ὥστε εἴ τις ἐν θέρει κοπωθεὶς καὶ ἡλιωθεὶς ἀποροίη, τοῦτο χρήσιμον καὶ μάλιστα τὸ ἐκ τῶν πορφυρῶν ἀνθῶν σκευαζόμενον ἐν βαλανείῳ χριομένῳ· πρὸς γὰρ τῷ τὸν κόπον ἀποθεραπεύειν μεταβάλλει τῇ εὐωδίᾳ τὸ αὐχμηρὸν τῆς ψυχῆς εἰς ἡμερότητα καὶ ἡδονὴν καὶ ἀτάραχον τὸν ὕπνον ἐργάζεται.",
+  "original_text": "Ἰάτον. Σκευάζεται καὶ τοῦτο ἐκ τῶν πορφυρῶν ἀνθῶν τοῦ ἴου καὶ ἐκ τῶν λευκῶν τριῶν ὀγκιῶν ἐμβαλλομένων τῷ ἰταλικῷ ξέστῃ τοῦ γλυκυτάτου ἐλαίου καὶ ἀμειβομένων τρίτον, ὥσπερ ἐπὶ τοῦ κρινίνου προείρηται. ἐστὶ δὲ ἡ δύναμις αὐτοῦ θερμοτέρα τοῦ ῥοδίνου ἐπ' ὀλίγον, ὥστε εἴ τις ἐν θέρει κοπωθεὶς καὶ ἡλιωθεὶς ἀποροίη, τοῦτο χρήσιμον καὶ μάλιστα τὸ ἐκ τῶν πορφυρῶν ἀνθῶν σκευαζόμενον ἐν βαλανείῳ χριομένῳ· πρὸς γὰρ τῷ τὸν κόπον ἀποθεραπεύειν μεταβάλλει τῇ εὐωδίᾳ τὸ αὐχμηρὸν τῆς ψυχῆς εἰς ἡμερότητα καὶ ἡδονὴν καὶ ἀτάραχον τὸν ὕπνον ἐργάζεται.",
+  "text_source": "olivieri",
+  "emendations": [],
+  "emendation_count": 0,
+  "source_kind": null,
+  "entry_kind": "recipe",
+  "citation": {
+    "pages": [
+      "61"
+    ],
+    "start": {
+      "page": "61",
+      "line": "12",
+      "xml_id": "oliv-61-12"
+    },
+    "end": {
+      "page": "61",
+      "line": "20",
+      "xml_id": "oliv-61-20"
+    },
+    "citation": {
+      "start": "61.12",
+      "end": "61.20"
+    },
+    "page_spans": [
+      {
+        "page": "61",
+        "start_line": "12",
+        "end_line": "20"
+      }
+    ],
+    "lines": [
+      {
+        "page": "61",
+        "line": "12",
+        "xml_id": "oliv-61-12",
+        "break_no": false,
+        "text": "Ἰάτον. Σκευάζεται καὶ τοῦτο ἐκ τῶν πορφυρῶν ἀνθῶν τοῦ ἴου",
+        "citation": "61.12"
+      },
+      {
+        "page": "61",
+        "line": "13",
+        "xml_id": "oliv-61-13",
+        "break_no": false,
+        "text": "καὶ ἐκ τῶν λευκῶν τριῶν ὀγκιῶν ἐμβαλλομένων τῷ ἰταλικῷ ξέστῃ",
+        "citation": "61.13"
+      },
+      {
+        "page": "61",
+        "line": "14",
+        "xml_id": "oliv-61-14",
+        "break_no": false,
+        "text": "τοῦ γλυκυτάτου ἐλαίου καὶ ἀμειβομένων τρίτον, ὥσπερ ἐπὶ τοῦ κρι-",
+        "citation": "61.14"
+      },
+      {
+        "page": "61",
+        "line": "15",
+        "xml_id": "oliv-61-15",
+        "break_no": true,
+        "text": "νίνου προείρηται. ἐστὶ δὲ ἡ δύναμις αὐτοῦ θερμοτέρα τοῦ ῥοδίνου ἐπ'",
+        "citation": "61.15"
+      },
+      {
+        "page": "61",
+        "line": "16",
+        "xml_id": "oliv-61-16",
+        "break_no": false,
+        "text": "ὀλίγον, ὥστε εἴ τις ἐν θέρει κοπωθεὶς καὶ ἡλιωθεὶς ἀποροίη, τοῦτο",
+        "citation": "61.16"
+      },
+      {
+        "page": "61",
+        "line": "17",
+        "xml_id": "oliv-61-17",
+        "break_no": false,
+        "text": "χρήσιμον καὶ μάλιστα τὸ ἐκ τῶν πορφυρῶν ἀνθῶν σκευαζόμενον ἐν",
+        "citation": "61.17"
+      },
+      {
+        "page": "61",
+        "line": "18",
+        "xml_id": "oliv-61-18",
+        "break_no": false,
+        "text": "βαλανείῳ χριομένῳ· πρὸς γὰρ τῷ τὸν κόπον ἀποθεραπεύειν μετα-",
+        "citation": "61.18"
+      },
+      {
+        "page": "61",
+        "line": "19",
+        "xml_id": "oliv-61-19",
+        "break_no": true,
+        "text": "βάλλει τῇ εὐωδίᾳ τὸ αὐχμηρὸν τῆς ψυχῆς εἰς ἡμερότητα καὶ ἡδονὴν",
+        "citation": "61.19"
+      },
+      {
+        "page": "61",
+        "line": "20",
+        "xml_id": "oliv-61-20",
+        "break_no": false,
+        "text": "καὶ ἀτάραχον τὸν ὕπνον ἐργάζεται.",
+        "citation": "61.20"
+      }
+    ],
+    "edition_key": "olivieri"
+  },
+  "notes": [
+    "The text distinguishes purple-flower and white-flower variants; only the white-flower variant has an explicit quantity in this passage."
+  ],
+  "alignment_status": "pending",
+  "alignment_confidence": "pending",
+  "alignment_evidence": null,
+  "review_status": "reviewed_structured_authority",
+  "review_provenance": {
+    "authority_source": "reports/entity_review/structured/aetius_book1.json",
+    "authority_recipe_id": "aetius-1-119",
+    "authority_lemma": "Ἰάτον",
+    "model": "gpt-5.4",
+    "reasoning_effort": "high",
+    "dataset_key": "aetius_book1_oils",
+    "entity_model_version": "1.2",
+    "authority_version": "2026-04-13-qty-alt-v1",
+    "prompt_version": "qty-alt-pass-v1",
+    "build_version": "2026-05-18T15:51:35Z"
+  },
+  "schema_version": "1.2",
+  "build_metadata": {
+    "builder": "scripts/recipes/build_recipe_entities.py",
+    "built_at": "2026-05-18T15:51:35Z",
+    "source_structured_authority": "reports/entity_review/structured/aetius_book1.json",
+    "authority_model": "gpt-5.4",
+    "authority_reasoning_effort": "high",
+    "dataset_key": "aetius_book1_oils",
+    "entity_model_version": "1.2",
+    "authority_version": "2026-04-13-qty-alt-v1",
+    "prompt_version": "qty-alt-pass-v1",
+    "build_version": "2026-05-18T15:51:35Z"
+  },
+  "recipe_text_excerpt": "Ἰάτον. Σκευάζεται καὶ τοῦτο ἐκ τῶν πορφυρῶν ἀνθῶν τοῦ ἴου καὶ ἐκ τῶν λευκῶν τριῶν ὀγκιῶν ἐμβαλλομένων τῷ ἰταλικῷ ξέστῃ",
+  "preparation": {
+    "preparation_id": "aetius-1-119:preparation:iaton",
+    "preparation_urn": "urn:aos:recipe-preparation:aetius-1-119:preparation:iaton",
+    "source_span": "Ἰάτον",
+    "surface_form": "Ἰάτον",
+    "normalized_label": "Ἰάτον",
+    "qualifiers": [
+      {
+        "qualifier_type": "cycle_count",
+        "source_span": "ἀμειβομένων τρίτον",
+        "normalized_value": "τρίτον",
+        "certainty": "certain",
+        "notes": []
+      }
+    ],
+    "regimen_notes": [
+      {
+        "source_span": "ὥσπερ ἐπὶ τοῦ κρινίνου προείρηται",
+        "normalized_note": "ὥσπερ ἐπὶ τοῦ κρινίνου",
+        "certainty": "certain",
+        "notes": []
+      }
+    ],
+    "certainty": "certain",
+    "notes": [],
+    "host_locator": {
+      "book": "1",
+      "chapter": "119",
+      "section": "119",
+      "citation": {
+        "start": "61.12",
+        "end": "61.20"
+      }
+    }
+  },
+  "ingredients": [
+    {
+      "ingredient_id": "aetius-1-119:ingredient:porphyra-anthe-ioy-1",
+      "ingredient_urn": "urn:aos:recipe-ingredient:aetius-1-119:ingredient:porphyra-anthe-ioy-1",
+      "source_span": "τῶν πορφυρῶν ἀνθῶν τοῦ ἴου",
+      "surface_form": "τῶν πορφυρῶν ἀνθῶν τοῦ ἴου",
+      "base_label": "ἀνθῶν τοῦ ἴου",
+      "normalized_label": "πορφυρὰ ἄνθη ἴου",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [
+        "aetius-1-119:process:emballein-2",
+        "aetius-1-119:process:ameibein-3"
+      ],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "color",
+          "source_span": "πορφυρῶν",
+          "normalized_value": "πορφυρά",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "119",
+        "section": "119",
+        "citation": {
+          "start": "61.12",
+          "end": "61.20"
+        }
+      }
+    },
+    {
+      "ingredient_id": "aetius-1-119:ingredient:leyka-anthe-ioy-2",
+      "ingredient_urn": "urn:aos:recipe-ingredient:aetius-1-119:ingredient:leyka-anthe-ioy-2",
+      "source_span": "τῶν λευκῶν τριῶν ὀγκιῶν",
+      "surface_form": "τῶν λευκῶν τριῶν ὀγκιῶν",
+      "base_label": "ἀνθῶν τοῦ ἴου",
+      "normalized_label": "λευκὰ ἄνθη ἴου",
+      "alternative_set_id": null,
+      "certainty": "uncertain",
+      "linked_process_ids": [
+        "aetius-1-119:process:emballein-2",
+        "aetius-1-119:process:ameibein-3"
+      ],
+      "quantities": [
+        {
+          "source_span": "τριῶν ὀγκιῶν",
+          "raw_number": "τριῶν",
+          "normalized_number": 3,
+          "raw_unit": "ὀγκιῶν",
+          "normalized_unit": "tribolon",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "qualifiers": [
+        {
+          "qualifier_type": "color",
+          "source_span": "λευκῶν",
+          "normalized_value": "λευκά",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "notes": [
+        "The noun ἄνθη τοῦ ἴου is implied from the preceding coordinated phrase."
+      ],
+      "host_locator": {
+        "book": "1",
+        "chapter": "119",
+        "section": "119",
+        "citation": {
+          "start": "61.12",
+          "end": "61.20"
+        }
+      }
+    },
+    {
+      "ingredient_id": "aetius-1-119:ingredient:glykytaton-elaion-3",
+      "ingredient_urn": "urn:aos:recipe-ingredient:aetius-1-119:ingredient:glykytaton-elaion-3",
+      "source_span": "τοῦ γλυκυτάτου ἐλαίου",
+      "surface_form": "τοῦ γλυκυτάτου ἐλαίου",
+      "base_label": "ἐλαίου",
+      "normalized_label": "γλυκύτατον ἔλαιον",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [
+        "aetius-1-119:process:emballein-2"
+      ],
+      "quantities": [
+        {
+          "source_span": "τῷ ἰταλικῷ ξέστῃ",
+          "raw_number": null,
+          "normalized_number": 1,
+          "raw_unit": "ἰταλικῷ ξέστῃ",
+          "normalized_unit": "xestes",
+          "certainty": "uncertain",
+          "notes": [
+            "Singular measure is interpreted as one ξέστης."
+          ]
+        }
+      ],
+      "qualifiers": [],
+      "notes": [
+        "The measure phrase τῷ ἰταλικῷ ξέστῃ is attached to the oil."
+      ],
+      "host_locator": {
+        "book": "1",
+        "chapter": "119",
+        "section": "119",
+        "citation": {
+          "start": "61.12",
+          "end": "61.20"
+        }
+      }
+    }
+  ],
+  "processes": [
+    {
+      "process_id": "aetius-1-119:process:skeyazein-1",
+      "process_urn": "urn:aos:recipe-process:aetius-1-119:process:skeyazein-1",
+      "source_span": "Σκευάζεται",
+      "surface_form": "Σκευάζεται",
+      "normalized_label": "σκευάζειν",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "119",
+        "section": "119",
+        "citation": {
+          "start": "61.12",
+          "end": "61.20"
+        }
+      }
+    },
+    {
+      "process_id": "aetius-1-119:process:emballein-2",
+      "process_urn": "urn:aos:recipe-process:aetius-1-119:process:emballein-2",
+      "source_span": "ἐμβαλλομένων",
+      "surface_form": "ἐμβαλλομένων",
+      "normalized_label": "ἐμβάλλειν",
+      "target_type": "ingredient",
+      "target_ids": [
+        "aetius-1-119:ingredient:porphyra-anthe-ioy-1",
+        "aetius-1-119:ingredient:leyka-anthe-ioy-2"
+      ],
+      "quantities": [],
+      "qualifiers": [],
+      "certainty": "certain",
+      "notes": [
+        "The flowers are put into the measured oil."
+      ],
+      "host_locator": {
+        "book": "1",
+        "chapter": "119",
+        "section": "119",
+        "citation": {
+          "start": "61.12",
+          "end": "61.20"
+        }
+      }
+    },
+    {
+      "process_id": "aetius-1-119:process:ameibein-3",
+      "process_urn": "urn:aos:recipe-process:aetius-1-119:process:ameibein-3",
+      "source_span": "ἀμειβομένων",
+      "surface_form": "ἀμειβομένων",
+      "normalized_label": "ἀμείβειν",
+      "target_type": "ingredient",
+      "target_ids": [
+        "aetius-1-119:ingredient:porphyra-anthe-ioy-1",
+        "aetius-1-119:ingredient:leyka-anthe-ioy-2"
+      ],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "other",
+          "source_span": "τρίτον",
+          "normalized_value": "τρίτον",
+          "certainty": "certain",
+          "notes": [
+            "Iteration count."
+          ]
+        }
+      ],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "119",
+        "section": "119",
+        "citation": {
+          "start": "61.12",
+          "end": "61.20"
+        }
+      }
+    },
+    {
+      "process_id": "aetius-1-119:process:chriein-4",
+      "process_urn": "urn:aos:recipe-process:aetius-1-119:process:chriein-4",
+      "source_span": "χριομένῳ",
+      "surface_form": "χριομένῳ",
+      "normalized_label": "χρίειν",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "location",
+          "source_span": "ἐν βαλανείῳ",
+          "normalized_value": "βαλανεῖον",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "certainty": "certain",
+      "notes": [
+        "Application context rather than manufacture."
+      ],
+      "host_locator": {
+        "book": "1",
+        "chapter": "119",
+        "section": "119",
+        "citation": {
+          "start": "61.12",
+          "end": "61.20"
+        }
+      }
+    }
+  ],
+  "materials": [],
+  "people": [],
+  "places": [
+    {
+      "place_id": "aetius-1-119:place:balaneion-1",
+      "place_urn": "urn:aos:recipe-place:aetius-1-119:place:balaneion-1",
+      "source_span": "βαλανείῳ",
+      "surface_form": "βαλανείῳ",
+      "normalized_label": "βαλανεῖον",
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "119",
+        "section": "119",
+        "citation": {
+          "start": "61.12",
+          "end": "61.20"
+        }
+      }
+    }
+  ],
+  "uses": [
+    {
+      "use_id": "aetius-1-119:use:ei-tis-en-therei-kopotheis-kai-eliotheis-aporoie-toyto-chresimon-kai-malista-to-ek-ton-porphyron-anthon-skeyazomenon-en-balaneio-chriomeno-1",
+      "use_urn": "urn:aos:recipe-use:aetius-1-119:use:ei-tis-en-therei-kopotheis-kai-eliotheis-aporoie-toyto-chresimon-kai-malista-to-ek-ton-porphyron-anthon-skeyazomenon-en-balaneio-chriomeno-1",
+      "category": "medical",
+      "source_span": "εἴ τις ἐν θέρει κοπωθεὶς καὶ ἡλιωθεὶς ἀποροίη, τοῦτο χρήσιμον καὶ μάλιστα τὸ ἐκ τῶν πορφυρῶν ἀνθῶν σκευαζόμενον ἐν βαλανείῳ χριομένῳ",
+      "snippet": "εἴ τις ἐν θέρει κοπωθεὶς καὶ ἡλιωθεὶς ἀποροίη, τοῦτο χρήσιμον καὶ μάλιστα τὸ ἐκ τῶν πορφυρῶν ἀνθῶν σκευαζόμενον ἐν βαλανείῳ χριομένῳ",
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "119",
+        "section": "119",
+        "citation": {
+          "start": "61.12",
+          "end": "61.20"
+        }
+      }
+    },
+    {
+      "use_id": "aetius-1-119:use:pros-gar-to-ton-kopon-apotherapeyein-metaballei-te-eyodia-to-aychmeron-tes-psyches-eis-emeroteta-kai-edonen-kai-atarachon-ton-ypnon-ergazetai-2",
+      "use_urn": "urn:aos:recipe-use:aetius-1-119:use:pros-gar-to-ton-kopon-apotherapeyein-metaballei-te-eyodia-to-aychmeron-tes-psyches-eis-emeroteta-kai-edonen-kai-atarachon-ton-ypnon-ergazetai-2",
+      "category": "medical",
+      "source_span": "πρὸς γὰρ τῷ τὸν κόπον ἀποθεραπεύειν μεταβάλλει τῇ εὐωδίᾳ τὸ αὐχμηρὸν τῆς ψυχῆς εἰς ἡμερότητα καὶ ἡδονὴν καὶ ἀτάραχον τὸν ὕπνον ἐργάζεται",
+      "snippet": "πρὸς γὰρ τῷ τὸν κόπον ἀποθεραπεύειν μεταβάλλει τῇ εὐωδίᾳ τὸ αὐχμηρὸν τῆς ψυχῆς εἰς ἡμερότητα καὶ ἡδονὴν καὶ ἀτάραχον τὸν ὕπνον ἐργάζεται",
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "119",
+        "section": "119",
+        "citation": {
+          "start": "61.12",
+          "end": "61.20"
+        }
+      }
+    }
+  ],
+  "preparation_names": [],
+  "other_preparations_mentioned": [
+    {
+      "reference_id": "aetius-1-119:reference:krininon-1",
+      "reference_urn": "urn:aos:recipe-reference:aetius-1-119:reference:krininon-1",
+      "source_span": "τοῦ κρινίνου",
+      "surface_form": "τοῦ κρινίνου",
+      "normalized_label": "κρίνινον",
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "119",
+        "section": "119",
+        "citation": {
+          "start": "61.12",
+          "end": "61.20"
+        }
+      }
+    },
+    {
+      "reference_id": "aetius-1-119:reference:rodinon-2",
+      "reference_urn": "urn:aos:recipe-reference:aetius-1-119:reference:rodinon-2",
+      "source_span": "τοῦ ῥοδίνου",
+      "surface_form": "τοῦ ῥοδίνου",
+      "normalized_label": "ῥόδινον",
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "119",
+        "section": "119",
+        "citation": {
+          "start": "61.12",
+          "end": "61.20"
+        }
+      }
+    }
+  ],
+  "works_mentioned": [],
+  "entities": [
+    {
+      "entity_urn": "urn:aos:recipe-preparation:aetius-1-119:preparation:iaton",
+      "entity_type": "label",
+      "surface_form": "Ἰάτον",
+      "normalized_label": "Ἰάτον"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:aetius-1-119:ingredient:porphyra-anthe-ioy-1",
+      "entity_type": "ingredient",
+      "surface_form": "τῶν πορφυρῶν ἀνθῶν τοῦ ἴου",
+      "normalized_label": "πορφυρὰ ἄνθη ἴου"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:aetius-1-119:ingredient:leyka-anthe-ioy-2",
+      "entity_type": "ingredient",
+      "surface_form": "τῶν λευκῶν τριῶν ὀγκιῶν",
+      "normalized_label": "λευκὰ ἄνθη ἴου"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:aetius-1-119:ingredient:glykytaton-elaion-3",
+      "entity_type": "ingredient",
+      "surface_form": "τοῦ γλυκυτάτου ἐλαίου",
+      "normalized_label": "γλυκύτατον ἔλαιον"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:aetius-1-119:process:skeyazein-1",
+      "entity_type": "process",
+      "surface_form": "Σκευάζεται",
+      "normalized_label": "σκευάζειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:aetius-1-119:process:emballein-2",
+      "entity_type": "process",
+      "surface_form": "ἐμβαλλομένων",
+      "normalized_label": "ἐμβάλλειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:aetius-1-119:process:ameibein-3",
+      "entity_type": "process",
+      "surface_form": "ἀμειβομένων",
+      "normalized_label": "ἀμείβειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:aetius-1-119:process:chriein-4",
+      "entity_type": "process",
+      "surface_form": "χριομένῳ",
+      "normalized_label": "χρίειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-place:aetius-1-119:place:balaneion-1",
+      "entity_type": "place",
+      "surface_form": "βαλανείῳ",
+      "normalized_label": "βαλανεῖον"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-reference:aetius-1-119:reference:krininon-1",
+      "entity_type": "preparation_reference",
+      "surface_form": "τοῦ κρινίνου",
+      "normalized_label": "κρίνινον"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-reference:aetius-1-119:reference:rodinon-2",
+      "entity_type": "preparation_reference",
+      "surface_form": "τοῦ ῥοδίνου",
+      "normalized_label": "ῥόδινον"
+    }
+  ],
+  "canonical_file": "data/recipes/aetius-1-119.json",
+  "source_entry": {
+    "source_id": "aetius-1-119",
+    "derived_recipe_id": "aetius-1-119",
+    "entry_kind": null,
+    "source_kind": null,
+    "source_lines": null,
+    "section_markers": []
+  },
+  "entity_groups": {
+    "labels": [
+      {
+        "entity_urn": "urn:aos:recipe-preparation:aetius-1-119:preparation:iaton",
+        "surface_form": "Ἰάτον",
+        "normalized_label": "Ἰάτον"
+      }
+    ],
+    "ingredients": [
+      {
+        "entity_urn": "urn:aos:recipe-ingredient:aetius-1-119:ingredient:porphyra-anthe-ioy-1",
+        "surface_form": "τῶν πορφυρῶν ἀνθῶν τοῦ ἴου",
+        "normalized_label": "πορφυρὰ ἄνθη ἴου",
+        "quantity_display": ""
+      },
+      {
+        "entity_urn": "urn:aos:recipe-ingredient:aetius-1-119:ingredient:leyka-anthe-ioy-2",
+        "surface_form": "τῶν λευκῶν τριῶν ὀγκιῶν",
+        "normalized_label": "λευκὰ ἄνθη ἴου",
+        "quantity_display": "τριῶν ὀγκιῶν"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-ingredient:aetius-1-119:ingredient:glykytaton-elaion-3",
+        "surface_form": "τοῦ γλυκυτάτου ἐλαίου",
+        "normalized_label": "γλυκύτατον ἔλαιον",
+        "quantity_display": "τῷ ἰταλικῷ ξέστῃ"
+      }
+    ],
+    "processes": [
+      {
+        "entity_urn": "urn:aos:recipe-process:aetius-1-119:process:skeyazein-1",
+        "surface_form": "Σκευάζεται",
+        "normalized_label": "σκευάζειν"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-process:aetius-1-119:process:emballein-2",
+        "surface_form": "ἐμβαλλομένων",
+        "normalized_label": "ἐμβάλλειν"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-process:aetius-1-119:process:ameibein-3",
+        "surface_form": "ἀμειβομένων",
+        "normalized_label": "ἀμείβειν"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-process:aetius-1-119:process:chriein-4",
+        "surface_form": "χριομένῳ",
+        "normalized_label": "χρίειν"
+      }
+    ],
+    "tools": [],
+    "other_preparations_mentioned": [
+      {
+        "entity_urn": "urn:aos:recipe-reference:aetius-1-119:reference:krininon-1",
+        "surface_form": "τοῦ κρινίνου",
+        "normalized_label": "κρίνινον"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-reference:aetius-1-119:reference:rodinon-2",
+        "surface_form": "τοῦ ῥοδίνου",
+        "normalized_label": "ῥόδινον"
+      }
+    ],
+    "people": [],
+    "places": [
+      {
+        "entity_urn": "urn:aos:recipe-place:aetius-1-119:place:balaneion-1",
+        "surface_form": "βαλανείῳ",
+        "normalized_label": "βαλανεῖον"
+      }
+    ],
+    "works_mentioned": [],
+    "preparation_names": []
+  }
+}

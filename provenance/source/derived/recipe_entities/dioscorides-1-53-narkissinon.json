@@ -1,0 +1,1157 @@
+{
+  "dataset_key": "dioscorides_book1_perfumes_resins",
+  "source_json": "experiments/dioscorides-book1-perfumes-resins/data/dioscorides_book1_perfumes_resins.json",
+  "host_raw_file": "tei/raw/tlg0656.tlg001.1st1K-grc1.xml",
+  "work_slug": "diosc.b1.recipes",
+  "recipe_id": "dioscorides-1-53-narkissinon",
+  "recipe_urn": "urn:aos:recipe:dioscorides-1-53-narkissinon",
+  "record_urn": "urn:aos:recipe-record:dioscorides-1-53-narkissinon",
+  "author": "Dioscorides",
+  "work": "De materia medica",
+  "book": "1",
+  "chapter": "53",
+  "section": null,
+  "chapter_name": "ναρκίσσινον",
+  "lemma": "ναρκίσσινον",
+  "text": "53 ναρκίσσινον δὲ στύψεις οὕτως· ἐλαίου πεπλυμένου λίτρας ἐννέα οὐγγίας πέντε, ἀσπαλάθου λίτρας ἓξ οὐγγίας δύο κόψας καὶ βρέξας ὕδατι. τῷ τρίτῳ τοῦ ἐλαίου μείξας ἕψε, εἶτα ἐξελὼν τὸν ἀσπάλαθον καὶ καλάμου λίτρας πέντε οὐγγίας ὀκτὼ καὶ σμύρνης χόνδρον κόψας καὶ σήσας φύρα οἴνῳ παλαιῷ εὐώδει καὶ μείξας ἕψε. ὅταν δὲ καὶ μετὰ τούτων ἀναζέσῃ, ἐξελὼν ἀπήθει τὸ ἔλαιον ψυγέν, εἶτα λαβὼν ἐκ τοῦ ἐλαίου εἰς λουτῆρα ἀπόχει καὶ τοῦ ναρκίσσου ἔμβαλε ὡς ὅτι πλεῖστον τὸ ἄνθος, ἐπὶ ἡμέρας δύο κινῶν ὡς ἐπὶ τοῦ σουσίνου, ἐξίπου τε καὶ μετάγγιζε πυκνῶς· καὶ γὰρ τοῦτο σήπεται. ποιεῖ δὲ πρὸς τὰ ἐν ὑστέρᾳ, μαλάσσον τὰς περὶ αὐτὴν σκληρίας καὶ μύσεις. ἔστι δὲ κεφαλαλγές.",
+  "original_text": null,
+  "text_source": null,
+  "emendations": [],
+  "emendation_count": 0,
+  "source_kind": "main_text",
+  "entry_kind": "recipe",
+  "citation": {
+    "pages": [
+      "49"
+    ],
+    "start": {
+      "page": "49",
+      "line": "10"
+    },
+    "end": {
+      "page": "49",
+      "line": "25"
+    },
+    "citation": {
+      "start": "49.10",
+      "end": "49.25"
+    },
+    "page_spans": [
+      {
+        "page": "49",
+        "start_line": "10",
+        "end_line": "25"
+      }
+    ],
+    "lines": [
+      {
+        "page": "49",
+        "line": "10",
+        "break_no": false,
+        "text": "53 ναρκίσσινον δὲ στύψεις οὕτως· ἐλαίου πεπλυμένου",
+        "citation": "49.10"
+      },
+      {
+        "page": "49",
+        "line": "15",
+        "break_no": false,
+        "text": "λίτρας ἐννέα οὐγγίας πέντε, ἀσπαλάθου λίτρας ἓξ οὐγγίας δύο κόψας καὶ βρέξας ὕδατι. τῷ τρίτῳ τοῦ ἐλαίου μείξας ἕψε, εἶτα ἐξελὼν τὸν ἀσπάλαθον καὶ καλάμου λίτρας πέντε οὐγγίας ὀκτὼ καὶ σμύρνης χόνδρον κόψας καὶ σήσας φύρα οἴνῳ παλαιῷ εὐώδει καὶ μείξας ἕψε. ὅταν δὲ καὶ μετὰ τούτων ἀναζέσῃ, ἐξελὼν",
+        "citation": "49.15"
+      },
+      {
+        "page": "49",
+        "line": "20",
+        "break_no": false,
+        "text": "ἀπήθει τὸ ἔλαιον ψυγέν, εἶτα λαβὼν ἐκ τοῦ ἐλαίου εἰς λουτῆρα ἀπόχει καὶ τοῦ ναρκίσσου ἔμβαλε ὡς ὅτι πλεῖστον τὸ ἄνθος, ἐπὶ ἡμέρας δύο κινῶν ὡς ἐπὶ τοῦ σουσίνου, ἐξίπου τε καὶ μετάγγιζε πυκνῶς· καὶ γὰρ τοῦτο σήπεται. ποιεῖ δὲ πρὸς τὰ ἐν ὑστέρᾳ, μαλάσσον τὰς περὶ αὐτὴν",
+        "citation": "49.20"
+      },
+      {
+        "page": "49",
+        "line": "25",
+        "break_no": false,
+        "text": "σκληρίας καὶ μύσεις. ἔστι δὲ κεφαλαλγές.",
+        "citation": "49.25"
+      }
+    ],
+    "edition_key": "wellmann"
+  },
+  "notes": [
+    "Raw lines 1590-1633 are book 1 chapter 25 in this witness, although the prompt referred to chapter 35.",
+    "The perfume proemium is taken from the later transition at chapter 42 section 2 (raw lines 2306-2342), not from the chapter 25 κῦφι entry.",
+    "The ἰασμέλαιον entry is preserved only in the apparatus as an addition from another recension.",
+    "ἔστι δὲ κεφαλαλγές."
+  ],
+  "alignment_status": "pending",
+  "alignment_confidence": "pending",
+  "alignment_evidence": null,
+  "review_status": "reviewed_structured_authority",
+  "review_provenance": {
+    "authority_source": "reports/entity_review/structured/dioscorides.json",
+    "authority_recipe_id": "dioscorides-1-53-narkissinon",
+    "authority_lemma": "ναρκίσσινον",
+    "model": "gpt-5.4",
+    "reasoning_effort": "high",
+    "dataset_key": "dioscorides_book1_perfumes_resins",
+    "entity_model_version": "1.2",
+    "authority_version": "2026-04-13-qty-alt-v1",
+    "prompt_version": "qty-alt-pass-v1",
+    "build_version": "2026-05-18T15:51:35Z"
+  },
+  "schema_version": "1.2",
+  "build_metadata": {
+    "builder": "scripts/recipes/build_recipe_entities.py",
+    "built_at": "2026-05-18T15:51:35Z",
+    "source_structured_authority": "reports/entity_review/structured/dioscorides.json",
+    "authority_model": "gpt-5.4",
+    "authority_reasoning_effort": "high",
+    "dataset_key": "dioscorides_book1_perfumes_resins",
+    "entity_model_version": "1.2",
+    "authority_version": "2026-04-13-qty-alt-v1",
+    "prompt_version": "qty-alt-pass-v1",
+    "build_version": "2026-05-18T15:51:35Z"
+  },
+  "recipe_text_excerpt": "ναρκίσσινον δὲ στύψεις οὕτως· ἐλαίου πεπλυμένου λίτρας ἐννέα οὐγγίας πέντε, ἀσπαλάθου λίτρας ἓξ οὐγγίας δύο κόψας καὶ βρέξας ὕδατι. τῷ",
+  "preparation": {
+    "preparation_id": "dioscorides-1-53-narkissinon:preparation:narkissinon",
+    "preparation_urn": "urn:aos:recipe-preparation:dioscorides-1-53-narkissinon:preparation:narkissinon",
+    "source_span": "ναρκίσσινον",
+    "surface_form": "ναρκίσσινον",
+    "normalized_label": "ναρκίσσινον",
+    "qualifiers": [],
+    "regimen_notes": [],
+    "certainty": "certain",
+    "notes": [],
+    "host_locator": {
+      "book": "1",
+      "chapter": "53",
+      "section": null,
+      "citation": {
+        "start": "49.10",
+        "end": "49.25"
+      }
+    }
+  },
+  "ingredients": [
+    {
+      "ingredient_id": "dioscorides-1-53-narkissinon:ingredient:elaion-peplymenon-1",
+      "ingredient_urn": "urn:aos:recipe-ingredient:dioscorides-1-53-narkissinon:ingredient:elaion-peplymenon-1",
+      "source_span": "ἐλαίου πεπλυμένου λίτρας ἐννέα οὐγγίας πέντε",
+      "surface_form": "ἐλαίου πεπλυμένου λίτρας ἐννέα οὐγγίας πέντε",
+      "base_label": "ἔλαιον",
+      "normalized_label": "ἔλαιον πεπλυμένον",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [
+        "dioscorides-1-53-narkissinon:process:plynein-2"
+      ],
+      "quantities": [
+        {
+          "source_span": "λίτρας ἐννέα",
+          "raw_number": "ἐννέα",
+          "normalized_number": 9,
+          "raw_unit": "λίτρας",
+          "normalized_unit": "litra",
+          "certainty": "certain",
+          "notes": []
+        },
+        {
+          "source_span": "οὐγγίας πέντε",
+          "raw_number": "πέντε",
+          "normalized_number": 5,
+          "raw_unit": "οὐγγίας",
+          "normalized_unit": "uncia",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "53",
+        "section": null,
+        "citation": {
+          "start": "49.10",
+          "end": "49.25"
+        }
+      }
+    },
+    {
+      "ingredient_id": "dioscorides-1-53-narkissinon:ingredient:aspalathos-2",
+      "ingredient_urn": "urn:aos:recipe-ingredient:dioscorides-1-53-narkissinon:ingredient:aspalathos-2",
+      "source_span": "ἀσπαλάθου λίτρας ἓξ οὐγγίας δύο",
+      "surface_form": "ἀσπαλάθου λίτρας ἓξ οὐγγίας δύο",
+      "base_label": "ἀσπάλαθος",
+      "normalized_label": "ἀσπάλαθος",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [
+        "dioscorides-1-53-narkissinon:process:koptein-3",
+        "dioscorides-1-53-narkissinon:process:koptein-8",
+        "dioscorides-1-53-narkissinon:process:brechein-4",
+        "dioscorides-1-53-narkissinon:process:exairein-7"
+      ],
+      "quantities": [
+        {
+          "source_span": "λίτρας ἓξ",
+          "raw_number": "ἓξ",
+          "normalized_number": 6,
+          "raw_unit": "λίτρας",
+          "normalized_unit": "litra",
+          "certainty": "certain",
+          "notes": []
+        },
+        {
+          "source_span": "οὐγγίας δύο",
+          "raw_number": "δύο",
+          "normalized_number": 2,
+          "raw_unit": "οὐγγίας",
+          "normalized_unit": "uncia",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "53",
+        "section": null,
+        "citation": {
+          "start": "49.10",
+          "end": "49.25"
+        }
+      }
+    },
+    {
+      "ingredient_id": "dioscorides-1-53-narkissinon:ingredient:ydor-3",
+      "ingredient_urn": "urn:aos:recipe-ingredient:dioscorides-1-53-narkissinon:ingredient:ydor-3",
+      "source_span": "ὕδατι",
+      "surface_form": "ὕδατι",
+      "base_label": "ὕδωρ",
+      "normalized_label": "ὕδωρ",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [
+        "dioscorides-1-53-narkissinon:process:brechein-4"
+      ],
+      "quantities": [],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "53",
+        "section": null,
+        "citation": {
+          "start": "49.10",
+          "end": "49.25"
+        }
+      }
+    },
+    {
+      "ingredient_id": "dioscorides-1-53-narkissinon:ingredient:kalamos-4",
+      "ingredient_urn": "urn:aos:recipe-ingredient:dioscorides-1-53-narkissinon:ingredient:kalamos-4",
+      "source_span": "καλάμου λίτρας πέντε οὐγγίας ὀκτὼ",
+      "surface_form": "καλάμου λίτρας πέντε οὐγγίας ὀκτὼ",
+      "base_label": "κάλαμος",
+      "normalized_label": "κάλαμος",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [
+        "dioscorides-1-53-narkissinon:process:koptein-3",
+        "dioscorides-1-53-narkissinon:process:koptein-8",
+        "dioscorides-1-53-narkissinon:process:sesai-9",
+        "dioscorides-1-53-narkissinon:process:phyrein-10"
+      ],
+      "quantities": [
+        {
+          "source_span": "λίτρας πέντε",
+          "raw_number": "πέντε",
+          "normalized_number": 5,
+          "raw_unit": "λίτρας",
+          "normalized_unit": "litra",
+          "certainty": "certain",
+          "notes": []
+        },
+        {
+          "source_span": "οὐγγίας ὀκτὼ",
+          "raw_number": "ὀκτὼ",
+          "normalized_number": 8,
+          "raw_unit": "οὐγγίας",
+          "normalized_unit": "uncia",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "53",
+        "section": null,
+        "citation": {
+          "start": "49.10",
+          "end": "49.25"
+        }
+      }
+    },
+    {
+      "ingredient_id": "dioscorides-1-53-narkissinon:ingredient:chondros-smyrnes-5",
+      "ingredient_urn": "urn:aos:recipe-ingredient:dioscorides-1-53-narkissinon:ingredient:chondros-smyrnes-5",
+      "source_span": "σμύρνης χόνδρον",
+      "surface_form": "σμύρνης χόνδρον",
+      "base_label": "σμύρνα",
+      "normalized_label": "χόνδρος σμύρνης",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [
+        "dioscorides-1-53-narkissinon:process:koptein-3",
+        "dioscorides-1-53-narkissinon:process:koptein-8",
+        "dioscorides-1-53-narkissinon:process:sesai-9",
+        "dioscorides-1-53-narkissinon:process:phyrein-10"
+      ],
+      "quantities": [],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "53",
+        "section": null,
+        "citation": {
+          "start": "49.10",
+          "end": "49.25"
+        }
+      }
+    },
+    {
+      "ingredient_id": "dioscorides-1-53-narkissinon:ingredient:oinos-palaios-eyodes-6",
+      "ingredient_urn": "urn:aos:recipe-ingredient:dioscorides-1-53-narkissinon:ingredient:oinos-palaios-eyodes-6",
+      "source_span": "οἴνῳ παλαιῷ εὐώδει",
+      "surface_form": "οἴνῳ παλαιῷ εὐώδει",
+      "base_label": "οἶνος",
+      "normalized_label": "οἶνος παλαιὸς εὐώδης",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [
+        "dioscorides-1-53-narkissinon:process:phyrein-10"
+      ],
+      "quantities": [],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "53",
+        "section": null,
+        "citation": {
+          "start": "49.10",
+          "end": "49.25"
+        }
+      }
+    },
+    {
+      "ingredient_id": "dioscorides-1-53-narkissinon:ingredient:anthos-narkissoy-7",
+      "ingredient_urn": "urn:aos:recipe-ingredient:dioscorides-1-53-narkissinon:ingredient:anthos-narkissoy-7",
+      "source_span": "τὸ ἄνθος",
+      "surface_form": "τὸ ἄνθος",
+      "base_label": "ἄνθος",
+      "normalized_label": "ἄνθος ναρκίσσου",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [
+        "dioscorides-1-53-narkissinon:process:emballein-16",
+        "dioscorides-1-53-narkissinon:process:kinein-17"
+      ],
+      "quantities": [],
+      "qualifiers": [],
+      "notes": [
+        "Associated with nearby phrase «τοῦ ναρκίσσου»."
+      ],
+      "host_locator": {
+        "book": "1",
+        "chapter": "53",
+        "section": null,
+        "citation": {
+          "start": "49.10",
+          "end": "49.25"
+        }
+      }
+    }
+  ],
+  "processes": [
+    {
+      "process_id": "dioscorides-1-53-narkissinon:process:stybein-1",
+      "process_urn": "urn:aos:recipe-process:dioscorides-1-53-narkissinon:process:stybein-1",
+      "source_span": "στύψεις",
+      "surface_form": "στύψεις",
+      "normalized_label": "στύβειν",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "53",
+        "section": null,
+        "citation": {
+          "start": "49.10",
+          "end": "49.25"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-1-53-narkissinon:process:plynein-2",
+      "process_urn": "urn:aos:recipe-process:dioscorides-1-53-narkissinon:process:plynein-2",
+      "source_span": "πεπλυμένου",
+      "surface_form": "πεπλυμένου",
+      "normalized_label": "πλύνειν",
+      "target_type": "ingredient",
+      "target_ids": [
+        "dioscorides-1-53-narkissinon:ingredient:elaion-peplymenon-1"
+      ],
+      "quantities": [],
+      "qualifiers": [],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "53",
+        "section": null,
+        "citation": {
+          "start": "49.10",
+          "end": "49.25"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-1-53-narkissinon:process:koptein-3",
+      "process_urn": "urn:aos:recipe-process:dioscorides-1-53-narkissinon:process:koptein-3",
+      "source_span": "κόψας",
+      "surface_form": "κόψας",
+      "normalized_label": "κόπτειν",
+      "target_type": "ingredient",
+      "target_ids": [
+        "dioscorides-1-53-narkissinon:ingredient:aspalathos-2"
+      ],
+      "quantities": [],
+      "qualifiers": [],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "53",
+        "section": null,
+        "citation": {
+          "start": "49.10",
+          "end": "49.25"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-1-53-narkissinon:process:brechein-4",
+      "process_urn": "urn:aos:recipe-process:dioscorides-1-53-narkissinon:process:brechein-4",
+      "source_span": "βρέξας",
+      "surface_form": "βρέξας",
+      "normalized_label": "βρέχειν",
+      "target_type": "ingredient",
+      "target_ids": [
+        "dioscorides-1-53-narkissinon:ingredient:aspalathos-2"
+      ],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "other",
+          "source_span": "ὕδατι",
+          "normalized_value": "ὕδατι",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "53",
+        "section": null,
+        "citation": {
+          "start": "49.10",
+          "end": "49.25"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-1-53-narkissinon:process:meignynai-5",
+      "process_urn": "urn:aos:recipe-process:dioscorides-1-53-narkissinon:process:meignynai-5",
+      "source_span": "μείξας",
+      "surface_form": "μείξας",
+      "normalized_label": "μείγνυναι",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [
+        {
+          "source_span": "τῷ τρίτῳ τοῦ ἐλαίου",
+          "raw_number": "τρίτῳ",
+          "normalized_number": "1/3",
+          "raw_unit": null,
+          "normalized_unit": null,
+          "certainty": "certain",
+          "notes": [
+            "Fraction of the oil used for this mixing step."
+          ]
+        }
+      ],
+      "qualifiers": [],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "53",
+        "section": null,
+        "citation": {
+          "start": "49.10",
+          "end": "49.25"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-1-53-narkissinon:process:epsein-6",
+      "process_urn": "urn:aos:recipe-process:dioscorides-1-53-narkissinon:process:epsein-6",
+      "source_span": "ἕψε",
+      "surface_form": "ἕψε",
+      "normalized_label": "ἕψειν",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "53",
+        "section": null,
+        "citation": {
+          "start": "49.10",
+          "end": "49.25"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-1-53-narkissinon:process:exairein-7",
+      "process_urn": "urn:aos:recipe-process:dioscorides-1-53-narkissinon:process:exairein-7",
+      "source_span": "ἐξελὼν",
+      "surface_form": "ἐξελὼν",
+      "normalized_label": "ἐξαιρεῖν",
+      "target_type": "ingredient",
+      "target_ids": [
+        "dioscorides-1-53-narkissinon:ingredient:aspalathos-2"
+      ],
+      "quantities": [],
+      "qualifiers": [],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "53",
+        "section": null,
+        "citation": {
+          "start": "49.10",
+          "end": "49.25"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-1-53-narkissinon:process:koptein-8",
+      "process_urn": "urn:aos:recipe-process:dioscorides-1-53-narkissinon:process:koptein-8",
+      "source_span": "κόψας",
+      "surface_form": "κόψας",
+      "normalized_label": "κόπτειν",
+      "target_type": "ingredient",
+      "target_ids": [
+        "dioscorides-1-53-narkissinon:ingredient:kalamos-4",
+        "dioscorides-1-53-narkissinon:ingredient:chondros-smyrnes-5"
+      ],
+      "quantities": [],
+      "qualifiers": [],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "53",
+        "section": null,
+        "citation": {
+          "start": "49.10",
+          "end": "49.25"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-1-53-narkissinon:process:sesai-9",
+      "process_urn": "urn:aos:recipe-process:dioscorides-1-53-narkissinon:process:sesai-9",
+      "source_span": "σήσας",
+      "surface_form": "σήσας",
+      "normalized_label": "σῆσαι",
+      "target_type": "ingredient",
+      "target_ids": [
+        "dioscorides-1-53-narkissinon:ingredient:kalamos-4",
+        "dioscorides-1-53-narkissinon:ingredient:chondros-smyrnes-5"
+      ],
+      "quantities": [],
+      "qualifiers": [],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "53",
+        "section": null,
+        "citation": {
+          "start": "49.10",
+          "end": "49.25"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-1-53-narkissinon:process:phyrein-10",
+      "process_urn": "urn:aos:recipe-process:dioscorides-1-53-narkissinon:process:phyrein-10",
+      "source_span": "φύρα",
+      "surface_form": "φύρα",
+      "normalized_label": "φύρειν",
+      "target_type": "ingredient",
+      "target_ids": [
+        "dioscorides-1-53-narkissinon:ingredient:kalamos-4",
+        "dioscorides-1-53-narkissinon:ingredient:chondros-smyrnes-5"
+      ],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "other",
+          "source_span": "οἴνῳ παλαιῷ εὐώδει",
+          "normalized_value": "οἴνῳ παλαιῷ εὐώδει",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "53",
+        "section": null,
+        "citation": {
+          "start": "49.10",
+          "end": "49.25"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-1-53-narkissinon:process:meignynai-11",
+      "process_urn": "urn:aos:recipe-process:dioscorides-1-53-narkissinon:process:meignynai-11",
+      "source_span": "μείξας",
+      "surface_form": "μείξας",
+      "normalized_label": "μείγνυναι",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "53",
+        "section": null,
+        "citation": {
+          "start": "49.10",
+          "end": "49.25"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-1-53-narkissinon:process:epsein-12",
+      "process_urn": "urn:aos:recipe-process:dioscorides-1-53-narkissinon:process:epsein-12",
+      "source_span": "ἕψε",
+      "surface_form": "ἕψε",
+      "normalized_label": "ἕψειν",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "53",
+        "section": null,
+        "citation": {
+          "start": "49.10",
+          "end": "49.25"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-1-53-narkissinon:process:anazeein-13",
+      "process_urn": "urn:aos:recipe-process:dioscorides-1-53-narkissinon:process:anazeein-13",
+      "source_span": "ἀναζέσῃ",
+      "surface_form": "ἀναζέσῃ",
+      "normalized_label": "ἀναζέειν",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "other",
+          "source_span": "μετὰ τούτων",
+          "normalized_value": "μετὰ τούτων",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "53",
+        "section": null,
+        "citation": {
+          "start": "49.10",
+          "end": "49.25"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-1-53-narkissinon:process:apethein-14",
+      "process_urn": "urn:aos:recipe-process:dioscorides-1-53-narkissinon:process:apethein-14",
+      "source_span": "ἀπήθει",
+      "surface_form": "ἀπήθει",
+      "normalized_label": "ἀπηθεῖν",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "temperature",
+          "source_span": "ψυγέν",
+          "normalized_value": "ψυχθέν",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "53",
+        "section": null,
+        "citation": {
+          "start": "49.10",
+          "end": "49.25"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-1-53-narkissinon:process:apocheein-15",
+      "process_urn": "urn:aos:recipe-process:dioscorides-1-53-narkissinon:process:apocheein-15",
+      "source_span": "ἀπόχει",
+      "surface_form": "ἀπόχει",
+      "normalized_label": "ἀποχέειν",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "other",
+          "source_span": "ἐκ τοῦ ἐλαίου",
+          "normalized_value": "ἐκ τοῦ ἐλαίου",
+          "certainty": "certain",
+          "notes": []
+        },
+        {
+          "qualifier_type": "location",
+          "source_span": "εἰς λουτῆρα",
+          "normalized_value": "εἰς λουτῆρα",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "53",
+        "section": null,
+        "citation": {
+          "start": "49.10",
+          "end": "49.25"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-1-53-narkissinon:process:emballein-16",
+      "process_urn": "urn:aos:recipe-process:dioscorides-1-53-narkissinon:process:emballein-16",
+      "source_span": "ἔμβαλε",
+      "surface_form": "ἔμβαλε",
+      "normalized_label": "ἐμβάλλειν",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "other",
+          "source_span": "ὡς ὅτι πλεῖστον",
+          "normalized_value": "ὡς ὅτι πλεῖστον",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "53",
+        "section": null,
+        "citation": {
+          "start": "49.10",
+          "end": "49.25"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-1-53-narkissinon:process:kinein-17",
+      "process_urn": "urn:aos:recipe-process:dioscorides-1-53-narkissinon:process:kinein-17",
+      "source_span": "κινῶν",
+      "surface_form": "κινῶν",
+      "normalized_label": "κινεῖν",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [
+        {
+          "source_span": "ἐπὶ ἡμέρας δύο",
+          "raw_number": "δύο",
+          "normalized_number": 2,
+          "raw_unit": "ἡμέρας",
+          "normalized_unit": null,
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "qualifiers": [
+        {
+          "qualifier_type": "manner",
+          "source_span": "ὡς ἐπὶ τοῦ σουσίνου",
+          "normalized_value": "ὡς ἐπὶ τοῦ σουσίνου",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "53",
+        "section": null,
+        "citation": {
+          "start": "49.10",
+          "end": "49.25"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-1-53-narkissinon:process:exipein-18",
+      "process_urn": "urn:aos:recipe-process:dioscorides-1-53-narkissinon:process:exipein-18",
+      "source_span": "ἐξίπου",
+      "surface_form": "ἐξίπου",
+      "normalized_label": "ἐξιπεῖν",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [],
+      "certainty": "uncertain",
+      "notes": [
+        "The verbal normalization is uncertain; the step appears to remove or press out the spent flowers."
+      ],
+      "host_locator": {
+        "book": "1",
+        "chapter": "53",
+        "section": null,
+        "citation": {
+          "start": "49.10",
+          "end": "49.25"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-1-53-narkissinon:process:metaggizein-19",
+      "process_urn": "urn:aos:recipe-process:dioscorides-1-53-narkissinon:process:metaggizein-19",
+      "source_span": "μετάγγιζε",
+      "surface_form": "μετάγγιζε",
+      "normalized_label": "μεταγγίζειν",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "manner",
+          "source_span": "πυκνῶς",
+          "normalized_value": "πυκνῶς",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "53",
+        "section": null,
+        "citation": {
+          "start": "49.10",
+          "end": "49.25"
+        }
+      }
+    }
+  ],
+  "materials": [
+    {
+      "material_id": "dioscorides-1-53-narkissinon:material:loyter-1",
+      "material_urn": "urn:aos:recipe-material:dioscorides-1-53-narkissinon:material:loyter-1",
+      "source_span": "λουτῆρα",
+      "surface_form": "λουτῆρα",
+      "normalized_label": "λουτήρ",
+      "role": "apparatus",
+      "certainty": "certain",
+      "quantities": [],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "53",
+        "section": null,
+        "citation": {
+          "start": "49.10",
+          "end": "49.25"
+        }
+      }
+    }
+  ],
+  "people": [],
+  "places": [],
+  "uses": [
+    {
+      "use_id": "dioscorides-1-53-narkissinon:use:poiei-de-pros-ta-en-ystera-malasson-tas-peri-ayten-sklerias-kai-myseis-1",
+      "use_urn": "urn:aos:recipe-use:dioscorides-1-53-narkissinon:use:poiei-de-pros-ta-en-ystera-malasson-tas-peri-ayten-sklerias-kai-myseis-1",
+      "category": "medical",
+      "source_span": "ποιεῖ δὲ πρὸς τὰ ἐν ὑστέρᾳ, μαλάσσον τὰς περὶ αὐτὴν σκληρίας καὶ μύσεις.",
+      "snippet": "ποιεῖ δὲ πρὸς τὰ ἐν ὑστέρᾳ, μαλάσσον τὰς περὶ αὐτὴν σκληρίας καὶ μύσεις.",
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "53",
+        "section": null,
+        "citation": {
+          "start": "49.10",
+          "end": "49.25"
+        }
+      }
+    }
+  ],
+  "preparation_names": [],
+  "other_preparations_mentioned": [
+    {
+      "reference_id": "dioscorides-1-53-narkissinon:reference:soysinon-1",
+      "reference_urn": "urn:aos:recipe-reference:dioscorides-1-53-narkissinon:reference:soysinon-1",
+      "source_span": "σουσίνου",
+      "surface_form": "σουσίνου",
+      "normalized_label": "σούσινον",
+      "certainty": "uncertain",
+      "notes": [
+        "Referenced comparatively in the phrase “ὡς ἐπὶ τοῦ σουσίνου”."
+      ],
+      "host_locator": {
+        "book": "1",
+        "chapter": "53",
+        "section": null,
+        "citation": {
+          "start": "49.10",
+          "end": "49.25"
+        }
+      }
+    }
+  ],
+  "works_mentioned": [],
+  "entities": [
+    {
+      "entity_urn": "urn:aos:recipe-preparation:dioscorides-1-53-narkissinon:preparation:narkissinon",
+      "entity_type": "label",
+      "surface_form": "ναρκίσσινον",
+      "normalized_label": "ναρκίσσινον"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:dioscorides-1-53-narkissinon:ingredient:elaion-peplymenon-1",
+      "entity_type": "ingredient",
+      "surface_form": "ἐλαίου πεπλυμένου λίτρας ἐννέα οὐγγίας πέντε",
+      "normalized_label": "ἔλαιον πεπλυμένον"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:dioscorides-1-53-narkissinon:ingredient:aspalathos-2",
+      "entity_type": "ingredient",
+      "surface_form": "ἀσπαλάθου λίτρας ἓξ οὐγγίας δύο",
+      "normalized_label": "ἀσπάλαθος"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:dioscorides-1-53-narkissinon:ingredient:ydor-3",
+      "entity_type": "ingredient",
+      "surface_form": "ὕδατι",
+      "normalized_label": "ὕδωρ"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:dioscorides-1-53-narkissinon:ingredient:kalamos-4",
+      "entity_type": "ingredient",
+      "surface_form": "καλάμου λίτρας πέντε οὐγγίας ὀκτὼ",
+      "normalized_label": "κάλαμος"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:dioscorides-1-53-narkissinon:ingredient:chondros-smyrnes-5",
+      "entity_type": "ingredient",
+      "surface_form": "σμύρνης χόνδρον",
+      "normalized_label": "χόνδρος σμύρνης"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:dioscorides-1-53-narkissinon:ingredient:oinos-palaios-eyodes-6",
+      "entity_type": "ingredient",
+      "surface_form": "οἴνῳ παλαιῷ εὐώδει",
+      "normalized_label": "οἶνος παλαιὸς εὐώδης"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:dioscorides-1-53-narkissinon:ingredient:anthos-narkissoy-7",
+      "entity_type": "ingredient",
+      "surface_form": "τὸ ἄνθος",
+      "normalized_label": "ἄνθος ναρκίσσου"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-1-53-narkissinon:process:stybein-1",
+      "entity_type": "process",
+      "surface_form": "στύψεις",
+      "normalized_label": "στύβειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-1-53-narkissinon:process:plynein-2",
+      "entity_type": "process",
+      "surface_form": "πεπλυμένου",
+      "normalized_label": "πλύνειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-1-53-narkissinon:process:koptein-3",
+      "entity_type": "process",
+      "surface_form": "κόψας",
+      "normalized_label": "κόπτειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-1-53-narkissinon:process:brechein-4",
+      "entity_type": "process",
+      "surface_form": "βρέξας",
+      "normalized_label": "βρέχειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-1-53-narkissinon:process:meignynai-5",
+      "entity_type": "process",
+      "surface_form": "μείξας",
+      "normalized_label": "μείγνυναι"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-1-53-narkissinon:process:epsein-6",
+      "entity_type": "process",
+      "surface_form": "ἕψε",
+      "normalized_label": "ἕψειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-1-53-narkissinon:process:exairein-7",
+      "entity_type": "process",
+      "surface_form": "ἐξελὼν",
+      "normalized_label": "ἐξαιρεῖν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-1-53-narkissinon:process:koptein-8",
+      "entity_type": "process",
+      "surface_form": "κόψας",
+      "normalized_label": "κόπτειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-1-53-narkissinon:process:sesai-9",
+      "entity_type": "process",
+      "surface_form": "σήσας",
+      "normalized_label": "σῆσαι"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-1-53-narkissinon:process:phyrein-10",
+      "entity_type": "process",
+      "surface_form": "φύρα",
+      "normalized_label": "φύρειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-1-53-narkissinon:process:meignynai-11",
+      "entity_type": "process",
+      "surface_form": "μείξας",
+      "normalized_label": "μείγνυναι"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-1-53-narkissinon:process:epsein-12",
+      "entity_type": "process",
+      "surface_form": "ἕψε",
+      "normalized_label": "ἕψειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-1-53-narkissinon:process:anazeein-13",
+      "entity_type": "process",
+      "surface_form": "ἀναζέσῃ",
+      "normalized_label": "ἀναζέειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-1-53-narkissinon:process:apethein-14",
+      "entity_type": "process",
+      "surface_form": "ἀπήθει",
+      "normalized_label": "ἀπηθεῖν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-1-53-narkissinon:process:apocheein-15",
+      "entity_type": "process",
+      "surface_form": "ἀπόχει",
+      "normalized_label": "ἀποχέειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-1-53-narkissinon:process:emballein-16",
+      "entity_type": "process",
+      "surface_form": "ἔμβαλε",
+      "normalized_label": "ἐμβάλλειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-1-53-narkissinon:process:kinein-17",
+      "entity_type": "process",
+      "surface_form": "κινῶν",
+      "normalized_label": "κινεῖν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-1-53-narkissinon:process:exipein-18",
+      "entity_type": "process",
+      "surface_form": "ἐξίπου",
+      "normalized_label": "ἐξιπεῖν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-1-53-narkissinon:process:metaggizein-19",
+      "entity_type": "process",
+      "surface_form": "μετάγγιζε",
+      "normalized_label": "μεταγγίζειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-material:dioscorides-1-53-narkissinon:material:loyter-1",
+      "entity_type": "material",
+      "surface_form": "λουτῆρα",
+      "normalized_label": "λουτήρ"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-reference:dioscorides-1-53-narkissinon:reference:soysinon-1",
+      "entity_type": "preparation_reference",
+      "surface_form": "σουσίνου",
+      "normalized_label": "σούσινον"
+    }
+  ]
+}

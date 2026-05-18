@@ -1,0 +1,540 @@
+{
+  "dataset_key": "aetius_book16_myrepsika",
+  "source_json": "experiments/aetius-book16-ch126-153-myrepsika/data/aetius_book16_ch126_153_myrepsika.json",
+  "host_raw_file": "tei/raw/tlg0718016.xml",
+  "work_slug": "aetius.b16.myrepsika",
+  "recipe_id": "aetius-16-141",
+  "recipe_urn": "urn:aos:recipe:aetius-16-141",
+  "record_urn": "urn:aos:recipe-record:aetius-16-141",
+  "author": "Aëtius of Amida",
+  "work": "Libri medicinales",
+  "book": "16",
+  "chapter": "141",
+  "section": null,
+  "chapter_name": "γάρου νηστικοῦ σκευασία",
+  "lemma": "γάρου νηστικοῦ σκευασία",
+  "text": "Ὕδατος ξστλα ἤτοι ξέστ. λα. ἁλῶν ξστβ ἤτοι ξέστ. β. ἐρεβίνθων ξηρῶν μελανῶν ξστδ ἤτοι ξέστ. δ. ἀμανιτῶν λιβ ἤτοι λίτρ. β. ἰσχάδας μέλανας ν. ἑνώσας εἶτα διηθήσας φύλαττε.",
+  "original_text": null,
+  "text_source": null,
+  "emendations": [],
+  "emendation_count": 0,
+  "source_kind": null,
+  "entry_kind": "recipe",
+  "citation": {
+    "pages": [
+      "168"
+    ],
+    "start": {
+      "page": "168",
+      "line": "6",
+      "xml_id": "zerv-168-6"
+    },
+    "end": {
+      "page": "168",
+      "line": "9",
+      "xml_id": "zerv-168-9"
+    },
+    "citation": {
+      "start": "168.6",
+      "end": "168.9"
+    },
+    "page_spans": [
+      {
+        "page": "168",
+        "start_line": "6",
+        "end_line": "9"
+      }
+    ],
+    "lines": [
+      {
+        "page": "168",
+        "line": "6",
+        "xml_id": "zerv-168-6",
+        "citation": "168.6",
+        "text": "ΓΑΡΟΥ ΝΗΣΤΙΚΟΥ ΣΚΕΥΑΣΙΑ."
+      },
+      {
+        "page": "168",
+        "line": "7",
+        "xml_id": "zerv-168-7",
+        "citation": "168.7",
+        "text": "Ὕδατος ξστλα ἤτοι ξέστ. λα. ἁλῶν ξστβ ἤτοι ξέστ. β. ἐρε-"
+      },
+      {
+        "page": "168",
+        "line": "8",
+        "xml_id": "zerv-168-8",
+        "citation": "168.8",
+        "text": "βίνθων ξηρῶν μελανῶν ξστδ ἤτοι ξέστ. δ. ἀμανιτῶν λιβ ἤτοι"
+      },
+      {
+        "page": "168",
+        "line": "9",
+        "xml_id": "zerv-168-9",
+        "citation": "168.9",
+        "text": "λίτρ. β. ἰσχάδας μέλανας ν. ἑνώσας εἶτα διηθήσας φύλαττε."
+      }
+    ],
+    "edition_key": "zervos"
+  },
+  "notes": [],
+  "alignment_status": "pending",
+  "alignment_confidence": "pending",
+  "alignment_evidence": null,
+  "review_status": "reviewed_structured_authority",
+  "review_provenance": {
+    "authority_source": "reports/entity_review/structured/aetius_book16.json",
+    "authority_recipe_id": "aetius-16-141",
+    "authority_lemma": "γάρος",
+    "model": "gpt-5.4",
+    "reasoning_effort": "high",
+    "dataset_key": "aetius_book16_myrepsika",
+    "entity_model_version": "1.2",
+    "authority_version": "2026-04-13-qty-alt-v1",
+    "prompt_version": "qty-alt-pass-v1",
+    "build_version": "2026-05-18T15:51:35Z"
+  },
+  "schema_version": "1.2",
+  "build_metadata": {
+    "builder": "scripts/recipes/build_recipe_entities.py",
+    "built_at": "2026-05-18T15:51:35Z",
+    "source_structured_authority": "reports/entity_review/structured/aetius_book16.json",
+    "authority_model": "gpt-5.4",
+    "authority_reasoning_effort": "high",
+    "dataset_key": "aetius_book16_myrepsika",
+    "entity_model_version": "1.2",
+    "authority_version": "2026-04-13-qty-alt-v1",
+    "prompt_version": "qty-alt-pass-v1",
+    "build_version": "2026-05-18T15:51:35Z"
+  },
+  "recipe_text_excerpt": "Ὕδατος ξστλα ἤτοι ξέστ. λα. ἁλῶν ξστβ ἤτοι ξέστ. β. ἐρεβίνθων ξηρῶν μελανῶν ξστδ ἤτοι ξέστ. δ. ἀμανιτῶν λιβ ἤτοι",
+  "preparation": {
+    "preparation_id": "aetius-16-141:preparation:garos",
+    "preparation_urn": "urn:aos:recipe-preparation:aetius-16-141:preparation:garos",
+    "source_span": "γάρου νηστικοῦ σκευασία",
+    "surface_form": "γάρου νηστικοῦ σκευασία",
+    "normalized_label": "γάρος",
+    "qualifiers": [
+      {
+        "qualifier_type": "other",
+        "source_span": "νηστικοῦ",
+        "normalized_value": "νηστικός",
+        "certainty": "certain",
+        "notes": [
+          "Lemma characterizes the recipe as a fasting variant."
+        ]
+      }
+    ],
+    "regimen_notes": [],
+    "certainty": "certain",
+    "notes": [
+      "The running text does not restate the preparation name cleanly; the lemma supplies it."
+    ],
+    "host_locator": {
+      "book": "16",
+      "chapter": "141",
+      "section": null,
+      "citation": {
+        "start": "168.6",
+        "end": "168.9"
+      }
+    }
+  },
+  "ingredients": [
+    {
+      "ingredient_id": "aetius-16-141:ingredient:ydor-1",
+      "ingredient_urn": "urn:aos:recipe-ingredient:aetius-16-141:ingredient:ydor-1",
+      "source_span": "Ὕδατος",
+      "surface_form": "Ὕδατος",
+      "base_label": "ὕδωρ",
+      "normalized_label": "ὕδωρ",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [
+        "aetius-16-141:process:enoyn-1"
+      ],
+      "quantities": [
+        {
+          "source_span": "ξστλα ἤτοι ξέστ. λα.",
+          "raw_number": "λα",
+          "normalized_number": 31,
+          "raw_unit": "ξέστ.",
+          "normalized_unit": "xestes",
+          "certainty": "certain",
+          "notes": [
+            "The quantity is written in both compact and expanded notation."
+          ]
+        }
+      ],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "16",
+        "chapter": "141",
+        "section": null,
+        "citation": {
+          "start": "168.6",
+          "end": "168.9"
+        }
+      }
+    },
+    {
+      "ingredient_id": "aetius-16-141:ingredient:als-2",
+      "ingredient_urn": "urn:aos:recipe-ingredient:aetius-16-141:ingredient:als-2",
+      "source_span": "ἁλῶν",
+      "surface_form": "ἁλῶν",
+      "base_label": "ἅλς",
+      "normalized_label": "ἅλς",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [
+        "aetius-16-141:process:enoyn-1"
+      ],
+      "quantities": [
+        {
+          "source_span": "ξστβ ἤτοι ξέστ. β.",
+          "raw_number": "β",
+          "normalized_number": 2,
+          "raw_unit": "ξέστ.",
+          "normalized_unit": "xestes",
+          "certainty": "certain",
+          "notes": [
+            "The quantity is written in both compact and expanded notation."
+          ]
+        }
+      ],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "16",
+        "chapter": "141",
+        "section": null,
+        "citation": {
+          "start": "168.6",
+          "end": "168.9"
+        }
+      }
+    },
+    {
+      "ingredient_id": "aetius-16-141:ingredient:erebinthoi-xeroi-melanoi-3",
+      "ingredient_urn": "urn:aos:recipe-ingredient:aetius-16-141:ingredient:erebinthoi-xeroi-melanoi-3",
+      "source_span": "ἐρεβίνθων ξηρῶν μελανῶν",
+      "surface_form": "ἐρεβίνθων ξηρῶν μελανῶν",
+      "base_label": "ἐρέβινθος",
+      "normalized_label": "ἐρέβινθοι ξηροὶ μέλανοι",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [
+        "aetius-16-141:process:enoyn-1"
+      ],
+      "quantities": [
+        {
+          "source_span": "ξστδ ἤτοι ξέστ. δ.",
+          "raw_number": "δ",
+          "normalized_number": 4,
+          "raw_unit": "ξέστ.",
+          "normalized_unit": "xestes",
+          "certainty": "certain",
+          "notes": [
+            "The quantity is written in both compact and expanded notation."
+          ]
+        }
+      ],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "16",
+        "chapter": "141",
+        "section": null,
+        "citation": {
+          "start": "168.6",
+          "end": "168.9"
+        }
+      }
+    },
+    {
+      "ingredient_id": "aetius-16-141:ingredient:amanitai-4",
+      "ingredient_urn": "urn:aos:recipe-ingredient:aetius-16-141:ingredient:amanitai-4",
+      "source_span": "ἀμανιτῶν",
+      "surface_form": "ἀμανιτῶν",
+      "base_label": "ἀμανίτης",
+      "normalized_label": "ἀμανῖται",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [
+        "aetius-16-141:process:enoyn-1"
+      ],
+      "quantities": [
+        {
+          "source_span": "λιβ ἤτοι λίτρ. β.",
+          "raw_number": "β",
+          "normalized_number": 2,
+          "raw_unit": "λίτρ.",
+          "normalized_unit": "litra",
+          "certainty": "certain",
+          "notes": [
+            "The quantity is written in both compact and expanded notation."
+          ]
+        }
+      ],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "16",
+        "chapter": "141",
+        "section": null,
+        "citation": {
+          "start": "168.6",
+          "end": "168.9"
+        }
+      }
+    },
+    {
+      "ingredient_id": "aetius-16-141:ingredient:ischades-melanai-5",
+      "ingredient_urn": "urn:aos:recipe-ingredient:aetius-16-141:ingredient:ischades-melanai-5",
+      "source_span": "ἰσχάδας μέλανας",
+      "surface_form": "ἰσχάδας μέλανας",
+      "base_label": "ἰσχάς",
+      "normalized_label": "ἰσχάδες μέλαναι",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [
+        "aetius-16-141:process:enoyn-1"
+      ],
+      "quantities": [
+        {
+          "source_span": "ν.",
+          "raw_number": "ν",
+          "normalized_number": 50,
+          "raw_unit": null,
+          "normalized_unit": null,
+          "certainty": "certain",
+          "notes": [
+            "A standalone numeral gives the count of the figs."
+          ]
+        }
+      ],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "16",
+        "chapter": "141",
+        "section": null,
+        "citation": {
+          "start": "168.6",
+          "end": "168.9"
+        }
+      }
+    }
+  ],
+  "processes": [
+    {
+      "process_id": "aetius-16-141:process:enoyn-1",
+      "process_urn": "urn:aos:recipe-process:aetius-16-141:process:enoyn-1",
+      "source_span": "ἑνώσας",
+      "surface_form": "ἑνώσας",
+      "normalized_label": "ἑνοῦν",
+      "target_type": "ingredient",
+      "target_ids": [
+        "aetius-16-141:ingredient:ydor-1",
+        "aetius-16-141:ingredient:als-2",
+        "aetius-16-141:ingredient:erebinthoi-xeroi-melanoi-3",
+        "aetius-16-141:ingredient:amanitai-4",
+        "aetius-16-141:ingredient:ischades-melanai-5"
+      ],
+      "quantities": [],
+      "qualifiers": [],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "16",
+        "chapter": "141",
+        "section": null,
+        "citation": {
+          "start": "168.6",
+          "end": "168.9"
+        }
+      }
+    },
+    {
+      "process_id": "aetius-16-141:process:diethein-2",
+      "process_urn": "urn:aos:recipe-process:aetius-16-141:process:diethein-2",
+      "source_span": "διηθήσας",
+      "surface_form": "διηθήσας",
+      "normalized_label": "διηθεῖν",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "16",
+        "chapter": "141",
+        "section": null,
+        "citation": {
+          "start": "168.6",
+          "end": "168.9"
+        }
+      }
+    },
+    {
+      "process_id": "aetius-16-141:process:phylattein-3",
+      "process_urn": "urn:aos:recipe-process:aetius-16-141:process:phylattein-3",
+      "source_span": "φύλαττε",
+      "surface_form": "φύλαττε",
+      "normalized_label": "φυλάττειν",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "16",
+        "chapter": "141",
+        "section": null,
+        "citation": {
+          "start": "168.6",
+          "end": "168.9"
+        }
+      }
+    }
+  ],
+  "materials": [],
+  "people": [],
+  "places": [],
+  "uses": [],
+  "preparation_names": [],
+  "other_preparations_mentioned": [],
+  "works_mentioned": [],
+  "entities": [
+    {
+      "entity_urn": "urn:aos:recipe-preparation:aetius-16-141:preparation:garos",
+      "entity_type": "label",
+      "surface_form": "γάρου νηστικοῦ σκευασία",
+      "normalized_label": "γάρος"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:aetius-16-141:ingredient:ydor-1",
+      "entity_type": "ingredient",
+      "surface_form": "Ὕδατος",
+      "normalized_label": "ὕδωρ"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:aetius-16-141:ingredient:als-2",
+      "entity_type": "ingredient",
+      "surface_form": "ἁλῶν",
+      "normalized_label": "ἅλς"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:aetius-16-141:ingredient:erebinthoi-xeroi-melanoi-3",
+      "entity_type": "ingredient",
+      "surface_form": "ἐρεβίνθων ξηρῶν μελανῶν",
+      "normalized_label": "ἐρέβινθοι ξηροὶ μέλανοι"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:aetius-16-141:ingredient:amanitai-4",
+      "entity_type": "ingredient",
+      "surface_form": "ἀμανιτῶν",
+      "normalized_label": "ἀμανῖται"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:aetius-16-141:ingredient:ischades-melanai-5",
+      "entity_type": "ingredient",
+      "surface_form": "ἰσχάδας μέλανας",
+      "normalized_label": "ἰσχάδες μέλαναι"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:aetius-16-141:process:enoyn-1",
+      "entity_type": "process",
+      "surface_form": "ἑνώσας",
+      "normalized_label": "ἑνοῦν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:aetius-16-141:process:diethein-2",
+      "entity_type": "process",
+      "surface_form": "διηθήσας",
+      "normalized_label": "διηθεῖν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:aetius-16-141:process:phylattein-3",
+      "entity_type": "process",
+      "surface_form": "φύλαττε",
+      "normalized_label": "φυλάττειν"
+    }
+  ],
+  "canonical_file": "data/recipes/aetius-16-141.json",
+  "source_entry": {
+    "source_id": "aetius-16-141",
+    "derived_recipe_id": "aetius-16-141",
+    "entry_kind": null,
+    "source_kind": null,
+    "source_lines": null,
+    "section_markers": []
+  },
+  "entity_groups": {
+    "labels": [
+      {
+        "entity_urn": "urn:aos:recipe-preparation:aetius-16-141:preparation:garos",
+        "surface_form": "γάρου νηστικοῦ σκευασία",
+        "normalized_label": "γάρος"
+      }
+    ],
+    "ingredients": [
+      {
+        "entity_urn": "urn:aos:recipe-ingredient:aetius-16-141:ingredient:ydor-1",
+        "surface_form": "Ὕδατος",
+        "normalized_label": "ὕδωρ",
+        "quantity_display": "ξστλα ἤτοι ξέστ. λα."
+      },
+      {
+        "entity_urn": "urn:aos:recipe-ingredient:aetius-16-141:ingredient:als-2",
+        "surface_form": "ἁλῶν",
+        "normalized_label": "ἅλς",
+        "quantity_display": "ξστβ ἤτοι ξέστ. β."
+      },
+      {
+        "entity_urn": "urn:aos:recipe-ingredient:aetius-16-141:ingredient:erebinthoi-xeroi-melanoi-3",
+        "surface_form": "ἐρεβίνθων ξηρῶν μελανῶν",
+        "normalized_label": "ἐρέβινθοι ξηροὶ μέλανοι",
+        "quantity_display": "ξστδ ἤτοι ξέστ. δ."
+      },
+      {
+        "entity_urn": "urn:aos:recipe-ingredient:aetius-16-141:ingredient:amanitai-4",
+        "surface_form": "ἀμανιτῶν",
+        "normalized_label": "ἀμανῖται",
+        "quantity_display": "λιβ ἤτοι λίτρ. β."
+      },
+      {
+        "entity_urn": "urn:aos:recipe-ingredient:aetius-16-141:ingredient:ischades-melanai-5",
+        "surface_form": "ἰσχάδας μέλανας",
+        "normalized_label": "ἰσχάδες μέλαναι",
+        "quantity_display": "ν."
+      }
+    ],
+    "processes": [
+      {
+        "entity_urn": "urn:aos:recipe-process:aetius-16-141:process:enoyn-1",
+        "surface_form": "ἑνώσας",
+        "normalized_label": "ἑνοῦν"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-process:aetius-16-141:process:diethein-2",
+        "surface_form": "διηθήσας",
+        "normalized_label": "διηθεῖν"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-process:aetius-16-141:process:phylattein-3",
+        "surface_form": "φύλαττε",
+        "normalized_label": "φυλάττειν"
+      }
+    ],
+    "tools": [],
+    "other_preparations_mentioned": [],
+    "people": [],
+    "places": [],
+    "works_mentioned": [],
+    "preparation_names": []
+  }
+}

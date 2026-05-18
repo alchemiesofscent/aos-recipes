@@ -1,0 +1,591 @@
+{
+  "dataset_key": "paul_book7_perfumes",
+  "source_json": "experiments/paul-book7-ch20-perfumes/data/paul_book7_ch20_perfumes.json",
+  "host_raw_file": "tei/raw/tlg0715001.xml",
+  "work_slug": "paul.b7.perfumes",
+  "recipe_id": "paul-7-20-19",
+  "recipe_urn": "urn:aos:recipe:paul-7-20-19",
+  "record_urn": "urn:aos:recipe-record:paul-7-20-19",
+  "author": "Paul of Aegina",
+  "work": "Medical Epitome",
+  "book": "7",
+  "chapter": "20",
+  "section": "19",
+  "chapter_name": "Ἐλαίων καὶ μύρων σκευασίαι διάφοροι.",
+  "lemma": "Δάφνινον",
+  "text": "Τὸ μὲν καθαρὸν τὸν ὅμοιον γίνεται τρόπον ἐκ τοῦ τῆς δάφνης καρποῦ, τὸ δὲ συμμιγὲς οὕτως· πρὸς ε ξέστας τῶν πεπείρων ἐλαιῶν ξ̸ α τῶν δαφνίδων ἐμβάλλεται, καὶ τρίβεται πάντα καὶ πιέζεται. τινὲς δὲ τὸ ἴσον ἐξ ἀμφοῖν μίσγουσιν.",
+  "original_text": null,
+  "text_source": null,
+  "emendations": [],
+  "emendation_count": 0,
+  "source_kind": null,
+  "entry_kind": "recipe",
+  "citation": {
+    "pages": [
+      "2.385"
+    ],
+    "start": {
+      "page": "2.385",
+      "line": "18",
+      "xml_id": "heib-2-385-18"
+    },
+    "end": {
+      "page": "2.385",
+      "line": "22",
+      "xml_id": "heib-2-385-22"
+    },
+    "citation": {
+      "start": "2.385.18",
+      "end": "2.385.22"
+    },
+    "page_spans": [
+      {
+        "page": "2.385",
+        "start_line": "18",
+        "end_line": "22"
+      }
+    ],
+    "lines": [
+      {
+        "page": "2.385",
+        "line": "18",
+        "xml_id": "heib-2-385-18",
+        "break_no": false,
+        "text": "Δάφνινον.",
+        "citation": "2.385.18"
+      },
+      {
+        "page": "2.385",
+        "line": "19",
+        "xml_id": "heib-2-385-19",
+        "break_no": false,
+        "text": "Τὸ μὲν καθαρὸν τὸν ὅμοιον γίνεται τρόπον ἐκ τοῦ τῆς δάφνης",
+        "citation": "2.385.19"
+      },
+      {
+        "page": "2.385",
+        "line": "20",
+        "xml_id": "heib-2-385-20",
+        "break_no": false,
+        "text": "καρποῦ, τὸ δὲ συμμιγὲς οὕτως· πρὸς ε ξέστας τῶν πεπείρων ἐλαιῶν",
+        "citation": "2.385.20"
+      },
+      {
+        "page": "2.385",
+        "line": "21",
+        "xml_id": "heib-2-385-21",
+        "break_no": false,
+        "text": "ξ̸ α τῶν δαφνίδων ἐμβάλλεται, καὶ τρίβεται πάντα καὶ πιέζεται. τινὲς",
+        "citation": "2.385.21"
+      },
+      {
+        "page": "2.385",
+        "line": "22",
+        "xml_id": "heib-2-385-22",
+        "break_no": false,
+        "text": "δὲ τὸ ἴσον ἐξ ἀμφοῖν μίσγουσιν.",
+        "citation": "2.385.22"
+      }
+    ],
+    "edition_key": "heiberg"
+  },
+  "notes": [
+    "The text distinguishes a καθαρὸν form made from laurel fruit and a συμμιγές form combining ripe olives and laurel berries."
+  ],
+  "alignment_status": "pending",
+  "alignment_confidence": "pending",
+  "alignment_evidence": null,
+  "review_status": "reviewed_structured_authority",
+  "review_provenance": {
+    "authority_source": "reports/entity_review/structured/paul.json",
+    "authority_recipe_id": "paul-7-20-19",
+    "authority_lemma": "Δάφνινον",
+    "model": "gpt-5.4",
+    "reasoning_effort": "high",
+    "dataset_key": "paul_book7_perfumes",
+    "entity_model_version": "1.2",
+    "authority_version": "2026-04-13-qty-alt-v1",
+    "prompt_version": "qty-alt-pass-v1",
+    "build_version": "2026-05-18T15:51:35Z"
+  },
+  "schema_version": "1.2",
+  "build_metadata": {
+    "builder": "scripts/recipes/build_recipe_entities.py",
+    "built_at": "2026-05-18T15:51:35Z",
+    "source_structured_authority": "reports/entity_review/structured/paul.json",
+    "authority_model": "gpt-5.4",
+    "authority_reasoning_effort": "high",
+    "dataset_key": "paul_book7_perfumes",
+    "entity_model_version": "1.2",
+    "authority_version": "2026-04-13-qty-alt-v1",
+    "prompt_version": "qty-alt-pass-v1",
+    "build_version": "2026-05-18T15:51:35Z"
+  },
+  "recipe_text_excerpt": "Τὸ μὲν καθαρὸν τὸν ὅμοιον γίνεται τρόπον ἐκ τοῦ τῆς δάφνης καρποῦ, τὸ δὲ συμμιγὲς οὕτως· πρὸς ε ξέστας τῶν",
+  "preparation": {
+    "preparation_id": "paul-7-20-19:preparation:daphninon",
+    "preparation_urn": "urn:aos:recipe-preparation:paul-7-20-19:preparation:daphninon",
+    "source_span": "Δάφνινον",
+    "surface_form": "Δάφνινον",
+    "normalized_label": "Δάφνινον",
+    "qualifiers": [],
+    "regimen_notes": [],
+    "certainty": "certain",
+    "notes": [
+      "Running text does not restate the base preparation name cleanly; lemma used as the preparation label."
+    ],
+    "host_locator": {
+      "book": "7",
+      "chapter": "20",
+      "section": "19",
+      "citation": {
+        "start": "2.385.18",
+        "end": "2.385.22"
+      }
+    }
+  },
+  "ingredients": [
+    {
+      "ingredient_id": "paul-7-20-19:ingredient:karpos-daphnes-1",
+      "ingredient_urn": "urn:aos:recipe-ingredient:paul-7-20-19:ingredient:karpos-daphnes-1",
+      "source_span": "τοῦ τῆς δάφνης καρποῦ",
+      "surface_form": "τοῦ τῆς δάφνης καρποῦ",
+      "base_label": "καρπός",
+      "normalized_label": "καρπὸς δάφνης",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [],
+      "quantities": [],
+      "qualifiers": [],
+      "notes": [
+        "Belongs to the καθαρὸν variant described in the text."
+      ],
+      "host_locator": {
+        "book": "7",
+        "chapter": "20",
+        "section": "19",
+        "citation": {
+          "start": "2.385.18",
+          "end": "2.385.22"
+        }
+      }
+    },
+    {
+      "ingredient_id": "paul-7-20-19:ingredient:pepeirai-elaiai-2",
+      "ingredient_urn": "urn:aos:recipe-ingredient:paul-7-20-19:ingredient:pepeirai-elaiai-2",
+      "source_span": "τῶν πεπείρων ἐλαιῶν",
+      "surface_form": "τῶν πεπείρων ἐλαιῶν",
+      "base_label": "ἐλαῖαι",
+      "normalized_label": "πέπειραι ἐλαῖαι",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [
+        "paul-7-20-19:process:emballein-1",
+        "paul-7-20-19:process:tribein-2",
+        "paul-7-20-19:process:piezein-3",
+        "paul-7-20-19:process:misgein-4"
+      ],
+      "quantities": [
+        {
+          "source_span": "ε ξέστας",
+          "raw_number": "ε",
+          "normalized_number": 5,
+          "raw_unit": "ξέστας",
+          "normalized_unit": "xestes",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "7",
+        "chapter": "20",
+        "section": "19",
+        "citation": {
+          "start": "2.385.18",
+          "end": "2.385.22"
+        }
+      }
+    },
+    {
+      "ingredient_id": "paul-7-20-19:ingredient:daphnides-3",
+      "ingredient_urn": "urn:aos:recipe-ingredient:paul-7-20-19:ingredient:daphnides-3",
+      "source_span": "τῶν δαφνίδων",
+      "surface_form": "τῶν δαφνίδων",
+      "base_label": "δαφνίδες",
+      "normalized_label": "δαφνίδες",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [
+        "paul-7-20-19:process:emballein-1",
+        "paul-7-20-19:process:tribein-2",
+        "paul-7-20-19:process:piezein-3",
+        "paul-7-20-19:process:misgein-4"
+      ],
+      "quantities": [
+        {
+          "source_span": "ξ̸ α",
+          "raw_number": "ξ̸ α",
+          "normalized_number": 61,
+          "raw_unit": null,
+          "normalized_unit": "xestes",
+          "certainty": "uncertain",
+          "notes": [
+            "The numeral reading is uncertain, and no explicit unit is stated in the excerpt."
+          ]
+        }
+      ],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "7",
+        "chapter": "20",
+        "section": "19",
+        "citation": {
+          "start": "2.385.18",
+          "end": "2.385.22"
+        }
+      }
+    }
+  ],
+  "processes": [
+    {
+      "process_id": "paul-7-20-19:process:emballein-1",
+      "process_urn": "urn:aos:recipe-process:paul-7-20-19:process:emballein-1",
+      "source_span": "ἐμβάλλεται",
+      "surface_form": "ἐμβάλλεται",
+      "normalized_label": "ἐμβάλλειν",
+      "target_type": "ingredient",
+      "target_ids": [
+        "paul-7-20-19:ingredient:daphnides-3"
+      ],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "other",
+          "source_span": "πρὸς ε ξέστας τῶν πεπείρων ἐλαιῶν",
+          "normalized_value": "πρὸς πέπειραι ἐλαῖαι",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "7",
+        "chapter": "20",
+        "section": "19",
+        "citation": {
+          "start": "2.385.18",
+          "end": "2.385.22"
+        }
+      }
+    },
+    {
+      "process_id": "paul-7-20-19:process:tribein-2",
+      "process_urn": "urn:aos:recipe-process:paul-7-20-19:process:tribein-2",
+      "source_span": "τρίβεται",
+      "surface_form": "τρίβεται",
+      "normalized_label": "τρίβειν",
+      "target_type": "ingredient",
+      "target_ids": [
+        "paul-7-20-19:ingredient:pepeirai-elaiai-2",
+        "paul-7-20-19:ingredient:daphnides-3"
+      ],
+      "quantities": [],
+      "qualifiers": [],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "7",
+        "chapter": "20",
+        "section": "19",
+        "citation": {
+          "start": "2.385.18",
+          "end": "2.385.22"
+        }
+      }
+    },
+    {
+      "process_id": "paul-7-20-19:process:piezein-3",
+      "process_urn": "urn:aos:recipe-process:paul-7-20-19:process:piezein-3",
+      "source_span": "πιέζεται",
+      "surface_form": "πιέζεται",
+      "normalized_label": "πιέζειν",
+      "target_type": "ingredient",
+      "target_ids": [
+        "paul-7-20-19:ingredient:pepeirai-elaiai-2",
+        "paul-7-20-19:ingredient:daphnides-3"
+      ],
+      "quantities": [],
+      "qualifiers": [],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "7",
+        "chapter": "20",
+        "section": "19",
+        "citation": {
+          "start": "2.385.18",
+          "end": "2.385.22"
+        }
+      }
+    },
+    {
+      "process_id": "paul-7-20-19:process:misgein-4",
+      "process_urn": "urn:aos:recipe-process:paul-7-20-19:process:misgein-4",
+      "source_span": "μίσγουσιν",
+      "surface_form": "μίσγουσιν",
+      "normalized_label": "μίσγειν",
+      "target_type": "ingredient",
+      "target_ids": [
+        "paul-7-20-19:ingredient:pepeirai-elaiai-2",
+        "paul-7-20-19:ingredient:daphnides-3"
+      ],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "other",
+          "source_span": "τὸ ἴσον ἐξ ἀμφοῖν",
+          "normalized_value": "ἴσον ἐξ ἀμφοῖν",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "certainty": "certain",
+      "notes": [
+        "Alternative procedure attributed to τινές."
+      ],
+      "host_locator": {
+        "book": "7",
+        "chapter": "20",
+        "section": "19",
+        "citation": {
+          "start": "2.385.18",
+          "end": "2.385.22"
+        }
+      }
+    }
+  ],
+  "materials": [],
+  "people": [
+    {
+      "person_id": "paul-7-20-19:person:tines-1",
+      "person_urn": "urn:aos:recipe-person:paul-7-20-19:person:tines-1",
+      "source_span": "τινὲς",
+      "surface_form": "τινὲς",
+      "normalized_label": "τινές",
+      "certainty": "certain",
+      "notes": [
+        "Anonymous practitioners."
+      ],
+      "host_locator": {
+        "book": "7",
+        "chapter": "20",
+        "section": "19",
+        "citation": {
+          "start": "2.385.18",
+          "end": "2.385.22"
+        }
+      }
+    }
+  ],
+  "places": [],
+  "uses": [],
+  "preparation_names": [],
+  "other_preparations_mentioned": [
+    {
+      "reference_id": "paul-7-20-19:reference:katharon-1",
+      "reference_urn": "urn:aos:recipe-reference:paul-7-20-19:reference:katharon-1",
+      "source_span": "καθαρὸν",
+      "surface_form": "καθαρὸν",
+      "normalized_label": "καθαρόν",
+      "certainty": "certain",
+      "notes": [
+        "Substantive adjective referring to a distinct variant/preparation without repeating the base noun."
+      ],
+      "host_locator": {
+        "book": "7",
+        "chapter": "20",
+        "section": "19",
+        "citation": {
+          "start": "2.385.18",
+          "end": "2.385.22"
+        }
+      }
+    },
+    {
+      "reference_id": "paul-7-20-19:reference:symmiges-2",
+      "reference_urn": "urn:aos:recipe-reference:paul-7-20-19:reference:symmiges-2",
+      "source_span": "συμμιγὲς",
+      "surface_form": "συμμιγὲς",
+      "normalized_label": "συμμιγές",
+      "certainty": "certain",
+      "notes": [
+        "Substantive adjective referring to a distinct variant/preparation without repeating the base noun."
+      ],
+      "host_locator": {
+        "book": "7",
+        "chapter": "20",
+        "section": "19",
+        "citation": {
+          "start": "2.385.18",
+          "end": "2.385.22"
+        }
+      }
+    }
+  ],
+  "works_mentioned": [],
+  "entities": [
+    {
+      "entity_urn": "urn:aos:recipe-preparation:paul-7-20-19:preparation:daphninon",
+      "entity_type": "label",
+      "surface_form": "Δάφνινον",
+      "normalized_label": "Δάφνινον"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:paul-7-20-19:ingredient:karpos-daphnes-1",
+      "entity_type": "ingredient",
+      "surface_form": "τοῦ τῆς δάφνης καρποῦ",
+      "normalized_label": "καρπὸς δάφνης"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:paul-7-20-19:ingredient:pepeirai-elaiai-2",
+      "entity_type": "ingredient",
+      "surface_form": "τῶν πεπείρων ἐλαιῶν",
+      "normalized_label": "πέπειραι ἐλαῖαι"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:paul-7-20-19:ingredient:daphnides-3",
+      "entity_type": "ingredient",
+      "surface_form": "τῶν δαφνίδων",
+      "normalized_label": "δαφνίδες"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:paul-7-20-19:process:emballein-1",
+      "entity_type": "process",
+      "surface_form": "ἐμβάλλεται",
+      "normalized_label": "ἐμβάλλειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:paul-7-20-19:process:tribein-2",
+      "entity_type": "process",
+      "surface_form": "τρίβεται",
+      "normalized_label": "τρίβειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:paul-7-20-19:process:piezein-3",
+      "entity_type": "process",
+      "surface_form": "πιέζεται",
+      "normalized_label": "πιέζειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:paul-7-20-19:process:misgein-4",
+      "entity_type": "process",
+      "surface_form": "μίσγουσιν",
+      "normalized_label": "μίσγειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-person:paul-7-20-19:person:tines-1",
+      "entity_type": "person",
+      "surface_form": "τινὲς",
+      "normalized_label": "τινές"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-reference:paul-7-20-19:reference:katharon-1",
+      "entity_type": "preparation_reference",
+      "surface_form": "καθαρὸν",
+      "normalized_label": "καθαρόν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-reference:paul-7-20-19:reference:symmiges-2",
+      "entity_type": "preparation_reference",
+      "surface_form": "συμμιγὲς",
+      "normalized_label": "συμμιγές"
+    }
+  ],
+  "canonical_file": "data/recipes/paul-7-20-19.json",
+  "source_entry": {
+    "source_id": "paul-7-20-19",
+    "derived_recipe_id": "paul-7-20-19",
+    "entry_kind": null,
+    "source_kind": null,
+    "source_lines": null,
+    "section_markers": []
+  },
+  "entity_groups": {
+    "labels": [
+      {
+        "entity_urn": "urn:aos:recipe-preparation:paul-7-20-19:preparation:daphninon",
+        "surface_form": "Δάφνινον",
+        "normalized_label": "Δάφνινον"
+      }
+    ],
+    "ingredients": [
+      {
+        "entity_urn": "urn:aos:recipe-ingredient:paul-7-20-19:ingredient:karpos-daphnes-1",
+        "surface_form": "τοῦ τῆς δάφνης καρποῦ",
+        "normalized_label": "καρπὸς δάφνης",
+        "quantity_display": ""
+      },
+      {
+        "entity_urn": "urn:aos:recipe-ingredient:paul-7-20-19:ingredient:pepeirai-elaiai-2",
+        "surface_form": "τῶν πεπείρων ἐλαιῶν",
+        "normalized_label": "πέπειραι ἐλαῖαι",
+        "quantity_display": "ε ξέστας"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-ingredient:paul-7-20-19:ingredient:daphnides-3",
+        "surface_form": "τῶν δαφνίδων",
+        "normalized_label": "δαφνίδες",
+        "quantity_display": "ξ̸ α"
+      }
+    ],
+    "processes": [
+      {
+        "entity_urn": "urn:aos:recipe-process:paul-7-20-19:process:emballein-1",
+        "surface_form": "ἐμβάλλεται",
+        "normalized_label": "ἐμβάλλειν"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-process:paul-7-20-19:process:tribein-2",
+        "surface_form": "τρίβεται",
+        "normalized_label": "τρίβειν"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-process:paul-7-20-19:process:piezein-3",
+        "surface_form": "πιέζεται",
+        "normalized_label": "πιέζειν"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-process:paul-7-20-19:process:misgein-4",
+        "surface_form": "μίσγουσιν",
+        "normalized_label": "μίσγειν"
+      }
+    ],
+    "tools": [],
+    "other_preparations_mentioned": [
+      {
+        "entity_urn": "urn:aos:recipe-reference:paul-7-20-19:reference:katharon-1",
+        "surface_form": "καθαρὸν",
+        "normalized_label": "καθαρόν"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-reference:paul-7-20-19:reference:symmiges-2",
+        "surface_form": "συμμιγὲς",
+        "normalized_label": "συμμιγές"
+      }
+    ],
+    "people": [
+      {
+        "entity_urn": "urn:aos:recipe-person:paul-7-20-19:person:tines-1",
+        "surface_form": "τινὲς",
+        "normalized_label": "τινές"
+      }
+    ],
+    "places": [],
+    "works_mentioned": [],
+    "preparation_names": []
+  }
+}

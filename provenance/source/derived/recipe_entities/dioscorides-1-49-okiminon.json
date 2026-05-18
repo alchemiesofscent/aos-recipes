@@ -1,0 +1,1047 @@
+{
+  "dataset_key": "dioscorides_book1_perfumes_resins",
+  "source_json": "experiments/dioscorides-book1-perfumes-resins/data/dioscorides_book1_perfumes_resins.json",
+  "host_raw_file": "tei/raw/tlg0656.tlg001.1st1K-grc1.xml",
+  "work_slug": "diosc.b1.recipes",
+  "recipe_id": "dioscorides-1-49-okiminon",
+  "recipe_urn": "urn:aos:recipe:dioscorides-1-49-okiminon",
+  "record_urn": "urn:aos:recipe-record:dioscorides-1-49-okiminon",
+  "author": "Dioscorides",
+  "work": "De materia medica",
+  "book": "1",
+  "chapter": "49",
+  "section": null,
+  "chapter_name": "ὠκιμῖνον",
+  "lemma": "ὠκιμῖνον",
+  "text": "49 ὠκιμίνον σκευασία· τοῦ εἰς τὸ κύπρινον ἠρωματισμένου, ὡς ἀποδείξομεν (I 55), λαβὼν ἐλαίου λίτρας εἴκοσι, ὠκίμου σταθμῷ λίτρας ἕνδεκα οὐγγίας ὀκτὼ ἀποφυλλίσας ἀπόβρεχε νύκτα καὶ ἡμέραν ἐν τῷ ἐλαίῳ, εἶτα ἐξίπου καὶ ἀποτίθεσο. ἐκκενώσας δὲ τὸ ἀπὸ τῆς κυρτίδος ἐπίχει πάλιν τὸ ἴσον πλῆθος τοῦ ἐλαίου καὶ ἐξίπου. καλεῖται δὲ τοῦτο δευτερεῖον· τρίτην γὰρ οὐκ ἐπιδέχεται βροχήν. εἶτα προσφάτου ὠκίμου λαβὼν τὸ ἴσον πάλιν ἀπόβρεχε, ὡς ἐπὶ τοῦ ῥοδίνου εἴρηται (I 43), τὸ δὲ ἤδη ἀποβεβρεγμένον ἐπιχέων καὶ ἐῶν τὸν αὐτὸν χρόνον ἔκθλιβε καὶ ἀποτίθεσο. κἂν τρὶς δὲ ἢ τετράκις θέλῃς, ἀπόβρεχε πρόσφατον ἀεὶ ὤκιμον ἐμβάλλων. δύναται δὲ καὶ ἐκ τοῦ ὀμφοκίνου σκευάζεσθαι· βέλτιον δὲ ἐκείνως. δύναται δὲ τὸ αὐτὸ τῷ σαμψουχίνῳ, ἔλαττον ἐνεργοῦν.",
+  "original_text": null,
+  "text_source": null,
+  "emendations": [],
+  "emendation_count": 0,
+  "source_kind": "main_text",
+  "entry_kind": "recipe",
+  "citation": {
+    "pages": [
+      "46"
+    ],
+    "start": {
+      "page": "46",
+      "line": "10"
+    },
+    "end": {
+      "page": "46",
+      "line": "25"
+    },
+    "citation": {
+      "start": "46.10",
+      "end": "46.25"
+    },
+    "page_spans": [
+      {
+        "page": "46",
+        "start_line": "10",
+        "end_line": "25"
+      }
+    ],
+    "lines": [
+      {
+        "page": "46",
+        "line": "10",
+        "break_no": false,
+        "text": "49 ὠκιμίνον σκευασία· τοῦ εἰς τὸ κύπρινον ἠρωματισμένου, ὡς ἀποδείξομεν (I 55), λαβὼν ἐλαίου λίτρας εἴκοσι, ὠκίμου",
+        "citation": "46.10"
+      },
+      {
+        "page": "46",
+        "line": "15",
+        "break_no": false,
+        "text": "σταθμῷ λίτρας ἕνδεκα οὐγγίας ὀκτὼ ἀποφυλλίσας ἀπόβρεχε νύκτα καὶ ἡμέραν ἐν τῷ ἐλαίῳ, εἶτα ἐξίπου καὶ ἀποτίθεσο. ἐκκενώσας δὲ τὸ ἀπὸ τῆς κυρτίδος ἐπίχει πάλιν τὸ ἴσον πλῆθος τοῦ ἐλαίου καὶ ἐξίπου. καλεῖται δὲ τοῦτο δευτερεῖον· τρίτην γὰρ οὐκ ἐπιδέχεται βροχήν. εἶτα προσφάτου ὠκίμου λαβὼν τὸ",
+        "citation": "46.15"
+      },
+      {
+        "page": "46",
+        "line": "20",
+        "break_no": false,
+        "text": "ἴσον πάλιν ἀπόβρεχε, ὡς ἐπὶ τοῦ ῥοδίνου εἴρηται (I 43), τὸ δὲ ἤδη ἀποβεβρεγμένον ἐπιχέων καὶ ἐῶν τὸν αὐτὸν χρόνον ἔκθλιβε καὶ ἀποτίθεσο. κἂν τρὶς δὲ ἢ τετράκις θέλῃς, ἀπόβρεχε πρόσφατον ἀεὶ ὤκιμον ἐμβάλλων. δύναται δὲ καὶ ἐκ τοῦ ὀμφοκίνου σκευάζεσθαι· βέλτιον δὲ ἐκείνως.",
+        "citation": "46.20"
+      },
+      {
+        "page": "46",
+        "line": "25",
+        "break_no": false,
+        "text": "δύναται δὲ τὸ αὐτὸ τῷ σαμψουχίνῳ, ἔλαττον ἐνεργοῦν.",
+        "citation": "46.25"
+      }
+    ],
+    "edition_key": "wellmann"
+  },
+  "notes": [
+    "Raw lines 1590-1633 are book 1 chapter 25 in this witness, although the prompt referred to chapter 35.",
+    "The perfume proemium is taken from the later transition at chapter 42 section 2 (raw lines 2306-2342), not from the chapter 25 κῦφι entry.",
+    "The ἰασμέλαιον entry is preserved only in the apparatus as an addition from another recension."
+  ],
+  "alignment_status": "pending",
+  "alignment_confidence": "pending",
+  "alignment_evidence": null,
+  "review_status": "reviewed_structured_authority",
+  "review_provenance": {
+    "authority_source": "reports/entity_review/structured/dioscorides.json",
+    "authority_recipe_id": "dioscorides-1-49-okiminon",
+    "authority_lemma": "ὠκιμῖνον",
+    "model": "gpt-5.4",
+    "reasoning_effort": "high",
+    "dataset_key": "dioscorides_book1_perfumes_resins",
+    "entity_model_version": "1.2",
+    "authority_version": "2026-04-13-qty-alt-v1",
+    "prompt_version": "qty-alt-pass-v1",
+    "build_version": "2026-05-18T15:51:35Z"
+  },
+  "schema_version": "1.2",
+  "build_metadata": {
+    "builder": "scripts/recipes/build_recipe_entities.py",
+    "built_at": "2026-05-18T15:51:35Z",
+    "source_structured_authority": "reports/entity_review/structured/dioscorides.json",
+    "authority_model": "gpt-5.4",
+    "authority_reasoning_effort": "high",
+    "dataset_key": "dioscorides_book1_perfumes_resins",
+    "entity_model_version": "1.2",
+    "authority_version": "2026-04-13-qty-alt-v1",
+    "prompt_version": "qty-alt-pass-v1",
+    "build_version": "2026-05-18T15:51:35Z"
+  },
+  "recipe_text_excerpt": "ὠκιμίνον σκευασία· τοῦ εἰς τὸ κύπρινον ἠρωματισμένου, ὡς ἀποδείξομεν (I 55), λαβὼν ἐλαίου λίτρας εἴκοσι, ὠκίμου σταθμῷ λίτρας ἕνδεκα οὐγγίας",
+  "preparation": {
+    "preparation_id": "dioscorides-1-49-okiminon:preparation:okiminon",
+    "preparation_urn": "urn:aos:recipe-preparation:dioscorides-1-49-okiminon:preparation:okiminon",
+    "source_span": "ὠκιμίνον",
+    "surface_form": "ὠκιμίνον",
+    "normalized_label": "ὠκιμῖνον",
+    "qualifiers": [
+      {
+        "qualifier_type": "cycle_count",
+        "source_span": "κἂν τρὶς δὲ ἢ τετράκις θέλῃς",
+        "normalized_value": "3-4 cycles",
+        "certainty": "certain",
+        "notes": []
+      }
+    ],
+    "regimen_notes": [
+      {
+        "source_span": "ἀπόβρεχε πρόσφατον ἀεὶ ὤκιμον ἐμβάλλων",
+        "normalized_note": "repeat the soaking with fresh basil each time",
+        "certainty": "certain",
+        "notes": []
+      }
+    ],
+    "certainty": "certain",
+    "notes": [],
+    "host_locator": {
+      "book": "1",
+      "chapter": "49",
+      "section": null,
+      "citation": {
+        "start": "46.10",
+        "end": "46.25"
+      }
+    }
+  },
+  "ingredients": [
+    {
+      "ingredient_id": "dioscorides-1-49-okiminon:ingredient:elaion-eis-to-kyprinon-eromatismenon-1",
+      "ingredient_urn": "urn:aos:recipe-ingredient:dioscorides-1-49-okiminon:ingredient:elaion-eis-to-kyprinon-eromatismenon-1",
+      "source_span": "ἐλαίου",
+      "surface_form": "ἐλαίου",
+      "base_label": "ἔλαιον",
+      "normalized_label": "ἔλαιον εἰς τὸ κύπρινον ἠρωματισμένον",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [
+        "dioscorides-1-49-okiminon:process:eromatizein-1",
+        "dioscorides-1-49-okiminon:process:apobrechein-3",
+        "dioscorides-1-49-okiminon:process:apobrechein-9",
+        "dioscorides-1-49-okiminon:process:apobrechein-14",
+        "dioscorides-1-49-okiminon:process:epicheein-7",
+        "dioscorides-1-49-okiminon:process:epicheein-10"
+      ],
+      "quantities": [
+        {
+          "source_span": "λίτρας εἴκοσι",
+          "raw_number": "εἴκοσι",
+          "normalized_number": 20,
+          "raw_unit": "λίτρας",
+          "normalized_unit": "litra",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "qualifiers": [
+        {
+          "qualifier_type": "other",
+          "source_span": "τοῦ εἰς τὸ κύπρινον ἠρωματισμένου",
+          "normalized_value": "εἰς τὸ κύπρινον ἠρωματισμένον",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "49",
+        "section": null,
+        "citation": {
+          "start": "46.10",
+          "end": "46.25"
+        }
+      }
+    },
+    {
+      "ingredient_id": "dioscorides-1-49-okiminon:ingredient:okimon-2",
+      "ingredient_urn": "urn:aos:recipe-ingredient:dioscorides-1-49-okiminon:ingredient:okimon-2",
+      "source_span": "ὠκίμου σταθμῷ λίτρας ἕνδεκα οὐγγίας ὀκτὼ",
+      "surface_form": "ὠκίμου σταθμῷ λίτρας ἕνδεκα οὐγγίας ὀκτὼ",
+      "base_label": "ὤκιμον",
+      "normalized_label": "ὤκιμον",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [
+        "dioscorides-1-49-okiminon:process:apophyllizein-2",
+        "dioscorides-1-49-okiminon:process:apobrechein-3",
+        "dioscorides-1-49-okiminon:process:apobrechein-9",
+        "dioscorides-1-49-okiminon:process:apobrechein-14",
+        "dioscorides-1-49-okiminon:process:exipein-4",
+        "dioscorides-1-49-okiminon:process:exipein-8"
+      ],
+      "quantities": [
+        {
+          "source_span": "λίτρας ἕνδεκα",
+          "raw_number": "ἕνδεκα",
+          "normalized_number": 11,
+          "raw_unit": "λίτρας",
+          "normalized_unit": "litra",
+          "certainty": "certain",
+          "notes": []
+        },
+        {
+          "source_span": "οὐγγίας ὀκτὼ",
+          "raw_number": "ὀκτὼ",
+          "normalized_number": 8,
+          "raw_unit": "οὐγγίας",
+          "normalized_unit": "uncia",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "qualifiers": [
+        {
+          "qualifier_type": "other",
+          "source_span": "σταθμῷ",
+          "normalized_value": "σταθμῷ",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "49",
+        "section": null,
+        "citation": {
+          "start": "46.10",
+          "end": "46.25"
+        }
+      }
+    },
+    {
+      "ingredient_id": "dioscorides-1-49-okiminon:ingredient:prosphaton-okimon-3",
+      "ingredient_urn": "urn:aos:recipe-ingredient:dioscorides-1-49-okiminon:ingredient:prosphaton-okimon-3",
+      "source_span": "προσφάτου ὠκίμου",
+      "surface_form": "προσφάτου ὠκίμου",
+      "base_label": "ὤκιμον",
+      "normalized_label": "πρόσφατον ὤκιμον",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [
+        "dioscorides-1-49-okiminon:process:apobrechein-3",
+        "dioscorides-1-49-okiminon:process:apobrechein-9",
+        "dioscorides-1-49-okiminon:process:apobrechein-14",
+        "dioscorides-1-49-okiminon:process:epicheein-7",
+        "dioscorides-1-49-okiminon:process:epicheein-10",
+        "dioscorides-1-49-okiminon:process:ean-11",
+        "dioscorides-1-49-okiminon:process:ekthlibein-12",
+        "dioscorides-1-49-okiminon:process:emballein-15"
+      ],
+      "quantities": [
+        {
+          "source_span": "τὸ ἴσον",
+          "raw_number": null,
+          "normalized_number": "equal amount",
+          "raw_unit": null,
+          "normalized_unit": null,
+          "certainty": "uncertain",
+          "notes": [
+            "Relative to the earlier quantity of ὠκίμου."
+          ]
+        }
+      ],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "49",
+        "section": null,
+        "citation": {
+          "start": "46.10",
+          "end": "46.25"
+        }
+      }
+    }
+  ],
+  "processes": [
+    {
+      "process_id": "dioscorides-1-49-okiminon:process:eromatizein-1",
+      "process_urn": "urn:aos:recipe-process:dioscorides-1-49-okiminon:process:eromatizein-1",
+      "source_span": "ἠρωματισμένου",
+      "surface_form": "ἠρωματισμένου",
+      "normalized_label": "ἠρωματίζειν",
+      "target_type": "ingredient",
+      "target_ids": [
+        "dioscorides-1-49-okiminon:ingredient:elaion-eis-to-kyprinon-eromatismenon-1"
+      ],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "other",
+          "source_span": "εἰς τὸ κύπρινον",
+          "normalized_value": "εἰς τὸ κύπρινον",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "49",
+        "section": null,
+        "citation": {
+          "start": "46.10",
+          "end": "46.25"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-1-49-okiminon:process:apophyllizein-2",
+      "process_urn": "urn:aos:recipe-process:dioscorides-1-49-okiminon:process:apophyllizein-2",
+      "source_span": "ἀποφυλλίσας",
+      "surface_form": "ἀποφυλλίσας",
+      "normalized_label": "ἀποφυλλίζειν",
+      "target_type": "ingredient",
+      "target_ids": [
+        "dioscorides-1-49-okiminon:ingredient:okimon-2",
+        "dioscorides-1-49-okiminon:ingredient:prosphaton-okimon-3"
+      ],
+      "quantities": [],
+      "qualifiers": [],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "49",
+        "section": null,
+        "citation": {
+          "start": "46.10",
+          "end": "46.25"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-1-49-okiminon:process:apobrechein-3",
+      "process_urn": "urn:aos:recipe-process:dioscorides-1-49-okiminon:process:apobrechein-3",
+      "source_span": "ἀπόβρεχε",
+      "surface_form": "ἀπόβρεχε",
+      "normalized_label": "ἀποβρέχειν",
+      "target_type": "ingredient",
+      "target_ids": [
+        "dioscorides-1-49-okiminon:ingredient:okimon-2",
+        "dioscorides-1-49-okiminon:ingredient:prosphaton-okimon-3",
+        "dioscorides-1-49-okiminon:ingredient:elaion-eis-to-kyprinon-eromatismenon-1"
+      ],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "duration",
+          "source_span": "νύκτα καὶ ἡμέραν",
+          "normalized_value": "νύκτα καὶ ἡμέραν",
+          "certainty": "certain",
+          "notes": []
+        },
+        {
+          "qualifier_type": "location",
+          "source_span": "ἐν τῷ ἐλαίῳ",
+          "normalized_value": "ἐν τῷ ἐλαίῳ",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "49",
+        "section": null,
+        "citation": {
+          "start": "46.10",
+          "end": "46.25"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-1-49-okiminon:process:exipein-4",
+      "process_urn": "urn:aos:recipe-process:dioscorides-1-49-okiminon:process:exipein-4",
+      "source_span": "ἐξίπου",
+      "surface_form": "ἐξίπου",
+      "normalized_label": "ἐξιπεῖν",
+      "target_type": "ingredient",
+      "target_ids": [
+        "dioscorides-1-49-okiminon:ingredient:okimon-2",
+        "dioscorides-1-49-okiminon:ingredient:prosphaton-okimon-3",
+        "dioscorides-1-49-okiminon:ingredient:elaion-eis-to-kyprinon-eromatismenon-1"
+      ],
+      "quantities": [],
+      "qualifiers": [],
+      "certainty": "uncertain",
+      "notes": [
+        "The infinitive normalization of ἐξίπου is uncertain."
+      ],
+      "host_locator": {
+        "book": "1",
+        "chapter": "49",
+        "section": null,
+        "citation": {
+          "start": "46.10",
+          "end": "46.25"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-1-49-okiminon:process:apotithesthai-5",
+      "process_urn": "urn:aos:recipe-process:dioscorides-1-49-okiminon:process:apotithesthai-5",
+      "source_span": "ἀποτίθεσο",
+      "surface_form": "ἀποτίθεσο",
+      "normalized_label": "ἀποτίθεσθαι",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "49",
+        "section": null,
+        "citation": {
+          "start": "46.10",
+          "end": "46.25"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-1-49-okiminon:process:ekkenoyn-6",
+      "process_urn": "urn:aos:recipe-process:dioscorides-1-49-okiminon:process:ekkenoyn-6",
+      "source_span": "ἐκκενώσας",
+      "surface_form": "ἐκκενώσας",
+      "normalized_label": "ἐκκενοῦν",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "other",
+          "source_span": "τὸ ἀπὸ τῆς κυρτίδος",
+          "normalized_value": "τὸ ἀπὸ τῆς κυρτίδος",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "49",
+        "section": null,
+        "citation": {
+          "start": "46.10",
+          "end": "46.25"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-1-49-okiminon:process:epicheein-7",
+      "process_urn": "urn:aos:recipe-process:dioscorides-1-49-okiminon:process:epicheein-7",
+      "source_span": "ἐπίχει",
+      "surface_form": "ἐπίχει",
+      "normalized_label": "ἐπιχέειν",
+      "target_type": "ingredient",
+      "target_ids": [
+        "dioscorides-1-49-okiminon:ingredient:elaion-eis-to-kyprinon-eromatismenon-1"
+      ],
+      "quantities": [
+        {
+          "source_span": "τὸ ἴσον πλῆθος",
+          "raw_number": null,
+          "normalized_number": "equal amount",
+          "raw_unit": null,
+          "normalized_unit": null,
+          "certainty": "uncertain",
+          "notes": [
+            "Relative to the initial oil quantity."
+          ]
+        }
+      ],
+      "qualifiers": [
+        {
+          "qualifier_type": "manner",
+          "source_span": "πάλιν",
+          "normalized_value": "πάλιν",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "49",
+        "section": null,
+        "citation": {
+          "start": "46.10",
+          "end": "46.25"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-1-49-okiminon:process:exipein-8",
+      "process_urn": "urn:aos:recipe-process:dioscorides-1-49-okiminon:process:exipein-8",
+      "source_span": "ἐξίπου",
+      "surface_form": "ἐξίπου",
+      "normalized_label": "ἐξιπεῖν",
+      "target_type": "ingredient",
+      "target_ids": [
+        "dioscorides-1-49-okiminon:ingredient:elaion-eis-to-kyprinon-eromatismenon-1"
+      ],
+      "quantities": [],
+      "qualifiers": [],
+      "certainty": "uncertain",
+      "notes": [
+        "The infinitive normalization of ἐξίπου is uncertain."
+      ],
+      "host_locator": {
+        "book": "1",
+        "chapter": "49",
+        "section": null,
+        "citation": {
+          "start": "46.10",
+          "end": "46.25"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-1-49-okiminon:process:apobrechein-9",
+      "process_urn": "urn:aos:recipe-process:dioscorides-1-49-okiminon:process:apobrechein-9",
+      "source_span": "ἀπόβρεχε",
+      "surface_form": "ἀπόβρεχε",
+      "normalized_label": "ἀποβρέχειν",
+      "target_type": "ingredient",
+      "target_ids": [
+        "dioscorides-1-49-okiminon:ingredient:prosphaton-okimon-3",
+        "dioscorides-1-49-okiminon:ingredient:elaion-eis-to-kyprinon-eromatismenon-1"
+      ],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "other",
+          "source_span": "ὡς ἐπὶ τοῦ ῥοδίνου εἴρηται (I 43)",
+          "normalized_value": "ὡς ἐπὶ τοῦ ῥοδίνου εἴρηται",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "49",
+        "section": null,
+        "citation": {
+          "start": "46.10",
+          "end": "46.25"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-1-49-okiminon:process:epicheein-10",
+      "process_urn": "urn:aos:recipe-process:dioscorides-1-49-okiminon:process:epicheein-10",
+      "source_span": "ἐπιχέων",
+      "surface_form": "ἐπιχέων",
+      "normalized_label": "ἐπιχέειν",
+      "target_type": "ingredient",
+      "target_ids": [
+        "dioscorides-1-49-okiminon:ingredient:prosphaton-okimon-3"
+      ],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "other",
+          "source_span": "τὸ δὲ ἤδη ἀποβεβρεγμένον",
+          "normalized_value": "τὸ ἤδη ἀποβεβρεγμένον",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "49",
+        "section": null,
+        "citation": {
+          "start": "46.10",
+          "end": "46.25"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-1-49-okiminon:process:ean-11",
+      "process_urn": "urn:aos:recipe-process:dioscorides-1-49-okiminon:process:ean-11",
+      "source_span": "ἐῶν",
+      "surface_form": "ἐῶν",
+      "normalized_label": "ἐᾶν",
+      "target_type": "ingredient",
+      "target_ids": [
+        "dioscorides-1-49-okiminon:ingredient:prosphaton-okimon-3"
+      ],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "duration",
+          "source_span": "τὸν αὐτὸν χρόνον",
+          "normalized_value": "τὸν αὐτὸν χρόνον",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "49",
+        "section": null,
+        "citation": {
+          "start": "46.10",
+          "end": "46.25"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-1-49-okiminon:process:ekthlibein-12",
+      "process_urn": "urn:aos:recipe-process:dioscorides-1-49-okiminon:process:ekthlibein-12",
+      "source_span": "ἔκθλιβε",
+      "surface_form": "ἔκθλιβε",
+      "normalized_label": "ἐκθλίβειν",
+      "target_type": "ingredient",
+      "target_ids": [
+        "dioscorides-1-49-okiminon:ingredient:prosphaton-okimon-3"
+      ],
+      "quantities": [],
+      "qualifiers": [],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "49",
+        "section": null,
+        "citation": {
+          "start": "46.10",
+          "end": "46.25"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-1-49-okiminon:process:apotithesthai-13",
+      "process_urn": "urn:aos:recipe-process:dioscorides-1-49-okiminon:process:apotithesthai-13",
+      "source_span": "ἀποτίθεσο",
+      "surface_form": "ἀποτίθεσο",
+      "normalized_label": "ἀποτίθεσθαι",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "49",
+        "section": null,
+        "citation": {
+          "start": "46.10",
+          "end": "46.25"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-1-49-okiminon:process:apobrechein-14",
+      "process_urn": "urn:aos:recipe-process:dioscorides-1-49-okiminon:process:apobrechein-14",
+      "source_span": "ἀπόβρεχε",
+      "surface_form": "ἀπόβρεχε",
+      "normalized_label": "ἀποβρέχειν",
+      "target_type": "ingredient",
+      "target_ids": [
+        "dioscorides-1-49-okiminon:ingredient:prosphaton-okimon-3",
+        "dioscorides-1-49-okiminon:ingredient:elaion-eis-to-kyprinon-eromatismenon-1"
+      ],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "other",
+          "source_span": "τρὶς δὲ ἢ τετράκις",
+          "normalized_value": "3-4 times",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "49",
+        "section": null,
+        "citation": {
+          "start": "46.10",
+          "end": "46.25"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-1-49-okiminon:process:emballein-15",
+      "process_urn": "urn:aos:recipe-process:dioscorides-1-49-okiminon:process:emballein-15",
+      "source_span": "ἐμβάλλων",
+      "surface_form": "ἐμβάλλων",
+      "normalized_label": "ἐμβάλλειν",
+      "target_type": "ingredient",
+      "target_ids": [
+        "dioscorides-1-49-okiminon:ingredient:prosphaton-okimon-3"
+      ],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "manner",
+          "source_span": "πρόσφατον ἀεὶ",
+          "normalized_value": "πρόσφατον ἀεί",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "49",
+        "section": null,
+        "citation": {
+          "start": "46.10",
+          "end": "46.25"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-1-49-okiminon:process:skeyazesthai-16",
+      "process_urn": "urn:aos:recipe-process:dioscorides-1-49-okiminon:process:skeyazesthai-16",
+      "source_span": "σκευάζεσθαι",
+      "surface_form": "σκευάζεσθαι",
+      "normalized_label": "σκευάζεσθαι",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "other",
+          "source_span": "ἐκ τοῦ ὀμφοκίνου",
+          "normalized_value": "ἐκ τοῦ ὀμφοκίνου",
+          "certainty": "certain",
+          "notes": [
+            "Alternative preparation path."
+          ]
+        }
+      ],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "49",
+        "section": null,
+        "citation": {
+          "start": "46.10",
+          "end": "46.25"
+        }
+      }
+    }
+  ],
+  "materials": [
+    {
+      "material_id": "dioscorides-1-49-okiminon:material:kyrtis-1",
+      "material_urn": "urn:aos:recipe-material:dioscorides-1-49-okiminon:material:kyrtis-1",
+      "source_span": "τῆς κυρτίδος",
+      "surface_form": "τῆς κυρτίδος",
+      "normalized_label": "κυρτίς",
+      "role": "apparatus",
+      "certainty": "uncertain",
+      "quantities": [],
+      "qualifiers": [],
+      "notes": [
+        "Mentioned as the vessel or apparatus from which material is emptied."
+      ],
+      "host_locator": {
+        "book": "1",
+        "chapter": "49",
+        "section": null,
+        "citation": {
+          "start": "46.10",
+          "end": "46.25"
+        }
+      }
+    }
+  ],
+  "people": [],
+  "places": [],
+  "uses": [],
+  "preparation_names": [],
+  "other_preparations_mentioned": [
+    {
+      "reference_id": "dioscorides-1-49-okiminon:reference:kyprinon-1",
+      "reference_urn": "urn:aos:recipe-reference:dioscorides-1-49-okiminon:reference:kyprinon-1",
+      "source_span": "τὸ κύπρινον",
+      "surface_form": "τὸ κύπρινον",
+      "normalized_label": "κύπρινον",
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "49",
+        "section": null,
+        "citation": {
+          "start": "46.10",
+          "end": "46.25"
+        }
+      }
+    },
+    {
+      "reference_id": "dioscorides-1-49-okiminon:reference:rodinon-2",
+      "reference_urn": "urn:aos:recipe-reference:dioscorides-1-49-okiminon:reference:rodinon-2",
+      "source_span": "τοῦ ῥοδίνου",
+      "surface_form": "τοῦ ῥοδίνου",
+      "normalized_label": "ῥόδινον",
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "49",
+        "section": null,
+        "citation": {
+          "start": "46.10",
+          "end": "46.25"
+        }
+      }
+    },
+    {
+      "reference_id": "dioscorides-1-49-okiminon:reference:omphokinon-3",
+      "reference_urn": "urn:aos:recipe-reference:dioscorides-1-49-okiminon:reference:omphokinon-3",
+      "source_span": "τοῦ ὀμφοκίνου",
+      "surface_form": "τοῦ ὀμφοκίνου",
+      "normalized_label": "ὀμφοκίνον",
+      "certainty": "uncertain",
+      "notes": [
+        "Normalized from the oblique form in the passage."
+      ],
+      "host_locator": {
+        "book": "1",
+        "chapter": "49",
+        "section": null,
+        "citation": {
+          "start": "46.10",
+          "end": "46.25"
+        }
+      }
+    },
+    {
+      "reference_id": "dioscorides-1-49-okiminon:reference:sampsoychinon-4",
+      "reference_urn": "urn:aos:recipe-reference:dioscorides-1-49-okiminon:reference:sampsoychinon-4",
+      "source_span": "τῷ σαμψουχίνῳ",
+      "surface_form": "τῷ σαμψουχίνῳ",
+      "normalized_label": "σαμψούχινον",
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "49",
+        "section": null,
+        "citation": {
+          "start": "46.10",
+          "end": "46.25"
+        }
+      }
+    }
+  ],
+  "works_mentioned": [],
+  "entities": [
+    {
+      "entity_urn": "urn:aos:recipe-preparation:dioscorides-1-49-okiminon:preparation:okiminon",
+      "entity_type": "label",
+      "surface_form": "ὠκιμίνον",
+      "normalized_label": "ὠκιμῖνον"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:dioscorides-1-49-okiminon:ingredient:elaion-eis-to-kyprinon-eromatismenon-1",
+      "entity_type": "ingredient",
+      "surface_form": "ἐλαίου",
+      "normalized_label": "ἔλαιον εἰς τὸ κύπρινον ἠρωματισμένον"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:dioscorides-1-49-okiminon:ingredient:okimon-2",
+      "entity_type": "ingredient",
+      "surface_form": "ὠκίμου σταθμῷ λίτρας ἕνδεκα οὐγγίας ὀκτὼ",
+      "normalized_label": "ὤκιμον"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:dioscorides-1-49-okiminon:ingredient:prosphaton-okimon-3",
+      "entity_type": "ingredient",
+      "surface_form": "προσφάτου ὠκίμου",
+      "normalized_label": "πρόσφατον ὤκιμον"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-1-49-okiminon:process:eromatizein-1",
+      "entity_type": "process",
+      "surface_form": "ἠρωματισμένου",
+      "normalized_label": "ἠρωματίζειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-1-49-okiminon:process:apophyllizein-2",
+      "entity_type": "process",
+      "surface_form": "ἀποφυλλίσας",
+      "normalized_label": "ἀποφυλλίζειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-1-49-okiminon:process:apobrechein-3",
+      "entity_type": "process",
+      "surface_form": "ἀπόβρεχε",
+      "normalized_label": "ἀποβρέχειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-1-49-okiminon:process:exipein-4",
+      "entity_type": "process",
+      "surface_form": "ἐξίπου",
+      "normalized_label": "ἐξιπεῖν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-1-49-okiminon:process:apotithesthai-5",
+      "entity_type": "process",
+      "surface_form": "ἀποτίθεσο",
+      "normalized_label": "ἀποτίθεσθαι"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-1-49-okiminon:process:ekkenoyn-6",
+      "entity_type": "process",
+      "surface_form": "ἐκκενώσας",
+      "normalized_label": "ἐκκενοῦν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-1-49-okiminon:process:epicheein-7",
+      "entity_type": "process",
+      "surface_form": "ἐπίχει",
+      "normalized_label": "ἐπιχέειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-1-49-okiminon:process:exipein-8",
+      "entity_type": "process",
+      "surface_form": "ἐξίπου",
+      "normalized_label": "ἐξιπεῖν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-1-49-okiminon:process:apobrechein-9",
+      "entity_type": "process",
+      "surface_form": "ἀπόβρεχε",
+      "normalized_label": "ἀποβρέχειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-1-49-okiminon:process:epicheein-10",
+      "entity_type": "process",
+      "surface_form": "ἐπιχέων",
+      "normalized_label": "ἐπιχέειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-1-49-okiminon:process:ean-11",
+      "entity_type": "process",
+      "surface_form": "ἐῶν",
+      "normalized_label": "ἐᾶν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-1-49-okiminon:process:ekthlibein-12",
+      "entity_type": "process",
+      "surface_form": "ἔκθλιβε",
+      "normalized_label": "ἐκθλίβειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-1-49-okiminon:process:apotithesthai-13",
+      "entity_type": "process",
+      "surface_form": "ἀποτίθεσο",
+      "normalized_label": "ἀποτίθεσθαι"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-1-49-okiminon:process:apobrechein-14",
+      "entity_type": "process",
+      "surface_form": "ἀπόβρεχε",
+      "normalized_label": "ἀποβρέχειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-1-49-okiminon:process:emballein-15",
+      "entity_type": "process",
+      "surface_form": "ἐμβάλλων",
+      "normalized_label": "ἐμβάλλειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-1-49-okiminon:process:skeyazesthai-16",
+      "entity_type": "process",
+      "surface_form": "σκευάζεσθαι",
+      "normalized_label": "σκευάζεσθαι"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-material:dioscorides-1-49-okiminon:material:kyrtis-1",
+      "entity_type": "material",
+      "surface_form": "τῆς κυρτίδος",
+      "normalized_label": "κυρτίς"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-reference:dioscorides-1-49-okiminon:reference:kyprinon-1",
+      "entity_type": "preparation_reference",
+      "surface_form": "τὸ κύπρινον",
+      "normalized_label": "κύπρινον"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-reference:dioscorides-1-49-okiminon:reference:rodinon-2",
+      "entity_type": "preparation_reference",
+      "surface_form": "τοῦ ῥοδίνου",
+      "normalized_label": "ῥόδινον"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-reference:dioscorides-1-49-okiminon:reference:omphokinon-3",
+      "entity_type": "preparation_reference",
+      "surface_form": "τοῦ ὀμφοκίνου",
+      "normalized_label": "ὀμφοκίνον"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-reference:dioscorides-1-49-okiminon:reference:sampsoychinon-4",
+      "entity_type": "preparation_reference",
+      "surface_form": "τῷ σαμψουχίνῳ",
+      "normalized_label": "σαμψούχινον"
+    }
+  ]
+}

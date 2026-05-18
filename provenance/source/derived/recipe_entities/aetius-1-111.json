@@ -1,0 +1,582 @@
+{
+  "dataset_key": "aetius_book1_oils",
+  "source_json": "experiments/aetius-book1-ch99-136-oils/data/aetius_book1_ch99_136_oils.json",
+  "host_raw_file": "tei/raw/tlg0718001.xml",
+  "work_slug": "aetius.b1.oils",
+  "recipe_id": "aetius-1-111",
+  "recipe_urn": "urn:aos:recipe:aetius-1-111",
+  "record_urn": "urn:aos:recipe-record:aetius-1-111",
+  "author": "Aëtius of Amida",
+  "work": "Libri medicinales",
+  "book": "1",
+  "chapter": "111",
+  "section": "111",
+  "chapter_name": "Οἰνάνθινον",
+  "lemma": "Οἰνάνθινον",
+  "text": "Οἰνάνθινον τὰ αὐτὰ δρᾷ τῷ μηλίνῳ καὶ τῷ ῥοδίνῳ, ἐκτὸς τοῦ τὴν κοιλίαν μαλάσσειν. συντίθεται δὲ τὸν τρόπον τοῦτον· οἰνάνθην ἀμπέλου ἀγγεῖον σὺν ἐλαίῳ ὀμφακίνῳ καὶ κίνει καθ’ ἑκάστην ἐπὶ ἡμέρας μ καὶ διηθήσας χρῶ. ἔστω δὲ τῆς μὲν οἰνάνθης 𐆄 α, τοῦ δὲ ἐλαίου Χ α.",
+  "original_text": "Οἰνάνθινον τὰ αὐτὰ δρᾷ τῷ μηλίνῳ καὶ τῷ ῥοδίνῳ, ἐκτὸς τοῦ τὴν κοιλίαν μαλάσσειν. συντίθεται δὲ τὸν τρόπον τοῦτον· οἰνάνθην ἀμπέλου τὴν εὐώδη λαβὼν καὶ ἐάσας μαρανθῆναι, βάλλε εἰς καινὸν ἀγγεῖον σὺν ἐλαίῳ ὀμφακίνῳ καὶ κίνει καθ' ἑκάστην ἐπὶ ἡμέρας μ καὶ διηθήσας χρῶ. ἔστω δὲ τῆς μὲν οἰνάνθης 𐆄 β, τοῦ δὲ ἐλαίου × α.",
+  "text_source": "emended",
+  "emendations": [
+    {
+      "locus": "[57.11]",
+      "start_citation": "57.11",
+      "end_citation": "57.11",
+      "operation": "replace",
+      "olivieri_text": "β",
+      "adopted_text": "α",
+      "proposal_author": "Irene Cala",
+      "decision": "accepted",
+      "note": "after οἰνάνθης Γ"
+    }
+  ],
+  "emendation_count": 1,
+  "source_kind": null,
+  "entry_kind": "recipe",
+  "citation": {
+    "pages": [
+      "57"
+    ],
+    "start": {
+      "page": "57",
+      "line": "7",
+      "xml_id": "oliv-57-7"
+    },
+    "end": {
+      "page": "57",
+      "line": "11",
+      "xml_id": "oliv-57-11"
+    },
+    "citation": {
+      "start": "57.7",
+      "end": "57.11"
+    },
+    "page_spans": [
+      {
+        "page": "57",
+        "start_line": "7",
+        "end_line": "11"
+      }
+    ],
+    "lines": [
+      {
+        "page": "57",
+        "line": "7",
+        "xml_id": "oliv-57-7",
+        "break_no": false,
+        "text": "Οἰνάνθινον τὰ αὐτὰ δρᾷ τῷ μηλίνῳ καὶ τῷ ῥοδίνῳ, ἐκτὸς τοῦ",
+        "citation": "57.7"
+      },
+      {
+        "page": "57",
+        "line": "8",
+        "xml_id": "oliv-57-8",
+        "break_no": false,
+        "text": "τὴν κοιλίαν μαλάσσειν. συντίθεται δὲ τὸν τρόπον τοῦτον· οἰνάνθην",
+        "citation": "57.8"
+      },
+      {
+        "page": "57",
+        "line": "9",
+        "xml_id": "oliv-57-9",
+        "break_no": false,
+        "text": "ἀμπέλου τὴν εὐώδη λαβὼν καὶ ἐάσας μαρανθῆναι, βάλλε εἰς καινὸν",
+        "citation": "57.9"
+      },
+      {
+        "page": "57",
+        "line": "10",
+        "xml_id": "oliv-57-10",
+        "break_no": false,
+        "text": "ἀγγεῖον σὺν ἐλαίῳ ὀμφακίνῳ καὶ κίνει καθ' ἑκάστην ἐπὶ ἡμέρας μ",
+        "citation": "57.10"
+      },
+      {
+        "page": "57",
+        "line": "11",
+        "xml_id": "oliv-57-11",
+        "break_no": false,
+        "text": "καὶ διηθήσας χρῶ. ἔστω δὲ τῆς μὲν οἰνάνθης 𐆄 β, τοῦ δὲ ἐλαίου × α.",
+        "citation": "57.11"
+      }
+    ],
+    "edition_key": "olivieri"
+  },
+  "notes": [],
+  "alignment_status": "pending",
+  "alignment_confidence": "pending",
+  "alignment_evidence": null,
+  "review_status": "reviewed_structured_authority",
+  "review_provenance": {
+    "authority_source": "reports/entity_review/structured/aetius_book1.json",
+    "authority_recipe_id": "aetius-1-111",
+    "authority_lemma": "Οἰνάνθινον",
+    "model": "gpt-5.4",
+    "reasoning_effort": "high",
+    "dataset_key": "aetius_book1_oils",
+    "entity_model_version": "1.2",
+    "authority_version": "2026-04-13-qty-alt-v1",
+    "prompt_version": "qty-alt-pass-v1",
+    "build_version": "2026-05-18T15:51:35Z"
+  },
+  "schema_version": "1.2",
+  "build_metadata": {
+    "builder": "scripts/recipes/build_recipe_entities.py",
+    "built_at": "2026-05-18T15:51:35Z",
+    "source_structured_authority": "reports/entity_review/structured/aetius_book1.json",
+    "authority_model": "gpt-5.4",
+    "authority_reasoning_effort": "high",
+    "dataset_key": "aetius_book1_oils",
+    "entity_model_version": "1.2",
+    "authority_version": "2026-04-13-qty-alt-v1",
+    "prompt_version": "qty-alt-pass-v1",
+    "build_version": "2026-05-18T15:51:35Z"
+  },
+  "recipe_text_excerpt": "Οἰνάνθινον τὰ αὐτὰ δρᾷ τῷ μηλίνῳ καὶ τῷ ῥοδίνῳ, ἐκτὸς τοῦ τὴν κοιλίαν μαλάσσειν. συντίθεται δὲ τὸν τρόπον τοῦτον· οἰνάνθην",
+  "preparation": {
+    "preparation_id": "aetius-1-111:preparation:oinanthinon",
+    "preparation_urn": "urn:aos:recipe-preparation:aetius-1-111:preparation:oinanthinon",
+    "source_span": "Οἰνάνθινον",
+    "surface_form": "Οἰνάνθινον",
+    "normalized_label": "Οἰνάνθινον",
+    "qualifiers": [],
+    "regimen_notes": [],
+    "certainty": "certain",
+    "notes": [],
+    "host_locator": {
+      "book": "1",
+      "chapter": "111",
+      "section": "111",
+      "citation": {
+        "start": "57.7",
+        "end": "57.11"
+      }
+    }
+  },
+  "ingredients": [
+    {
+      "ingredient_id": "aetius-1-111:ingredient:oinanthe-ampeloy-eyodes-1",
+      "ingredient_urn": "urn:aos:recipe-ingredient:aetius-1-111:ingredient:oinanthe-ampeloy-eyodes-1",
+      "source_span": "οἰνάνθην ἀμπέλου τὴν εὐώδη",
+      "surface_form": "οἰνάνθην ἀμπέλου τὴν εὐώδη",
+      "base_label": "οἰνάνθη",
+      "normalized_label": "οἰνάνθη ἀμπέλου εὐώδης",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [
+        "aetius-1-111:process:lambanein-1",
+        "aetius-1-111:process:marainesthai-2",
+        "aetius-1-111:process:emballein-3"
+      ],
+      "quantities": [
+        {
+          "source_span": "𐆄 α",
+          "raw_number": "α",
+          "normalized_number": 1,
+          "raw_unit": "𐆄",
+          "normalized_unit": "uncia",
+          "certainty": "uncertain",
+          "notes": [
+            "Unit sign unresolved."
+          ]
+        }
+      ],
+      "qualifiers": [
+        {
+          "qualifier_type": "other",
+          "source_span": "τὴν εὐώδη",
+          "normalized_value": "εὐώδης",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "111",
+        "section": "111",
+        "citation": {
+          "start": "57.7",
+          "end": "57.11"
+        }
+      }
+    },
+    {
+      "ingredient_id": "aetius-1-111:ingredient:elaion-omphakinon-2",
+      "ingredient_urn": "urn:aos:recipe-ingredient:aetius-1-111:ingredient:elaion-omphakinon-2",
+      "source_span": "ἐλαίῳ ὀμφακίνῳ",
+      "surface_form": "ἐλαίῳ ὀμφακίνῳ",
+      "base_label": "ἔλαιον",
+      "normalized_label": "ἔλαιον ὀμφάκινον",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [
+        "aetius-1-111:process:emballein-3"
+      ],
+      "quantities": [
+        {
+          "source_span": "Χ α",
+          "raw_number": "α",
+          "normalized_number": 1,
+          "raw_unit": "Χ",
+          "normalized_unit": "chous",
+          "certainty": "uncertain",
+          "notes": [
+            "Uppercase Χ is treated here as chous."
+          ]
+        }
+      ],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "111",
+        "section": "111",
+        "citation": {
+          "start": "57.7",
+          "end": "57.11"
+        }
+      }
+    }
+  ],
+  "processes": [
+    {
+      "process_id": "aetius-1-111:process:lambanein-1",
+      "process_urn": "urn:aos:recipe-process:aetius-1-111:process:lambanein-1",
+      "source_span": "λαβὼν",
+      "surface_form": "λαβὼν",
+      "normalized_label": "λαμβάνειν",
+      "target_type": "ingredient",
+      "target_ids": [
+        "aetius-1-111:ingredient:oinanthe-ampeloy-eyodes-1"
+      ],
+      "quantities": [],
+      "qualifiers": [],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "111",
+        "section": "111",
+        "citation": {
+          "start": "57.7",
+          "end": "57.11"
+        }
+      }
+    },
+    {
+      "process_id": "aetius-1-111:process:marainesthai-2",
+      "process_urn": "urn:aos:recipe-process:aetius-1-111:process:marainesthai-2",
+      "source_span": "μαρανθῆναι",
+      "surface_form": "μαρανθῆναι",
+      "normalized_label": "μαραίνεσθαι",
+      "target_type": "ingredient",
+      "target_ids": [
+        "aetius-1-111:ingredient:oinanthe-ampeloy-eyodes-1"
+      ],
+      "quantities": [],
+      "qualifiers": [],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "111",
+        "section": "111",
+        "citation": {
+          "start": "57.7",
+          "end": "57.11"
+        }
+      }
+    },
+    {
+      "process_id": "aetius-1-111:process:emballein-3",
+      "process_urn": "urn:aos:recipe-process:aetius-1-111:process:emballein-3",
+      "source_span": "βάλλε",
+      "surface_form": "βάλλε",
+      "normalized_label": "ἐμβάλλειν",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "location",
+          "source_span": "εἰς καινὸν ἀγγεῖον",
+          "normalized_value": "εἰς καινὸν ἀγγεῖον",
+          "certainty": "certain",
+          "notes": []
+        },
+        {
+          "qualifier_type": "manner",
+          "source_span": "σὺν ἐλαίῳ ὀμφακίνῳ",
+          "normalized_value": "σὺν ἐλαίῳ ὀμφακινίῳ",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "111",
+        "section": "111",
+        "citation": {
+          "start": "57.7",
+          "end": "57.11"
+        }
+      }
+    },
+    {
+      "process_id": "aetius-1-111:process:kinein-4",
+      "process_urn": "urn:aos:recipe-process:aetius-1-111:process:kinein-4",
+      "source_span": "κίνει",
+      "surface_form": "κίνει",
+      "normalized_label": "κινεῖν",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "other",
+          "source_span": "καθ' ἑκάστην",
+          "normalized_value": "καθ' ἑκάστην",
+          "certainty": "certain",
+          "notes": [
+            "Frequency implied."
+          ]
+        },
+        {
+          "qualifier_type": "duration",
+          "source_span": "ἐπὶ ἡμέρας μ",
+          "normalized_value": "40 ἡμέραι",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "111",
+        "section": "111",
+        "citation": {
+          "start": "57.7",
+          "end": "57.11"
+        }
+      }
+    },
+    {
+      "process_id": "aetius-1-111:process:diethein-5",
+      "process_urn": "urn:aos:recipe-process:aetius-1-111:process:diethein-5",
+      "source_span": "διηθήσας",
+      "surface_form": "διηθήσας",
+      "normalized_label": "διηθεῖν",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "111",
+        "section": "111",
+        "citation": {
+          "start": "57.7",
+          "end": "57.11"
+        }
+      }
+    },
+    {
+      "process_id": "aetius-1-111:process:chrasthai-6",
+      "process_urn": "urn:aos:recipe-process:aetius-1-111:process:chrasthai-6",
+      "source_span": "χρῶ",
+      "surface_form": "χρῶ",
+      "normalized_label": "χρᾶσθαι",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "111",
+        "section": "111",
+        "citation": {
+          "start": "57.7",
+          "end": "57.11"
+        }
+      }
+    }
+  ],
+  "materials": [
+    {
+      "material_id": "aetius-1-111:material:aggeion-1",
+      "material_urn": "urn:aos:recipe-material:aetius-1-111:material:aggeion-1",
+      "source_span": "καινὸν ἀγγεῖον",
+      "surface_form": "καινὸν ἀγγεῖον",
+      "normalized_label": "ἀγγεῖον",
+      "role": "apparatus",
+      "certainty": "certain",
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "other",
+          "source_span": "καινὸν",
+          "normalized_value": "καινόν",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "111",
+        "section": "111",
+        "citation": {
+          "start": "57.7",
+          "end": "57.11"
+        }
+      }
+    }
+  ],
+  "people": [],
+  "places": [],
+  "uses": [
+    {
+      "use_id": "aetius-1-111:use:ta-ayta-dra-to-melino-kai-to-rodino-ektos-toy-ten-koilian-malassein-1",
+      "use_urn": "urn:aos:recipe-use:aetius-1-111:use:ta-ayta-dra-to-melino-kai-to-rodino-ektos-toy-ten-koilian-malassein-1",
+      "category": "medical",
+      "source_span": "τὰ αὐτὰ δρᾷ τῷ μηλίνῳ καὶ τῷ ῥοδίνῳ, ἐκτὸς τοῦ τὴν κοιλίαν μαλάσσειν",
+      "snippet": "τὰ αὐτὰ δρᾷ τῷ μηλίνῳ καὶ τῷ ῥοδίνῳ, ἐκτὸς τοῦ τὴν κοιλίαν μαλάσσειν",
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "111",
+        "section": "111",
+        "citation": {
+          "start": "57.7",
+          "end": "57.11"
+        }
+      }
+    }
+  ],
+  "preparation_names": [],
+  "other_preparations_mentioned": [
+    {
+      "reference_id": "aetius-1-111:reference:melinon-1",
+      "reference_urn": "urn:aos:recipe-reference:aetius-1-111:reference:melinon-1",
+      "source_span": "τῷ μηλίνῳ",
+      "surface_form": "τῷ μηλίνῳ",
+      "normalized_label": "μηλίνον",
+      "certainty": "uncertain",
+      "notes": [
+        "Normalized from an oblique-case mention."
+      ],
+      "host_locator": {
+        "book": "1",
+        "chapter": "111",
+        "section": "111",
+        "citation": {
+          "start": "57.7",
+          "end": "57.11"
+        }
+      }
+    },
+    {
+      "reference_id": "aetius-1-111:reference:rodinon-2",
+      "reference_urn": "urn:aos:recipe-reference:aetius-1-111:reference:rodinon-2",
+      "source_span": "τῷ ῥοδίνῳ",
+      "surface_form": "τῷ ῥοδίνῳ",
+      "normalized_label": "ῥόδινον",
+      "certainty": "uncertain",
+      "notes": [
+        "Normalized from an oblique-case mention."
+      ],
+      "host_locator": {
+        "book": "1",
+        "chapter": "111",
+        "section": "111",
+        "citation": {
+          "start": "57.7",
+          "end": "57.11"
+        }
+      }
+    }
+  ],
+  "works_mentioned": [],
+  "entities": [
+    {
+      "entity_urn": "urn:aos:recipe-preparation:aetius-1-111:preparation:oinanthinon",
+      "entity_type": "label",
+      "surface_form": "Οἰνάνθινον",
+      "normalized_label": "Οἰνάνθινον"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:aetius-1-111:ingredient:oinanthe-ampeloy-eyodes-1",
+      "entity_type": "ingredient",
+      "surface_form": "οἰνάνθην ἀμπέλου τὴν εὐώδη",
+      "normalized_label": "οἰνάνθη ἀμπέλου εὐώδης"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:aetius-1-111:ingredient:elaion-omphakinon-2",
+      "entity_type": "ingredient",
+      "surface_form": "ἐλαίῳ ὀμφακίνῳ",
+      "normalized_label": "ἔλαιον ὀμφάκινον"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:aetius-1-111:process:lambanein-1",
+      "entity_type": "process",
+      "surface_form": "λαβὼν",
+      "normalized_label": "λαμβάνειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:aetius-1-111:process:marainesthai-2",
+      "entity_type": "process",
+      "surface_form": "μαρανθῆναι",
+      "normalized_label": "μαραίνεσθαι"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:aetius-1-111:process:emballein-3",
+      "entity_type": "process",
+      "surface_form": "βάλλε",
+      "normalized_label": "ἐμβάλλειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:aetius-1-111:process:kinein-4",
+      "entity_type": "process",
+      "surface_form": "κίνει",
+      "normalized_label": "κινεῖν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:aetius-1-111:process:diethein-5",
+      "entity_type": "process",
+      "surface_form": "διηθήσας",
+      "normalized_label": "διηθεῖν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:aetius-1-111:process:chrasthai-6",
+      "entity_type": "process",
+      "surface_form": "χρῶ",
+      "normalized_label": "χρᾶσθαι"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-material:aetius-1-111:material:aggeion-1",
+      "entity_type": "material",
+      "surface_form": "καινὸν ἀγγεῖον",
+      "normalized_label": "ἀγγεῖον"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-reference:aetius-1-111:reference:melinon-1",
+      "entity_type": "preparation_reference",
+      "surface_form": "τῷ μηλίνῳ",
+      "normalized_label": "μηλίνον"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-reference:aetius-1-111:reference:rodinon-2",
+      "entity_type": "preparation_reference",
+      "surface_form": "τῷ ῥοδίνῳ",
+      "normalized_label": "ῥόδινον"
+    }
+  ]
+}

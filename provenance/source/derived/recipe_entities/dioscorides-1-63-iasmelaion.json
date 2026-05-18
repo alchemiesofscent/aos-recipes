@@ -1,0 +1,494 @@
+{
+  "dataset_key": "dioscorides_book1_perfumes_resins",
+  "source_json": "experiments/dioscorides-book1-perfumes-resins/data/dioscorides_book1_perfumes_resins.json",
+  "host_raw_file": "tei/raw/tlg0656.tlg001.1st1K-grc1.xml",
+  "work_slug": "diosc.b1.recipes",
+  "recipe_id": "dioscorides-1-63-iasmelaion",
+  "recipe_urn": "urn:aos:recipe:dioscorides-1-63-iasmelaion",
+  "record_urn": "urn:aos:recipe-record:dioscorides-1-63-iasmelaion",
+  "author": "Dioscorides",
+  "work": "De materia medica",
+  "book": "1",
+  "chapter": "63",
+  "section": "apparatus",
+  "chapter_name": "μαλαβάθρινον",
+  "lemma": "ἰασμέλαιον",
+  "text": "ἡ δὲ καλουμένη ἰάσμη παρὰ Πέρσαις σκευάζεται ἐκ τῶν ἀνθῶν τῶν λευκῶν τοῦ ἰοῦ, τούτων οὐγγίων β΄ ἐμβαλλομένων Ἰταλικῷ ξέστῃ σησαμίνου ἐλαίου καὶ ἀμειβομένων ἤγουν ἀλλασσομένων ὡς ἐπὶ τοῦ κρινίνου εἴρηται. ἡ δὲ τούτου χρῆσις παρὰ τὰς ἑστιάσεις εὐωδίας ἕνεκα παρὰ Πέρσαις παραλαμβάνεται. ἁρμόζει δὲ καὶ ὅλῳ τῷ σώματι κατὰ τὰ λουτρὰ ἐπὶ τῶι θερμασίας καὶ χαλάσεως δεομένων σωμάτων. βαρυτέραν δὲ ἔχει τὴν εὐωδίαν, ὡς πολλοὺς αὐτῆς μηδὲ (μή p) ἡδέως ἀντιλαμβάνεσθαι",
+  "original_text": null,
+  "text_source": null,
+  "emendations": [],
+  "emendation_count": 0,
+  "source_kind": "apparatus_other_recension",
+  "entry_kind": "recipe",
+  "citation": {
+    "pages": [
+      "57"
+    ],
+    "start": {
+      "page": "57",
+      "line": "5"
+    },
+    "end": {
+      "page": "57",
+      "line": "5"
+    },
+    "citation": {
+      "start": "57.5",
+      "end": "57.5"
+    },
+    "page_spans": [
+      {
+        "page": "57",
+        "start_line": "5",
+        "end_line": "5"
+      }
+    ],
+    "lines": [
+      {
+        "page": "57",
+        "line": "5",
+        "break_no": false,
+        "text": "ἡ δὲ καλουμένη ἰάσμη παρὰ Πέρσαις σκευάζεται ἐκ τῶν ἀνθῶν τῶν λευκῶν τοῦ ἰοῦ, τούτων οὐγγίων β΄ ἐμβαλλομένων Ἰταλικῷ ξέστῃ σησαμίνου ἐλαίου καὶ ἀμειβομένων ἤγουν ἀλλασσομένων ὡς ἐπὶ τοῦ κρινίνου εἴρηται. ἡ δὲ τούτου χρῆσις παρὰ τὰς ἑστιάσεις εὐωδίας ἕνεκα παρὰ Πέρσαις παραλαμβάνεται. ἁρμόζει δὲ καὶ ὅλῳ τῷ σώματι κατὰ τὰ λουτρὰ ἐπὶ τῶι θερμασίας καὶ χαλάσεως δεομένων σωμάτων. βαρυτέραν δὲ ἔχει τὴν εὐωδίαν, ὡς πολλοὺς αὐτῆς μηδὲ (μή p) ἡδέως ἀντιλαμβάνεσθαι",
+        "citation": "57.5"
+      }
+    ],
+    "edition_key": "wellmann"
+  },
+  "notes": [
+    "Raw lines 1590-1633 are book 1 chapter 25 in this witness, although the prompt referred to chapter 35.",
+    "The perfume proemium is taken from the later transition at chapter 42 section 2 (raw lines 2306-2342), not from the chapter 25 κῦφι entry.",
+    "The ἰασμέλαιον entry is preserved only in the apparatus as an addition from another recension.",
+    "Preserved only in the apparatus as an addition from another recension; not part of the main-text flow of this witness.",
+    "βαρυτέραν δὲ ἔχει τὴν εὐωδίαν, ὡς πολλοὺς αὐτῆς μηδὲ ἡδέως ἀντιλαμβάνεσθαι"
+  ],
+  "alignment_status": "pending",
+  "alignment_confidence": "pending",
+  "alignment_evidence": null,
+  "review_status": "reviewed_structured_authority",
+  "review_provenance": {
+    "authority_source": "reports/entity_review/structured/dioscorides.json",
+    "authority_recipe_id": "dioscorides-1-63-iasmelaion",
+    "authority_lemma": "ἰασμέλαιον",
+    "model": "gpt-5.4",
+    "reasoning_effort": "high",
+    "dataset_key": "dioscorides_book1_perfumes_resins",
+    "entity_model_version": "1.2",
+    "authority_version": "2026-04-13-qty-alt-v1",
+    "prompt_version": "qty-alt-pass-v1",
+    "build_version": "2026-05-18T15:51:35Z"
+  },
+  "schema_version": "1.2",
+  "build_metadata": {
+    "builder": "scripts/recipes/build_recipe_entities.py",
+    "built_at": "2026-05-18T15:51:35Z",
+    "source_structured_authority": "reports/entity_review/structured/dioscorides.json",
+    "authority_model": "gpt-5.4",
+    "authority_reasoning_effort": "high",
+    "dataset_key": "dioscorides_book1_perfumes_resins",
+    "entity_model_version": "1.2",
+    "authority_version": "2026-04-13-qty-alt-v1",
+    "prompt_version": "qty-alt-pass-v1",
+    "build_version": "2026-05-18T15:51:35Z"
+  },
+  "recipe_text_excerpt": "ἡ δὲ καλουμένη ἰάσμη παρὰ Πέρσαις σκευάζεται ἐκ τῶν ἀνθῶν τῶν λευκῶν τοῦ ἰοῦ, τούτων οὐγγίων β΄ ἐμβαλλομένων Ἰταλικῷ ξέστῃ",
+  "preparation": {
+    "preparation_id": "dioscorides-1-63-iasmelaion:preparation:iasmelaion",
+    "preparation_urn": "urn:aos:recipe-preparation:dioscorides-1-63-iasmelaion:preparation:iasmelaion",
+    "source_span": "ἰασμέλαιον",
+    "surface_form": "ἰασμέλαιον",
+    "normalized_label": "ἰασμέλαιον",
+    "qualifiers": [],
+    "regimen_notes": [
+      {
+        "source_span": "ἀμειβομένων ἤγουν ἀλλασσομένων ὡς ἐπὶ τοῦ κρινίνου εἴρηται",
+        "normalized_note": "τὰ ἄνθη ἀμείβεται/ἀλλάσσεται καθάπερ ἐπὶ τοῦ κρινίνου",
+        "certainty": "certain",
+        "notes": [
+          "Treated as a recipe-level method note because the passage generalizes the flower-changing procedure for this preparation."
+        ]
+      }
+    ],
+    "certainty": "certain",
+    "notes": [
+      "Used lemma as the preparation label because the running text restates only the alternative name ἰάσμη."
+    ],
+    "host_locator": {
+      "book": "1",
+      "chapter": "63",
+      "section": "apparatus",
+      "citation": {
+        "start": "57.5",
+        "end": "57.5"
+      }
+    }
+  },
+  "ingredients": [
+    {
+      "ingredient_id": "dioscorides-1-63-iasmelaion:ingredient:leyka-anthe-ioy-1",
+      "ingredient_urn": "urn:aos:recipe-ingredient:dioscorides-1-63-iasmelaion:ingredient:leyka-anthe-ioy-1",
+      "source_span": "τῶν ἀνθῶν τῶν λευκῶν τοῦ ἰοῦ, τούτων οὐγγίων β΄ ἐμβαλλομένων",
+      "surface_form": "τῶν ἀνθῶν τῶν λευκῶν τοῦ ἰοῦ, τούτων οὐγγίων β΄ ἐμβαλλομένων",
+      "base_label": "ἄνθος",
+      "normalized_label": "λευκὰ ἄνθη ἰοῦ",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [
+        "dioscorides-1-63-iasmelaion:process:emballein-2",
+        "dioscorides-1-63-iasmelaion:process:ameibein-3",
+        "dioscorides-1-63-iasmelaion:process:allassein-4"
+      ],
+      "quantities": [
+        {
+          "source_span": "οὐγγίων β΄",
+          "raw_number": "β΄",
+          "normalized_number": 2,
+          "raw_unit": "οὐγγίων",
+          "normalized_unit": "uncia",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "63",
+        "section": "apparatus",
+        "citation": {
+          "start": "57.5",
+          "end": "57.5"
+        }
+      }
+    }
+  ],
+  "processes": [
+    {
+      "process_id": "dioscorides-1-63-iasmelaion:process:skeyazein-1",
+      "process_urn": "urn:aos:recipe-process:dioscorides-1-63-iasmelaion:process:skeyazein-1",
+      "source_span": "σκευάζεται",
+      "surface_form": "σκευάζεται",
+      "normalized_label": "σκευάζειν",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "other",
+          "source_span": "ἐκ τῶν ἀνθῶν τῶν λευκῶν τοῦ ἰοῦ",
+          "normalized_value": null,
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "63",
+        "section": "apparatus",
+        "citation": {
+          "start": "57.5",
+          "end": "57.5"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-1-63-iasmelaion:process:emballein-2",
+      "process_urn": "urn:aos:recipe-process:dioscorides-1-63-iasmelaion:process:emballein-2",
+      "source_span": "ἐμβαλλομένων",
+      "surface_form": "ἐμβαλλομένων",
+      "normalized_label": "ἐμβάλλειν",
+      "target_type": "ingredient",
+      "target_ids": [
+        "dioscorides-1-63-iasmelaion:ingredient:leyka-anthe-ioy-1"
+      ],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "location",
+          "source_span": "Ἰταλικῷ ξέστῃ σησαμίνου ἐλαίου",
+          "normalized_value": null,
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "63",
+        "section": "apparatus",
+        "citation": {
+          "start": "57.5",
+          "end": "57.5"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-1-63-iasmelaion:process:ameibein-3",
+      "process_urn": "urn:aos:recipe-process:dioscorides-1-63-iasmelaion:process:ameibein-3",
+      "source_span": "ἀμειβομένων",
+      "surface_form": "ἀμειβομένων",
+      "normalized_label": "ἀμείβειν",
+      "target_type": "ingredient",
+      "target_ids": [
+        "dioscorides-1-63-iasmelaion:ingredient:leyka-anthe-ioy-1"
+      ],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "manner",
+          "source_span": "ὡς ἐπὶ τοῦ κρινίνου εἴρηται",
+          "normalized_value": null,
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "63",
+        "section": "apparatus",
+        "citation": {
+          "start": "57.5",
+          "end": "57.5"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-1-63-iasmelaion:process:allassein-4",
+      "process_urn": "urn:aos:recipe-process:dioscorides-1-63-iasmelaion:process:allassein-4",
+      "source_span": "ἀλλασσομένων",
+      "surface_form": "ἀλλασσομένων",
+      "normalized_label": "ἀλλάσσειν",
+      "target_type": "ingredient",
+      "target_ids": [
+        "dioscorides-1-63-iasmelaion:ingredient:leyka-anthe-ioy-1"
+      ],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "manner",
+          "source_span": "ὡς ἐπὶ τοῦ κρινίνου εἴρηται",
+          "normalized_value": null,
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "63",
+        "section": "apparatus",
+        "citation": {
+          "start": "57.5",
+          "end": "57.5"
+        }
+      }
+    }
+  ],
+  "materials": [
+    {
+      "material_id": "dioscorides-1-63-iasmelaion:material:sesaminon-elaion-1",
+      "material_urn": "urn:aos:recipe-material:dioscorides-1-63-iasmelaion:material:sesaminon-elaion-1",
+      "source_span": "Ἰταλικῷ ξέστῃ σησαμίνου ἐλαίου",
+      "surface_form": "Ἰταλικῷ ξέστῃ σησαμίνου ἐλαίου",
+      "normalized_label": "σησάμινον ἔλαιον",
+      "role": "carrier",
+      "certainty": "certain",
+      "quantities": [
+        {
+          "source_span": "Ἰταλικῷ ξέστῃ",
+          "raw_number": null,
+          "normalized_number": 1,
+          "raw_unit": "Ἰταλικῷ ξέστῃ",
+          "normalized_unit": "xestes",
+          "certainty": "uncertain",
+          "notes": [
+            "Quantity one inferred from singular unit."
+          ]
+        }
+      ],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "63",
+        "section": "apparatus",
+        "citation": {
+          "start": "57.5",
+          "end": "57.5"
+        }
+      }
+    }
+  ],
+  "people": [
+    {
+      "person_id": "dioscorides-1-63-iasmelaion:person:persai-1",
+      "person_urn": "urn:aos:recipe-person:dioscorides-1-63-iasmelaion:person:persai-1",
+      "source_span": "Πέρσαις",
+      "surface_form": "Πέρσαις",
+      "normalized_label": "Πέρσαι",
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "63",
+        "section": "apparatus",
+        "citation": {
+          "start": "57.5",
+          "end": "57.5"
+        }
+      }
+    }
+  ],
+  "places": [],
+  "uses": [
+    {
+      "use_id": "dioscorides-1-63-iasmelaion:use:e-de-toytoy-chresis-para-tas-estiaseis-eyodias-eneka-para-persais-paralambanetai-1",
+      "use_urn": "urn:aos:recipe-use:dioscorides-1-63-iasmelaion:use:e-de-toytoy-chresis-para-tas-estiaseis-eyodias-eneka-para-persais-paralambanetai-1",
+      "category": "other",
+      "source_span": "ἡ δὲ τούτου χρῆσις παρὰ τὰς ἑστιάσεις εὐωδίας ἕνεκα παρὰ Πέρσαις παραλαμβάνεται",
+      "snippet": "παρὰ τὰς ἑστιάσεις εὐωδίας ἕνεκα",
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "63",
+        "section": "apparatus",
+        "citation": {
+          "start": "57.5",
+          "end": "57.5"
+        }
+      }
+    },
+    {
+      "use_id": "dioscorides-1-63-iasmelaion:use:armozei-de-kai-olo-to-somati-kata-ta-loytra-epi-toi-thermasias-kai-chalaseos-deomenon-somaton-2",
+      "use_urn": "urn:aos:recipe-use:dioscorides-1-63-iasmelaion:use:armozei-de-kai-olo-to-somati-kata-ta-loytra-epi-toi-thermasias-kai-chalaseos-deomenon-somaton-2",
+      "category": "medical",
+      "source_span": "ἁρμόζει δὲ καὶ ὅλῳ τῷ σώματι κατὰ τὰ λουτρὰ ἐπὶ τῶι θερμασίας καὶ χαλάσεως δεομένων σωμάτων",
+      "snippet": "ὅλῳ τῷ σώματι κατὰ τὰ λουτρὰ ἐπὶ τῶι θερμασίας καὶ χαλάσεως δεομένων σωμάτων",
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "63",
+        "section": "apparatus",
+        "citation": {
+          "start": "57.5",
+          "end": "57.5"
+        }
+      }
+    }
+  ],
+  "preparation_names": [
+    {
+      "preparation_name_id": "dioscorides-1-63-iasmelaion:preparation_name:iasme-1",
+      "preparation_name_urn": "urn:aos:recipe-preparation_name:dioscorides-1-63-iasmelaion:preparation_name:iasme-1",
+      "source_span": "ἡ δὲ καλουμένη ἰάσμη",
+      "surface_form": "ἡ δὲ καλουμένη ἰάσμη",
+      "normalized_label": "ἰάσμη",
+      "certainty": "certain",
+      "notes": [
+        "Explicit alternative name introduced by καλουμένη.",
+        "Marked in the text as the name used παρὰ Πέρσαις."
+      ],
+      "host_locator": {
+        "book": "1",
+        "chapter": "63",
+        "section": "apparatus",
+        "citation": {
+          "start": "57.5",
+          "end": "57.5"
+        }
+      }
+    }
+  ],
+  "other_preparations_mentioned": [
+    {
+      "reference_id": "dioscorides-1-63-iasmelaion:reference:krininon-1",
+      "reference_urn": "urn:aos:recipe-reference:dioscorides-1-63-iasmelaion:reference:krininon-1",
+      "source_span": "τοῦ κρινίνου",
+      "surface_form": "τοῦ κρινίνου",
+      "normalized_label": "κρίνινον",
+      "certainty": "certain",
+      "notes": [
+        "Distinct preparation cited as the model for the flower-changing procedure."
+      ],
+      "host_locator": {
+        "book": "1",
+        "chapter": "63",
+        "section": "apparatus",
+        "citation": {
+          "start": "57.5",
+          "end": "57.5"
+        }
+      }
+    }
+  ],
+  "works_mentioned": [],
+  "entities": [
+    {
+      "entity_urn": "urn:aos:recipe-preparation:dioscorides-1-63-iasmelaion:preparation:iasmelaion",
+      "entity_type": "label",
+      "surface_form": "ἰασμέλαιον",
+      "normalized_label": "ἰασμέλαιον"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:dioscorides-1-63-iasmelaion:ingredient:leyka-anthe-ioy-1",
+      "entity_type": "ingredient",
+      "surface_form": "τῶν ἀνθῶν τῶν λευκῶν τοῦ ἰοῦ, τούτων οὐγγίων β΄ ἐμβαλλομένων",
+      "normalized_label": "λευκὰ ἄνθη ἰοῦ"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-1-63-iasmelaion:process:skeyazein-1",
+      "entity_type": "process",
+      "surface_form": "σκευάζεται",
+      "normalized_label": "σκευάζειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-1-63-iasmelaion:process:emballein-2",
+      "entity_type": "process",
+      "surface_form": "ἐμβαλλομένων",
+      "normalized_label": "ἐμβάλλειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-1-63-iasmelaion:process:ameibein-3",
+      "entity_type": "process",
+      "surface_form": "ἀμειβομένων",
+      "normalized_label": "ἀμείβειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-1-63-iasmelaion:process:allassein-4",
+      "entity_type": "process",
+      "surface_form": "ἀλλασσομένων",
+      "normalized_label": "ἀλλάσσειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-material:dioscorides-1-63-iasmelaion:material:sesaminon-elaion-1",
+      "entity_type": "material",
+      "surface_form": "Ἰταλικῷ ξέστῃ σησαμίνου ἐλαίου",
+      "normalized_label": "σησάμινον ἔλαιον"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-person:dioscorides-1-63-iasmelaion:person:persai-1",
+      "entity_type": "person",
+      "surface_form": "Πέρσαις",
+      "normalized_label": "Πέρσαι"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-preparation_name:dioscorides-1-63-iasmelaion:preparation_name:iasme-1",
+      "entity_type": "preparation_name",
+      "surface_form": "ἡ δὲ καλουμένη ἰάσμη",
+      "normalized_label": "ἰάσμη"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-reference:dioscorides-1-63-iasmelaion:reference:krininon-1",
+      "entity_type": "preparation_reference",
+      "surface_form": "τοῦ κρινίνου",
+      "normalized_label": "κρίνινον"
+    }
+  ]
+}

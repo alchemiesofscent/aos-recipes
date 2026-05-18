@@ -1,0 +1,572 @@
+{
+  "dataset_key": "dioscorides_book1_perfumes_resins",
+  "source_json": "experiments/dioscorides-book1-perfumes-resins/data/dioscorides_book1_perfumes_resins.json",
+  "host_raw_file": "tei/raw/tlg0656.tlg001.1st1K-grc1.xml",
+  "work_slug": "diosc.b1.recipes",
+  "recipe_id": "dioscorides-1-42-mastichinon",
+  "recipe_urn": "urn:aos:recipe:dioscorides-1-42-mastichinon",
+  "record_urn": "urn:aos:recipe-record:dioscorides-1-42-mastichinon",
+  "author": "Dioscorides",
+  "work": "De materia medica",
+  "book": "1",
+  "chapter": "42",
+  "section": "1",
+  "chapter_name": "μαστίχινον",
+  "lemma": "μαστίχινον",
+  "text": "42 τὸ δὲ μαστίχινον ἐκ τῆς μαστίχης λείας σκευαζέσθω. ποιεῖ δὲ πρὸς τὰ ἐν ὑστέρᾳ πάντα, ἠπίως θερμαῖνον, στῦφον, μαλάσσον, καὶ πρὸς τὰ ἐπὶ τὸν στόμαχον ἐπιρριπτόμενα σκιρρώματα καὶ κοιλιακὰ καὶ δυσεντερικὰ καὶ τὰ ἐπὶ τοῦ προσώπου, καθαῖρον καὶ εὔχροιαν περιποιοῦν. συντίθεται δὲ ἐν Χίῳ τῇ νήσῳ κάλλιστον.",
+  "original_text": null,
+  "text_source": null,
+  "emendations": [],
+  "emendation_count": 0,
+  "source_kind": "main_text",
+  "entry_kind": "recipe",
+  "citation": {
+    "pages": [
+      "41"
+    ],
+    "start": {
+      "page": "41",
+      "line": "10"
+    },
+    "end": {
+      "page": "41",
+      "line": "15"
+    },
+    "citation": {
+      "start": "41.10",
+      "end": "41.15"
+    },
+    "page_spans": [
+      {
+        "page": "41",
+        "start_line": "10",
+        "end_line": "15"
+      }
+    ],
+    "lines": [
+      {
+        "page": "41",
+        "line": "10",
+        "break_no": false,
+        "text": "42 τὸ δὲ μαστίχινον ἐκ τῆς μαστίχης λείας σκευαζέσθω. ποιεῖ δὲ πρὸς τὰ ἐν ὑστέρᾳ πάντα, ἠπίως θερμαῖνον, στῦφον,",
+        "citation": "41.10"
+      },
+      {
+        "page": "41",
+        "line": "15",
+        "break_no": false,
+        "text": "μαλάσσον, καὶ πρὸς τὰ ἐπὶ τὸν στόμαχον ἐπιρριπτόμενα σκιρρώματα καὶ κοιλιακὰ καὶ δυσεντερικὰ καὶ τὰ ἐπὶ τοῦ προσώπου, καθαῖρον καὶ εὔχροιαν περιποιοῦν. συντίθεται δὲ ἐν Χίῳ τῇ νήσῳ κάλλιστον.",
+        "citation": "41.15"
+      }
+    ],
+    "edition_key": "wellmann"
+  },
+  "notes": [
+    "Raw lines 1590-1633 are book 1 chapter 25 in this witness, although the prompt referred to chapter 35.",
+    "The perfume proemium is taken from the later transition at chapter 42 section 2 (raw lines 2306-2342), not from the chapter 25 κῦφι entry.",
+    "The ἰασμέλαιον entry is preserved only in the apparatus as an addition from another recension."
+  ],
+  "alignment_status": "pending",
+  "alignment_confidence": "pending",
+  "alignment_evidence": null,
+  "review_status": "reviewed_structured_authority",
+  "review_provenance": {
+    "authority_source": "reports/entity_review/structured/dioscorides.json",
+    "authority_recipe_id": "dioscorides-1-42-mastichinon",
+    "authority_lemma": "μαστίχινον",
+    "model": "gpt-5.4",
+    "reasoning_effort": "high",
+    "dataset_key": "dioscorides_book1_perfumes_resins",
+    "entity_model_version": "1.2",
+    "authority_version": "2026-04-13-qty-alt-v1",
+    "prompt_version": "qty-alt-pass-v1",
+    "build_version": "2026-05-18T15:51:35Z"
+  },
+  "schema_version": "1.2",
+  "build_metadata": {
+    "builder": "scripts/recipes/build_recipe_entities.py",
+    "built_at": "2026-05-18T15:51:35Z",
+    "source_structured_authority": "reports/entity_review/structured/dioscorides.json",
+    "authority_model": "gpt-5.4",
+    "authority_reasoning_effort": "high",
+    "dataset_key": "dioscorides_book1_perfumes_resins",
+    "entity_model_version": "1.2",
+    "authority_version": "2026-04-13-qty-alt-v1",
+    "prompt_version": "qty-alt-pass-v1",
+    "build_version": "2026-05-18T15:51:35Z"
+  },
+  "recipe_text_excerpt": "τὸ δὲ μαστίχινον ἐκ τῆς μαστίχης λείας σκευαζέσθω. ποιεῖ δὲ πρὸς τὰ ἐν ὑστέρᾳ πάντα, ἠπίως θερμαῖνον, στῦφον, μαλάσσον, καὶ",
+  "preparation": {
+    "preparation_id": "dioscorides-1-42-mastichinon:preparation:mastichinon",
+    "preparation_urn": "urn:aos:recipe-preparation:dioscorides-1-42-mastichinon:preparation:mastichinon",
+    "source_span": "μαστίχινον",
+    "surface_form": "μαστίχινον",
+    "normalized_label": "μαστίχινον",
+    "qualifiers": [],
+    "regimen_notes": [],
+    "certainty": "certain",
+    "notes": [],
+    "host_locator": {
+      "book": "1",
+      "chapter": "42",
+      "section": "1",
+      "citation": {
+        "start": "41.10",
+        "end": "41.15"
+      }
+    }
+  },
+  "ingredients": [
+    {
+      "ingredient_id": "dioscorides-1-42-mastichinon:ingredient:mastiche-leia-1",
+      "ingredient_urn": "urn:aos:recipe-ingredient:dioscorides-1-42-mastichinon:ingredient:mastiche-leia-1",
+      "source_span": "τῆς μαστίχης λείας",
+      "surface_form": "τῆς μαστίχης λείας",
+      "base_label": "μαστίχη",
+      "normalized_label": "μαστίχη λεία",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [
+        "dioscorides-1-42-mastichinon:process:skeyazesthai-1"
+      ],
+      "quantities": [],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "42",
+        "section": "1",
+        "citation": {
+          "start": "41.10",
+          "end": "41.15"
+        }
+      }
+    }
+  ],
+  "processes": [
+    {
+      "process_id": "dioscorides-1-42-mastichinon:process:skeyazesthai-1",
+      "process_urn": "urn:aos:recipe-process:dioscorides-1-42-mastichinon:process:skeyazesthai-1",
+      "source_span": "σκευαζέσθω",
+      "surface_form": "σκευαζέσθω",
+      "normalized_label": "σκευάζεσθαι",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "42",
+        "section": "1",
+        "citation": {
+          "start": "41.10",
+          "end": "41.15"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-1-42-mastichinon:process:thermainein-2",
+      "process_urn": "urn:aos:recipe-process:dioscorides-1-42-mastichinon:process:thermainein-2",
+      "source_span": "θερμαῖνον",
+      "surface_form": "θερμαῖνον",
+      "normalized_label": "θερμαίνειν",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "manner",
+          "source_span": "ἠπίως",
+          "normalized_value": "ἠπίως",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "42",
+        "section": "1",
+        "citation": {
+          "start": "41.10",
+          "end": "41.15"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-1-42-mastichinon:process:styphein-3",
+      "process_urn": "urn:aos:recipe-process:dioscorides-1-42-mastichinon:process:styphein-3",
+      "source_span": "στῦφον",
+      "surface_form": "στῦφον",
+      "normalized_label": "στύφειν",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "42",
+        "section": "1",
+        "citation": {
+          "start": "41.10",
+          "end": "41.15"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-1-42-mastichinon:process:malassein-4",
+      "process_urn": "urn:aos:recipe-process:dioscorides-1-42-mastichinon:process:malassein-4",
+      "source_span": "μαλάσσον",
+      "surface_form": "μαλάσσον",
+      "normalized_label": "μαλάσσειν",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "42",
+        "section": "1",
+        "citation": {
+          "start": "41.10",
+          "end": "41.15"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-1-42-mastichinon:process:kathairein-5",
+      "process_urn": "urn:aos:recipe-process:dioscorides-1-42-mastichinon:process:kathairein-5",
+      "source_span": "καθαῖρον",
+      "surface_form": "καθαῖρον",
+      "normalized_label": "καθαίρειν",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "42",
+        "section": "1",
+        "citation": {
+          "start": "41.10",
+          "end": "41.15"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-1-42-mastichinon:process:peripoiein-6",
+      "process_urn": "urn:aos:recipe-process:dioscorides-1-42-mastichinon:process:peripoiein-6",
+      "source_span": "περιποιοῦν",
+      "surface_form": "περιποιοῦν",
+      "normalized_label": "περιποιεῖν",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "other",
+          "source_span": "εὔχροιαν",
+          "normalized_value": "εὔχροια",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "42",
+        "section": "1",
+        "citation": {
+          "start": "41.10",
+          "end": "41.15"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-1-42-mastichinon:process:syntithesthai-7",
+      "process_urn": "urn:aos:recipe-process:dioscorides-1-42-mastichinon:process:syntithesthai-7",
+      "source_span": "συντίθεται",
+      "surface_form": "συντίθεται",
+      "normalized_label": "συντίθεσθαι",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "location",
+          "source_span": "ἐν Χίῳ τῇ νήσῳ",
+          "normalized_value": "Χίος",
+          "certainty": "certain",
+          "notes": []
+        },
+        {
+          "qualifier_type": "other",
+          "source_span": "κάλλιστον",
+          "normalized_value": "κάλλιστον",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "42",
+        "section": "1",
+        "citation": {
+          "start": "41.10",
+          "end": "41.15"
+        }
+      }
+    }
+  ],
+  "materials": [],
+  "people": [],
+  "places": [
+    {
+      "place_id": "dioscorides-1-42-mastichinon:place:chios-1",
+      "place_urn": "urn:aos:recipe-place:dioscorides-1-42-mastichinon:place:chios-1",
+      "source_span": "ἐν Χίῳ τῇ νήσῳ",
+      "surface_form": "ἐν Χίῳ τῇ νήσῳ",
+      "normalized_label": "Χίος",
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "42",
+        "section": "1",
+        "citation": {
+          "start": "41.10",
+          "end": "41.15"
+        }
+      }
+    }
+  ],
+  "uses": [
+    {
+      "use_id": "dioscorides-1-42-mastichinon:use:pros-ta-en-ystera-panta-1",
+      "use_urn": "urn:aos:recipe-use:dioscorides-1-42-mastichinon:use:pros-ta-en-ystera-panta-1",
+      "category": "medical",
+      "source_span": "πρὸς τὰ ἐν ὑστέρᾳ πάντα",
+      "snippet": "πρὸς τὰ ἐν ὑστέρᾳ πάντα",
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "42",
+        "section": "1",
+        "citation": {
+          "start": "41.10",
+          "end": "41.15"
+        }
+      }
+    },
+    {
+      "use_id": "dioscorides-1-42-mastichinon:use:pros-ta-epi-ton-stomachon-epirriptomena-skirromata-2",
+      "use_urn": "urn:aos:recipe-use:dioscorides-1-42-mastichinon:use:pros-ta-epi-ton-stomachon-epirriptomena-skirromata-2",
+      "category": "medical",
+      "source_span": "πρὸς τὰ ἐπὶ τὸν στόμαχον ἐπιρριπτόμενα σκιρρώματα",
+      "snippet": "πρὸς τὰ ἐπὶ τὸν στόμαχον ἐπιρριπτόμενα σκιρρώματα",
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "42",
+        "section": "1",
+        "citation": {
+          "start": "41.10",
+          "end": "41.15"
+        }
+      }
+    },
+    {
+      "use_id": "dioscorides-1-42-mastichinon:use:kai-koiliaka-kai-dysenterika-3",
+      "use_urn": "urn:aos:recipe-use:dioscorides-1-42-mastichinon:use:kai-koiliaka-kai-dysenterika-3",
+      "category": "medical",
+      "source_span": "καὶ κοιλιακὰ καὶ δυσεντερικὰ",
+      "snippet": "καὶ κοιλιακὰ καὶ δυσεντερικὰ",
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "42",
+        "section": "1",
+        "citation": {
+          "start": "41.10",
+          "end": "41.15"
+        }
+      }
+    },
+    {
+      "use_id": "dioscorides-1-42-mastichinon:use:kai-ta-epi-toy-prosopoy-kathairon-kai-eychroian-peripoioyn-4",
+      "use_urn": "urn:aos:recipe-use:dioscorides-1-42-mastichinon:use:kai-ta-epi-toy-prosopoy-kathairon-kai-eychroian-peripoioyn-4",
+      "category": "cosmetic",
+      "source_span": "καὶ τὰ ἐπὶ τοῦ προσώπου, καθαῖρον καὶ εὔχροιαν περιποιοῦν",
+      "snippet": "καὶ τὰ ἐπὶ τοῦ προσώπου, καθαῖρον καὶ εὔχροιαν περιποιοῦν",
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "42",
+        "section": "1",
+        "citation": {
+          "start": "41.10",
+          "end": "41.15"
+        }
+      }
+    }
+  ],
+  "preparation_names": [],
+  "other_preparations_mentioned": [],
+  "works_mentioned": [],
+  "entities": [
+    {
+      "entity_urn": "urn:aos:recipe-preparation:dioscorides-1-42-mastichinon:preparation:mastichinon",
+      "entity_type": "label",
+      "surface_form": "μαστίχινον",
+      "normalized_label": "μαστίχινον"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:dioscorides-1-42-mastichinon:ingredient:mastiche-leia-1",
+      "entity_type": "ingredient",
+      "surface_form": "τῆς μαστίχης λείας",
+      "normalized_label": "μαστίχη λεία"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-1-42-mastichinon:process:skeyazesthai-1",
+      "entity_type": "process",
+      "surface_form": "σκευαζέσθω",
+      "normalized_label": "σκευάζεσθαι"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-1-42-mastichinon:process:thermainein-2",
+      "entity_type": "process",
+      "surface_form": "θερμαῖνον",
+      "normalized_label": "θερμαίνειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-1-42-mastichinon:process:styphein-3",
+      "entity_type": "process",
+      "surface_form": "στῦφον",
+      "normalized_label": "στύφειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-1-42-mastichinon:process:malassein-4",
+      "entity_type": "process",
+      "surface_form": "μαλάσσον",
+      "normalized_label": "μαλάσσειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-1-42-mastichinon:process:kathairein-5",
+      "entity_type": "process",
+      "surface_form": "καθαῖρον",
+      "normalized_label": "καθαίρειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-1-42-mastichinon:process:peripoiein-6",
+      "entity_type": "process",
+      "surface_form": "περιποιοῦν",
+      "normalized_label": "περιποιεῖν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-1-42-mastichinon:process:syntithesthai-7",
+      "entity_type": "process",
+      "surface_form": "συντίθεται",
+      "normalized_label": "συντίθεσθαι"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-place:dioscorides-1-42-mastichinon:place:chios-1",
+      "entity_type": "place",
+      "surface_form": "ἐν Χίῳ τῇ νήσῳ",
+      "normalized_label": "Χίος"
+    }
+  ],
+  "canonical_file": "data/recipes/dioscorides-1-42-mastichinon.json",
+  "source_entry": {
+    "source_id": "dioscorides-1-42-mastichinon",
+    "derived_recipe_id": "dioscorides-1-42-mastichinon",
+    "entry_kind": "recipe",
+    "source_kind": "main_text",
+    "source_lines": {
+      "start": 1855,
+      "end": 3167
+    },
+    "section_markers": []
+  },
+  "entity_groups": {
+    "labels": [
+      {
+        "entity_urn": "urn:aos:recipe-preparation:dioscorides-1-42-mastichinon:preparation:mastichinon",
+        "surface_form": "μαστίχινον",
+        "normalized_label": "μαστίχινον"
+      }
+    ],
+    "ingredients": [
+      {
+        "entity_urn": "urn:aos:recipe-ingredient:dioscorides-1-42-mastichinon:ingredient:mastiche-leia-1",
+        "surface_form": "τῆς μαστίχης λείας",
+        "normalized_label": "μαστίχη λεία",
+        "quantity_display": ""
+      }
+    ],
+    "processes": [
+      {
+        "entity_urn": "urn:aos:recipe-process:dioscorides-1-42-mastichinon:process:skeyazesthai-1",
+        "surface_form": "σκευαζέσθω",
+        "normalized_label": "σκευάζεσθαι"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-process:dioscorides-1-42-mastichinon:process:thermainein-2",
+        "surface_form": "θερμαῖνον",
+        "normalized_label": "θερμαίνειν"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-process:dioscorides-1-42-mastichinon:process:styphein-3",
+        "surface_form": "στῦφον",
+        "normalized_label": "στύφειν"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-process:dioscorides-1-42-mastichinon:process:malassein-4",
+        "surface_form": "μαλάσσον",
+        "normalized_label": "μαλάσσειν"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-process:dioscorides-1-42-mastichinon:process:kathairein-5",
+        "surface_form": "καθαῖρον",
+        "normalized_label": "καθαίρειν"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-process:dioscorides-1-42-mastichinon:process:peripoiein-6",
+        "surface_form": "περιποιοῦν",
+        "normalized_label": "περιποιεῖν"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-process:dioscorides-1-42-mastichinon:process:syntithesthai-7",
+        "surface_form": "συντίθεται",
+        "normalized_label": "συντίθεσθαι"
+      }
+    ],
+    "tools": [],
+    "other_preparations_mentioned": [],
+    "people": [],
+    "places": [
+      {
+        "entity_urn": "urn:aos:recipe-place:dioscorides-1-42-mastichinon:place:chios-1",
+        "surface_form": "ἐν Χίῳ τῇ νήσῳ",
+        "normalized_label": "Χίος"
+      }
+    ],
+    "works_mentioned": [],
+    "preparation_names": []
+  }
+}

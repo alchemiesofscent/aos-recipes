@@ -1,0 +1,310 @@
+{
+  "dataset_key": "aetius_book1_oils",
+  "source_json": "experiments/aetius-book1-ch99-136-oils/data/aetius_book1_ch99_136_oils.json",
+  "host_raw_file": "tei/raw/tlg0718001.xml",
+  "work_slug": "aetius.b1.oils",
+  "recipe_id": "aetius-1-105",
+  "recipe_urn": "urn:aos:recipe:aetius-1-105",
+  "record_urn": "urn:aos:recipe-record:aetius-1-105",
+  "author": "Aëtius of Amida",
+  "work": "Libri medicinales",
+  "book": "1",
+  "chapter": "105",
+  "section": "105",
+  "chapter_name": "Ἀμυγδάλινον",
+  "lemma": "Ἀμυγδάλινον",
+  "text": "Ἀμυγδάλινον. Τὸ δὲ ἀμυγδάλινον ἐκ τοῦ καρποῦ τῶν πικρῶν ἀμυγδάλων γίνεται. λεπτομερὲς δέ ἐστι τοῦτο καὶ θερμότερον τοῦ γλυκέος μίαν μοῖραν. μάλιστα δὲ ὠσὶν ἁρμόζει τοῖς ἐμφραγεῖσιν ὑπὸ παχέος πνεύματος καὶ δυσηκοίαις καὶ ἤχοις τοῖς ἀπὸ ψύξεως καὶ σκώληκας ἐν ὠσὶν ἀναιρεῖ. ἡ γὰρ πεῖρα τοῖς ὠσὶ μᾶλλον ἁρμόζειν αὐτὸ καταμεμάθηκεν ἤπερ τοῖς ἄλλοις μέρεσι.",
+  "original_text": "Ἀμυγδάλινον. Τὸ δὲ ἀμυγδάλινον ἐκ τοῦ καρποῦ τῶν πικρῶν ἀμυγδάλων γίνεται. λεπτομερὲς δέ ἐστι τοῦτο καὶ θερμότερον τοῦ γλυκέος μίαν μοῖραν. μάλιστα δὲ ὠσὶν ἁρμόζει τοῖς ἐμφραγεῖσιν ὑπὸ παχέος πνεύματος καὶ δυσηκοίαις καὶ ἤχοις τοῖς ἀπὸ ψύξεως καὶ σκώληκας ἐν ὠσὶν ἀναιρεῖ. ἡ γὰρ πεῖρα τοῖς ὠσὶ μᾶλλον ἁρμόζειν αὐτὸ καταμεμάθηκεν ἤπερ τοῖς ἄλλοις μέρεσι.",
+  "text_source": "olivieri",
+  "emendations": [],
+  "emendation_count": 0,
+  "source_kind": null,
+  "entry_kind": "recipe",
+  "citation": {
+    "pages": [
+      "55"
+    ],
+    "start": {
+      "page": "55",
+      "line": "14",
+      "xml_id": "oliv-55-14"
+    },
+    "end": {
+      "page": "55",
+      "line": "19",
+      "xml_id": "oliv-55-19"
+    },
+    "citation": {
+      "start": "55.14",
+      "end": "55.19"
+    },
+    "page_spans": [
+      {
+        "page": "55",
+        "start_line": "14",
+        "end_line": "19"
+      }
+    ],
+    "lines": [
+      {
+        "page": "55",
+        "line": "14",
+        "xml_id": "oliv-55-14",
+        "break_no": false,
+        "text": "Ἀμυγδάλινον. Τὸ δὲ ἀμυγδάλινον ἐκ τοῦ καρποῦ τῶν πικρῶν",
+        "citation": "55.14"
+      },
+      {
+        "page": "55",
+        "line": "15",
+        "xml_id": "oliv-55-15",
+        "break_no": false,
+        "text": "ἀμυγδάλων γίνεται. λεπτομερὲς δέ ἐστι τοῦτο καὶ θερμότερον τοῦ γλυ-",
+        "citation": "55.15"
+      },
+      {
+        "page": "55",
+        "line": "16",
+        "xml_id": "oliv-55-16",
+        "break_no": true,
+        "text": "κέος μίαν μοῖραν. μάλιστα δὲ ὠσὶν ἁρμόζει τοῖς ἐμφραγεῖσιν ὑπὸ πα-",
+        "citation": "55.16"
+      },
+      {
+        "page": "55",
+        "line": "17",
+        "xml_id": "oliv-55-17",
+        "break_no": true,
+        "text": "χέος πνεύματος καὶ δυσηκοίαις καὶ ἤχοις τοῖς ἀπὸ ψύξεως καὶ σκώ-",
+        "citation": "55.17"
+      },
+      {
+        "page": "55",
+        "line": "18",
+        "xml_id": "oliv-55-18",
+        "break_no": true,
+        "text": "ληκας ἐν ὠσὶν ἀναιρεῖ. ἡ γὰρ πεῖρα τοῖς ὠσὶ μᾶλλον ἁρμόζειν αὐτὸ",
+        "citation": "55.18"
+      },
+      {
+        "page": "55",
+        "line": "19",
+        "xml_id": "oliv-55-19",
+        "break_no": false,
+        "text": "καταμεμάθηκεν ἤπερ τοῖς ἄλλοις μέρεσι.",
+        "citation": "55.19"
+      }
+    ],
+    "edition_key": "olivieri"
+  },
+  "notes": [],
+  "alignment_status": "pending",
+  "alignment_confidence": "pending",
+  "alignment_evidence": null,
+  "review_status": "reviewed_structured_authority",
+  "review_provenance": {
+    "authority_source": "reports/entity_review/structured/aetius_book1.json",
+    "authority_recipe_id": "aetius-1-105",
+    "authority_lemma": "ἀμυγδάλινον",
+    "model": "gpt-5.4",
+    "reasoning_effort": "high",
+    "dataset_key": "aetius_book1_oils",
+    "entity_model_version": "1.2",
+    "authority_version": "2026-04-13-qty-alt-v1",
+    "prompt_version": "qty-alt-pass-v1",
+    "build_version": "2026-05-18T15:51:35Z"
+  },
+  "schema_version": "1.2",
+  "build_metadata": {
+    "builder": "scripts/recipes/build_recipe_entities.py",
+    "built_at": "2026-05-18T15:51:35Z",
+    "source_structured_authority": "reports/entity_review/structured/aetius_book1.json",
+    "authority_model": "gpt-5.4",
+    "authority_reasoning_effort": "high",
+    "dataset_key": "aetius_book1_oils",
+    "entity_model_version": "1.2",
+    "authority_version": "2026-04-13-qty-alt-v1",
+    "prompt_version": "qty-alt-pass-v1",
+    "build_version": "2026-05-18T15:51:35Z"
+  },
+  "recipe_text_excerpt": "Ἀμυγδάλινον. Τὸ δὲ ἀμυγδάλινον ἐκ τοῦ καρποῦ τῶν πικρῶν ἀμυγδάλων γίνεται. λεπτομερὲς δέ ἐστι τοῦτο καὶ θερμότερον τοῦ γλυκέος μίαν",
+  "preparation": {
+    "preparation_id": "aetius-1-105:preparation:amygdalinon",
+    "preparation_urn": "urn:aos:recipe-preparation:aetius-1-105:preparation:amygdalinon",
+    "source_span": "ἀμυγδάλινον",
+    "surface_form": "ἀμυγδάλινον",
+    "normalized_label": "ἀμυγδάλινον",
+    "qualifiers": [],
+    "regimen_notes": [],
+    "certainty": "certain",
+    "notes": [
+      "The running text restates the preparation name cleanly.",
+      "No preparation-level regimen, subtype, or repeated process is stated in this passage."
+    ],
+    "host_locator": {
+      "book": "1",
+      "chapter": "105",
+      "section": "105",
+      "citation": {
+        "start": "55.14",
+        "end": "55.19"
+      }
+    }
+  },
+  "ingredients": [
+    {
+      "ingredient_id": "aetius-1-105:ingredient:karpos-pikron-amygdalon-1",
+      "ingredient_urn": "urn:aos:recipe-ingredient:aetius-1-105:ingredient:karpos-pikron-amygdalon-1",
+      "source_span": "τοῦ καρποῦ τῶν πικρῶν ἀμυγδάλων",
+      "surface_form": "τοῦ καρποῦ τῶν πικρῶν ἀμυγδάλων",
+      "base_label": "καρπός",
+      "normalized_label": "καρπὸς πικρῶν ἀμυγδάλων",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [
+        "aetius-1-105:process:ginesthai-1"
+      ],
+      "quantities": [],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "105",
+        "section": "105",
+        "citation": {
+          "start": "55.14",
+          "end": "55.19"
+        }
+      }
+    }
+  ],
+  "processes": [
+    {
+      "process_id": "aetius-1-105:process:ginesthai-1",
+      "process_urn": "urn:aos:recipe-process:aetius-1-105:process:ginesthai-1",
+      "source_span": "γίνεται",
+      "surface_form": "γίνεται",
+      "normalized_label": "γίνεσθαι",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [],
+      "certainty": "certain",
+      "notes": [
+        "Production source is specified by the ingredient phrase «τοῦ καρποῦ τῶν πικρῶν ἀμυγδάλων»."
+      ],
+      "host_locator": {
+        "book": "1",
+        "chapter": "105",
+        "section": "105",
+        "citation": {
+          "start": "55.14",
+          "end": "55.19"
+        }
+      }
+    }
+  ],
+  "materials": [],
+  "people": [],
+  "places": [],
+  "uses": [
+    {
+      "use_id": "aetius-1-105:use:malista-de-osin-armozei-tois-emphrageisin-ypo-pacheos-pneymatos-kai-dysekoiais-kai-echois-tois-apo-psyxeos-1",
+      "use_urn": "urn:aos:recipe-use:aetius-1-105:use:malista-de-osin-armozei-tois-emphrageisin-ypo-pacheos-pneymatos-kai-dysekoiais-kai-echois-tois-apo-psyxeos-1",
+      "category": "medical",
+      "source_span": "μάλιστα δὲ ὠσὶν ἁρμόζει τοῖς ἐμφραγεῖσιν ὑπὸ παχέος πνεύματος καὶ δυσηκοίαις καὶ ἤχοις τοῖς ἀπὸ ψύξεως",
+      "snippet": "μάλιστα δὲ ὠσὶν ἁρμόζει τοῖς ἐμφραγεῖσιν ὑπὸ παχέος πνεύματος καὶ δυσηκοίαις καὶ ἤχοις τοῖς ἀπὸ ψύξεως",
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "105",
+        "section": "105",
+        "citation": {
+          "start": "55.14",
+          "end": "55.19"
+        }
+      }
+    },
+    {
+      "use_id": "aetius-1-105:use:skolekas-en-osin-anairei-2",
+      "use_urn": "urn:aos:recipe-use:aetius-1-105:use:skolekas-en-osin-anairei-2",
+      "category": "medical",
+      "source_span": "σκώληκας ἐν ὠσὶν ἀναιρεῖ",
+      "snippet": "σκώληκας ἐν ὠσὶν ἀναιρεῖ",
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "105",
+        "section": "105",
+        "citation": {
+          "start": "55.14",
+          "end": "55.19"
+        }
+      }
+    }
+  ],
+  "preparation_names": [],
+  "other_preparations_mentioned": [],
+  "works_mentioned": [],
+  "entities": [
+    {
+      "entity_urn": "urn:aos:recipe-preparation:aetius-1-105:preparation:amygdalinon",
+      "entity_type": "label",
+      "surface_form": "ἀμυγδάλινον",
+      "normalized_label": "ἀμυγδάλινον"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:aetius-1-105:ingredient:karpos-pikron-amygdalon-1",
+      "entity_type": "ingredient",
+      "surface_form": "τοῦ καρποῦ τῶν πικρῶν ἀμυγδάλων",
+      "normalized_label": "καρπὸς πικρῶν ἀμυγδάλων"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:aetius-1-105:process:ginesthai-1",
+      "entity_type": "process",
+      "surface_form": "γίνεται",
+      "normalized_label": "γίνεσθαι"
+    }
+  ],
+  "canonical_file": "data/recipes/aetius-1-105.json",
+  "source_entry": {
+    "source_id": "aetius-1-105",
+    "derived_recipe_id": "aetius-1-105",
+    "entry_kind": null,
+    "source_kind": null,
+    "source_lines": null,
+    "section_markers": []
+  },
+  "entity_groups": {
+    "labels": [
+      {
+        "entity_urn": "urn:aos:recipe-preparation:aetius-1-105:preparation:amygdalinon",
+        "surface_form": "ἀμυγδάλινον",
+        "normalized_label": "ἀμυγδάλινον"
+      }
+    ],
+    "ingredients": [
+      {
+        "entity_urn": "urn:aos:recipe-ingredient:aetius-1-105:ingredient:karpos-pikron-amygdalon-1",
+        "surface_form": "τοῦ καρποῦ τῶν πικρῶν ἀμυγδάλων",
+        "normalized_label": "καρπὸς πικρῶν ἀμυγδάλων",
+        "quantity_display": ""
+      }
+    ],
+    "processes": [
+      {
+        "entity_urn": "urn:aos:recipe-process:aetius-1-105:process:ginesthai-1",
+        "surface_form": "γίνεται",
+        "normalized_label": "γίνεσθαι"
+      }
+    ],
+    "tools": [],
+    "other_preparations_mentioned": [],
+    "people": [],
+    "places": [],
+    "works_mentioned": [],
+    "preparation_names": []
+  }
+}

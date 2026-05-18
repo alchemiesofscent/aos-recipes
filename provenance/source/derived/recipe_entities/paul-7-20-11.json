@@ -1,0 +1,513 @@
+{
+  "dataset_key": "paul_book7_perfumes",
+  "source_json": "experiments/paul-book7-ch20-perfumes/data/paul_book7_ch20_perfumes.json",
+  "host_raw_file": "tei/raw/tlg0715001.xml",
+  "work_slug": "paul.b7.perfumes",
+  "recipe_id": "paul-7-20-11",
+  "recipe_urn": "urn:aos:recipe:paul-7-20-11",
+  "record_urn": "urn:aos:recipe-record:paul-7-20-11",
+  "author": "Paul of Aegina",
+  "work": "Medical Epitome",
+  "book": "7",
+  "chapter": "20",
+  "section": "11",
+  "chapter_name": "Ἐλαίων καὶ μύρων σκευασίαι διάφοροι.",
+  "lemma": "Σησάμινον",
+  "text": "Σησάμινον ἔλαιον γίνεται κοπτομένων ἢ ἀλουμένων τῶν σησάμων καὶ ἐκπιεζομένων διὰ κυρτίδων ἐπὶ κοχλίου ἤγουν ἐν ὕδατι θερμῷ διακρινομένου τοῦ ἐλαιώδους αὐτοῦ καὶ ἀποτιθεμένου ἐν ἀγγείοις ὑελοῖς.",
+  "original_text": null,
+  "text_source": null,
+  "emendations": [],
+  "emendation_count": 0,
+  "source_kind": null,
+  "entry_kind": "recipe",
+  "citation": {
+    "pages": [
+      "2.384"
+    ],
+    "start": {
+      "page": "2.384",
+      "line": "7",
+      "xml_id": "heib-2-384-7"
+    },
+    "end": {
+      "page": "2.384",
+      "line": "11",
+      "xml_id": "heib-2-384-11"
+    },
+    "citation": {
+      "start": "2.384.7",
+      "end": "2.384.11"
+    },
+    "page_spans": [
+      {
+        "page": "2.384",
+        "start_line": "7",
+        "end_line": "11"
+      }
+    ],
+    "lines": [
+      {
+        "page": "2.384",
+        "line": "7",
+        "xml_id": "heib-2-384-7",
+        "break_no": false,
+        "text": "Σησάμινον.",
+        "citation": "2.384.7"
+      },
+      {
+        "page": "2.384",
+        "line": "8",
+        "xml_id": "heib-2-384-8",
+        "break_no": false,
+        "text": "Σησάμινον ἔλαιον γίνεται κοπτομένων ἢ ἀλουμένων τῶν σησάμων",
+        "citation": "2.384.8"
+      },
+      {
+        "page": "2.384",
+        "line": "9",
+        "xml_id": "heib-2-384-9",
+        "break_no": false,
+        "text": "καὶ ἐκπιεζομένων διὰ κυρτίδων ἐπὶ κοχλίου ἤγουν ἐν ὕδατι θερμῷ",
+        "citation": "2.384.9"
+      },
+      {
+        "page": "2.384",
+        "line": "10",
+        "xml_id": "heib-2-384-10",
+        "break_no": false,
+        "text": "διακρινομένου τοῦ ἐλαιώδους αὐτοῦ καὶ ἀποτιθεμένου ἐν ἀγγείοις",
+        "citation": "2.384.10"
+      },
+      {
+        "page": "2.384",
+        "line": "11",
+        "xml_id": "heib-2-384-11",
+        "break_no": false,
+        "text": "ὑελοῖς.",
+        "citation": "2.384.11"
+      }
+    ],
+    "edition_key": "heiberg"
+  },
+  "notes": [],
+  "alignment_status": "pending",
+  "alignment_confidence": "pending",
+  "alignment_evidence": null,
+  "review_status": "reviewed_structured_authority",
+  "review_provenance": {
+    "authority_source": "reports/entity_review/structured/paul.json",
+    "authority_recipe_id": "paul-7-20-11",
+    "authority_lemma": "σησάμινον ἔλαιον",
+    "model": "gpt-5.4",
+    "reasoning_effort": "high",
+    "dataset_key": "paul_book7_perfumes",
+    "entity_model_version": "1.2",
+    "authority_version": "2026-04-13-qty-alt-v1",
+    "prompt_version": "qty-alt-pass-v1",
+    "build_version": "2026-05-18T15:51:35Z"
+  },
+  "schema_version": "1.2",
+  "build_metadata": {
+    "builder": "scripts/recipes/build_recipe_entities.py",
+    "built_at": "2026-05-18T15:51:35Z",
+    "source_structured_authority": "reports/entity_review/structured/paul.json",
+    "authority_model": "gpt-5.4",
+    "authority_reasoning_effort": "high",
+    "dataset_key": "paul_book7_perfumes",
+    "entity_model_version": "1.2",
+    "authority_version": "2026-04-13-qty-alt-v1",
+    "prompt_version": "qty-alt-pass-v1",
+    "build_version": "2026-05-18T15:51:35Z"
+  },
+  "recipe_text_excerpt": "Σησάμινον ἔλαιον γίνεται κοπτομένων ἢ ἀλουμένων τῶν σησάμων καὶ ἐκπιεζομένων διὰ κυρτίδων ἐπὶ κοχλίου ἤγουν ἐν ὕδατι θερμῷ διακρινομένου τοῦ",
+  "preparation": {
+    "preparation_id": "paul-7-20-11:preparation:sesaminon-elaion",
+    "preparation_urn": "urn:aos:recipe-preparation:paul-7-20-11:preparation:sesaminon-elaion",
+    "source_span": "Σησάμινον ἔλαιον",
+    "surface_form": "Σησάμινον ἔλαιον",
+    "normalized_label": "σησάμινον ἔλαιον",
+    "qualifiers": [],
+    "regimen_notes": [],
+    "certainty": "certain",
+    "notes": [],
+    "host_locator": {
+      "book": "7",
+      "chapter": "20",
+      "section": "11",
+      "citation": {
+        "start": "2.384.7",
+        "end": "2.384.11"
+      }
+    }
+  },
+  "ingredients": [
+    {
+      "ingredient_id": "paul-7-20-11:ingredient:sesama-1",
+      "ingredient_urn": "urn:aos:recipe-ingredient:paul-7-20-11:ingredient:sesama-1",
+      "source_span": "τῶν σησάμων",
+      "surface_form": "τῶν σησάμων",
+      "base_label": "σησάμων",
+      "normalized_label": "σήσαμα",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [
+        "paul-7-20-11:process:koptein-1",
+        "paul-7-20-11:process:alein-2",
+        "paul-7-20-11:process:ekpiezein-3"
+      ],
+      "quantities": [],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "7",
+        "chapter": "20",
+        "section": "11",
+        "citation": {
+          "start": "2.384.7",
+          "end": "2.384.11"
+        }
+      }
+    }
+  ],
+  "processes": [
+    {
+      "process_id": "paul-7-20-11:process:koptein-1",
+      "process_urn": "urn:aos:recipe-process:paul-7-20-11:process:koptein-1",
+      "source_span": "κοπτομένων",
+      "surface_form": "κοπτομένων",
+      "normalized_label": "κόπτειν",
+      "target_type": "ingredient",
+      "target_ids": [
+        "paul-7-20-11:ingredient:sesama-1"
+      ],
+      "quantities": [],
+      "qualifiers": [],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "7",
+        "chapter": "20",
+        "section": "11",
+        "citation": {
+          "start": "2.384.7",
+          "end": "2.384.11"
+        }
+      }
+    },
+    {
+      "process_id": "paul-7-20-11:process:alein-2",
+      "process_urn": "urn:aos:recipe-process:paul-7-20-11:process:alein-2",
+      "source_span": "ἀλουμένων",
+      "surface_form": "ἀλουμένων",
+      "normalized_label": "ἀλεῖν",
+      "target_type": "ingredient",
+      "target_ids": [
+        "paul-7-20-11:ingredient:sesama-1"
+      ],
+      "quantities": [],
+      "qualifiers": [],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "7",
+        "chapter": "20",
+        "section": "11",
+        "citation": {
+          "start": "2.384.7",
+          "end": "2.384.11"
+        }
+      }
+    },
+    {
+      "process_id": "paul-7-20-11:process:ekpiezein-3",
+      "process_urn": "urn:aos:recipe-process:paul-7-20-11:process:ekpiezein-3",
+      "source_span": "ἐκπιεζομένων",
+      "surface_form": "ἐκπιεζομένων",
+      "normalized_label": "ἐκπιέζειν",
+      "target_type": "ingredient",
+      "target_ids": [
+        "paul-7-20-11:ingredient:sesama-1"
+      ],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "other",
+          "source_span": "διὰ κυρτίδων",
+          "normalized_value": "διὰ κυρτίδων",
+          "certainty": "certain",
+          "notes": []
+        },
+        {
+          "qualifier_type": "other",
+          "source_span": "ἐπὶ κοχλίου",
+          "normalized_value": "ἐπὶ κοχλίου",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "7",
+        "chapter": "20",
+        "section": "11",
+        "citation": {
+          "start": "2.384.7",
+          "end": "2.384.11"
+        }
+      }
+    },
+    {
+      "process_id": "paul-7-20-11:process:diakrinein-4",
+      "process_urn": "urn:aos:recipe-process:paul-7-20-11:process:diakrinein-4",
+      "source_span": "διακρινομένου",
+      "surface_form": "διακρινομένου",
+      "normalized_label": "διακρίνειν",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "location",
+          "source_span": "ἐν ὕδατι",
+          "normalized_value": "ἐν ὕδατι",
+          "certainty": "certain",
+          "notes": []
+        },
+        {
+          "qualifier_type": "temperature",
+          "source_span": "θερμῷ",
+          "normalized_value": "θερμός",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "7",
+        "chapter": "20",
+        "section": "11",
+        "citation": {
+          "start": "2.384.7",
+          "end": "2.384.11"
+        }
+      }
+    },
+    {
+      "process_id": "paul-7-20-11:process:apotithesthai-5",
+      "process_urn": "urn:aos:recipe-process:paul-7-20-11:process:apotithesthai-5",
+      "source_span": "ἀποτιθεμένου",
+      "surface_form": "ἀποτιθεμένου",
+      "normalized_label": "ἀποτίθεσθαι",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "location",
+          "source_span": "ἐν ἀγγείοις ὑελοῖς",
+          "normalized_value": "ἐν ἀγγείοις ὑελοῖς",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "7",
+        "chapter": "20",
+        "section": "11",
+        "citation": {
+          "start": "2.384.7",
+          "end": "2.384.11"
+        }
+      }
+    }
+  ],
+  "materials": [
+    {
+      "material_id": "paul-7-20-11:material:kyrtides-1",
+      "material_urn": "urn:aos:recipe-material:paul-7-20-11:material:kyrtides-1",
+      "source_span": "κυρτίδων",
+      "surface_form": "κυρτίδων",
+      "normalized_label": "κυρτίδες",
+      "role": "apparatus",
+      "certainty": "certain",
+      "quantities": [],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "7",
+        "chapter": "20",
+        "section": "11",
+        "citation": {
+          "start": "2.384.7",
+          "end": "2.384.11"
+        }
+      }
+    },
+    {
+      "material_id": "paul-7-20-11:material:kochlias-2",
+      "material_urn": "urn:aos:recipe-material:paul-7-20-11:material:kochlias-2",
+      "source_span": "κοχλίου",
+      "surface_form": "κοχλίου",
+      "normalized_label": "κοχλίας",
+      "role": "apparatus",
+      "certainty": "certain",
+      "quantities": [],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "7",
+        "chapter": "20",
+        "section": "11",
+        "citation": {
+          "start": "2.384.7",
+          "end": "2.384.11"
+        }
+      }
+    },
+    {
+      "material_id": "paul-7-20-11:material:ydor-thermon-3",
+      "material_urn": "urn:aos:recipe-material:paul-7-20-11:material:ydor-thermon-3",
+      "source_span": "ὕδατι θερμῷ",
+      "surface_form": "ὕδατι θερμῷ",
+      "normalized_label": "ὕδωρ θερμόν",
+      "role": "carrier",
+      "certainty": "certain",
+      "quantities": [],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "7",
+        "chapter": "20",
+        "section": "11",
+        "citation": {
+          "start": "2.384.7",
+          "end": "2.384.11"
+        }
+      }
+    },
+    {
+      "material_id": "paul-7-20-11:material:aggeia-yeloia-4",
+      "material_urn": "urn:aos:recipe-material:paul-7-20-11:material:aggeia-yeloia-4",
+      "source_span": "ἀγγείοις ὑελοῖς",
+      "surface_form": "ἀγγείοις ὑελοῖς",
+      "normalized_label": "ἀγγεῖα ὑελοῖα",
+      "role": "apparatus",
+      "certainty": "certain",
+      "quantities": [],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "7",
+        "chapter": "20",
+        "section": "11",
+        "citation": {
+          "start": "2.384.7",
+          "end": "2.384.11"
+        }
+      }
+    }
+  ],
+  "people": [],
+  "places": [],
+  "uses": [],
+  "preparation_names": [
+    {
+      "preparation_name_id": "paul-7-20-11:preparation_name:sesaminon-1",
+      "preparation_name_urn": "urn:aos:recipe-preparation_name:paul-7-20-11:preparation_name:sesaminon-1",
+      "source_span": "Σησάμινον",
+      "surface_form": "Σησάμινον",
+      "normalized_label": "σησάμινον",
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "7",
+        "chapter": "20",
+        "section": "11",
+        "citation": {
+          "start": "2.384.7",
+          "end": "2.384.11"
+        }
+      }
+    }
+  ],
+  "other_preparations_mentioned": [],
+  "works_mentioned": [],
+  "entities": [
+    {
+      "entity_urn": "urn:aos:recipe-preparation:paul-7-20-11:preparation:sesaminon-elaion",
+      "entity_type": "label",
+      "surface_form": "Σησάμινον ἔλαιον",
+      "normalized_label": "σησάμινον ἔλαιον"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:paul-7-20-11:ingredient:sesama-1",
+      "entity_type": "ingredient",
+      "surface_form": "τῶν σησάμων",
+      "normalized_label": "σήσαμα"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:paul-7-20-11:process:koptein-1",
+      "entity_type": "process",
+      "surface_form": "κοπτομένων",
+      "normalized_label": "κόπτειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:paul-7-20-11:process:alein-2",
+      "entity_type": "process",
+      "surface_form": "ἀλουμένων",
+      "normalized_label": "ἀλεῖν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:paul-7-20-11:process:ekpiezein-3",
+      "entity_type": "process",
+      "surface_form": "ἐκπιεζομένων",
+      "normalized_label": "ἐκπιέζειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:paul-7-20-11:process:diakrinein-4",
+      "entity_type": "process",
+      "surface_form": "διακρινομένου",
+      "normalized_label": "διακρίνειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:paul-7-20-11:process:apotithesthai-5",
+      "entity_type": "process",
+      "surface_form": "ἀποτιθεμένου",
+      "normalized_label": "ἀποτίθεσθαι"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-material:paul-7-20-11:material:kyrtides-1",
+      "entity_type": "material",
+      "surface_form": "κυρτίδων",
+      "normalized_label": "κυρτίδες"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-material:paul-7-20-11:material:kochlias-2",
+      "entity_type": "material",
+      "surface_form": "κοχλίου",
+      "normalized_label": "κοχλίας"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-material:paul-7-20-11:material:ydor-thermon-3",
+      "entity_type": "material",
+      "surface_form": "ὕδατι θερμῷ",
+      "normalized_label": "ὕδωρ θερμόν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-material:paul-7-20-11:material:aggeia-yeloia-4",
+      "entity_type": "material",
+      "surface_form": "ἀγγείοις ὑελοῖς",
+      "normalized_label": "ἀγγεῖα ὑελοῖα"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-preparation_name:paul-7-20-11:preparation_name:sesaminon-1",
+      "entity_type": "preparation_name",
+      "surface_form": "Σησάμινον",
+      "normalized_label": "σησάμινον"
+    }
+  ]
+}

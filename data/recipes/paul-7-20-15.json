@@ -1,0 +1,655 @@
+{
+  "dataset_key": "paul_book7_perfumes",
+  "source_json": "experiments/paul-book7-ch20-perfumes/data/paul_book7_ch20_perfumes.json",
+  "host_raw_file": "tei/raw/tlg0715001.xml",
+  "work_slug": "paul.b7.perfumes",
+  "recipe_id": "paul-7-20-15",
+  "recipe_urn": "urn:aos:recipe:paul-7-20-15",
+  "record_urn": "urn:aos:recipe-record:paul-7-20-15",
+  "author": "Paul of Aegina",
+  "work": "Medical Epitome",
+  "book": "7",
+  "chapter": "20",
+  "section": "15",
+  "chapter_name": "Ἐλαίων καὶ μύρων σκευασίαι διάφοροι.",
+  "lemma": "Ἀμυγδάλινον",
+  "text": "Γίνεται μὲν καὶ τοῦτο, καθάπερ τὸ προειρημένον, κοπτομένων τῶν πικρῶν ἀμυγδαλῶν καθαρῶν ἐπιρραινομένου καὶ βραχέος ὕδατος καὶ διακρινομένων, ὡς εἴρηται. τινὲς δὲ κοπέντων τῶν ἀμυγδάλων 𐆄 β εἰς τὸν Ἰταλικὸν ξ̸ ἐλαίου γλυκέος ἐμβάλλοντες ἕψουσιν ἐν διπλώματι.",
+  "original_text": null,
+  "text_source": null,
+  "emendations": [],
+  "emendation_count": 0,
+  "source_kind": null,
+  "entry_kind": "recipe",
+  "citation": {
+    "pages": [
+      "2.384"
+    ],
+    "start": {
+      "page": "2.384",
+      "line": "23",
+      "xml_id": "heib-2-384-23"
+    },
+    "end": {
+      "page": "2.384",
+      "line": "28",
+      "xml_id": "heib-2-384-28"
+    },
+    "citation": {
+      "start": "2.384.23",
+      "end": "2.384.28"
+    },
+    "page_spans": [
+      {
+        "page": "2.384",
+        "start_line": "23",
+        "end_line": "28"
+      }
+    ],
+    "lines": [
+      {
+        "page": "2.384",
+        "line": "23",
+        "xml_id": "heib-2-384-23",
+        "break_no": false,
+        "text": "Ἀμυγδάλινον.",
+        "citation": "2.384.23"
+      },
+      {
+        "page": "2.384",
+        "line": "24",
+        "xml_id": "heib-2-384-24",
+        "break_no": false,
+        "text": "Γίνεται μὲν καὶ τοῦτο, καθάπερ τὸ προειρημένον, κοπτομένων",
+        "citation": "2.384.24"
+      },
+      {
+        "page": "2.384",
+        "line": "25",
+        "xml_id": "heib-2-384-25",
+        "break_no": false,
+        "text": "τῶν πικρῶν ἀμυγδαλῶν καθαρῶν ἐπιρραινομένου καὶ βραχέος ὕδατος",
+        "citation": "2.384.25"
+      },
+      {
+        "page": "2.384",
+        "line": "26",
+        "xml_id": "heib-2-384-26",
+        "break_no": false,
+        "text": "καὶ διακρινομένων, ὡς εἴρηται. τινὲς δὲ κοπέντων τῶν ἀμυγδάλων",
+        "citation": "2.384.26"
+      },
+      {
+        "page": "2.384",
+        "line": "27",
+        "xml_id": "heib-2-384-27",
+        "break_no": false,
+        "text": "𐆄 β εἰς τὸν Ἰταλικὸν ξ̸ ἐλαίου γλυκέος ἐμβάλλοντες ἕψουσιν ἐν δι-",
+        "citation": "2.384.27"
+      },
+      {
+        "page": "2.384",
+        "line": "28",
+        "xml_id": "heib-2-384-28",
+        "break_no": true,
+        "text": "πλώματι.",
+        "citation": "2.384.28"
+      }
+    ],
+    "edition_key": "heiberg"
+  },
+  "notes": [],
+  "alignment_status": "pending",
+  "alignment_confidence": "pending",
+  "alignment_evidence": null,
+  "review_status": "reviewed_structured_authority",
+  "review_provenance": {
+    "authority_source": "reports/entity_review/structured/paul.json",
+    "authority_recipe_id": "paul-7-20-15",
+    "authority_lemma": "Ἀμυγδάλινον",
+    "model": "gpt-5.4",
+    "reasoning_effort": "high",
+    "dataset_key": "paul_book7_perfumes",
+    "entity_model_version": "1.2",
+    "authority_version": "2026-04-13-qty-alt-v1",
+    "prompt_version": "qty-alt-pass-v1",
+    "build_version": "2026-05-18T15:51:35Z"
+  },
+  "schema_version": "1.2",
+  "build_metadata": {
+    "builder": "scripts/recipes/build_recipe_entities.py",
+    "built_at": "2026-05-18T15:51:35Z",
+    "source_structured_authority": "reports/entity_review/structured/paul.json",
+    "authority_model": "gpt-5.4",
+    "authority_reasoning_effort": "high",
+    "dataset_key": "paul_book7_perfumes",
+    "entity_model_version": "1.2",
+    "authority_version": "2026-04-13-qty-alt-v1",
+    "prompt_version": "qty-alt-pass-v1",
+    "build_version": "2026-05-18T15:51:35Z"
+  },
+  "recipe_text_excerpt": "Γίνεται μὲν καὶ τοῦτο, καθάπερ τὸ προειρημένον, κοπτομένων τῶν πικρῶν ἀμυγδαλῶν καθαρῶν ἐπιρραινομένου καὶ βραχέος ὕδατος καὶ διακρινομένων, ὡς εἴρηται.",
+  "preparation": {
+    "preparation_id": "paul-7-20-15:preparation:amygdalinon",
+    "preparation_urn": "urn:aos:recipe-preparation:paul-7-20-15:preparation:amygdalinon",
+    "source_span": "Ἀμυγδάλινον",
+    "surface_form": "Ἀμυγδάλινον",
+    "normalized_label": "Ἀμυγδάλινον",
+    "qualifiers": [],
+    "regimen_notes": [],
+    "certainty": "certain",
+    "notes": [
+      "The running text does not restate the preparation name cleanly; the lemma is used."
+    ],
+    "host_locator": {
+      "book": "7",
+      "chapter": "20",
+      "section": "15",
+      "citation": {
+        "start": "2.384.23",
+        "end": "2.384.28"
+      }
+    }
+  },
+  "ingredients": [
+    {
+      "ingredient_id": "paul-7-20-15:ingredient:pikra-amygdala-1",
+      "ingredient_urn": "urn:aos:recipe-ingredient:paul-7-20-15:ingredient:pikra-amygdala-1",
+      "source_span": "τῶν πικρῶν ἀμυγδαλῶν καθαρῶν",
+      "surface_form": "τῶν πικρῶν ἀμυγδαλῶν καθαρῶν",
+      "base_label": "ἀμυγδαλῶν",
+      "normalized_label": "πικρὰ ἀμύγδαλα",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [
+        "paul-7-20-15:process:koptein-1",
+        "paul-7-20-15:process:koptein-4",
+        "paul-7-20-15:process:epirrainein-2",
+        "paul-7-20-15:process:diakrinein-3"
+      ],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "other",
+          "source_span": "καθαρῶν",
+          "normalized_value": "καθαρά",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "notes": [],
+      "host_locator": {
+        "book": "7",
+        "chapter": "20",
+        "section": "15",
+        "citation": {
+          "start": "2.384.23",
+          "end": "2.384.28"
+        }
+      }
+    },
+    {
+      "ingredient_id": "paul-7-20-15:ingredient:ydor-2",
+      "ingredient_urn": "urn:aos:recipe-ingredient:paul-7-20-15:ingredient:ydor-2",
+      "source_span": "βραχέος ὕδατος",
+      "surface_form": "βραχέος ὕδατος",
+      "base_label": "ὕδατος",
+      "normalized_label": "ὕδωρ",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [
+        "paul-7-20-15:process:epirrainein-2"
+      ],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "other",
+          "source_span": "βραχέος",
+          "normalized_value": "βραχύ",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "notes": [],
+      "host_locator": {
+        "book": "7",
+        "chapter": "20",
+        "section": "15",
+        "citation": {
+          "start": "2.384.23",
+          "end": "2.384.28"
+        }
+      }
+    },
+    {
+      "ingredient_id": "paul-7-20-15:ingredient:amygdala-3",
+      "ingredient_urn": "urn:aos:recipe-ingredient:paul-7-20-15:ingredient:amygdala-3",
+      "source_span": "τῶν ἀμυγδάλων 𐆄 β",
+      "surface_form": "τῶν ἀμυγδάλων 𐆄 β",
+      "base_label": "ἀμυγδάλων",
+      "normalized_label": "ἀμύγδαλα",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [
+        "paul-7-20-15:process:koptein-1",
+        "paul-7-20-15:process:koptein-4",
+        "paul-7-20-15:process:emballein-5",
+        "paul-7-20-15:process:epsein-6"
+      ],
+      "quantities": [
+        {
+          "source_span": "𐆄 β",
+          "raw_number": "β",
+          "normalized_number": 2,
+          "raw_unit": "𐆄",
+          "normalized_unit": "uncia",
+          "certainty": "uncertain",
+          "notes": [
+            "The unit sign 𐆄 is not resolved from the inline evidence."
+          ]
+        }
+      ],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "7",
+        "chapter": "20",
+        "section": "15",
+        "citation": {
+          "start": "2.384.23",
+          "end": "2.384.28"
+        }
+      }
+    },
+    {
+      "ingredient_id": "paul-7-20-15:ingredient:elaion-glyky-4",
+      "ingredient_urn": "urn:aos:recipe-ingredient:paul-7-20-15:ingredient:elaion-glyky-4",
+      "source_span": "ἐλαίου γλυκέος",
+      "surface_form": "ἐλαίου γλυκέος",
+      "base_label": "ἐλαίου",
+      "normalized_label": "ἔλαιον γλυκύ",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [
+        "paul-7-20-15:process:emballein-5",
+        "paul-7-20-15:process:epsein-6"
+      ],
+      "quantities": [
+        {
+          "source_span": "τὸν Ἰταλικὸν ξ̸",
+          "raw_number": null,
+          "normalized_number": null,
+          "raw_unit": "Ἰταλικὸν ξ̸",
+          "normalized_unit": "xestes",
+          "certainty": "uncertain",
+          "notes": [
+            "The measure phrase is not safely resolvable from the inline evidence."
+          ]
+        }
+      ],
+      "qualifiers": [],
+      "notes": [
+        "The preceding measure phrase is attached here as an uncertain quantity for the oil."
+      ],
+      "host_locator": {
+        "book": "7",
+        "chapter": "20",
+        "section": "15",
+        "citation": {
+          "start": "2.384.23",
+          "end": "2.384.28"
+        }
+      }
+    }
+  ],
+  "processes": [
+    {
+      "process_id": "paul-7-20-15:process:koptein-1",
+      "process_urn": "urn:aos:recipe-process:paul-7-20-15:process:koptein-1",
+      "source_span": "κοπτομένων",
+      "surface_form": "κοπτομένων",
+      "normalized_label": "κόπτειν",
+      "target_type": "ingredient",
+      "target_ids": [
+        "paul-7-20-15:ingredient:pikra-amygdala-1"
+      ],
+      "quantities": [],
+      "qualifiers": [],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "7",
+        "chapter": "20",
+        "section": "15",
+        "citation": {
+          "start": "2.384.23",
+          "end": "2.384.28"
+        }
+      }
+    },
+    {
+      "process_id": "paul-7-20-15:process:epirrainein-2",
+      "process_urn": "urn:aos:recipe-process:paul-7-20-15:process:epirrainein-2",
+      "source_span": "ἐπιρραινομένου",
+      "surface_form": "ἐπιρραινομένου",
+      "normalized_label": "ἐπιρραίνειν",
+      "target_type": "ingredient",
+      "target_ids": [
+        "paul-7-20-15:ingredient:pikra-amygdala-1"
+      ],
+      "quantities": [],
+      "qualifiers": [],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "7",
+        "chapter": "20",
+        "section": "15",
+        "citation": {
+          "start": "2.384.23",
+          "end": "2.384.28"
+        }
+      }
+    },
+    {
+      "process_id": "paul-7-20-15:process:diakrinein-3",
+      "process_urn": "urn:aos:recipe-process:paul-7-20-15:process:diakrinein-3",
+      "source_span": "διακρινομένων",
+      "surface_form": "διακρινομένων",
+      "normalized_label": "διακρίνειν",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "7",
+        "chapter": "20",
+        "section": "15",
+        "citation": {
+          "start": "2.384.23",
+          "end": "2.384.28"
+        }
+      }
+    },
+    {
+      "process_id": "paul-7-20-15:process:koptein-4",
+      "process_urn": "urn:aos:recipe-process:paul-7-20-15:process:koptein-4",
+      "source_span": "κοπέντων",
+      "surface_form": "κοπέντων",
+      "normalized_label": "κόπτειν",
+      "target_type": "ingredient",
+      "target_ids": [
+        "paul-7-20-15:ingredient:amygdala-3"
+      ],
+      "quantities": [],
+      "qualifiers": [],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "7",
+        "chapter": "20",
+        "section": "15",
+        "citation": {
+          "start": "2.384.23",
+          "end": "2.384.28"
+        }
+      }
+    },
+    {
+      "process_id": "paul-7-20-15:process:emballein-5",
+      "process_urn": "urn:aos:recipe-process:paul-7-20-15:process:emballein-5",
+      "source_span": "ἐμβάλλοντες",
+      "surface_form": "ἐμβάλλοντες",
+      "normalized_label": "ἐμβάλλειν",
+      "target_type": "ingredient",
+      "target_ids": [
+        "paul-7-20-15:ingredient:amygdala-3"
+      ],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "location",
+          "source_span": "εἰς τὸν Ἰταλικὸν ξ̸ ἐλαίου γλυκέος",
+          "normalized_value": "εἰς ἔλαιον γλυκύ",
+          "certainty": "uncertain",
+          "notes": [
+            "The embedded measure phrase is unresolved."
+          ]
+        }
+      ],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "7",
+        "chapter": "20",
+        "section": "15",
+        "citation": {
+          "start": "2.384.23",
+          "end": "2.384.28"
+        }
+      }
+    },
+    {
+      "process_id": "paul-7-20-15:process:epsein-6",
+      "process_urn": "urn:aos:recipe-process:paul-7-20-15:process:epsein-6",
+      "source_span": "ἕψουσιν",
+      "surface_form": "ἕψουσιν",
+      "normalized_label": "ἕψειν",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "location",
+          "source_span": "ἐν διπλώματι",
+          "normalized_value": "ἐν διπλώματι",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "7",
+        "chapter": "20",
+        "section": "15",
+        "citation": {
+          "start": "2.384.23",
+          "end": "2.384.28"
+        }
+      }
+    }
+  ],
+  "materials": [
+    {
+      "material_id": "paul-7-20-15:material:diploma-1",
+      "material_urn": "urn:aos:recipe-material:paul-7-20-15:material:diploma-1",
+      "source_span": "διπλώματι",
+      "surface_form": "διπλώματι",
+      "normalized_label": "δίπλωμα",
+      "role": "apparatus",
+      "certainty": "certain",
+      "quantities": [],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "7",
+        "chapter": "20",
+        "section": "15",
+        "citation": {
+          "start": "2.384.23",
+          "end": "2.384.28"
+        }
+      }
+    }
+  ],
+  "people": [],
+  "places": [],
+  "uses": [],
+  "preparation_names": [],
+  "other_preparations_mentioned": [],
+  "works_mentioned": [],
+  "entities": [
+    {
+      "entity_urn": "urn:aos:recipe-preparation:paul-7-20-15:preparation:amygdalinon",
+      "entity_type": "label",
+      "surface_form": "Ἀμυγδάλινον",
+      "normalized_label": "Ἀμυγδάλινον"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:paul-7-20-15:ingredient:pikra-amygdala-1",
+      "entity_type": "ingredient",
+      "surface_form": "τῶν πικρῶν ἀμυγδαλῶν καθαρῶν",
+      "normalized_label": "πικρὰ ἀμύγδαλα"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:paul-7-20-15:ingredient:ydor-2",
+      "entity_type": "ingredient",
+      "surface_form": "βραχέος ὕδατος",
+      "normalized_label": "ὕδωρ"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:paul-7-20-15:ingredient:amygdala-3",
+      "entity_type": "ingredient",
+      "surface_form": "τῶν ἀμυγδάλων 𐆄 β",
+      "normalized_label": "ἀμύγδαλα"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:paul-7-20-15:ingredient:elaion-glyky-4",
+      "entity_type": "ingredient",
+      "surface_form": "ἐλαίου γλυκέος",
+      "normalized_label": "ἔλαιον γλυκύ"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:paul-7-20-15:process:koptein-1",
+      "entity_type": "process",
+      "surface_form": "κοπτομένων",
+      "normalized_label": "κόπτειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:paul-7-20-15:process:epirrainein-2",
+      "entity_type": "process",
+      "surface_form": "ἐπιρραινομένου",
+      "normalized_label": "ἐπιρραίνειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:paul-7-20-15:process:diakrinein-3",
+      "entity_type": "process",
+      "surface_form": "διακρινομένων",
+      "normalized_label": "διακρίνειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:paul-7-20-15:process:koptein-4",
+      "entity_type": "process",
+      "surface_form": "κοπέντων",
+      "normalized_label": "κόπτειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:paul-7-20-15:process:emballein-5",
+      "entity_type": "process",
+      "surface_form": "ἐμβάλλοντες",
+      "normalized_label": "ἐμβάλλειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:paul-7-20-15:process:epsein-6",
+      "entity_type": "process",
+      "surface_form": "ἕψουσιν",
+      "normalized_label": "ἕψειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-material:paul-7-20-15:material:diploma-1",
+      "entity_type": "material",
+      "surface_form": "διπλώματι",
+      "normalized_label": "δίπλωμα"
+    }
+  ],
+  "canonical_file": "data/recipes/paul-7-20-15.json",
+  "source_entry": {
+    "source_id": "paul-7-20-15",
+    "derived_recipe_id": "paul-7-20-15",
+    "entry_kind": null,
+    "source_kind": null,
+    "source_lines": null,
+    "section_markers": []
+  },
+  "entity_groups": {
+    "labels": [
+      {
+        "entity_urn": "urn:aos:recipe-preparation:paul-7-20-15:preparation:amygdalinon",
+        "surface_form": "Ἀμυγδάλινον",
+        "normalized_label": "Ἀμυγδάλινον"
+      }
+    ],
+    "ingredients": [
+      {
+        "entity_urn": "urn:aos:recipe-ingredient:paul-7-20-15:ingredient:pikra-amygdala-1",
+        "surface_form": "τῶν πικρῶν ἀμυγδαλῶν καθαρῶν",
+        "normalized_label": "πικρὰ ἀμύγδαλα",
+        "quantity_display": ""
+      },
+      {
+        "entity_urn": "urn:aos:recipe-ingredient:paul-7-20-15:ingredient:ydor-2",
+        "surface_form": "βραχέος ὕδατος",
+        "normalized_label": "ὕδωρ",
+        "quantity_display": ""
+      },
+      {
+        "entity_urn": "urn:aos:recipe-ingredient:paul-7-20-15:ingredient:amygdala-3",
+        "surface_form": "τῶν ἀμυγδάλων 𐆄 β",
+        "normalized_label": "ἀμύγδαλα",
+        "quantity_display": "𐆄 β"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-ingredient:paul-7-20-15:ingredient:elaion-glyky-4",
+        "surface_form": "ἐλαίου γλυκέος",
+        "normalized_label": "ἔλαιον γλυκύ",
+        "quantity_display": "τὸν Ἰταλικὸν ξ̸"
+      }
+    ],
+    "processes": [
+      {
+        "entity_urn": "urn:aos:recipe-process:paul-7-20-15:process:koptein-1",
+        "surface_form": "κοπτομένων",
+        "normalized_label": "κόπτειν"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-process:paul-7-20-15:process:epirrainein-2",
+        "surface_form": "ἐπιρραινομένου",
+        "normalized_label": "ἐπιρραίνειν"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-process:paul-7-20-15:process:diakrinein-3",
+        "surface_form": "διακρινομένων",
+        "normalized_label": "διακρίνειν"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-process:paul-7-20-15:process:koptein-4",
+        "surface_form": "κοπέντων",
+        "normalized_label": "κόπτειν"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-process:paul-7-20-15:process:emballein-5",
+        "surface_form": "ἐμβάλλοντες",
+        "normalized_label": "ἐμβάλλειν"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-process:paul-7-20-15:process:epsein-6",
+        "surface_form": "ἕψουσιν",
+        "normalized_label": "ἕψειν"
+      }
+    ],
+    "tools": [
+      {
+        "entity_urn": "urn:aos:recipe-material:paul-7-20-15:material:diploma-1",
+        "surface_form": "διπλώματι",
+        "normalized_label": "δίπλωμα"
+      }
+    ],
+    "other_preparations_mentioned": [],
+    "people": [],
+    "places": [],
+    "works_mentioned": [],
+    "preparation_names": []
+  }
+}

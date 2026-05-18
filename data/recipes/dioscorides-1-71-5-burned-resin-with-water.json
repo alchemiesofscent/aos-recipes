@@ -1,0 +1,769 @@
+{
+  "dataset_key": "dioscorides_book1_perfumes_resins",
+  "source_json": "experiments/dioscorides-book1-perfumes-resins/data/dioscorides_book1_perfumes_resins.json",
+  "host_raw_file": "tei/raw/tlg0656.tlg001.1st1K-grc1.xml",
+  "work_slug": "diosc.b1.recipes",
+  "recipe_id": "dioscorides-1-71-5-burned-resin-with-water",
+  "recipe_urn": "urn:aos:recipe:dioscorides-1-71-5-burned-resin-with-water",
+  "record_urn": "urn:aos:recipe-record:dioscorides-1-71-5-burned-resin-with-water",
+  "author": "Dioscorides",
+  "work": "De materia medica",
+  "book": "1",
+  "chapter": "71",
+  "section": "5",
+  "chapter_name": "ῥητίνη",
+  "lemma": "ῥητίνη κεκαυμένη μετὰ ὕδατος",
+  "text": "καίεται δὲ πᾶσα ῥητίνη ὑγρὰ ἐν τετραπλασίονι ἀγγείῳ 5 κατὰ τὸ τοῦ ἐγχεομένου ὑγροῦ πλῆθος· δεῖ γὰρ χοῦν μὲν τῆς ῥητίνης, δύο δὲ χοέας ὀμερίου ὕδατος ἐμβαλόντας εἰς χαλκεῖον ἕψειν ἐπʼ ἀνθράκων πραέως, διηνεκῶς κινοῦντας, ἄχρις οὗ ἄνοσμος γένηται καὶ εὔθρυπτος καὶ καπυρά, ὡς μὴ τοῖς δακτύλοις εἴκειν, λοιπὸν δὲ ψύξαντας εἰς κεραμεοῦν ἀγγεῖον ἀκώνητον ἀποτίθεσθαι. γίνεται δὲ ἐξόχως λευκή· δεῖ μέντοι προδιυλίζειν πᾶσαν ῥητίνην τήκοντας, ἵνα χωρισθῇ τὸ ῥυπῶδες αὐτῆς.",
+  "original_text": null,
+  "text_source": null,
+  "emendations": [],
+  "emendation_count": 0,
+  "source_kind": "main_text",
+  "entry_kind": "technique",
+  "citation": {
+    "pages": [
+      "69",
+      "70"
+    ],
+    "start": {
+      "page": "69",
+      "line": "15"
+    },
+    "end": {
+      "page": "70",
+      "line": "1"
+    },
+    "citation": {
+      "start": "69.15",
+      "end": "70.1"
+    },
+    "page_spans": [
+      {
+        "page": "69",
+        "start_line": "15",
+        "end_line": "20"
+      },
+      {
+        "page": "70",
+        "start_line": "1",
+        "end_line": "1"
+      }
+    ],
+    "lines": [
+      {
+        "page": "69",
+        "line": "15",
+        "break_no": false,
+        "text": "καίεται δὲ πᾶσα ῥητίνη ὑγρὰ ἐν τετραπλασίονι ἀγγείῳ 5 κατὰ τὸ τοῦ ἐγχεομένου ὑγροῦ πλῆθος· δεῖ γὰρ χοῦν μὲν τῆς ῥητίνης, δύο δὲ χοέας ὀμερίου ὕδατος ἐμβαλόντας εἰς χαλκεῖον",
+        "citation": "69.15"
+      },
+      {
+        "page": "69",
+        "line": "20",
+        "break_no": false,
+        "text": "ἕψειν ἐπʼ ἀνθράκων πραέως, διηνεκῶς κινοῦντας, ἄχρις οὗ ἄνοσμος γένηται καὶ εὔθρυπτος καὶ καπυρά, ὡς μὴ τοῖς δακτύλοις εἴκειν, λοιπὸν δὲ ψύξαντας εἰς κεραμεοῦν ἀγγεῖον ἀκώνητον",
+        "citation": "69.20"
+      },
+      {
+        "page": "70",
+        "line": "1",
+        "break_no": false,
+        "text": "ἀποτίθεσθαι. γίνεται δὲ ἐξόχως λευκή· δεῖ μέντοι προδιυλίζειν πᾶσαν ῥητίνην τήκοντας, ἵνα χωρισθῇ τὸ ῥυπῶδες αὐτῆς.",
+        "citation": "70.1"
+      }
+    ],
+    "edition_key": "wellmann"
+  },
+  "notes": [
+    "Raw lines 1590-1633 are book 1 chapter 25 in this witness, although the prompt referred to chapter 35.",
+    "The perfume proemium is taken from the later transition at chapter 42 section 2 (raw lines 2306-2342), not from the chapter 25 κῦφι entry.",
+    "The ἰασμέλαιον entry is preserved only in the apparatus as an addition from another recension."
+  ],
+  "alignment_status": "pending",
+  "alignment_confidence": "pending",
+  "alignment_evidence": null,
+  "review_status": "reviewed_structured_authority",
+  "review_provenance": {
+    "authority_source": "reports/entity_review/structured/dioscorides.json",
+    "authority_recipe_id": "dioscorides-1-71-5-burned-resin-with-water",
+    "authority_lemma": "ῥητίνη κεκαυμένη μετὰ ὕδατος",
+    "model": "gpt-5.4",
+    "reasoning_effort": "high",
+    "dataset_key": "dioscorides_book1_perfumes_resins",
+    "entity_model_version": "1.2",
+    "authority_version": "2026-04-13-qty-alt-v1",
+    "prompt_version": "qty-alt-pass-v1",
+    "build_version": "2026-05-18T15:51:35Z"
+  },
+  "schema_version": "1.2",
+  "build_metadata": {
+    "builder": "scripts/recipes/build_recipe_entities.py",
+    "built_at": "2026-05-18T15:51:35Z",
+    "source_structured_authority": "reports/entity_review/structured/dioscorides.json",
+    "authority_model": "gpt-5.4",
+    "authority_reasoning_effort": "high",
+    "dataset_key": "dioscorides_book1_perfumes_resins",
+    "entity_model_version": "1.2",
+    "authority_version": "2026-04-13-qty-alt-v1",
+    "prompt_version": "qty-alt-pass-v1",
+    "build_version": "2026-05-18T15:51:35Z"
+  },
+  "recipe_text_excerpt": "καίεται δὲ πᾶσα ῥητίνη ὑγρὰ ἐν τετραπλασίονι ἀγγείῳ 5 κατὰ τὸ τοῦ ἐγχεομένου ὑγροῦ πλῆθος· δεῖ γὰρ χοῦν μὲν τῆς",
+  "preparation": {
+    "preparation_id": "dioscorides-1-71-5-burned-resin-with-water:preparation:retine-kekaymene-meta-ydatos",
+    "preparation_urn": "urn:aos:recipe-preparation:dioscorides-1-71-5-burned-resin-with-water:preparation:retine-kekaymene-meta-ydatos",
+    "source_span": "ῥητίνη κεκαυμένη μετὰ ὕδατος",
+    "surface_form": "ῥητίνη κεκαυμένη μετὰ ὕδατος",
+    "normalized_label": "ῥητίνη κεκαυμένη μετὰ ὕδατος",
+    "qualifiers": [],
+    "regimen_notes": [],
+    "certainty": "certain",
+    "notes": [
+      "The running text does not restate the preparation name cleanly, so the lemma is used for preparation.source_span and preparation.normalized_label."
+    ],
+    "host_locator": {
+      "book": "1",
+      "chapter": "71",
+      "section": "5",
+      "citation": {
+        "start": "69.15",
+        "end": "70.1"
+      }
+    }
+  },
+  "ingredients": [
+    {
+      "ingredient_id": "dioscorides-1-71-5-burned-resin-with-water:ingredient:retine-ygra-1",
+      "ingredient_urn": "urn:aos:recipe-ingredient:dioscorides-1-71-5-burned-resin-with-water:ingredient:retine-ygra-1",
+      "source_span": "πᾶσα ῥητίνη ὑγρὰ",
+      "surface_form": "πᾶσα ῥητίνη ὑγρὰ",
+      "base_label": "ῥητίνη",
+      "normalized_label": "ῥητίνη ὑγρά",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [
+        "dioscorides-1-71-5-burned-resin-with-water:process:kaiein-1",
+        "dioscorides-1-71-5-burned-resin-with-water:process:emballein-2",
+        "dioscorides-1-71-5-burned-resin-with-water:process:prodiylizein-8",
+        "dioscorides-1-71-5-burned-resin-with-water:process:tekein-9"
+      ],
+      "quantities": [
+        {
+          "source_span": "χοῦν",
+          "raw_number": null,
+          "normalized_number": 1,
+          "raw_unit": "χοῦν",
+          "normalized_unit": "chous",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "71",
+        "section": "5",
+        "citation": {
+          "start": "69.15",
+          "end": "70.1"
+        }
+      }
+    },
+    {
+      "ingredient_id": "dioscorides-1-71-5-burned-resin-with-water:ingredient:ydor-omerion-2",
+      "ingredient_urn": "urn:aos:recipe-ingredient:dioscorides-1-71-5-burned-resin-with-water:ingredient:ydor-omerion-2",
+      "source_span": "ὀμερίου ὕδατος",
+      "surface_form": "ὀμερίου ὕδατος",
+      "base_label": "ὕδωρ",
+      "normalized_label": "ὕδωρ ὀμέριον",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [
+        "dioscorides-1-71-5-burned-resin-with-water:process:emballein-2"
+      ],
+      "quantities": [
+        {
+          "source_span": "δύο δὲ χοέας",
+          "raw_number": "δύο",
+          "normalized_number": 2,
+          "raw_unit": "χοέας",
+          "normalized_unit": "chous",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "71",
+        "section": "5",
+        "citation": {
+          "start": "69.15",
+          "end": "70.1"
+        }
+      }
+    }
+  ],
+  "processes": [
+    {
+      "process_id": "dioscorides-1-71-5-burned-resin-with-water:process:kaiein-1",
+      "process_urn": "urn:aos:recipe-process:dioscorides-1-71-5-burned-resin-with-water:process:kaiein-1",
+      "source_span": "καίεται",
+      "surface_form": "καίεται",
+      "normalized_label": "καίειν",
+      "target_type": "ingredient",
+      "target_ids": [
+        "dioscorides-1-71-5-burned-resin-with-water:ingredient:retine-ygra-1"
+      ],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "location",
+          "source_span": "ἐν τετραπλασίονι ἀγγείῳ",
+          "normalized_value": "ἐν τετραπλασίονι ἀγγείῳ",
+          "certainty": "certain",
+          "notes": []
+        },
+        {
+          "qualifier_type": "other",
+          "source_span": "κατὰ τὸ τοῦ ἐγχεομένου ὑγροῦ πλῆθος",
+          "normalized_value": "κατὰ τὸ τοῦ ἐγχεομένου ὑγροῦ πλῆθος",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "71",
+        "section": "5",
+        "citation": {
+          "start": "69.15",
+          "end": "70.1"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-1-71-5-burned-resin-with-water:process:emballein-2",
+      "process_urn": "urn:aos:recipe-process:dioscorides-1-71-5-burned-resin-with-water:process:emballein-2",
+      "source_span": "ἐμβαλόντας",
+      "surface_form": "ἐμβαλόντας",
+      "normalized_label": "ἐμβάλλειν",
+      "target_type": "ingredient",
+      "target_ids": [
+        "dioscorides-1-71-5-burned-resin-with-water:ingredient:retine-ygra-1",
+        "dioscorides-1-71-5-burned-resin-with-water:ingredient:ydor-omerion-2"
+      ],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "location",
+          "source_span": "εἰς χαλκεῖον",
+          "normalized_value": "εἰς χαλκεῖον",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "71",
+        "section": "5",
+        "citation": {
+          "start": "69.15",
+          "end": "70.1"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-1-71-5-burned-resin-with-water:process:epsein-3",
+      "process_urn": "urn:aos:recipe-process:dioscorides-1-71-5-burned-resin-with-water:process:epsein-3",
+      "source_span": "ἕψειν",
+      "surface_form": "ἕψειν",
+      "normalized_label": "ἕψειν",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "exposure",
+          "source_span": "ἐπʼ ἀνθράκων",
+          "normalized_value": "ἐπʼ ἀνθράκων",
+          "certainty": "certain",
+          "notes": []
+        },
+        {
+          "qualifier_type": "manner",
+          "source_span": "πραέως",
+          "normalized_value": "πραέως",
+          "certainty": "certain",
+          "notes": []
+        },
+        {
+          "qualifier_type": "duration",
+          "source_span": "ἄχρις οὗ ἄνοσμος γένηται καὶ εὔθρυπτος καὶ καπυρά",
+          "normalized_value": "ἄχρις οὗ ἄνοσμος γένηται καὶ εὔθρυπτος καὶ καπυρά",
+          "certainty": "certain",
+          "notes": []
+        },
+        {
+          "qualifier_type": "other",
+          "source_span": "ὡς μὴ τοῖς δακτύλοις εἴκειν",
+          "normalized_value": "ὡς μὴ τοῖς δακτύλοις εἴκειν",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "71",
+        "section": "5",
+        "citation": {
+          "start": "69.15",
+          "end": "70.1"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-1-71-5-burned-resin-with-water:process:kinein-4",
+      "process_urn": "urn:aos:recipe-process:dioscorides-1-71-5-burned-resin-with-water:process:kinein-4",
+      "source_span": "κινοῦντας",
+      "surface_form": "κινοῦντας",
+      "normalized_label": "κινεῖν",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "manner",
+          "source_span": "διηνεκῶς",
+          "normalized_value": "διηνεκῶς",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "71",
+        "section": "5",
+        "citation": {
+          "start": "69.15",
+          "end": "70.1"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-1-71-5-burned-resin-with-water:process:psychein-5",
+      "process_urn": "urn:aos:recipe-process:dioscorides-1-71-5-burned-resin-with-water:process:psychein-5",
+      "source_span": "ψύξαντας",
+      "surface_form": "ψύξαντας",
+      "normalized_label": "ψύχειν",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "71",
+        "section": "5",
+        "citation": {
+          "start": "69.15",
+          "end": "70.1"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-1-71-5-burned-resin-with-water:process:apotithesthai-6",
+      "process_urn": "urn:aos:recipe-process:dioscorides-1-71-5-burned-resin-with-water:process:apotithesthai-6",
+      "source_span": "ἀποτίθεσθαι",
+      "surface_form": "ἀποτίθεσθαι",
+      "normalized_label": "ἀποτίθεσθαι",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "location",
+          "source_span": "εἰς κεραμεοῦν ἀγγεῖον ἀκώνητον",
+          "normalized_value": "εἰς κεραμεοῦν ἀγγεῖον ἀκώνητον",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "71",
+        "section": "5",
+        "citation": {
+          "start": "69.15",
+          "end": "70.1"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-1-71-5-burned-resin-with-water:process:ginesthai-7",
+      "process_urn": "urn:aos:recipe-process:dioscorides-1-71-5-burned-resin-with-water:process:ginesthai-7",
+      "source_span": "γίνεται",
+      "surface_form": "γίνεται",
+      "normalized_label": "γίνεσθαι",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "color",
+          "source_span": "ἐξόχως λευκή",
+          "normalized_value": "ἐξόχως λευκή",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "71",
+        "section": "5",
+        "citation": {
+          "start": "69.15",
+          "end": "70.1"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-1-71-5-burned-resin-with-water:process:prodiylizein-8",
+      "process_urn": "urn:aos:recipe-process:dioscorides-1-71-5-burned-resin-with-water:process:prodiylizein-8",
+      "source_span": "προδιυλίζειν",
+      "surface_form": "προδιυλίζειν",
+      "normalized_label": "προδιυλίζειν",
+      "target_type": "ingredient",
+      "target_ids": [
+        "dioscorides-1-71-5-burned-resin-with-water:ingredient:retine-ygra-1"
+      ],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "other",
+          "source_span": "ἵνα χωρισθῇ τὸ ῥυπῶδες αὐτῆς",
+          "normalized_value": "ἵνα χωρισθῇ τὸ ῥυπῶδες αὐτῆς",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "71",
+        "section": "5",
+        "citation": {
+          "start": "69.15",
+          "end": "70.1"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-1-71-5-burned-resin-with-water:process:tekein-9",
+      "process_urn": "urn:aos:recipe-process:dioscorides-1-71-5-burned-resin-with-water:process:tekein-9",
+      "source_span": "τήκοντας",
+      "surface_form": "τήκοντας",
+      "normalized_label": "τήκειν",
+      "target_type": "ingredient",
+      "target_ids": [
+        "dioscorides-1-71-5-burned-resin-with-water:ingredient:retine-ygra-1"
+      ],
+      "quantities": [],
+      "qualifiers": [],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "71",
+        "section": "5",
+        "citation": {
+          "start": "69.15",
+          "end": "70.1"
+        }
+      }
+    }
+  ],
+  "materials": [
+    {
+      "material_id": "dioscorides-1-71-5-burned-resin-with-water:material:chalkeion-1",
+      "material_urn": "urn:aos:recipe-material:dioscorides-1-71-5-burned-resin-with-water:material:chalkeion-1",
+      "source_span": "χαλκεῖον",
+      "surface_form": "χαλκεῖον",
+      "normalized_label": "χαλκεῖον",
+      "role": "apparatus",
+      "certainty": "certain",
+      "quantities": [],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "71",
+        "section": "5",
+        "citation": {
+          "start": "69.15",
+          "end": "70.1"
+        }
+      }
+    },
+    {
+      "material_id": "dioscorides-1-71-5-burned-resin-with-water:material:anthrakes-2",
+      "material_urn": "urn:aos:recipe-material:dioscorides-1-71-5-burned-resin-with-water:material:anthrakes-2",
+      "source_span": "ἀνθράκων",
+      "surface_form": "ἀνθράκων",
+      "normalized_label": "ἄνθρακες",
+      "role": "fuel",
+      "certainty": "certain",
+      "quantities": [],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "71",
+        "section": "5",
+        "citation": {
+          "start": "69.15",
+          "end": "70.1"
+        }
+      }
+    },
+    {
+      "material_id": "dioscorides-1-71-5-burned-resin-with-water:material:kerameoyn-aggeion-akoneton-3",
+      "material_urn": "urn:aos:recipe-material:dioscorides-1-71-5-burned-resin-with-water:material:kerameoyn-aggeion-akoneton-3",
+      "source_span": "κεραμεοῦν ἀγγεῖον ἀκώνητον",
+      "surface_form": "κεραμεοῦν ἀγγεῖον ἀκώνητον",
+      "normalized_label": "κεραμεοῦν ἀγγεῖον ἀκώνητον",
+      "role": "apparatus",
+      "certainty": "certain",
+      "quantities": [],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "71",
+        "section": "5",
+        "citation": {
+          "start": "69.15",
+          "end": "70.1"
+        }
+      }
+    }
+  ],
+  "people": [],
+  "places": [],
+  "uses": [],
+  "preparation_names": [],
+  "other_preparations_mentioned": [],
+  "works_mentioned": [],
+  "entities": [
+    {
+      "entity_urn": "urn:aos:recipe-preparation:dioscorides-1-71-5-burned-resin-with-water:preparation:retine-kekaymene-meta-ydatos",
+      "entity_type": "label",
+      "surface_form": "ῥητίνη κεκαυμένη μετὰ ὕδατος",
+      "normalized_label": "ῥητίνη κεκαυμένη μετὰ ὕδατος"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:dioscorides-1-71-5-burned-resin-with-water:ingredient:retine-ygra-1",
+      "entity_type": "ingredient",
+      "surface_form": "πᾶσα ῥητίνη ὑγρὰ",
+      "normalized_label": "ῥητίνη ὑγρά"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:dioscorides-1-71-5-burned-resin-with-water:ingredient:ydor-omerion-2",
+      "entity_type": "ingredient",
+      "surface_form": "ὀμερίου ὕδατος",
+      "normalized_label": "ὕδωρ ὀμέριον"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-1-71-5-burned-resin-with-water:process:kaiein-1",
+      "entity_type": "process",
+      "surface_form": "καίεται",
+      "normalized_label": "καίειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-1-71-5-burned-resin-with-water:process:emballein-2",
+      "entity_type": "process",
+      "surface_form": "ἐμβαλόντας",
+      "normalized_label": "ἐμβάλλειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-1-71-5-burned-resin-with-water:process:epsein-3",
+      "entity_type": "process",
+      "surface_form": "ἕψειν",
+      "normalized_label": "ἕψειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-1-71-5-burned-resin-with-water:process:kinein-4",
+      "entity_type": "process",
+      "surface_form": "κινοῦντας",
+      "normalized_label": "κινεῖν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-1-71-5-burned-resin-with-water:process:psychein-5",
+      "entity_type": "process",
+      "surface_form": "ψύξαντας",
+      "normalized_label": "ψύχειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-1-71-5-burned-resin-with-water:process:apotithesthai-6",
+      "entity_type": "process",
+      "surface_form": "ἀποτίθεσθαι",
+      "normalized_label": "ἀποτίθεσθαι"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-1-71-5-burned-resin-with-water:process:ginesthai-7",
+      "entity_type": "process",
+      "surface_form": "γίνεται",
+      "normalized_label": "γίνεσθαι"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-1-71-5-burned-resin-with-water:process:prodiylizein-8",
+      "entity_type": "process",
+      "surface_form": "προδιυλίζειν",
+      "normalized_label": "προδιυλίζειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-1-71-5-burned-resin-with-water:process:tekein-9",
+      "entity_type": "process",
+      "surface_form": "τήκοντας",
+      "normalized_label": "τήκειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-material:dioscorides-1-71-5-burned-resin-with-water:material:chalkeion-1",
+      "entity_type": "material",
+      "surface_form": "χαλκεῖον",
+      "normalized_label": "χαλκεῖον"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-material:dioscorides-1-71-5-burned-resin-with-water:material:anthrakes-2",
+      "entity_type": "material",
+      "surface_form": "ἀνθράκων",
+      "normalized_label": "ἄνθρακες"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-material:dioscorides-1-71-5-burned-resin-with-water:material:kerameoyn-aggeion-akoneton-3",
+      "entity_type": "material",
+      "surface_form": "κεραμεοῦν ἀγγεῖον ἀκώνητον",
+      "normalized_label": "κεραμεοῦν ἀγγεῖον ἀκώνητον"
+    }
+  ],
+  "canonical_file": "data/recipes/dioscorides-1-71-5-burned-resin-with-water.json",
+  "source_entry": {
+    "source_id": "dioscorides-1-71-5-burned-resin-with-water",
+    "derived_recipe_id": "dioscorides-1-71-5-burned-resin-with-water",
+    "entry_kind": "technique",
+    "source_kind": "main_text",
+    "source_lines": {
+      "start": 3695,
+      "end": 3934
+    },
+    "section_markers": []
+  },
+  "entity_groups": {
+    "labels": [
+      {
+        "entity_urn": "urn:aos:recipe-preparation:dioscorides-1-71-5-burned-resin-with-water:preparation:retine-kekaymene-meta-ydatos",
+        "surface_form": "ῥητίνη κεκαυμένη μετὰ ὕδατος",
+        "normalized_label": "ῥητίνη κεκαυμένη μετὰ ὕδατος"
+      }
+    ],
+    "ingredients": [
+      {
+        "entity_urn": "urn:aos:recipe-ingredient:dioscorides-1-71-5-burned-resin-with-water:ingredient:retine-ygra-1",
+        "surface_form": "πᾶσα ῥητίνη ὑγρὰ",
+        "normalized_label": "ῥητίνη ὑγρά",
+        "quantity_display": "χοῦν"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-ingredient:dioscorides-1-71-5-burned-resin-with-water:ingredient:ydor-omerion-2",
+        "surface_form": "ὀμερίου ὕδατος",
+        "normalized_label": "ὕδωρ ὀμέριον",
+        "quantity_display": "δύο δὲ χοέας"
+      }
+    ],
+    "processes": [
+      {
+        "entity_urn": "urn:aos:recipe-process:dioscorides-1-71-5-burned-resin-with-water:process:kaiein-1",
+        "surface_form": "καίεται",
+        "normalized_label": "καίειν"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-process:dioscorides-1-71-5-burned-resin-with-water:process:emballein-2",
+        "surface_form": "ἐμβαλόντας",
+        "normalized_label": "ἐμβάλλειν"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-process:dioscorides-1-71-5-burned-resin-with-water:process:epsein-3",
+        "surface_form": "ἕψειν",
+        "normalized_label": "ἕψειν"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-process:dioscorides-1-71-5-burned-resin-with-water:process:kinein-4",
+        "surface_form": "κινοῦντας",
+        "normalized_label": "κινεῖν"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-process:dioscorides-1-71-5-burned-resin-with-water:process:psychein-5",
+        "surface_form": "ψύξαντας",
+        "normalized_label": "ψύχειν"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-process:dioscorides-1-71-5-burned-resin-with-water:process:apotithesthai-6",
+        "surface_form": "ἀποτίθεσθαι",
+        "normalized_label": "ἀποτίθεσθαι"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-process:dioscorides-1-71-5-burned-resin-with-water:process:ginesthai-7",
+        "surface_form": "γίνεται",
+        "normalized_label": "γίνεσθαι"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-process:dioscorides-1-71-5-burned-resin-with-water:process:prodiylizein-8",
+        "surface_form": "προδιυλίζειν",
+        "normalized_label": "προδιυλίζειν"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-process:dioscorides-1-71-5-burned-resin-with-water:process:tekein-9",
+        "surface_form": "τήκοντας",
+        "normalized_label": "τήκειν"
+      }
+    ],
+    "tools": [
+      {
+        "entity_urn": "urn:aos:recipe-material:dioscorides-1-71-5-burned-resin-with-water:material:chalkeion-1",
+        "surface_form": "χαλκεῖον",
+        "normalized_label": "χαλκεῖον"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-material:dioscorides-1-71-5-burned-resin-with-water:material:anthrakes-2",
+        "surface_form": "ἀνθράκων",
+        "normalized_label": "ἄνθρακες"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-material:dioscorides-1-71-5-burned-resin-with-water:material:kerameoyn-aggeion-akoneton-3",
+        "surface_form": "κεραμεοῦν ἀγγεῖον ἀκώνητον",
+        "normalized_label": "κεραμεοῦν ἀγγεῖον ἀκώνητον"
+      }
+    ],
+    "other_preparations_mentioned": [],
+    "people": [],
+    "places": [],
+    "works_mentioned": [],
+    "preparation_names": []
+  }
+}

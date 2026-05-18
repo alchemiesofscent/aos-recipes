@@ -1,0 +1,633 @@
+{
+  "dataset_key": "paul_book7_perfumes",
+  "source_json": "experiments/paul-book7-ch20-perfumes/data/paul_book7_ch20_perfumes.json",
+  "host_raw_file": "tei/raw/tlg0715001.xml",
+  "work_slug": "paul.b7.perfumes",
+  "recipe_id": "paul-7-20-4",
+  "recipe_urn": "urn:aos:recipe:paul-7-20-4",
+  "record_urn": "urn:aos:recipe-record:paul-7-20-4",
+  "author": "Paul of Aegina",
+  "work": "Medical Epitome",
+  "book": "7",
+  "chapter": "20",
+  "section": "4",
+  "chapter_name": "Ἐλαίων καὶ μύρων σκευασίαι διάφοροι.",
+  "lemma": "Ῥόδινον",
+  "text": "Ῥόδων ἐρυθρῶν ὠνυχισμένων καὶ διεψυγμένων νυχθήμερον α 𐆄 γ, ἐλαίου ὀμφακίνου ξ̸ Ἰταλικὸν α· περισφίγξας ἐπιμελῶς τὸν βῖκον, ὡς μὴ διαπνεῖσθαι, ἡλίου ἐν ὑπαίθρῳ ἐπὶ μ ἡμέρας καὶ τότε ἀποτίθεσο μὴ ἐπ' ἐδάφους ἀλλ' ἐπὶ σανίδος. τινὲς δὲ ἀντὶ τῆς ἡλιώσεως καθίασιν εἰς φρέαρ τὸν βῖκον τὰς μ ἡμέρας διὰ τὸ ἐκ τῆς ψύξεως διαφυλαχθῆναι τὴν εὐωδίαν, ἄλλοι δὲ κατορύττουσιν αὐτὸν ἐπὶ τῆς γῆς.",
+  "original_text": null,
+  "text_source": null,
+  "emendations": [],
+  "emendation_count": 0,
+  "source_kind": null,
+  "entry_kind": "recipe",
+  "citation": {
+    "pages": [
+      "2.382"
+    ],
+    "start": {
+      "page": "2.382",
+      "line": "9",
+      "xml_id": "heib-2-382-9"
+    },
+    "end": {
+      "page": "2.382",
+      "line": "15",
+      "xml_id": "heib-2-382-15"
+    },
+    "citation": {
+      "start": "2.382.9",
+      "end": "2.382.15"
+    },
+    "page_spans": [
+      {
+        "page": "2.382",
+        "start_line": "9",
+        "end_line": "15"
+      }
+    ],
+    "lines": [
+      {
+        "page": "2.382",
+        "line": "9",
+        "xml_id": "heib-2-382-9",
+        "break_no": false,
+        "text": "Ῥόδινον.",
+        "citation": "2.382.9"
+      },
+      {
+        "page": "2.382",
+        "line": "10",
+        "xml_id": "heib-2-382-10",
+        "break_no": false,
+        "text": "Ῥόδων ἐρυθρῶν ὠνυχισμένων καὶ διεψυγμένων νυχθήμερον α 𐆄 γ,",
+        "citation": "2.382.10"
+      },
+      {
+        "page": "2.382",
+        "line": "11",
+        "xml_id": "heib-2-382-11",
+        "break_no": false,
+        "text": "ἐλαίου ὀμφακίνου ξ̸ Ἰταλικὸν α· περισφίγξας ἐπιμελῶς τὸν βῖκον, ὡς",
+        "citation": "2.382.11"
+      },
+      {
+        "page": "2.382",
+        "line": "12",
+        "xml_id": "heib-2-382-12",
+        "break_no": false,
+        "text": "μὴ διαπνεῖσθαι, ἡλίου ἐν ὑπαίθρῳ ἐπὶ μ ἡμέρας καὶ τότε ἀποτίθεσο",
+        "citation": "2.382.12"
+      },
+      {
+        "page": "2.382",
+        "line": "13",
+        "xml_id": "heib-2-382-13",
+        "break_no": false,
+        "text": "μὴ ἐπ' ἐδάφους ἀλλ' ἐπὶ σανίδος. τινὲς δὲ ἀντὶ τῆς ἡλιώσεως καθία-",
+        "citation": "2.382.13"
+      },
+      {
+        "page": "2.382",
+        "line": "14",
+        "xml_id": "heib-2-382-14",
+        "break_no": true,
+        "text": "σιν εἰς φρέαρ τὸν βῖκον τὰς μ ἡμέρας διὰ τὸ ἐκ τῆς ψύξεως διαφυ-",
+        "citation": "2.382.14"
+      },
+      {
+        "page": "2.382",
+        "line": "15",
+        "xml_id": "heib-2-382-15",
+        "break_no": true,
+        "text": "λαχθῆναι τὴν εὐωδίαν, ἄλλοι δὲ κατορύττουσιν αὐτὸν ἐπὶ τῆς γῆς.",
+        "citation": "2.382.15"
+      }
+    ],
+    "edition_key": "heiberg"
+  },
+  "notes": [],
+  "alignment_status": "pending",
+  "alignment_confidence": "pending",
+  "alignment_evidence": null,
+  "review_status": "reviewed_structured_authority",
+  "review_provenance": {
+    "authority_source": "reports/entity_review/structured/paul.json",
+    "authority_recipe_id": "paul-7-20-4",
+    "authority_lemma": "Ῥόδινον",
+    "model": "gpt-5.4",
+    "reasoning_effort": "high",
+    "dataset_key": "paul_book7_perfumes",
+    "entity_model_version": "1.2",
+    "authority_version": "2026-04-13-qty-alt-v1",
+    "prompt_version": "qty-alt-pass-v1",
+    "build_version": "2026-05-18T15:51:35Z"
+  },
+  "schema_version": "1.2",
+  "build_metadata": {
+    "builder": "scripts/recipes/build_recipe_entities.py",
+    "built_at": "2026-05-18T15:51:35Z",
+    "source_structured_authority": "reports/entity_review/structured/paul.json",
+    "authority_model": "gpt-5.4",
+    "authority_reasoning_effort": "high",
+    "dataset_key": "paul_book7_perfumes",
+    "entity_model_version": "1.2",
+    "authority_version": "2026-04-13-qty-alt-v1",
+    "prompt_version": "qty-alt-pass-v1",
+    "build_version": "2026-05-18T15:51:35Z"
+  },
+  "recipe_text_excerpt": "Ῥόδων ἐρυθρῶν ὠνυχισμένων καὶ διεψυγμένων νυχθήμερον α 𐆄 γ, ἐλαίου ὀμφακίνου ξ̸ Ἰταλικὸν α· περισφίγξας ἐπιμελῶς τὸν βῖκον, ὡς μὴ",
+  "preparation": {
+    "preparation_id": "paul-7-20-4:preparation:rodinon",
+    "preparation_urn": "urn:aos:recipe-preparation:paul-7-20-4:preparation:rodinon",
+    "source_span": "Ῥόδινον",
+    "surface_form": "Ῥόδινον",
+    "normalized_label": "Ῥόδινον",
+    "qualifiers": [],
+    "regimen_notes": [],
+    "certainty": "certain",
+    "notes": [
+      "The running text does not restate the preparation name cleanly; lemma used as preparation label."
+    ],
+    "host_locator": {
+      "book": "7",
+      "chapter": "20",
+      "section": "4",
+      "citation": {
+        "start": "2.382.9",
+        "end": "2.382.15"
+      }
+    }
+  },
+  "ingredients": [
+    {
+      "ingredient_id": "paul-7-20-4:ingredient:roda-erythra-1",
+      "ingredient_urn": "urn:aos:recipe-ingredient:paul-7-20-4:ingredient:roda-erythra-1",
+      "source_span": "Ῥόδων ἐρυθρῶν ὠνυχισμένων καὶ διεψυγμένων",
+      "surface_form": "Ῥόδων ἐρυθρῶν ὠνυχισμένων καὶ διεψυγμένων",
+      "base_label": "ῥόδα",
+      "normalized_label": "ῥόδα ἐρυθρά",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [
+        "paul-7-20-4:process:onychizein-1",
+        "paul-7-20-4:process:diapsychein-2"
+      ],
+      "quantities": [
+        {
+          "source_span": "α 𐆄 γ",
+          "raw_number": "α 𐆄 γ",
+          "normalized_number": "1 3/4",
+          "raw_unit": null,
+          "normalized_unit": "uncia",
+          "certainty": "uncertain",
+          "notes": [
+            "Ancient numeral notation is preserved, but no unit is explicit in the surviving span."
+          ]
+        }
+      ],
+      "qualifiers": [
+        {
+          "qualifier_type": "color",
+          "source_span": "ἐρυθρῶν",
+          "normalized_value": "ἐρυθρά",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "notes": [],
+      "host_locator": {
+        "book": "7",
+        "chapter": "20",
+        "section": "4",
+        "citation": {
+          "start": "2.382.9",
+          "end": "2.382.15"
+        }
+      }
+    },
+    {
+      "ingredient_id": "paul-7-20-4:ingredient:elaion-omphakinon-2",
+      "ingredient_urn": "urn:aos:recipe-ingredient:paul-7-20-4:ingredient:elaion-omphakinon-2",
+      "source_span": "ἐλαίου ὀμφακίνου",
+      "surface_form": "ἐλαίου ὀμφακίνου",
+      "base_label": "ἔλαιον",
+      "normalized_label": "ἔλαιον ὀμφάκινον",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [],
+      "quantities": [
+        {
+          "source_span": "ξ̸ Ἰταλικὸν α",
+          "raw_number": "α",
+          "normalized_number": 1,
+          "raw_unit": "ξ̸ Ἰταλικὸν",
+          "normalized_unit": "xestes",
+          "certainty": "uncertain",
+          "notes": [
+            "The abbreviated unit is likely ξέστης, but the expansion is inferred."
+          ]
+        }
+      ],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "7",
+        "chapter": "20",
+        "section": "4",
+        "citation": {
+          "start": "2.382.9",
+          "end": "2.382.15"
+        }
+      }
+    }
+  ],
+  "processes": [
+    {
+      "process_id": "paul-7-20-4:process:onychizein-1",
+      "process_urn": "urn:aos:recipe-process:paul-7-20-4:process:onychizein-1",
+      "source_span": "ὠνυχισμένων",
+      "surface_form": "ὠνυχισμένων",
+      "normalized_label": "ὀνυχίζειν",
+      "target_type": "ingredient",
+      "target_ids": [
+        "paul-7-20-4:ingredient:roda-erythra-1"
+      ],
+      "quantities": [],
+      "qualifiers": [],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "7",
+        "chapter": "20",
+        "section": "4",
+        "citation": {
+          "start": "2.382.9",
+          "end": "2.382.15"
+        }
+      }
+    },
+    {
+      "process_id": "paul-7-20-4:process:diapsychein-2",
+      "process_urn": "urn:aos:recipe-process:paul-7-20-4:process:diapsychein-2",
+      "source_span": "διεψυγμένων",
+      "surface_form": "διεψυγμένων",
+      "normalized_label": "διαψύχειν",
+      "target_type": "ingredient",
+      "target_ids": [
+        "paul-7-20-4:ingredient:roda-erythra-1"
+      ],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "duration",
+          "source_span": "νυχθήμερον",
+          "normalized_value": "νυχθήμερον",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "7",
+        "chapter": "20",
+        "section": "4",
+        "citation": {
+          "start": "2.382.9",
+          "end": "2.382.15"
+        }
+      }
+    },
+    {
+      "process_id": "paul-7-20-4:process:perisphiggein-3",
+      "process_urn": "urn:aos:recipe-process:paul-7-20-4:process:perisphiggein-3",
+      "source_span": "περισφίγξας",
+      "surface_form": "περισφίγξας",
+      "normalized_label": "περισφίγγειν",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "manner",
+          "source_span": "ἐπιμελῶς",
+          "normalized_value": "ἐπιμελῶς",
+          "certainty": "certain",
+          "notes": []
+        },
+        {
+          "qualifier_type": "other",
+          "source_span": "ὡς μὴ διαπνεῖσθαι",
+          "normalized_value": null,
+          "certainty": "certain",
+          "notes": [
+            "Purpose clause attached to the sealing step."
+          ]
+        }
+      ],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "7",
+        "chapter": "20",
+        "section": "4",
+        "citation": {
+          "start": "2.382.9",
+          "end": "2.382.15"
+        }
+      }
+    },
+    {
+      "process_id": "paul-7-20-4:process:elioyn-4",
+      "process_urn": "urn:aos:recipe-process:paul-7-20-4:process:elioyn-4",
+      "source_span": "ἡλιώσεως",
+      "surface_form": "ἡλιώσεως",
+      "normalized_label": "ἡλιοῦν",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "exposure",
+          "source_span": "ἡλίου",
+          "normalized_value": "ἥλιος",
+          "certainty": "certain",
+          "notes": []
+        },
+        {
+          "qualifier_type": "location",
+          "source_span": "ἐν ὑπαίθρῳ",
+          "normalized_value": "ὕπαιθρος",
+          "certainty": "certain",
+          "notes": []
+        },
+        {
+          "qualifier_type": "duration",
+          "source_span": "ἐπὶ μ ἡμέρας",
+          "normalized_value": "40 ἡμέραι",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "certainty": "uncertain",
+      "notes": [
+        "The sun-exposure step is explicit in the procedure but referred to elliptically; the action noun ἡλιώσεως supplies the process label."
+      ],
+      "host_locator": {
+        "book": "7",
+        "chapter": "20",
+        "section": "4",
+        "citation": {
+          "start": "2.382.9",
+          "end": "2.382.15"
+        }
+      }
+    },
+    {
+      "process_id": "paul-7-20-4:process:apotithesthai-5",
+      "process_urn": "urn:aos:recipe-process:paul-7-20-4:process:apotithesthai-5",
+      "source_span": "ἀποτίθεσο",
+      "surface_form": "ἀποτίθεσο",
+      "normalized_label": "ἀποτίθεσθαι",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "other",
+          "source_span": "τότε",
+          "normalized_value": "τότε",
+          "certainty": "certain",
+          "notes": []
+        },
+        {
+          "qualifier_type": "location",
+          "source_span": "μὴ ἐπ' ἐδάφους",
+          "normalized_value": "οὐκ ἐπὶ ἔδαφος",
+          "certainty": "certain",
+          "notes": []
+        },
+        {
+          "qualifier_type": "location",
+          "source_span": "ἐπὶ σανίδος",
+          "normalized_value": "ἐπὶ σανίδος",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "7",
+        "chapter": "20",
+        "section": "4",
+        "citation": {
+          "start": "2.382.9",
+          "end": "2.382.15"
+        }
+      }
+    },
+    {
+      "process_id": "paul-7-20-4:process:kathienai-6",
+      "process_urn": "urn:aos:recipe-process:paul-7-20-4:process:kathienai-6",
+      "source_span": "καθίασιν",
+      "surface_form": "καθίασιν",
+      "normalized_label": "καθιέναι",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "location",
+          "source_span": "εἰς φρέαρ",
+          "normalized_value": "εἰς φρέαρ",
+          "certainty": "certain",
+          "notes": []
+        },
+        {
+          "qualifier_type": "duration",
+          "source_span": "τὰς μ ἡμέρας",
+          "normalized_value": "40 ἡμέραι",
+          "certainty": "certain",
+          "notes": []
+        },
+        {
+          "qualifier_type": "temperature",
+          "source_span": "ἐκ τῆς ψύξεως",
+          "normalized_value": "ψύξις",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "certainty": "certain",
+      "notes": [
+        "Variant method introduced by τινὲς; rationale given is preserving the fragrance."
+      ],
+      "host_locator": {
+        "book": "7",
+        "chapter": "20",
+        "section": "4",
+        "citation": {
+          "start": "2.382.9",
+          "end": "2.382.15"
+        }
+      }
+    },
+    {
+      "process_id": "paul-7-20-4:process:katoryttein-7",
+      "process_urn": "urn:aos:recipe-process:paul-7-20-4:process:katoryttein-7",
+      "source_span": "κατορύττουσιν",
+      "surface_form": "κατορύττουσιν",
+      "normalized_label": "κατορύττειν",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "location",
+          "source_span": "ἐπὶ τῆς γῆς",
+          "normalized_value": "γῆ",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "certainty": "certain",
+      "notes": [
+        "Alternative method introduced by ἄλλοι."
+      ],
+      "host_locator": {
+        "book": "7",
+        "chapter": "20",
+        "section": "4",
+        "citation": {
+          "start": "2.382.9",
+          "end": "2.382.15"
+        }
+      }
+    }
+  ],
+  "materials": [
+    {
+      "material_id": "paul-7-20-4:material:bikos-1",
+      "material_urn": "urn:aos:recipe-material:paul-7-20-4:material:bikos-1",
+      "source_span": "τὸν βῖκον",
+      "surface_form": "τὸν βῖκον",
+      "normalized_label": "βῖκος",
+      "role": "apparatus",
+      "certainty": "certain",
+      "quantities": [],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "7",
+        "chapter": "20",
+        "section": "4",
+        "citation": {
+          "start": "2.382.9",
+          "end": "2.382.15"
+        }
+      }
+    },
+    {
+      "material_id": "paul-7-20-4:material:sanis-2",
+      "material_urn": "urn:aos:recipe-material:paul-7-20-4:material:sanis-2",
+      "source_span": "σανίδος",
+      "surface_form": "σανίδος",
+      "normalized_label": "σανίς",
+      "role": "adjunct_material",
+      "certainty": "certain",
+      "quantities": [],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "7",
+        "chapter": "20",
+        "section": "4",
+        "citation": {
+          "start": "2.382.9",
+          "end": "2.382.15"
+        }
+      }
+    }
+  ],
+  "people": [],
+  "places": [],
+  "uses": [],
+  "preparation_names": [],
+  "other_preparations_mentioned": [],
+  "works_mentioned": [],
+  "entities": [
+    {
+      "entity_urn": "urn:aos:recipe-preparation:paul-7-20-4:preparation:rodinon",
+      "entity_type": "label",
+      "surface_form": "Ῥόδινον",
+      "normalized_label": "Ῥόδινον"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:paul-7-20-4:ingredient:roda-erythra-1",
+      "entity_type": "ingredient",
+      "surface_form": "Ῥόδων ἐρυθρῶν ὠνυχισμένων καὶ διεψυγμένων",
+      "normalized_label": "ῥόδα ἐρυθρά"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:paul-7-20-4:ingredient:elaion-omphakinon-2",
+      "entity_type": "ingredient",
+      "surface_form": "ἐλαίου ὀμφακίνου",
+      "normalized_label": "ἔλαιον ὀμφάκινον"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:paul-7-20-4:process:onychizein-1",
+      "entity_type": "process",
+      "surface_form": "ὠνυχισμένων",
+      "normalized_label": "ὀνυχίζειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:paul-7-20-4:process:diapsychein-2",
+      "entity_type": "process",
+      "surface_form": "διεψυγμένων",
+      "normalized_label": "διαψύχειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:paul-7-20-4:process:perisphiggein-3",
+      "entity_type": "process",
+      "surface_form": "περισφίγξας",
+      "normalized_label": "περισφίγγειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:paul-7-20-4:process:elioyn-4",
+      "entity_type": "process",
+      "surface_form": "ἡλιώσεως",
+      "normalized_label": "ἡλιοῦν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:paul-7-20-4:process:apotithesthai-5",
+      "entity_type": "process",
+      "surface_form": "ἀποτίθεσο",
+      "normalized_label": "ἀποτίθεσθαι"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:paul-7-20-4:process:kathienai-6",
+      "entity_type": "process",
+      "surface_form": "καθίασιν",
+      "normalized_label": "καθιέναι"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:paul-7-20-4:process:katoryttein-7",
+      "entity_type": "process",
+      "surface_form": "κατορύττουσιν",
+      "normalized_label": "κατορύττειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-material:paul-7-20-4:material:bikos-1",
+      "entity_type": "material",
+      "surface_form": "τὸν βῖκον",
+      "normalized_label": "βῖκος"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-material:paul-7-20-4:material:sanis-2",
+      "entity_type": "material",
+      "surface_form": "σανίδος",
+      "normalized_label": "σανίς"
+    }
+  ]
+}

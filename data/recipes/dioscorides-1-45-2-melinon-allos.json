@@ -1,0 +1,599 @@
+{
+  "dataset_key": "dioscorides_book1_perfumes_resins",
+  "source_json": "experiments/dioscorides-book1-perfumes-resins/data/dioscorides_book1_perfumes_resins.json",
+  "host_raw_file": "tei/raw/tlg0656.tlg001.1st1K-grc1.xml",
+  "work_slug": "diosc.b1.recipes",
+  "recipe_id": "dioscorides-1-45-2-melinon-allos",
+  "recipe_urn": "urn:aos:recipe:dioscorides-1-45-2-melinon-allos",
+  "record_urn": "urn:aos:recipe-record:dioscorides-1-45-2-melinon-allos",
+  "author": "Dioscorides",
+  "work": "De materia medica",
+  "book": "1",
+  "chapter": "45",
+  "section": "2",
+  "chapter_name": "μηλῖνον",
+  "lemma": "μηλῖνον ἄλλως",
+  "text": "2 ἔνιοι δὲ τὰ μῆλα περιβαλόντες ἱματίοις ἐπὶ ἡμέρας δέκα, ἵνα συνέχηται καὶ μὴ διαπνέηται ἡ εὐωδία, μετὰ ταῦτα ἀποβρέχουσι τῷ ἐλαίῳ ἡμέρας δύο καὶ νύκτας, εἶτα ἐξιπώσαντες ἀποτίθενται. δύναμιν δὲ ἔχει στυπτικήν, ψυκτικήν, ποιοῦν πρὸς τὰ ψωρώδη ἕλκη, πίτυρα, χίμετλα, ἕρπητας καὶ πρὸς τὰς ἐν ὑστέρᾳ ἑλκώσεις ἐγχυματιζόμενον, οὖρά τε ἠρεθισμένα στέλλει ἐγκλυζόμενον καὶ ἱδρῶτας ἐφίστησι· πίνεται δὲ καὶ πρὸς κανθαρίδας, βουπρήστεις, πιτυοκάμπην. εστι δὲ αὐτοῦ δόκιμον τὸ κυδωνίων ὄζον μήλων.",
+  "original_text": null,
+  "text_source": null,
+  "emendations": [],
+  "emendation_count": 0,
+  "source_kind": "main_text",
+  "entry_kind": "recipe",
+  "citation": {
+    "pages": [
+      "44"
+    ],
+    "start": {
+      "page": "44",
+      "line": "5"
+    },
+    "end": {
+      "page": "44",
+      "line": "15"
+    },
+    "citation": {
+      "start": "44.5",
+      "end": "44.15"
+    },
+    "page_spans": [
+      {
+        "page": "44",
+        "start_line": "5",
+        "end_line": "15"
+      }
+    ],
+    "lines": [
+      {
+        "page": "44",
+        "line": "5",
+        "break_no": false,
+        "text": "2 ἔνιοι δὲ τὰ μῆλα περιβαλόντες ἱματίοις ἐπὶ ἡμέρας δέκα, ἵνα",
+        "citation": "44.5"
+      },
+      {
+        "page": "44",
+        "line": "10",
+        "break_no": false,
+        "text": "συνέχηται καὶ μὴ διαπνέηται ἡ εὐωδία, μετὰ ταῦτα ἀποβρέχουσι τῷ ἐλαίῳ ἡμέρας δύο καὶ νύκτας, εἶτα ἐξιπώσαντες ἀποτίθενται. δύναμιν δὲ ἔχει στυπτικήν, ψυκτικήν, ποιοῦν πρὸς τὰ ψωρώδη ἕλκη, πίτυρα, χίμετλα, ἕρπητας καὶ πρὸς τὰς ἐν ὑστέρᾳ",
+        "citation": "44.10"
+      },
+      {
+        "page": "44",
+        "line": "15",
+        "break_no": false,
+        "text": "ἑλκώσεις ἐγχυματιζόμενον, οὖρά τε ἠρεθισμένα στέλλει ἐγκλυζόμενον καὶ ἱδρῶτας ἐφίστησι· πίνεται δὲ καὶ πρὸς κανθαρίδας, βουπρήστεις, πιτυοκάμπην. εστι δὲ αὐτοῦ δόκιμον τὸ κυδωνίων ὄζον μήλων.",
+        "citation": "44.15"
+      }
+    ],
+    "edition_key": "wellmann"
+  },
+  "notes": [
+    "Raw lines 1590-1633 are book 1 chapter 25 in this witness, although the prompt referred to chapter 35.",
+    "The perfume proemium is taken from the later transition at chapter 42 section 2 (raw lines 2306-2342), not from the chapter 25 κῦφι entry.",
+    "The ἰασμέλαιον entry is preserved only in the apparatus as an addition from another recension.",
+    "δύναμιν δὲ ἔχει στυπτικήν, ψυκτικήν.",
+    "εστι δὲ αὐτοῦ δόκιμον τὸ κυδωνίων ὄζον μήλων."
+  ],
+  "alignment_status": "pending",
+  "alignment_confidence": "pending",
+  "alignment_evidence": null,
+  "review_status": "reviewed_structured_authority",
+  "review_provenance": {
+    "authority_source": "reports/entity_review/structured/dioscorides.json",
+    "authority_recipe_id": "dioscorides-1-45-2-melinon-allos",
+    "authority_lemma": "μηλῖνον",
+    "model": "gpt-5.4",
+    "reasoning_effort": "high",
+    "dataset_key": "dioscorides_book1_perfumes_resins",
+    "entity_model_version": "1.2",
+    "authority_version": "2026-04-13-qty-alt-v1",
+    "prompt_version": "qty-alt-pass-v1",
+    "build_version": "2026-05-18T15:51:35Z"
+  },
+  "schema_version": "1.2",
+  "build_metadata": {
+    "builder": "scripts/recipes/build_recipe_entities.py",
+    "built_at": "2026-05-18T15:51:35Z",
+    "source_structured_authority": "reports/entity_review/structured/dioscorides.json",
+    "authority_model": "gpt-5.4",
+    "authority_reasoning_effort": "high",
+    "dataset_key": "dioscorides_book1_perfumes_resins",
+    "entity_model_version": "1.2",
+    "authority_version": "2026-04-13-qty-alt-v1",
+    "prompt_version": "qty-alt-pass-v1",
+    "build_version": "2026-05-18T15:51:35Z"
+  },
+  "recipe_text_excerpt": "ἔνιοι δὲ τὰ μῆλα περιβαλόντες ἱματίοις ἐπὶ ἡμέρας δέκα, ἵνα συνέχηται καὶ μὴ διαπνέηται ἡ εὐωδία, μετὰ ταῦτα ἀποβρέχουσι τῷ",
+  "preparation": {
+    "preparation_id": "dioscorides-1-45-2-melinon-allos:preparation:melinon",
+    "preparation_urn": "urn:aos:recipe-preparation:dioscorides-1-45-2-melinon-allos:preparation:melinon",
+    "source_span": "μηλῖνον ἄλλως",
+    "surface_form": "μηλῖνον ἄλλως",
+    "normalized_label": "μηλῖνον",
+    "qualifiers": [],
+    "regimen_notes": [],
+    "certainty": "certain",
+    "notes": [
+      "Running text does not restate the preparation name cleanly; normalized label is taken from the lemma, excluding the variant marker ἄλλως."
+    ],
+    "host_locator": {
+      "book": "1",
+      "chapter": "45",
+      "section": "2",
+      "citation": {
+        "start": "44.5",
+        "end": "44.15"
+      }
+    }
+  },
+  "ingredients": [
+    {
+      "ingredient_id": "dioscorides-1-45-2-melinon-allos:ingredient:melon-1",
+      "ingredient_urn": "urn:aos:recipe-ingredient:dioscorides-1-45-2-melinon-allos:ingredient:melon-1",
+      "source_span": "τὰ μῆλα",
+      "surface_form": "τὰ μῆλα",
+      "base_label": "μῆλα",
+      "normalized_label": "μῆλον",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [
+        "dioscorides-1-45-2-melinon-allos:process:periballein-1",
+        "dioscorides-1-45-2-melinon-allos:process:apobrechein-2"
+      ],
+      "quantities": [],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "45",
+        "section": "2",
+        "citation": {
+          "start": "44.5",
+          "end": "44.15"
+        }
+      }
+    },
+    {
+      "ingredient_id": "dioscorides-1-45-2-melinon-allos:ingredient:elaion-2",
+      "ingredient_urn": "urn:aos:recipe-ingredient:dioscorides-1-45-2-melinon-allos:ingredient:elaion-2",
+      "source_span": "τῷ ἐλαίῳ",
+      "surface_form": "τῷ ἐλαίῳ",
+      "base_label": "ἔλαιον",
+      "normalized_label": "ἔλαιον",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [
+        "dioscorides-1-45-2-melinon-allos:process:apobrechein-2"
+      ],
+      "quantities": [],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "45",
+        "section": "2",
+        "citation": {
+          "start": "44.5",
+          "end": "44.15"
+        }
+      }
+    }
+  ],
+  "processes": [
+    {
+      "process_id": "dioscorides-1-45-2-melinon-allos:process:periballein-1",
+      "process_urn": "urn:aos:recipe-process:dioscorides-1-45-2-melinon-allos:process:periballein-1",
+      "source_span": "περιβαλόντες",
+      "surface_form": "περιβαλόντες",
+      "normalized_label": "περιβάλλειν",
+      "target_type": "ingredient",
+      "target_ids": [
+        "dioscorides-1-45-2-melinon-allos:ingredient:melon-1"
+      ],
+      "quantities": [
+        {
+          "source_span": "ἐπὶ ἡμέρας δέκα",
+          "raw_number": "δέκα",
+          "normalized_number": 10,
+          "raw_unit": "ἡμέρας",
+          "normalized_unit": null,
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "qualifiers": [
+        {
+          "qualifier_type": "other",
+          "source_span": "ἵνα συνέχηται καὶ μὴ διαπνέηται ἡ εὐωδία",
+          "normalized_value": null,
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "certainty": "certain",
+      "notes": [
+        "Uses ἱματίοις as wrapping material."
+      ],
+      "host_locator": {
+        "book": "1",
+        "chapter": "45",
+        "section": "2",
+        "citation": {
+          "start": "44.5",
+          "end": "44.15"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-1-45-2-melinon-allos:process:apobrechein-2",
+      "process_urn": "urn:aos:recipe-process:dioscorides-1-45-2-melinon-allos:process:apobrechein-2",
+      "source_span": "ἀποβρέχουσι",
+      "surface_form": "ἀποβρέχουσι",
+      "normalized_label": "ἀποβρέχειν",
+      "target_type": "ingredient",
+      "target_ids": [
+        "dioscorides-1-45-2-melinon-allos:ingredient:melon-1",
+        "dioscorides-1-45-2-melinon-allos:ingredient:elaion-2"
+      ],
+      "quantities": [
+        {
+          "source_span": "ἡμέρας δύο",
+          "raw_number": "δύο",
+          "normalized_number": 2,
+          "raw_unit": "ἡμέρας",
+          "normalized_unit": null,
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "qualifiers": [
+        {
+          "qualifier_type": "duration",
+          "source_span": "ἡμέρας δύο καὶ νύκτας",
+          "normalized_value": "2 days and nights",
+          "certainty": "certain",
+          "notes": []
+        },
+        {
+          "qualifier_type": "other",
+          "source_span": "τῷ ἐλαίῳ",
+          "normalized_value": "ἐλαίῳ",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "45",
+        "section": "2",
+        "citation": {
+          "start": "44.5",
+          "end": "44.15"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-1-45-2-melinon-allos:process:exipan-3",
+      "process_urn": "urn:aos:recipe-process:dioscorides-1-45-2-melinon-allos:process:exipan-3",
+      "source_span": "ἐξιπώσαντες",
+      "surface_form": "ἐξιπώσαντες",
+      "normalized_label": "ἐξιπᾶν",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [],
+      "certainty": "uncertain",
+      "notes": [
+        "Infinitive normalized from participial form ἐξιπώσαντες."
+      ],
+      "host_locator": {
+        "book": "1",
+        "chapter": "45",
+        "section": "2",
+        "citation": {
+          "start": "44.5",
+          "end": "44.15"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-1-45-2-melinon-allos:process:apotithesthai-4",
+      "process_urn": "urn:aos:recipe-process:dioscorides-1-45-2-melinon-allos:process:apotithesthai-4",
+      "source_span": "ἀποτίθενται",
+      "surface_form": "ἀποτίθενται",
+      "normalized_label": "ἀποτίθεσθαι",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "45",
+        "section": "2",
+        "citation": {
+          "start": "44.5",
+          "end": "44.15"
+        }
+      }
+    }
+  ],
+  "materials": [
+    {
+      "material_id": "dioscorides-1-45-2-melinon-allos:material:imation-1",
+      "material_urn": "urn:aos:recipe-material:dioscorides-1-45-2-melinon-allos:material:imation-1",
+      "source_span": "ἱματίοις",
+      "surface_form": "ἱματίοις",
+      "normalized_label": "ἱμάτιον",
+      "role": "adjunct_material",
+      "certainty": "certain",
+      "quantities": [],
+      "qualifiers": [],
+      "notes": [
+        "Used to wrap the apples during the initial holding period."
+      ],
+      "host_locator": {
+        "book": "1",
+        "chapter": "45",
+        "section": "2",
+        "citation": {
+          "start": "44.5",
+          "end": "44.15"
+        }
+      }
+    }
+  ],
+  "people": [
+    {
+      "person_id": "dioscorides-1-45-2-melinon-allos:person:enioi-1",
+      "person_urn": "urn:aos:recipe-person:dioscorides-1-45-2-melinon-allos:person:enioi-1",
+      "source_span": "ἔνιοι",
+      "surface_form": "ἔνιοι",
+      "normalized_label": "ἔνιοι",
+      "certainty": "certain",
+      "notes": [
+        "Unnamed alternative authorities for this method."
+      ],
+      "host_locator": {
+        "book": "1",
+        "chapter": "45",
+        "section": "2",
+        "citation": {
+          "start": "44.5",
+          "end": "44.15"
+        }
+      }
+    }
+  ],
+  "places": [],
+  "uses": [
+    {
+      "use_id": "dioscorides-1-45-2-melinon-allos:use:pros-ta-psorode-elke-pityra-chimetla-erpetas-1",
+      "use_urn": "urn:aos:recipe-use:dioscorides-1-45-2-melinon-allos:use:pros-ta-psorode-elke-pityra-chimetla-erpetas-1",
+      "category": "medical",
+      "source_span": "πρὸς τὰ ψωρώδη ἕλκη, πίτυρα, χίμετλα, ἕρπητας",
+      "snippet": "πρὸς τὰ ψωρώδη ἕλκη, πίτυρα, χίμετλα, ἕρπητας",
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "45",
+        "section": "2",
+        "citation": {
+          "start": "44.5",
+          "end": "44.15"
+        }
+      }
+    },
+    {
+      "use_id": "dioscorides-1-45-2-melinon-allos:use:pros-tas-en-ystera-elkoseis-egchymatizomenon-2",
+      "use_urn": "urn:aos:recipe-use:dioscorides-1-45-2-melinon-allos:use:pros-tas-en-ystera-elkoseis-egchymatizomenon-2",
+      "category": "medical",
+      "source_span": "πρὸς τὰς ἐν ὑστέρᾳ ἑλκώσεις ἐγχυματιζόμενον",
+      "snippet": "πρὸς τὰς ἐν ὑστέρᾳ ἑλκώσεις ἐγχυματιζόμενον",
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "45",
+        "section": "2",
+        "citation": {
+          "start": "44.5",
+          "end": "44.15"
+        }
+      }
+    },
+    {
+      "use_id": "dioscorides-1-45-2-melinon-allos:use:oyra-te-erethismena-stellei-egklyzomenon-3",
+      "use_urn": "urn:aos:recipe-use:dioscorides-1-45-2-melinon-allos:use:oyra-te-erethismena-stellei-egklyzomenon-3",
+      "category": "medical",
+      "source_span": "οὖρά τε ἠρεθισμένα στέλλει ἐγκλυζόμενον",
+      "snippet": "οὖρά τε ἠρεθισμένα στέλλει ἐγκλυζόμενον",
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "45",
+        "section": "2",
+        "citation": {
+          "start": "44.5",
+          "end": "44.15"
+        }
+      }
+    },
+    {
+      "use_id": "dioscorides-1-45-2-melinon-allos:use:idrotas-ephistesi-4",
+      "use_urn": "urn:aos:recipe-use:dioscorides-1-45-2-melinon-allos:use:idrotas-ephistesi-4",
+      "category": "medical",
+      "source_span": "ἱδρῶτας ἐφίστησι",
+      "snippet": "ἱδρῶτας ἐφίστησι",
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "45",
+        "section": "2",
+        "citation": {
+          "start": "44.5",
+          "end": "44.15"
+        }
+      }
+    },
+    {
+      "use_id": "dioscorides-1-45-2-melinon-allos:use:pinetai-de-kai-pros-kantharidas-boypresteis-pityokampen-5",
+      "use_urn": "urn:aos:recipe-use:dioscorides-1-45-2-melinon-allos:use:pinetai-de-kai-pros-kantharidas-boypresteis-pityokampen-5",
+      "category": "medical",
+      "source_span": "πίνεται δὲ καὶ πρὸς κανθαρίδας, βουπρήστεις, πιτυοκάμπην",
+      "snippet": "πίνεται δὲ καὶ πρὸς κανθαρίδας, βουπρήστεις, πιτυοκάμπην",
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "45",
+        "section": "2",
+        "citation": {
+          "start": "44.5",
+          "end": "44.15"
+        }
+      }
+    }
+  ],
+  "preparation_names": [],
+  "other_preparations_mentioned": [],
+  "works_mentioned": [],
+  "entities": [
+    {
+      "entity_urn": "urn:aos:recipe-preparation:dioscorides-1-45-2-melinon-allos:preparation:melinon",
+      "entity_type": "label",
+      "surface_form": "μηλῖνον ἄλλως",
+      "normalized_label": "μηλῖνον"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:dioscorides-1-45-2-melinon-allos:ingredient:melon-1",
+      "entity_type": "ingredient",
+      "surface_form": "τὰ μῆλα",
+      "normalized_label": "μῆλον"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:dioscorides-1-45-2-melinon-allos:ingredient:elaion-2",
+      "entity_type": "ingredient",
+      "surface_form": "τῷ ἐλαίῳ",
+      "normalized_label": "ἔλαιον"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-1-45-2-melinon-allos:process:periballein-1",
+      "entity_type": "process",
+      "surface_form": "περιβαλόντες",
+      "normalized_label": "περιβάλλειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-1-45-2-melinon-allos:process:apobrechein-2",
+      "entity_type": "process",
+      "surface_form": "ἀποβρέχουσι",
+      "normalized_label": "ἀποβρέχειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-1-45-2-melinon-allos:process:exipan-3",
+      "entity_type": "process",
+      "surface_form": "ἐξιπώσαντες",
+      "normalized_label": "ἐξιπᾶν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-1-45-2-melinon-allos:process:apotithesthai-4",
+      "entity_type": "process",
+      "surface_form": "ἀποτίθενται",
+      "normalized_label": "ἀποτίθεσθαι"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-material:dioscorides-1-45-2-melinon-allos:material:imation-1",
+      "entity_type": "material",
+      "surface_form": "ἱματίοις",
+      "normalized_label": "ἱμάτιον"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-person:dioscorides-1-45-2-melinon-allos:person:enioi-1",
+      "entity_type": "person",
+      "surface_form": "ἔνιοι",
+      "normalized_label": "ἔνιοι"
+    }
+  ],
+  "canonical_file": "data/recipes/dioscorides-1-45-2-melinon-allos.json",
+  "source_entry": {
+    "source_id": "dioscorides-1-45-2-melinon-allos",
+    "derived_recipe_id": "dioscorides-1-45-2-melinon-allos",
+    "entry_kind": "recipe",
+    "source_kind": "main_text",
+    "source_lines": {
+      "start": 1855,
+      "end": 3167
+    },
+    "section_markers": []
+  },
+  "entity_groups": {
+    "labels": [
+      {
+        "entity_urn": "urn:aos:recipe-preparation:dioscorides-1-45-2-melinon-allos:preparation:melinon",
+        "surface_form": "μηλῖνον ἄλλως",
+        "normalized_label": "μηλῖνον"
+      }
+    ],
+    "ingredients": [
+      {
+        "entity_urn": "urn:aos:recipe-ingredient:dioscorides-1-45-2-melinon-allos:ingredient:melon-1",
+        "surface_form": "τὰ μῆλα",
+        "normalized_label": "μῆλον",
+        "quantity_display": ""
+      },
+      {
+        "entity_urn": "urn:aos:recipe-ingredient:dioscorides-1-45-2-melinon-allos:ingredient:elaion-2",
+        "surface_form": "τῷ ἐλαίῳ",
+        "normalized_label": "ἔλαιον",
+        "quantity_display": ""
+      }
+    ],
+    "processes": [
+      {
+        "entity_urn": "urn:aos:recipe-process:dioscorides-1-45-2-melinon-allos:process:periballein-1",
+        "surface_form": "περιβαλόντες",
+        "normalized_label": "περιβάλλειν"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-process:dioscorides-1-45-2-melinon-allos:process:apobrechein-2",
+        "surface_form": "ἀποβρέχουσι",
+        "normalized_label": "ἀποβρέχειν"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-process:dioscorides-1-45-2-melinon-allos:process:exipan-3",
+        "surface_form": "ἐξιπώσαντες",
+        "normalized_label": "ἐξιπᾶν"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-process:dioscorides-1-45-2-melinon-allos:process:apotithesthai-4",
+        "surface_form": "ἀποτίθενται",
+        "normalized_label": "ἀποτίθεσθαι"
+      }
+    ],
+    "tools": [
+      {
+        "entity_urn": "urn:aos:recipe-material:dioscorides-1-45-2-melinon-allos:material:imation-1",
+        "surface_form": "ἱματίοις",
+        "normalized_label": "ἱμάτιον"
+      }
+    ],
+    "other_preparations_mentioned": [],
+    "people": [
+      {
+        "entity_urn": "urn:aos:recipe-person:dioscorides-1-45-2-melinon-allos:person:enioi-1",
+        "surface_form": "ἔνιοι",
+        "normalized_label": "ἔνιοι"
+      }
+    ],
+    "places": [],
+    "works_mentioned": [],
+    "preparation_names": []
+  }
+}

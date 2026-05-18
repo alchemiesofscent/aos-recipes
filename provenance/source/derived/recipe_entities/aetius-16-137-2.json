@@ -1,0 +1,345 @@
+{
+  "dataset_key": "aetius_book16_myrepsika",
+  "source_json": "experiments/aetius-book16-ch126-153-myrepsika/data/aetius_book16_ch126_153_myrepsika.json",
+  "host_raw_file": "tei/raw/tlg0718016.xml",
+  "work_slug": "aetius.b16.myrepsika",
+  "recipe_id": "aetius-16-137-2",
+  "recipe_urn": "urn:aos:recipe:aetius-16-137-2",
+  "record_urn": "urn:aos:recipe-record:aetius-16-137-2",
+  "author": "Aëtius of Amida",
+  "work": "Libri medicinales",
+  "book": "16",
+  "chapter": "137",
+  "section": "2",
+  "chapter_name": "ἀψινθάτου σκευασία · σεσελίτου σκευασία · ἀνισάτου σκευασία",
+  "lemma": "σεσελίτου σκευασία",
+  "text": "Πεπέρεως γράμματα στ. ναρδοστάχυος γράμμα α. σεσέλεως δραχ. ε. οἴνου ξεε ἤτοι ξέστ. ε. μέλιτος ξεα.",
+  "original_text": null,
+  "text_source": null,
+  "emendations": [],
+  "emendation_count": 0,
+  "source_kind": null,
+  "entry_kind": "recipe",
+  "citation": {
+    "pages": [
+      "167"
+    ],
+    "start": {
+      "page": "167",
+      "line": "1",
+      "xml_id": "zerv-167-1"
+    },
+    "end": {
+      "page": "167",
+      "line": "3",
+      "xml_id": "zerv-167-3"
+    },
+    "citation": {
+      "start": "167.1",
+      "end": "167.3"
+    },
+    "page_spans": [
+      {
+        "page": "167",
+        "start_line": "1",
+        "end_line": "3"
+      }
+    ],
+    "lines": [
+      {
+        "page": "167",
+        "line": "1",
+        "xml_id": "zerv-167-1",
+        "citation": "167.1",
+        "text": "ΣΕΣΕΛΙΤΟΥ ΣΚΕΥΑΣΙΑ."
+      },
+      {
+        "page": "167",
+        "line": "2",
+        "xml_id": "zerv-167-2",
+        "citation": "167.2",
+        "text": "Πεπέρεως γράμματα στ. ναρδοστάχυος γράμμα α. σεσέλεως"
+      },
+      {
+        "page": "167",
+        "line": "3",
+        "xml_id": "zerv-167-3",
+        "citation": "167.3",
+        "text": "δραχ. ε. οἴνου ξεε ἤτοι ξέστ. ε. μέλιτος ξεα."
+      }
+    ],
+    "edition_key": "zervos"
+  },
+  "notes": [
+    "No explicit process verb appears in the text; the passage is an ingredient list with quantities only."
+  ],
+  "alignment_status": "pending",
+  "alignment_confidence": "pending",
+  "alignment_evidence": null,
+  "review_status": "reviewed_structured_authority",
+  "review_provenance": {
+    "authority_source": "reports/entity_review/structured/aetius_book16.json",
+    "authority_recipe_id": "aetius-16-137-2",
+    "authority_lemma": "σεσελίτου σκευασία",
+    "model": "gpt-5.4",
+    "reasoning_effort": "high",
+    "dataset_key": "aetius_book16_myrepsika",
+    "entity_model_version": "1.2",
+    "authority_version": "2026-04-13-qty-alt-v1",
+    "prompt_version": "qty-alt-pass-v1",
+    "build_version": "2026-05-18T15:51:35Z"
+  },
+  "schema_version": "1.2",
+  "build_metadata": {
+    "builder": "scripts/recipes/build_recipe_entities.py",
+    "built_at": "2026-05-18T15:51:35Z",
+    "source_structured_authority": "reports/entity_review/structured/aetius_book16.json",
+    "authority_model": "gpt-5.4",
+    "authority_reasoning_effort": "high",
+    "dataset_key": "aetius_book16_myrepsika",
+    "entity_model_version": "1.2",
+    "authority_version": "2026-04-13-qty-alt-v1",
+    "prompt_version": "qty-alt-pass-v1",
+    "build_version": "2026-05-18T15:51:35Z"
+  },
+  "recipe_text_excerpt": "Πεπέρεως γράμματα στ. ναρδοστάχυος γράμμα α. σεσέλεως δραχ. ε. οἴνου ξεε ἤτοι ξέστ. ε. μέλιτος ξεα.",
+  "preparation": {
+    "preparation_id": "aetius-16-137-2:preparation:seselitoy-skeyasia",
+    "preparation_urn": "urn:aos:recipe-preparation:aetius-16-137-2:preparation:seselitoy-skeyasia",
+    "source_span": "σεσελίτου σκευασία",
+    "surface_form": "σεσελίτου σκευασία",
+    "normalized_label": "σεσελίτου σκευασία",
+    "qualifiers": [],
+    "regimen_notes": [],
+    "certainty": "certain",
+    "notes": [
+      "The running text gives ingredients and quantities but does not restate the preparation name; the lemma supplies the preparation label."
+    ],
+    "host_locator": {
+      "book": "16",
+      "chapter": "137",
+      "section": "2",
+      "citation": {
+        "start": "167.1",
+        "end": "167.3"
+      }
+    }
+  },
+  "ingredients": [
+    {
+      "ingredient_id": "aetius-16-137-2:ingredient:peperi-1",
+      "ingredient_urn": "urn:aos:recipe-ingredient:aetius-16-137-2:ingredient:peperi-1",
+      "source_span": "Πεπέρεως γράμματα στ.",
+      "surface_form": "Πεπέρεως γράμματα στ.",
+      "base_label": "Πεπέρεως",
+      "normalized_label": "πέπερι",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [],
+      "quantities": [
+        {
+          "source_span": "γράμματα στ.",
+          "raw_number": "στ",
+          "normalized_number": 6,
+          "raw_unit": "γράμματα",
+          "normalized_unit": "gramma",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "16",
+        "chapter": "137",
+        "section": "2",
+        "citation": {
+          "start": "167.1",
+          "end": "167.3"
+        }
+      }
+    },
+    {
+      "ingredient_id": "aetius-16-137-2:ingredient:nardostachys-2",
+      "ingredient_urn": "urn:aos:recipe-ingredient:aetius-16-137-2:ingredient:nardostachys-2",
+      "source_span": "ναρδοστάχυος γράμμα α.",
+      "surface_form": "ναρδοστάχυος γράμμα α.",
+      "base_label": "ναρδοστάχυος",
+      "normalized_label": "ναρδόσταχυς",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [],
+      "quantities": [
+        {
+          "source_span": "γράμμα α.",
+          "raw_number": "α",
+          "normalized_number": 1,
+          "raw_unit": "γράμμα",
+          "normalized_unit": "gramma",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "16",
+        "chapter": "137",
+        "section": "2",
+        "citation": {
+          "start": "167.1",
+          "end": "167.3"
+        }
+      }
+    },
+    {
+      "ingredient_id": "aetius-16-137-2:ingredient:seseli-3",
+      "ingredient_urn": "urn:aos:recipe-ingredient:aetius-16-137-2:ingredient:seseli-3",
+      "source_span": "σεσέλεως δραχ. ε.",
+      "surface_form": "σεσέλεως δραχ. ε.",
+      "base_label": "σεσέλεως",
+      "normalized_label": "σέσελι",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [],
+      "quantities": [
+        {
+          "source_span": "δραχ. ε.",
+          "raw_number": "ε",
+          "normalized_number": 5,
+          "raw_unit": "δραχ.",
+          "normalized_unit": "drachme",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "16",
+        "chapter": "137",
+        "section": "2",
+        "citation": {
+          "start": "167.1",
+          "end": "167.3"
+        }
+      }
+    },
+    {
+      "ingredient_id": "aetius-16-137-2:ingredient:oinos-4",
+      "ingredient_urn": "urn:aos:recipe-ingredient:aetius-16-137-2:ingredient:oinos-4",
+      "source_span": "οἴνου ξεε ἤτοι ξέστ. ε.",
+      "surface_form": "οἴνου ξεε ἤτοι ξέστ. ε.",
+      "base_label": "οἴνου",
+      "normalized_label": "οἶνος",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [],
+      "quantities": [
+        {
+          "source_span": "ξεε ἤτοι ξέστ. ε.",
+          "raw_number": "ε",
+          "normalized_number": 5,
+          "raw_unit": "ξέστ.",
+          "normalized_unit": "xestes",
+          "certainty": "certain",
+          "notes": [
+            "The abbreviated form 'ξεε' is explicitly glossed by 'ἤτοι ξέστ. ε.'."
+          ]
+        }
+      ],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "16",
+        "chapter": "137",
+        "section": "2",
+        "citation": {
+          "start": "167.1",
+          "end": "167.3"
+        }
+      }
+    },
+    {
+      "ingredient_id": "aetius-16-137-2:ingredient:meli-5",
+      "ingredient_urn": "urn:aos:recipe-ingredient:aetius-16-137-2:ingredient:meli-5",
+      "source_span": "μέλιτος ξεα.",
+      "surface_form": "μέλιτος ξεα.",
+      "base_label": "μέλιτος",
+      "normalized_label": "μέλι",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [],
+      "quantities": [
+        {
+          "source_span": "ξεα.",
+          "raw_number": "α",
+          "normalized_number": 1,
+          "raw_unit": "ξε",
+          "normalized_unit": "xestes",
+          "certainty": "uncertain",
+          "notes": [
+            "The expansion of 'ξε' to 'ξέστης' is inferred from the parallel gloss in the wine quantity."
+          ]
+        }
+      ],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "16",
+        "chapter": "137",
+        "section": "2",
+        "citation": {
+          "start": "167.1",
+          "end": "167.3"
+        }
+      }
+    }
+  ],
+  "processes": [],
+  "materials": [],
+  "people": [],
+  "places": [],
+  "uses": [],
+  "preparation_names": [],
+  "other_preparations_mentioned": [],
+  "works_mentioned": [],
+  "entities": [
+    {
+      "entity_urn": "urn:aos:recipe-preparation:aetius-16-137-2:preparation:seselitoy-skeyasia",
+      "entity_type": "label",
+      "surface_form": "σεσελίτου σκευασία",
+      "normalized_label": "σεσελίτου σκευασία"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:aetius-16-137-2:ingredient:peperi-1",
+      "entity_type": "ingredient",
+      "surface_form": "Πεπέρεως γράμματα στ.",
+      "normalized_label": "πέπερι"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:aetius-16-137-2:ingredient:nardostachys-2",
+      "entity_type": "ingredient",
+      "surface_form": "ναρδοστάχυος γράμμα α.",
+      "normalized_label": "ναρδόσταχυς"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:aetius-16-137-2:ingredient:seseli-3",
+      "entity_type": "ingredient",
+      "surface_form": "σεσέλεως δραχ. ε.",
+      "normalized_label": "σέσελι"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:aetius-16-137-2:ingredient:oinos-4",
+      "entity_type": "ingredient",
+      "surface_form": "οἴνου ξεε ἤτοι ξέστ. ε.",
+      "normalized_label": "οἶνος"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:aetius-16-137-2:ingredient:meli-5",
+      "entity_type": "ingredient",
+      "surface_form": "μέλιτος ξεα.",
+      "normalized_label": "μέλι"
+    }
+  ]
+}

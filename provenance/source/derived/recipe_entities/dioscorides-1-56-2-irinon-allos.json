@@ -1,0 +1,985 @@
+{
+  "dataset_key": "dioscorides_book1_perfumes_resins",
+  "source_json": "experiments/dioscorides-book1-perfumes-resins/data/dioscorides_book1_perfumes_resins.json",
+  "host_raw_file": "tei/raw/tlg0656.tlg001.1st1K-grc1.xml",
+  "work_slug": "diosc.b1.recipes",
+  "recipe_id": "dioscorides-1-56-2-irinon-allos",
+  "recipe_urn": "urn:aos:recipe:dioscorides-1-56-2-irinon-allos",
+  "record_urn": "urn:aos:recipe-record:dioscorides-1-56-2-irinon-allos",
+  "author": "Dioscorides",
+  "work": "De materia medica",
+  "book": "1",
+  "chapter": "56",
+  "section": "2",
+  "chapter_name": "ἴρινον",
+  "lemma": "ἴρινον ἄλλως",
+  "text": "2 οἱ δέ· ἐλαίου λίτρας ἐννέα οὐγγίας πέντε, ξυλοβαλσάμου λίτρας πέντε οὐγγίας δύο κόψας, ὡς εἴρηται, σύνεψε· εἶτα ἐξελὼν τὸ ξυλοβάλσαμον προσέμβαλε καλτάμου κεκομμένου λίτρας ἐννέα οὐγγίας δέκα, σμύρνης χόνδρον οἴνῳ παλαιῷ) ἐμβρέχιων εὐώδει. εἶτα λαβὼν ἐκ τοῦ ἐστυμμένου ἐλαίου καὶ ἠρωματισμένου λίτρας δέκα τέσσαρας ἐναπόβρεχε ἴρεως κεκομμένης ἴσον τῷ σταθμῷ, ἐῶν ἡμέρας δύο καὶ νύκτας δύο, εἶτα ἐξίπου Διαίως καὶ νεανικῶς. καὶ εἰ βούλει δυναμικώτερον εἶναι, τὸν ἴσον σταθμὸν καὶ δὶς καὶ τρὶς ὁμοίως ἐναποβρέχων ἐξίπου.",
+  "original_text": null,
+  "text_source": null,
+  "emendations": [],
+  "emendation_count": 0,
+  "source_kind": "main_text",
+  "entry_kind": "recipe",
+  "citation": {
+    "pages": [
+      "52"
+    ],
+    "start": {
+      "page": "52",
+      "line": "5"
+    },
+    "end": {
+      "page": "52",
+      "line": "10"
+    },
+    "citation": {
+      "start": "52.5",
+      "end": "52.10"
+    },
+    "page_spans": [
+      {
+        "page": "52",
+        "start_line": "5",
+        "end_line": "10"
+      }
+    ],
+    "lines": [
+      {
+        "page": "52",
+        "line": "5",
+        "break_no": false,
+        "text": "2 οἱ δέ· ἐλαίου λίτρας ἐννέα οὐγγίας πέντε, ξυλοβαλσάμου λίτρας πέντε οὐγγίας δύο κόψας, ὡς εἴρηται, σύνεψε· εἶτα ἐξελὼν τὸ ξυλοβάλσαμον προσέμβαλε καλτάμου κεκομμένου λίτρας ἐννέα οὐγγίας δέκα, σμύρνης χόνδρον οἴνῳ παλαιῷ) ἐμβρέχιων εὐώδει. εἶτα λαβὼν ἐκ τοῦ ἐστυμμένου ἐλαίου καὶ ἠρωματισμένου λίτρας",
+        "citation": "52.5"
+      },
+      {
+        "page": "52",
+        "line": "10",
+        "break_no": false,
+        "text": "δέκα τέσσαρας ἐναπόβρεχε ἴρεως κεκομμένης ἴσον τῷ σταθμῷ, ἐῶν ἡμέρας δύο καὶ νύκτας δύο, εἶτα ἐξίπου Διαίως καὶ νεανικῶς. καὶ εἰ βούλει δυναμικώτερον εἶναι, τὸν ἴσον σταθμὸν καὶ δὶς καὶ τρὶς ὁμοίως ἐναποβρέχων ἐξίπου.",
+        "citation": "52.10"
+      }
+    ],
+    "edition_key": "wellmann"
+  },
+  "notes": [
+    "Raw lines 1590-1633 are book 1 chapter 25 in this witness, although the prompt referred to chapter 35.",
+    "The perfume proemium is taken from the later transition at chapter 42 section 2 (raw lines 2306-2342), not from the chapter 25 κῦφι entry.",
+    "The ἰασμέλαιον entry is preserved only in the apparatus as an addition from another recension."
+  ],
+  "alignment_status": "pending",
+  "alignment_confidence": "pending",
+  "alignment_evidence": null,
+  "review_status": "reviewed_structured_authority",
+  "review_provenance": {
+    "authority_source": "reports/entity_review/structured/dioscorides.json",
+    "authority_recipe_id": "dioscorides-1-56-2-irinon-allos",
+    "authority_lemma": "ἴρινον",
+    "model": "gpt-5.4",
+    "reasoning_effort": "high",
+    "dataset_key": "dioscorides_book1_perfumes_resins",
+    "entity_model_version": "1.2",
+    "authority_version": "2026-04-13-qty-alt-v1",
+    "prompt_version": "qty-alt-pass-v1",
+    "build_version": "2026-05-18T15:51:35Z"
+  },
+  "schema_version": "1.2",
+  "build_metadata": {
+    "builder": "scripts/recipes/build_recipe_entities.py",
+    "built_at": "2026-05-18T15:51:35Z",
+    "source_structured_authority": "reports/entity_review/structured/dioscorides.json",
+    "authority_model": "gpt-5.4",
+    "authority_reasoning_effort": "high",
+    "dataset_key": "dioscorides_book1_perfumes_resins",
+    "entity_model_version": "1.2",
+    "authority_version": "2026-04-13-qty-alt-v1",
+    "prompt_version": "qty-alt-pass-v1",
+    "build_version": "2026-05-18T15:51:35Z"
+  },
+  "recipe_text_excerpt": "οἱ δέ· ἐλαίου λίτρας ἐννέα οὐγγίας πέντε, ξυλοβαλσάμου λίτρας πέντε οὐγγίας δύο κόψας, ὡς εἴρηται, σύνεψε· εἶτα ἐξελὼν τὸ ξυλοβάλσαμον",
+  "preparation": {
+    "preparation_id": "dioscorides-1-56-2-irinon-allos:preparation:irinon",
+    "preparation_urn": "urn:aos:recipe-preparation:dioscorides-1-56-2-irinon-allos:preparation:irinon",
+    "source_span": "ἴρινον ἄλλως",
+    "surface_form": "ἴρινον ἄλλως",
+    "normalized_label": "ἴρινον",
+    "qualifiers": [
+      {
+        "qualifier_type": "other",
+        "source_span": "ἄλλως",
+        "normalized_value": "ἄλλως",
+        "certainty": "certain",
+        "notes": [
+          "Lemma marks this as an alternative version of the preparation."
+        ]
+      },
+      {
+        "qualifier_type": "other",
+        "source_span": "δυναμικώτερον",
+        "normalized_value": "δυναμικώτερον",
+        "certainty": "certain",
+        "notes": [
+          "Applies to the optional stronger version of the preparation."
+        ]
+      },
+      {
+        "qualifier_type": "cycle_count",
+        "source_span": "δὶς καὶ τρὶς",
+        "normalized_value": "2-3",
+        "certainty": "certain",
+        "notes": [
+          "This cycle count belongs to the optional strengthening regimen."
+        ]
+      }
+    ],
+    "regimen_notes": [
+      {
+        "source_span": "καὶ εἰ βούλει δυναμικώτερον εἶναι, τὸν ἴσον σταθμὸν καὶ δὶς καὶ τρὶς ὁμοίως ἐναποβρέχων ἐξίπου",
+        "normalized_note": "optional repeated re-soaking with equal weight to strengthen the preparation",
+        "certainty": "certain",
+        "notes": []
+      }
+    ],
+    "certainty": "certain",
+    "notes": [
+      "The running text does not restate the preparation name cleanly, so the lemma supplies the preparation source span.",
+      "The normalized label is reduced to the lexical preparation name from the lemma."
+    ],
+    "host_locator": {
+      "book": "1",
+      "chapter": "56",
+      "section": "2",
+      "citation": {
+        "start": "52.5",
+        "end": "52.10"
+      }
+    }
+  },
+  "ingredients": [
+    {
+      "ingredient_id": "dioscorides-1-56-2-irinon-allos:ingredient:elaion-1",
+      "ingredient_urn": "urn:aos:recipe-ingredient:dioscorides-1-56-2-irinon-allos:ingredient:elaion-1",
+      "source_span": "ἐλαίου λίτρας ἐννέα οὐγγίας πέντε",
+      "surface_form": "ἐλαίου λίτρας ἐννέα οὐγγίας πέντε",
+      "base_label": "ἔλαιον",
+      "normalized_label": "ἔλαιον",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [],
+      "quantities": [
+        {
+          "source_span": "λίτρας ἐννέα",
+          "raw_number": "ἐννέα",
+          "normalized_number": 9,
+          "raw_unit": "λίτρας",
+          "normalized_unit": "litra",
+          "certainty": "certain",
+          "notes": []
+        },
+        {
+          "source_span": "οὐγγίας πέντε",
+          "raw_number": "πέντε",
+          "normalized_number": 5,
+          "raw_unit": "οὐγγίας",
+          "normalized_unit": "uncia",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "56",
+        "section": "2",
+        "citation": {
+          "start": "52.5",
+          "end": "52.10"
+        }
+      }
+    },
+    {
+      "ingredient_id": "dioscorides-1-56-2-irinon-allos:ingredient:xylobalsamon-2",
+      "ingredient_urn": "urn:aos:recipe-ingredient:dioscorides-1-56-2-irinon-allos:ingredient:xylobalsamon-2",
+      "source_span": "ξυλοβαλσάμου λίτρας πέντε οὐγγίας δύο κόψας",
+      "surface_form": "ξυλοβαλσάμου λίτρας πέντε οὐγγίας δύο κόψας",
+      "base_label": "ξυλοβάλσαμον",
+      "normalized_label": "ξυλοβάλσαμον",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [
+        "dioscorides-1-56-2-irinon-allos:process:koptein-1",
+        "dioscorides-1-56-2-irinon-allos:process:koptein-5",
+        "dioscorides-1-56-2-irinon-allos:process:koptein-11"
+      ],
+      "quantities": [
+        {
+          "source_span": "λίτρας πέντε",
+          "raw_number": "πέντε",
+          "normalized_number": 5,
+          "raw_unit": "λίτρας",
+          "normalized_unit": "litra",
+          "certainty": "certain",
+          "notes": []
+        },
+        {
+          "source_span": "οὐγγίας δύο",
+          "raw_number": "δύο",
+          "normalized_number": 2,
+          "raw_unit": "οὐγγίας",
+          "normalized_unit": "uncia",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "56",
+        "section": "2",
+        "citation": {
+          "start": "52.5",
+          "end": "52.10"
+        }
+      }
+    },
+    {
+      "ingredient_id": "dioscorides-1-56-2-irinon-allos:ingredient:kaltamos-3",
+      "ingredient_urn": "urn:aos:recipe-ingredient:dioscorides-1-56-2-irinon-allos:ingredient:kaltamos-3",
+      "source_span": "καλτάμου κεκομμένου λίτρας ἐννέα οὐγγίας δέκα",
+      "surface_form": "καλτάμου κεκομμένου λίτρας ἐννέα οὐγγίας δέκα",
+      "base_label": "κάλταμος",
+      "normalized_label": "κάλταμος",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [
+        "dioscorides-1-56-2-irinon-allos:process:koptein-1",
+        "dioscorides-1-56-2-irinon-allos:process:koptein-5",
+        "dioscorides-1-56-2-irinon-allos:process:koptein-11"
+      ],
+      "quantities": [
+        {
+          "source_span": "λίτρας ἐννέα",
+          "raw_number": "ἐννέα",
+          "normalized_number": 9,
+          "raw_unit": "λίτρας",
+          "normalized_unit": "litra",
+          "certainty": "certain",
+          "notes": []
+        },
+        {
+          "source_span": "οὐγγίας δέκα",
+          "raw_number": "δέκα",
+          "normalized_number": 10,
+          "raw_unit": "οὐγγίας",
+          "normalized_unit": "uncia",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "56",
+        "section": "2",
+        "citation": {
+          "start": "52.5",
+          "end": "52.10"
+        }
+      }
+    },
+    {
+      "ingredient_id": "dioscorides-1-56-2-irinon-allos:ingredient:chondros-smyrnes-4",
+      "ingredient_urn": "urn:aos:recipe-ingredient:dioscorides-1-56-2-irinon-allos:ingredient:chondros-smyrnes-4",
+      "source_span": "σμύρνης χόνδρον",
+      "surface_form": "σμύρνης χόνδρον",
+      "base_label": "σμύρνη",
+      "normalized_label": "χόνδρος σμύρνης",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [],
+      "quantities": [],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "56",
+        "section": "2",
+        "citation": {
+          "start": "52.5",
+          "end": "52.10"
+        }
+      }
+    },
+    {
+      "ingredient_id": "dioscorides-1-56-2-irinon-allos:ingredient:oinos-palaios-5",
+      "ingredient_urn": "urn:aos:recipe-ingredient:dioscorides-1-56-2-irinon-allos:ingredient:oinos-palaios-5",
+      "source_span": "οἴνῳ παλαιῷ",
+      "surface_form": "οἴνῳ παλαιῷ",
+      "base_label": "οἶνος",
+      "normalized_label": "οἶνος παλαιός",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "other",
+          "source_span": "εὐώδει",
+          "normalized_value": "εὐώδης",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "56",
+        "section": "2",
+        "citation": {
+          "start": "52.5",
+          "end": "52.10"
+        }
+      }
+    },
+    {
+      "ingredient_id": "dioscorides-1-56-2-irinon-allos:ingredient:elaion-estymmenon-kai-eromatismenon-6",
+      "ingredient_urn": "urn:aos:recipe-ingredient:dioscorides-1-56-2-irinon-allos:ingredient:elaion-estymmenon-kai-eromatismenon-6",
+      "source_span": "τοῦ ἐστυμμένου ἐλαίου καὶ ἠρωματισμένου λίτρας δέκα τέσσαρας",
+      "surface_form": "τοῦ ἐστυμμένου ἐλαίου καὶ ἠρωματισμένου λίτρας δέκα τέσσαρας",
+      "base_label": "ἔλαιον",
+      "normalized_label": "ἔλαιον ἐστυμμένον καὶ ἠρωματισμένον",
+      "alternative_set_id": null,
+      "certainty": "uncertain",
+      "linked_process_ids": [
+        "dioscorides-1-56-2-irinon-allos:process:stybein-8",
+        "dioscorides-1-56-2-irinon-allos:process:aromatizein-9"
+      ],
+      "quantities": [
+        {
+          "source_span": "λίτρας δέκα τέσσαρας",
+          "raw_number": "δέκα τέσσαρας",
+          "normalized_number": 14,
+          "raw_unit": "λίτρας",
+          "normalized_unit": "litra",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "56",
+        "section": "2",
+        "citation": {
+          "start": "52.5",
+          "end": "52.10"
+        }
+      }
+    },
+    {
+      "ingredient_id": "dioscorides-1-56-2-irinon-allos:ingredient:iris-7",
+      "ingredient_urn": "urn:aos:recipe-ingredient:dioscorides-1-56-2-irinon-allos:ingredient:iris-7",
+      "source_span": "ἴρεως κεκομμένης ἴσον τῷ σταθμῷ",
+      "surface_form": "ἴρεως κεκομμένης ἴσον τῷ σταθμῷ",
+      "base_label": "ἶρις",
+      "normalized_label": "ἶρις",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [
+        "dioscorides-1-56-2-irinon-allos:process:koptein-1",
+        "dioscorides-1-56-2-irinon-allos:process:koptein-5",
+        "dioscorides-1-56-2-irinon-allos:process:koptein-11"
+      ],
+      "quantities": [
+        {
+          "source_span": "ἴσον τῷ σταθμῷ",
+          "raw_number": "ἴσον",
+          "normalized_number": "equal",
+          "raw_unit": "τῷ σταθμῷ",
+          "normalized_unit": null,
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "56",
+        "section": "2",
+        "citation": {
+          "start": "52.5",
+          "end": "52.10"
+        }
+      }
+    }
+  ],
+  "processes": [
+    {
+      "process_id": "dioscorides-1-56-2-irinon-allos:process:koptein-1",
+      "process_urn": "urn:aos:recipe-process:dioscorides-1-56-2-irinon-allos:process:koptein-1",
+      "source_span": "κόψας",
+      "surface_form": "κόψας",
+      "normalized_label": "κόπτειν",
+      "target_type": "ingredient",
+      "target_ids": [
+        "dioscorides-1-56-2-irinon-allos:ingredient:xylobalsamon-2"
+      ],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "other",
+          "source_span": "ὡς εἴρηται",
+          "normalized_value": "ὡς εἴρηται",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "56",
+        "section": "2",
+        "citation": {
+          "start": "52.5",
+          "end": "52.10"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-1-56-2-irinon-allos:process:synepsein-2",
+      "process_urn": "urn:aos:recipe-process:dioscorides-1-56-2-irinon-allos:process:synepsein-2",
+      "source_span": "σύνεψε",
+      "surface_form": "σύνεψε",
+      "normalized_label": "συνέψειν",
+      "target_type": "ingredient",
+      "target_ids": [
+        "dioscorides-1-56-2-irinon-allos:ingredient:elaion-1",
+        "dioscorides-1-56-2-irinon-allos:ingredient:elaion-estymmenon-kai-eromatismenon-6",
+        "dioscorides-1-56-2-irinon-allos:ingredient:xylobalsamon-2"
+      ],
+      "quantities": [],
+      "qualifiers": [],
+      "certainty": "uncertain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "56",
+        "section": "2",
+        "citation": {
+          "start": "52.5",
+          "end": "52.10"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-1-56-2-irinon-allos:process:exairein-3",
+      "process_urn": "urn:aos:recipe-process:dioscorides-1-56-2-irinon-allos:process:exairein-3",
+      "source_span": "ἐξελὼν",
+      "surface_form": "ἐξελὼν",
+      "normalized_label": "ἐξαιρεῖν",
+      "target_type": "ingredient",
+      "target_ids": [
+        "dioscorides-1-56-2-irinon-allos:ingredient:xylobalsamon-2"
+      ],
+      "quantities": [],
+      "qualifiers": [],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "56",
+        "section": "2",
+        "citation": {
+          "start": "52.5",
+          "end": "52.10"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-1-56-2-irinon-allos:process:prosemballein-4",
+      "process_urn": "urn:aos:recipe-process:dioscorides-1-56-2-irinon-allos:process:prosemballein-4",
+      "source_span": "προσέμβαλε",
+      "surface_form": "προσέμβαλε",
+      "normalized_label": "προσεμβάλλειν",
+      "target_type": "ingredient",
+      "target_ids": [
+        "dioscorides-1-56-2-irinon-allos:ingredient:kaltamos-3",
+        "dioscorides-1-56-2-irinon-allos:ingredient:chondros-smyrnes-4"
+      ],
+      "quantities": [],
+      "qualifiers": [],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "56",
+        "section": "2",
+        "citation": {
+          "start": "52.5",
+          "end": "52.10"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-1-56-2-irinon-allos:process:koptein-5",
+      "process_urn": "urn:aos:recipe-process:dioscorides-1-56-2-irinon-allos:process:koptein-5",
+      "source_span": "κεκομμένου",
+      "surface_form": "κεκομμένου",
+      "normalized_label": "κόπτειν",
+      "target_type": "ingredient",
+      "target_ids": [
+        "dioscorides-1-56-2-irinon-allos:ingredient:kaltamos-3"
+      ],
+      "quantities": [],
+      "qualifiers": [],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "56",
+        "section": "2",
+        "citation": {
+          "start": "52.5",
+          "end": "52.10"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-1-56-2-irinon-allos:process:embrechein-6",
+      "process_urn": "urn:aos:recipe-process:dioscorides-1-56-2-irinon-allos:process:embrechein-6",
+      "source_span": "ἐμβρέχιων",
+      "surface_form": "ἐμβρέχιων",
+      "normalized_label": "ἐμβρέχειν",
+      "target_type": "ingredient",
+      "target_ids": [
+        "dioscorides-1-56-2-irinon-allos:ingredient:chondros-smyrnes-4",
+        "dioscorides-1-56-2-irinon-allos:ingredient:oinos-palaios-5"
+      ],
+      "quantities": [],
+      "qualifiers": [],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "56",
+        "section": "2",
+        "citation": {
+          "start": "52.5",
+          "end": "52.10"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-1-56-2-irinon-allos:process:lambanein-7",
+      "process_urn": "urn:aos:recipe-process:dioscorides-1-56-2-irinon-allos:process:lambanein-7",
+      "source_span": "λαβὼν",
+      "surface_form": "λαβὼν",
+      "normalized_label": "λαμβάνειν",
+      "target_type": "ingredient",
+      "target_ids": [
+        "dioscorides-1-56-2-irinon-allos:ingredient:elaion-estymmenon-kai-eromatismenon-6"
+      ],
+      "quantities": [],
+      "qualifiers": [],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "56",
+        "section": "2",
+        "citation": {
+          "start": "52.5",
+          "end": "52.10"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-1-56-2-irinon-allos:process:stybein-8",
+      "process_urn": "urn:aos:recipe-process:dioscorides-1-56-2-irinon-allos:process:stybein-8",
+      "source_span": "ἐστυμμένου",
+      "surface_form": "ἐστυμμένου",
+      "normalized_label": "στύβειν",
+      "target_type": "ingredient",
+      "target_ids": [
+        "dioscorides-1-56-2-irinon-allos:ingredient:elaion-estymmenon-kai-eromatismenon-6"
+      ],
+      "quantities": [],
+      "qualifiers": [],
+      "certainty": "uncertain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "56",
+        "section": "2",
+        "citation": {
+          "start": "52.5",
+          "end": "52.10"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-1-56-2-irinon-allos:process:aromatizein-9",
+      "process_urn": "urn:aos:recipe-process:dioscorides-1-56-2-irinon-allos:process:aromatizein-9",
+      "source_span": "ἠρωματισμένου",
+      "surface_form": "ἠρωματισμένου",
+      "normalized_label": "ἀρωματίζειν",
+      "target_type": "ingredient",
+      "target_ids": [
+        "dioscorides-1-56-2-irinon-allos:ingredient:elaion-estymmenon-kai-eromatismenon-6"
+      ],
+      "quantities": [],
+      "qualifiers": [],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "56",
+        "section": "2",
+        "citation": {
+          "start": "52.5",
+          "end": "52.10"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-1-56-2-irinon-allos:process:enapobrechein-10",
+      "process_urn": "urn:aos:recipe-process:dioscorides-1-56-2-irinon-allos:process:enapobrechein-10",
+      "source_span": "ἐναπόβρεχε",
+      "surface_form": "ἐναπόβρεχε",
+      "normalized_label": "ἐναποβρέχειν",
+      "target_type": "ingredient",
+      "target_ids": [
+        "dioscorides-1-56-2-irinon-allos:ingredient:iris-7",
+        "dioscorides-1-56-2-irinon-allos:ingredient:elaion-estymmenon-kai-eromatismenon-6"
+      ],
+      "quantities": [],
+      "qualifiers": [],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "56",
+        "section": "2",
+        "citation": {
+          "start": "52.5",
+          "end": "52.10"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-1-56-2-irinon-allos:process:koptein-11",
+      "process_urn": "urn:aos:recipe-process:dioscorides-1-56-2-irinon-allos:process:koptein-11",
+      "source_span": "κεκομμένης",
+      "surface_form": "κεκομμένης",
+      "normalized_label": "κόπτειν",
+      "target_type": "ingredient",
+      "target_ids": [
+        "dioscorides-1-56-2-irinon-allos:ingredient:iris-7"
+      ],
+      "quantities": [],
+      "qualifiers": [],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "56",
+        "section": "2",
+        "citation": {
+          "start": "52.5",
+          "end": "52.10"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-1-56-2-irinon-allos:process:ean-12",
+      "process_urn": "urn:aos:recipe-process:dioscorides-1-56-2-irinon-allos:process:ean-12",
+      "source_span": "ἐῶν",
+      "surface_form": "ἐῶν",
+      "normalized_label": "ἐᾶν",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "duration",
+          "source_span": "ἡμέρας δύο καὶ νύκτας δύο",
+          "normalized_value": "2 ἡμέραι καὶ 2 νύκτες",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "56",
+        "section": "2",
+        "citation": {
+          "start": "52.5",
+          "end": "52.10"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-1-56-2-irinon-allos:process:exipein-13",
+      "process_urn": "urn:aos:recipe-process:dioscorides-1-56-2-irinon-allos:process:exipein-13",
+      "source_span": "ἐξίπου",
+      "surface_form": "ἐξίπου",
+      "normalized_label": "ἐξίπειν",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "manner",
+          "source_span": "Διαίως καὶ νεανικῶς",
+          "normalized_value": "Διαίως καὶ νεανικῶς",
+          "certainty": "uncertain",
+          "notes": []
+        }
+      ],
+      "certainty": "uncertain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "56",
+        "section": "2",
+        "citation": {
+          "start": "52.5",
+          "end": "52.10"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-1-56-2-irinon-allos:process:enapobrechein-14",
+      "process_urn": "urn:aos:recipe-process:dioscorides-1-56-2-irinon-allos:process:enapobrechein-14",
+      "source_span": "ἐναποβρέχων",
+      "surface_form": "ἐναποβρέχων",
+      "normalized_label": "ἐναποβρέχειν",
+      "target_type": "ingredient",
+      "target_ids": [
+        "dioscorides-1-56-2-irinon-allos:ingredient:iris-7",
+        "dioscorides-1-56-2-irinon-allos:ingredient:elaion-estymmenon-kai-eromatismenon-6"
+      ],
+      "quantities": [
+        {
+          "source_span": "τὸν ἴσον σταθμὸν",
+          "raw_number": "ἴσον",
+          "normalized_number": "equal",
+          "raw_unit": "σταθμὸν",
+          "normalized_unit": null,
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "qualifiers": [
+        {
+          "qualifier_type": "other",
+          "source_span": "εἰ βούλει δυναμικώτερον εἶναι",
+          "normalized_value": "optional stronger variant",
+          "certainty": "certain",
+          "notes": []
+        },
+        {
+          "qualifier_type": "other",
+          "source_span": "δὶς καὶ τρὶς",
+          "normalized_value": "2-3 times",
+          "certainty": "certain",
+          "notes": []
+        },
+        {
+          "qualifier_type": "manner",
+          "source_span": "ὁμοίως",
+          "normalized_value": "ὁμοίως",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "56",
+        "section": "2",
+        "citation": {
+          "start": "52.5",
+          "end": "52.10"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-1-56-2-irinon-allos:process:exipein-15",
+      "process_urn": "urn:aos:recipe-process:dioscorides-1-56-2-irinon-allos:process:exipein-15",
+      "source_span": "ἐξίπου",
+      "surface_form": "ἐξίπου",
+      "normalized_label": "ἐξίπειν",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [],
+      "certainty": "uncertain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "56",
+        "section": "2",
+        "citation": {
+          "start": "52.5",
+          "end": "52.10"
+        }
+      }
+    }
+  ],
+  "materials": [],
+  "people": [],
+  "places": [],
+  "uses": [],
+  "preparation_names": [],
+  "other_preparations_mentioned": [],
+  "works_mentioned": [],
+  "entities": [
+    {
+      "entity_urn": "urn:aos:recipe-preparation:dioscorides-1-56-2-irinon-allos:preparation:irinon",
+      "entity_type": "label",
+      "surface_form": "ἴρινον ἄλλως",
+      "normalized_label": "ἴρινον"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:dioscorides-1-56-2-irinon-allos:ingredient:elaion-1",
+      "entity_type": "ingredient",
+      "surface_form": "ἐλαίου λίτρας ἐννέα οὐγγίας πέντε",
+      "normalized_label": "ἔλαιον"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:dioscorides-1-56-2-irinon-allos:ingredient:xylobalsamon-2",
+      "entity_type": "ingredient",
+      "surface_form": "ξυλοβαλσάμου λίτρας πέντε οὐγγίας δύο κόψας",
+      "normalized_label": "ξυλοβάλσαμον"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:dioscorides-1-56-2-irinon-allos:ingredient:kaltamos-3",
+      "entity_type": "ingredient",
+      "surface_form": "καλτάμου κεκομμένου λίτρας ἐννέα οὐγγίας δέκα",
+      "normalized_label": "κάλταμος"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:dioscorides-1-56-2-irinon-allos:ingredient:chondros-smyrnes-4",
+      "entity_type": "ingredient",
+      "surface_form": "σμύρνης χόνδρον",
+      "normalized_label": "χόνδρος σμύρνης"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:dioscorides-1-56-2-irinon-allos:ingredient:oinos-palaios-5",
+      "entity_type": "ingredient",
+      "surface_form": "οἴνῳ παλαιῷ",
+      "normalized_label": "οἶνος παλαιός"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:dioscorides-1-56-2-irinon-allos:ingredient:elaion-estymmenon-kai-eromatismenon-6",
+      "entity_type": "ingredient",
+      "surface_form": "τοῦ ἐστυμμένου ἐλαίου καὶ ἠρωματισμένου λίτρας δέκα τέσσαρας",
+      "normalized_label": "ἔλαιον ἐστυμμένον καὶ ἠρωματισμένον"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:dioscorides-1-56-2-irinon-allos:ingredient:iris-7",
+      "entity_type": "ingredient",
+      "surface_form": "ἴρεως κεκομμένης ἴσον τῷ σταθμῷ",
+      "normalized_label": "ἶρις"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-1-56-2-irinon-allos:process:koptein-1",
+      "entity_type": "process",
+      "surface_form": "κόψας",
+      "normalized_label": "κόπτειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-1-56-2-irinon-allos:process:synepsein-2",
+      "entity_type": "process",
+      "surface_form": "σύνεψε",
+      "normalized_label": "συνέψειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-1-56-2-irinon-allos:process:exairein-3",
+      "entity_type": "process",
+      "surface_form": "ἐξελὼν",
+      "normalized_label": "ἐξαιρεῖν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-1-56-2-irinon-allos:process:prosemballein-4",
+      "entity_type": "process",
+      "surface_form": "προσέμβαλε",
+      "normalized_label": "προσεμβάλλειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-1-56-2-irinon-allos:process:koptein-5",
+      "entity_type": "process",
+      "surface_form": "κεκομμένου",
+      "normalized_label": "κόπτειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-1-56-2-irinon-allos:process:embrechein-6",
+      "entity_type": "process",
+      "surface_form": "ἐμβρέχιων",
+      "normalized_label": "ἐμβρέχειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-1-56-2-irinon-allos:process:lambanein-7",
+      "entity_type": "process",
+      "surface_form": "λαβὼν",
+      "normalized_label": "λαμβάνειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-1-56-2-irinon-allos:process:stybein-8",
+      "entity_type": "process",
+      "surface_form": "ἐστυμμένου",
+      "normalized_label": "στύβειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-1-56-2-irinon-allos:process:aromatizein-9",
+      "entity_type": "process",
+      "surface_form": "ἠρωματισμένου",
+      "normalized_label": "ἀρωματίζειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-1-56-2-irinon-allos:process:enapobrechein-10",
+      "entity_type": "process",
+      "surface_form": "ἐναπόβρεχε",
+      "normalized_label": "ἐναποβρέχειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-1-56-2-irinon-allos:process:koptein-11",
+      "entity_type": "process",
+      "surface_form": "κεκομμένης",
+      "normalized_label": "κόπτειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-1-56-2-irinon-allos:process:ean-12",
+      "entity_type": "process",
+      "surface_form": "ἐῶν",
+      "normalized_label": "ἐᾶν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-1-56-2-irinon-allos:process:exipein-13",
+      "entity_type": "process",
+      "surface_form": "ἐξίπου",
+      "normalized_label": "ἐξίπειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-1-56-2-irinon-allos:process:enapobrechein-14",
+      "entity_type": "process",
+      "surface_form": "ἐναποβρέχων",
+      "normalized_label": "ἐναποβρέχειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-1-56-2-irinon-allos:process:exipein-15",
+      "entity_type": "process",
+      "surface_form": "ἐξίπου",
+      "normalized_label": "ἐξίπειν"
+    }
+  ]
+}

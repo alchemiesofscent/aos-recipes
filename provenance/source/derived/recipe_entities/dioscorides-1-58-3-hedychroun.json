@@ -1,0 +1,237 @@
+{
+  "dataset_key": "dioscorides_book1_perfumes_resins",
+  "source_json": "experiments/dioscorides-book1-perfumes-resins/data/dioscorides_book1_perfumes_resins.json",
+  "host_raw_file": "tei/raw/tlg0656.tlg001.1st1K-grc1.xml",
+  "work_slug": "diosc.b1.recipes",
+  "recipe_id": "dioscorides-1-58-3-hedychroun",
+  "recipe_urn": "urn:aos:recipe:dioscorides-1-58-3-hedychroun",
+  "record_urn": "urn:aos:recipe-record:dioscorides-1-58-3-hedychroun",
+  "author": "Dioscorides",
+  "work": "De materia medica",
+  "book": "1",
+  "chapter": "58",
+  "section": "3",
+  "chapter_name": "ἀμαράκινον",
+  "lemma": "ἠδύχρουν",
+  "text": "καὶ τὸ καλούμενον δὲ ἠδύχρουν, σκευαζόμενον δὲ ἐν Κῷ, τῆς αὐτῆς ἔχεται δυνάμεώς τε καὶ σκευασίας τῷ ἀμαρακίνῳ, εὐωδέστερον δὲ τυγχάνει.",
+  "original_text": null,
+  "text_source": null,
+  "emendations": [],
+  "emendation_count": 0,
+  "source_kind": "main_text",
+  "entry_kind": "recipe",
+  "citation": {
+    "pages": [
+      "54"
+    ],
+    "start": {
+      "page": "54",
+      "line": "10"
+    },
+    "end": {
+      "page": "54",
+      "line": "10"
+    },
+    "citation": {
+      "start": "54.10",
+      "end": "54.10"
+    },
+    "page_spans": [
+      {
+        "page": "54",
+        "start_line": "10",
+        "end_line": "10"
+      }
+    ],
+    "lines": [
+      {
+        "page": "54",
+        "line": "10",
+        "break_no": false,
+        "text": "καὶ τὸ καλούμενον δὲ ἠδύχρουν, σκευαζόμενον δὲ ἐν Κῷ, τῆς αὐτῆς ἔχεται δυνάμεώς τε καὶ σκευασίας τῷ ἀμαρακίνῳ, εὐωδέστερον δὲ τυγχάνει.",
+        "citation": "54.10"
+      }
+    ],
+    "edition_key": "wellmann"
+  },
+  "notes": [
+    "Raw lines 1590-1633 are book 1 chapter 25 in this witness, although the prompt referred to chapter 35.",
+    "The perfume proemium is taken from the later transition at chapter 42 section 2 (raw lines 2306-2342), not from the chapter 25 κῦφι entry.",
+    "The ἰασμέλαιον entry is preserved only in the apparatus as an addition from another recension.",
+    "τῆς αὐτῆς ἔχεται δυνάμεώς τε καὶ σκευασίας τῷ ἀμαρακίνῳ",
+    "εὐωδέστερον δὲ τυγχάνει"
+  ],
+  "alignment_status": "pending",
+  "alignment_confidence": "pending",
+  "alignment_evidence": null,
+  "review_status": "reviewed_structured_authority",
+  "review_provenance": {
+    "authority_source": "reports/entity_review/structured/dioscorides.json",
+    "authority_recipe_id": "dioscorides-1-58-3-hedychroun",
+    "authority_lemma": "ἠδύχρουν",
+    "model": "gpt-5.4",
+    "reasoning_effort": "high",
+    "dataset_key": "dioscorides_book1_perfumes_resins",
+    "entity_model_version": "1.2",
+    "authority_version": "2026-04-13-qty-alt-v1",
+    "prompt_version": "qty-alt-pass-v1",
+    "build_version": "2026-05-18T15:51:35Z"
+  },
+  "schema_version": "1.2",
+  "build_metadata": {
+    "builder": "scripts/recipes/build_recipe_entities.py",
+    "built_at": "2026-05-18T15:51:35Z",
+    "source_structured_authority": "reports/entity_review/structured/dioscorides.json",
+    "authority_model": "gpt-5.4",
+    "authority_reasoning_effort": "high",
+    "dataset_key": "dioscorides_book1_perfumes_resins",
+    "entity_model_version": "1.2",
+    "authority_version": "2026-04-13-qty-alt-v1",
+    "prompt_version": "qty-alt-pass-v1",
+    "build_version": "2026-05-18T15:51:35Z"
+  },
+  "recipe_text_excerpt": "καὶ τὸ καλούμενον δὲ ἠδύχρουν, σκευαζόμενον δὲ ἐν Κῷ, τῆς αὐτῆς ἔχεται δυνάμεώς τε καὶ σκευασίας τῷ ἀμαρακίνῳ, εὐωδέστερον δὲ",
+  "preparation": {
+    "preparation_id": "dioscorides-1-58-3-hedychroun:preparation:edychroyn",
+    "preparation_urn": "urn:aos:recipe-preparation:dioscorides-1-58-3-hedychroun:preparation:edychroyn",
+    "source_span": "ἠδύχρουν",
+    "surface_form": "ἠδύχρουν",
+    "normalized_label": "ἠδύχρουν",
+    "qualifiers": [
+      {
+        "qualifier_type": "location",
+        "source_span": "ἐν Κῷ",
+        "normalized_value": "Κῶς",
+        "certainty": "certain",
+        "notes": []
+      }
+    ],
+    "regimen_notes": [
+      {
+        "source_span": "τῆς αὐτῆς ἔχεται δυνάμεώς τε καὶ σκευασίας τῷ ἀμαρακίνῳ",
+        "normalized_note": "same preparation as ἀμαράκινον",
+        "certainty": "certain",
+        "notes": [
+          "The source clause also mentions equivalent efficacy; this note isolates the preparation comparison."
+        ]
+      }
+    ],
+    "certainty": "certain",
+    "notes": [],
+    "host_locator": {
+      "book": "1",
+      "chapter": "58",
+      "section": "3",
+      "citation": {
+        "start": "54.10",
+        "end": "54.10"
+      }
+    }
+  },
+  "ingredients": [],
+  "processes": [
+    {
+      "process_id": "dioscorides-1-58-3-hedychroun:process:skeyazein-1",
+      "process_urn": "urn:aos:recipe-process:dioscorides-1-58-3-hedychroun:process:skeyazein-1",
+      "source_span": "σκευαζόμενον",
+      "surface_form": "σκευαζόμενον",
+      "normalized_label": "σκευάζειν",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "location",
+          "source_span": "ἐν Κῷ",
+          "normalized_value": "Κῶς",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "58",
+        "section": "3",
+        "citation": {
+          "start": "54.10",
+          "end": "54.10"
+        }
+      }
+    }
+  ],
+  "materials": [],
+  "people": [],
+  "places": [
+    {
+      "place_id": "dioscorides-1-58-3-hedychroun:place:kos-1",
+      "place_urn": "urn:aos:recipe-place:dioscorides-1-58-3-hedychroun:place:kos-1",
+      "source_span": "Κῷ",
+      "surface_form": "Κῷ",
+      "normalized_label": "Κῶς",
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "58",
+        "section": "3",
+        "citation": {
+          "start": "54.10",
+          "end": "54.10"
+        }
+      }
+    }
+  ],
+  "uses": [],
+  "preparation_names": [],
+  "other_preparations_mentioned": [
+    {
+      "reference_id": "dioscorides-1-58-3-hedychroun:reference:amarakinon-1",
+      "reference_urn": "urn:aos:recipe-reference:dioscorides-1-58-3-hedychroun:reference:amarakinon-1",
+      "source_span": "ἀμαρακίνῳ",
+      "surface_form": "ἀμαρακίνῳ",
+      "normalized_label": "ἀμαράκινον",
+      "certainty": "certain",
+      "notes": [
+        "Distinct preparation referenced for comparison of preparation."
+      ],
+      "host_locator": {
+        "book": "1",
+        "chapter": "58",
+        "section": "3",
+        "citation": {
+          "start": "54.10",
+          "end": "54.10"
+        }
+      }
+    }
+  ],
+  "works_mentioned": [],
+  "entities": [
+    {
+      "entity_urn": "urn:aos:recipe-preparation:dioscorides-1-58-3-hedychroun:preparation:edychroyn",
+      "entity_type": "label",
+      "surface_form": "ἠδύχρουν",
+      "normalized_label": "ἠδύχρουν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-1-58-3-hedychroun:process:skeyazein-1",
+      "entity_type": "process",
+      "surface_form": "σκευαζόμενον",
+      "normalized_label": "σκευάζειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-place:dioscorides-1-58-3-hedychroun:place:kos-1",
+      "entity_type": "place",
+      "surface_form": "Κῷ",
+      "normalized_label": "Κῶς"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-reference:dioscorides-1-58-3-hedychroun:reference:amarakinon-1",
+      "entity_type": "preparation_reference",
+      "surface_form": "ἀμαρακίνῳ",
+      "normalized_label": "ἀμαράκινον"
+    }
+  ]
+}

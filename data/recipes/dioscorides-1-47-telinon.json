@@ -1,0 +1,1091 @@
+{
+  "dataset_key": "dioscorides_book1_perfumes_resins",
+  "source_json": "experiments/dioscorides-book1-perfumes-resins/data/dioscorides_book1_perfumes_resins.json",
+  "host_raw_file": "tei/raw/tlg0656.tlg001.1st1K-grc1.xml",
+  "work_slug": "diosc.b1.recipes",
+  "recipe_id": "dioscorides-1-47-telinon",
+  "recipe_urn": "urn:aos:recipe:dioscorides-1-47-telinon",
+  "record_urn": "urn:aos:recipe-record:dioscorides-1-47-telinon",
+  "author": "Dioscorides",
+  "work": "De materia medica",
+  "book": "1",
+  "chapter": "47",
+  "section": null,
+  "chapter_name": "τηλῖνον",
+  "lemma": "τηλῖνον",
+  "text": "47 τηλίνου σκευασία· τήλεως λίτρας ἐννέα, ἐλαίου λίτρας πέντε, καλάμου λίτραν μίαν, κυπέρου λίτρας δύο ἀπόβρεχε τῷ ἐλαίῳ ἐπὶ ἡμέρας ἑπτά, κινῶν ἑκάστης ἡμέρας τρίς, εἶτα ἐξίπου καὶ ἀποτίθεσο. οἱ δὲ ἀντὶ μὲν τοῦ καλάμου καρδάμωμον, ἀντὶ δὲ τῆς κυπέρου ξυλοβάλσαμον συναποβρέχουσιν. οἱ δὲ προστύφουσι τὸ ἔλαιον τούτοις καὶ μετὰ ταῦτα τὴν τῆλιν ἀποβρέχοντες ἐξιποῦσιν. δύναμιν δὲ ἔχει μαλακτικὴν ἀποστημάτων, πεπτικήν. μάλιστα 2 δὲ ἁρμόζει τοῖς περὶ μήτραν πᾶσι σκιρρώμασι, δυστοκούσαις τε ἔγχυμα, ἐπειδὰν κατάξηρα τὰ περὶ τοὺς τόπους γένηται, προεκκριθέντων τῶν ὑγρῶν, πρός τε τὰς ἐν δακτυλίῳ φλεγμονάς, καὶ ἐγκλύζεται ἐπὶ τῶν τεινεσμῶν ὠφελίμως, πίτυρά τε καὶ ἀχῶρας σμήχει καὶ κατακαύματα καὶ χίμετλα ὠφελεῖ μετὰ κηροῦ, σμήχει τε ἐφηλίδας καὶ εἰς στιλβώματα μείγνυται. ἐκλέγου δὲ τὸ πρόσφατον καὶ μὴ λίαν παρεμφαῖνον τὴν τῆς τήλεως ὀσμήν, σμῆχον τὰς χεῖρας, γλυκύπικρον ἐν τῇ γεύσει· τὸ γὰρ τοιοῦτον κάλλιστον.",
+  "original_text": null,
+  "text_source": null,
+  "emendations": [],
+  "emendation_count": 0,
+  "source_kind": "main_text",
+  "entry_kind": "recipe",
+  "citation": {
+    "pages": [
+      "45"
+    ],
+    "start": {
+      "page": "45",
+      "line": "1"
+    },
+    "end": {
+      "page": "45",
+      "line": "15"
+    },
+    "citation": {
+      "start": "45.1",
+      "end": "45.15"
+    },
+    "page_spans": [
+      {
+        "page": "45",
+        "start_line": "1",
+        "end_line": "15"
+      }
+    ],
+    "lines": [
+      {
+        "page": "45",
+        "line": "1",
+        "break_no": false,
+        "text": "47 τηλίνου σκευασία· τήλεως λίτρας ἐννέα, ἐλαίου λίτρας πέντε, καλάμου λίτραν μίαν, κυπέρου λίτρας δύο ἀπόβρεχε τῷ",
+        "citation": "45.1"
+      },
+      {
+        "page": "45",
+        "line": "5",
+        "break_no": false,
+        "text": "ἐλαίῳ ἐπὶ ἡμέρας ἑπτά, κινῶν ἑκάστης ἡμέρας τρίς, εἶτα ἐξίπου καὶ ἀποτίθεσο. οἱ δὲ ἀντὶ μὲν τοῦ καλάμου καρδάμωμον, ἀντὶ δὲ τῆς κυπέρου ξυλοβάλσαμον συναποβρέχουσιν. οἱ δὲ προστύφουσι τὸ ἔλαιον τούτοις καὶ μετὰ ταῦτα τὴν τῆλιν ἀποβρέχοντες ἐξιποῦσιν.",
+        "citation": "45.5"
+      },
+      {
+        "page": "45",
+        "line": "10",
+        "break_no": false,
+        "text": "δύναμιν δὲ ἔχει μαλακτικὴν ἀποστημάτων, πεπτικήν. μάλιστα 2 δὲ ἁρμόζει τοῖς περὶ μήτραν πᾶσι σκιρρώμασι, δυστοκούσαις τε ἔγχυμα, ἐπειδὰν κατάξηρα τὰ περὶ τοὺς τόπους γένηται, προεκκριθέντων τῶν ὑγρῶν, πρός τε τὰς ἐν δακτυλίῳ φλεγμονάς, καὶ ἐγκλύζεται ἐπὶ τῶν τεινεσμῶν ὠφελίμως, πίτυρά",
+        "citation": "45.10"
+      },
+      {
+        "page": "45",
+        "line": "15",
+        "break_no": false,
+        "text": "τε καὶ ἀχῶρας σμήχει καὶ κατακαύματα καὶ χίμετλα ὠφελεῖ μετὰ κηροῦ, σμήχει τε ἐφηλίδας καὶ εἰς στιλβώματα μείγνυται. ἐκλέγου δὲ τὸ πρόσφατον καὶ μὴ λίαν παρεμφαῖνον τὴν τῆς τήλεως ὀσμήν, σμῆχον τὰς χεῖρας, γλυκύπικρον ἐν τῇ γεύσει· τὸ γὰρ τοιοῦτον κάλλιστον.",
+        "citation": "45.15"
+      }
+    ],
+    "edition_key": "wellmann"
+  },
+  "notes": [
+    "Raw lines 1590-1633 are book 1 chapter 25 in this witness, although the prompt referred to chapter 35.",
+    "The perfume proemium is taken from the later transition at chapter 42 section 2 (raw lines 2306-2342), not from the chapter 25 κῦφι entry.",
+    "The ἰασμέλαιον entry is preserved only in the apparatus as an addition from another recension.",
+    "The text preserves two variant procedures: one with substitute aromatics, and another that first treats the oil with those substitutes before soaking the τήλεως."
+  ],
+  "alignment_status": "pending",
+  "alignment_confidence": "pending",
+  "alignment_evidence": null,
+  "review_status": "reviewed_structured_authority",
+  "review_provenance": {
+    "authority_source": "reports/entity_review/structured/dioscorides.json",
+    "authority_recipe_id": "dioscorides-1-47-telinon",
+    "authority_lemma": "τηλῖνον",
+    "model": "gpt-5.4",
+    "reasoning_effort": "high",
+    "dataset_key": "dioscorides_book1_perfumes_resins",
+    "entity_model_version": "1.2",
+    "authority_version": "2026-04-13-qty-alt-v1",
+    "prompt_version": "qty-alt-pass-v1",
+    "build_version": "2026-05-18T15:51:35Z"
+  },
+  "schema_version": "1.2",
+  "build_metadata": {
+    "builder": "scripts/recipes/build_recipe_entities.py",
+    "built_at": "2026-05-18T15:51:35Z",
+    "source_structured_authority": "reports/entity_review/structured/dioscorides.json",
+    "authority_model": "gpt-5.4",
+    "authority_reasoning_effort": "high",
+    "dataset_key": "dioscorides_book1_perfumes_resins",
+    "entity_model_version": "1.2",
+    "authority_version": "2026-04-13-qty-alt-v1",
+    "prompt_version": "qty-alt-pass-v1",
+    "build_version": "2026-05-18T15:51:35Z"
+  },
+  "recipe_text_excerpt": "τηλίνου σκευασία· τήλεως λίτρας ἐννέα, ἐλαίου λίτρας πέντε, καλάμου λίτραν μίαν, κυπέρου λίτρας δύο ἀπόβρεχε τῷ ἐλαίῳ ἐπὶ ἡμέρας ἑπτά,",
+  "preparation": {
+    "preparation_id": "dioscorides-1-47-telinon:preparation:telinon",
+    "preparation_urn": "urn:aos:recipe-preparation:dioscorides-1-47-telinon:preparation:telinon",
+    "source_span": "τηλῖνον",
+    "surface_form": "τηλῖνον",
+    "normalized_label": "τηλῖνον",
+    "qualifiers": [],
+    "regimen_notes": [],
+    "certainty": "certain",
+    "notes": [
+      "The running text gives a genitive heading, `τηλίνου σκευασία`, rather than a clean lexical restatement; the lemma is therefore used for the preparation label."
+    ],
+    "host_locator": {
+      "book": "1",
+      "chapter": "47",
+      "section": null,
+      "citation": {
+        "start": "45.1",
+        "end": "45.15"
+      }
+    }
+  },
+  "ingredients": [
+    {
+      "ingredient_id": "dioscorides-1-47-telinon:ingredient:teleos-1",
+      "ingredient_urn": "urn:aos:recipe-ingredient:dioscorides-1-47-telinon:ingredient:teleos-1",
+      "source_span": "τήλεως λίτρας ἐννέα",
+      "surface_form": "τήλεως λίτρας ἐννέα",
+      "base_label": "τήλεως",
+      "normalized_label": "τήλεως",
+      "alternative_set_id": null,
+      "certainty": "uncertain",
+      "linked_process_ids": [
+        "dioscorides-1-47-telinon:process:apobrechein-1",
+        "dioscorides-1-47-telinon:process:apobrechein-7"
+      ],
+      "quantities": [
+        {
+          "source_span": "λίτρας ἐννέα",
+          "raw_number": "ἐννέα",
+          "normalized_number": 9,
+          "raw_unit": "λίτρας",
+          "normalized_unit": "litra",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "qualifiers": [],
+      "notes": [
+        "The headword is not resolved more safely than the genitive form attested in the text."
+      ],
+      "host_locator": {
+        "book": "1",
+        "chapter": "47",
+        "section": null,
+        "citation": {
+          "start": "45.1",
+          "end": "45.15"
+        }
+      }
+    },
+    {
+      "ingredient_id": "dioscorides-1-47-telinon:ingredient:elaion-2",
+      "ingredient_urn": "urn:aos:recipe-ingredient:dioscorides-1-47-telinon:ingredient:elaion-2",
+      "source_span": "ἐλαίου λίτρας πέντε",
+      "surface_form": "ἐλαίου λίτρας πέντε",
+      "base_label": "ἐλαίου",
+      "normalized_label": "ἔλαιον",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [
+        "dioscorides-1-47-telinon:process:apobrechein-1",
+        "dioscorides-1-47-telinon:process:apobrechein-7",
+        "dioscorides-1-47-telinon:process:prostyphein-6"
+      ],
+      "quantities": [
+        {
+          "source_span": "λίτρας πέντε",
+          "raw_number": "πέντε",
+          "normalized_number": 5,
+          "raw_unit": "λίτρας",
+          "normalized_unit": "litra",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "47",
+        "section": null,
+        "citation": {
+          "start": "45.1",
+          "end": "45.15"
+        }
+      }
+    },
+    {
+      "ingredient_id": "dioscorides-1-47-telinon:ingredient:kalamos-3",
+      "ingredient_urn": "urn:aos:recipe-ingredient:dioscorides-1-47-telinon:ingredient:kalamos-3",
+      "source_span": "καλάμου λίτραν μίαν",
+      "surface_form": "καλάμου λίτραν μίαν",
+      "base_label": "καλάμου",
+      "normalized_label": "κάλαμος",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [
+        "dioscorides-1-47-telinon:process:apobrechein-1",
+        "dioscorides-1-47-telinon:process:apobrechein-7"
+      ],
+      "quantities": [
+        {
+          "source_span": "λίτραν μίαν",
+          "raw_number": "μίαν",
+          "normalized_number": 1,
+          "raw_unit": "λίτραν",
+          "normalized_unit": "litra",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "47",
+        "section": null,
+        "citation": {
+          "start": "45.1",
+          "end": "45.15"
+        }
+      }
+    },
+    {
+      "ingredient_id": "dioscorides-1-47-telinon:ingredient:kyperos-4",
+      "ingredient_urn": "urn:aos:recipe-ingredient:dioscorides-1-47-telinon:ingredient:kyperos-4",
+      "source_span": "κυπέρου λίτρας δύο",
+      "surface_form": "κυπέρου λίτρας δύο",
+      "base_label": "κυπέρου",
+      "normalized_label": "κύπερος",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [
+        "dioscorides-1-47-telinon:process:apobrechein-1",
+        "dioscorides-1-47-telinon:process:apobrechein-7"
+      ],
+      "quantities": [
+        {
+          "source_span": "λίτρας δύο",
+          "raw_number": "δύο",
+          "normalized_number": 2,
+          "raw_unit": "λίτρας",
+          "normalized_unit": "litra",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "47",
+        "section": null,
+        "citation": {
+          "start": "45.1",
+          "end": "45.15"
+        }
+      }
+    },
+    {
+      "ingredient_id": "dioscorides-1-47-telinon:ingredient:kardamomon-5",
+      "ingredient_urn": "urn:aos:recipe-ingredient:dioscorides-1-47-telinon:ingredient:kardamomon-5",
+      "source_span": "καρδάμωμον",
+      "surface_form": "καρδάμωμον",
+      "base_label": "καρδάμωμον",
+      "normalized_label": "καρδάμωμον",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [
+        "dioscorides-1-47-telinon:process:synapobrechein-5",
+        "dioscorides-1-47-telinon:process:prostyphein-6"
+      ],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "other",
+          "source_span": "ἀντὶ μὲν τοῦ καλάμου",
+          "normalized_value": "ἀντὶ τοῦ καλάμου",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "notes": [
+        "Variant substitute for κάλαμος."
+      ],
+      "host_locator": {
+        "book": "1",
+        "chapter": "47",
+        "section": null,
+        "citation": {
+          "start": "45.1",
+          "end": "45.15"
+        }
+      }
+    },
+    {
+      "ingredient_id": "dioscorides-1-47-telinon:ingredient:xylobalsamon-6",
+      "ingredient_urn": "urn:aos:recipe-ingredient:dioscorides-1-47-telinon:ingredient:xylobalsamon-6",
+      "source_span": "ξυλοβάλσαμον",
+      "surface_form": "ξυλοβάλσαμον",
+      "base_label": "ξυλοβάλσαμον",
+      "normalized_label": "ξυλοβάλσαμον",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [
+        "dioscorides-1-47-telinon:process:synapobrechein-5",
+        "dioscorides-1-47-telinon:process:prostyphein-6"
+      ],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "other",
+          "source_span": "ἀντὶ δὲ τῆς κυπέρου",
+          "normalized_value": "ἀντὶ τῆς κυπέρου",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "notes": [
+        "Variant substitute for κύπερος."
+      ],
+      "host_locator": {
+        "book": "1",
+        "chapter": "47",
+        "section": null,
+        "citation": {
+          "start": "45.1",
+          "end": "45.15"
+        }
+      }
+    }
+  ],
+  "processes": [
+    {
+      "process_id": "dioscorides-1-47-telinon:process:apobrechein-1",
+      "process_urn": "urn:aos:recipe-process:dioscorides-1-47-telinon:process:apobrechein-1",
+      "source_span": "ἀπόβρεχε",
+      "surface_form": "ἀπόβρεχε",
+      "normalized_label": "ἀποβρέχειν",
+      "target_type": "ingredient",
+      "target_ids": [
+        "dioscorides-1-47-telinon:ingredient:teleos-1",
+        "dioscorides-1-47-telinon:ingredient:kalamos-3",
+        "dioscorides-1-47-telinon:ingredient:kyperos-4"
+      ],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "other",
+          "source_span": "τῷ ἐλαίῳ",
+          "normalized_value": "τῷ ἐλαίῳ",
+          "certainty": "certain",
+          "notes": []
+        },
+        {
+          "qualifier_type": "duration",
+          "source_span": "ἐπὶ ἡμέρας ἑπτά",
+          "normalized_value": "ἑπτά ἡμέρας",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "47",
+        "section": null,
+        "citation": {
+          "start": "45.1",
+          "end": "45.15"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-1-47-telinon:process:kinein-2",
+      "process_urn": "urn:aos:recipe-process:dioscorides-1-47-telinon:process:kinein-2",
+      "source_span": "κινῶν",
+      "surface_form": "κινῶν",
+      "normalized_label": "κινεῖν",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "duration",
+          "source_span": "ἑκάστης ἡμέρας",
+          "normalized_value": "ἑκάστης ἡμέρας",
+          "certainty": "certain",
+          "notes": []
+        },
+        {
+          "qualifier_type": "manner",
+          "source_span": "τρίς",
+          "normalized_value": "τρίς",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "47",
+        "section": null,
+        "citation": {
+          "start": "45.1",
+          "end": "45.15"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-1-47-telinon:process:exipein-3",
+      "process_urn": "urn:aos:recipe-process:dioscorides-1-47-telinon:process:exipein-3",
+      "source_span": "ἐξίπου",
+      "surface_form": "ἐξίπου",
+      "normalized_label": "ἐξιπεῖν",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [],
+      "certainty": "uncertain",
+      "notes": [
+        "The infinitive is normalized from the attested imperative form, but the exact lexical head is slightly uncertain."
+      ],
+      "host_locator": {
+        "book": "1",
+        "chapter": "47",
+        "section": null,
+        "citation": {
+          "start": "45.1",
+          "end": "45.15"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-1-47-telinon:process:apotithesthai-4",
+      "process_urn": "urn:aos:recipe-process:dioscorides-1-47-telinon:process:apotithesthai-4",
+      "source_span": "ἀποτίθεσο",
+      "surface_form": "ἀποτίθεσο",
+      "normalized_label": "ἀποτίθεσθαι",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "47",
+        "section": null,
+        "citation": {
+          "start": "45.1",
+          "end": "45.15"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-1-47-telinon:process:synapobrechein-5",
+      "process_urn": "urn:aos:recipe-process:dioscorides-1-47-telinon:process:synapobrechein-5",
+      "source_span": "συναποβρέχουσιν",
+      "surface_form": "συναποβρέχουσιν",
+      "normalized_label": "συναποβρέχειν",
+      "target_type": "ingredient",
+      "target_ids": [
+        "dioscorides-1-47-telinon:ingredient:kardamomon-5",
+        "dioscorides-1-47-telinon:ingredient:xylobalsamon-6"
+      ],
+      "quantities": [],
+      "qualifiers": [],
+      "certainty": "certain",
+      "notes": [
+        "Variant procedure using substitute aromatics."
+      ],
+      "host_locator": {
+        "book": "1",
+        "chapter": "47",
+        "section": null,
+        "citation": {
+          "start": "45.1",
+          "end": "45.15"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-1-47-telinon:process:prostyphein-6",
+      "process_urn": "urn:aos:recipe-process:dioscorides-1-47-telinon:process:prostyphein-6",
+      "source_span": "προστύφουσι",
+      "surface_form": "προστύφουσι",
+      "normalized_label": "προστύφειν",
+      "target_type": "ingredient",
+      "target_ids": [
+        "dioscorides-1-47-telinon:ingredient:elaion-2"
+      ],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "other",
+          "source_span": "τούτοις",
+          "normalized_value": "τούτοις",
+          "certainty": "certain",
+          "notes": [
+            "Refers to the substitute aromatics just mentioned."
+          ]
+        }
+      ],
+      "certainty": "certain",
+      "notes": [
+        "Alternative procedure before soaking the τήλεως."
+      ],
+      "host_locator": {
+        "book": "1",
+        "chapter": "47",
+        "section": null,
+        "citation": {
+          "start": "45.1",
+          "end": "45.15"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-1-47-telinon:process:apobrechein-7",
+      "process_urn": "urn:aos:recipe-process:dioscorides-1-47-telinon:process:apobrechein-7",
+      "source_span": "ἀποβρέχοντες",
+      "surface_form": "ἀποβρέχοντες",
+      "normalized_label": "ἀποβρέχειν",
+      "target_type": "ingredient",
+      "target_ids": [
+        "dioscorides-1-47-telinon:ingredient:teleos-1"
+      ],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "other",
+          "source_span": "μετὰ ταῦτα",
+          "normalized_value": "μετὰ ταῦτα",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "certainty": "certain",
+      "notes": [
+        "Alternative sequence after treating the oil."
+      ],
+      "host_locator": {
+        "book": "1",
+        "chapter": "47",
+        "section": null,
+        "citation": {
+          "start": "45.1",
+          "end": "45.15"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-1-47-telinon:process:exipein-8",
+      "process_urn": "urn:aos:recipe-process:dioscorides-1-47-telinon:process:exipein-8",
+      "source_span": "ἐξιποῦσιν",
+      "surface_form": "ἐξιποῦσιν",
+      "normalized_label": "ἐξιπεῖν",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [],
+      "certainty": "uncertain",
+      "notes": [
+        "The infinitive is normalized from the attested finite form, but the exact lexical head is slightly uncertain."
+      ],
+      "host_locator": {
+        "book": "1",
+        "chapter": "47",
+        "section": null,
+        "citation": {
+          "start": "45.1",
+          "end": "45.15"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-1-47-telinon:process:eklegein-9",
+      "process_urn": "urn:aos:recipe-process:dioscorides-1-47-telinon:process:eklegein-9",
+      "source_span": "ἐκλέγου",
+      "surface_form": "ἐκλέγου",
+      "normalized_label": "ἐκλέγειν",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "other",
+          "source_span": "τὸ πρόσφατον",
+          "normalized_value": "πρόσφατον",
+          "certainty": "certain",
+          "notes": []
+        },
+        {
+          "qualifier_type": "other",
+          "source_span": "μὴ λίαν παρεμφαῖνον τὴν τῆς τήλεως ὀσμήν",
+          "normalized_value": "μὴ λίαν παρεμφαῖνον τὴν τῆς τήλεως ὀσμήν",
+          "certainty": "certain",
+          "notes": []
+        },
+        {
+          "qualifier_type": "other",
+          "source_span": "σμῆχον τὰς χεῖρας",
+          "normalized_value": "σμῆχον τὰς χεῖρας",
+          "certainty": "certain",
+          "notes": []
+        },
+        {
+          "qualifier_type": "other",
+          "source_span": "γλυκύπικρον ἐν τῇ γεύσει",
+          "normalized_value": "γλυκύπικρον ἐν τῇ γεύσει",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "certainty": "certain",
+      "notes": [
+        "Quality-selection criteria for the finished preparation."
+      ],
+      "host_locator": {
+        "book": "1",
+        "chapter": "47",
+        "section": null,
+        "citation": {
+          "start": "45.1",
+          "end": "45.15"
+        }
+      }
+    }
+  ],
+  "materials": [
+    {
+      "material_id": "dioscorides-1-47-telinon:material:keros-1",
+      "material_urn": "urn:aos:recipe-material:dioscorides-1-47-telinon:material:keros-1",
+      "source_span": "μετὰ κηροῦ",
+      "surface_form": "μετὰ κηροῦ",
+      "normalized_label": "κηρός",
+      "role": "adjunct_material",
+      "certainty": "certain",
+      "quantities": [],
+      "qualifiers": [],
+      "notes": [
+        "Mentioned only in therapeutic application with burns and chilblains."
+      ],
+      "host_locator": {
+        "book": "1",
+        "chapter": "47",
+        "section": null,
+        "citation": {
+          "start": "45.1",
+          "end": "45.15"
+        }
+      }
+    }
+  ],
+  "people": [],
+  "places": [],
+  "uses": [
+    {
+      "use_id": "dioscorides-1-47-telinon:use:malaktiken-apostematon-1",
+      "use_urn": "urn:aos:recipe-use:dioscorides-1-47-telinon:use:malaktiken-apostematon-1",
+      "category": "medical",
+      "source_span": "μαλακτικὴν ἀποστημάτων",
+      "snippet": "μαλακτικὴν ἀποστημάτων",
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "47",
+        "section": null,
+        "citation": {
+          "start": "45.1",
+          "end": "45.15"
+        }
+      }
+    },
+    {
+      "use_id": "dioscorides-1-47-telinon:use:peptiken-2",
+      "use_urn": "urn:aos:recipe-use:dioscorides-1-47-telinon:use:peptiken-2",
+      "category": "medical",
+      "source_span": "πεπτικήν",
+      "snippet": "πεπτικήν",
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "47",
+        "section": null,
+        "citation": {
+          "start": "45.1",
+          "end": "45.15"
+        }
+      }
+    },
+    {
+      "use_id": "dioscorides-1-47-telinon:use:armozei-tois-peri-metran-pasi-skirromasi-3",
+      "use_urn": "urn:aos:recipe-use:dioscorides-1-47-telinon:use:armozei-tois-peri-metran-pasi-skirromasi-3",
+      "category": "medical",
+      "source_span": "ἁρμόζει τοῖς περὶ μήτραν πᾶσι σκιρρώμασι",
+      "snippet": "ἁρμόζει τοῖς περὶ μήτραν πᾶσι σκιρρώμασι",
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "47",
+        "section": null,
+        "citation": {
+          "start": "45.1",
+          "end": "45.15"
+        }
+      }
+    },
+    {
+      "use_id": "dioscorides-1-47-telinon:use:dystokoysais-te-egchyma-epeidan-kataxera-ta-peri-toys-topoys-genetai-proekkrithenton-ton-ygron-4",
+      "use_urn": "urn:aos:recipe-use:dioscorides-1-47-telinon:use:dystokoysais-te-egchyma-epeidan-kataxera-ta-peri-toys-topoys-genetai-proekkrithenton-ton-ygron-4",
+      "category": "medical",
+      "source_span": "δυστοκούσαις τε ἔγχυμα, ἐπειδὰν κατάξηρα τὰ περὶ τοὺς τόπους γένηται, προεκκριθέντων τῶν ὑγρῶν",
+      "snippet": "δυστοκούσαις τε ἔγχυμα, ἐπειδὰν κατάξηρα τὰ περὶ τοὺς τόπους γένηται, προεκκριθέντων τῶν ὑγρῶν",
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "47",
+        "section": null,
+        "citation": {
+          "start": "45.1",
+          "end": "45.15"
+        }
+      }
+    },
+    {
+      "use_id": "dioscorides-1-47-telinon:use:pros-te-tas-en-daktylio-phlegmonas-5",
+      "use_urn": "urn:aos:recipe-use:dioscorides-1-47-telinon:use:pros-te-tas-en-daktylio-phlegmonas-5",
+      "category": "medical",
+      "source_span": "πρός τε τὰς ἐν δακτυλίῳ φλεγμονάς",
+      "snippet": "πρός τε τὰς ἐν δακτυλίῳ φλεγμονάς",
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "47",
+        "section": null,
+        "citation": {
+          "start": "45.1",
+          "end": "45.15"
+        }
+      }
+    },
+    {
+      "use_id": "dioscorides-1-47-telinon:use:egklyzetai-epi-ton-teinesmon-ophelimos-6",
+      "use_urn": "urn:aos:recipe-use:dioscorides-1-47-telinon:use:egklyzetai-epi-ton-teinesmon-ophelimos-6",
+      "category": "medical",
+      "source_span": "ἐγκλύζεται ἐπὶ τῶν τεινεσμῶν ὠφελίμως",
+      "snippet": "ἐγκλύζεται ἐπὶ τῶν τεινεσμῶν ὠφελίμως",
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "47",
+        "section": null,
+        "citation": {
+          "start": "45.1",
+          "end": "45.15"
+        }
+      }
+    },
+    {
+      "use_id": "dioscorides-1-47-telinon:use:pityra-te-kai-achoras-smechei-7",
+      "use_urn": "urn:aos:recipe-use:dioscorides-1-47-telinon:use:pityra-te-kai-achoras-smechei-7",
+      "category": "medical",
+      "source_span": "πίτυρά τε καὶ ἀχῶρας σμήχει",
+      "snippet": "πίτυρά τε καὶ ἀχῶρας σμήχει",
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "47",
+        "section": null,
+        "citation": {
+          "start": "45.1",
+          "end": "45.15"
+        }
+      }
+    },
+    {
+      "use_id": "dioscorides-1-47-telinon:use:katakaymata-kai-chimetla-ophelei-meta-keroy-8",
+      "use_urn": "urn:aos:recipe-use:dioscorides-1-47-telinon:use:katakaymata-kai-chimetla-ophelei-meta-keroy-8",
+      "category": "medical",
+      "source_span": "κατακαύματα καὶ χίμετλα ὠφελεῖ μετὰ κηροῦ",
+      "snippet": "κατακαύματα καὶ χίμετλα ὠφελεῖ μετὰ κηροῦ",
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "47",
+        "section": null,
+        "citation": {
+          "start": "45.1",
+          "end": "45.15"
+        }
+      }
+    },
+    {
+      "use_id": "dioscorides-1-47-telinon:use:smechei-te-ephelidas-9",
+      "use_urn": "urn:aos:recipe-use:dioscorides-1-47-telinon:use:smechei-te-ephelidas-9",
+      "category": "cosmetic",
+      "source_span": "σμήχει τε ἐφηλίδας",
+      "snippet": "σμήχει τε ἐφηλίδας",
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "47",
+        "section": null,
+        "citation": {
+          "start": "45.1",
+          "end": "45.15"
+        }
+      }
+    },
+    {
+      "use_id": "dioscorides-1-47-telinon:use:eis-stilbomata-meignytai-10",
+      "use_urn": "urn:aos:recipe-use:dioscorides-1-47-telinon:use:eis-stilbomata-meignytai-10",
+      "category": "cosmetic",
+      "source_span": "εἰς στιλβώματα μείγνυται",
+      "snippet": "εἰς στιλβώματα μείγνυται",
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "47",
+        "section": null,
+        "citation": {
+          "start": "45.1",
+          "end": "45.15"
+        }
+      }
+    }
+  ],
+  "preparation_names": [],
+  "other_preparations_mentioned": [],
+  "works_mentioned": [],
+  "entities": [
+    {
+      "entity_urn": "urn:aos:recipe-preparation:dioscorides-1-47-telinon:preparation:telinon",
+      "entity_type": "label",
+      "surface_form": "τηλῖνον",
+      "normalized_label": "τηλῖνον"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:dioscorides-1-47-telinon:ingredient:teleos-1",
+      "entity_type": "ingredient",
+      "surface_form": "τήλεως λίτρας ἐννέα",
+      "normalized_label": "τήλεως"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:dioscorides-1-47-telinon:ingredient:elaion-2",
+      "entity_type": "ingredient",
+      "surface_form": "ἐλαίου λίτρας πέντε",
+      "normalized_label": "ἔλαιον"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:dioscorides-1-47-telinon:ingredient:kalamos-3",
+      "entity_type": "ingredient",
+      "surface_form": "καλάμου λίτραν μίαν",
+      "normalized_label": "κάλαμος"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:dioscorides-1-47-telinon:ingredient:kyperos-4",
+      "entity_type": "ingredient",
+      "surface_form": "κυπέρου λίτρας δύο",
+      "normalized_label": "κύπερος"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:dioscorides-1-47-telinon:ingredient:kardamomon-5",
+      "entity_type": "ingredient",
+      "surface_form": "καρδάμωμον",
+      "normalized_label": "καρδάμωμον"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:dioscorides-1-47-telinon:ingredient:xylobalsamon-6",
+      "entity_type": "ingredient",
+      "surface_form": "ξυλοβάλσαμον",
+      "normalized_label": "ξυλοβάλσαμον"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-1-47-telinon:process:apobrechein-1",
+      "entity_type": "process",
+      "surface_form": "ἀπόβρεχε",
+      "normalized_label": "ἀποβρέχειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-1-47-telinon:process:kinein-2",
+      "entity_type": "process",
+      "surface_form": "κινῶν",
+      "normalized_label": "κινεῖν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-1-47-telinon:process:exipein-3",
+      "entity_type": "process",
+      "surface_form": "ἐξίπου",
+      "normalized_label": "ἐξιπεῖν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-1-47-telinon:process:apotithesthai-4",
+      "entity_type": "process",
+      "surface_form": "ἀποτίθεσο",
+      "normalized_label": "ἀποτίθεσθαι"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-1-47-telinon:process:synapobrechein-5",
+      "entity_type": "process",
+      "surface_form": "συναποβρέχουσιν",
+      "normalized_label": "συναποβρέχειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-1-47-telinon:process:prostyphein-6",
+      "entity_type": "process",
+      "surface_form": "προστύφουσι",
+      "normalized_label": "προστύφειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-1-47-telinon:process:apobrechein-7",
+      "entity_type": "process",
+      "surface_form": "ἀποβρέχοντες",
+      "normalized_label": "ἀποβρέχειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-1-47-telinon:process:exipein-8",
+      "entity_type": "process",
+      "surface_form": "ἐξιποῦσιν",
+      "normalized_label": "ἐξιπεῖν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-1-47-telinon:process:eklegein-9",
+      "entity_type": "process",
+      "surface_form": "ἐκλέγου",
+      "normalized_label": "ἐκλέγειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-material:dioscorides-1-47-telinon:material:keros-1",
+      "entity_type": "material",
+      "surface_form": "μετὰ κηροῦ",
+      "normalized_label": "κηρός"
+    }
+  ],
+  "canonical_file": "data/recipes/dioscorides-1-47-telinon.json",
+  "source_entry": {
+    "source_id": "dioscorides-1-47-telinon",
+    "derived_recipe_id": "dioscorides-1-47-telinon",
+    "entry_kind": "recipe",
+    "source_kind": "main_text",
+    "source_lines": {
+      "start": 1855,
+      "end": 3167
+    },
+    "section_markers": []
+  },
+  "entity_groups": {
+    "labels": [
+      {
+        "entity_urn": "urn:aos:recipe-preparation:dioscorides-1-47-telinon:preparation:telinon",
+        "surface_form": "τηλῖνον",
+        "normalized_label": "τηλῖνον"
+      }
+    ],
+    "ingredients": [
+      {
+        "entity_urn": "urn:aos:recipe-ingredient:dioscorides-1-47-telinon:ingredient:teleos-1",
+        "surface_form": "τήλεως λίτρας ἐννέα",
+        "normalized_label": "τήλεως",
+        "quantity_display": "λίτρας ἐννέα"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-ingredient:dioscorides-1-47-telinon:ingredient:elaion-2",
+        "surface_form": "ἐλαίου λίτρας πέντε",
+        "normalized_label": "ἔλαιον",
+        "quantity_display": "λίτρας πέντε"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-ingredient:dioscorides-1-47-telinon:ingredient:kalamos-3",
+        "surface_form": "καλάμου λίτραν μίαν",
+        "normalized_label": "κάλαμος",
+        "quantity_display": "λίτραν μίαν"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-ingredient:dioscorides-1-47-telinon:ingredient:kyperos-4",
+        "surface_form": "κυπέρου λίτρας δύο",
+        "normalized_label": "κύπερος",
+        "quantity_display": "λίτρας δύο"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-ingredient:dioscorides-1-47-telinon:ingredient:kardamomon-5",
+        "surface_form": "καρδάμωμον",
+        "normalized_label": "καρδάμωμον",
+        "quantity_display": ""
+      },
+      {
+        "entity_urn": "urn:aos:recipe-ingredient:dioscorides-1-47-telinon:ingredient:xylobalsamon-6",
+        "surface_form": "ξυλοβάλσαμον",
+        "normalized_label": "ξυλοβάλσαμον",
+        "quantity_display": ""
+      }
+    ],
+    "processes": [
+      {
+        "entity_urn": "urn:aos:recipe-process:dioscorides-1-47-telinon:process:apobrechein-1",
+        "surface_form": "ἀπόβρεχε",
+        "normalized_label": "ἀποβρέχειν"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-process:dioscorides-1-47-telinon:process:kinein-2",
+        "surface_form": "κινῶν",
+        "normalized_label": "κινεῖν"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-process:dioscorides-1-47-telinon:process:exipein-3",
+        "surface_form": "ἐξίπου",
+        "normalized_label": "ἐξιπεῖν"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-process:dioscorides-1-47-telinon:process:apotithesthai-4",
+        "surface_form": "ἀποτίθεσο",
+        "normalized_label": "ἀποτίθεσθαι"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-process:dioscorides-1-47-telinon:process:synapobrechein-5",
+        "surface_form": "συναποβρέχουσιν",
+        "normalized_label": "συναποβρέχειν"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-process:dioscorides-1-47-telinon:process:prostyphein-6",
+        "surface_form": "προστύφουσι",
+        "normalized_label": "προστύφειν"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-process:dioscorides-1-47-telinon:process:apobrechein-7",
+        "surface_form": "ἀποβρέχοντες",
+        "normalized_label": "ἀποβρέχειν"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-process:dioscorides-1-47-telinon:process:exipein-8",
+        "surface_form": "ἐξιποῦσιν",
+        "normalized_label": "ἐξιπεῖν"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-process:dioscorides-1-47-telinon:process:eklegein-9",
+        "surface_form": "ἐκλέγου",
+        "normalized_label": "ἐκλέγειν"
+      }
+    ],
+    "tools": [
+      {
+        "entity_urn": "urn:aos:recipe-material:dioscorides-1-47-telinon:material:keros-1",
+        "surface_form": "μετὰ κηροῦ",
+        "normalized_label": "κηρός"
+      }
+    ],
+    "other_preparations_mentioned": [],
+    "people": [],
+    "places": [],
+    "works_mentioned": [],
+    "preparation_names": []
+  }
+}

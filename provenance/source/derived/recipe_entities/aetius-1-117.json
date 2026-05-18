@@ -1,0 +1,648 @@
+{
+  "dataset_key": "aetius_book1_oils",
+  "source_json": "experiments/aetius-book1-ch99-136-oils/data/aetius_book1_ch99_136_oils.json",
+  "host_raw_file": "tei/raw/tlg0718001.xml",
+  "work_slug": "aetius.b1.oils",
+  "recipe_id": "aetius-1-117",
+  "recipe_urn": "urn:aos:recipe:aetius-1-117",
+  "record_urn": "urn:aos:recipe-record:aetius-1-117",
+  "author": "Aëtius of Amida",
+  "work": "Libri medicinales",
+  "book": "1",
+  "chapter": "117",
+  "section": "117",
+  "chapter_name": "Τήλινον",
+  "lemma": "Τήλινον",
+  "text": "Τήλινον δύναμιν ἔχει μαλακτικήν, χρήσιμον δέ ἐστι πρὸς πίτυρα καὶ ἀχώρας καὶ ἐφήλεις ἀποκαθαίρει καὶ τὸ πρόσωπον λευκαίνει καὶ ἀποσμήχει καὶ πρόσφατον ποιεῖ καὶ πρὸς τὰς ἐν μήτρᾳ σκληρίας καὶ ἀποστήματα καὶ δυστοκούσαις βοηθεῖ, ποιεῖ δὲ καὶ πρὸς τὰς ἐν δακτυλίῳ καὶ ἐντέροις φλεγμονάς· ἐνιέμενον δὲ λύει καὶ τεινεσμούς, ποιεῖ καὶ πρὸς χείμεθλα. σκευάζεται δὲ τὸν τρόπον τοῦτον· τήλεως λίτραι ε ἐλαίου ξ̸εʹη κυπέρου λίτραι β καλάμου λίτρα α· ἀπόβρεχε ταῦτα τῷ ἐλαίῳ ἐπὶ ἡμέρας ζ κινῶν τρὶς τῆς ἡμέρας, ἔπειτα ἐκθλίψας καὶ διηθήσας ἀποτίθεσο.",
+  "original_text": "Τήλινον δύναμιν ἔχει μαλακτικήν, χρήσιμον δέ ἐστι πρὸς πίτυρα καὶ ἀχώρας καὶ ἐφήλεις ἀποκαθαίρει καὶ τὸ πρόσωπον λευκαίνει καὶ ἀποσμήχει καὶ πρόσφατον ποιεῖ καὶ πρὸς τὰς ἐν μήτρᾳ σκληρίας καὶ ἀποστήματα καὶ δυστοκούσαις βοηθεῖ, ποιεῖ δὲ καὶ πρὸς τὰς ἐν δακτυλίῳ καὶ ἐντέροις φλεγμονάς· ἐνιέμενον δὲ λύει καὶ τεινεσμούς, ποιεῖ καὶ πρὸς χείμεθλα. σκευάζεται δὲ τὸν τρόπον τοῦτον· τήλεως λίτραι ε ἐλαίου ξ̸εʹη κυπέρου λίτραι β καλάμου λίτρα α· ἀπόβρεχε ταῦτα τῷ ἐλαίῳ ἐπὶ ἡμέρας ζ κινῶν τρὶς τῆς ἡμέρας, ἔπειτα ἐκθλίψας καὶ διηθήσας ἀποτίθεσο.",
+  "text_source": "olivieri",
+  "emendations": [],
+  "emendation_count": 0,
+  "source_kind": null,
+  "entry_kind": "recipe",
+  "citation": {
+    "pages": [
+      "60"
+    ],
+    "start": {
+      "page": "60",
+      "line": "19",
+      "xml_id": "oliv-60-19"
+    },
+    "end": {
+      "page": "60",
+      "line": "27",
+      "xml_id": "oliv-60-27"
+    },
+    "citation": {
+      "start": "60.19",
+      "end": "60.27"
+    },
+    "page_spans": [
+      {
+        "page": "60",
+        "start_line": "19",
+        "end_line": "27"
+      }
+    ],
+    "lines": [
+      {
+        "page": "60",
+        "line": "19",
+        "xml_id": "oliv-60-19",
+        "break_no": false,
+        "text": "Τήλινον δύναμιν ἔχει μαλακτικήν, χρήσιμον δέ ἐστι πρὸς πίτυρα",
+        "citation": "60.19"
+      },
+      {
+        "page": "60",
+        "line": "20",
+        "xml_id": "oliv-60-20",
+        "break_no": false,
+        "text": "καὶ ἀχώρας καὶ ἐφήλεις ἀποκαθαίρει καὶ τὸ πρόσωπον λευκαίνει καὶ",
+        "citation": "60.20"
+      },
+      {
+        "page": "60",
+        "line": "21",
+        "xml_id": "oliv-60-21",
+        "break_no": false,
+        "text": "ἀποσμήχει καὶ πρόσφατον ποιεῖ καὶ πρὸς τὰς ἐν μήτρᾳ σκληρίας καὶ",
+        "citation": "60.21"
+      },
+      {
+        "page": "60",
+        "line": "22",
+        "xml_id": "oliv-60-22",
+        "break_no": false,
+        "text": "ἀποστήματα καὶ δυστοκούσαις βοηθεῖ, ποιεῖ δὲ καὶ πρὸς τὰς ἐν δακτυλίῳ",
+        "citation": "60.22"
+      },
+      {
+        "page": "60",
+        "line": "23",
+        "xml_id": "oliv-60-23",
+        "break_no": false,
+        "text": "καὶ ἐντέροις φλεγμονάς· ἐνιέμενον δὲ λύει καὶ τεινεσμούς, ποιεῖ καὶ",
+        "citation": "60.23"
+      },
+      {
+        "page": "60",
+        "line": "24",
+        "xml_id": "oliv-60-24",
+        "break_no": false,
+        "text": "πρὸς χείμεθλα. σκευάζεται δὲ τὸν τρόπον τοῦτον· τήλεως λίτραι ε",
+        "citation": "60.24"
+      },
+      {
+        "page": "60",
+        "line": "25",
+        "xml_id": "oliv-60-25",
+        "break_no": false,
+        "text": "ἐλαίου ξ̸εʹη κυπέρου λίτραι β καλάμου λίτρα α· ἀπόβρεχε ταῦτα τῷ",
+        "citation": "60.25"
+      },
+      {
+        "page": "60",
+        "line": "26",
+        "xml_id": "oliv-60-26",
+        "break_no": false,
+        "text": "ἐλαίῳ ἐπὶ ἡμέρας ζ κινῶν τρὶς τῆς ἡμέρας, ἔπειτα ἐκθλίψας καὶ διη-",
+        "citation": "60.26"
+      },
+      {
+        "page": "60",
+        "line": "27",
+        "xml_id": "oliv-60-27",
+        "break_no": true,
+        "text": "θήσας ἀποτίθεσο.",
+        "citation": "60.27"
+      }
+    ],
+    "edition_key": "olivieri"
+  },
+  "notes": [],
+  "alignment_status": "pending",
+  "alignment_confidence": "pending",
+  "alignment_evidence": null,
+  "review_status": "reviewed_structured_authority",
+  "review_provenance": {
+    "authority_source": "reports/entity_review/structured/aetius_book1.json",
+    "authority_recipe_id": "aetius-1-117",
+    "authority_lemma": "Τήλινον",
+    "model": "gpt-5.4",
+    "reasoning_effort": "high",
+    "dataset_key": "aetius_book1_oils",
+    "entity_model_version": "1.2",
+    "authority_version": "2026-04-13-qty-alt-v1",
+    "prompt_version": "qty-alt-pass-v1",
+    "build_version": "2026-05-18T15:51:35Z"
+  },
+  "schema_version": "1.2",
+  "build_metadata": {
+    "builder": "scripts/recipes/build_recipe_entities.py",
+    "built_at": "2026-05-18T15:51:35Z",
+    "source_structured_authority": "reports/entity_review/structured/aetius_book1.json",
+    "authority_model": "gpt-5.4",
+    "authority_reasoning_effort": "high",
+    "dataset_key": "aetius_book1_oils",
+    "entity_model_version": "1.2",
+    "authority_version": "2026-04-13-qty-alt-v1",
+    "prompt_version": "qty-alt-pass-v1",
+    "build_version": "2026-05-18T15:51:35Z"
+  },
+  "recipe_text_excerpt": "Τήλινον δύναμιν ἔχει μαλακτικήν, χρήσιμον δέ ἐστι πρὸς πίτυρα καὶ ἀχώρας καὶ ἐφήλεις ἀποκαθαίρει καὶ τὸ πρόσωπον λευκαίνει καὶ ἀποσμήχει",
+  "preparation": {
+    "preparation_id": "aetius-1-117:preparation:telinon",
+    "preparation_urn": "urn:aos:recipe-preparation:aetius-1-117:preparation:telinon",
+    "source_span": "Τήλινον",
+    "surface_form": "Τήλινον",
+    "normalized_label": "Τήλινον",
+    "qualifiers": [],
+    "regimen_notes": [],
+    "certainty": "certain",
+    "notes": [],
+    "host_locator": {
+      "book": "1",
+      "chapter": "117",
+      "section": "117",
+      "citation": {
+        "start": "60.19",
+        "end": "60.27"
+      }
+    }
+  },
+  "ingredients": [
+    {
+      "ingredient_id": "aetius-1-117:ingredient:teleos-1",
+      "ingredient_urn": "urn:aos:recipe-ingredient:aetius-1-117:ingredient:teleos-1",
+      "source_span": "τήλεως",
+      "surface_form": "τήλεως",
+      "base_label": "τήλεως",
+      "normalized_label": "τήλεως",
+      "alternative_set_id": null,
+      "certainty": "uncertain",
+      "linked_process_ids": [],
+      "quantities": [
+        {
+          "source_span": "λίτραι ε",
+          "raw_number": "ε",
+          "normalized_number": 5,
+          "raw_unit": "λίτραι",
+          "normalized_unit": "litra",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "qualifiers": [],
+      "notes": [
+        "The lexical normalization of τήλεως is uncertain from the excerpt alone."
+      ],
+      "host_locator": {
+        "book": "1",
+        "chapter": "117",
+        "section": "117",
+        "citation": {
+          "start": "60.19",
+          "end": "60.27"
+        }
+      }
+    },
+    {
+      "ingredient_id": "aetius-1-117:ingredient:elaion-2",
+      "ingredient_urn": "urn:aos:recipe-ingredient:aetius-1-117:ingredient:elaion-2",
+      "source_span": "ἐλαίου",
+      "surface_form": "ἐλαίου",
+      "base_label": "ἐλαίου",
+      "normalized_label": "ἔλαιον",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [],
+      "quantities": [
+        {
+          "source_span": "ξ̸εʹη",
+          "raw_number": "ξ̸εʹη",
+          "normalized_number": null,
+          "raw_unit": null,
+          "normalized_unit": "xestes",
+          "certainty": "uncertain",
+          "notes": [
+            "The numeral is not safely resolved from the excerpt, and no unit is restated."
+          ]
+        }
+      ],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "117",
+        "section": "117",
+        "citation": {
+          "start": "60.19",
+          "end": "60.27"
+        }
+      }
+    },
+    {
+      "ingredient_id": "aetius-1-117:ingredient:kyperos-3",
+      "ingredient_urn": "urn:aos:recipe-ingredient:aetius-1-117:ingredient:kyperos-3",
+      "source_span": "κυπέρου",
+      "surface_form": "κυπέρου",
+      "base_label": "κυπέρου",
+      "normalized_label": "κύπερος",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [],
+      "quantities": [
+        {
+          "source_span": "λίτραι β",
+          "raw_number": "β",
+          "normalized_number": 2,
+          "raw_unit": "λίτραι",
+          "normalized_unit": "litra",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "117",
+        "section": "117",
+        "citation": {
+          "start": "60.19",
+          "end": "60.27"
+        }
+      }
+    },
+    {
+      "ingredient_id": "aetius-1-117:ingredient:kalamos-4",
+      "ingredient_urn": "urn:aos:recipe-ingredient:aetius-1-117:ingredient:kalamos-4",
+      "source_span": "καλάμου",
+      "surface_form": "καλάμου",
+      "base_label": "καλάμου",
+      "normalized_label": "κάλαμος",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [],
+      "quantities": [
+        {
+          "source_span": "λίτρα α",
+          "raw_number": "α",
+          "normalized_number": 1,
+          "raw_unit": "λίτρα",
+          "normalized_unit": "litra",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "117",
+        "section": "117",
+        "citation": {
+          "start": "60.19",
+          "end": "60.27"
+        }
+      }
+    }
+  ],
+  "processes": [
+    {
+      "process_id": "aetius-1-117:process:apobrechein-1",
+      "process_urn": "urn:aos:recipe-process:aetius-1-117:process:apobrechein-1",
+      "source_span": "ἀπόβρεχε",
+      "surface_form": "ἀπόβρεχε",
+      "normalized_label": "ἀποβρέχειν",
+      "target_type": "ingredient",
+      "target_ids": [
+        "aetius-1-117:ingredient:teleos-1",
+        "aetius-1-117:ingredient:kyperos-3",
+        "aetius-1-117:ingredient:kalamos-4"
+      ],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "other",
+          "source_span": "τῷ ἐλαίῳ",
+          "normalized_value": "with oil",
+          "certainty": "certain",
+          "notes": []
+        },
+        {
+          "qualifier_type": "duration",
+          "source_span": "ἐπὶ ἡμέρας ζ",
+          "normalized_value": "7 days",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "117",
+        "section": "117",
+        "citation": {
+          "start": "60.19",
+          "end": "60.27"
+        }
+      }
+    },
+    {
+      "process_id": "aetius-1-117:process:kinein-2",
+      "process_urn": "urn:aos:recipe-process:aetius-1-117:process:kinein-2",
+      "source_span": "κινῶν",
+      "surface_form": "κινῶν",
+      "normalized_label": "κινεῖν",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "manner",
+          "source_span": "τρὶς τῆς ἡμέρας",
+          "normalized_value": "three times per day",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "117",
+        "section": "117",
+        "citation": {
+          "start": "60.19",
+          "end": "60.27"
+        }
+      }
+    },
+    {
+      "process_id": "aetius-1-117:process:ekthlibein-3",
+      "process_urn": "urn:aos:recipe-process:aetius-1-117:process:ekthlibein-3",
+      "source_span": "ἐκθλίψας",
+      "surface_form": "ἐκθλίψας",
+      "normalized_label": "ἐκθλίβειν",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "117",
+        "section": "117",
+        "citation": {
+          "start": "60.19",
+          "end": "60.27"
+        }
+      }
+    },
+    {
+      "process_id": "aetius-1-117:process:diethein-4",
+      "process_urn": "urn:aos:recipe-process:aetius-1-117:process:diethein-4",
+      "source_span": "διηθήσας",
+      "surface_form": "διηθήσας",
+      "normalized_label": "διηθεῖν",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "117",
+        "section": "117",
+        "citation": {
+          "start": "60.19",
+          "end": "60.27"
+        }
+      }
+    },
+    {
+      "process_id": "aetius-1-117:process:apotithesthai-5",
+      "process_urn": "urn:aos:recipe-process:aetius-1-117:process:apotithesthai-5",
+      "source_span": "ἀποτίθεσο",
+      "surface_form": "ἀποτίθεσο",
+      "normalized_label": "ἀποτίθεσθαι",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "117",
+        "section": "117",
+        "citation": {
+          "start": "60.19",
+          "end": "60.27"
+        }
+      }
+    }
+  ],
+  "materials": [],
+  "people": [],
+  "places": [],
+  "uses": [
+    {
+      "use_id": "aetius-1-117:use:pros-pityra-kai-achoras-kai-epheleis-1",
+      "use_urn": "urn:aos:recipe-use:aetius-1-117:use:pros-pityra-kai-achoras-kai-epheleis-1",
+      "category": "medical",
+      "source_span": "πρὸς πίτυρα καὶ ἀχώρας καὶ ἐφήλεις",
+      "snippet": "πρὸς πίτυρα καὶ ἀχώρας καὶ ἐφήλεις",
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "117",
+        "section": "117",
+        "citation": {
+          "start": "60.19",
+          "end": "60.27"
+        }
+      }
+    },
+    {
+      "use_id": "aetius-1-117:use:to-prosopon-leykainei-kai-aposmechei-kai-prosphaton-poiei-2",
+      "use_urn": "urn:aos:recipe-use:aetius-1-117:use:to-prosopon-leykainei-kai-aposmechei-kai-prosphaton-poiei-2",
+      "category": "cosmetic",
+      "source_span": "τὸ πρόσωπον λευκαίνει καὶ ἀποσμήχει καὶ πρόσφατον ποιεῖ",
+      "snippet": "τὸ πρόσωπον λευκαίνει καὶ ἀποσμήχει καὶ πρόσφατον ποιεῖ",
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "117",
+        "section": "117",
+        "citation": {
+          "start": "60.19",
+          "end": "60.27"
+        }
+      }
+    },
+    {
+      "use_id": "aetius-1-117:use:pros-tas-en-metra-sklerias-kai-apostemata-3",
+      "use_urn": "urn:aos:recipe-use:aetius-1-117:use:pros-tas-en-metra-sklerias-kai-apostemata-3",
+      "category": "medical",
+      "source_span": "πρὸς τὰς ἐν μήτρᾳ σκληρίας καὶ ἀποστήματα",
+      "snippet": "πρὸς τὰς ἐν μήτρᾳ σκληρίας καὶ ἀποστήματα",
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "117",
+        "section": "117",
+        "citation": {
+          "start": "60.19",
+          "end": "60.27"
+        }
+      }
+    },
+    {
+      "use_id": "aetius-1-117:use:dystokoysais-boethei-4",
+      "use_urn": "urn:aos:recipe-use:aetius-1-117:use:dystokoysais-boethei-4",
+      "category": "medical",
+      "source_span": "δυστοκούσαις βοηθεῖ",
+      "snippet": "δυστοκούσαις βοηθεῖ",
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "117",
+        "section": "117",
+        "citation": {
+          "start": "60.19",
+          "end": "60.27"
+        }
+      }
+    },
+    {
+      "use_id": "aetius-1-117:use:pros-tas-en-daktylio-kai-enterois-phlegmonas-5",
+      "use_urn": "urn:aos:recipe-use:aetius-1-117:use:pros-tas-en-daktylio-kai-enterois-phlegmonas-5",
+      "category": "medical",
+      "source_span": "πρὸς τὰς ἐν δακτυλίῳ καὶ ἐντέροις φλεγμονάς",
+      "snippet": "πρὸς τὰς ἐν δακτυλίῳ καὶ ἐντέροις φλεγμονάς",
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "117",
+        "section": "117",
+        "citation": {
+          "start": "60.19",
+          "end": "60.27"
+        }
+      }
+    },
+    {
+      "use_id": "aetius-1-117:use:eniemenon-de-lyei-kai-teinesmoys-6",
+      "use_urn": "urn:aos:recipe-use:aetius-1-117:use:eniemenon-de-lyei-kai-teinesmoys-6",
+      "category": "medical",
+      "source_span": "ἐνιέμενον δὲ λύει καὶ τεινεσμούς",
+      "snippet": "ἐνιέμενον δὲ λύει καὶ τεινεσμούς",
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "117",
+        "section": "117",
+        "citation": {
+          "start": "60.19",
+          "end": "60.27"
+        }
+      }
+    },
+    {
+      "use_id": "aetius-1-117:use:pros-cheimethla-7",
+      "use_urn": "urn:aos:recipe-use:aetius-1-117:use:pros-cheimethla-7",
+      "category": "medical",
+      "source_span": "πρὸς χείμεθλα",
+      "snippet": "πρὸς χείμεθλα",
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "117",
+        "section": "117",
+        "citation": {
+          "start": "60.19",
+          "end": "60.27"
+        }
+      }
+    }
+  ],
+  "preparation_names": [],
+  "other_preparations_mentioned": [],
+  "works_mentioned": [],
+  "entities": [
+    {
+      "entity_urn": "urn:aos:recipe-preparation:aetius-1-117:preparation:telinon",
+      "entity_type": "label",
+      "surface_form": "Τήλινον",
+      "normalized_label": "Τήλινον"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:aetius-1-117:ingredient:teleos-1",
+      "entity_type": "ingredient",
+      "surface_form": "τήλεως",
+      "normalized_label": "τήλεως"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:aetius-1-117:ingredient:elaion-2",
+      "entity_type": "ingredient",
+      "surface_form": "ἐλαίου",
+      "normalized_label": "ἔλαιον"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:aetius-1-117:ingredient:kyperos-3",
+      "entity_type": "ingredient",
+      "surface_form": "κυπέρου",
+      "normalized_label": "κύπερος"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:aetius-1-117:ingredient:kalamos-4",
+      "entity_type": "ingredient",
+      "surface_form": "καλάμου",
+      "normalized_label": "κάλαμος"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:aetius-1-117:process:apobrechein-1",
+      "entity_type": "process",
+      "surface_form": "ἀπόβρεχε",
+      "normalized_label": "ἀποβρέχειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:aetius-1-117:process:kinein-2",
+      "entity_type": "process",
+      "surface_form": "κινῶν",
+      "normalized_label": "κινεῖν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:aetius-1-117:process:ekthlibein-3",
+      "entity_type": "process",
+      "surface_form": "ἐκθλίψας",
+      "normalized_label": "ἐκθλίβειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:aetius-1-117:process:diethein-4",
+      "entity_type": "process",
+      "surface_form": "διηθήσας",
+      "normalized_label": "διηθεῖν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:aetius-1-117:process:apotithesthai-5",
+      "entity_type": "process",
+      "surface_form": "ἀποτίθεσο",
+      "normalized_label": "ἀποτίθεσθαι"
+    }
+  ]
+}

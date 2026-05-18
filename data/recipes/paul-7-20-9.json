@@ -1,0 +1,770 @@
+{
+  "dataset_key": "paul_book7_perfumes",
+  "source_json": "experiments/paul-book7-ch20-perfumes/data/paul_book7_ch20_perfumes.json",
+  "host_raw_file": "tei/raw/tlg0715001.xml",
+  "work_slug": "paul.b7.perfumes",
+  "recipe_id": "paul-7-20-9",
+  "recipe_urn": "urn:aos:recipe:paul-7-20-9",
+  "record_urn": "urn:aos:recipe-record:paul-7-20-9",
+  "author": "Paul of Aegina",
+  "work": "Medical Epitome",
+  "book": "7",
+  "chapter": "20",
+  "section": "9",
+  "chapter_name": "Ἐλαίων καὶ μύρων σκευασίαι διάφοροι.",
+  "lemma": "Ἰάτον",
+  "text": "Ἰάτον σκευάζουσιν οἱ μὲν τῶν πορφυρῶν, οἱ δὲ τῶν κροκίνων, ἄλλοι δὲ τῶν λευκοΐων τῶν φύλλων ὀνυχισθέντων ἐμβάλλοντες 𐆄 γ εἰς τὸν Ἰταλικὸν ξ̸ ἐλαίου ὀμφακίνου καὶ περισφίγξαντες ἀκριβῶς, ὡς μὴ διαπνεῖσθαι, ἡλιοῦσιν ἡμέρας ι τρίτον αὐτὰ ἀλλάσσοντες ὑπὲρ γ ἡμέρας, ὥσπερ τὰ κρίνα. καὶ εἰς τὴν ἀπόθεσιν δὲ ὀλίγα ἐμβάλλουσιν ἀκριβῶς ξηρά.",
+  "original_text": null,
+  "text_source": null,
+  "emendations": [],
+  "emendation_count": 0,
+  "source_kind": null,
+  "entry_kind": "recipe",
+  "citation": {
+    "pages": [
+      "2.383",
+      "2.384"
+    ],
+    "start": {
+      "page": "2.383",
+      "line": "22",
+      "xml_id": "heib-2-383-22"
+    },
+    "end": {
+      "page": "2.384",
+      "line": "2",
+      "xml_id": "heib-2-384-2"
+    },
+    "citation": {
+      "start": "2.383.22",
+      "end": "2.384.2"
+    },
+    "page_spans": [
+      {
+        "page": "2.383",
+        "start_line": "22",
+        "end_line": "26"
+      },
+      {
+        "page": "2.384",
+        "start_line": "1",
+        "end_line": "2"
+      }
+    ],
+    "lines": [
+      {
+        "page": "2.383",
+        "line": "22",
+        "xml_id": "heib-2-383-22",
+        "break_no": false,
+        "text": "Ἰάτον.",
+        "citation": "2.383.22"
+      },
+      {
+        "page": "2.383",
+        "line": "23",
+        "xml_id": "heib-2-383-23",
+        "break_no": false,
+        "text": "Ἰάτον σκευάζουσιν οἱ μὲν τῶν πορφυρῶν, οἱ δὲ τῶν κροκίνων,",
+        "citation": "2.383.23"
+      },
+      {
+        "page": "2.383",
+        "line": "24",
+        "xml_id": "heib-2-383-24",
+        "break_no": false,
+        "text": "ἄλλοι δὲ τῶν λευκοΐων τῶν φύλλων ὀνυχισθέντων ἐμβάλλοντες 𐆄 γ",
+        "citation": "2.383.24"
+      },
+      {
+        "page": "2.383",
+        "line": "25",
+        "xml_id": "heib-2-383-25",
+        "break_no": false,
+        "text": "εἰς τὸν Ἰταλικὸν ξ̸ ἐλαίου ὀμφακίνου καὶ περισφίγξαντες ἀκριβῶς, ὡς",
+        "citation": "2.383.25"
+      },
+      {
+        "page": "2.383",
+        "line": "26",
+        "xml_id": "heib-2-383-26",
+        "break_no": false,
+        "text": "μὴ διαπνεῖσθαι, ἡλιοῦσιν ἡμέρας ι τρίτον αὐτὰ ἀλλάσσοντες ὑπὲρ γ",
+        "citation": "2.383.26"
+      },
+      {
+        "page": "2.384",
+        "line": "1",
+        "xml_id": "heib-2-384-1",
+        "break_no": false,
+        "text": "ἡμέρας, ὥσπερ τὰ κρίνα. καὶ εἰς τὴν ἀπόθεσιν δὲ ὀλίγα ἐμβάλλουσιν",
+        "citation": "2.384.1"
+      },
+      {
+        "page": "2.384",
+        "line": "2",
+        "xml_id": "heib-2-384-2",
+        "break_no": false,
+        "text": "ἀκριβῶς ξηρά.",
+        "citation": "2.384.2"
+      }
+    ],
+    "edition_key": "heiberg"
+  },
+  "notes": [
+    "The text presents three alternative floral starting materials for preparing Ἰάτον."
+  ],
+  "alignment_status": "pending",
+  "alignment_confidence": "pending",
+  "alignment_evidence": null,
+  "review_status": "reviewed_structured_authority",
+  "review_provenance": {
+    "authority_source": "reports/entity_review/structured/paul.json",
+    "authority_recipe_id": "paul-7-20-9",
+    "authority_lemma": "Ἰάτον",
+    "model": "gpt-5.4",
+    "reasoning_effort": "high",
+    "dataset_key": "paul_book7_perfumes",
+    "entity_model_version": "1.2",
+    "authority_version": "2026-04-13-qty-alt-v1",
+    "prompt_version": "qty-alt-pass-v1",
+    "build_version": "2026-05-18T15:51:35Z"
+  },
+  "schema_version": "1.2",
+  "build_metadata": {
+    "builder": "scripts/recipes/build_recipe_entities.py",
+    "built_at": "2026-05-18T15:51:35Z",
+    "source_structured_authority": "reports/entity_review/structured/paul.json",
+    "authority_model": "gpt-5.4",
+    "authority_reasoning_effort": "high",
+    "dataset_key": "paul_book7_perfumes",
+    "entity_model_version": "1.2",
+    "authority_version": "2026-04-13-qty-alt-v1",
+    "prompt_version": "qty-alt-pass-v1",
+    "build_version": "2026-05-18T15:51:35Z"
+  },
+  "recipe_text_excerpt": "Ἰάτον σκευάζουσιν οἱ μὲν τῶν πορφυρῶν, οἱ δὲ τῶν κροκίνων, ἄλλοι δὲ τῶν λευκοΐων τῶν φύλλων ὀνυχισθέντων ἐμβάλλοντες 𐆄 γ",
+  "preparation": {
+    "preparation_id": "paul-7-20-9:preparation:iaton",
+    "preparation_urn": "urn:aos:recipe-preparation:paul-7-20-9:preparation:iaton",
+    "source_span": "Ἰάτον",
+    "surface_form": "Ἰάτον",
+    "normalized_label": "Ἰάτον",
+    "qualifiers": [
+      {
+        "qualifier_type": "other",
+        "source_span": "οἱ μὲν τῶν πορφυρῶν, οἱ δὲ τῶν κροκίνων, ἄλλοι δὲ τῶν λευκοΐων",
+        "normalized_value": "πορφυρῶν / κροκίνων / λευκοΐων",
+        "certainty": "certain",
+        "notes": [
+          "ingredient-based variants of the preparation"
+        ]
+      },
+      {
+        "qualifier_type": "cycle_count",
+        "source_span": "τρίτον",
+        "normalized_value": "3",
+        "certainty": "certain",
+        "notes": [
+          "repeated replacement cycle is stated for the recipe process"
+        ]
+      }
+    ],
+    "regimen_notes": [],
+    "certainty": "certain",
+    "notes": [],
+    "host_locator": {
+      "book": "7",
+      "chapter": "20",
+      "section": "9",
+      "citation": {
+        "start": "2.383.22",
+        "end": "2.384.2"
+      }
+    }
+  },
+  "ingredients": [
+    {
+      "ingredient_id": "paul-7-20-9:ingredient:porphyra-1",
+      "ingredient_urn": "urn:aos:recipe-ingredient:paul-7-20-9:ingredient:porphyra-1",
+      "source_span": "τῶν πορφυρῶν",
+      "surface_form": "τῶν πορφυρῶν",
+      "base_label": "πορφυρῶν",
+      "normalized_label": "πορφυρά",
+      "alternative_set_id": null,
+      "certainty": "uncertain",
+      "linked_process_ids": [
+        "paul-7-20-9:process:emballein-2",
+        "paul-7-20-9:process:emballein-6",
+        "paul-7-20-9:process:elioyn-4",
+        "paul-7-20-9:process:allassein-5"
+      ],
+      "quantities": [
+        {
+          "source_span": "𐆄 γ",
+          "raw_number": "γ",
+          "normalized_number": 3,
+          "raw_unit": "𐆄",
+          "normalized_unit": "uncia",
+          "certainty": "uncertain",
+          "notes": [
+            "The unit sign 𐆄 is left unresolved from the inline evidence alone."
+          ]
+        }
+      ],
+      "qualifiers": [],
+      "notes": [
+        "The source gives an elliptical color/type term without an explicit head noun."
+      ],
+      "host_locator": {
+        "book": "7",
+        "chapter": "20",
+        "section": "9",
+        "citation": {
+          "start": "2.383.22",
+          "end": "2.384.2"
+        }
+      }
+    },
+    {
+      "ingredient_id": "paul-7-20-9:ingredient:krokina-2",
+      "ingredient_urn": "urn:aos:recipe-ingredient:paul-7-20-9:ingredient:krokina-2",
+      "source_span": "τῶν κροκίνων",
+      "surface_form": "τῶν κροκίνων",
+      "base_label": "κροκίνων",
+      "normalized_label": "κρόκινα",
+      "alternative_set_id": null,
+      "certainty": "uncertain",
+      "linked_process_ids": [
+        "paul-7-20-9:process:emballein-2",
+        "paul-7-20-9:process:emballein-6",
+        "paul-7-20-9:process:elioyn-4",
+        "paul-7-20-9:process:allassein-5"
+      ],
+      "quantities": [
+        {
+          "source_span": "𐆄 γ",
+          "raw_number": "γ",
+          "normalized_number": 3,
+          "raw_unit": "𐆄",
+          "normalized_unit": "uncia",
+          "certainty": "uncertain",
+          "notes": [
+            "The unit sign 𐆄 is left unresolved from the inline evidence alone."
+          ]
+        }
+      ],
+      "qualifiers": [],
+      "notes": [
+        "The source gives an elliptical color/type term without an explicit head noun."
+      ],
+      "host_locator": {
+        "book": "7",
+        "chapter": "20",
+        "section": "9",
+        "citation": {
+          "start": "2.383.22",
+          "end": "2.384.2"
+        }
+      }
+    },
+    {
+      "ingredient_id": "paul-7-20-9:ingredient:phylla-leykoioy-3",
+      "ingredient_urn": "urn:aos:recipe-ingredient:paul-7-20-9:ingredient:phylla-leykoioy-3",
+      "source_span": "τῶν λευκοΐων τῶν φύλλων ὀνυχισθέντων",
+      "surface_form": "τῶν λευκοΐων τῶν φύλλων ὀνυχισθέντων",
+      "base_label": "λευκοΐων φύλλων",
+      "normalized_label": "φύλλα λευκοΐου",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [
+        "paul-7-20-9:process:onychizein-1",
+        "paul-7-20-9:process:emballein-2",
+        "paul-7-20-9:process:emballein-6",
+        "paul-7-20-9:process:elioyn-4",
+        "paul-7-20-9:process:allassein-5"
+      ],
+      "quantities": [
+        {
+          "source_span": "𐆄 γ",
+          "raw_number": "γ",
+          "normalized_number": 3,
+          "raw_unit": "𐆄",
+          "normalized_unit": "uncia",
+          "certainty": "uncertain",
+          "notes": [
+            "The unit sign 𐆄 is left unresolved from the inline evidence alone."
+          ]
+        }
+      ],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "7",
+        "chapter": "20",
+        "section": "9",
+        "citation": {
+          "start": "2.383.22",
+          "end": "2.384.2"
+        }
+      }
+    },
+    {
+      "ingredient_id": "paul-7-20-9:ingredient:elaion-omphakinon-4",
+      "ingredient_urn": "urn:aos:recipe-ingredient:paul-7-20-9:ingredient:elaion-omphakinon-4",
+      "source_span": "ἐλαίου ὀμφακίνου",
+      "surface_form": "ἐλαίου ὀμφακίνου",
+      "base_label": "ἐλαίου ὀμφακίνου",
+      "normalized_label": "ἔλαιον ὀμφάκινον",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [
+        "paul-7-20-9:process:emballein-2",
+        "paul-7-20-9:process:emballein-6"
+      ],
+      "quantities": [
+        {
+          "source_span": "τὸν Ἰταλικὸν ξ̸",
+          "raw_number": null,
+          "normalized_number": 1,
+          "raw_unit": "ξ̸",
+          "normalized_unit": "xestes",
+          "certainty": "uncertain",
+          "notes": [
+            "The abbreviated unit ξ̸ is interpreted as a single sextarius/xestes from the inline evidence; Ἰταλικὸν modifies the measure."
+          ]
+        }
+      ],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "7",
+        "chapter": "20",
+        "section": "9",
+        "citation": {
+          "start": "2.383.22",
+          "end": "2.384.2"
+        }
+      }
+    }
+  ],
+  "processes": [
+    {
+      "process_id": "paul-7-20-9:process:onychizein-1",
+      "process_urn": "urn:aos:recipe-process:paul-7-20-9:process:onychizein-1",
+      "source_span": "ὀνυχισθέντων",
+      "surface_form": "ὀνυχισθέντων",
+      "normalized_label": "ὀνυχίζειν",
+      "target_type": "ingredient",
+      "target_ids": [
+        "paul-7-20-9:ingredient:phylla-leykoioy-3"
+      ],
+      "quantities": [],
+      "qualifiers": [],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "7",
+        "chapter": "20",
+        "section": "9",
+        "citation": {
+          "start": "2.383.22",
+          "end": "2.384.2"
+        }
+      }
+    },
+    {
+      "process_id": "paul-7-20-9:process:emballein-2",
+      "process_urn": "urn:aos:recipe-process:paul-7-20-9:process:emballein-2",
+      "source_span": "ἐμβάλλοντες",
+      "surface_form": "ἐμβάλλοντες",
+      "normalized_label": "ἐμβάλλειν",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "location",
+          "source_span": "εἰς τὸν Ἰταλικὸν ξ̸ ἐλαίου ὀμφακίνου",
+          "normalized_value": "εἰς ἔλαιον ὀμφάκινον",
+          "certainty": "certain",
+          "notes": [
+            "The location phrase names the carrier ingredient into which the floral material is put."
+          ]
+        }
+      ],
+      "certainty": "certain",
+      "notes": [
+        "The direct object is one of the three alternative floral ingredients given earlier in the sentence."
+      ],
+      "host_locator": {
+        "book": "7",
+        "chapter": "20",
+        "section": "9",
+        "citation": {
+          "start": "2.383.22",
+          "end": "2.384.2"
+        }
+      }
+    },
+    {
+      "process_id": "paul-7-20-9:process:perisphiggein-3",
+      "process_urn": "urn:aos:recipe-process:paul-7-20-9:process:perisphiggein-3",
+      "source_span": "περισφίγξαντες",
+      "surface_form": "περισφίγξαντες",
+      "normalized_label": "περισφίγγειν",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "manner",
+          "source_span": "ἀκριβῶς",
+          "normalized_value": "ἀκριβῶς",
+          "certainty": "certain",
+          "notes": []
+        },
+        {
+          "qualifier_type": "other",
+          "source_span": "ὡς μὴ διαπνεῖσθαι",
+          "normalized_value": "μὴ διαπνεῖσθαι",
+          "certainty": "certain",
+          "notes": [
+            "Purpose/result clause attached to sealing tightly."
+          ]
+        }
+      ],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "7",
+        "chapter": "20",
+        "section": "9",
+        "citation": {
+          "start": "2.383.22",
+          "end": "2.384.2"
+        }
+      }
+    },
+    {
+      "process_id": "paul-7-20-9:process:elioyn-4",
+      "process_urn": "urn:aos:recipe-process:paul-7-20-9:process:elioyn-4",
+      "source_span": "ἡλιοῦσιν",
+      "surface_form": "ἡλιοῦσιν",
+      "normalized_label": "ἡλιοῦν",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "duration",
+          "source_span": "ἡμέρας ι",
+          "normalized_value": "10 days",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "7",
+        "chapter": "20",
+        "section": "9",
+        "citation": {
+          "start": "2.383.22",
+          "end": "2.384.2"
+        }
+      }
+    },
+    {
+      "process_id": "paul-7-20-9:process:allassein-5",
+      "process_urn": "urn:aos:recipe-process:paul-7-20-9:process:allassein-5",
+      "source_span": "ἀλλάσσοντες",
+      "surface_form": "ἀλλάσσοντες",
+      "normalized_label": "ἀλλάσσειν",
+      "target_type": "ingredient",
+      "target_ids": [
+        "paul-7-20-9:ingredient:porphyra-1",
+        "paul-7-20-9:ingredient:krokina-2",
+        "paul-7-20-9:ingredient:phylla-leykoioy-3"
+      ],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "other",
+          "source_span": "τρίτον",
+          "normalized_value": "third time",
+          "certainty": "uncertain",
+          "notes": [
+            "The exact force of τρίτον in this clause is not fully explicit from the inline evidence alone."
+          ]
+        },
+        {
+          "qualifier_type": "duration",
+          "source_span": "ὑπὲρ γ ἡμέρας",
+          "normalized_value": ">3 days",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "certainty": "uncertain",
+      "notes": [
+        "The pronoun αὐτά refers back to the floral ingredient(s)."
+      ],
+      "host_locator": {
+        "book": "7",
+        "chapter": "20",
+        "section": "9",
+        "citation": {
+          "start": "2.383.22",
+          "end": "2.384.2"
+        }
+      }
+    },
+    {
+      "process_id": "paul-7-20-9:process:emballein-6",
+      "process_urn": "urn:aos:recipe-process:paul-7-20-9:process:emballein-6",
+      "source_span": "ἐμβάλλουσιν",
+      "surface_form": "ἐμβάλλουσιν",
+      "normalized_label": "ἐμβάλλειν",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [
+        {
+          "source_span": "ὀλίγα",
+          "raw_number": null,
+          "normalized_number": "few",
+          "raw_unit": null,
+          "normalized_unit": null,
+          "certainty": "certain",
+          "notes": [
+            "An indefinite small quantity is stated, but the floral object is not restated in this clause."
+          ]
+        }
+      ],
+      "qualifiers": [
+        {
+          "qualifier_type": "location",
+          "source_span": "εἰς τὴν ἀπόθεσιν",
+          "normalized_value": "ἀπόθεσις",
+          "certainty": "certain",
+          "notes": [
+            "Storage/deposition context."
+          ]
+        },
+        {
+          "qualifier_type": "manner",
+          "source_span": "ἀκριβῶς ξηρά",
+          "normalized_value": "ἀκριβῶς ξηρά",
+          "certainty": "certain",
+          "notes": [
+            "This likely describes the state of the implied added material."
+          ]
+        }
+      ],
+      "certainty": "certain",
+      "notes": [
+        "The direct object is omitted and must be understood from context."
+      ],
+      "host_locator": {
+        "book": "7",
+        "chapter": "20",
+        "section": "9",
+        "citation": {
+          "start": "2.383.22",
+          "end": "2.384.2"
+        }
+      }
+    }
+  ],
+  "materials": [],
+  "people": [],
+  "places": [],
+  "uses": [],
+  "preparation_names": [],
+  "other_preparations_mentioned": [
+    {
+      "reference_id": "paul-7-20-9:reference:krina-1",
+      "reference_urn": "urn:aos:recipe-reference:paul-7-20-9:reference:krina-1",
+      "source_span": "τὰ κρίνα",
+      "surface_form": "τὰ κρίνα",
+      "normalized_label": "κρίνα",
+      "certainty": "certain",
+      "notes": [
+        "distinct preparation mentioned for comparison"
+      ],
+      "host_locator": {
+        "book": "7",
+        "chapter": "20",
+        "section": "9",
+        "citation": {
+          "start": "2.383.22",
+          "end": "2.384.2"
+        }
+      }
+    }
+  ],
+  "works_mentioned": [],
+  "entities": [
+    {
+      "entity_urn": "urn:aos:recipe-preparation:paul-7-20-9:preparation:iaton",
+      "entity_type": "label",
+      "surface_form": "Ἰάτον",
+      "normalized_label": "Ἰάτον"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:paul-7-20-9:ingredient:porphyra-1",
+      "entity_type": "ingredient",
+      "surface_form": "τῶν πορφυρῶν",
+      "normalized_label": "πορφυρά"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:paul-7-20-9:ingredient:krokina-2",
+      "entity_type": "ingredient",
+      "surface_form": "τῶν κροκίνων",
+      "normalized_label": "κρόκινα"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:paul-7-20-9:ingredient:phylla-leykoioy-3",
+      "entity_type": "ingredient",
+      "surface_form": "τῶν λευκοΐων τῶν φύλλων ὀνυχισθέντων",
+      "normalized_label": "φύλλα λευκοΐου"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:paul-7-20-9:ingredient:elaion-omphakinon-4",
+      "entity_type": "ingredient",
+      "surface_form": "ἐλαίου ὀμφακίνου",
+      "normalized_label": "ἔλαιον ὀμφάκινον"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:paul-7-20-9:process:onychizein-1",
+      "entity_type": "process",
+      "surface_form": "ὀνυχισθέντων",
+      "normalized_label": "ὀνυχίζειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:paul-7-20-9:process:emballein-2",
+      "entity_type": "process",
+      "surface_form": "ἐμβάλλοντες",
+      "normalized_label": "ἐμβάλλειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:paul-7-20-9:process:perisphiggein-3",
+      "entity_type": "process",
+      "surface_form": "περισφίγξαντες",
+      "normalized_label": "περισφίγγειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:paul-7-20-9:process:elioyn-4",
+      "entity_type": "process",
+      "surface_form": "ἡλιοῦσιν",
+      "normalized_label": "ἡλιοῦν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:paul-7-20-9:process:allassein-5",
+      "entity_type": "process",
+      "surface_form": "ἀλλάσσοντες",
+      "normalized_label": "ἀλλάσσειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:paul-7-20-9:process:emballein-6",
+      "entity_type": "process",
+      "surface_form": "ἐμβάλλουσιν",
+      "normalized_label": "ἐμβάλλειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-reference:paul-7-20-9:reference:krina-1",
+      "entity_type": "preparation_reference",
+      "surface_form": "τὰ κρίνα",
+      "normalized_label": "κρίνα"
+    }
+  ],
+  "canonical_file": "data/recipes/paul-7-20-9.json",
+  "source_entry": {
+    "source_id": "paul-7-20-9",
+    "derived_recipe_id": "paul-7-20-9",
+    "entry_kind": null,
+    "source_kind": null,
+    "source_lines": null,
+    "section_markers": []
+  },
+  "entity_groups": {
+    "labels": [
+      {
+        "entity_urn": "urn:aos:recipe-preparation:paul-7-20-9:preparation:iaton",
+        "surface_form": "Ἰάτον",
+        "normalized_label": "Ἰάτον"
+      }
+    ],
+    "ingredients": [
+      {
+        "entity_urn": "urn:aos:recipe-ingredient:paul-7-20-9:ingredient:porphyra-1",
+        "surface_form": "τῶν πορφυρῶν",
+        "normalized_label": "πορφυρά",
+        "quantity_display": "𐆄 γ"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-ingredient:paul-7-20-9:ingredient:krokina-2",
+        "surface_form": "τῶν κροκίνων",
+        "normalized_label": "κρόκινα",
+        "quantity_display": "𐆄 γ"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-ingredient:paul-7-20-9:ingredient:phylla-leykoioy-3",
+        "surface_form": "τῶν λευκοΐων τῶν φύλλων ὀνυχισθέντων",
+        "normalized_label": "φύλλα λευκοΐου",
+        "quantity_display": "𐆄 γ"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-ingredient:paul-7-20-9:ingredient:elaion-omphakinon-4",
+        "surface_form": "ἐλαίου ὀμφακίνου",
+        "normalized_label": "ἔλαιον ὀμφάκινον",
+        "quantity_display": "τὸν Ἰταλικὸν ξ̸"
+      }
+    ],
+    "processes": [
+      {
+        "entity_urn": "urn:aos:recipe-process:paul-7-20-9:process:onychizein-1",
+        "surface_form": "ὀνυχισθέντων",
+        "normalized_label": "ὀνυχίζειν"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-process:paul-7-20-9:process:emballein-2",
+        "surface_form": "ἐμβάλλοντες",
+        "normalized_label": "ἐμβάλλειν"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-process:paul-7-20-9:process:perisphiggein-3",
+        "surface_form": "περισφίγξαντες",
+        "normalized_label": "περισφίγγειν"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-process:paul-7-20-9:process:elioyn-4",
+        "surface_form": "ἡλιοῦσιν",
+        "normalized_label": "ἡλιοῦν"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-process:paul-7-20-9:process:allassein-5",
+        "surface_form": "ἀλλάσσοντες",
+        "normalized_label": "ἀλλάσσειν"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-process:paul-7-20-9:process:emballein-6",
+        "surface_form": "ἐμβάλλουσιν",
+        "normalized_label": "ἐμβάλλειν"
+      }
+    ],
+    "tools": [],
+    "other_preparations_mentioned": [
+      {
+        "entity_urn": "urn:aos:recipe-reference:paul-7-20-9:reference:krina-1",
+        "surface_form": "τὰ κρίνα",
+        "normalized_label": "κρίνα"
+      }
+    ],
+    "people": [],
+    "places": [],
+    "works_mentioned": [],
+    "preparation_names": []
+  }
+}

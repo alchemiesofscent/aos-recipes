@@ -1,0 +1,360 @@
+{
+  "dataset_key": "dioscorides_book1_perfumes_resins",
+  "source_json": "experiments/dioscorides-book1-perfumes-resins/data/dioscorides_book1_perfumes_resins.json",
+  "host_raw_file": "tei/raw/tlg0656.tlg001.1st1K-grc1.xml",
+  "work_slug": "diosc.b1.recipes",
+  "recipe_id": "dioscorides-1-60-stakte",
+  "recipe_urn": "urn:aos:recipe:dioscorides-1-60-stakte",
+  "record_urn": "urn:aos:recipe-record:dioscorides-1-60-stakte",
+  "author": "Dioscorides",
+  "work": "De materia medica",
+  "book": "1",
+  "chapter": "60",
+  "section": null,
+  "chapter_name": "στακτή",
+  "lemma": "στακτή",
+  "text": "60 στακτὴ δὲ καλεῖται τῆς προσφάτου σμύρνης τὸ λιπαρόν, κεκομμένης μεθʼ ὕδατος ὀλίγου ἀποτεθλιμμένης τε διʼ ὀργάνου. εὐώδης δὲ λίαν καὶ πολυτελής ἐστι καθʼ ἑαυτὴν οὖσα μύρον τὸ καλούμενον στακτή. δόκιμος δέ ἐστιν ἡ ἀμιγὴς ἐλαίου καὶ ἐν ἐλαχίστῳ πλείστην δύναμιν κεκτημένη, οὖσαν θερμαντικήν, ἀναλογοῦσαν τῇ σμύρνῃ καὶ τοῖς θερμαίνουσι τῶν μύρων.",
+  "original_text": null,
+  "text_source": null,
+  "emendations": [],
+  "emendation_count": 0,
+  "source_kind": "main_text",
+  "entry_kind": "recipe",
+  "citation": {
+    "pages": [
+      "55"
+    ],
+    "start": {
+      "page": "55",
+      "line": "10"
+    },
+    "end": {
+      "page": "55",
+      "line": "15"
+    },
+    "citation": {
+      "start": "55.10",
+      "end": "55.15"
+    },
+    "page_spans": [
+      {
+        "page": "55",
+        "start_line": "10",
+        "end_line": "15"
+      }
+    ],
+    "lines": [
+      {
+        "page": "55",
+        "line": "10",
+        "break_no": false,
+        "text": "60 στακτὴ δὲ καλεῖται τῆς προσφάτου σμύρνης τὸ λιπαρόν, κεκομμένης μεθʼ ὕδατος ὀλίγου ἀποτεθλιμμένης τε διʼ ὀργάνου. εὐώδης δὲ λίαν καὶ πολυτελής ἐστι καθʼ ἑαυτὴν",
+        "citation": "55.10"
+      },
+      {
+        "page": "55",
+        "line": "15",
+        "break_no": false,
+        "text": "οὖσα μύρον τὸ καλούμενον στακτή. δόκιμος δέ ἐστιν ἡ ἀμιγὴς ἐλαίου καὶ ἐν ἐλαχίστῳ πλείστην δύναμιν κεκτημένη, οὖσαν θερμαντικήν, ἀναλογοῦσαν τῇ σμύρνῃ καὶ τοῖς θερμαίνουσι τῶν μύρων.",
+        "citation": "55.15"
+      }
+    ],
+    "edition_key": "wellmann"
+  },
+  "notes": [
+    "Raw lines 1590-1633 are book 1 chapter 25 in this witness, although the prompt referred to chapter 35.",
+    "The perfume proemium is taken from the later transition at chapter 42 section 2 (raw lines 2306-2342), not from the chapter 25 κῦφι entry.",
+    "The ἰασμέλαιον entry is preserved only in the apparatus as an addition from another recension.",
+    "The passage also gives diagnostic criteria for good στακτή: ἀμιγὴς ἐλαίου and ἐν ἐλαχίστῳ πλείστην δύναμιν κεκτημένη."
+  ],
+  "alignment_status": "pending",
+  "alignment_confidence": "pending",
+  "alignment_evidence": null,
+  "review_status": "reviewed_structured_authority",
+  "review_provenance": {
+    "authority_source": "reports/entity_review/structured/dioscorides.json",
+    "authority_recipe_id": "dioscorides-1-60-stakte",
+    "authority_lemma": "στακτή",
+    "model": "gpt-5.4",
+    "reasoning_effort": "high",
+    "dataset_key": "dioscorides_book1_perfumes_resins",
+    "entity_model_version": "1.2",
+    "authority_version": "2026-04-13-qty-alt-v1",
+    "prompt_version": "qty-alt-pass-v1",
+    "build_version": "2026-05-18T15:51:35Z"
+  },
+  "schema_version": "1.2",
+  "build_metadata": {
+    "builder": "scripts/recipes/build_recipe_entities.py",
+    "built_at": "2026-05-18T15:51:35Z",
+    "source_structured_authority": "reports/entity_review/structured/dioscorides.json",
+    "authority_model": "gpt-5.4",
+    "authority_reasoning_effort": "high",
+    "dataset_key": "dioscorides_book1_perfumes_resins",
+    "entity_model_version": "1.2",
+    "authority_version": "2026-04-13-qty-alt-v1",
+    "prompt_version": "qty-alt-pass-v1",
+    "build_version": "2026-05-18T15:51:35Z"
+  },
+  "recipe_text_excerpt": "στακτὴ δὲ καλεῖται τῆς προσφάτου σμύρνης τὸ λιπαρόν, κεκομμένης μεθʼ ὕδατος ὀλίγου ἀποτεθλιμμένης τε διʼ ὀργάνου. εὐώδης δὲ λίαν καὶ",
+  "preparation": {
+    "preparation_id": "dioscorides-1-60-stakte:preparation:stakte",
+    "preparation_urn": "urn:aos:recipe-preparation:dioscorides-1-60-stakte:preparation:stakte",
+    "source_span": "στακτή",
+    "surface_form": "στακτή",
+    "normalized_label": "στακτή",
+    "qualifiers": [],
+    "regimen_notes": [],
+    "certainty": "certain",
+    "notes": [],
+    "host_locator": {
+      "book": "1",
+      "chapter": "60",
+      "section": null,
+      "citation": {
+        "start": "55.10",
+        "end": "55.15"
+      }
+    }
+  },
+  "ingredients": [
+    {
+      "ingredient_id": "dioscorides-1-60-stakte:ingredient:liparon-prosphatoy-smyrnes-1",
+      "ingredient_urn": "urn:aos:recipe-ingredient:dioscorides-1-60-stakte:ingredient:liparon-prosphatoy-smyrnes-1",
+      "source_span": "τῆς προσφάτου σμύρνης τὸ λιπαρόν",
+      "surface_form": "τῆς προσφάτου σμύρνης τὸ λιπαρόν",
+      "base_label": "σμύρνη",
+      "normalized_label": "λιπαρὸν προσφάτου σμύρνης",
+      "alternative_set_id": null,
+      "certainty": "uncertain",
+      "linked_process_ids": [
+        "dioscorides-1-60-stakte:process:koptein-1",
+        "dioscorides-1-60-stakte:process:apothlibein-2"
+      ],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "other",
+          "source_span": "προσφάτου",
+          "normalized_value": "πρόσφατος",
+          "certainty": "certain",
+          "notes": []
+        },
+        {
+          "qualifier_type": "other",
+          "source_span": "τὸ λιπαρόν",
+          "normalized_value": "λιπαρόν",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "notes": [
+        "The preparation is defined as the fatty part of fresh myrrh."
+      ],
+      "host_locator": {
+        "book": "1",
+        "chapter": "60",
+        "section": null,
+        "citation": {
+          "start": "55.10",
+          "end": "55.15"
+        }
+      }
+    },
+    {
+      "ingredient_id": "dioscorides-1-60-stakte:ingredient:ydor-2",
+      "ingredient_urn": "urn:aos:recipe-ingredient:dioscorides-1-60-stakte:ingredient:ydor-2",
+      "source_span": "ὕδατος ὀλίγου",
+      "surface_form": "ὕδατος ὀλίγου",
+      "base_label": "ὕδωρ",
+      "normalized_label": "ὕδωρ",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [
+        "dioscorides-1-60-stakte:process:koptein-1"
+      ],
+      "quantities": [
+        {
+          "source_span": "ὀλίγου",
+          "raw_number": null,
+          "normalized_number": "small",
+          "raw_unit": null,
+          "normalized_unit": null,
+          "certainty": "certain",
+          "notes": [
+            "Qualitative amount."
+          ]
+        }
+      ],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "60",
+        "section": null,
+        "citation": {
+          "start": "55.10",
+          "end": "55.15"
+        }
+      }
+    }
+  ],
+  "processes": [
+    {
+      "process_id": "dioscorides-1-60-stakte:process:koptein-1",
+      "process_urn": "urn:aos:recipe-process:dioscorides-1-60-stakte:process:koptein-1",
+      "source_span": "κεκομμένης",
+      "surface_form": "κεκομμένης",
+      "normalized_label": "κόπτειν",
+      "target_type": "ingredient",
+      "target_ids": [
+        "dioscorides-1-60-stakte:ingredient:liparon-prosphatoy-smyrnes-1"
+      ],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "other",
+          "source_span": "μεθʼ ὕδατος ὀλίγου",
+          "normalized_value": null,
+          "certainty": "certain",
+          "notes": [
+            "Accompanied by the separately listed water ingredient."
+          ]
+        }
+      ],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "60",
+        "section": null,
+        "citation": {
+          "start": "55.10",
+          "end": "55.15"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-1-60-stakte:process:apothlibein-2",
+      "process_urn": "urn:aos:recipe-process:dioscorides-1-60-stakte:process:apothlibein-2",
+      "source_span": "ἀποτεθλιμμένης",
+      "surface_form": "ἀποτεθλιμμένης",
+      "normalized_label": "ἀποθλίβειν",
+      "target_type": "ingredient",
+      "target_ids": [
+        "dioscorides-1-60-stakte:ingredient:liparon-prosphatoy-smyrnes-1"
+      ],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "other",
+          "source_span": "διʼ ὀργάνου",
+          "normalized_value": null,
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "60",
+        "section": null,
+        "citation": {
+          "start": "55.10",
+          "end": "55.15"
+        }
+      }
+    }
+  ],
+  "materials": [
+    {
+      "material_id": "dioscorides-1-60-stakte:material:organon-1",
+      "material_urn": "urn:aos:recipe-material:dioscorides-1-60-stakte:material:organon-1",
+      "source_span": "ὀργάνου",
+      "surface_form": "ὀργάνου",
+      "normalized_label": "ὄργανον",
+      "role": "apparatus",
+      "certainty": "uncertain",
+      "quantities": [],
+      "qualifiers": [],
+      "notes": [
+        "Generic apparatus; specific type is not stated."
+      ],
+      "host_locator": {
+        "book": "1",
+        "chapter": "60",
+        "section": null,
+        "citation": {
+          "start": "55.10",
+          "end": "55.15"
+        }
+      }
+    }
+  ],
+  "people": [],
+  "places": [],
+  "uses": [
+    {
+      "use_id": "dioscorides-1-60-stakte:use:oysan-thermantiken-1",
+      "use_urn": "urn:aos:recipe-use:dioscorides-1-60-stakte:use:oysan-thermantiken-1",
+      "category": "medical",
+      "source_span": "οὖσαν θερμαντικήν",
+      "snippet": "οὖσαν θερμαντικήν",
+      "certainty": "certain",
+      "notes": [
+        "Explicit pharmacological effect rather than a concrete application."
+      ],
+      "host_locator": {
+        "book": "1",
+        "chapter": "60",
+        "section": null,
+        "citation": {
+          "start": "55.10",
+          "end": "55.15"
+        }
+      }
+    }
+  ],
+  "preparation_names": [],
+  "other_preparations_mentioned": [],
+  "works_mentioned": [],
+  "entities": [
+    {
+      "entity_urn": "urn:aos:recipe-preparation:dioscorides-1-60-stakte:preparation:stakte",
+      "entity_type": "label",
+      "surface_form": "στακτή",
+      "normalized_label": "στακτή"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:dioscorides-1-60-stakte:ingredient:liparon-prosphatoy-smyrnes-1",
+      "entity_type": "ingredient",
+      "surface_form": "τῆς προσφάτου σμύρνης τὸ λιπαρόν",
+      "normalized_label": "λιπαρὸν προσφάτου σμύρνης"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:dioscorides-1-60-stakte:ingredient:ydor-2",
+      "entity_type": "ingredient",
+      "surface_form": "ὕδατος ὀλίγου",
+      "normalized_label": "ὕδωρ"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-1-60-stakte:process:koptein-1",
+      "entity_type": "process",
+      "surface_form": "κεκομμένης",
+      "normalized_label": "κόπτειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-1-60-stakte:process:apothlibein-2",
+      "entity_type": "process",
+      "surface_form": "ἀποτεθλιμμένης",
+      "normalized_label": "ἀποθλίβειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-material:dioscorides-1-60-stakte:material:organon-1",
+      "entity_type": "material",
+      "surface_form": "ὀργάνου",
+      "normalized_label": "ὄργανον"
+    }
+  ]
+}

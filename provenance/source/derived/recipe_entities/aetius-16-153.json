@@ -1,0 +1,459 @@
+{
+  "dataset_key": "aetius_book16_myrepsika",
+  "source_json": "experiments/aetius-book16-ch126-153-myrepsika/data/aetius_book16_ch126_153_myrepsika.json",
+  "host_raw_file": "tei/raw/tlg0718016.xml",
+  "work_slug": "aetius.b16.myrepsika",
+  "recipe_id": "aetius-16-153",
+  "recipe_urn": "urn:aos:recipe:aetius-16-153",
+  "record_urn": "urn:aos:recipe-record:aetius-16-153",
+  "author": "Aëtius of Amida",
+  "work": "Libri medicinales",
+  "book": "16",
+  "chapter": "153",
+  "section": null,
+  "chapter_name": "νεκροῦ σμύρνησις",
+  "lemma": "νεκροῦ σμύρνησις",
+  "text": "Ἀλόης, σμύρνης, κόμμεως, ἀνὰ λια. σαρκοκόλλης λιβ. ἀκακίας λιαζʹ. λιβάνου λιστ. ὀποβαλσάμου γογ. ἤτοι οὐγγίας τρεῖς.",
+  "original_text": null,
+  "text_source": null,
+  "emendations": [],
+  "emendation_count": 0,
+  "source_kind": null,
+  "entry_kind": "recipe",
+  "citation": {
+    "pages": [
+      "172"
+    ],
+    "start": {
+      "page": "172",
+      "line": "8",
+      "xml_id": "zerv-172-8"
+    },
+    "end": {
+      "page": "172",
+      "line": "10",
+      "xml_id": "zerv-172-10"
+    },
+    "citation": {
+      "start": "172.8",
+      "end": "172.10"
+    },
+    "page_spans": [
+      {
+        "page": "172",
+        "start_line": "8",
+        "end_line": "10"
+      }
+    ],
+    "lines": [
+      {
+        "page": "172",
+        "line": "8",
+        "xml_id": "zerv-172-8",
+        "citation": "172.8",
+        "text": "ΝΕΚΡΟΥ ΣΜΥΡΝΗΣΙΣ."
+      },
+      {
+        "page": "172",
+        "line": "9",
+        "xml_id": "zerv-172-9",
+        "citation": "172.9",
+        "text": "Ἀλόης, σμύρνης, κόμμεως, ἀνὰ λια. σαρκοκόλλης λιβ. ἀκακίας"
+      },
+      {
+        "page": "172",
+        "line": "10",
+        "xml_id": "zerv-172-10",
+        "citation": "172.10",
+        "text": "λιαζʹ. λιβάνου λιστ. ὀποβαλσάμου γογ. ἤτοι οὐγγίας τρεῖς."
+      }
+    ],
+    "edition_key": "zervos"
+  },
+  "notes": [
+    "Distributive ἀνὰ governs the first coordinated ingredient cluster: Ἀλόης, σμύρνης, κόμμεως."
+  ],
+  "alignment_status": "pending",
+  "alignment_confidence": "pending",
+  "alignment_evidence": null,
+  "review_status": "reviewed_structured_authority",
+  "review_provenance": {
+    "authority_source": "reports/entity_review/structured/aetius_book16.json",
+    "authority_recipe_id": "aetius-16-153",
+    "authority_lemma": "νεκροῦ σμύρνησις",
+    "model": "gpt-5.4",
+    "reasoning_effort": "high",
+    "dataset_key": "aetius_book16_myrepsika",
+    "entity_model_version": "1.2",
+    "authority_version": "2026-04-13-qty-alt-v1",
+    "prompt_version": "qty-alt-pass-v1",
+    "build_version": "2026-05-18T15:51:35Z"
+  },
+  "schema_version": "1.2",
+  "build_metadata": {
+    "builder": "scripts/recipes/build_recipe_entities.py",
+    "built_at": "2026-05-18T15:51:35Z",
+    "source_structured_authority": "reports/entity_review/structured/aetius_book16.json",
+    "authority_model": "gpt-5.4",
+    "authority_reasoning_effort": "high",
+    "dataset_key": "aetius_book16_myrepsika",
+    "entity_model_version": "1.2",
+    "authority_version": "2026-04-13-qty-alt-v1",
+    "prompt_version": "qty-alt-pass-v1",
+    "build_version": "2026-05-18T15:51:35Z"
+  },
+  "recipe_text_excerpt": "Ἀλόης, σμύρνης, κόμμεως, ἀνὰ λια. σαρκοκόλλης λιβ. ἀκακίας λιαζʹ. λιβάνου λιστ. ὀποβαλσάμου γογ. ἤτοι οὐγγίας τρεῖς.",
+  "preparation": {
+    "preparation_id": "aetius-16-153:preparation:nekroy-smyrnesis",
+    "preparation_urn": "urn:aos:recipe-preparation:aetius-16-153:preparation:nekroy-smyrnesis",
+    "source_span": "νεκροῦ σμύρνησις",
+    "surface_form": "νεκροῦ σμύρνησις",
+    "normalized_label": "νεκροῦ σμύρνησις",
+    "qualifiers": [],
+    "regimen_notes": [],
+    "certainty": "certain",
+    "notes": [],
+    "host_locator": {
+      "book": "16",
+      "chapter": "153",
+      "section": null,
+      "citation": {
+        "start": "172.8",
+        "end": "172.10"
+      }
+    }
+  },
+  "ingredients": [
+    {
+      "ingredient_id": "aetius-16-153:ingredient:aloe-1",
+      "ingredient_urn": "urn:aos:recipe-ingredient:aetius-16-153:ingredient:aloe-1",
+      "source_span": "Ἀλόης",
+      "surface_form": "Ἀλόης",
+      "base_label": "Ἀλόης",
+      "normalized_label": "ἀλόη",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [],
+      "quantities": [
+        {
+          "source_span": "λια.",
+          "raw_number": null,
+          "normalized_number": null,
+          "raw_unit": "λια.",
+          "normalized_unit": "litra",
+          "certainty": "uncertain",
+          "notes": [
+            "Distributive ἀνὰ governs the first coordinated ingredient cluster.",
+            "The abbreviation is not safely separable into unit and number from the inline evidence alone."
+          ]
+        }
+      ],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "16",
+        "chapter": "153",
+        "section": null,
+        "citation": {
+          "start": "172.8",
+          "end": "172.10"
+        }
+      }
+    },
+    {
+      "ingredient_id": "aetius-16-153:ingredient:smyrne-2",
+      "ingredient_urn": "urn:aos:recipe-ingredient:aetius-16-153:ingredient:smyrne-2",
+      "source_span": "σμύρνης",
+      "surface_form": "σμύρνης",
+      "base_label": "σμύρνης",
+      "normalized_label": "σμύρνη",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [],
+      "quantities": [
+        {
+          "source_span": "λια.",
+          "raw_number": null,
+          "normalized_number": null,
+          "raw_unit": "λια.",
+          "normalized_unit": "litra",
+          "certainty": "uncertain",
+          "notes": [
+            "Distributive ἀνὰ governs the first coordinated ingredient cluster.",
+            "The abbreviation is not safely separable into unit and number from the inline evidence alone."
+          ]
+        }
+      ],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "16",
+        "chapter": "153",
+        "section": null,
+        "citation": {
+          "start": "172.8",
+          "end": "172.10"
+        }
+      }
+    },
+    {
+      "ingredient_id": "aetius-16-153:ingredient:kommi-3",
+      "ingredient_urn": "urn:aos:recipe-ingredient:aetius-16-153:ingredient:kommi-3",
+      "source_span": "κόμμεως",
+      "surface_form": "κόμμεως",
+      "base_label": "κόμμεως",
+      "normalized_label": "κόμμι",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [],
+      "quantities": [
+        {
+          "source_span": "λια.",
+          "raw_number": null,
+          "normalized_number": null,
+          "raw_unit": "λια.",
+          "normalized_unit": "litra",
+          "certainty": "uncertain",
+          "notes": [
+            "Distributive ἀνὰ governs the first coordinated ingredient cluster.",
+            "The abbreviation is not safely separable into unit and number from the inline evidence alone."
+          ]
+        }
+      ],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "16",
+        "chapter": "153",
+        "section": null,
+        "citation": {
+          "start": "172.8",
+          "end": "172.10"
+        }
+      }
+    },
+    {
+      "ingredient_id": "aetius-16-153:ingredient:sarkokolla-4",
+      "ingredient_urn": "urn:aos:recipe-ingredient:aetius-16-153:ingredient:sarkokolla-4",
+      "source_span": "σαρκοκόλλης",
+      "surface_form": "σαρκοκόλλης",
+      "base_label": "σαρκοκόλλης",
+      "normalized_label": "σαρκοκόλλα",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [],
+      "quantities": [
+        {
+          "source_span": "λιβ.",
+          "raw_number": null,
+          "normalized_number": null,
+          "raw_unit": "λιβ.",
+          "normalized_unit": "litra",
+          "certainty": "uncertain",
+          "notes": [
+            "The abbreviation is not safely separable into unit and number from the inline evidence alone."
+          ]
+        }
+      ],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "16",
+        "chapter": "153",
+        "section": null,
+        "citation": {
+          "start": "172.8",
+          "end": "172.10"
+        }
+      }
+    },
+    {
+      "ingredient_id": "aetius-16-153:ingredient:akakia-5",
+      "ingredient_urn": "urn:aos:recipe-ingredient:aetius-16-153:ingredient:akakia-5",
+      "source_span": "ἀκακίας",
+      "surface_form": "ἀκακίας",
+      "base_label": "ἀκακίας",
+      "normalized_label": "ἀκακία",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [],
+      "quantities": [
+        {
+          "source_span": "λιαζʹ.",
+          "raw_number": null,
+          "normalized_number": null,
+          "raw_unit": "λιαζʹ.",
+          "normalized_unit": "litra",
+          "certainty": "uncertain",
+          "notes": [
+            "The abbreviation is not safely separable into unit and number from the inline evidence alone."
+          ]
+        }
+      ],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "16",
+        "chapter": "153",
+        "section": null,
+        "citation": {
+          "start": "172.8",
+          "end": "172.10"
+        }
+      }
+    },
+    {
+      "ingredient_id": "aetius-16-153:ingredient:libanos-6",
+      "ingredient_urn": "urn:aos:recipe-ingredient:aetius-16-153:ingredient:libanos-6",
+      "source_span": "λιβάνου",
+      "surface_form": "λιβάνου",
+      "base_label": "λιβάνου",
+      "normalized_label": "λίβανος",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [],
+      "quantities": [
+        {
+          "source_span": "λιστ.",
+          "raw_number": null,
+          "normalized_number": null,
+          "raw_unit": "λιστ.",
+          "normalized_unit": "litra",
+          "certainty": "uncertain",
+          "notes": [
+            "The abbreviation is not safely separable into unit and number from the inline evidence alone."
+          ]
+        }
+      ],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "16",
+        "chapter": "153",
+        "section": null,
+        "citation": {
+          "start": "172.8",
+          "end": "172.10"
+        }
+      }
+    },
+    {
+      "ingredient_id": "aetius-16-153:ingredient:opobalsamon-7",
+      "ingredient_urn": "urn:aos:recipe-ingredient:aetius-16-153:ingredient:opobalsamon-7",
+      "source_span": "ὀποβαλσάμου",
+      "surface_form": "ὀποβαλσάμου",
+      "base_label": "ὀποβαλσάμου",
+      "normalized_label": "ὀποβάλσαμον",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [],
+      "quantities": [
+        {
+          "source_span": "γογ. ἤτοι οὐγγίας τρεῖς",
+          "raw_number": "τρεῖς",
+          "normalized_number": 3,
+          "raw_unit": "οὐγγίας",
+          "normalized_unit": "uncia",
+          "certainty": "certain",
+          "notes": [
+            "The abbreviation γογ. is glossed by ἤτοι οὐγγίας τρεῖς."
+          ]
+        }
+      ],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "16",
+        "chapter": "153",
+        "section": null,
+        "citation": {
+          "start": "172.8",
+          "end": "172.10"
+        }
+      }
+    }
+  ],
+  "processes": [],
+  "materials": [],
+  "people": [],
+  "places": [],
+  "uses": [],
+  "preparation_names": [
+    {
+      "preparation_name_id": "aetius-16-153:preparation_name:nekroy-smyrnesis-1",
+      "preparation_name_urn": "urn:aos:recipe-preparation_name:aetius-16-153:preparation_name:nekroy-smyrnesis-1",
+      "source_span": "νεκροῦ σμύρνησις",
+      "surface_form": "νεκροῦ σμύρνησις",
+      "normalized_label": "νεκροῦ σμύρνησις",
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "16",
+        "chapter": "153",
+        "section": null,
+        "citation": {
+          "start": "172.8",
+          "end": "172.10"
+        }
+      }
+    }
+  ],
+  "other_preparations_mentioned": [],
+  "works_mentioned": [],
+  "entities": [
+    {
+      "entity_urn": "urn:aos:recipe-preparation:aetius-16-153:preparation:nekroy-smyrnesis",
+      "entity_type": "label",
+      "surface_form": "νεκροῦ σμύρνησις",
+      "normalized_label": "νεκροῦ σμύρνησις"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:aetius-16-153:ingredient:aloe-1",
+      "entity_type": "ingredient",
+      "surface_form": "Ἀλόης",
+      "normalized_label": "ἀλόη"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:aetius-16-153:ingredient:smyrne-2",
+      "entity_type": "ingredient",
+      "surface_form": "σμύρνης",
+      "normalized_label": "σμύρνη"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:aetius-16-153:ingredient:kommi-3",
+      "entity_type": "ingredient",
+      "surface_form": "κόμμεως",
+      "normalized_label": "κόμμι"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:aetius-16-153:ingredient:sarkokolla-4",
+      "entity_type": "ingredient",
+      "surface_form": "σαρκοκόλλης",
+      "normalized_label": "σαρκοκόλλα"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:aetius-16-153:ingredient:akakia-5",
+      "entity_type": "ingredient",
+      "surface_form": "ἀκακίας",
+      "normalized_label": "ἀκακία"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:aetius-16-153:ingredient:libanos-6",
+      "entity_type": "ingredient",
+      "surface_form": "λιβάνου",
+      "normalized_label": "λίβανος"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:aetius-16-153:ingredient:opobalsamon-7",
+      "entity_type": "ingredient",
+      "surface_form": "ὀποβαλσάμου",
+      "normalized_label": "ὀποβάλσαμον"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-preparation_name:aetius-16-153:preparation_name:nekroy-smyrnesis-1",
+      "entity_type": "preparation_name",
+      "surface_form": "νεκροῦ σμύρνησις",
+      "normalized_label": "νεκροῦ σμύρνησις"
+    }
+  ]
+}

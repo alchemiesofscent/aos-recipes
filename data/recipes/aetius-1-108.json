@@ -1,0 +1,931 @@
+{
+  "dataset_key": "aetius_book1_oils",
+  "source_json": "experiments/aetius-book1-ch99-136-oils/data/aetius_book1_ch99_136_oils.json",
+  "host_raw_file": "tei/raw/tlg0718001.xml",
+  "work_slug": "aetius.b1.oils",
+  "recipe_id": "aetius-1-108",
+  "recipe_urn": "urn:aos:recipe:aetius-1-108",
+  "record_urn": "urn:aos:recipe-record:aetius-1-108",
+  "author": "Aëtius of Amida",
+  "work": "Libri medicinales",
+  "book": "1",
+  "chapter": "108",
+  "section": "108",
+  "chapter_name": "Δάφνινον",
+  "lemma": "Δάφνινον",
+  "text": "∆άφνινον ἐκ τοῦ καρποῦ τῆς δάφνης σκευάζεται, ὡς προείρηται. τὸ δὲ σύμμικτον σκευάζεται οὕτως· πρὸς ε ξέστας τῶν πεπεμμένων ἐλαίων ἐμβαλλομένου ἑνὸς ξέστου τοῦ καρποῦ τῶν δαφνίδων λιπαροῦ καὶ προσφάτου καὶ οὕτως τριβομένων ἅμα καὶ ἐκθλιβομένων ὥσπερ καὶ τὸ ἔλαιον. θερμὸν δὲ ἄγαν ἐστὶ καὶ μαλακτικὸν τὸ ἀμιγές, ὥστε τοῖς σφοδρῶς ἐψυγμένοις μέρος τι τοῦ σώματος χρησιμεύει καὶ ξηραίνει δὲ ἱκανῶς, ὥστε τοῖς ψωριῶσι ξηροδέρμοις καὶ λειχῆνας ἔχουσι τραχεῖς χριόμενον ἐν βαλανείοις ἀποθεραπεύει. φευκτέον δὲ αὐτὸ ἐπὶ τῶν φλεγμαινόντων λειχήνων ἢ ψωρῶν καὶ ἐπὶ τῶν θερμῶν κράσεων καὶ χολωδῶν. τοῖς γὰρ ὑγροῖς καὶ φλεγματικοῖς ἁρμόττει καὶ πᾶσι τοῖς ὑπὸ ψύξεως ἐνοχλουμένοις τὰ ἄρθρα καὶ ἰσχιαδικοῖς κατάλληλον· ἀναιρεῖ καὶ σκώληκας καὶ φθεῖρας ἀγρίους καὶ ἡμέρους καὶ κονίδας καὶ πίτυρα κεφαλῆς καὶ ὀφιάσεις καὶ ἀλωπεκίας· ἡ χρῆσις δὲ ἐν λουτρῶ νήστει, εἶτα ἀποσμήχειν ὠῷ καὶ μέλιτι καὶ τήλεως ἀλεύροις, παραφυλάττων τὸ θερμῇ κεφαλῇ μὴ προσάγειν αὐτό.).",
+  "original_text": "Δάφνινον ἐκ τοῦ καρποῦ τῆς δάφνης σκευάζεται, ὡς προείρηται. τὸ δὲ σύμμικτον σκευάζεται οὕτως· πρὸς ε ξέστας τῶν πεπεμμένων ἐλαίων ἐμβαλλομένου ἑνὸς ξέστου τοῦ καρποῦ τῶν δαφνίδων λιπαροῦ καὶ προσφάτου καὶ οὕτως τριβομένων πάντων ἅμα καὶ ἐκθλιβομένων ὥσπερ καὶ τὸ ἔλαιον. θερμὸν δὲ ἄγαν ἐστὶ καὶ μαλακτικὸν τὸ ἀμιγές, ὥστε τοῖς σφοδρῶς ἐψυγμένοις μέρος τι τοῦ σώματος χρησιμεύει καὶ ξηραίνει δὲ ἱκανῶς, ὥστε τοῖς ψωριῶσι ξηροδέρμοις καὶ λειχῆνας ἔχουσι τραχεῖς χριόμενον ἐν βαλανείοις ἀποθεραπεύει. φευκτέον δὲ αὐτὸ ἐπὶ τῶν φλεγμαινόντων λειχήνων ἢ ψωρῶν καὶ ἐπὶ τῶν θερμῶν κράσεων καὶ χολωδῶν. τοῖς γὰρ ὑγροῖς καὶ φλεγματικοῖς ἁρμόττει καὶ πᾶσι τοῖς ὑπὸ ψύξεως ἐνοχλουμένοις τὰ ἄρθρα καὶ ἰσχιαδικοῖς κατάλληλον· ἀναιρεῖ καὶ σκώληκας καὶ φθεῖρας ἀγρίους καὶ ἡμέρους καὶ κονίδας καὶ πίτυρα κεφαλῆς καὶ ὀφιάσεις καὶ ἀλωπεκίας· ἡ χρῆσις δὲ ἐν λουτρῶ νήστει, εἶτα ἀποσμήχειν ὠῷ καὶ μέλιτι καὶ τήλεως ἀλεύροις, παραφυλάττων τὸ θερμῇ κεφαλῇ μὴ προσάγειν αὐτό.",
+  "text_source": "emended",
+  "emendations": [
+    {
+      "locus": "[56.6]",
+      "start_citation": "56.6",
+      "end_citation": "56.6",
+      "operation": "omit",
+      "olivieri_text": "πάντων",
+      "adopted_text": null,
+      "proposal_author": "Irene Cala",
+      "decision": "accepted",
+      "note": "after τριβομένων"
+    }
+  ],
+  "emendation_count": 1,
+  "source_kind": null,
+  "entry_kind": "recipe",
+  "citation": {
+    "pages": [
+      "56"
+    ],
+    "start": {
+      "page": "56",
+      "line": "3",
+      "xml_id": "oliv-56-3"
+    },
+    "end": {
+      "page": "56",
+      "line": "17",
+      "xml_id": "oliv-56-17"
+    },
+    "citation": {
+      "start": "56.3",
+      "end": "56.17"
+    },
+    "page_spans": [
+      {
+        "page": "56",
+        "start_line": "3",
+        "end_line": "17"
+      }
+    ],
+    "lines": [
+      {
+        "page": "56",
+        "line": "3",
+        "xml_id": "oliv-56-3",
+        "break_no": false,
+        "text": "Δάφνινον ἐκ τοῦ καρποῦ τῆς δάφνης σκευάζεται, ὡς προείρηται.",
+        "citation": "56.3"
+      },
+      {
+        "page": "56",
+        "line": "4",
+        "xml_id": "oliv-56-4",
+        "break_no": false,
+        "text": "τὸ δὲ σύμμικτον σκευάζεται οὕτως· πρὸς ε ξέστας τῶν πεπεμμένων",
+        "citation": "56.4"
+      },
+      {
+        "page": "56",
+        "line": "5",
+        "xml_id": "oliv-56-5",
+        "break_no": false,
+        "text": "ἐλαίων ἐμβαλλομένου ἑνὸς ξέστου τοῦ καρποῦ τῶν δαφνίδων λιπαροῦ",
+        "citation": "56.5"
+      },
+      {
+        "page": "56",
+        "line": "6",
+        "xml_id": "oliv-56-6",
+        "break_no": false,
+        "text": "καὶ προσφάτου καὶ οὕτως τριβομένων πάντων ἅμα καὶ ἐκθλιβομένων",
+        "citation": "56.6"
+      },
+      {
+        "page": "56",
+        "line": "7",
+        "xml_id": "oliv-56-7",
+        "break_no": false,
+        "text": "ὥσπερ καὶ τὸ ἔλαιον. θερμὸν δὲ ἄγαν ἐστὶ καὶ μαλακτικὸν τὸ ἀμιγές,",
+        "citation": "56.7"
+      },
+      {
+        "page": "56",
+        "line": "8",
+        "xml_id": "oliv-56-8",
+        "break_no": false,
+        "text": "ὥστε τοῖς σφοδρῶς ἐψυγμένοις μέρος τι τοῦ σώματος χρησιμεύει καὶ",
+        "citation": "56.8"
+      },
+      {
+        "page": "56",
+        "line": "9",
+        "xml_id": "oliv-56-9",
+        "break_no": false,
+        "text": "ξηραίνει δὲ ἱκανῶς, ὥστε τοῖς ψωριῶσι ξηροδέρμοις καὶ λειχῆνας",
+        "citation": "56.9"
+      },
+      {
+        "page": "56",
+        "line": "10",
+        "xml_id": "oliv-56-10",
+        "break_no": false,
+        "text": "ἔχουσι τραχεῖς χριόμενον ἐν βαλανείοις ἀποθεραπεύει. φευκτέον δὲ",
+        "citation": "56.10"
+      },
+      {
+        "page": "56",
+        "line": "11",
+        "xml_id": "oliv-56-11",
+        "break_no": false,
+        "text": "αὐτὸ ἐπὶ τῶν φλεγμαινόντων λειχήνων ἢ ψωρῶν καὶ ἐπὶ τῶν θερμῶν",
+        "citation": "56.11"
+      },
+      {
+        "page": "56",
+        "line": "12",
+        "xml_id": "oliv-56-12",
+        "break_no": false,
+        "text": "κράσεων καὶ χολωδῶν. τοῖς γὰρ ὑγροῖς καὶ φλεγματικοῖς ἁρμόττει καὶ",
+        "citation": "56.12"
+      },
+      {
+        "page": "56",
+        "line": "13",
+        "xml_id": "oliv-56-13",
+        "break_no": false,
+        "text": "πᾶσι τοῖς ὑπὸ ψύξεως ἐνοχλουμένοις τὰ ἄρθρα καὶ ἰσχιαδικοῖς κατάλ-",
+        "citation": "56.13"
+      },
+      {
+        "page": "56",
+        "line": "14",
+        "xml_id": "oliv-56-14",
+        "break_no": true,
+        "text": "ληλον· ἀναιρεῖ καὶ σκώληκας καὶ φθεῖρας ἀγρίους καὶ ἡμέρους καὶ",
+        "citation": "56.14"
+      },
+      {
+        "page": "56",
+        "line": "15",
+        "xml_id": "oliv-56-15",
+        "break_no": false,
+        "text": "κονίδας καὶ πίτυρα κεφαλῆς καὶ ὀφιάσεις καὶ ἀλωπεκίας· ἡ χρῆσις δὲ",
+        "citation": "56.15"
+      },
+      {
+        "page": "56",
+        "line": "16",
+        "xml_id": "oliv-56-16",
+        "break_no": false,
+        "text": "ἐν λουτρῶ νήστει, εἶτα ἀποσμήχειν ὠῷ καὶ μέλιτι καὶ τήλεως ἀλεύ-",
+        "citation": "56.16"
+      },
+      {
+        "page": "56",
+        "line": "17",
+        "xml_id": "oliv-56-17",
+        "break_no": true,
+        "text": "ροις, παραφυλάττων τὸ θερμῇ κεφαλῇ μὴ προσάγειν αὐτό.",
+        "citation": "56.17"
+      }
+    ],
+    "edition_key": "olivieri"
+  },
+  "notes": [],
+  "alignment_status": "pending",
+  "alignment_confidence": "pending",
+  "alignment_evidence": null,
+  "review_status": "reviewed_structured_authority",
+  "review_provenance": {
+    "authority_source": "reports/entity_review/structured/aetius_book1.json",
+    "authority_recipe_id": "aetius-1-108",
+    "authority_lemma": "Δάφνινον",
+    "model": "gpt-5.4",
+    "reasoning_effort": "high",
+    "dataset_key": "aetius_book1_oils",
+    "entity_model_version": "1.2",
+    "authority_version": "2026-04-13-qty-alt-v1",
+    "prompt_version": "qty-alt-pass-v1",
+    "build_version": "2026-05-18T15:51:35Z"
+  },
+  "schema_version": "1.2",
+  "build_metadata": {
+    "builder": "scripts/recipes/build_recipe_entities.py",
+    "built_at": "2026-05-18T15:51:35Z",
+    "source_structured_authority": "reports/entity_review/structured/aetius_book1.json",
+    "authority_model": "gpt-5.4",
+    "authority_reasoning_effort": "high",
+    "dataset_key": "aetius_book1_oils",
+    "entity_model_version": "1.2",
+    "authority_version": "2026-04-13-qty-alt-v1",
+    "prompt_version": "qty-alt-pass-v1",
+    "build_version": "2026-05-18T15:51:35Z"
+  },
+  "recipe_text_excerpt": "∆άφνινον ἐκ τοῦ καρποῦ τῆς δάφνης σκευάζεται, ὡς προείρηται. τὸ δὲ σύμμικτον σκευάζεται οὕτως· πρὸς ε ξέστας τῶν πεπεμμένων ἐλαίων",
+  "preparation": {
+    "preparation_id": "aetius-1-108:preparation:daphninon",
+    "preparation_urn": "urn:aos:recipe-preparation:aetius-1-108:preparation:daphninon",
+    "source_span": "Δάφνινον",
+    "surface_form": "Δάφνινον",
+    "normalized_label": "Δάφνινον",
+    "qualifiers": [
+      {
+        "qualifier_type": "other",
+        "source_span": "σύμμικτον",
+        "normalized_value": "σύμμικτον",
+        "certainty": "certain",
+        "notes": [
+          "The process is introduced for the mixed subtype: «τὸ δὲ σύμμικτον σκευάζεται οὕτως»."
+        ]
+      }
+    ],
+    "regimen_notes": [],
+    "certainty": "certain",
+    "notes": [
+      "Used the lemma as the preparation span because the procedural section shifts to «τὸ δὲ σύμμικτον» without restating the name cleanly."
+    ],
+    "host_locator": {
+      "book": "1",
+      "chapter": "108",
+      "section": "108",
+      "citation": {
+        "start": "56.3",
+        "end": "56.17"
+      }
+    }
+  },
+  "ingredients": [
+    {
+      "ingredient_id": "aetius-1-108:ingredient:pepemmena-elaia-1",
+      "ingredient_urn": "urn:aos:recipe-ingredient:aetius-1-108:ingredient:pepemmena-elaia-1",
+      "source_span": "τῶν πεπεμμένων ἐλαίων",
+      "surface_form": "τῶν πεπεμμένων ἐλαίων",
+      "base_label": "ἔλαιον",
+      "normalized_label": "πεπεμμένα ἔλαια",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [
+        "aetius-1-108:process:pessein-1",
+        "aetius-1-108:process:tribein-3",
+        "aetius-1-108:process:ekthlibein-4"
+      ],
+      "quantities": [
+        {
+          "source_span": "ε ξέστας",
+          "raw_number": "ε",
+          "normalized_number": 5,
+          "raw_unit": "ξέστας",
+          "normalized_unit": "xestes",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "108",
+        "section": "108",
+        "citation": {
+          "start": "56.3",
+          "end": "56.17"
+        }
+      }
+    },
+    {
+      "ingredient_id": "aetius-1-108:ingredient:karpos-daphnidon-2",
+      "ingredient_urn": "urn:aos:recipe-ingredient:aetius-1-108:ingredient:karpos-daphnidon-2",
+      "source_span": "τοῦ καρποῦ τῶν δαφνίδων λιπαροῦ καὶ προσφάτου",
+      "surface_form": "τοῦ καρποῦ τῶν δαφνίδων λιπαροῦ καὶ προσφάτου",
+      "base_label": "καρπός",
+      "normalized_label": "καρπὸς δαφνίδων",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [
+        "aetius-1-108:process:emballein-2",
+        "aetius-1-108:process:tribein-3",
+        "aetius-1-108:process:ekthlibein-4"
+      ],
+      "quantities": [
+        {
+          "source_span": "ἑνὸς ξέστου",
+          "raw_number": "ἑνὸς",
+          "normalized_number": 1,
+          "raw_unit": "ξέστου",
+          "normalized_unit": "xestes",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "qualifiers": [
+        {
+          "qualifier_type": "other",
+          "source_span": "λιπαροῦ",
+          "normalized_value": "λιπαρός",
+          "certainty": "certain",
+          "notes": []
+        },
+        {
+          "qualifier_type": "other",
+          "source_span": "προσφάτου",
+          "normalized_value": "πρόσφατος",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "108",
+        "section": "108",
+        "citation": {
+          "start": "56.3",
+          "end": "56.17"
+        }
+      }
+    },
+    {
+      "ingredient_id": "aetius-1-108:ingredient:oon-3",
+      "ingredient_urn": "urn:aos:recipe-ingredient:aetius-1-108:ingredient:oon-3",
+      "source_span": "ὠῷ",
+      "surface_form": "ὠῷ",
+      "base_label": "ᾠόν",
+      "normalized_label": "ᾠόν",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [
+        "aetius-1-108:process:aposmechein-6"
+      ],
+      "quantities": [],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "108",
+        "section": "108",
+        "citation": {
+          "start": "56.3",
+          "end": "56.17"
+        }
+      }
+    },
+    {
+      "ingredient_id": "aetius-1-108:ingredient:meli-4",
+      "ingredient_urn": "urn:aos:recipe-ingredient:aetius-1-108:ingredient:meli-4",
+      "source_span": "μέλιτι",
+      "surface_form": "μέλιτι",
+      "base_label": "μέλι",
+      "normalized_label": "μέλι",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [
+        "aetius-1-108:process:aposmechein-6"
+      ],
+      "quantities": [],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "108",
+        "section": "108",
+        "citation": {
+          "start": "56.3",
+          "end": "56.17"
+        }
+      }
+    },
+    {
+      "ingredient_id": "aetius-1-108:ingredient:teleos-aleyron-5",
+      "ingredient_urn": "urn:aos:recipe-ingredient:aetius-1-108:ingredient:teleos-aleyron-5",
+      "source_span": "τήλεως ἀλεύροις",
+      "surface_form": "τήλεως ἀλεύροις",
+      "base_label": "ἄλευρον",
+      "normalized_label": "τήλεως ἄλευρον",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [
+        "aetius-1-108:process:aposmechein-6"
+      ],
+      "quantities": [],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "108",
+        "section": "108",
+        "citation": {
+          "start": "56.3",
+          "end": "56.17"
+        }
+      }
+    }
+  ],
+  "processes": [
+    {
+      "process_id": "aetius-1-108:process:pessein-1",
+      "process_urn": "urn:aos:recipe-process:aetius-1-108:process:pessein-1",
+      "source_span": "πεπεμμένων",
+      "surface_form": "πεπεμμένων",
+      "normalized_label": "πέσσειν",
+      "target_type": "ingredient",
+      "target_ids": [
+        "aetius-1-108:ingredient:pepemmena-elaia-1"
+      ],
+      "quantities": [],
+      "qualifiers": [],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "108",
+        "section": "108",
+        "citation": {
+          "start": "56.3",
+          "end": "56.17"
+        }
+      }
+    },
+    {
+      "process_id": "aetius-1-108:process:emballein-2",
+      "process_urn": "urn:aos:recipe-process:aetius-1-108:process:emballein-2",
+      "source_span": "ἐμβαλλομένου",
+      "surface_form": "ἐμβαλλομένου",
+      "normalized_label": "ἐμβάλλειν",
+      "target_type": "ingredient",
+      "target_ids": [
+        "aetius-1-108:ingredient:karpos-daphnidon-2"
+      ],
+      "quantities": [],
+      "qualifiers": [],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "108",
+        "section": "108",
+        "citation": {
+          "start": "56.3",
+          "end": "56.17"
+        }
+      }
+    },
+    {
+      "process_id": "aetius-1-108:process:tribein-3",
+      "process_urn": "urn:aos:recipe-process:aetius-1-108:process:tribein-3",
+      "source_span": "τριβομένων",
+      "surface_form": "τριβομένων",
+      "normalized_label": "τρίβειν",
+      "target_type": "ingredient",
+      "target_ids": [
+        "aetius-1-108:ingredient:pepemmena-elaia-1",
+        "aetius-1-108:ingredient:karpos-daphnidon-2"
+      ],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "manner",
+          "source_span": "πάντων ἅμα",
+          "normalized_value": "ἅμα",
+          "certainty": "certain",
+          "notes": [
+            "Applies to all ingredients together."
+          ]
+        }
+      ],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "108",
+        "section": "108",
+        "citation": {
+          "start": "56.3",
+          "end": "56.17"
+        }
+      }
+    },
+    {
+      "process_id": "aetius-1-108:process:ekthlibein-4",
+      "process_urn": "urn:aos:recipe-process:aetius-1-108:process:ekthlibein-4",
+      "source_span": "ἐκθλιβομένων",
+      "surface_form": "ἐκθλιβομένων",
+      "normalized_label": "ἐκθλίβειν",
+      "target_type": "ingredient",
+      "target_ids": [
+        "aetius-1-108:ingredient:pepemmena-elaia-1",
+        "aetius-1-108:ingredient:karpos-daphnidon-2"
+      ],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "manner",
+          "source_span": "ὥσπερ καὶ τὸ ἔλαιον",
+          "normalized_value": "ὥσπερ καὶ τὸ ἔλαιον",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "108",
+        "section": "108",
+        "citation": {
+          "start": "56.3",
+          "end": "56.17"
+        }
+      }
+    },
+    {
+      "process_id": "aetius-1-108:process:chriein-5",
+      "process_urn": "urn:aos:recipe-process:aetius-1-108:process:chriein-5",
+      "source_span": "χριόμενον",
+      "surface_form": "χριόμενον",
+      "normalized_label": "χρίειν",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "location",
+          "source_span": "ἐν βαλανείοις",
+          "normalized_value": "βαλανεῖον",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "108",
+        "section": "108",
+        "citation": {
+          "start": "56.3",
+          "end": "56.17"
+        }
+      }
+    },
+    {
+      "process_id": "aetius-1-108:process:aposmechein-6",
+      "process_urn": "urn:aos:recipe-process:aetius-1-108:process:aposmechein-6",
+      "source_span": "ἀποσμήχειν",
+      "surface_form": "ἀποσμήχειν",
+      "normalized_label": "ἀποσμήχειν",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "108",
+        "section": "108",
+        "citation": {
+          "start": "56.3",
+          "end": "56.17"
+        }
+      }
+    },
+    {
+      "process_id": "aetius-1-108:process:prosagein-7",
+      "process_urn": "urn:aos:recipe-process:aetius-1-108:process:prosagein-7",
+      "source_span": "προσάγειν",
+      "surface_form": "προσάγειν",
+      "normalized_label": "προσάγειν",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "temperature",
+          "source_span": "θερμῇ",
+          "normalized_value": "θερμός",
+          "certainty": "certain",
+          "notes": []
+        },
+        {
+          "qualifier_type": "location",
+          "source_span": "κεφαλῇ",
+          "normalized_value": "κεφαλή",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "certainty": "certain",
+      "notes": [
+        "Negated in text by μὴ."
+      ],
+      "host_locator": {
+        "book": "1",
+        "chapter": "108",
+        "section": "108",
+        "citation": {
+          "start": "56.3",
+          "end": "56.17"
+        }
+      }
+    }
+  ],
+  "materials": [],
+  "people": [],
+  "places": [],
+  "uses": [
+    {
+      "use_id": "aetius-1-108:use:tois-sphodros-epsygmenois-meros-ti-toy-somatos-chresimeyei-1",
+      "use_urn": "urn:aos:recipe-use:aetius-1-108:use:tois-sphodros-epsygmenois-meros-ti-toy-somatos-chresimeyei-1",
+      "category": "medical",
+      "source_span": "τοῖς σφοδρῶς ἐψυγμένοις μέρος τι τοῦ σώματος χρησιμεύει",
+      "snippet": "τοῖς σφοδρῶς ἐψυγμένοις μέρος τι τοῦ σώματος χρησιμεύει",
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "108",
+        "section": "108",
+        "citation": {
+          "start": "56.3",
+          "end": "56.17"
+        }
+      }
+    },
+    {
+      "use_id": "aetius-1-108:use:tois-psoriosi-xerodermois-kai-leichenas-echoysi-tracheis-chriomenon-en-balaneiois-apotherapeyei-2",
+      "use_urn": "urn:aos:recipe-use:aetius-1-108:use:tois-psoriosi-xerodermois-kai-leichenas-echoysi-tracheis-chriomenon-en-balaneiois-apotherapeyei-2",
+      "category": "medical",
+      "source_span": "τοῖς ψωριῶσι ξηροδέρμοις καὶ λειχῆνας ἔχουσι τραχεῖς χριόμενον ἐν βαλανείοις ἀποθεραπεύει",
+      "snippet": "τοῖς ψωριῶσι ξηροδέρμοις καὶ λειχῆνας ἔχουσι τραχεῖς χριόμενον ἐν βαλανείοις ἀποθεραπεύει",
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "108",
+        "section": "108",
+        "citation": {
+          "start": "56.3",
+          "end": "56.17"
+        }
+      }
+    },
+    {
+      "use_id": "aetius-1-108:use:pheykteon-de-ayto-epi-ton-phlegmainonton-leichenon-e-psoron-kai-epi-ton-thermon-kraseon-kai-cholodon-3",
+      "use_urn": "urn:aos:recipe-use:aetius-1-108:use:pheykteon-de-ayto-epi-ton-phlegmainonton-leichenon-e-psoron-kai-epi-ton-thermon-kraseon-kai-cholodon-3",
+      "category": "medical",
+      "source_span": "φευκτέον δὲ αὐτὸ ἐπὶ τῶν φλεγμαινόντων λειχήνων ἢ ψωρῶν καὶ ἐπὶ τῶν θερμῶν κράσεων καὶ χολωδῶν",
+      "snippet": "φευκτέον δὲ αὐτὸ ἐπὶ τῶν φλεγμαινόντων λειχήνων ἢ ψωρῶν καὶ ἐπὶ τῶν θερμῶν κράσεων καὶ χολωδῶν",
+      "certainty": "certain",
+      "notes": [
+        "Contraindication."
+      ],
+      "host_locator": {
+        "book": "1",
+        "chapter": "108",
+        "section": "108",
+        "citation": {
+          "start": "56.3",
+          "end": "56.17"
+        }
+      }
+    },
+    {
+      "use_id": "aetius-1-108:use:tois-gar-ygrois-kai-phlegmatikois-armottei-4",
+      "use_urn": "urn:aos:recipe-use:aetius-1-108:use:tois-gar-ygrois-kai-phlegmatikois-armottei-4",
+      "category": "medical",
+      "source_span": "τοῖς γὰρ ὑγροῖς καὶ φλεγματικοῖς ἁρμόττει",
+      "snippet": "τοῖς γὰρ ὑγροῖς καὶ φλεγματικοῖς ἁρμόττει",
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "108",
+        "section": "108",
+        "citation": {
+          "start": "56.3",
+          "end": "56.17"
+        }
+      }
+    },
+    {
+      "use_id": "aetius-1-108:use:pasi-tois-ypo-psyxeos-enochloymenois-ta-arthra-kai-ischiadikois-katallelon-5",
+      "use_urn": "urn:aos:recipe-use:aetius-1-108:use:pasi-tois-ypo-psyxeos-enochloymenois-ta-arthra-kai-ischiadikois-katallelon-5",
+      "category": "medical",
+      "source_span": "πᾶσι τοῖς ὑπὸ ψύξεως ἐνοχλουμένοις τὰ ἄρθρα καὶ ἰσχιαδικοῖς κατάλληλον",
+      "snippet": "πᾶσι τοῖς ὑπὸ ψύξεως ἐνοχλουμένοις τὰ ἄρθρα καὶ ἰσχιαδικοῖς κατάλληλον",
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "108",
+        "section": "108",
+        "citation": {
+          "start": "56.3",
+          "end": "56.17"
+        }
+      }
+    },
+    {
+      "use_id": "aetius-1-108:use:anairei-kai-skolekas-kai-phtheiras-agrioys-kai-emeroys-kai-konidas-kai-pityra-kephales-kai-ophiaseis-kai-alopekias-6",
+      "use_urn": "urn:aos:recipe-use:aetius-1-108:use:anairei-kai-skolekas-kai-phtheiras-agrioys-kai-emeroys-kai-konidas-kai-pityra-kephales-kai-ophiaseis-kai-alopekias-6",
+      "category": "medical",
+      "source_span": "ἀναιρεῖ καὶ σκώληκας καὶ φθεῖρας ἀγρίους καὶ ἡμέρους καὶ κονίδας καὶ πίτυρα κεφαλῆς καὶ ὀφιάσεις καὶ ἀλωπεκίας",
+      "snippet": "ἀναιρεῖ καὶ σκώληκας καὶ φθεῖρας ἀγρίους καὶ ἡμέρους καὶ κονίδας καὶ πίτυρα κεφαλῆς καὶ ὀφιάσεις καὶ ἀλωπεκίας",
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "108",
+        "section": "108",
+        "citation": {
+          "start": "56.3",
+          "end": "56.17"
+        }
+      }
+    },
+    {
+      "use_id": "aetius-1-108:use:e-chresis-de-en-loytro-nestei-eita-aposmechein-oo-kai-meliti-kai-teleos-aleyrois-paraphylatton-to-therme-kephale-me-prosagein-ayto-7",
+      "use_urn": "urn:aos:recipe-use:aetius-1-108:use:e-chresis-de-en-loytro-nestei-eita-aposmechein-oo-kai-meliti-kai-teleos-aleyrois-paraphylatton-to-therme-kephale-me-prosagein-ayto-7",
+      "category": "medical",
+      "source_span": "ἡ χρῆσις δὲ ἐν λουτρῶ νήστει, εἶτα ἀποσμήχειν ὠῷ καὶ μέλιτι καὶ τήλεως ἀλεύροις, παραφυλάττων τὸ θερμῇ κεφαλῇ μὴ προσάγειν αὐτό",
+      "snippet": "ἡ χρῆσις δὲ ἐν λουτρῶ νήστει, εἶτα ἀποσμήχειν ὠῷ καὶ μέλιτι καὶ τήλεως ἀλεύροις, παραφυλάττων τὸ θερμῇ κεφαλῇ μὴ προσάγειν αὐτό",
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "108",
+        "section": "108",
+        "citation": {
+          "start": "56.3",
+          "end": "56.17"
+        }
+      }
+    }
+  ],
+  "preparation_names": [],
+  "other_preparations_mentioned": [],
+  "works_mentioned": [],
+  "entities": [
+    {
+      "entity_urn": "urn:aos:recipe-preparation:aetius-1-108:preparation:daphninon",
+      "entity_type": "label",
+      "surface_form": "Δάφνινον",
+      "normalized_label": "Δάφνινον"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:aetius-1-108:ingredient:pepemmena-elaia-1",
+      "entity_type": "ingredient",
+      "surface_form": "τῶν πεπεμμένων ἐλαίων",
+      "normalized_label": "πεπεμμένα ἔλαια"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:aetius-1-108:ingredient:karpos-daphnidon-2",
+      "entity_type": "ingredient",
+      "surface_form": "τοῦ καρποῦ τῶν δαφνίδων λιπαροῦ καὶ προσφάτου",
+      "normalized_label": "καρπὸς δαφνίδων"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:aetius-1-108:ingredient:oon-3",
+      "entity_type": "ingredient",
+      "surface_form": "ὠῷ",
+      "normalized_label": "ᾠόν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:aetius-1-108:ingredient:meli-4",
+      "entity_type": "ingredient",
+      "surface_form": "μέλιτι",
+      "normalized_label": "μέλι"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:aetius-1-108:ingredient:teleos-aleyron-5",
+      "entity_type": "ingredient",
+      "surface_form": "τήλεως ἀλεύροις",
+      "normalized_label": "τήλεως ἄλευρον"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:aetius-1-108:process:pessein-1",
+      "entity_type": "process",
+      "surface_form": "πεπεμμένων",
+      "normalized_label": "πέσσειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:aetius-1-108:process:emballein-2",
+      "entity_type": "process",
+      "surface_form": "ἐμβαλλομένου",
+      "normalized_label": "ἐμβάλλειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:aetius-1-108:process:tribein-3",
+      "entity_type": "process",
+      "surface_form": "τριβομένων",
+      "normalized_label": "τρίβειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:aetius-1-108:process:ekthlibein-4",
+      "entity_type": "process",
+      "surface_form": "ἐκθλιβομένων",
+      "normalized_label": "ἐκθλίβειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:aetius-1-108:process:chriein-5",
+      "entity_type": "process",
+      "surface_form": "χριόμενον",
+      "normalized_label": "χρίειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:aetius-1-108:process:aposmechein-6",
+      "entity_type": "process",
+      "surface_form": "ἀποσμήχειν",
+      "normalized_label": "ἀποσμήχειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:aetius-1-108:process:prosagein-7",
+      "entity_type": "process",
+      "surface_form": "προσάγειν",
+      "normalized_label": "προσάγειν"
+    }
+  ],
+  "canonical_file": "data/recipes/aetius-1-108.json",
+  "source_entry": {
+    "source_id": "aetius-1-108",
+    "derived_recipe_id": "aetius-1-108",
+    "entry_kind": null,
+    "source_kind": null,
+    "source_lines": null,
+    "section_markers": []
+  },
+  "entity_groups": {
+    "labels": [
+      {
+        "entity_urn": "urn:aos:recipe-preparation:aetius-1-108:preparation:daphninon",
+        "surface_form": "Δάφνινον",
+        "normalized_label": "Δάφνινον"
+      }
+    ],
+    "ingredients": [
+      {
+        "entity_urn": "urn:aos:recipe-ingredient:aetius-1-108:ingredient:pepemmena-elaia-1",
+        "surface_form": "τῶν πεπεμμένων ἐλαίων",
+        "normalized_label": "πεπεμμένα ἔλαια",
+        "quantity_display": "ε ξέστας"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-ingredient:aetius-1-108:ingredient:karpos-daphnidon-2",
+        "surface_form": "τοῦ καρποῦ τῶν δαφνίδων λιπαροῦ καὶ προσφάτου",
+        "normalized_label": "καρπὸς δαφνίδων",
+        "quantity_display": "ἑνὸς ξέστου"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-ingredient:aetius-1-108:ingredient:oon-3",
+        "surface_form": "ὠῷ",
+        "normalized_label": "ᾠόν",
+        "quantity_display": ""
+      },
+      {
+        "entity_urn": "urn:aos:recipe-ingredient:aetius-1-108:ingredient:meli-4",
+        "surface_form": "μέλιτι",
+        "normalized_label": "μέλι",
+        "quantity_display": ""
+      },
+      {
+        "entity_urn": "urn:aos:recipe-ingredient:aetius-1-108:ingredient:teleos-aleyron-5",
+        "surface_form": "τήλεως ἀλεύροις",
+        "normalized_label": "τήλεως ἄλευρον",
+        "quantity_display": ""
+      }
+    ],
+    "processes": [
+      {
+        "entity_urn": "urn:aos:recipe-process:aetius-1-108:process:pessein-1",
+        "surface_form": "πεπεμμένων",
+        "normalized_label": "πέσσειν"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-process:aetius-1-108:process:emballein-2",
+        "surface_form": "ἐμβαλλομένου",
+        "normalized_label": "ἐμβάλλειν"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-process:aetius-1-108:process:tribein-3",
+        "surface_form": "τριβομένων",
+        "normalized_label": "τρίβειν"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-process:aetius-1-108:process:ekthlibein-4",
+        "surface_form": "ἐκθλιβομένων",
+        "normalized_label": "ἐκθλίβειν"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-process:aetius-1-108:process:chriein-5",
+        "surface_form": "χριόμενον",
+        "normalized_label": "χρίειν"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-process:aetius-1-108:process:aposmechein-6",
+        "surface_form": "ἀποσμήχειν",
+        "normalized_label": "ἀποσμήχειν"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-process:aetius-1-108:process:prosagein-7",
+        "surface_form": "προσάγειν",
+        "normalized_label": "προσάγειν"
+      }
+    ],
+    "tools": [],
+    "other_preparations_mentioned": [],
+    "people": [],
+    "places": [],
+    "works_mentioned": [],
+    "preparation_names": []
+  }
+}

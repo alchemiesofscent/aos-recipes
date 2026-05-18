@@ -1,0 +1,654 @@
+{
+  "dataset_key": "aetius_book16_myrepsika",
+  "source_json": "experiments/aetius-book16-ch126-153-myrepsika/data/aetius_book16_ch126_153_myrepsika.json",
+  "host_raw_file": "tei/raw/tlg0718016.xml",
+  "work_slug": "aetius.b16.myrepsika",
+  "recipe_id": "aetius-16-135",
+  "recipe_urn": "urn:aos:recipe:aetius-16-135",
+  "record_urn": "urn:aos:recipe-record:aetius-16-135",
+  "author": "Aëtius of Amida",
+  "work": "Libri medicinales",
+  "book": "16",
+  "chapter": "135",
+  "section": null,
+  "chapter_name": "ῥοδάτου σκευασία",
+  "lemma": "ῥοδάτου σκευασία",
+  "text": "Ῥόδων ἐξωνυχισμένων καὶ ἐν σκιᾷ ξηρανθέντων λίτ. α. οἴνου παλαιοῦ διαυγεστέρου ξεε ἤτοι ξέστ. ε. μέλιτος ξεα ἤτοι ξέστ. α. ἀπόβρεχε τὰ ῥόδα ἐν τῷ οἴνῳ νυχθήμερον, καὶ τῇ ἑξῆς διηθήσας τὸν οἶνον κα. ἑνώσας τῷ μέλιτι φύλλασσε, καὶ μεθ' ἡμέρας γ χρῶ. Τινὲς δὲ προσβάλλουσι καὶ μαστίχης γράμματα στ. καὶ μαλάσσει τὴν κοιλίαν.",
+  "original_text": null,
+  "text_source": null,
+  "emendations": [],
+  "emendation_count": 0,
+  "source_kind": null,
+  "entry_kind": "recipe",
+  "citation": {
+    "pages": [
+      "166"
+    ],
+    "start": {
+      "page": "166",
+      "line": "1",
+      "xml_id": "zerv-166-1"
+    },
+    "end": {
+      "page": "166",
+      "line": "7",
+      "xml_id": "zerv-166-7"
+    },
+    "citation": {
+      "start": "166.1",
+      "end": "166.7"
+    },
+    "page_spans": [
+      {
+        "page": "166",
+        "start_line": "1",
+        "end_line": "7"
+      }
+    ],
+    "lines": [
+      {
+        "page": "166",
+        "line": "1",
+        "xml_id": "zerv-166-1",
+        "citation": "166.1",
+        "text": "ΡΟΔΑΤΟΥ ΣΚΕΥΑΣΙΑ."
+      },
+      {
+        "page": "166",
+        "line": "2",
+        "xml_id": "zerv-166-2",
+        "citation": "166.2",
+        "text": "Ῥόδων ἐξωνυχισμένων καὶ ἐν σκιᾷ ξηρανθέντων λίτ. α. οἴνου"
+      },
+      {
+        "page": "166",
+        "line": "3",
+        "xml_id": "zerv-166-3",
+        "citation": "166.3",
+        "text": "παλαιοῦ διαυγεστέρου ξεε ἤτοι ξέστ. ε. μέλιτος ξεα ἤτοι ξέστ. α."
+      },
+      {
+        "page": "166",
+        "line": "4",
+        "xml_id": "zerv-166-4",
+        "citation": "166.4",
+        "text": "ἀπόβρεχε τὰ ῥόδα ἐν τῷ οἴνῳ νυχθήμερον, καὶ τῇ ἑξῆς διηθήσας"
+      },
+      {
+        "page": "166",
+        "line": "5",
+        "xml_id": "zerv-166-5",
+        "citation": "166.5",
+        "text": "τὸν οἶνον κα. ἑνώσας τῷ μέλιτι φύλλασσε, καὶ μεθ' ἡμέρας γ"
+      },
+      {
+        "page": "166",
+        "line": "6",
+        "xml_id": "zerv-166-6",
+        "citation": "166.6",
+        "text": "χρῶ. Τινὲς δὲ προσβάλλουσι καὶ μαστίχης γράμματα στ. καὶ"
+      },
+      {
+        "page": "166",
+        "line": "7",
+        "xml_id": "zerv-166-7",
+        "citation": "166.7",
+        "text": "μαλάσσει τὴν κοιλίαν."
+      }
+    ],
+    "edition_key": "zervos"
+  },
+  "notes": [],
+  "alignment_status": "pending",
+  "alignment_confidence": "pending",
+  "alignment_evidence": null,
+  "review_status": "reviewed_structured_authority",
+  "review_provenance": {
+    "authority_source": "reports/entity_review/structured/aetius_book16.json",
+    "authority_recipe_id": "aetius-16-135",
+    "authority_lemma": "ῥοδάτου σκευασία",
+    "model": "gpt-5.4",
+    "reasoning_effort": "high",
+    "dataset_key": "aetius_book16_myrepsika",
+    "entity_model_version": "1.2",
+    "authority_version": "2026-04-13-qty-alt-v1",
+    "prompt_version": "qty-alt-pass-v1",
+    "build_version": "2026-05-18T15:51:35Z"
+  },
+  "schema_version": "1.2",
+  "build_metadata": {
+    "builder": "scripts/recipes/build_recipe_entities.py",
+    "built_at": "2026-05-18T15:51:35Z",
+    "source_structured_authority": "reports/entity_review/structured/aetius_book16.json",
+    "authority_model": "gpt-5.4",
+    "authority_reasoning_effort": "high",
+    "dataset_key": "aetius_book16_myrepsika",
+    "entity_model_version": "1.2",
+    "authority_version": "2026-04-13-qty-alt-v1",
+    "prompt_version": "qty-alt-pass-v1",
+    "build_version": "2026-05-18T15:51:35Z"
+  },
+  "recipe_text_excerpt": "Ῥόδων ἐξωνυχισμένων καὶ ἐν σκιᾷ ξηρανθέντων λίτ. α. οἴνου παλαιοῦ διαυγεστέρου ξεε ἤτοι ξέστ. ε. μέλιτος ξεα ἤτοι ξέστ. α.",
+  "preparation": {
+    "preparation_id": "aetius-16-135:preparation:rodatoy-skeyasia",
+    "preparation_urn": "urn:aos:recipe-preparation:aetius-16-135:preparation:rodatoy-skeyasia",
+    "source_span": "ῥοδάτου σκευασία",
+    "surface_form": "ῥοδάτου σκευασία",
+    "normalized_label": "ῥοδάτου σκευασία",
+    "qualifiers": [],
+    "regimen_notes": [],
+    "certainty": "certain",
+    "notes": [],
+    "host_locator": {
+      "book": "16",
+      "chapter": "135",
+      "section": null,
+      "citation": {
+        "start": "166.1",
+        "end": "166.7"
+      }
+    }
+  },
+  "ingredients": [
+    {
+      "ingredient_id": "aetius-16-135:ingredient:roda-1",
+      "ingredient_urn": "urn:aos:recipe-ingredient:aetius-16-135:ingredient:roda-1",
+      "source_span": "Ῥόδων ἐξωνυχισμένων καὶ ἐν σκιᾷ ξηρανθέντων",
+      "surface_form": "Ῥόδων ἐξωνυχισμένων καὶ ἐν σκιᾷ ξηρανθέντων",
+      "base_label": "ῥόδων",
+      "normalized_label": "ῥόδα",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [
+        "aetius-16-135:process:exonychizein-1",
+        "aetius-16-135:process:xerainein-2",
+        "aetius-16-135:process:apobrechein-3"
+      ],
+      "quantities": [
+        {
+          "source_span": "λίτ. α.",
+          "raw_number": "α.",
+          "normalized_number": 1,
+          "raw_unit": "λίτ.",
+          "normalized_unit": "litra",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "16",
+        "chapter": "135",
+        "section": null,
+        "citation": {
+          "start": "166.1",
+          "end": "166.7"
+        }
+      }
+    },
+    {
+      "ingredient_id": "aetius-16-135:ingredient:oinos-palaios-diaygesteros-2",
+      "ingredient_urn": "urn:aos:recipe-ingredient:aetius-16-135:ingredient:oinos-palaios-diaygesteros-2",
+      "source_span": "οἴνου παλαιοῦ διαυγεστέρου",
+      "surface_form": "οἴνου παλαιοῦ διαυγεστέρου",
+      "base_label": "οἶνος",
+      "normalized_label": "οἶνος παλαιὸς διαυγέστερος",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [
+        "aetius-16-135:process:apobrechein-3",
+        "aetius-16-135:process:diethein-4",
+        "aetius-16-135:process:enoyn-5"
+      ],
+      "quantities": [
+        {
+          "source_span": "ξεε ἤτοι ξέστ. ε.",
+          "raw_number": "ε.",
+          "normalized_number": 5,
+          "raw_unit": "ξέστ.",
+          "normalized_unit": "xestes",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "16",
+        "chapter": "135",
+        "section": null,
+        "citation": {
+          "start": "166.1",
+          "end": "166.7"
+        }
+      }
+    },
+    {
+      "ingredient_id": "aetius-16-135:ingredient:meli-3",
+      "ingredient_urn": "urn:aos:recipe-ingredient:aetius-16-135:ingredient:meli-3",
+      "source_span": "μέλιτος",
+      "surface_form": "μέλιτος",
+      "base_label": "μέλι",
+      "normalized_label": "μέλι",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [
+        "aetius-16-135:process:enoyn-5"
+      ],
+      "quantities": [
+        {
+          "source_span": "ξεα ἤτοι ξέστ. α.",
+          "raw_number": "α.",
+          "normalized_number": 1,
+          "raw_unit": "ξέστ.",
+          "normalized_unit": "xestes",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "16",
+        "chapter": "135",
+        "section": null,
+        "citation": {
+          "start": "166.1",
+          "end": "166.7"
+        }
+      }
+    },
+    {
+      "ingredient_id": "aetius-16-135:ingredient:mastiche-4",
+      "ingredient_urn": "urn:aos:recipe-ingredient:aetius-16-135:ingredient:mastiche-4",
+      "source_span": "μαστίχης",
+      "surface_form": "μαστίχης",
+      "base_label": "μαστίχη",
+      "normalized_label": "μαστίχη",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [
+        "aetius-16-135:process:prosballein-8"
+      ],
+      "quantities": [
+        {
+          "source_span": "γράμματα στ.",
+          "raw_number": "στ.",
+          "normalized_number": 6,
+          "raw_unit": "γράμματα",
+          "normalized_unit": "gramma",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "qualifiers": [],
+      "notes": [
+        "Προαιρετικὸν πρόσθεμα, ἐκ τοῦ «Τινὲς δὲ προσβάλλουσι»."
+      ],
+      "host_locator": {
+        "book": "16",
+        "chapter": "135",
+        "section": null,
+        "citation": {
+          "start": "166.1",
+          "end": "166.7"
+        }
+      }
+    }
+  ],
+  "processes": [
+    {
+      "process_id": "aetius-16-135:process:exonychizein-1",
+      "process_urn": "urn:aos:recipe-process:aetius-16-135:process:exonychizein-1",
+      "source_span": "ἐξωνυχισμένων",
+      "surface_form": "ἐξωνυχισμένων",
+      "normalized_label": "ἐξωνυχίζειν",
+      "target_type": "ingredient",
+      "target_ids": [
+        "aetius-16-135:ingredient:roda-1"
+      ],
+      "quantities": [],
+      "qualifiers": [],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "16",
+        "chapter": "135",
+        "section": null,
+        "citation": {
+          "start": "166.1",
+          "end": "166.7"
+        }
+      }
+    },
+    {
+      "process_id": "aetius-16-135:process:xerainein-2",
+      "process_urn": "urn:aos:recipe-process:aetius-16-135:process:xerainein-2",
+      "source_span": "ξηρανθέντων",
+      "surface_form": "ξηρανθέντων",
+      "normalized_label": "ξηραίνειν",
+      "target_type": "ingredient",
+      "target_ids": [
+        "aetius-16-135:ingredient:roda-1"
+      ],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "location",
+          "source_span": "ἐν σκιᾷ",
+          "normalized_value": "ἐν σκιᾷ",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "16",
+        "chapter": "135",
+        "section": null,
+        "citation": {
+          "start": "166.1",
+          "end": "166.7"
+        }
+      }
+    },
+    {
+      "process_id": "aetius-16-135:process:apobrechein-3",
+      "process_urn": "urn:aos:recipe-process:aetius-16-135:process:apobrechein-3",
+      "source_span": "ἀπόβρεχε",
+      "surface_form": "ἀπόβρεχε",
+      "normalized_label": "ἀποβρέχειν",
+      "target_type": "ingredient",
+      "target_ids": [
+        "aetius-16-135:ingredient:roda-1"
+      ],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "location",
+          "source_span": "ἐν τῷ οἴνῳ",
+          "normalized_value": "ἐν τῷ οἴνῳ",
+          "certainty": "certain",
+          "notes": []
+        },
+        {
+          "qualifier_type": "duration",
+          "source_span": "νυχθήμερον",
+          "normalized_value": "νυχθήμερον",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "16",
+        "chapter": "135",
+        "section": null,
+        "citation": {
+          "start": "166.1",
+          "end": "166.7"
+        }
+      }
+    },
+    {
+      "process_id": "aetius-16-135:process:diethein-4",
+      "process_urn": "urn:aos:recipe-process:aetius-16-135:process:diethein-4",
+      "source_span": "διηθήσας",
+      "surface_form": "διηθήσας",
+      "normalized_label": "διηθεῖν",
+      "target_type": "ingredient",
+      "target_ids": [
+        "aetius-16-135:ingredient:oinos-palaios-diaygesteros-2"
+      ],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "other",
+          "source_span": "τῇ ἑξῆς",
+          "normalized_value": "τῇ ἑξῆς",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "16",
+        "chapter": "135",
+        "section": null,
+        "citation": {
+          "start": "166.1",
+          "end": "166.7"
+        }
+      }
+    },
+    {
+      "process_id": "aetius-16-135:process:enoyn-5",
+      "process_urn": "urn:aos:recipe-process:aetius-16-135:process:enoyn-5",
+      "source_span": "ἑνώσας",
+      "surface_form": "ἑνώσας",
+      "normalized_label": "ἑνοῦν",
+      "target_type": "ingredient",
+      "target_ids": [
+        "aetius-16-135:ingredient:oinos-palaios-diaygesteros-2",
+        "aetius-16-135:ingredient:meli-3"
+      ],
+      "quantities": [],
+      "qualifiers": [],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "16",
+        "chapter": "135",
+        "section": null,
+        "citation": {
+          "start": "166.1",
+          "end": "166.7"
+        }
+      }
+    },
+    {
+      "process_id": "aetius-16-135:process:phylassein-6",
+      "process_urn": "urn:aos:recipe-process:aetius-16-135:process:phylassein-6",
+      "source_span": "φύλλασσε",
+      "surface_form": "φύλλασσε",
+      "normalized_label": "φυλάσσειν",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "16",
+        "chapter": "135",
+        "section": null,
+        "citation": {
+          "start": "166.1",
+          "end": "166.7"
+        }
+      }
+    },
+    {
+      "process_id": "aetius-16-135:process:chresthai-7",
+      "process_urn": "urn:aos:recipe-process:aetius-16-135:process:chresthai-7",
+      "source_span": "χρῶ",
+      "surface_form": "χρῶ",
+      "normalized_label": "χρῆσθαι",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "duration",
+          "source_span": "μεθ' ἡμέρας γ",
+          "normalized_value": "μετὰ 3 ἡμέρας",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "16",
+        "chapter": "135",
+        "section": null,
+        "citation": {
+          "start": "166.1",
+          "end": "166.7"
+        }
+      }
+    },
+    {
+      "process_id": "aetius-16-135:process:prosballein-8",
+      "process_urn": "urn:aos:recipe-process:aetius-16-135:process:prosballein-8",
+      "source_span": "προσβάλλουσι",
+      "surface_form": "προσβάλλουσι",
+      "normalized_label": "προσβάλλειν",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [],
+      "certainty": "certain",
+      "notes": [
+        "Παραλλαγὴ συνταγῆς, ἐκ τοῦ «Τινὲς δὲ»."
+      ],
+      "host_locator": {
+        "book": "16",
+        "chapter": "135",
+        "section": null,
+        "citation": {
+          "start": "166.1",
+          "end": "166.7"
+        }
+      }
+    }
+  ],
+  "materials": [],
+  "people": [],
+  "places": [],
+  "uses": [
+    {
+      "use_id": "aetius-16-135:use:meth-emeras-g-chro-1",
+      "use_urn": "urn:aos:recipe-use:aetius-16-135:use:meth-emeras-g-chro-1",
+      "category": "medical",
+      "source_span": "μεθ' ἡμέρας γ χρῶ",
+      "snippet": "μεθ' ἡμέρας γ χρῶ",
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "16",
+        "chapter": "135",
+        "section": null,
+        "citation": {
+          "start": "166.1",
+          "end": "166.7"
+        }
+      }
+    },
+    {
+      "use_id": "aetius-16-135:use:malassei-ten-koilian-2",
+      "use_urn": "urn:aos:recipe-use:aetius-16-135:use:malassei-ten-koilian-2",
+      "category": "medical",
+      "source_span": "μαλάσσει τὴν κοιλίαν",
+      "snippet": "μαλάσσει τὴν κοιλίαν",
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "16",
+        "chapter": "135",
+        "section": null,
+        "citation": {
+          "start": "166.1",
+          "end": "166.7"
+        }
+      }
+    }
+  ],
+  "preparation_names": [],
+  "other_preparations_mentioned": [],
+  "works_mentioned": [],
+  "entities": [
+    {
+      "entity_urn": "urn:aos:recipe-preparation:aetius-16-135:preparation:rodatoy-skeyasia",
+      "entity_type": "label",
+      "surface_form": "ῥοδάτου σκευασία",
+      "normalized_label": "ῥοδάτου σκευασία"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:aetius-16-135:ingredient:roda-1",
+      "entity_type": "ingredient",
+      "surface_form": "Ῥόδων ἐξωνυχισμένων καὶ ἐν σκιᾷ ξηρανθέντων",
+      "normalized_label": "ῥόδα"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:aetius-16-135:ingredient:oinos-palaios-diaygesteros-2",
+      "entity_type": "ingredient",
+      "surface_form": "οἴνου παλαιοῦ διαυγεστέρου",
+      "normalized_label": "οἶνος παλαιὸς διαυγέστερος"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:aetius-16-135:ingredient:meli-3",
+      "entity_type": "ingredient",
+      "surface_form": "μέλιτος",
+      "normalized_label": "μέλι"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:aetius-16-135:ingredient:mastiche-4",
+      "entity_type": "ingredient",
+      "surface_form": "μαστίχης",
+      "normalized_label": "μαστίχη"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:aetius-16-135:process:exonychizein-1",
+      "entity_type": "process",
+      "surface_form": "ἐξωνυχισμένων",
+      "normalized_label": "ἐξωνυχίζειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:aetius-16-135:process:xerainein-2",
+      "entity_type": "process",
+      "surface_form": "ξηρανθέντων",
+      "normalized_label": "ξηραίνειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:aetius-16-135:process:apobrechein-3",
+      "entity_type": "process",
+      "surface_form": "ἀπόβρεχε",
+      "normalized_label": "ἀποβρέχειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:aetius-16-135:process:diethein-4",
+      "entity_type": "process",
+      "surface_form": "διηθήσας",
+      "normalized_label": "διηθεῖν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:aetius-16-135:process:enoyn-5",
+      "entity_type": "process",
+      "surface_form": "ἑνώσας",
+      "normalized_label": "ἑνοῦν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:aetius-16-135:process:phylassein-6",
+      "entity_type": "process",
+      "surface_form": "φύλλασσε",
+      "normalized_label": "φυλάσσειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:aetius-16-135:process:chresthai-7",
+      "entity_type": "process",
+      "surface_form": "χρῶ",
+      "normalized_label": "χρῆσθαι"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:aetius-16-135:process:prosballein-8",
+      "entity_type": "process",
+      "surface_form": "προσβάλλουσι",
+      "normalized_label": "προσβάλλειν"
+    }
+  ]
+}

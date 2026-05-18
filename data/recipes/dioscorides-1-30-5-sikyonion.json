@@ -1,0 +1,936 @@
+{
+  "dataset_key": "dioscorides_book1_perfumes_resins",
+  "source_json": "experiments/dioscorides-book1-perfumes-resins/data/dioscorides_book1_perfumes_resins.json",
+  "host_raw_file": "tei/raw/tlg0656.tlg001.1st1K-grc1.xml",
+  "work_slug": "diosc.b1.recipes",
+  "recipe_id": "dioscorides-1-30-5-sikyonion",
+  "recipe_urn": "urn:aos:recipe:dioscorides-1-30-5-sikyonion",
+  "record_urn": "urn:aos:recipe-record:dioscorides-1-30-5-sikyonion",
+  "author": "Dioscorides",
+  "work": "De materia medica",
+  "book": "1",
+  "chapter": "30",
+  "section": "5",
+  "chapter_name": "ἔλαιον πρὸς τὴν ἐν ὑγιείᾳ χρῆσιν",
+  "lemma": "σικυώνιον",
+  "text": "ἔνεστι δὲ καὶ Σικυώνιον διὰ τοῦ προειρημένου οὕτως 5 σκευάζειν· εἰς λέβητα κεκασσιτερωμένον πλατύστομον ἐγχέας νέου ἐλαίου ὠμοτριβοῦς καὶ λευκοῦ χοέα ἕνα καὶ ὕδατος ἡμίχουν ἕψε κούφῳ πυρὶ κινῶν πραέως. ὅταν δὲ ἀναζέσῃ δίς, ὑπόσπασον τὸ πῦρ καὶ ψύξας ἀποκόγχισον τὸ ἔλαιον, εἶτα ἄλλο ἐπιδούς ὕδωρ συνανάζεσον αὐτῷ, καὶ τὰ λοιπὰ ποιήσας καθὼς ὑποδέδεικται ἀπόθου. σκευάζεται δὲ τοῦτο μάλιστα ἐν Σικυωνίᾳ, Σικυώνιον καλούμενον. δύναμιν δὲ ἔχει ποσῶς θερμαντικήν, ἁρμόζον ἐν πυρετοῖς καὶ τοῖς περὶ νεῦρα πάθεσι. χρῶνται δὲ αὐτῷ καὶ αἱ γυναῖκες ἐπὶ τῷ στιλβώθρῳ.",
+  "original_text": null,
+  "text_source": null,
+  "emendations": [],
+  "emendation_count": 0,
+  "source_kind": "main_text",
+  "entry_kind": "recipe",
+  "citation": {
+    "pages": [
+      "35"
+    ],
+    "start": {
+      "page": "35",
+      "line": "15"
+    },
+    "end": {
+      "page": "35",
+      "line": "25"
+    },
+    "citation": {
+      "start": "35.15",
+      "end": "35.25"
+    },
+    "page_spans": [
+      {
+        "page": "35",
+        "start_line": "15",
+        "end_line": "25"
+      }
+    ],
+    "lines": [
+      {
+        "page": "35",
+        "line": "15",
+        "break_no": false,
+        "text": "ἔνεστι δὲ καὶ Σικυώνιον διὰ τοῦ προειρημένου οὕτως 5 σκευάζειν· εἰς λέβητα κεκασσιτερωμένον πλατύστομον ἐγχέας νέου ἐλαίου ὠμοτριβοῦς καὶ λευκοῦ χοέα ἕνα καὶ ὕδατος ἡμίχουν",
+        "citation": "35.15"
+      },
+      {
+        "page": "35",
+        "line": "20",
+        "break_no": false,
+        "text": "ἕψε κούφῳ πυρὶ κινῶν πραέως. ὅταν δὲ ἀναζέσῃ δίς, ὑπόσπασον τὸ πῦρ καὶ ψύξας ἀποκόγχισον τὸ ἔλαιον, εἶτα ἄλλο ἐπιδούς ὕδωρ συνανάζεσον αὐτῷ, καὶ τὰ λοιπὰ ποιήσας καθὼς ὑποδέδεικται ἀπόθου. σκευάζεται δὲ τοῦτο μάλιστα ἐν Σικυωνίᾳ, Σικυώνιον καλούμενον. δύναμιν δὲ ἔχει ποσῶς θερμαντικήν, ἁρμόζον",
+        "citation": "35.20"
+      },
+      {
+        "page": "35",
+        "line": "25",
+        "break_no": false,
+        "text": "ἐν πυρετοῖς καὶ τοῖς περὶ νεῦρα πάθεσι. χρῶνται δὲ αὐτῷ καὶ αἱ γυναῖκες ἐπὶ τῷ στιλβώθρῳ.",
+        "citation": "35.25"
+      }
+    ],
+    "edition_key": "wellmann"
+  },
+  "notes": [
+    "Raw lines 1590-1633 are book 1 chapter 25 in this witness, although the prompt referred to chapter 35.",
+    "The perfume proemium is taken from the later transition at chapter 42 section 2 (raw lines 2306-2342), not from the chapter 25 κῦφι entry.",
+    "The ἰασμέλαιον entry is preserved only in the apparatus as an addition from another recension."
+  ],
+  "alignment_status": "pending",
+  "alignment_confidence": "pending",
+  "alignment_evidence": null,
+  "review_status": "reviewed_structured_authority",
+  "review_provenance": {
+    "authority_source": "reports/entity_review/structured/dioscorides.json",
+    "authority_recipe_id": "dioscorides-1-30-5-sikyonion",
+    "authority_lemma": "σικυώνιον",
+    "model": "gpt-5.4",
+    "reasoning_effort": "high",
+    "dataset_key": "dioscorides_book1_perfumes_resins",
+    "entity_model_version": "1.2",
+    "authority_version": "2026-04-13-qty-alt-v1",
+    "prompt_version": "qty-alt-pass-v1",
+    "build_version": "2026-05-18T15:51:35Z"
+  },
+  "schema_version": "1.2",
+  "build_metadata": {
+    "builder": "scripts/recipes/build_recipe_entities.py",
+    "built_at": "2026-05-18T15:51:35Z",
+    "source_structured_authority": "reports/entity_review/structured/dioscorides.json",
+    "authority_model": "gpt-5.4",
+    "authority_reasoning_effort": "high",
+    "dataset_key": "dioscorides_book1_perfumes_resins",
+    "entity_model_version": "1.2",
+    "authority_version": "2026-04-13-qty-alt-v1",
+    "prompt_version": "qty-alt-pass-v1",
+    "build_version": "2026-05-18T15:51:35Z"
+  },
+  "recipe_text_excerpt": "ἔνεστι δὲ καὶ Σικυώνιον διὰ τοῦ προειρημένου οὕτως 5 σκευάζειν· εἰς λέβητα κεκασσιτερωμένον πλατύστομον ἐγχέας νέου ἐλαίου ὠμοτριβοῦς καὶ λευκοῦ",
+  "preparation": {
+    "preparation_id": "dioscorides-1-30-5-sikyonion:preparation:sikyonion",
+    "preparation_urn": "urn:aos:recipe-preparation:dioscorides-1-30-5-sikyonion:preparation:sikyonion",
+    "source_span": "Σικυώνιον",
+    "surface_form": "Σικυώνιον",
+    "normalized_label": "σικυώνιον",
+    "qualifiers": [],
+    "regimen_notes": [],
+    "certainty": "certain",
+    "notes": [],
+    "host_locator": {
+      "book": "1",
+      "chapter": "30",
+      "section": "5",
+      "citation": {
+        "start": "35.15",
+        "end": "35.25"
+      }
+    }
+  },
+  "ingredients": [
+    {
+      "ingredient_id": "dioscorides-1-30-5-sikyonion:ingredient:elaion-omotribon-leykon-1",
+      "ingredient_urn": "urn:aos:recipe-ingredient:dioscorides-1-30-5-sikyonion:ingredient:elaion-omotribon-leykon-1",
+      "source_span": "νέου ἐλαίου ὠμοτριβοῦς καὶ λευκοῦ",
+      "surface_form": "νέου ἐλαίου ὠμοτριβοῦς καὶ λευκοῦ",
+      "base_label": "ἐλαίου",
+      "normalized_label": "ἔλαιον ὠμότριβον λευκόν",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [
+        "dioscorides-1-30-5-sikyonion:process:egcheein-1",
+        "dioscorides-1-30-5-sikyonion:process:apokogchizein-7"
+      ],
+      "quantities": [
+        {
+          "source_span": "χοέα ἕνα",
+          "raw_number": "ἕνα",
+          "normalized_number": 1,
+          "raw_unit": "χοέα",
+          "normalized_unit": "chous",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "qualifiers": [
+        {
+          "qualifier_type": "other",
+          "source_span": "νέου",
+          "normalized_value": "νέον",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "30",
+        "section": "5",
+        "citation": {
+          "start": "35.15",
+          "end": "35.25"
+        }
+      }
+    },
+    {
+      "ingredient_id": "dioscorides-1-30-5-sikyonion:ingredient:ydor-2",
+      "ingredient_urn": "urn:aos:recipe-ingredient:dioscorides-1-30-5-sikyonion:ingredient:ydor-2",
+      "source_span": "ὕδατος",
+      "surface_form": "ὕδατος",
+      "base_label": "ὕδατος",
+      "normalized_label": "ὕδωρ",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [
+        "dioscorides-1-30-5-sikyonion:process:egcheein-1"
+      ],
+      "quantities": [
+        {
+          "source_span": "ἡμίχουν",
+          "raw_number": null,
+          "normalized_number": 0.5,
+          "raw_unit": "ἡμίχουν",
+          "normalized_unit": "chous",
+          "certainty": "certain",
+          "notes": [
+            "Compound measure expressed as ἡμίχουν."
+          ]
+        }
+      ],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "30",
+        "section": "5",
+        "citation": {
+          "start": "35.15",
+          "end": "35.25"
+        }
+      }
+    },
+    {
+      "ingredient_id": "dioscorides-1-30-5-sikyonion:ingredient:ydor-3",
+      "ingredient_urn": "urn:aos:recipe-ingredient:dioscorides-1-30-5-sikyonion:ingredient:ydor-3",
+      "source_span": "ὕδωρ",
+      "surface_form": "ὕδωρ",
+      "base_label": "ὕδωρ",
+      "normalized_label": "ὕδωρ",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [
+        "dioscorides-1-30-5-sikyonion:process:epididonai-8",
+        "dioscorides-1-30-5-sikyonion:process:synanazein-9"
+      ],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "other",
+          "source_span": "ἄλλο",
+          "normalized_value": "ἄλλο",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "30",
+        "section": "5",
+        "citation": {
+          "start": "35.15",
+          "end": "35.25"
+        }
+      }
+    }
+  ],
+  "processes": [
+    {
+      "process_id": "dioscorides-1-30-5-sikyonion:process:egcheein-1",
+      "process_urn": "urn:aos:recipe-process:dioscorides-1-30-5-sikyonion:process:egcheein-1",
+      "source_span": "ἐγχέας",
+      "surface_form": "ἐγχέας",
+      "normalized_label": "ἐγχέειν",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "location",
+          "source_span": "εἰς λέβητα κεκασσιτερωμένον πλατύστομον",
+          "normalized_value": "εἰς λέβητα κεκασσιτερωμένον πλατύστομον",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "30",
+        "section": "5",
+        "citation": {
+          "start": "35.15",
+          "end": "35.25"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-1-30-5-sikyonion:process:epsein-2",
+      "process_urn": "urn:aos:recipe-process:dioscorides-1-30-5-sikyonion:process:epsein-2",
+      "source_span": "ἕψε",
+      "surface_form": "ἕψε",
+      "normalized_label": "ἕψειν",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "temperature",
+          "source_span": "κούφῳ πυρὶ",
+          "normalized_value": "κούφῳ πυρὶ",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "30",
+        "section": "5",
+        "citation": {
+          "start": "35.15",
+          "end": "35.25"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-1-30-5-sikyonion:process:kinein-3",
+      "process_urn": "urn:aos:recipe-process:dioscorides-1-30-5-sikyonion:process:kinein-3",
+      "source_span": "κινῶν",
+      "surface_form": "κινῶν",
+      "normalized_label": "κινεῖν",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "manner",
+          "source_span": "πραέως",
+          "normalized_value": "πραέως",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "30",
+        "section": "5",
+        "citation": {
+          "start": "35.15",
+          "end": "35.25"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-1-30-5-sikyonion:process:anazein-4",
+      "process_urn": "urn:aos:recipe-process:dioscorides-1-30-5-sikyonion:process:anazein-4",
+      "source_span": "ἀναζέσῃ",
+      "surface_form": "ἀναζέσῃ",
+      "normalized_label": "ἀναζεῖν",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [
+        {
+          "source_span": "δίς",
+          "raw_number": "δίς",
+          "normalized_number": 2,
+          "raw_unit": null,
+          "normalized_unit": null,
+          "certainty": "certain",
+          "notes": [
+            "Repetition count for the boiling-up event."
+          ]
+        }
+      ],
+      "qualifiers": [],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "30",
+        "section": "5",
+        "citation": {
+          "start": "35.15",
+          "end": "35.25"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-1-30-5-sikyonion:process:ypospan-5",
+      "process_urn": "urn:aos:recipe-process:dioscorides-1-30-5-sikyonion:process:ypospan-5",
+      "source_span": "ὑπόσπασον",
+      "surface_form": "ὑπόσπασον",
+      "normalized_label": "ὑποσπᾶν",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "30",
+        "section": "5",
+        "citation": {
+          "start": "35.15",
+          "end": "35.25"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-1-30-5-sikyonion:process:psychein-6",
+      "process_urn": "urn:aos:recipe-process:dioscorides-1-30-5-sikyonion:process:psychein-6",
+      "source_span": "ψύξας",
+      "surface_form": "ψύξας",
+      "normalized_label": "ψύχειν",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "30",
+        "section": "5",
+        "citation": {
+          "start": "35.15",
+          "end": "35.25"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-1-30-5-sikyonion:process:apokogchizein-7",
+      "process_urn": "urn:aos:recipe-process:dioscorides-1-30-5-sikyonion:process:apokogchizein-7",
+      "source_span": "ἀποκόγχισον",
+      "surface_form": "ἀποκόγχισον",
+      "normalized_label": "ἀποκογχίζειν",
+      "target_type": "ingredient",
+      "target_ids": [
+        "dioscorides-1-30-5-sikyonion:ingredient:elaion-omotribon-leykon-1"
+      ],
+      "quantities": [],
+      "qualifiers": [],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "30",
+        "section": "5",
+        "citation": {
+          "start": "35.15",
+          "end": "35.25"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-1-30-5-sikyonion:process:epididonai-8",
+      "process_urn": "urn:aos:recipe-process:dioscorides-1-30-5-sikyonion:process:epididonai-8",
+      "source_span": "ἐπιδούς",
+      "surface_form": "ἐπιδούς",
+      "normalized_label": "ἐπιδιδόναι",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "30",
+        "section": "5",
+        "citation": {
+          "start": "35.15",
+          "end": "35.25"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-1-30-5-sikyonion:process:synanazein-9",
+      "process_urn": "urn:aos:recipe-process:dioscorides-1-30-5-sikyonion:process:synanazein-9",
+      "source_span": "συνανάζεσον",
+      "surface_form": "συνανάζεσον",
+      "normalized_label": "συναναζεῖν",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "30",
+        "section": "5",
+        "citation": {
+          "start": "35.15",
+          "end": "35.25"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-1-30-5-sikyonion:process:poiein-10",
+      "process_urn": "urn:aos:recipe-process:dioscorides-1-30-5-sikyonion:process:poiein-10",
+      "source_span": "ποιήσας",
+      "surface_form": "ποιήσας",
+      "normalized_label": "ποιεῖν",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "manner",
+          "source_span": "καθὼς ὑποδέδεικται",
+          "normalized_value": "καθὼς ὑποδέδεικται",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "certainty": "uncertain",
+      "notes": [
+        "The remaining steps are only referred to an earlier demonstration and are not restated here."
+      ],
+      "host_locator": {
+        "book": "1",
+        "chapter": "30",
+        "section": "5",
+        "citation": {
+          "start": "35.15",
+          "end": "35.25"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-1-30-5-sikyonion:process:apotithesthai-11",
+      "process_urn": "urn:aos:recipe-process:dioscorides-1-30-5-sikyonion:process:apotithesthai-11",
+      "source_span": "ἀπόθου",
+      "surface_form": "ἀπόθου",
+      "normalized_label": "ἀποτίθεσθαι",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "30",
+        "section": "5",
+        "citation": {
+          "start": "35.15",
+          "end": "35.25"
+        }
+      }
+    }
+  ],
+  "materials": [
+    {
+      "material_id": "dioscorides-1-30-5-sikyonion:material:lebes-1",
+      "material_urn": "urn:aos:recipe-material:dioscorides-1-30-5-sikyonion:material:lebes-1",
+      "source_span": "λέβητα κεκασσιτερωμένον πλατύστομον",
+      "surface_form": "λέβητα κεκασσιτερωμένον πλατύστομον",
+      "normalized_label": "λέβης",
+      "role": "apparatus",
+      "certainty": "certain",
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "other",
+          "source_span": "κεκασσιτερωμένον",
+          "normalized_value": "κεκασσιτερωμένον",
+          "certainty": "certain",
+          "notes": []
+        },
+        {
+          "qualifier_type": "other",
+          "source_span": "πλατύστομον",
+          "normalized_value": "πλατύστομον",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "30",
+        "section": "5",
+        "citation": {
+          "start": "35.15",
+          "end": "35.25"
+        }
+      }
+    },
+    {
+      "material_id": "dioscorides-1-30-5-sikyonion:material:pyr-2",
+      "material_urn": "urn:aos:recipe-material:dioscorides-1-30-5-sikyonion:material:pyr-2",
+      "source_span": "τὸ πῦρ",
+      "surface_form": "τὸ πῦρ",
+      "normalized_label": "πῦρ",
+      "role": "fuel",
+      "certainty": "certain",
+      "quantities": [],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "30",
+        "section": "5",
+        "citation": {
+          "start": "35.15",
+          "end": "35.25"
+        }
+      }
+    }
+  ],
+  "people": [
+    {
+      "person_id": "dioscorides-1-30-5-sikyonion:person:gynaikes-1",
+      "person_urn": "urn:aos:recipe-person:dioscorides-1-30-5-sikyonion:person:gynaikes-1",
+      "source_span": "αἱ γυναῖκες",
+      "surface_form": "αἱ γυναῖκες",
+      "normalized_label": "γυναῖκες",
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "30",
+        "section": "5",
+        "citation": {
+          "start": "35.15",
+          "end": "35.25"
+        }
+      }
+    }
+  ],
+  "places": [
+    {
+      "place_id": "dioscorides-1-30-5-sikyonion:place:sikyonia-1",
+      "place_urn": "urn:aos:recipe-place:dioscorides-1-30-5-sikyonion:place:sikyonia-1",
+      "source_span": "Σικυωνίᾳ",
+      "surface_form": "Σικυωνίᾳ",
+      "normalized_label": "Σικυωνία",
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "30",
+        "section": "5",
+        "citation": {
+          "start": "35.15",
+          "end": "35.25"
+        }
+      }
+    }
+  ],
+  "uses": [
+    {
+      "use_id": "dioscorides-1-30-5-sikyonion:use:en-pyretois-1",
+      "use_urn": "urn:aos:recipe-use:dioscorides-1-30-5-sikyonion:use:en-pyretois-1",
+      "category": "medical",
+      "source_span": "ἐν πυρετοῖς",
+      "snippet": "ἁρμόζον ἐν πυρετοῖς",
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "30",
+        "section": "5",
+        "citation": {
+          "start": "35.15",
+          "end": "35.25"
+        }
+      }
+    },
+    {
+      "use_id": "dioscorides-1-30-5-sikyonion:use:tois-peri-neyra-pathesi-2",
+      "use_urn": "urn:aos:recipe-use:dioscorides-1-30-5-sikyonion:use:tois-peri-neyra-pathesi-2",
+      "category": "medical",
+      "source_span": "τοῖς περὶ νεῦρα πάθεσι",
+      "snippet": "ἁρμόζον ἐν πυρετοῖς καὶ τοῖς περὶ νεῦρα πάθεσι",
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "30",
+        "section": "5",
+        "citation": {
+          "start": "35.15",
+          "end": "35.25"
+        }
+      }
+    },
+    {
+      "use_id": "dioscorides-1-30-5-sikyonion:use:epi-to-stilbothro-3",
+      "use_urn": "urn:aos:recipe-use:dioscorides-1-30-5-sikyonion:use:epi-to-stilbothro-3",
+      "category": "cosmetic",
+      "source_span": "ἐπὶ τῷ στιλβώθρῳ",
+      "snippet": "χρῶνται δὲ αὐτῷ καὶ αἱ γυναῖκες ἐπὶ τῷ στιλβώθρῳ.",
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "30",
+        "section": "5",
+        "citation": {
+          "start": "35.15",
+          "end": "35.25"
+        }
+      }
+    }
+  ],
+  "preparation_names": [],
+  "other_preparations_mentioned": [],
+  "works_mentioned": [],
+  "entities": [
+    {
+      "entity_urn": "urn:aos:recipe-preparation:dioscorides-1-30-5-sikyonion:preparation:sikyonion",
+      "entity_type": "label",
+      "surface_form": "Σικυώνιον",
+      "normalized_label": "σικυώνιον"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:dioscorides-1-30-5-sikyonion:ingredient:elaion-omotribon-leykon-1",
+      "entity_type": "ingredient",
+      "surface_form": "νέου ἐλαίου ὠμοτριβοῦς καὶ λευκοῦ",
+      "normalized_label": "ἔλαιον ὠμότριβον λευκόν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:dioscorides-1-30-5-sikyonion:ingredient:ydor-2",
+      "entity_type": "ingredient",
+      "surface_form": "ὕδατος",
+      "normalized_label": "ὕδωρ"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:dioscorides-1-30-5-sikyonion:ingredient:ydor-3",
+      "entity_type": "ingredient",
+      "surface_form": "ὕδωρ",
+      "normalized_label": "ὕδωρ"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-1-30-5-sikyonion:process:egcheein-1",
+      "entity_type": "process",
+      "surface_form": "ἐγχέας",
+      "normalized_label": "ἐγχέειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-1-30-5-sikyonion:process:epsein-2",
+      "entity_type": "process",
+      "surface_form": "ἕψε",
+      "normalized_label": "ἕψειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-1-30-5-sikyonion:process:kinein-3",
+      "entity_type": "process",
+      "surface_form": "κινῶν",
+      "normalized_label": "κινεῖν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-1-30-5-sikyonion:process:anazein-4",
+      "entity_type": "process",
+      "surface_form": "ἀναζέσῃ",
+      "normalized_label": "ἀναζεῖν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-1-30-5-sikyonion:process:ypospan-5",
+      "entity_type": "process",
+      "surface_form": "ὑπόσπασον",
+      "normalized_label": "ὑποσπᾶν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-1-30-5-sikyonion:process:psychein-6",
+      "entity_type": "process",
+      "surface_form": "ψύξας",
+      "normalized_label": "ψύχειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-1-30-5-sikyonion:process:apokogchizein-7",
+      "entity_type": "process",
+      "surface_form": "ἀποκόγχισον",
+      "normalized_label": "ἀποκογχίζειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-1-30-5-sikyonion:process:epididonai-8",
+      "entity_type": "process",
+      "surface_form": "ἐπιδούς",
+      "normalized_label": "ἐπιδιδόναι"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-1-30-5-sikyonion:process:synanazein-9",
+      "entity_type": "process",
+      "surface_form": "συνανάζεσον",
+      "normalized_label": "συναναζεῖν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-1-30-5-sikyonion:process:poiein-10",
+      "entity_type": "process",
+      "surface_form": "ποιήσας",
+      "normalized_label": "ποιεῖν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-1-30-5-sikyonion:process:apotithesthai-11",
+      "entity_type": "process",
+      "surface_form": "ἀπόθου",
+      "normalized_label": "ἀποτίθεσθαι"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-material:dioscorides-1-30-5-sikyonion:material:lebes-1",
+      "entity_type": "material",
+      "surface_form": "λέβητα κεκασσιτερωμένον πλατύστομον",
+      "normalized_label": "λέβης"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-material:dioscorides-1-30-5-sikyonion:material:pyr-2",
+      "entity_type": "material",
+      "surface_form": "τὸ πῦρ",
+      "normalized_label": "πῦρ"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-person:dioscorides-1-30-5-sikyonion:person:gynaikes-1",
+      "entity_type": "person",
+      "surface_form": "αἱ γυναῖκες",
+      "normalized_label": "γυναῖκες"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-place:dioscorides-1-30-5-sikyonion:place:sikyonia-1",
+      "entity_type": "place",
+      "surface_form": "Σικυωνίᾳ",
+      "normalized_label": "Σικυωνία"
+    }
+  ],
+  "canonical_file": "data/recipes/dioscorides-1-30-5-sikyonion.json",
+  "source_entry": {
+    "source_id": "dioscorides-1-30-5-sikyonion",
+    "derived_recipe_id": "dioscorides-1-30-5-sikyonion",
+    "entry_kind": "recipe",
+    "source_kind": "main_text",
+    "source_lines": {
+      "start": 1855,
+      "end": 3167
+    },
+    "section_markers": []
+  },
+  "entity_groups": {
+    "labels": [
+      {
+        "entity_urn": "urn:aos:recipe-preparation:dioscorides-1-30-5-sikyonion:preparation:sikyonion",
+        "surface_form": "Σικυώνιον",
+        "normalized_label": "σικυώνιον"
+      }
+    ],
+    "ingredients": [
+      {
+        "entity_urn": "urn:aos:recipe-ingredient:dioscorides-1-30-5-sikyonion:ingredient:elaion-omotribon-leykon-1",
+        "surface_form": "νέου ἐλαίου ὠμοτριβοῦς καὶ λευκοῦ",
+        "normalized_label": "ἔλαιον ὠμότριβον λευκόν",
+        "quantity_display": "χοέα ἕνα"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-ingredient:dioscorides-1-30-5-sikyonion:ingredient:ydor-2",
+        "surface_form": "ὕδατος",
+        "normalized_label": "ὕδωρ",
+        "quantity_display": "ἡμίχουν"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-ingredient:dioscorides-1-30-5-sikyonion:ingredient:ydor-3",
+        "surface_form": "ὕδωρ",
+        "normalized_label": "ὕδωρ",
+        "quantity_display": ""
+      }
+    ],
+    "processes": [
+      {
+        "entity_urn": "urn:aos:recipe-process:dioscorides-1-30-5-sikyonion:process:egcheein-1",
+        "surface_form": "ἐγχέας",
+        "normalized_label": "ἐγχέειν"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-process:dioscorides-1-30-5-sikyonion:process:epsein-2",
+        "surface_form": "ἕψε",
+        "normalized_label": "ἕψειν"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-process:dioscorides-1-30-5-sikyonion:process:kinein-3",
+        "surface_form": "κινῶν",
+        "normalized_label": "κινεῖν"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-process:dioscorides-1-30-5-sikyonion:process:anazein-4",
+        "surface_form": "ἀναζέσῃ",
+        "normalized_label": "ἀναζεῖν"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-process:dioscorides-1-30-5-sikyonion:process:ypospan-5",
+        "surface_form": "ὑπόσπασον",
+        "normalized_label": "ὑποσπᾶν"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-process:dioscorides-1-30-5-sikyonion:process:psychein-6",
+        "surface_form": "ψύξας",
+        "normalized_label": "ψύχειν"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-process:dioscorides-1-30-5-sikyonion:process:apokogchizein-7",
+        "surface_form": "ἀποκόγχισον",
+        "normalized_label": "ἀποκογχίζειν"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-process:dioscorides-1-30-5-sikyonion:process:epididonai-8",
+        "surface_form": "ἐπιδούς",
+        "normalized_label": "ἐπιδιδόναι"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-process:dioscorides-1-30-5-sikyonion:process:synanazein-9",
+        "surface_form": "συνανάζεσον",
+        "normalized_label": "συναναζεῖν"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-process:dioscorides-1-30-5-sikyonion:process:poiein-10",
+        "surface_form": "ποιήσας",
+        "normalized_label": "ποιεῖν"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-process:dioscorides-1-30-5-sikyonion:process:apotithesthai-11",
+        "surface_form": "ἀπόθου",
+        "normalized_label": "ἀποτίθεσθαι"
+      }
+    ],
+    "tools": [
+      {
+        "entity_urn": "urn:aos:recipe-material:dioscorides-1-30-5-sikyonion:material:lebes-1",
+        "surface_form": "λέβητα κεκασσιτερωμένον πλατύστομον",
+        "normalized_label": "λέβης"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-material:dioscorides-1-30-5-sikyonion:material:pyr-2",
+        "surface_form": "τὸ πῦρ",
+        "normalized_label": "πῦρ"
+      }
+    ],
+    "other_preparations_mentioned": [],
+    "people": [
+      {
+        "entity_urn": "urn:aos:recipe-person:dioscorides-1-30-5-sikyonion:person:gynaikes-1",
+        "surface_form": "αἱ γυναῖκες",
+        "normalized_label": "γυναῖκες"
+      }
+    ],
+    "places": [
+      {
+        "entity_urn": "urn:aos:recipe-place:dioscorides-1-30-5-sikyonion:place:sikyonia-1",
+        "surface_form": "Σικυωνίᾳ",
+        "normalized_label": "Σικυωνία"
+      }
+    ],
+    "works_mentioned": [],
+    "preparation_names": []
+  }
+}

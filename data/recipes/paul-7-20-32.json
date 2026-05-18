@@ -1,0 +1,665 @@
+{
+  "dataset_key": "paul_book7_perfumes",
+  "source_json": "experiments/paul-book7-ch20-perfumes/data/paul_book7_ch20_perfumes.json",
+  "host_raw_file": "tei/raw/tlg0715001.xml",
+  "work_slug": "paul.b7.perfumes",
+  "recipe_id": "paul-7-20-32",
+  "recipe_urn": "urn:aos:recipe:paul-7-20-32",
+  "record_urn": "urn:aos:recipe-record:paul-7-20-32",
+  "author": "Paul of Aegina",
+  "work": "Medical Epitome",
+  "book": "7",
+  "chapter": "20",
+  "section": "32",
+  "chapter_name": "Ἐλαίων καὶ μύρων σκευασίαι διάφοροι.",
+  "lemma": "Μαρκιάτον",
+  "text": "Μαστίχης, κηροῦ, στύρακος ἀνὰ 𐆄 γ, οἰσύπου φαρμάκου 𐆄 𐅵ʹ, ὀποβαλσάμου 𐆄 α 𐅵ʹ, ναρδίνου, γλευκίνου, ἐλαίου ὀμφακίνου ἀνὰ 𐆄 γ, μυελοῦ ἐλαφείου 𐆄 α 𐅵ʹ, τερεβινθίνης 𐆄 α.",
+  "original_text": null,
+  "text_source": null,
+  "emendations": [],
+  "emendation_count": 0,
+  "source_kind": null,
+  "entry_kind": "recipe",
+  "citation": {
+    "pages": [
+      "2.389"
+    ],
+    "start": {
+      "page": "2.389",
+      "line": "3",
+      "xml_id": "heib-2-389-3"
+    },
+    "end": {
+      "page": "2.389",
+      "line": "6",
+      "xml_id": "heib-2-389-6"
+    },
+    "citation": {
+      "start": "2.389.3",
+      "end": "2.389.6"
+    },
+    "page_spans": [
+      {
+        "page": "2.389",
+        "start_line": "3",
+        "end_line": "6"
+      }
+    ],
+    "lines": [
+      {
+        "page": "2.389",
+        "line": "3",
+        "xml_id": "heib-2-389-3",
+        "break_no": false,
+        "text": "Μαρκιάτον.",
+        "citation": "2.389.3"
+      },
+      {
+        "page": "2.389",
+        "line": "4",
+        "xml_id": "heib-2-389-4",
+        "break_no": false,
+        "text": "Μαστίχης, κηροῦ, στύρακος ἀνὰ 𐆄 γ, οἰσύπου φαρμάκου 𐆄 𐅵ʹ, ὀπο-",
+        "citation": "2.389.4"
+      },
+      {
+        "page": "2.389",
+        "line": "5",
+        "xml_id": "heib-2-389-5",
+        "break_no": true,
+        "text": "βαλσάμου 𐆄 α 𐅵ʹ, ναρδίνου, γλευκίνου, ἐλαίου ὀμφακίνου ἀνὰ 𐆄 γ, μυε-",
+        "citation": "2.389.5"
+      },
+      {
+        "page": "2.389",
+        "line": "6",
+        "xml_id": "heib-2-389-6",
+        "break_no": true,
+        "text": "λοῦ ἐλαφείου 𐆄 α 𐅵ʹ, τερεβινθίνης 𐆄 α.",
+        "citation": "2.389.6"
+      }
+    ],
+    "edition_key": "heiberg"
+  },
+  "notes": [
+    "Distributive ἀνὰ assigns «𐆄 γ» separately to each of «Μαστίχης», «κηροῦ», and «στύρακος», and again to each of «ναρδίνου», «γλευκίνου», and «ἐλαίου ὀμφακίνου»."
+  ],
+  "alignment_status": "pending",
+  "alignment_confidence": "pending",
+  "alignment_evidence": null,
+  "review_status": "reviewed_structured_authority",
+  "review_provenance": {
+    "authority_source": "reports/entity_review/structured/paul.json",
+    "authority_recipe_id": "paul-7-20-32",
+    "authority_lemma": "Μαρκιάτον",
+    "model": "gpt-5.4",
+    "reasoning_effort": "high",
+    "dataset_key": "paul_book7_perfumes",
+    "entity_model_version": "1.2",
+    "authority_version": "2026-04-13-qty-alt-v1",
+    "prompt_version": "qty-alt-pass-v1",
+    "build_version": "2026-05-18T15:51:35Z"
+  },
+  "schema_version": "1.2",
+  "build_metadata": {
+    "builder": "scripts/recipes/build_recipe_entities.py",
+    "built_at": "2026-05-18T15:51:35Z",
+    "source_structured_authority": "reports/entity_review/structured/paul.json",
+    "authority_model": "gpt-5.4",
+    "authority_reasoning_effort": "high",
+    "dataset_key": "paul_book7_perfumes",
+    "entity_model_version": "1.2",
+    "authority_version": "2026-04-13-qty-alt-v1",
+    "prompt_version": "qty-alt-pass-v1",
+    "build_version": "2026-05-18T15:51:35Z"
+  },
+  "recipe_text_excerpt": "Μαστίχης, κηροῦ, στύρακος ἀνὰ 𐆄 γ, οἰσύπου φαρμάκου 𐆄 𐅵ʹ, ὀποβαλσάμου 𐆄 α 𐅵ʹ, ναρδίνου, γλευκίνου, ἐλαίου ὀμφακίνου ἀνὰ 𐆄",
+  "preparation": {
+    "preparation_id": "paul-7-20-32:preparation:markiaton",
+    "preparation_urn": "urn:aos:recipe-preparation:paul-7-20-32:preparation:markiaton",
+    "source_span": "Μαρκιάτον",
+    "surface_form": "Μαρκιάτον",
+    "normalized_label": "Μαρκιάτον",
+    "qualifiers": [],
+    "regimen_notes": [],
+    "certainty": "certain",
+    "notes": [],
+    "host_locator": {
+      "book": "7",
+      "chapter": "20",
+      "section": "32",
+      "citation": {
+        "start": "2.389.3",
+        "end": "2.389.6"
+      }
+    }
+  },
+  "ingredients": [
+    {
+      "ingredient_id": "paul-7-20-32:ingredient:mastiche-1",
+      "ingredient_urn": "urn:aos:recipe-ingredient:paul-7-20-32:ingredient:mastiche-1",
+      "source_span": "Μαστίχης",
+      "surface_form": "Μαστίχης",
+      "base_label": "μαστίχη",
+      "normalized_label": "μαστίχη",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [],
+      "quantities": [
+        {
+          "source_span": "𐆄 γ",
+          "raw_number": "γ",
+          "normalized_number": 3,
+          "raw_unit": "𐆄",
+          "normalized_unit": "uncia",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "7",
+        "chapter": "20",
+        "section": "32",
+        "citation": {
+          "start": "2.389.3",
+          "end": "2.389.6"
+        }
+      }
+    },
+    {
+      "ingredient_id": "paul-7-20-32:ingredient:keros-2",
+      "ingredient_urn": "urn:aos:recipe-ingredient:paul-7-20-32:ingredient:keros-2",
+      "source_span": "κηροῦ",
+      "surface_form": "κηροῦ",
+      "base_label": "κηρός",
+      "normalized_label": "κηρός",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [],
+      "quantities": [
+        {
+          "source_span": "𐆄 γ",
+          "raw_number": "γ",
+          "normalized_number": 3,
+          "raw_unit": "𐆄",
+          "normalized_unit": "uncia",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "7",
+        "chapter": "20",
+        "section": "32",
+        "citation": {
+          "start": "2.389.3",
+          "end": "2.389.6"
+        }
+      }
+    },
+    {
+      "ingredient_id": "paul-7-20-32:ingredient:styrax-3",
+      "ingredient_urn": "urn:aos:recipe-ingredient:paul-7-20-32:ingredient:styrax-3",
+      "source_span": "στύρακος",
+      "surface_form": "στύρακος",
+      "base_label": "στύραξ",
+      "normalized_label": "στύραξ",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [],
+      "quantities": [
+        {
+          "source_span": "𐆄 γ",
+          "raw_number": "γ",
+          "normalized_number": 3,
+          "raw_unit": "𐆄",
+          "normalized_unit": "uncia",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "7",
+        "chapter": "20",
+        "section": "32",
+        "citation": {
+          "start": "2.389.3",
+          "end": "2.389.6"
+        }
+      }
+    },
+    {
+      "ingredient_id": "paul-7-20-32:ingredient:pharmakon-oisypoy-4",
+      "ingredient_urn": "urn:aos:recipe-ingredient:paul-7-20-32:ingredient:pharmakon-oisypoy-4",
+      "source_span": "οἰσύπου φαρμάκου",
+      "surface_form": "οἰσύπου φαρμάκου",
+      "base_label": "φάρμακον",
+      "normalized_label": "φάρμακον οἰσύπου",
+      "alternative_set_id": null,
+      "certainty": "uncertain",
+      "linked_process_ids": [],
+      "quantities": [
+        {
+          "source_span": "𐆄 𐅵ʹ",
+          "raw_number": "𐅵ʹ",
+          "normalized_number": 0.5,
+          "raw_unit": "𐆄",
+          "normalized_unit": "uncia",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "qualifiers": [],
+      "notes": [
+        "Ingredient normalized conservatively from the transmitted phrase."
+      ],
+      "host_locator": {
+        "book": "7",
+        "chapter": "20",
+        "section": "32",
+        "citation": {
+          "start": "2.389.3",
+          "end": "2.389.6"
+        }
+      }
+    },
+    {
+      "ingredient_id": "paul-7-20-32:ingredient:opobalsamon-5",
+      "ingredient_urn": "urn:aos:recipe-ingredient:paul-7-20-32:ingredient:opobalsamon-5",
+      "source_span": "ὀποβαλσάμου",
+      "surface_form": "ὀποβαλσάμου",
+      "base_label": "ὀποβάλσαμον",
+      "normalized_label": "ὀποβάλσαμον",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [],
+      "quantities": [
+        {
+          "source_span": "𐆄 α 𐅵ʹ",
+          "raw_number": "α 𐅵ʹ",
+          "normalized_number": 1.5,
+          "raw_unit": "𐆄",
+          "normalized_unit": "uncia",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "7",
+        "chapter": "20",
+        "section": "32",
+        "citation": {
+          "start": "2.389.3",
+          "end": "2.389.6"
+        }
+      }
+    },
+    {
+      "ingredient_id": "paul-7-20-32:ingredient:nardinon-6",
+      "ingredient_urn": "urn:aos:recipe-ingredient:paul-7-20-32:ingredient:nardinon-6",
+      "source_span": "ναρδίνου",
+      "surface_form": "ναρδίνου",
+      "base_label": "ναρδῖνον",
+      "normalized_label": "ναρδῖνον",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [],
+      "quantities": [
+        {
+          "source_span": "𐆄 γ",
+          "raw_number": "γ",
+          "normalized_number": 3,
+          "raw_unit": "𐆄",
+          "normalized_unit": "uncia",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "7",
+        "chapter": "20",
+        "section": "32",
+        "citation": {
+          "start": "2.389.3",
+          "end": "2.389.6"
+        }
+      }
+    },
+    {
+      "ingredient_id": "paul-7-20-32:ingredient:gleykinon-7",
+      "ingredient_urn": "urn:aos:recipe-ingredient:paul-7-20-32:ingredient:gleykinon-7",
+      "source_span": "γλευκίνου",
+      "surface_form": "γλευκίνου",
+      "base_label": "γλεύκινον",
+      "normalized_label": "γλεύκινον",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [],
+      "quantities": [
+        {
+          "source_span": "𐆄 γ",
+          "raw_number": "γ",
+          "normalized_number": 3,
+          "raw_unit": "𐆄",
+          "normalized_unit": "uncia",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "7",
+        "chapter": "20",
+        "section": "32",
+        "citation": {
+          "start": "2.389.3",
+          "end": "2.389.6"
+        }
+      }
+    },
+    {
+      "ingredient_id": "paul-7-20-32:ingredient:elaion-omphakinon-8",
+      "ingredient_urn": "urn:aos:recipe-ingredient:paul-7-20-32:ingredient:elaion-omphakinon-8",
+      "source_span": "ἐλαίου ὀμφακίνου",
+      "surface_form": "ἐλαίου ὀμφακίνου",
+      "base_label": "ἔλαιον",
+      "normalized_label": "ἔλαιον ὀμφάκινον",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [],
+      "quantities": [
+        {
+          "source_span": "𐆄 γ",
+          "raw_number": "γ",
+          "normalized_number": 3,
+          "raw_unit": "𐆄",
+          "normalized_unit": "uncia",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "7",
+        "chapter": "20",
+        "section": "32",
+        "citation": {
+          "start": "2.389.3",
+          "end": "2.389.6"
+        }
+      }
+    },
+    {
+      "ingredient_id": "paul-7-20-32:ingredient:myelos-elapheios-9",
+      "ingredient_urn": "urn:aos:recipe-ingredient:paul-7-20-32:ingredient:myelos-elapheios-9",
+      "source_span": "μυελοῦ ἐλαφείου",
+      "surface_form": "μυελοῦ ἐλαφείου",
+      "base_label": "μυελός",
+      "normalized_label": "μυελὸς ἐλάφειος",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [],
+      "quantities": [
+        {
+          "source_span": "𐆄 α 𐅵ʹ",
+          "raw_number": "α 𐅵ʹ",
+          "normalized_number": 1.5,
+          "raw_unit": "𐆄",
+          "normalized_unit": "uncia",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "7",
+        "chapter": "20",
+        "section": "32",
+        "citation": {
+          "start": "2.389.3",
+          "end": "2.389.6"
+        }
+      }
+    },
+    {
+      "ingredient_id": "paul-7-20-32:ingredient:terebinthine-10",
+      "ingredient_urn": "urn:aos:recipe-ingredient:paul-7-20-32:ingredient:terebinthine-10",
+      "source_span": "τερεβινθίνης",
+      "surface_form": "τερεβινθίνης",
+      "base_label": "τερεβινθίνη",
+      "normalized_label": "τερεβινθίνη",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [],
+      "quantities": [
+        {
+          "source_span": "𐆄 α",
+          "raw_number": "α",
+          "normalized_number": 1,
+          "raw_unit": "𐆄",
+          "normalized_unit": "uncia",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "7",
+        "chapter": "20",
+        "section": "32",
+        "citation": {
+          "start": "2.389.3",
+          "end": "2.389.6"
+        }
+      }
+    }
+  ],
+  "processes": [],
+  "materials": [],
+  "people": [],
+  "places": [],
+  "uses": [],
+  "preparation_names": [
+    {
+      "preparation_name_id": "paul-7-20-32:preparation_name:markiaton-1",
+      "preparation_name_urn": "urn:aos:recipe-preparation_name:paul-7-20-32:preparation_name:markiaton-1",
+      "source_span": "Μαρκιάτον",
+      "surface_form": "Μαρκιάτον",
+      "normalized_label": "Μαρκιάτον",
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "7",
+        "chapter": "20",
+        "section": "32",
+        "citation": {
+          "start": "2.389.3",
+          "end": "2.389.6"
+        }
+      }
+    }
+  ],
+  "other_preparations_mentioned": [],
+  "works_mentioned": [],
+  "entities": [
+    {
+      "entity_urn": "urn:aos:recipe-preparation:paul-7-20-32:preparation:markiaton",
+      "entity_type": "label",
+      "surface_form": "Μαρκιάτον",
+      "normalized_label": "Μαρκιάτον"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:paul-7-20-32:ingredient:mastiche-1",
+      "entity_type": "ingredient",
+      "surface_form": "Μαστίχης",
+      "normalized_label": "μαστίχη"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:paul-7-20-32:ingredient:keros-2",
+      "entity_type": "ingredient",
+      "surface_form": "κηροῦ",
+      "normalized_label": "κηρός"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:paul-7-20-32:ingredient:styrax-3",
+      "entity_type": "ingredient",
+      "surface_form": "στύρακος",
+      "normalized_label": "στύραξ"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:paul-7-20-32:ingredient:pharmakon-oisypoy-4",
+      "entity_type": "ingredient",
+      "surface_form": "οἰσύπου φαρμάκου",
+      "normalized_label": "φάρμακον οἰσύπου"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:paul-7-20-32:ingredient:opobalsamon-5",
+      "entity_type": "ingredient",
+      "surface_form": "ὀποβαλσάμου",
+      "normalized_label": "ὀποβάλσαμον"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:paul-7-20-32:ingredient:nardinon-6",
+      "entity_type": "ingredient",
+      "surface_form": "ναρδίνου",
+      "normalized_label": "ναρδῖνον"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:paul-7-20-32:ingredient:gleykinon-7",
+      "entity_type": "ingredient",
+      "surface_form": "γλευκίνου",
+      "normalized_label": "γλεύκινον"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:paul-7-20-32:ingredient:elaion-omphakinon-8",
+      "entity_type": "ingredient",
+      "surface_form": "ἐλαίου ὀμφακίνου",
+      "normalized_label": "ἔλαιον ὀμφάκινον"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:paul-7-20-32:ingredient:myelos-elapheios-9",
+      "entity_type": "ingredient",
+      "surface_form": "μυελοῦ ἐλαφείου",
+      "normalized_label": "μυελὸς ἐλάφειος"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:paul-7-20-32:ingredient:terebinthine-10",
+      "entity_type": "ingredient",
+      "surface_form": "τερεβινθίνης",
+      "normalized_label": "τερεβινθίνη"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-preparation_name:paul-7-20-32:preparation_name:markiaton-1",
+      "entity_type": "preparation_name",
+      "surface_form": "Μαρκιάτον",
+      "normalized_label": "Μαρκιάτον"
+    }
+  ],
+  "canonical_file": "data/recipes/paul-7-20-32.json",
+  "source_entry": {
+    "source_id": "paul-7-20-32",
+    "derived_recipe_id": "paul-7-20-32",
+    "entry_kind": null,
+    "source_kind": null,
+    "source_lines": null,
+    "section_markers": []
+  },
+  "entity_groups": {
+    "labels": [
+      {
+        "entity_urn": "urn:aos:recipe-preparation:paul-7-20-32:preparation:markiaton",
+        "surface_form": "Μαρκιάτον",
+        "normalized_label": "Μαρκιάτον"
+      }
+    ],
+    "ingredients": [
+      {
+        "entity_urn": "urn:aos:recipe-ingredient:paul-7-20-32:ingredient:mastiche-1",
+        "surface_form": "Μαστίχης",
+        "normalized_label": "μαστίχη",
+        "quantity_display": "𐆄 γ"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-ingredient:paul-7-20-32:ingredient:keros-2",
+        "surface_form": "κηροῦ",
+        "normalized_label": "κηρός",
+        "quantity_display": "𐆄 γ"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-ingredient:paul-7-20-32:ingredient:styrax-3",
+        "surface_form": "στύρακος",
+        "normalized_label": "στύραξ",
+        "quantity_display": "𐆄 γ"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-ingredient:paul-7-20-32:ingredient:pharmakon-oisypoy-4",
+        "surface_form": "οἰσύπου φαρμάκου",
+        "normalized_label": "φάρμακον οἰσύπου",
+        "quantity_display": "𐆄 𐅵ʹ"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-ingredient:paul-7-20-32:ingredient:opobalsamon-5",
+        "surface_form": "ὀποβαλσάμου",
+        "normalized_label": "ὀποβάλσαμον",
+        "quantity_display": "𐆄 α 𐅵ʹ"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-ingredient:paul-7-20-32:ingredient:nardinon-6",
+        "surface_form": "ναρδίνου",
+        "normalized_label": "ναρδῖνον",
+        "quantity_display": "𐆄 γ"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-ingredient:paul-7-20-32:ingredient:gleykinon-7",
+        "surface_form": "γλευκίνου",
+        "normalized_label": "γλεύκινον",
+        "quantity_display": "𐆄 γ"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-ingredient:paul-7-20-32:ingredient:elaion-omphakinon-8",
+        "surface_form": "ἐλαίου ὀμφακίνου",
+        "normalized_label": "ἔλαιον ὀμφάκινον",
+        "quantity_display": "𐆄 γ"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-ingredient:paul-7-20-32:ingredient:myelos-elapheios-9",
+        "surface_form": "μυελοῦ ἐλαφείου",
+        "normalized_label": "μυελὸς ἐλάφειος",
+        "quantity_display": "𐆄 α 𐅵ʹ"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-ingredient:paul-7-20-32:ingredient:terebinthine-10",
+        "surface_form": "τερεβινθίνης",
+        "normalized_label": "τερεβινθίνη",
+        "quantity_display": "𐆄 α"
+      }
+    ],
+    "processes": [],
+    "tools": [],
+    "other_preparations_mentioned": [],
+    "people": [],
+    "places": [],
+    "works_mentioned": [],
+    "preparation_names": [
+      {
+        "entity_urn": "urn:aos:recipe-preparation_name:paul-7-20-32:preparation_name:markiaton-1",
+        "surface_form": "Μαρκιάτον",
+        "normalized_label": "Μαρκιάτον"
+      }
+    ]
+  }
+}

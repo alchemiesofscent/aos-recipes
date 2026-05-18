@@ -1,0 +1,821 @@
+{
+  "dataset_key": "dioscorides_book1_perfumes_resins",
+  "source_json": "experiments/dioscorides-book1-perfumes-resins/data/dioscorides_book1_perfumes_resins.json",
+  "host_raw_file": "tei/raw/tlg0656.tlg001.1st1K-grc1.xml",
+  "work_slug": "diosc.b1.recipes",
+  "recipe_id": "dioscorides-1-32-kikinon",
+  "recipe_urn": "urn:aos:recipe:dioscorides-1-32-kikinon",
+  "record_urn": "urn:aos:recipe-record:dioscorides-1-32-kikinon",
+  "author": "Dioscorides",
+  "work": "De materia medica",
+  "book": "1",
+  "chapter": "32",
+  "section": "1",
+  "chapter_name": "κίκινον ἔλαιον",
+  "lemma": "κίκινον",
+  "text": "32 κίκινον ἔλαιον σκευάζεται τούτῳ τῷ τρόπῳ· λαβὼν ὡρίμων κροτώνων ὅσον ἂν δόξῃ καὶ ψύξας εἰς ἥλιον καταστρώσας θειλοπέδου τρόπον, ἕως ἂν ὁ περικείμενος φλοιὸς ἀπορραγεὶς ἐκπέσῃ, συναγαγὼν τὴν σάρκα ἔμβαλε εἰς ὅλμον καὶ κόψας ἐπιμελῶς εἰς λέβητα κεκασσιτερωμένον βάλε ὕδωρ ἔχοντα καὶ ἀνάβρασον ὑποκαίων. ὅταν δὲ ἀνῶσι τὴν ἐν αὐτοῖς ὑγρότητα πᾶσαν, ἄρας τὸν λέβητα ἀπὸ τοῦ πυρὸς ἀπόψα μύακι τὸ ἐπιπλέον ἔλαιον καὶ ἀποτίθεσο.",
+  "original_text": null,
+  "text_source": null,
+  "emendations": [],
+  "emendation_count": 0,
+  "source_kind": "main_text",
+  "entry_kind": "recipe",
+  "citation": {
+    "pages": [
+      "36",
+      "37"
+    ],
+    "start": {
+      "page": "36",
+      "line": "20"
+    },
+    "end": {
+      "page": "37",
+      "line": "5"
+    },
+    "citation": {
+      "start": "36.20",
+      "end": "37.5"
+    },
+    "page_spans": [
+      {
+        "page": "36",
+        "start_line": "20",
+        "end_line": "20"
+      },
+      {
+        "page": "37",
+        "start_line": "1",
+        "end_line": "5"
+      }
+    ],
+    "lines": [
+      {
+        "page": "36",
+        "line": "20",
+        "break_no": false,
+        "text": "32 κίκινον ἔλαιον σκευάζεται τούτῳ τῷ τρόπῳ· λαβὼν ὡρίμων κροτώνων ὅσον ἂν δόξῃ καὶ ψύξας εἰς ἥλιον καταστρώσας θειλοπέδου τρόπον, ἕως ἂν ὁ περικείμενος φλοιὸς ἀπορραγεὶς",
+        "citation": "36.20"
+      },
+      {
+        "page": "37",
+        "line": "1",
+        "break_no": false,
+        "text": "ἐκπέσῃ, συναγαγὼν τὴν σάρκα ἔμβαλε εἰς ὅλμον καὶ κόψας ἐπιμελῶς εἰς λέβητα κεκασσιτερωμένον βάλε ὕδωρ ἔχοντα καὶ ἀνάβρασον ὑποκαίων. ὅταν δὲ ἀνῶσι τὴν ἐν αὐτοῖς ὑγρότητα πᾶσαν, ἄρας τὸν λέβητα ἀπὸ τοῦ πυρὸς ἀπόψα μύακι τὸ ἐπιπλέον",
+        "citation": "37.1"
+      },
+      {
+        "page": "37",
+        "line": "5",
+        "break_no": false,
+        "text": "ἔλαιον καὶ ἀποτίθεσο.",
+        "citation": "37.5"
+      }
+    ],
+    "edition_key": "wellmann"
+  },
+  "notes": [
+    "Raw lines 1590-1633 are book 1 chapter 25 in this witness, although the prompt referred to chapter 35.",
+    "The perfume proemium is taken from the later transition at chapter 42 section 2 (raw lines 2306-2342), not from the chapter 25 κῦφι entry.",
+    "The ἰασμέλαιον entry is preserved only in the apparatus as an addition from another recension."
+  ],
+  "alignment_status": "pending",
+  "alignment_confidence": "pending",
+  "alignment_evidence": null,
+  "review_status": "reviewed_structured_authority",
+  "review_provenance": {
+    "authority_source": "reports/entity_review/structured/dioscorides.json",
+    "authority_recipe_id": "dioscorides-1-32-kikinon",
+    "authority_lemma": "κίκινον ἔλαιον",
+    "model": "gpt-5.4",
+    "reasoning_effort": "high",
+    "dataset_key": "dioscorides_book1_perfumes_resins",
+    "entity_model_version": "1.2",
+    "authority_version": "2026-04-13-qty-alt-v1",
+    "prompt_version": "qty-alt-pass-v1",
+    "build_version": "2026-05-18T15:51:35Z"
+  },
+  "schema_version": "1.2",
+  "build_metadata": {
+    "builder": "scripts/recipes/build_recipe_entities.py",
+    "built_at": "2026-05-18T15:51:35Z",
+    "source_structured_authority": "reports/entity_review/structured/dioscorides.json",
+    "authority_model": "gpt-5.4",
+    "authority_reasoning_effort": "high",
+    "dataset_key": "dioscorides_book1_perfumes_resins",
+    "entity_model_version": "1.2",
+    "authority_version": "2026-04-13-qty-alt-v1",
+    "prompt_version": "qty-alt-pass-v1",
+    "build_version": "2026-05-18T15:51:35Z"
+  },
+  "recipe_text_excerpt": "κίκινον ἔλαιον σκευάζεται τούτῳ τῷ τρόπῳ· λαβὼν ὡρίμων κροτώνων ὅσον ἂν δόξῃ καὶ ψύξας εἰς ἥλιον καταστρώσας θειλοπέδου τρόπον, ἕως",
+  "preparation": {
+    "preparation_id": "dioscorides-1-32-kikinon:preparation:kikinon-elaion",
+    "preparation_urn": "urn:aos:recipe-preparation:dioscorides-1-32-kikinon:preparation:kikinon-elaion",
+    "source_span": "κίκινον ἔλαιον",
+    "surface_form": "κίκινον ἔλαιον",
+    "normalized_label": "κίκινον ἔλαιον",
+    "qualifiers": [],
+    "regimen_notes": [],
+    "certainty": "certain",
+    "notes": [],
+    "host_locator": {
+      "book": "1",
+      "chapter": "32",
+      "section": "1",
+      "citation": {
+        "start": "36.20",
+        "end": "37.5"
+      }
+    }
+  },
+  "ingredients": [
+    {
+      "ingredient_id": "dioscorides-1-32-kikinon:ingredient:orimoi-krotones-1",
+      "ingredient_urn": "urn:aos:recipe-ingredient:dioscorides-1-32-kikinon:ingredient:orimoi-krotones-1",
+      "source_span": "ὡρίμων κροτώνων ὅσον ἂν δόξῃ",
+      "surface_form": "ὡρίμων κροτώνων ὅσον ἂν δόξῃ",
+      "base_label": "κρότωνες",
+      "normalized_label": "ὥριμοι κρότωνες",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [],
+      "quantities": [
+        {
+          "source_span": "ὅσον ἂν δόξῃ",
+          "raw_number": null,
+          "normalized_number": null,
+          "raw_unit": null,
+          "normalized_unit": null,
+          "certainty": "uncertain",
+          "notes": [
+            "indefinite amount"
+          ]
+        }
+      ],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "32",
+        "section": "1",
+        "citation": {
+          "start": "36.20",
+          "end": "37.5"
+        }
+      }
+    },
+    {
+      "ingredient_id": "dioscorides-1-32-kikinon:ingredient:sarx-2",
+      "ingredient_urn": "urn:aos:recipe-ingredient:dioscorides-1-32-kikinon:ingredient:sarx-2",
+      "source_span": "τὴν σάρκα",
+      "surface_form": "τὴν σάρκα",
+      "base_label": "σάρξ",
+      "normalized_label": "σάρξ",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [],
+      "quantities": [],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "32",
+        "section": "1",
+        "citation": {
+          "start": "36.20",
+          "end": "37.5"
+        }
+      }
+    },
+    {
+      "ingredient_id": "dioscorides-1-32-kikinon:ingredient:ydor-3",
+      "ingredient_urn": "urn:aos:recipe-ingredient:dioscorides-1-32-kikinon:ingredient:ydor-3",
+      "source_span": "ὕδωρ",
+      "surface_form": "ὕδωρ",
+      "base_label": "ὕδωρ",
+      "normalized_label": "ὕδωρ",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [],
+      "quantities": [],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "32",
+        "section": "1",
+        "citation": {
+          "start": "36.20",
+          "end": "37.5"
+        }
+      }
+    },
+    {
+      "ingredient_id": "dioscorides-1-32-kikinon:ingredient:epipleon-elaion-4",
+      "ingredient_urn": "urn:aos:recipe-ingredient:dioscorides-1-32-kikinon:ingredient:epipleon-elaion-4",
+      "source_span": "τὸ ἐπιπλέον ἔλαιον",
+      "surface_form": "τὸ ἐπιπλέον ἔλαιον",
+      "base_label": "ἔλαιον",
+      "normalized_label": "ἐπιπλέον ἔλαιον",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [],
+      "quantities": [],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "32",
+        "section": "1",
+        "citation": {
+          "start": "36.20",
+          "end": "37.5"
+        }
+      }
+    }
+  ],
+  "processes": [
+    {
+      "process_id": "dioscorides-1-32-kikinon:process:lambanein-1",
+      "process_urn": "urn:aos:recipe-process:dioscorides-1-32-kikinon:process:lambanein-1",
+      "source_span": "λαβὼν",
+      "surface_form": "λαβὼν",
+      "normalized_label": "λαμβάνειν",
+      "target_type": "ingredient",
+      "target_ids": [
+        "dioscorides-1-32-kikinon:ingredient:orimoi-krotones-1"
+      ],
+      "quantities": [],
+      "qualifiers": [],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "32",
+        "section": "1",
+        "citation": {
+          "start": "36.20",
+          "end": "37.5"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-1-32-kikinon:process:psychein-2",
+      "process_urn": "urn:aos:recipe-process:dioscorides-1-32-kikinon:process:psychein-2",
+      "source_span": "ψύξας",
+      "surface_form": "ψύξας",
+      "normalized_label": "ψύχειν",
+      "target_type": "ingredient",
+      "target_ids": [
+        "dioscorides-1-32-kikinon:ingredient:orimoi-krotones-1"
+      ],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "exposure",
+          "source_span": "εἰς ἥλιον",
+          "normalized_value": "ἥλιος",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "32",
+        "section": "1",
+        "citation": {
+          "start": "36.20",
+          "end": "37.5"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-1-32-kikinon:process:katastronnynai-3",
+      "process_urn": "urn:aos:recipe-process:dioscorides-1-32-kikinon:process:katastronnynai-3",
+      "source_span": "καταστρώσας",
+      "surface_form": "καταστρώσας",
+      "normalized_label": "καταστρωννύναι",
+      "target_type": "ingredient",
+      "target_ids": [
+        "dioscorides-1-32-kikinon:ingredient:orimoi-krotones-1"
+      ],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "manner",
+          "source_span": "θειλοπέδου τρόπον",
+          "normalized_value": "θειλοπέδου τρόπον",
+          "certainty": "certain",
+          "notes": []
+        },
+        {
+          "qualifier_type": "duration",
+          "source_span": "ἕως ἂν ὁ περικείμενος φλοιὸς ἀπορραγεὶς ἐκπέσῃ",
+          "normalized_value": "ἕως ἂν ὁ περικείμενος φλοιὸς ἀπορραγεὶς ἐκπέσῃ",
+          "certainty": "certain",
+          "notes": [
+            "endpoint condition"
+          ]
+        }
+      ],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "32",
+        "section": "1",
+        "citation": {
+          "start": "36.20",
+          "end": "37.5"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-1-32-kikinon:process:synagein-4",
+      "process_urn": "urn:aos:recipe-process:dioscorides-1-32-kikinon:process:synagein-4",
+      "source_span": "συναγαγὼν",
+      "surface_form": "συναγαγὼν",
+      "normalized_label": "συνάγειν",
+      "target_type": "ingredient",
+      "target_ids": [
+        "dioscorides-1-32-kikinon:ingredient:sarx-2"
+      ],
+      "quantities": [],
+      "qualifiers": [],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "32",
+        "section": "1",
+        "citation": {
+          "start": "36.20",
+          "end": "37.5"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-1-32-kikinon:process:emballein-5",
+      "process_urn": "urn:aos:recipe-process:dioscorides-1-32-kikinon:process:emballein-5",
+      "source_span": "ἔμβαλε",
+      "surface_form": "ἔμβαλε",
+      "normalized_label": "ἐμβάλλειν",
+      "target_type": "ingredient",
+      "target_ids": [
+        "dioscorides-1-32-kikinon:ingredient:sarx-2"
+      ],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "location",
+          "source_span": "εἰς ὅλμον",
+          "normalized_value": "ὅλμος",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "32",
+        "section": "1",
+        "citation": {
+          "start": "36.20",
+          "end": "37.5"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-1-32-kikinon:process:koptein-6",
+      "process_urn": "urn:aos:recipe-process:dioscorides-1-32-kikinon:process:koptein-6",
+      "source_span": "κόψας",
+      "surface_form": "κόψας",
+      "normalized_label": "κόπτειν",
+      "target_type": "ingredient",
+      "target_ids": [
+        "dioscorides-1-32-kikinon:ingredient:sarx-2"
+      ],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "manner",
+          "source_span": "ἐπιμελῶς",
+          "normalized_value": "ἐπιμελῶς",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "32",
+        "section": "1",
+        "citation": {
+          "start": "36.20",
+          "end": "37.5"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-1-32-kikinon:process:ballein-7",
+      "process_urn": "urn:aos:recipe-process:dioscorides-1-32-kikinon:process:ballein-7",
+      "source_span": "βάλε",
+      "surface_form": "βάλε",
+      "normalized_label": "βάλλειν",
+      "target_type": "ingredient",
+      "target_ids": [
+        "dioscorides-1-32-kikinon:ingredient:sarx-2"
+      ],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "location",
+          "source_span": "εἰς λέβητα κεκασσιτερωμένον",
+          "normalized_value": "λέβης κεκασσιτερωμένος",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "32",
+        "section": "1",
+        "citation": {
+          "start": "36.20",
+          "end": "37.5"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-1-32-kikinon:process:anabrazein-8",
+      "process_urn": "urn:aos:recipe-process:dioscorides-1-32-kikinon:process:anabrazein-8",
+      "source_span": "ἀνάβρασον",
+      "surface_form": "ἀνάβρασον",
+      "normalized_label": "ἀναβράζειν",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "duration",
+          "source_span": "ὅταν δὲ ἀνῶσι τὴν ἐν αὐτοῖς ὑγρότητα πᾶσαν",
+          "normalized_value": "ὅταν δὲ ἀνῶσι τὴν ἐν αὐτοῖς ὑγρότητα πᾶσαν",
+          "certainty": "certain",
+          "notes": [
+            "endpoint condition"
+          ]
+        }
+      ],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "32",
+        "section": "1",
+        "citation": {
+          "start": "36.20",
+          "end": "37.5"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-1-32-kikinon:process:ypokaiein-9",
+      "process_urn": "urn:aos:recipe-process:dioscorides-1-32-kikinon:process:ypokaiein-9",
+      "source_span": "ὑποκαίων",
+      "surface_form": "ὑποκαίων",
+      "normalized_label": "ὑποκαίειν",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "32",
+        "section": "1",
+        "citation": {
+          "start": "36.20",
+          "end": "37.5"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-1-32-kikinon:process:airein-10",
+      "process_urn": "urn:aos:recipe-process:dioscorides-1-32-kikinon:process:airein-10",
+      "source_span": "ἄρας",
+      "surface_form": "ἄρας",
+      "normalized_label": "αἴρειν",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "location",
+          "source_span": "ἀπὸ τοῦ πυρὸς",
+          "normalized_value": "πῦρ",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "32",
+        "section": "1",
+        "citation": {
+          "start": "36.20",
+          "end": "37.5"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-1-32-kikinon:process:apopsan-11",
+      "process_urn": "urn:aos:recipe-process:dioscorides-1-32-kikinon:process:apopsan-11",
+      "source_span": "ἀπόψα",
+      "surface_form": "ἀπόψα",
+      "normalized_label": "ἀποψᾶν",
+      "target_type": "ingredient",
+      "target_ids": [
+        "dioscorides-1-32-kikinon:ingredient:epipleon-elaion-4"
+      ],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "other",
+          "source_span": "μύακι",
+          "normalized_value": "μύακι",
+          "certainty": "uncertain",
+          "notes": [
+            "instrument term kept in Greek"
+          ]
+        }
+      ],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "32",
+        "section": "1",
+        "citation": {
+          "start": "36.20",
+          "end": "37.5"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-1-32-kikinon:process:apotithesthai-12",
+      "process_urn": "urn:aos:recipe-process:dioscorides-1-32-kikinon:process:apotithesthai-12",
+      "source_span": "ἀποτίθεσο",
+      "surface_form": "ἀποτίθεσο",
+      "normalized_label": "ἀποτίθεσθαι",
+      "target_type": "ingredient",
+      "target_ids": [
+        "dioscorides-1-32-kikinon:ingredient:epipleon-elaion-4"
+      ],
+      "quantities": [],
+      "qualifiers": [],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "32",
+        "section": "1",
+        "citation": {
+          "start": "36.20",
+          "end": "37.5"
+        }
+      }
+    }
+  ],
+  "materials": [
+    {
+      "material_id": "dioscorides-1-32-kikinon:material:olmos-1",
+      "material_urn": "urn:aos:recipe-material:dioscorides-1-32-kikinon:material:olmos-1",
+      "source_span": "ὅλμον",
+      "surface_form": "ὅλμον",
+      "normalized_label": "ὅλμος",
+      "role": "apparatus",
+      "certainty": "certain",
+      "quantities": [],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "32",
+        "section": "1",
+        "citation": {
+          "start": "36.20",
+          "end": "37.5"
+        }
+      }
+    },
+    {
+      "material_id": "dioscorides-1-32-kikinon:material:lebes-kekassiteromenos-2",
+      "material_urn": "urn:aos:recipe-material:dioscorides-1-32-kikinon:material:lebes-kekassiteromenos-2",
+      "source_span": "λέβητα κεκασσιτερωμένον",
+      "surface_form": "λέβητα κεκασσιτερωμένον",
+      "normalized_label": "λέβης κεκασσιτερωμένος",
+      "role": "apparatus",
+      "certainty": "certain",
+      "quantities": [],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "32",
+        "section": "1",
+        "citation": {
+          "start": "36.20",
+          "end": "37.5"
+        }
+      }
+    },
+    {
+      "material_id": "dioscorides-1-32-kikinon:material:pyr-3",
+      "material_urn": "urn:aos:recipe-material:dioscorides-1-32-kikinon:material:pyr-3",
+      "source_span": "τοῦ πυρὸς",
+      "surface_form": "τοῦ πυρὸς",
+      "normalized_label": "πῦρ",
+      "role": "fuel",
+      "certainty": "certain",
+      "quantities": [],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "32",
+        "section": "1",
+        "citation": {
+          "start": "36.20",
+          "end": "37.5"
+        }
+      }
+    },
+    {
+      "material_id": "dioscorides-1-32-kikinon:material:myaki-4",
+      "material_urn": "urn:aos:recipe-material:dioscorides-1-32-kikinon:material:myaki-4",
+      "source_span": "μύακι",
+      "surface_form": "μύακι",
+      "normalized_label": "μύακι",
+      "role": "tool",
+      "certainty": "uncertain",
+      "quantities": [],
+      "qualifiers": [],
+      "notes": [
+        "exact tool identification uncertain"
+      ],
+      "host_locator": {
+        "book": "1",
+        "chapter": "32",
+        "section": "1",
+        "citation": {
+          "start": "36.20",
+          "end": "37.5"
+        }
+      }
+    }
+  ],
+  "people": [],
+  "places": [],
+  "uses": [],
+  "preparation_names": [],
+  "other_preparations_mentioned": [],
+  "works_mentioned": [],
+  "entities": [
+    {
+      "entity_urn": "urn:aos:recipe-preparation:dioscorides-1-32-kikinon:preparation:kikinon-elaion",
+      "entity_type": "label",
+      "surface_form": "κίκινον ἔλαιον",
+      "normalized_label": "κίκινον ἔλαιον"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:dioscorides-1-32-kikinon:ingredient:orimoi-krotones-1",
+      "entity_type": "ingredient",
+      "surface_form": "ὡρίμων κροτώνων ὅσον ἂν δόξῃ",
+      "normalized_label": "ὥριμοι κρότωνες"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:dioscorides-1-32-kikinon:ingredient:sarx-2",
+      "entity_type": "ingredient",
+      "surface_form": "τὴν σάρκα",
+      "normalized_label": "σάρξ"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:dioscorides-1-32-kikinon:ingredient:ydor-3",
+      "entity_type": "ingredient",
+      "surface_form": "ὕδωρ",
+      "normalized_label": "ὕδωρ"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:dioscorides-1-32-kikinon:ingredient:epipleon-elaion-4",
+      "entity_type": "ingredient",
+      "surface_form": "τὸ ἐπιπλέον ἔλαιον",
+      "normalized_label": "ἐπιπλέον ἔλαιον"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-1-32-kikinon:process:lambanein-1",
+      "entity_type": "process",
+      "surface_form": "λαβὼν",
+      "normalized_label": "λαμβάνειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-1-32-kikinon:process:psychein-2",
+      "entity_type": "process",
+      "surface_form": "ψύξας",
+      "normalized_label": "ψύχειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-1-32-kikinon:process:katastronnynai-3",
+      "entity_type": "process",
+      "surface_form": "καταστρώσας",
+      "normalized_label": "καταστρωννύναι"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-1-32-kikinon:process:synagein-4",
+      "entity_type": "process",
+      "surface_form": "συναγαγὼν",
+      "normalized_label": "συνάγειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-1-32-kikinon:process:emballein-5",
+      "entity_type": "process",
+      "surface_form": "ἔμβαλε",
+      "normalized_label": "ἐμβάλλειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-1-32-kikinon:process:koptein-6",
+      "entity_type": "process",
+      "surface_form": "κόψας",
+      "normalized_label": "κόπτειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-1-32-kikinon:process:ballein-7",
+      "entity_type": "process",
+      "surface_form": "βάλε",
+      "normalized_label": "βάλλειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-1-32-kikinon:process:anabrazein-8",
+      "entity_type": "process",
+      "surface_form": "ἀνάβρασον",
+      "normalized_label": "ἀναβράζειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-1-32-kikinon:process:ypokaiein-9",
+      "entity_type": "process",
+      "surface_form": "ὑποκαίων",
+      "normalized_label": "ὑποκαίειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-1-32-kikinon:process:airein-10",
+      "entity_type": "process",
+      "surface_form": "ἄρας",
+      "normalized_label": "αἴρειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-1-32-kikinon:process:apopsan-11",
+      "entity_type": "process",
+      "surface_form": "ἀπόψα",
+      "normalized_label": "ἀποψᾶν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-1-32-kikinon:process:apotithesthai-12",
+      "entity_type": "process",
+      "surface_form": "ἀποτίθεσο",
+      "normalized_label": "ἀποτίθεσθαι"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-material:dioscorides-1-32-kikinon:material:olmos-1",
+      "entity_type": "material",
+      "surface_form": "ὅλμον",
+      "normalized_label": "ὅλμος"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-material:dioscorides-1-32-kikinon:material:lebes-kekassiteromenos-2",
+      "entity_type": "material",
+      "surface_form": "λέβητα κεκασσιτερωμένον",
+      "normalized_label": "λέβης κεκασσιτερωμένος"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-material:dioscorides-1-32-kikinon:material:pyr-3",
+      "entity_type": "material",
+      "surface_form": "τοῦ πυρὸς",
+      "normalized_label": "πῦρ"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-material:dioscorides-1-32-kikinon:material:myaki-4",
+      "entity_type": "material",
+      "surface_form": "μύακι",
+      "normalized_label": "μύακι"
+    }
+  ]
+}

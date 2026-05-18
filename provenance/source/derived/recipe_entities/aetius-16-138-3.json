@@ -1,0 +1,484 @@
+{
+  "dataset_key": "aetius_book16_myrepsika",
+  "source_json": "experiments/aetius-book16-ch126-153-myrepsika/data/aetius_book16_ch126_153_myrepsika.json",
+  "host_raw_file": "tei/raw/tlg0718016.xml",
+  "work_slug": "aetius.b16.myrepsika",
+  "recipe_id": "aetius-16-138-3",
+  "recipe_urn": "urn:aos:recipe:aetius-16-138-3",
+  "record_urn": "urn:aos:recipe-record:aetius-16-138-3",
+  "author": "Aëtius of Amida",
+  "work": "Libri medicinales",
+  "book": "16",
+  "chapter": "138",
+  "section": "3",
+  "chapter_name": "μαστιχάτου κυμινάτου σκευασία · κιτράτου σκευασία · ἀπιάτου σκευασία",
+  "lemma": "ἀπιάτου σκευασία",
+  "text": "Σελίνου σπέρματος γράμματα ιβ. πηγάνου σπέρματος γράμματα στ. ἀπίου σπέρματος τὸ ἴσον, μέλιτος ξεα. οἴνου ξεδ. ἐν δὲ τοῖς νηστικοῖς ἔμβαλλε ὕδωρ ἀντὶ τοῦ οἴνου.",
+  "original_text": null,
+  "text_source": null,
+  "emendations": [],
+  "emendation_count": 0,
+  "source_kind": null,
+  "entry_kind": "recipe",
+  "citation": {
+    "pages": [
+      "167"
+    ],
+    "start": {
+      "page": "167",
+      "line": "14",
+      "xml_id": "zerv-167-14"
+    },
+    "end": {
+      "page": "167",
+      "line": "17",
+      "xml_id": "zerv-167-17"
+    },
+    "citation": {
+      "start": "167.14",
+      "end": "167.17"
+    },
+    "page_spans": [
+      {
+        "page": "167",
+        "start_line": "14",
+        "end_line": "17"
+      }
+    ],
+    "lines": [
+      {
+        "page": "167",
+        "line": "14",
+        "xml_id": "zerv-167-14",
+        "citation": "167.14",
+        "text": "Ἀπιάτου σκευασία."
+      },
+      {
+        "page": "167",
+        "line": "15",
+        "xml_id": "zerv-167-15",
+        "citation": "167.15",
+        "text": "Σελίνου σπέρματος γράμματα ιβ. πηγάνου σπέρματος γράμ-"
+      },
+      {
+        "page": "167",
+        "line": "16",
+        "xml_id": "zerv-167-16",
+        "citation": "167.16",
+        "text": "ματα στ. ἀπίου σπέρματος τὸ ἴσον, μέλιτος ξεα. οἴνου ξεδ. ἐν δὲ"
+      },
+      {
+        "page": "167",
+        "line": "17",
+        "xml_id": "zerv-167-17",
+        "citation": "167.17",
+        "text": "τοῖς νηστικοῖς ἔμβαλλε ὕδωρ ἀντὶ τοῦ οἴνου."
+      }
+    ],
+    "edition_key": "zervos"
+  },
+  "notes": [],
+  "alignment_status": "pending",
+  "alignment_confidence": "pending",
+  "alignment_evidence": null,
+  "review_status": "reviewed_structured_authority",
+  "review_provenance": {
+    "authority_source": "reports/entity_review/structured/aetius_book16.json",
+    "authority_recipe_id": "aetius-16-138-3",
+    "authority_lemma": "ἀπιάτου σκευασία",
+    "model": "gpt-5.4",
+    "reasoning_effort": "high",
+    "dataset_key": "aetius_book16_myrepsika",
+    "entity_model_version": "1.2",
+    "authority_version": "2026-04-13-qty-alt-v1",
+    "prompt_version": "qty-alt-pass-v1",
+    "build_version": "2026-05-18T15:51:35Z"
+  },
+  "schema_version": "1.2",
+  "build_metadata": {
+    "builder": "scripts/recipes/build_recipe_entities.py",
+    "built_at": "2026-05-18T15:51:35Z",
+    "source_structured_authority": "reports/entity_review/structured/aetius_book16.json",
+    "authority_model": "gpt-5.4",
+    "authority_reasoning_effort": "high",
+    "dataset_key": "aetius_book16_myrepsika",
+    "entity_model_version": "1.2",
+    "authority_version": "2026-04-13-qty-alt-v1",
+    "prompt_version": "qty-alt-pass-v1",
+    "build_version": "2026-05-18T15:51:35Z"
+  },
+  "recipe_text_excerpt": "Σελίνου σπέρματος γράμματα ιβ. πηγάνου σπέρματος γράμματα στ. ἀπίου σπέρματος τὸ ἴσον, μέλιτος ξεα. οἴνου ξεδ. ἐν δὲ τοῖς νηστικοῖς",
+  "preparation": {
+    "preparation_id": "aetius-16-138-3:preparation:apiatoy-skeyasia",
+    "preparation_urn": "urn:aos:recipe-preparation:aetius-16-138-3:preparation:apiatoy-skeyasia",
+    "source_span": "ἀπιάτου σκευασία",
+    "surface_form": "ἀπιάτου σκευασία",
+    "normalized_label": "ἀπιάτου σκευασία",
+    "qualifiers": [],
+    "regimen_notes": [
+      {
+        "source_span": "ἐν δὲ τοῖς νηστικοῖς ἔμβαλλε ὕδωρ ἀντὶ τοῦ οἴνου.",
+        "normalized_note": "νηστικοῖς ὕδωρ ἀντὶ τοῦ οἴνου",
+        "certainty": "certain",
+        "notes": [
+          "Conditional regimen variant for fasting patients; not a distinct preparation name."
+        ]
+      }
+    ],
+    "certainty": "certain",
+    "notes": [
+      "Running text does not restate the preparation name cleanly; lemma used as preparation label."
+    ],
+    "host_locator": {
+      "book": "16",
+      "chapter": "138",
+      "section": "3",
+      "citation": {
+        "start": "167.14",
+        "end": "167.17"
+      }
+    }
+  },
+  "ingredients": [
+    {
+      "ingredient_id": "aetius-16-138-3:ingredient:sperma-selinoy-1",
+      "ingredient_urn": "urn:aos:recipe-ingredient:aetius-16-138-3:ingredient:sperma-selinoy-1",
+      "source_span": "Σελίνου σπέρματος",
+      "surface_form": "Σελίνου σπέρματος",
+      "base_label": "σπέρμα",
+      "normalized_label": "σπέρμα σελίνου",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [],
+      "quantities": [
+        {
+          "source_span": "γράμματα ιβ.",
+          "raw_number": "ιβ",
+          "normalized_number": 12,
+          "raw_unit": "γράμματα",
+          "normalized_unit": "gramma",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "16",
+        "chapter": "138",
+        "section": "3",
+        "citation": {
+          "start": "167.14",
+          "end": "167.17"
+        }
+      }
+    },
+    {
+      "ingredient_id": "aetius-16-138-3:ingredient:sperma-peganoy-2",
+      "ingredient_urn": "urn:aos:recipe-ingredient:aetius-16-138-3:ingredient:sperma-peganoy-2",
+      "source_span": "πηγάνου σπέρματος",
+      "surface_form": "πηγάνου σπέρματος",
+      "base_label": "σπέρμα",
+      "normalized_label": "σπέρμα πηγάνου",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [],
+      "quantities": [
+        {
+          "source_span": "γράμματα στ.",
+          "raw_number": "στ",
+          "normalized_number": 6,
+          "raw_unit": "γράμματα",
+          "normalized_unit": "gramma",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "16",
+        "chapter": "138",
+        "section": "3",
+        "citation": {
+          "start": "167.14",
+          "end": "167.17"
+        }
+      }
+    },
+    {
+      "ingredient_id": "aetius-16-138-3:ingredient:sperma-apioy-3",
+      "ingredient_urn": "urn:aos:recipe-ingredient:aetius-16-138-3:ingredient:sperma-apioy-3",
+      "source_span": "ἀπίου σπέρματος",
+      "surface_form": "ἀπίου σπέρματος",
+      "base_label": "σπέρμα",
+      "normalized_label": "σπέρμα ἀπίου",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [],
+      "quantities": [
+        {
+          "source_span": "τὸ ἴσον",
+          "raw_number": null,
+          "normalized_number": null,
+          "raw_unit": null,
+          "normalized_unit": null,
+          "certainty": "certain",
+          "notes": [
+            "Equal amount relative to the preceding seed quantity."
+          ]
+        }
+      ],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "16",
+        "chapter": "138",
+        "section": "3",
+        "citation": {
+          "start": "167.14",
+          "end": "167.17"
+        }
+      }
+    },
+    {
+      "ingredient_id": "aetius-16-138-3:ingredient:meli-4",
+      "ingredient_urn": "urn:aos:recipe-ingredient:aetius-16-138-3:ingredient:meli-4",
+      "source_span": "μέλιτος",
+      "surface_form": "μέλιτος",
+      "base_label": "μέλι",
+      "normalized_label": "μέλι",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [],
+      "quantities": [
+        {
+          "source_span": "ξεα.",
+          "raw_number": "α",
+          "normalized_number": 1,
+          "raw_unit": "ξε",
+          "normalized_unit": "xestes",
+          "certainty": "uncertain",
+          "notes": [
+            "Unit expanded from abbreviation."
+          ]
+        }
+      ],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "16",
+        "chapter": "138",
+        "section": "3",
+        "citation": {
+          "start": "167.14",
+          "end": "167.17"
+        }
+      }
+    },
+    {
+      "ingredient_id": "aetius-16-138-3:ingredient:oinos-5",
+      "ingredient_urn": "urn:aos:recipe-ingredient:aetius-16-138-3:ingredient:oinos-5",
+      "source_span": "οἴνου",
+      "surface_form": "οἴνου",
+      "base_label": "οἶνος",
+      "normalized_label": "οἶνος",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [],
+      "quantities": [
+        {
+          "source_span": "ξεδ.",
+          "raw_number": "δ",
+          "normalized_number": 4,
+          "raw_unit": "ξε",
+          "normalized_unit": "xestes",
+          "certainty": "uncertain",
+          "notes": [
+            "Unit expanded from abbreviation."
+          ]
+        }
+      ],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "16",
+        "chapter": "138",
+        "section": "3",
+        "citation": {
+          "start": "167.14",
+          "end": "167.17"
+        }
+      }
+    },
+    {
+      "ingredient_id": "aetius-16-138-3:ingredient:ydor-6",
+      "ingredient_urn": "urn:aos:recipe-ingredient:aetius-16-138-3:ingredient:ydor-6",
+      "source_span": "ὕδωρ",
+      "surface_form": "ὕδωρ",
+      "base_label": "ὕδωρ",
+      "normalized_label": "ὕδωρ",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [
+        "aetius-16-138-3:process:emballein-1"
+      ],
+      "quantities": [],
+      "qualifiers": [],
+      "notes": [
+        "Conditionally substituted for wine."
+      ],
+      "host_locator": {
+        "book": "16",
+        "chapter": "138",
+        "section": "3",
+        "citation": {
+          "start": "167.14",
+          "end": "167.17"
+        }
+      }
+    }
+  ],
+  "processes": [
+    {
+      "process_id": "aetius-16-138-3:process:emballein-1",
+      "process_urn": "urn:aos:recipe-process:aetius-16-138-3:process:emballein-1",
+      "source_span": "ἔμβαλλε",
+      "surface_form": "ἔμβαλλε",
+      "normalized_label": "ἐμβάλλειν",
+      "target_type": "ingredient",
+      "target_ids": [
+        "aetius-16-138-3:ingredient:ydor-6"
+      ],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "other",
+          "source_span": "ἐν δὲ τοῖς νηστικοῖς",
+          "normalized_value": "ἐν τοῖς νηστικοῖς",
+          "certainty": "certain",
+          "notes": []
+        },
+        {
+          "qualifier_type": "other",
+          "source_span": "ἀντὶ τοῦ οἴνου",
+          "normalized_value": "ἀντὶ τοῦ οἴνου",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "16",
+        "chapter": "138",
+        "section": "3",
+        "citation": {
+          "start": "167.14",
+          "end": "167.17"
+        }
+      }
+    }
+  ],
+  "materials": [],
+  "people": [
+    {
+      "person_id": "aetius-16-138-3:person:nestikoi-1",
+      "person_urn": "urn:aos:recipe-person:aetius-16-138-3:person:nestikoi-1",
+      "source_span": "τοῖς νηστικοῖς",
+      "surface_form": "τοῖς νηστικοῖς",
+      "normalized_label": "νηστικοί",
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "16",
+        "chapter": "138",
+        "section": "3",
+        "citation": {
+          "start": "167.14",
+          "end": "167.17"
+        }
+      }
+    }
+  ],
+  "places": [],
+  "uses": [
+    {
+      "use_id": "aetius-16-138-3:use:en-de-tois-nestikois-emballe-ydor-anti-toy-oinoy-1",
+      "use_urn": "urn:aos:recipe-use:aetius-16-138-3:use:en-de-tois-nestikois-emballe-ydor-anti-toy-oinoy-1",
+      "category": "other",
+      "source_span": "ἐν δὲ τοῖς νηστικοῖς ἔμβαλλε ὕδωρ ἀντὶ τοῦ οἴνου.",
+      "snippet": "ἐν δὲ τοῖς νηστικοῖς ἔμβαλλε ὕδωρ ἀντὶ τοῦ οἴνου.",
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "16",
+        "chapter": "138",
+        "section": "3",
+        "citation": {
+          "start": "167.14",
+          "end": "167.17"
+        }
+      }
+    }
+  ],
+  "preparation_names": [],
+  "other_preparations_mentioned": [],
+  "works_mentioned": [],
+  "entities": [
+    {
+      "entity_urn": "urn:aos:recipe-preparation:aetius-16-138-3:preparation:apiatoy-skeyasia",
+      "entity_type": "label",
+      "surface_form": "ἀπιάτου σκευασία",
+      "normalized_label": "ἀπιάτου σκευασία"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:aetius-16-138-3:ingredient:sperma-selinoy-1",
+      "entity_type": "ingredient",
+      "surface_form": "Σελίνου σπέρματος",
+      "normalized_label": "σπέρμα σελίνου"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:aetius-16-138-3:ingredient:sperma-peganoy-2",
+      "entity_type": "ingredient",
+      "surface_form": "πηγάνου σπέρματος",
+      "normalized_label": "σπέρμα πηγάνου"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:aetius-16-138-3:ingredient:sperma-apioy-3",
+      "entity_type": "ingredient",
+      "surface_form": "ἀπίου σπέρματος",
+      "normalized_label": "σπέρμα ἀπίου"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:aetius-16-138-3:ingredient:meli-4",
+      "entity_type": "ingredient",
+      "surface_form": "μέλιτος",
+      "normalized_label": "μέλι"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:aetius-16-138-3:ingredient:oinos-5",
+      "entity_type": "ingredient",
+      "surface_form": "οἴνου",
+      "normalized_label": "οἶνος"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:aetius-16-138-3:ingredient:ydor-6",
+      "entity_type": "ingredient",
+      "surface_form": "ὕδωρ",
+      "normalized_label": "ὕδωρ"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:aetius-16-138-3:process:emballein-1",
+      "entity_type": "process",
+      "surface_form": "ἔμβαλλε",
+      "normalized_label": "ἐμβάλλειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-person:aetius-16-138-3:person:nestikoi-1",
+      "entity_type": "person",
+      "surface_form": "τοῖς νηστικοῖς",
+      "normalized_label": "νηστικοί"
+    }
+  ]
+}

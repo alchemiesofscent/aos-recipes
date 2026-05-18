@@ -1,0 +1,1294 @@
+{
+  "dataset_key": "dioscorides_book1_perfumes_resins",
+  "source_json": "experiments/dioscorides-book1-perfumes-resins/data/dioscorides_book1_perfumes_resins.json",
+  "host_raw_file": "tei/raw/tlg0656.tlg001.1st1K-grc1.xml",
+  "work_slug": "diosc.b1.recipes",
+  "recipe_id": "dioscorides-1-58-amarakinon",
+  "recipe_urn": "urn:aos:recipe:dioscorides-1-58-amarakinon",
+  "record_urn": "urn:aos:recipe-record:dioscorides-1-58-amarakinon",
+  "author": "Dioscorides",
+  "work": "De materia medica",
+  "book": "1",
+  "chapter": "58",
+  "section": "1-2",
+  "chapter_name": "ἀμαράκινον",
+  "lemma": "ἀμαράκινον",
+  "text": "58 ἀμαράκινον δὲ ἐν Κυζίκῳ κάλλιστον γίνεται. σκευάζεται δὲ διά τε ὀμφακίνου ἐλαίου καὶ βαλανίνου, στυφομένων ξυλοβαλσάμῳ, σχοίνῳ, καλάμῳ, ἡδυνομένων δὲ ἀμαράκῳ, κόστῳ, ἀμώμῳ, νάρδῳ, κασσίᾳ, καρπῷ βαλσάμου καὶ σμύρνῃ. οἱ δὲ πολυτελέστερον αὐτὸ ποιοῦντες μίσγουσι καὶ κινάμωμον· παραλαμβάνεται δὲ μέλι καὶ οἶνος εἰς τὴν τῶν ἀγγείων χρίσιν καὶ φύραδιν τῶν κεκομμένων ἀρωμάτων. ἐστι δὲ θερμαντικόν, καρωτικόν, μαλακτικόν, ἀναστομωτικόν, 2 πυρωτικόν, οὐρητικόν, εὐχρηστοῦν εἴς τε τὰς σῆπας καὶ σύριγγας καὶ ὑδροκήλας μετὰ τὰς χειρουργίας, περιρρήττει τε τὰς ἐσχάρας καὶ τὰ τεθηριωμένα ἕλκη, πρός τε δυσουρίαν ἁρμόζει περιχριομένου τοῦ δακτυλίου, καὶ πρὸς τὰς φλεγμονὰς αὐτοῦ καὶ πρὸς αἱμορροίδων ἀναστόμωσιν περιχριόμενον, ἔμμηνά τε κινεῖ προστιθέμενον τῇ μήτρᾳ καὶ σκληρίας καὶ οἰδήματα ἐν ὑστέρᾳ διαφορεῖ, καὶ πρὸς τὰ μυότρωτα καὶ νευρότρωτα συμφέρει ἐν πιλήμασιν ἀραιοῖς βρεχόμενον καὶ ἐπιτιθέμενον.",
+  "original_text": null,
+  "text_source": null,
+  "emendations": [],
+  "emendation_count": 0,
+  "source_kind": "main_text",
+  "entry_kind": "recipe",
+  "citation": {
+    "pages": [
+      "53",
+      "54"
+    ],
+    "start": {
+      "page": "53",
+      "line": "10"
+    },
+    "end": {
+      "page": "54",
+      "line": "1"
+    },
+    "citation": {
+      "start": "53.10",
+      "end": "54.1"
+    },
+    "page_spans": [
+      {
+        "page": "53",
+        "start_line": "10",
+        "end_line": "20"
+      },
+      {
+        "page": "54",
+        "start_line": "1",
+        "end_line": "1"
+      }
+    ],
+    "lines": [
+      {
+        "page": "53",
+        "line": "10",
+        "break_no": false,
+        "text": "58 ἀμαράκινον δὲ ἐν Κυζίκῳ κάλλιστον γίνεται. σκευάζεται δὲ διά τε ὀμφακίνου ἐλαίου καὶ βαλανίνου, στυφομένων ξυλοβαλσάμῳ, σχοίνῳ, καλάμῳ, ἡδυνομένων δὲ ἀμαράκῳ, κόστῳ, ἀμώμῳ, νάρδῳ, κασσίᾳ, καρπῷ βαλσάμου καὶ σμύρνῃ. οἱ δὲ πολυτελέστερον αὐτὸ ποιοῦντες μίσγουσι καὶ κινάμωμον· παραλαμβάνεται",
+        "citation": "53.10"
+      },
+      {
+        "page": "53",
+        "line": "15",
+        "break_no": false,
+        "text": "δὲ μέλι καὶ οἶνος εἰς τὴν τῶν ἀγγείων χρίσιν καὶ φύραδιν τῶν κεκομμένων ἀρωμάτων. ἐστι δὲ θερμαντικόν, καρωτικόν, μαλακτικόν, ἀναστομωτικόν, 2 πυρωτικόν, οὐρητικόν, εὐχρηστοῦν εἴς τε τὰς σῆπας καὶ σύριγγας καὶ ὑδροκήλας μετὰ τὰς χειρουργίας, περιρρήττει τε",
+        "citation": "53.15"
+      },
+      {
+        "page": "53",
+        "line": "20",
+        "break_no": false,
+        "text": "τὰς ἐσχάρας καὶ τὰ τεθηριωμένα ἕλκη, πρός τε δυσουρίαν ἁρμόζει περιχριομένου τοῦ δακτυλίου, καὶ πρὸς τὰς φλεγμονὰς αὐτοῦ καὶ πρὸς αἱμορροίδων ἀναστόμωσιν περιχριόμενον, ἔμμηνά τε κινεῖ προστιθέμενον τῇ μήτρᾳ καὶ σκληρίας καὶ οἰδήματα ἐν ὑστέρᾳ διαφορεῖ, καὶ πρὸς τὰ μυότρωτα καὶ νευρότρωτα",
+        "citation": "53.20"
+      },
+      {
+        "page": "54",
+        "line": "1",
+        "break_no": false,
+        "text": "συμφέρει ἐν πιλήμασιν ἀραιοῖς βρεχόμενον καὶ ἐπιτιθέμενον.",
+        "citation": "54.1"
+      }
+    ],
+    "edition_key": "wellmann"
+  },
+  "notes": [
+    "Raw lines 1590-1633 are book 1 chapter 25 in this witness, although the prompt referred to chapter 35.",
+    "The perfume proemium is taken from the later transition at chapter 42 section 2 (raw lines 2306-2342), not from the chapter 25 κῦφι entry.",
+    "The ἰασμέλαιον entry is preserved only in the apparatus as an addition from another recension."
+  ],
+  "alignment_status": "pending",
+  "alignment_confidence": "pending",
+  "alignment_evidence": null,
+  "review_status": "reviewed_structured_authority",
+  "review_provenance": {
+    "authority_source": "reports/entity_review/structured/dioscorides.json",
+    "authority_recipe_id": "dioscorides-1-58-amarakinon",
+    "authority_lemma": "ἀμαράκινον",
+    "model": "gpt-5.4",
+    "reasoning_effort": "high",
+    "dataset_key": "dioscorides_book1_perfumes_resins",
+    "entity_model_version": "1.2",
+    "authority_version": "2026-04-13-qty-alt-v1",
+    "prompt_version": "qty-alt-pass-v1",
+    "build_version": "2026-05-18T15:51:35Z"
+  },
+  "schema_version": "1.2",
+  "build_metadata": {
+    "builder": "scripts/recipes/build_recipe_entities.py",
+    "built_at": "2026-05-18T15:51:35Z",
+    "source_structured_authority": "reports/entity_review/structured/dioscorides.json",
+    "authority_model": "gpt-5.4",
+    "authority_reasoning_effort": "high",
+    "dataset_key": "dioscorides_book1_perfumes_resins",
+    "entity_model_version": "1.2",
+    "authority_version": "2026-04-13-qty-alt-v1",
+    "prompt_version": "qty-alt-pass-v1",
+    "build_version": "2026-05-18T15:51:35Z"
+  },
+  "recipe_text_excerpt": "ἀμαράκινον δὲ ἐν Κυζίκῳ κάλλιστον γίνεται. σκευάζεται δὲ διά τε ὀμφακίνου ἐλαίου καὶ βαλανίνου, στυφομένων ξυλοβαλσάμῳ, σχοίνῳ, καλάμῳ, ἡδυνομένων δὲ",
+  "preparation": {
+    "preparation_id": "dioscorides-1-58-amarakinon:preparation:amarakinon",
+    "preparation_urn": "urn:aos:recipe-preparation:dioscorides-1-58-amarakinon:preparation:amarakinon",
+    "source_span": "ἀμαράκινον",
+    "surface_form": "ἀμαράκινον",
+    "normalized_label": "ἀμαράκινον",
+    "qualifiers": [
+      {
+        "qualifier_type": "other",
+        "source_span": "πολυτελέστερον",
+        "normalized_value": "πολυτελής",
+        "certainty": "certain",
+        "notes": [
+          "explicit variant made by some makers; the passage says they also mix in κινάμωμον"
+        ]
+      }
+    ],
+    "regimen_notes": [],
+    "certainty": "certain",
+    "notes": [],
+    "host_locator": {
+      "book": "1",
+      "chapter": "58",
+      "section": "1-2",
+      "citation": {
+        "start": "53.10",
+        "end": "54.1"
+      }
+    }
+  },
+  "ingredients": [
+    {
+      "ingredient_id": "dioscorides-1-58-amarakinon:ingredient:elaion-omphakinon-1",
+      "ingredient_urn": "urn:aos:recipe-ingredient:dioscorides-1-58-amarakinon:ingredient:elaion-omphakinon-1",
+      "source_span": "ὀμφακίνου ἐλαίου",
+      "surface_form": "ὀμφακίνου ἐλαίου",
+      "base_label": "ἔλαιον",
+      "normalized_label": "ἔλαιον ὀμφάκινον",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [
+        "dioscorides-1-58-amarakinon:process:styphein-2",
+        "dioscorides-1-58-amarakinon:process:edynein-3"
+      ],
+      "quantities": [],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "58",
+        "section": "1-2",
+        "citation": {
+          "start": "53.10",
+          "end": "54.1"
+        }
+      }
+    },
+    {
+      "ingredient_id": "dioscorides-1-58-amarakinon:ingredient:elaion-balaninon-2",
+      "ingredient_urn": "urn:aos:recipe-ingredient:dioscorides-1-58-amarakinon:ingredient:elaion-balaninon-2",
+      "source_span": "βαλανίνου",
+      "surface_form": "βαλανίνου",
+      "base_label": "ἔλαιον",
+      "normalized_label": "ἔλαιον βαλάνινον",
+      "alternative_set_id": null,
+      "certainty": "uncertain",
+      "linked_process_ids": [
+        "dioscorides-1-58-amarakinon:process:styphein-2",
+        "dioscorides-1-58-amarakinon:process:edynein-3"
+      ],
+      "quantities": [],
+      "qualifiers": [],
+      "notes": [
+        "ἐλαίου is understood from the coordination with ὀμφακίνου ἐλαίου."
+      ],
+      "host_locator": {
+        "book": "1",
+        "chapter": "58",
+        "section": "1-2",
+        "citation": {
+          "start": "53.10",
+          "end": "54.1"
+        }
+      }
+    },
+    {
+      "ingredient_id": "dioscorides-1-58-amarakinon:ingredient:xylobalsamon-3",
+      "ingredient_urn": "urn:aos:recipe-ingredient:dioscorides-1-58-amarakinon:ingredient:xylobalsamon-3",
+      "source_span": "ξυλοβαλσάμῳ",
+      "surface_form": "ξυλοβαλσάμῳ",
+      "base_label": "ξυλοβάλσαμον",
+      "normalized_label": "ξυλοβάλσαμον",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [
+        "dioscorides-1-58-amarakinon:process:styphein-2"
+      ],
+      "quantities": [],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "58",
+        "section": "1-2",
+        "citation": {
+          "start": "53.10",
+          "end": "54.1"
+        }
+      }
+    },
+    {
+      "ingredient_id": "dioscorides-1-58-amarakinon:ingredient:schoinos-4",
+      "ingredient_urn": "urn:aos:recipe-ingredient:dioscorides-1-58-amarakinon:ingredient:schoinos-4",
+      "source_span": "σχοίνῳ",
+      "surface_form": "σχοίνῳ",
+      "base_label": "σχοῖνος",
+      "normalized_label": "σχοῖνος",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [
+        "dioscorides-1-58-amarakinon:process:styphein-2"
+      ],
+      "quantities": [],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "58",
+        "section": "1-2",
+        "citation": {
+          "start": "53.10",
+          "end": "54.1"
+        }
+      }
+    },
+    {
+      "ingredient_id": "dioscorides-1-58-amarakinon:ingredient:kalamos-5",
+      "ingredient_urn": "urn:aos:recipe-ingredient:dioscorides-1-58-amarakinon:ingredient:kalamos-5",
+      "source_span": "καλάμῳ",
+      "surface_form": "καλάμῳ",
+      "base_label": "κάλαμος",
+      "normalized_label": "κάλαμος",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [
+        "dioscorides-1-58-amarakinon:process:styphein-2"
+      ],
+      "quantities": [],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "58",
+        "section": "1-2",
+        "citation": {
+          "start": "53.10",
+          "end": "54.1"
+        }
+      }
+    },
+    {
+      "ingredient_id": "dioscorides-1-58-amarakinon:ingredient:amarakos-6",
+      "ingredient_urn": "urn:aos:recipe-ingredient:dioscorides-1-58-amarakinon:ingredient:amarakos-6",
+      "source_span": "ἀμαράκῳ",
+      "surface_form": "ἀμαράκῳ",
+      "base_label": "ἀμάρακος",
+      "normalized_label": "ἀμάρακος",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [
+        "dioscorides-1-58-amarakinon:process:edynein-3",
+        "dioscorides-1-58-amarakinon:process:koptein-6"
+      ],
+      "quantities": [],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "58",
+        "section": "1-2",
+        "citation": {
+          "start": "53.10",
+          "end": "54.1"
+        }
+      }
+    },
+    {
+      "ingredient_id": "dioscorides-1-58-amarakinon:ingredient:kostos-7",
+      "ingredient_urn": "urn:aos:recipe-ingredient:dioscorides-1-58-amarakinon:ingredient:kostos-7",
+      "source_span": "κόστῳ",
+      "surface_form": "κόστῳ",
+      "base_label": "κόστος",
+      "normalized_label": "κόστος",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [
+        "dioscorides-1-58-amarakinon:process:edynein-3",
+        "dioscorides-1-58-amarakinon:process:koptein-6"
+      ],
+      "quantities": [],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "58",
+        "section": "1-2",
+        "citation": {
+          "start": "53.10",
+          "end": "54.1"
+        }
+      }
+    },
+    {
+      "ingredient_id": "dioscorides-1-58-amarakinon:ingredient:amomon-8",
+      "ingredient_urn": "urn:aos:recipe-ingredient:dioscorides-1-58-amarakinon:ingredient:amomon-8",
+      "source_span": "ἀμώμῳ",
+      "surface_form": "ἀμώμῳ",
+      "base_label": "ἄμωμον",
+      "normalized_label": "ἄμωμον",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [
+        "dioscorides-1-58-amarakinon:process:edynein-3",
+        "dioscorides-1-58-amarakinon:process:koptein-6"
+      ],
+      "quantities": [],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "58",
+        "section": "1-2",
+        "citation": {
+          "start": "53.10",
+          "end": "54.1"
+        }
+      }
+    },
+    {
+      "ingredient_id": "dioscorides-1-58-amarakinon:ingredient:nardos-9",
+      "ingredient_urn": "urn:aos:recipe-ingredient:dioscorides-1-58-amarakinon:ingredient:nardos-9",
+      "source_span": "νάρδῳ",
+      "surface_form": "νάρδῳ",
+      "base_label": "νάρδος",
+      "normalized_label": "νάρδος",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [
+        "dioscorides-1-58-amarakinon:process:edynein-3",
+        "dioscorides-1-58-amarakinon:process:koptein-6"
+      ],
+      "quantities": [],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "58",
+        "section": "1-2",
+        "citation": {
+          "start": "53.10",
+          "end": "54.1"
+        }
+      }
+    },
+    {
+      "ingredient_id": "dioscorides-1-58-amarakinon:ingredient:kassia-10",
+      "ingredient_urn": "urn:aos:recipe-ingredient:dioscorides-1-58-amarakinon:ingredient:kassia-10",
+      "source_span": "κασσίᾳ",
+      "surface_form": "κασσίᾳ",
+      "base_label": "κασσία",
+      "normalized_label": "κασσία",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [
+        "dioscorides-1-58-amarakinon:process:edynein-3",
+        "dioscorides-1-58-amarakinon:process:koptein-6"
+      ],
+      "quantities": [],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "58",
+        "section": "1-2",
+        "citation": {
+          "start": "53.10",
+          "end": "54.1"
+        }
+      }
+    },
+    {
+      "ingredient_id": "dioscorides-1-58-amarakinon:ingredient:karpos-balsamoy-11",
+      "ingredient_urn": "urn:aos:recipe-ingredient:dioscorides-1-58-amarakinon:ingredient:karpos-balsamoy-11",
+      "source_span": "καρπῷ βαλσάμου",
+      "surface_form": "καρπῷ βαλσάμου",
+      "base_label": "καρπός",
+      "normalized_label": "καρπὸς βαλσάμου",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [
+        "dioscorides-1-58-amarakinon:process:edynein-3",
+        "dioscorides-1-58-amarakinon:process:koptein-6"
+      ],
+      "quantities": [],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "58",
+        "section": "1-2",
+        "citation": {
+          "start": "53.10",
+          "end": "54.1"
+        }
+      }
+    },
+    {
+      "ingredient_id": "dioscorides-1-58-amarakinon:ingredient:smyrna-12",
+      "ingredient_urn": "urn:aos:recipe-ingredient:dioscorides-1-58-amarakinon:ingredient:smyrna-12",
+      "source_span": "σμύρνῃ",
+      "surface_form": "σμύρνῃ",
+      "base_label": "σμύρνα",
+      "normalized_label": "σμύρνα",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [
+        "dioscorides-1-58-amarakinon:process:edynein-3",
+        "dioscorides-1-58-amarakinon:process:koptein-6"
+      ],
+      "quantities": [],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "58",
+        "section": "1-2",
+        "citation": {
+          "start": "53.10",
+          "end": "54.1"
+        }
+      }
+    },
+    {
+      "ingredient_id": "dioscorides-1-58-amarakinon:ingredient:kinamomon-13",
+      "ingredient_urn": "urn:aos:recipe-ingredient:dioscorides-1-58-amarakinon:ingredient:kinamomon-13",
+      "source_span": "κινάμωμον",
+      "surface_form": "κινάμωμον",
+      "base_label": "κινάμωμον",
+      "normalized_label": "κινάμωμον",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [
+        "dioscorides-1-58-amarakinon:process:misgein-4",
+        "dioscorides-1-58-amarakinon:process:koptein-6"
+      ],
+      "quantities": [],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "58",
+        "section": "1-2",
+        "citation": {
+          "start": "53.10",
+          "end": "54.1"
+        }
+      }
+    },
+    {
+      "ingredient_id": "dioscorides-1-58-amarakinon:ingredient:meli-14",
+      "ingredient_urn": "urn:aos:recipe-ingredient:dioscorides-1-58-amarakinon:ingredient:meli-14",
+      "source_span": "μέλι",
+      "surface_form": "μέλι",
+      "base_label": "μέλι",
+      "normalized_label": "μέλι",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [
+        "dioscorides-1-58-amarakinon:process:paralambanein-5"
+      ],
+      "quantities": [],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "58",
+        "section": "1-2",
+        "citation": {
+          "start": "53.10",
+          "end": "54.1"
+        }
+      }
+    },
+    {
+      "ingredient_id": "dioscorides-1-58-amarakinon:ingredient:oinos-15",
+      "ingredient_urn": "urn:aos:recipe-ingredient:dioscorides-1-58-amarakinon:ingredient:oinos-15",
+      "source_span": "οἶνος",
+      "surface_form": "οἶνος",
+      "base_label": "οἶνος",
+      "normalized_label": "οἶνος",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [
+        "dioscorides-1-58-amarakinon:process:paralambanein-5"
+      ],
+      "quantities": [],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "58",
+        "section": "1-2",
+        "citation": {
+          "start": "53.10",
+          "end": "54.1"
+        }
+      }
+    }
+  ],
+  "processes": [
+    {
+      "process_id": "dioscorides-1-58-amarakinon:process:skeyazein-1",
+      "process_urn": "urn:aos:recipe-process:dioscorides-1-58-amarakinon:process:skeyazein-1",
+      "source_span": "σκευάζεται",
+      "surface_form": "σκευάζεται",
+      "normalized_label": "σκευάζειν",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "58",
+        "section": "1-2",
+        "citation": {
+          "start": "53.10",
+          "end": "54.1"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-1-58-amarakinon:process:styphein-2",
+      "process_urn": "urn:aos:recipe-process:dioscorides-1-58-amarakinon:process:styphein-2",
+      "source_span": "στυφομένων",
+      "surface_form": "στυφομένων",
+      "normalized_label": "στύφειν",
+      "target_type": "ingredient",
+      "target_ids": [
+        "dioscorides-1-58-amarakinon:ingredient:elaion-omphakinon-1",
+        "dioscorides-1-58-amarakinon:ingredient:elaion-balaninon-2"
+      ],
+      "quantities": [],
+      "qualifiers": [],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "58",
+        "section": "1-2",
+        "citation": {
+          "start": "53.10",
+          "end": "54.1"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-1-58-amarakinon:process:edynein-3",
+      "process_urn": "urn:aos:recipe-process:dioscorides-1-58-amarakinon:process:edynein-3",
+      "source_span": "ἡδυνομένων",
+      "surface_form": "ἡδυνομένων",
+      "normalized_label": "ἡδύνειν",
+      "target_type": "ingredient",
+      "target_ids": [
+        "dioscorides-1-58-amarakinon:ingredient:elaion-omphakinon-1",
+        "dioscorides-1-58-amarakinon:ingredient:elaion-balaninon-2"
+      ],
+      "quantities": [],
+      "qualifiers": [],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "58",
+        "section": "1-2",
+        "citation": {
+          "start": "53.10",
+          "end": "54.1"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-1-58-amarakinon:process:misgein-4",
+      "process_urn": "urn:aos:recipe-process:dioscorides-1-58-amarakinon:process:misgein-4",
+      "source_span": "μίσγουσι",
+      "surface_form": "μίσγουσι",
+      "normalized_label": "μίσγειν",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "manner",
+          "source_span": "πολυτελέστερον",
+          "normalized_value": "πολυτελέστερον",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "58",
+        "section": "1-2",
+        "citation": {
+          "start": "53.10",
+          "end": "54.1"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-1-58-amarakinon:process:paralambanein-5",
+      "process_urn": "urn:aos:recipe-process:dioscorides-1-58-amarakinon:process:paralambanein-5",
+      "source_span": "παραλαμβάνεται",
+      "surface_form": "παραλαμβάνεται",
+      "normalized_label": "παραλαμβάνειν",
+      "target_type": "ingredient",
+      "target_ids": [
+        "dioscorides-1-58-amarakinon:ingredient:meli-14",
+        "dioscorides-1-58-amarakinon:ingredient:oinos-15"
+      ],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "other",
+          "source_span": "εἰς τὴν τῶν ἀγγείων χρίσιν καὶ φύραδιν τῶν κεκομμένων ἀρωμάτων",
+          "normalized_value": "εἰς τὴν τῶν ἀγγείων χρίσιν καὶ φύραδιν τῶν κεκομμένων ἀρωμάτων",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "58",
+        "section": "1-2",
+        "citation": {
+          "start": "53.10",
+          "end": "54.1"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-1-58-amarakinon:process:koptein-6",
+      "process_urn": "urn:aos:recipe-process:dioscorides-1-58-amarakinon:process:koptein-6",
+      "source_span": "κεκομμένων",
+      "surface_form": "κεκομμένων",
+      "normalized_label": "κόπτειν",
+      "target_type": "ingredient",
+      "target_ids": [
+        "dioscorides-1-58-amarakinon:ingredient:amarakos-6",
+        "dioscorides-1-58-amarakinon:ingredient:kostos-7",
+        "dioscorides-1-58-amarakinon:ingredient:amomon-8",
+        "dioscorides-1-58-amarakinon:ingredient:nardos-9",
+        "dioscorides-1-58-amarakinon:ingredient:kassia-10",
+        "dioscorides-1-58-amarakinon:ingredient:karpos-balsamoy-11",
+        "dioscorides-1-58-amarakinon:ingredient:smyrna-12",
+        "dioscorides-1-58-amarakinon:ingredient:kinamomon-13"
+      ],
+      "quantities": [],
+      "qualifiers": [],
+      "certainty": "uncertain",
+      "notes": [
+        "The collective τῶν κεκομμένων ἀρωμάτων is mapped to the aromatic ingredients named in the recipe."
+      ],
+      "host_locator": {
+        "book": "1",
+        "chapter": "58",
+        "section": "1-2",
+        "citation": {
+          "start": "53.10",
+          "end": "54.1"
+        }
+      }
+    }
+  ],
+  "materials": [
+    {
+      "material_id": "dioscorides-1-58-amarakinon:material:aggeion-1",
+      "material_urn": "urn:aos:recipe-material:dioscorides-1-58-amarakinon:material:aggeion-1",
+      "source_span": "ἀγγείων",
+      "surface_form": "ἀγγείων",
+      "normalized_label": "ἀγγεῖον",
+      "role": "apparatus",
+      "certainty": "certain",
+      "quantities": [],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "58",
+        "section": "1-2",
+        "citation": {
+          "start": "53.10",
+          "end": "54.1"
+        }
+      }
+    },
+    {
+      "material_id": "dioscorides-1-58-amarakinon:material:pilema-2",
+      "material_urn": "urn:aos:recipe-material:dioscorides-1-58-amarakinon:material:pilema-2",
+      "source_span": "πιλήμασιν ἀραιοῖς",
+      "surface_form": "πιλήμασιν ἀραιοῖς",
+      "normalized_label": "πίλημα",
+      "role": "carrier",
+      "certainty": "certain",
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "other",
+          "source_span": "ἀραιοῖς",
+          "normalized_value": "ἀραιός",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "58",
+        "section": "1-2",
+        "citation": {
+          "start": "53.10",
+          "end": "54.1"
+        }
+      }
+    }
+  ],
+  "people": [],
+  "places": [
+    {
+      "place_id": "dioscorides-1-58-amarakinon:place:kyzikos-1",
+      "place_urn": "urn:aos:recipe-place:dioscorides-1-58-amarakinon:place:kyzikos-1",
+      "source_span": "ἐν Κυζίκῳ",
+      "surface_form": "ἐν Κυζίκῳ",
+      "normalized_label": "Κύζικος",
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "58",
+        "section": "1-2",
+        "citation": {
+          "start": "53.10",
+          "end": "54.1"
+        }
+      }
+    }
+  ],
+  "uses": [
+    {
+      "use_id": "dioscorides-1-58-amarakinon:use:eychrestoyn-eis-te-tas-sepas-kai-syriggas-kai-ydrokelas-meta-tas-cheiroyrgias-1",
+      "use_urn": "urn:aos:recipe-use:dioscorides-1-58-amarakinon:use:eychrestoyn-eis-te-tas-sepas-kai-syriggas-kai-ydrokelas-meta-tas-cheiroyrgias-1",
+      "category": "medical",
+      "source_span": "εὐχρηστοῦν εἴς τε τὰς σῆπας καὶ σύριγγας καὶ ὑδροκήλας μετὰ τὰς χειρουργίας",
+      "snippet": "εὐχρηστοῦν εἴς τε τὰς σῆπας καὶ σύριγγας καὶ ὑδροκήλας μετὰ τὰς χειρουργίας",
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "58",
+        "section": "1-2",
+        "citation": {
+          "start": "53.10",
+          "end": "54.1"
+        }
+      }
+    },
+    {
+      "use_id": "dioscorides-1-58-amarakinon:use:perirrettei-te-tas-escharas-kai-ta-tetheriomena-elke-2",
+      "use_urn": "urn:aos:recipe-use:dioscorides-1-58-amarakinon:use:perirrettei-te-tas-escharas-kai-ta-tetheriomena-elke-2",
+      "category": "medical",
+      "source_span": "περιρρήττει τε τὰς ἐσχάρας καὶ τὰ τεθηριωμένα ἕλκη",
+      "snippet": "περιρρήττει τε τὰς ἐσχάρας καὶ τὰ τεθηριωμένα ἕλκη",
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "58",
+        "section": "1-2",
+        "citation": {
+          "start": "53.10",
+          "end": "54.1"
+        }
+      }
+    },
+    {
+      "use_id": "dioscorides-1-58-amarakinon:use:pros-te-dysoyrian-armozei-perichriomenoy-toy-daktylioy-3",
+      "use_urn": "urn:aos:recipe-use:dioscorides-1-58-amarakinon:use:pros-te-dysoyrian-armozei-perichriomenoy-toy-daktylioy-3",
+      "category": "medical",
+      "source_span": "πρός τε δυσουρίαν ἁρμόζει περιχριομένου τοῦ δακτυλίου",
+      "snippet": "πρός τε δυσουρίαν ἁρμόζει περιχριομένου τοῦ δακτυλίου",
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "58",
+        "section": "1-2",
+        "citation": {
+          "start": "53.10",
+          "end": "54.1"
+        }
+      }
+    },
+    {
+      "use_id": "dioscorides-1-58-amarakinon:use:kai-pros-tas-phlegmonas-aytoy-kai-pros-aimorroidon-anastomosin-perichriomenon-4",
+      "use_urn": "urn:aos:recipe-use:dioscorides-1-58-amarakinon:use:kai-pros-tas-phlegmonas-aytoy-kai-pros-aimorroidon-anastomosin-perichriomenon-4",
+      "category": "medical",
+      "source_span": "καὶ πρὸς τὰς φλεγμονὰς αὐτοῦ καὶ πρὸς αἱμορροίδων ἀναστόμωσιν περιχριόμενον",
+      "snippet": "καὶ πρὸς τὰς φλεγμονὰς αὐτοῦ καὶ πρὸς αἱμορροίδων ἀναστόμωσιν περιχριόμενον",
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "58",
+        "section": "1-2",
+        "citation": {
+          "start": "53.10",
+          "end": "54.1"
+        }
+      }
+    },
+    {
+      "use_id": "dioscorides-1-58-amarakinon:use:emmena-te-kinei-prostithemenon-te-metra-5",
+      "use_urn": "urn:aos:recipe-use:dioscorides-1-58-amarakinon:use:emmena-te-kinei-prostithemenon-te-metra-5",
+      "category": "medical",
+      "source_span": "ἔμμηνά τε κινεῖ προστιθέμενον τῇ μήτρᾳ",
+      "snippet": "ἔμμηνά τε κινεῖ προστιθέμενον τῇ μήτρᾳ",
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "58",
+        "section": "1-2",
+        "citation": {
+          "start": "53.10",
+          "end": "54.1"
+        }
+      }
+    },
+    {
+      "use_id": "dioscorides-1-58-amarakinon:use:kai-sklerias-kai-oidemata-en-ystera-diaphorei-6",
+      "use_urn": "urn:aos:recipe-use:dioscorides-1-58-amarakinon:use:kai-sklerias-kai-oidemata-en-ystera-diaphorei-6",
+      "category": "medical",
+      "source_span": "καὶ σκληρίας καὶ οἰδήματα ἐν ὑστέρᾳ διαφορεῖ",
+      "snippet": "καὶ σκληρίας καὶ οἰδήματα ἐν ὑστέρᾳ διαφορεῖ",
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "58",
+        "section": "1-2",
+        "citation": {
+          "start": "53.10",
+          "end": "54.1"
+        }
+      }
+    },
+    {
+      "use_id": "dioscorides-1-58-amarakinon:use:kai-pros-ta-myotrota-kai-neyrotrota-sympherei-en-pilemasin-araiois-brechomenon-kai-epitithemenon-7",
+      "use_urn": "urn:aos:recipe-use:dioscorides-1-58-amarakinon:use:kai-pros-ta-myotrota-kai-neyrotrota-sympherei-en-pilemasin-araiois-brechomenon-kai-epitithemenon-7",
+      "category": "medical",
+      "source_span": "καὶ πρὸς τὰ μυότρωτα καὶ νευρότρωτα συμφέρει ἐν πιλήμασιν ἀραιοῖς βρεχόμενον καὶ ἐπιτιθέμενον",
+      "snippet": "καὶ πρὸς τὰ μυότρωτα καὶ νευρότρωτα συμφέρει ἐν πιλήμασιν ἀραιοῖς βρεχόμενον καὶ ἐπιτιθέμενον",
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "58",
+        "section": "1-2",
+        "citation": {
+          "start": "53.10",
+          "end": "54.1"
+        }
+      }
+    }
+  ],
+  "preparation_names": [],
+  "other_preparations_mentioned": [
+    {
+      "reference_id": "dioscorides-1-58-amarakinon:reference:omphakinon-elaion-1",
+      "reference_urn": "urn:aos:recipe-reference:dioscorides-1-58-amarakinon:reference:omphakinon-elaion-1",
+      "source_span": "ὀμφακίνου ἐλαίου",
+      "surface_form": "ὀμφακίνου ἐλαίου",
+      "normalized_label": "ὀμφακῖνον ἔλαιον",
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "58",
+        "section": "1-2",
+        "citation": {
+          "start": "53.10",
+          "end": "54.1"
+        }
+      }
+    },
+    {
+      "reference_id": "dioscorides-1-58-amarakinon:reference:balaninon-2",
+      "reference_urn": "urn:aos:recipe-reference:dioscorides-1-58-amarakinon:reference:balaninon-2",
+      "source_span": "βαλανίνου",
+      "surface_form": "βαλανίνου",
+      "normalized_label": "βαλανῖνον",
+      "certainty": "uncertain",
+      "notes": [
+        "elliptical after ἐλαίου in διά τε ὀμφακίνου ἐλαίου καὶ βαλανίνου"
+      ],
+      "host_locator": {
+        "book": "1",
+        "chapter": "58",
+        "section": "1-2",
+        "citation": {
+          "start": "53.10",
+          "end": "54.1"
+        }
+      }
+    }
+  ],
+  "works_mentioned": [],
+  "entities": [
+    {
+      "entity_urn": "urn:aos:recipe-preparation:dioscorides-1-58-amarakinon:preparation:amarakinon",
+      "entity_type": "label",
+      "surface_form": "ἀμαράκινον",
+      "normalized_label": "ἀμαράκινον"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:dioscorides-1-58-amarakinon:ingredient:elaion-omphakinon-1",
+      "entity_type": "ingredient",
+      "surface_form": "ὀμφακίνου ἐλαίου",
+      "normalized_label": "ἔλαιον ὀμφάκινον"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:dioscorides-1-58-amarakinon:ingredient:elaion-balaninon-2",
+      "entity_type": "ingredient",
+      "surface_form": "βαλανίνου",
+      "normalized_label": "ἔλαιον βαλάνινον"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:dioscorides-1-58-amarakinon:ingredient:xylobalsamon-3",
+      "entity_type": "ingredient",
+      "surface_form": "ξυλοβαλσάμῳ",
+      "normalized_label": "ξυλοβάλσαμον"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:dioscorides-1-58-amarakinon:ingredient:schoinos-4",
+      "entity_type": "ingredient",
+      "surface_form": "σχοίνῳ",
+      "normalized_label": "σχοῖνος"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:dioscorides-1-58-amarakinon:ingredient:kalamos-5",
+      "entity_type": "ingredient",
+      "surface_form": "καλάμῳ",
+      "normalized_label": "κάλαμος"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:dioscorides-1-58-amarakinon:ingredient:amarakos-6",
+      "entity_type": "ingredient",
+      "surface_form": "ἀμαράκῳ",
+      "normalized_label": "ἀμάρακος"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:dioscorides-1-58-amarakinon:ingredient:kostos-7",
+      "entity_type": "ingredient",
+      "surface_form": "κόστῳ",
+      "normalized_label": "κόστος"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:dioscorides-1-58-amarakinon:ingredient:amomon-8",
+      "entity_type": "ingredient",
+      "surface_form": "ἀμώμῳ",
+      "normalized_label": "ἄμωμον"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:dioscorides-1-58-amarakinon:ingredient:nardos-9",
+      "entity_type": "ingredient",
+      "surface_form": "νάρδῳ",
+      "normalized_label": "νάρδος"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:dioscorides-1-58-amarakinon:ingredient:kassia-10",
+      "entity_type": "ingredient",
+      "surface_form": "κασσίᾳ",
+      "normalized_label": "κασσία"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:dioscorides-1-58-amarakinon:ingredient:karpos-balsamoy-11",
+      "entity_type": "ingredient",
+      "surface_form": "καρπῷ βαλσάμου",
+      "normalized_label": "καρπὸς βαλσάμου"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:dioscorides-1-58-amarakinon:ingredient:smyrna-12",
+      "entity_type": "ingredient",
+      "surface_form": "σμύρνῃ",
+      "normalized_label": "σμύρνα"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:dioscorides-1-58-amarakinon:ingredient:kinamomon-13",
+      "entity_type": "ingredient",
+      "surface_form": "κινάμωμον",
+      "normalized_label": "κινάμωμον"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:dioscorides-1-58-amarakinon:ingredient:meli-14",
+      "entity_type": "ingredient",
+      "surface_form": "μέλι",
+      "normalized_label": "μέλι"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:dioscorides-1-58-amarakinon:ingredient:oinos-15",
+      "entity_type": "ingredient",
+      "surface_form": "οἶνος",
+      "normalized_label": "οἶνος"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-1-58-amarakinon:process:skeyazein-1",
+      "entity_type": "process",
+      "surface_form": "σκευάζεται",
+      "normalized_label": "σκευάζειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-1-58-amarakinon:process:styphein-2",
+      "entity_type": "process",
+      "surface_form": "στυφομένων",
+      "normalized_label": "στύφειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-1-58-amarakinon:process:edynein-3",
+      "entity_type": "process",
+      "surface_form": "ἡδυνομένων",
+      "normalized_label": "ἡδύνειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-1-58-amarakinon:process:misgein-4",
+      "entity_type": "process",
+      "surface_form": "μίσγουσι",
+      "normalized_label": "μίσγειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-1-58-amarakinon:process:paralambanein-5",
+      "entity_type": "process",
+      "surface_form": "παραλαμβάνεται",
+      "normalized_label": "παραλαμβάνειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-1-58-amarakinon:process:koptein-6",
+      "entity_type": "process",
+      "surface_form": "κεκομμένων",
+      "normalized_label": "κόπτειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-material:dioscorides-1-58-amarakinon:material:aggeion-1",
+      "entity_type": "material",
+      "surface_form": "ἀγγείων",
+      "normalized_label": "ἀγγεῖον"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-material:dioscorides-1-58-amarakinon:material:pilema-2",
+      "entity_type": "material",
+      "surface_form": "πιλήμασιν ἀραιοῖς",
+      "normalized_label": "πίλημα"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-place:dioscorides-1-58-amarakinon:place:kyzikos-1",
+      "entity_type": "place",
+      "surface_form": "ἐν Κυζίκῳ",
+      "normalized_label": "Κύζικος"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-reference:dioscorides-1-58-amarakinon:reference:omphakinon-elaion-1",
+      "entity_type": "preparation_reference",
+      "surface_form": "ὀμφακίνου ἐλαίου",
+      "normalized_label": "ὀμφακῖνον ἔλαιον"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-reference:dioscorides-1-58-amarakinon:reference:balaninon-2",
+      "entity_type": "preparation_reference",
+      "surface_form": "βαλανίνου",
+      "normalized_label": "βαλανῖνον"
+    }
+  ],
+  "canonical_file": "data/recipes/dioscorides-1-58-amarakinon.json",
+  "source_entry": {
+    "source_id": "dioscorides-1-58-amarakinon",
+    "derived_recipe_id": "dioscorides-1-58-amarakinon",
+    "entry_kind": "recipe",
+    "source_kind": "main_text",
+    "source_lines": {
+      "start": 1855,
+      "end": 3167
+    },
+    "section_markers": []
+  },
+  "entity_groups": {
+    "labels": [
+      {
+        "entity_urn": "urn:aos:recipe-preparation:dioscorides-1-58-amarakinon:preparation:amarakinon",
+        "surface_form": "ἀμαράκινον",
+        "normalized_label": "ἀμαράκινον"
+      }
+    ],
+    "ingredients": [
+      {
+        "entity_urn": "urn:aos:recipe-ingredient:dioscorides-1-58-amarakinon:ingredient:elaion-omphakinon-1",
+        "surface_form": "ὀμφακίνου ἐλαίου",
+        "normalized_label": "ἔλαιον ὀμφάκινον",
+        "quantity_display": ""
+      },
+      {
+        "entity_urn": "urn:aos:recipe-ingredient:dioscorides-1-58-amarakinon:ingredient:elaion-balaninon-2",
+        "surface_form": "βαλανίνου",
+        "normalized_label": "ἔλαιον βαλάνινον",
+        "quantity_display": ""
+      },
+      {
+        "entity_urn": "urn:aos:recipe-ingredient:dioscorides-1-58-amarakinon:ingredient:xylobalsamon-3",
+        "surface_form": "ξυλοβαλσάμῳ",
+        "normalized_label": "ξυλοβάλσαμον",
+        "quantity_display": ""
+      },
+      {
+        "entity_urn": "urn:aos:recipe-ingredient:dioscorides-1-58-amarakinon:ingredient:schoinos-4",
+        "surface_form": "σχοίνῳ",
+        "normalized_label": "σχοῖνος",
+        "quantity_display": ""
+      },
+      {
+        "entity_urn": "urn:aos:recipe-ingredient:dioscorides-1-58-amarakinon:ingredient:kalamos-5",
+        "surface_form": "καλάμῳ",
+        "normalized_label": "κάλαμος",
+        "quantity_display": ""
+      },
+      {
+        "entity_urn": "urn:aos:recipe-ingredient:dioscorides-1-58-amarakinon:ingredient:amarakos-6",
+        "surface_form": "ἀμαράκῳ",
+        "normalized_label": "ἀμάρακος",
+        "quantity_display": ""
+      },
+      {
+        "entity_urn": "urn:aos:recipe-ingredient:dioscorides-1-58-amarakinon:ingredient:kostos-7",
+        "surface_form": "κόστῳ",
+        "normalized_label": "κόστος",
+        "quantity_display": ""
+      },
+      {
+        "entity_urn": "urn:aos:recipe-ingredient:dioscorides-1-58-amarakinon:ingredient:amomon-8",
+        "surface_form": "ἀμώμῳ",
+        "normalized_label": "ἄμωμον",
+        "quantity_display": ""
+      },
+      {
+        "entity_urn": "urn:aos:recipe-ingredient:dioscorides-1-58-amarakinon:ingredient:nardos-9",
+        "surface_form": "νάρδῳ",
+        "normalized_label": "νάρδος",
+        "quantity_display": ""
+      },
+      {
+        "entity_urn": "urn:aos:recipe-ingredient:dioscorides-1-58-amarakinon:ingredient:kassia-10",
+        "surface_form": "κασσίᾳ",
+        "normalized_label": "κασσία",
+        "quantity_display": ""
+      },
+      {
+        "entity_urn": "urn:aos:recipe-ingredient:dioscorides-1-58-amarakinon:ingredient:karpos-balsamoy-11",
+        "surface_form": "καρπῷ βαλσάμου",
+        "normalized_label": "καρπὸς βαλσάμου",
+        "quantity_display": ""
+      },
+      {
+        "entity_urn": "urn:aos:recipe-ingredient:dioscorides-1-58-amarakinon:ingredient:smyrna-12",
+        "surface_form": "σμύρνῃ",
+        "normalized_label": "σμύρνα",
+        "quantity_display": ""
+      },
+      {
+        "entity_urn": "urn:aos:recipe-ingredient:dioscorides-1-58-amarakinon:ingredient:kinamomon-13",
+        "surface_form": "κινάμωμον",
+        "normalized_label": "κινάμωμον",
+        "quantity_display": ""
+      },
+      {
+        "entity_urn": "urn:aos:recipe-ingredient:dioscorides-1-58-amarakinon:ingredient:meli-14",
+        "surface_form": "μέλι",
+        "normalized_label": "μέλι",
+        "quantity_display": ""
+      },
+      {
+        "entity_urn": "urn:aos:recipe-ingredient:dioscorides-1-58-amarakinon:ingredient:oinos-15",
+        "surface_form": "οἶνος",
+        "normalized_label": "οἶνος",
+        "quantity_display": ""
+      }
+    ],
+    "processes": [
+      {
+        "entity_urn": "urn:aos:recipe-process:dioscorides-1-58-amarakinon:process:skeyazein-1",
+        "surface_form": "σκευάζεται",
+        "normalized_label": "σκευάζειν"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-process:dioscorides-1-58-amarakinon:process:styphein-2",
+        "surface_form": "στυφομένων",
+        "normalized_label": "στύφειν"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-process:dioscorides-1-58-amarakinon:process:edynein-3",
+        "surface_form": "ἡδυνομένων",
+        "normalized_label": "ἡδύνειν"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-process:dioscorides-1-58-amarakinon:process:misgein-4",
+        "surface_form": "μίσγουσι",
+        "normalized_label": "μίσγειν"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-process:dioscorides-1-58-amarakinon:process:paralambanein-5",
+        "surface_form": "παραλαμβάνεται",
+        "normalized_label": "παραλαμβάνειν"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-process:dioscorides-1-58-amarakinon:process:koptein-6",
+        "surface_form": "κεκομμένων",
+        "normalized_label": "κόπτειν"
+      }
+    ],
+    "tools": [
+      {
+        "entity_urn": "urn:aos:recipe-material:dioscorides-1-58-amarakinon:material:aggeion-1",
+        "surface_form": "ἀγγείων",
+        "normalized_label": "ἀγγεῖον"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-material:dioscorides-1-58-amarakinon:material:pilema-2",
+        "surface_form": "πιλήμασιν ἀραιοῖς",
+        "normalized_label": "πίλημα"
+      }
+    ],
+    "other_preparations_mentioned": [
+      {
+        "entity_urn": "urn:aos:recipe-reference:dioscorides-1-58-amarakinon:reference:omphakinon-elaion-1",
+        "surface_form": "ὀμφακίνου ἐλαίου",
+        "normalized_label": "ὀμφακῖνον ἔλαιον"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-reference:dioscorides-1-58-amarakinon:reference:balaninon-2",
+        "surface_form": "βαλανίνου",
+        "normalized_label": "βαλανῖνον"
+      }
+    ],
+    "people": [],
+    "places": [
+      {
+        "entity_urn": "urn:aos:recipe-place:dioscorides-1-58-amarakinon:place:kyzikos-1",
+        "surface_form": "ἐν Κυζίκῳ",
+        "normalized_label": "Κύζικος"
+      }
+    ],
+    "works_mentioned": [],
+    "preparation_names": []
+  }
+}

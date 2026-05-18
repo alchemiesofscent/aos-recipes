@@ -1,0 +1,502 @@
+{
+  "dataset_key": "paul_book7_perfumes",
+  "source_json": "experiments/paul-book7-ch20-perfumes/data/paul_book7_ch20_perfumes.json",
+  "host_raw_file": "tei/raw/tlg0715001.xml",
+  "work_slug": "paul.b7.perfumes",
+  "recipe_id": "paul-7-20-21",
+  "recipe_urn": "urn:aos:recipe:paul-7-20-21",
+  "record_urn": "urn:aos:recipe-record:paul-7-20-21",
+  "author": "Paul of Aegina",
+  "work": "Medical Epitome",
+  "book": "7",
+  "chapter": "20",
+  "section": "21",
+  "chapter_name": "Ἐλαίων καὶ μύρων σκευασίαι διάφοροι.",
+  "lemma": "Μαστίχινον",
+  "text": "Τὸ μὲν ἁπλούστατον γίνεται Χίας μαστίχης 𐆄 α ἐμβαλλομένης Ἰταλικῷ ξ̸ ὀμφακίνου ἐλαίου καὶ ἑψομένης ἐν διπλώματι. τινὲς δὲ καὶ ἀψινθίας καὶ στύρακος ἀνὰ 𐆄 α ἐμβάλλουσιν.",
+  "original_text": null,
+  "text_source": null,
+  "emendations": [],
+  "emendation_count": 0,
+  "source_kind": null,
+  "entry_kind": "recipe",
+  "citation": {
+    "pages": [
+      "2.386"
+    ],
+    "start": {
+      "page": "2.386",
+      "line": "1",
+      "xml_id": "heib-2-386-1"
+    },
+    "end": {
+      "page": "2.386",
+      "line": "4",
+      "xml_id": "heib-2-386-4"
+    },
+    "citation": {
+      "start": "2.386.1",
+      "end": "2.386.4"
+    },
+    "page_spans": [
+      {
+        "page": "2.386",
+        "start_line": "1",
+        "end_line": "4"
+      }
+    ],
+    "lines": [
+      {
+        "page": "2.386",
+        "line": "1",
+        "xml_id": "heib-2-386-1",
+        "break_no": false,
+        "text": "Μαστίχινον.",
+        "citation": "2.386.1"
+      },
+      {
+        "page": "2.386",
+        "line": "2",
+        "xml_id": "heib-2-386-2",
+        "break_no": false,
+        "text": "Τὸ μὲν ἁπλούστατον γίνεται Χίας μαστίχης 𐆄 α ἐμβαλλομένης",
+        "citation": "2.386.2"
+      },
+      {
+        "page": "2.386",
+        "line": "3",
+        "xml_id": "heib-2-386-3",
+        "break_no": false,
+        "text": "Ἰταλικῷ ξ̸ ὀμφακίνου ἐλαίου καὶ ἑψομένης ἐν διπλώματι. τινὲς δὲ",
+        "citation": "2.386.3"
+      },
+      {
+        "page": "2.386",
+        "line": "4",
+        "xml_id": "heib-2-386-4",
+        "break_no": false,
+        "text": "καὶ ἀψινθίας καὶ στύρακος ἀνὰ 𐆄 α ἐμβάλλουσιν.",
+        "citation": "2.386.4"
+      }
+    ],
+    "edition_key": "heiberg"
+  },
+  "notes": [
+    "The distributive ἀνὰ in 'ἀνὰ 𐆄 α' governs the coordinated ingredient cluster ἀψινθίας καὶ στύρακος."
+  ],
+  "alignment_status": "pending",
+  "alignment_confidence": "pending",
+  "alignment_evidence": null,
+  "review_status": "reviewed_structured_authority",
+  "review_provenance": {
+    "authority_source": "reports/entity_review/structured/paul.json",
+    "authority_recipe_id": "paul-7-20-21",
+    "authority_lemma": "Μαστίχινον",
+    "model": "gpt-5.4",
+    "reasoning_effort": "high",
+    "dataset_key": "paul_book7_perfumes",
+    "entity_model_version": "1.2",
+    "authority_version": "2026-04-13-qty-alt-v1",
+    "prompt_version": "qty-alt-pass-v1",
+    "build_version": "2026-05-18T15:51:35Z"
+  },
+  "schema_version": "1.2",
+  "build_metadata": {
+    "builder": "scripts/recipes/build_recipe_entities.py",
+    "built_at": "2026-05-18T15:51:35Z",
+    "source_structured_authority": "reports/entity_review/structured/paul.json",
+    "authority_model": "gpt-5.4",
+    "authority_reasoning_effort": "high",
+    "dataset_key": "paul_book7_perfumes",
+    "entity_model_version": "1.2",
+    "authority_version": "2026-04-13-qty-alt-v1",
+    "prompt_version": "qty-alt-pass-v1",
+    "build_version": "2026-05-18T15:51:35Z"
+  },
+  "recipe_text_excerpt": "Τὸ μὲν ἁπλούστατον γίνεται Χίας μαστίχης 𐆄 α ἐμβαλλομένης Ἰταλικῷ ξ̸ ὀμφακίνου ἐλαίου καὶ ἑψομένης ἐν διπλώματι. τινὲς δὲ καὶ",
+  "preparation": {
+    "preparation_id": "paul-7-20-21:preparation:mastichinon",
+    "preparation_urn": "urn:aos:recipe-preparation:paul-7-20-21:preparation:mastichinon",
+    "source_span": "Μαστίχινον",
+    "surface_form": "Μαστίχινον",
+    "normalized_label": "Μαστίχινον",
+    "qualifiers": [
+      {
+        "qualifier_type": "other",
+        "source_span": "Τὸ μὲν ἁπλούστατον",
+        "normalized_value": "ἁπλούστατον",
+        "certainty": "certain",
+        "notes": []
+      }
+    ],
+    "regimen_notes": [],
+    "certainty": "certain",
+    "notes": [],
+    "host_locator": {
+      "book": "7",
+      "chapter": "20",
+      "section": "21",
+      "citation": {
+        "start": "2.386.1",
+        "end": "2.386.4"
+      }
+    }
+  },
+  "ingredients": [
+    {
+      "ingredient_id": "paul-7-20-21:ingredient:chia-mastiche-1",
+      "ingredient_urn": "urn:aos:recipe-ingredient:paul-7-20-21:ingredient:chia-mastiche-1",
+      "source_span": "Χίας μαστίχης 𐆄 α",
+      "surface_form": "Χίας μαστίχης 𐆄 α",
+      "base_label": "μαστίχη",
+      "normalized_label": "Χία μαστίχη",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [
+        "paul-7-20-21:process:emballein-1",
+        "paul-7-20-21:process:emballein-3",
+        "paul-7-20-21:process:epsein-2"
+      ],
+      "quantities": [
+        {
+          "source_span": "𐆄 α",
+          "raw_number": "α",
+          "normalized_number": 1,
+          "raw_unit": "𐆄",
+          "normalized_unit": "uncia",
+          "certainty": "uncertain",
+          "notes": [
+            "The unit siglum 𐆄 is left unresolved."
+          ]
+        }
+      ],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "7",
+        "chapter": "20",
+        "section": "21",
+        "citation": {
+          "start": "2.386.1",
+          "end": "2.386.4"
+        }
+      }
+    },
+    {
+      "ingredient_id": "paul-7-20-21:ingredient:italikon-omphakinon-elaion-2",
+      "ingredient_urn": "urn:aos:recipe-ingredient:paul-7-20-21:ingredient:italikon-omphakinon-elaion-2",
+      "source_span": "Ἰταλικῷ ξ̸ ὀμφακίνου ἐλαίου",
+      "surface_form": "Ἰταλικῷ ξ̸ ὀμφακίνου ἐλαίου",
+      "base_label": "ἔλαιον",
+      "normalized_label": "Ἰταλικὸν ὀμφάκινον ἔλαιον",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [
+        "paul-7-20-21:process:emballein-1",
+        "paul-7-20-21:process:emballein-3",
+        "paul-7-20-21:process:epsein-2"
+      ],
+      "quantities": [
+        {
+          "source_span": "ξ̸",
+          "raw_number": null,
+          "normalized_number": null,
+          "raw_unit": "ξ̸",
+          "normalized_unit": "xestes",
+          "certainty": "uncertain",
+          "notes": [
+            "The measure siglum ξ̸ is left unresolved."
+          ]
+        }
+      ],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "7",
+        "chapter": "20",
+        "section": "21",
+        "citation": {
+          "start": "2.386.1",
+          "end": "2.386.4"
+        }
+      }
+    },
+    {
+      "ingredient_id": "paul-7-20-21:ingredient:apsinthia-3",
+      "ingredient_urn": "urn:aos:recipe-ingredient:paul-7-20-21:ingredient:apsinthia-3",
+      "source_span": "ἀψινθίας",
+      "surface_form": "ἀψινθίας",
+      "base_label": "ἀψινθία",
+      "normalized_label": "ἀψινθία",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [
+        "paul-7-20-21:process:emballein-1",
+        "paul-7-20-21:process:emballein-3"
+      ],
+      "quantities": [
+        {
+          "source_span": "𐆄 α",
+          "raw_number": "α",
+          "normalized_number": 1,
+          "raw_unit": "𐆄",
+          "normalized_unit": "uncia",
+          "certainty": "uncertain",
+          "notes": [
+            "The unit siglum 𐆄 is left unresolved."
+          ]
+        }
+      ],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "7",
+        "chapter": "20",
+        "section": "21",
+        "citation": {
+          "start": "2.386.1",
+          "end": "2.386.4"
+        }
+      }
+    },
+    {
+      "ingredient_id": "paul-7-20-21:ingredient:styrax-4",
+      "ingredient_urn": "urn:aos:recipe-ingredient:paul-7-20-21:ingredient:styrax-4",
+      "source_span": "στύρακος",
+      "surface_form": "στύρακος",
+      "base_label": "στύραξ",
+      "normalized_label": "στύραξ",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [
+        "paul-7-20-21:process:emballein-1",
+        "paul-7-20-21:process:emballein-3"
+      ],
+      "quantities": [
+        {
+          "source_span": "𐆄 α",
+          "raw_number": "α",
+          "normalized_number": 1,
+          "raw_unit": "𐆄",
+          "normalized_unit": "uncia",
+          "certainty": "uncertain",
+          "notes": [
+            "The unit siglum 𐆄 is left unresolved."
+          ]
+        }
+      ],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "7",
+        "chapter": "20",
+        "section": "21",
+        "citation": {
+          "start": "2.386.1",
+          "end": "2.386.4"
+        }
+      }
+    }
+  ],
+  "processes": [
+    {
+      "process_id": "paul-7-20-21:process:emballein-1",
+      "process_urn": "urn:aos:recipe-process:paul-7-20-21:process:emballein-1",
+      "source_span": "ἐμβαλλομένης",
+      "surface_form": "ἐμβαλλομένης",
+      "normalized_label": "ἐμβάλλειν",
+      "target_type": "ingredient",
+      "target_ids": [
+        "paul-7-20-21:ingredient:chia-mastiche-1"
+      ],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "location",
+          "source_span": "Ἰταλικῷ ξ̸ ὀμφακίνου ἐλαίου",
+          "normalized_value": null,
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "7",
+        "chapter": "20",
+        "section": "21",
+        "citation": {
+          "start": "2.386.1",
+          "end": "2.386.4"
+        }
+      }
+    },
+    {
+      "process_id": "paul-7-20-21:process:epsein-2",
+      "process_urn": "urn:aos:recipe-process:paul-7-20-21:process:epsein-2",
+      "source_span": "ἑψομένης",
+      "surface_form": "ἑψομένης",
+      "normalized_label": "ἕψειν",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "location",
+          "source_span": "ἐν διπλώματι",
+          "normalized_value": "ἐν διπλώματι",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "7",
+        "chapter": "20",
+        "section": "21",
+        "citation": {
+          "start": "2.386.1",
+          "end": "2.386.4"
+        }
+      }
+    },
+    {
+      "process_id": "paul-7-20-21:process:emballein-3",
+      "process_urn": "urn:aos:recipe-process:paul-7-20-21:process:emballein-3",
+      "source_span": "ἐμβάλλουσιν",
+      "surface_form": "ἐμβάλλουσιν",
+      "normalized_label": "ἐμβάλλειν",
+      "target_type": "ingredient",
+      "target_ids": [
+        "paul-7-20-21:ingredient:apsinthia-3",
+        "paul-7-20-21:ingredient:styrax-4"
+      ],
+      "quantities": [],
+      "qualifiers": [],
+      "certainty": "certain",
+      "notes": [
+        "τινὲς marks this as an optional variant."
+      ],
+      "host_locator": {
+        "book": "7",
+        "chapter": "20",
+        "section": "21",
+        "citation": {
+          "start": "2.386.1",
+          "end": "2.386.4"
+        }
+      }
+    }
+  ],
+  "materials": [
+    {
+      "material_id": "paul-7-20-21:material:diploma-1",
+      "material_urn": "urn:aos:recipe-material:paul-7-20-21:material:diploma-1",
+      "source_span": "διπλώματι",
+      "surface_form": "διπλώματι",
+      "normalized_label": "δίπλωμα",
+      "role": "apparatus",
+      "certainty": "certain",
+      "quantities": [],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "7",
+        "chapter": "20",
+        "section": "21",
+        "citation": {
+          "start": "2.386.1",
+          "end": "2.386.4"
+        }
+      }
+    }
+  ],
+  "people": [],
+  "places": [],
+  "uses": [],
+  "preparation_names": [
+    {
+      "preparation_name_id": "paul-7-20-21:preparation_name:mastichinon-1",
+      "preparation_name_urn": "urn:aos:recipe-preparation_name:paul-7-20-21:preparation_name:mastichinon-1",
+      "source_span": "Μαστίχινον",
+      "surface_form": "Μαστίχινον",
+      "normalized_label": "Μαστίχινον",
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "7",
+        "chapter": "20",
+        "section": "21",
+        "citation": {
+          "start": "2.386.1",
+          "end": "2.386.4"
+        }
+      }
+    }
+  ],
+  "other_preparations_mentioned": [],
+  "works_mentioned": [],
+  "entities": [
+    {
+      "entity_urn": "urn:aos:recipe-preparation:paul-7-20-21:preparation:mastichinon",
+      "entity_type": "label",
+      "surface_form": "Μαστίχινον",
+      "normalized_label": "Μαστίχινον"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:paul-7-20-21:ingredient:chia-mastiche-1",
+      "entity_type": "ingredient",
+      "surface_form": "Χίας μαστίχης 𐆄 α",
+      "normalized_label": "Χία μαστίχη"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:paul-7-20-21:ingredient:italikon-omphakinon-elaion-2",
+      "entity_type": "ingredient",
+      "surface_form": "Ἰταλικῷ ξ̸ ὀμφακίνου ἐλαίου",
+      "normalized_label": "Ἰταλικὸν ὀμφάκινον ἔλαιον"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:paul-7-20-21:ingredient:apsinthia-3",
+      "entity_type": "ingredient",
+      "surface_form": "ἀψινθίας",
+      "normalized_label": "ἀψινθία"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:paul-7-20-21:ingredient:styrax-4",
+      "entity_type": "ingredient",
+      "surface_form": "στύρακος",
+      "normalized_label": "στύραξ"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:paul-7-20-21:process:emballein-1",
+      "entity_type": "process",
+      "surface_form": "ἐμβαλλομένης",
+      "normalized_label": "ἐμβάλλειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:paul-7-20-21:process:epsein-2",
+      "entity_type": "process",
+      "surface_form": "ἑψομένης",
+      "normalized_label": "ἕψειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:paul-7-20-21:process:emballein-3",
+      "entity_type": "process",
+      "surface_form": "ἐμβάλλουσιν",
+      "normalized_label": "ἐμβάλλειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-material:paul-7-20-21:material:diploma-1",
+      "entity_type": "material",
+      "surface_form": "διπλώματι",
+      "normalized_label": "δίπλωμα"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-preparation_name:paul-7-20-21:preparation_name:mastichinon-1",
+      "entity_type": "preparation_name",
+      "surface_form": "Μαστίχινον",
+      "normalized_label": "Μαστίχινον"
+    }
+  ]
+}

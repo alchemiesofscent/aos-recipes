@@ -1,0 +1,11 @@
+# QC
+
+The canonical export is expected to contain 192 recipes:
+
+- Dioscorides Book 1 perfumes and resins: 52
+- Dioscorides Book 2 fats: 18
+- Aëtius Book 1 oils: 43
+- Aëtius Book 16 myrepsika: 44
+- Paul 7.20 perfumes: 35
+
+Run `python3 scripts/validate.py` after regeneration. The validator checks schema shape, unique IDs, per-slice counts, `derived_recipe_id` links, entity-file coverage, and forbidden exported paths/content.

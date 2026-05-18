@@ -1,0 +1,468 @@
+{
+  "dataset_key": "dioscorides_book2_fats",
+  "source_json": "experiments/dioscorides-book2-fats/data/dioscorides_book2_fats.json",
+  "host_raw_file": "tei/raw/tlg0656.tlg001.1st1K-grc1.xml",
+  "work_slug": "diosc.b2.fats",
+  "recipe_id": "dioscorides-2-76-goat-sheep-deer-stear",
+  "recipe_urn": "urn:aos:recipe:dioscorides-2-76-goat-sheep-deer-stear",
+  "record_urn": "urn:aos:recipe-record:dioscorides-2-76-goat-sheep-deer-stear",
+  "author": "Dioscorides",
+  "work": "De materia medica",
+  "book": "2",
+  "chapter": "76",
+  "section": "4-5",
+  "chapter_name": "στέαρ",
+  "lemma": "στέαρ τράγειον καὶ προβάτειον καὶ ἐλάφειον",
+  "text": "τράγειον δὲ καὶ προβάτειον, ἔτι δὲ καὶ ἐλάφειον θεραπεύεται οὕτως. λαβών, σἶον προείρηται, στέαρ οἰουτινοσοῦν αὐτῶν καὶ πλύνας ἐξυμενίσας τε, ὡς προείρηται ἐπὶ τοῦ ὑείου, δὸς εἰς θυίαν μαλάττειν καὶ τρῖβε, κατʼ ὀλίγον ὕδωρ ἐπιχέων, ἄχρι ἂν μήτε αἱμάλωψ ἐκκρίνηται μήτε λάμπη ἐπιπλέῃ λαμπρόν τε γένηται. λοιπὸν ἐμβαλὼν αὐτὸ εἰς κεραμεᾶν χύτραν καὶ προσεπιδούς ὕδωρ ὥστε ὑπερέχειν θὲς ἐπὶ κούφης ἀνθρακιᾶς καὶ κίνει. ὅταν δὲ τακῇ ἅπαν, κατεράσας αὐτὸ εἰς ὕδωρ καὶ ψύξας πλύνας τε τὴν χύτραν ἐκ δευτέρου τῆκε καὶ τὰ αὐτὰ ποίει τοῖς προειρημένοις. τὸ δὲ τρίτον χμωρὶς ὕδατος τήξας εἰς νενοτισμένην θυίον ἀπήθησον καὶ ψυγὲν ἀποτίθεσο, ὡς ἐλέγετο ἐπὶ τοῦ ὑείου.",
+  "original_text": null,
+  "text_source": null,
+  "emendations": [],
+  "emendation_count": 0,
+  "source_kind": "main_text",
+  "entry_kind": "recipe",
+  "citation": {
+    "pages": [
+      "152"
+    ],
+    "start": {
+      "page": "152",
+      "line": "10"
+    },
+    "end": {
+      "page": "152",
+      "line": "20"
+    },
+    "citation": {
+      "start": "152.10",
+      "end": "152.20"
+    },
+    "page_spans": [
+      {
+        "page": "152",
+        "start_line": "10",
+        "end_line": "20"
+      }
+    ],
+    "lines": [
+      {
+        "page": "152",
+        "line": "10",
+        "break_no": false,
+        "raw_text": "4 τράγειον δὲ καὶ προβάτειον, ἔτι δὲ καὶ ἐλάφειον θεραπεύεται οὕτως. λαβών, σἶον προείρηται, στέαρ οἰουτινοσοῦν",
+        "text": "τράγειον δὲ καὶ προβάτειον, ἔτι δὲ καὶ ἐλάφειον θεραπεύεται οὕτως. λαβών, σἶον προείρηται, στέαρ οἰουτινοσοῦν",
+        "citation": "152.10"
+      },
+      {
+        "page": "152",
+        "line": "15",
+        "break_no": false,
+        "raw_text": "αὐτῶν καὶ πλύνας ἐξυμενίσας τε, ὡς προείρηται ἐπὶ τοῦ ὑείου, δὸς εἰς θυίαν μαλάττειν καὶ τρῖβε, κατʼ ὀλίγον ὕδωρ ἐπιχέων, ἄχρι ἂν μήτε αἱμάλωψ ἐκκρίνηται μήτε λάμπη ἐπιπλέῃ λαμπρόν τε γένηται. λοιπὸν ἐμβαλὼν αὐτὸ εἰς κεραμεᾶν χύτραν καὶ προσεπιδούς ὕδωρ ὥστε ὑπερέχειν θὲς ἐπὶ κούφης",
+        "text": "αὐτῶν καὶ πλύνας ἐξυμενίσας τε, ὡς προείρηται ἐπὶ τοῦ ὑείου, δὸς εἰς θυίαν μαλάττειν καὶ τρῖβε, κατʼ ὀλίγον ὕδωρ ἐπιχέων, ἄχρι ἂν μήτε αἱμάλωψ ἐκκρίνηται μήτε λάμπη ἐπιπλέῃ λαμπρόν τε γένηται. λοιπὸν ἐμβαλὼν αὐτὸ εἰς κεραμεᾶν χύτραν καὶ προσεπιδούς ὕδωρ ὥστε ὑπερέχειν θὲς ἐπὶ κούφης",
+        "citation": "152.15"
+      },
+      {
+        "page": "152",
+        "line": "20",
+        "break_no": false,
+        "raw_text": "ἀνθρακιᾶς καὶ κίνει. ὅταν δὲ τακῇ ἅπαν, κατεράσας αὐτὸ εἰς ὕδωρ καὶ ψύξας πλύνας τε τὴν χύτραν ἐκ δευτέρου τῆκε καὶ τὰ αὐτὰ ποίει τοῖς προειρημένοις.",
+        "text": "ἀνθρακιᾶς καὶ κίνει. ὅταν δὲ τακῇ ἅπαν, κατεράσας αὐτὸ εἰς ὕδωρ καὶ ψύξας πλύνας τε τὴν χύτραν ἐκ δευτέρου τῆκε καὶ τὰ αὐτὰ ποίει τοῖς προειρημένοις.",
+        "citation": "152.20"
+      },
+      {
+        "page": "152",
+        "line": "20",
+        "break_no": false,
+        "raw_text": "5 τὸ δὲ τρίτον χμωρὶς ὕδατος τήξας εἰς νενοτισμένην θυίον ἀπήθησον καὶ ψυγὲν ἀποτίθεσο, ὡς ἐλέγετο ἐπὶ τοῦ ὑείου.",
+        "text": "τὸ δὲ τρίτον χμωρὶς ὕδατος τήξας εἰς νενοτισμένην θυίον ἀπήθησον καὶ ψυγὲν ἀποτίθεσο, ὡς ἐλέγετο ἐπὶ τοῦ ὑείου.",
+        "citation": "152.20"
+      }
+    ],
+    "edition_key": "wellmann"
+  },
+  "notes": [
+    "Book 2 fats slice split into logical preparation and technique units from chapters 72, 74, and 76.",
+    "Bare Arabic numerals in the raw witness are treated as structural or note noise and removed from display text, except parenthetical cross-references such as (I 68).",
+    "Section markers are stored separately and displayed near sentence boundaries as heuristic navigation aids.",
+    "Conservative split record generated locally because Codex structured-authority generation was rate-limited."
+  ],
+  "alignment_status": "pending",
+  "alignment_confidence": "pending",
+  "alignment_evidence": null,
+  "review_status": "reviewed_structured_authority",
+  "review_provenance": {
+    "authority_source": "reports/entity_review/structured/dioscorides.json",
+    "authority_recipe_id": "dioscorides-2-76-goat-sheep-deer-stear",
+    "authority_lemma": "στέαρ τράγειον καὶ προβάτειον καὶ ἐλάφειον",
+    "model": "gpt-5.4",
+    "reasoning_effort": "high",
+    "dataset_key": "dioscorides_book2_fats",
+    "entity_model_version": "1.2",
+    "authority_version": "2026-04-13-qty-alt-v1",
+    "prompt_version": "qty-alt-pass-v1",
+    "build_version": "2026-05-18T15:51:35Z"
+  },
+  "schema_version": "1.2",
+  "build_metadata": {
+    "builder": "scripts/recipes/build_recipe_entities.py",
+    "built_at": "2026-05-18T15:51:35Z",
+    "source_structured_authority": "reports/entity_review/structured/dioscorides.json",
+    "authority_model": "gpt-5.4",
+    "authority_reasoning_effort": "high",
+    "dataset_key": "dioscorides_book2_fats",
+    "entity_model_version": "1.2",
+    "authority_version": "2026-04-13-qty-alt-v1",
+    "prompt_version": "qty-alt-pass-v1",
+    "build_version": "2026-05-18T15:51:35Z"
+  },
+  "recipe_text_excerpt": "τράγειον δὲ καὶ προβάτειον, ἔτι δὲ καὶ ἐλάφειον θεραπεύεται οὕτως. λαβών, σἶον προείρηται, στέαρ οἰουτινοσοῦν αὐτῶν καὶ πλύνας ἐξυμενίσας τε,",
+  "preparation": {
+    "preparation_id": "dioscorides-2-76-goat-sheep-deer-stear:preparation:stear-trageion-kai-probateion-kai-elapheion",
+    "preparation_urn": "urn:aos:recipe-preparation:dioscorides-2-76-goat-sheep-deer-stear:preparation:stear-trageion-kai-probateion-kai-elapheion",
+    "source_span": "στέαρ τράγειον καὶ προβάτειον καὶ ἐλάφειον",
+    "surface_form": "στέαρ τράγειον καὶ προβάτειον καὶ ἐλάφειον",
+    "normalized_label": "στέαρ τράγειον καὶ προβάτειον καὶ ἐλάφειον",
+    "qualifiers": [],
+    "regimen_notes": [],
+    "certainty": "certain",
+    "notes": [
+      "Conservative split authority generated from exact spans in the previous broad Book 2 fat authority."
+    ],
+    "host_locator": {
+      "book": "2",
+      "chapter": "76",
+      "section": "4-5",
+      "citation": {
+        "start": "152.10",
+        "end": "152.20"
+      }
+    }
+  },
+  "ingredients": [
+    {
+      "ingredient_id": "dioscorides-2-76-goat-sheep-deer-stear:ingredient:stear-trageion-1",
+      "ingredient_urn": "urn:aos:recipe-ingredient:dioscorides-2-76-goat-sheep-deer-stear:ingredient:stear-trageion-1",
+      "source_span": "τράγειον",
+      "surface_form": "τράγειον",
+      "base_label": "τράγειον",
+      "normalized_label": "στέαρ τράγειον",
+      "alternative_set_id": null,
+      "certainty": "uncertain",
+      "linked_process_ids": [
+        "dioscorides-2-76-goat-sheep-deer-stear:process:plynein-3",
+        "dioscorides-2-76-goat-sheep-deer-stear:process:apotithesthai-2"
+      ],
+      "quantities": [],
+      "qualifiers": [],
+      "notes": [
+        "Head noun στέαρ restored from lemma."
+      ],
+      "host_locator": {
+        "book": "2",
+        "chapter": "76",
+        "section": "4-5",
+        "citation": {
+          "start": "152.10",
+          "end": "152.20"
+        }
+      }
+    },
+    {
+      "ingredient_id": "dioscorides-2-76-goat-sheep-deer-stear:ingredient:stear-probateion-2",
+      "ingredient_urn": "urn:aos:recipe-ingredient:dioscorides-2-76-goat-sheep-deer-stear:ingredient:stear-probateion-2",
+      "source_span": "προβάτειον",
+      "surface_form": "προβάτειον",
+      "base_label": "προβάτειον",
+      "normalized_label": "στέαρ προβάτειον",
+      "alternative_set_id": null,
+      "certainty": "uncertain",
+      "linked_process_ids": [
+        "dioscorides-2-76-goat-sheep-deer-stear:process:plynein-3",
+        "dioscorides-2-76-goat-sheep-deer-stear:process:apotithesthai-2"
+      ],
+      "quantities": [],
+      "qualifiers": [],
+      "notes": [
+        "Head noun στέαρ restored from lemma."
+      ],
+      "host_locator": {
+        "book": "2",
+        "chapter": "76",
+        "section": "4-5",
+        "citation": {
+          "start": "152.10",
+          "end": "152.20"
+        }
+      }
+    },
+    {
+      "ingredient_id": "dioscorides-2-76-goat-sheep-deer-stear:ingredient:stear-elapheion-3",
+      "ingredient_urn": "urn:aos:recipe-ingredient:dioscorides-2-76-goat-sheep-deer-stear:ingredient:stear-elapheion-3",
+      "source_span": "ἐλάφειον",
+      "surface_form": "ἐλάφειον",
+      "base_label": "ἐλάφειον",
+      "normalized_label": "στέαρ ἐλάφειον",
+      "alternative_set_id": null,
+      "certainty": "uncertain",
+      "linked_process_ids": [
+        "dioscorides-2-76-goat-sheep-deer-stear:process:plynein-3",
+        "dioscorides-2-76-goat-sheep-deer-stear:process:apotithesthai-2"
+      ],
+      "quantities": [],
+      "qualifiers": [],
+      "notes": [
+        "Head noun στέαρ restored from lemma."
+      ],
+      "host_locator": {
+        "book": "2",
+        "chapter": "76",
+        "section": "4-5",
+        "citation": {
+          "start": "152.10",
+          "end": "152.20"
+        }
+      }
+    }
+  ],
+  "processes": [
+    {
+      "process_id": "dioscorides-2-76-goat-sheep-deer-stear:process:exymenizein-1",
+      "process_urn": "urn:aos:recipe-process:dioscorides-2-76-goat-sheep-deer-stear:process:exymenizein-1",
+      "source_span": "ἐξυμενίσας",
+      "surface_form": "ἐξυμενίσας",
+      "normalized_label": "ἐξυμενίζειν",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "2",
+        "chapter": "76",
+        "section": "4-5",
+        "citation": {
+          "start": "152.10",
+          "end": "152.20"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-2-76-goat-sheep-deer-stear:process:apotithesthai-2",
+      "process_urn": "urn:aos:recipe-process:dioscorides-2-76-goat-sheep-deer-stear:process:apotithesthai-2",
+      "source_span": "ἀποτίθεσο",
+      "surface_form": "ἀποτίθεσο",
+      "normalized_label": "ἀποτίθεσθαι",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "2",
+        "chapter": "76",
+        "section": "4-5",
+        "citation": {
+          "start": "152.10",
+          "end": "152.20"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-2-76-goat-sheep-deer-stear:process:plynein-3",
+      "process_urn": "urn:aos:recipe-process:dioscorides-2-76-goat-sheep-deer-stear:process:plynein-3",
+      "source_span": "πλύνας",
+      "surface_form": "πλύνας",
+      "normalized_label": "πλύνειν",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "2",
+        "chapter": "76",
+        "section": "4-5",
+        "citation": {
+          "start": "152.10",
+          "end": "152.20"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-2-76-goat-sheep-deer-stear:process:tribein-4",
+      "process_urn": "urn:aos:recipe-process:dioscorides-2-76-goat-sheep-deer-stear:process:tribein-4",
+      "source_span": "τρῖβε",
+      "surface_form": "τρῖβε",
+      "normalized_label": "τρίβειν",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "2",
+        "chapter": "76",
+        "section": "4-5",
+        "citation": {
+          "start": "152.10",
+          "end": "152.20"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-2-76-goat-sheep-deer-stear:process:kinein-5",
+      "process_urn": "urn:aos:recipe-process:dioscorides-2-76-goat-sheep-deer-stear:process:kinein-5",
+      "source_span": "κίνει",
+      "surface_form": "κίνει",
+      "normalized_label": "κινεῖν",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [],
+      "certainty": "certain",
+      "notes": [
+        "The clause specifies stirring with a σπάθη."
+      ],
+      "host_locator": {
+        "book": "2",
+        "chapter": "76",
+        "section": "4-5",
+        "citation": {
+          "start": "152.10",
+          "end": "152.20"
+        }
+      }
+    }
+  ],
+  "materials": [
+    {
+      "material_id": "dioscorides-2-76-goat-sheep-deer-stear:material:thyia-1",
+      "material_urn": "urn:aos:recipe-material:dioscorides-2-76-goat-sheep-deer-stear:material:thyia-1",
+      "source_span": "θυίαν",
+      "surface_form": "θυίαν",
+      "normalized_label": "θυία",
+      "role": "apparatus",
+      "certainty": "uncertain",
+      "quantities": [],
+      "qualifiers": [],
+      "notes": [
+        "Container term retained as transmitted."
+      ],
+      "host_locator": {
+        "book": "2",
+        "chapter": "76",
+        "section": "4-5",
+        "citation": {
+          "start": "152.10",
+          "end": "152.20"
+        }
+      }
+    },
+    {
+      "material_id": "dioscorides-2-76-goat-sheep-deer-stear:material:anthrakia-2",
+      "material_urn": "urn:aos:recipe-material:dioscorides-2-76-goat-sheep-deer-stear:material:anthrakia-2",
+      "source_span": "κούφης ἀνθρακιᾶς",
+      "surface_form": "κούφης ἀνθρακιᾶς",
+      "normalized_label": "ἀνθρακιά",
+      "role": "fuel",
+      "certainty": "certain",
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "other",
+          "source_span": "κούφης",
+          "normalized_value": "light",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "notes": [],
+      "host_locator": {
+        "book": "2",
+        "chapter": "76",
+        "section": "4-5",
+        "citation": {
+          "start": "152.10",
+          "end": "152.20"
+        }
+      }
+    }
+  ],
+  "people": [],
+  "places": [],
+  "uses": [],
+  "preparation_names": [],
+  "other_preparations_mentioned": [],
+  "works_mentioned": [],
+  "entities": [
+    {
+      "entity_urn": "urn:aos:recipe-preparation:dioscorides-2-76-goat-sheep-deer-stear:preparation:stear-trageion-kai-probateion-kai-elapheion",
+      "entity_type": "label",
+      "surface_form": "στέαρ τράγειον καὶ προβάτειον καὶ ἐλάφειον",
+      "normalized_label": "στέαρ τράγειον καὶ προβάτειον καὶ ἐλάφειον"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:dioscorides-2-76-goat-sheep-deer-stear:ingredient:stear-trageion-1",
+      "entity_type": "ingredient",
+      "surface_form": "τράγειον",
+      "normalized_label": "στέαρ τράγειον"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:dioscorides-2-76-goat-sheep-deer-stear:ingredient:stear-probateion-2",
+      "entity_type": "ingredient",
+      "surface_form": "προβάτειον",
+      "normalized_label": "στέαρ προβάτειον"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:dioscorides-2-76-goat-sheep-deer-stear:ingredient:stear-elapheion-3",
+      "entity_type": "ingredient",
+      "surface_form": "ἐλάφειον",
+      "normalized_label": "στέαρ ἐλάφειον"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-2-76-goat-sheep-deer-stear:process:exymenizein-1",
+      "entity_type": "process",
+      "surface_form": "ἐξυμενίσας",
+      "normalized_label": "ἐξυμενίζειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-2-76-goat-sheep-deer-stear:process:apotithesthai-2",
+      "entity_type": "process",
+      "surface_form": "ἀποτίθεσο",
+      "normalized_label": "ἀποτίθεσθαι"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-2-76-goat-sheep-deer-stear:process:plynein-3",
+      "entity_type": "process",
+      "surface_form": "πλύνας",
+      "normalized_label": "πλύνειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-2-76-goat-sheep-deer-stear:process:tribein-4",
+      "entity_type": "process",
+      "surface_form": "τρῖβε",
+      "normalized_label": "τρίβειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-2-76-goat-sheep-deer-stear:process:kinein-5",
+      "entity_type": "process",
+      "surface_form": "κίνει",
+      "normalized_label": "κινεῖν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-material:dioscorides-2-76-goat-sheep-deer-stear:material:thyia-1",
+      "entity_type": "material",
+      "surface_form": "θυίαν",
+      "normalized_label": "θυία"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-material:dioscorides-2-76-goat-sheep-deer-stear:material:anthrakia-2",
+      "entity_type": "material",
+      "surface_form": "κούφης ἀνθρακιᾶς",
+      "normalized_label": "ἀνθρακιά"
+    }
+  ]
+}

@@ -1,0 +1,1043 @@
+{
+  "dataset_key": "aetius_book1_oils",
+  "source_json": "experiments/aetius-book1-ch99-136-oils/data/aetius_book1_ch99_136_oils.json",
+  "host_raw_file": "tei/raw/tlg0718001.xml",
+  "work_slug": "aetius.b1.oils",
+  "recipe_id": "aetius-1-128",
+  "recipe_urn": "urn:aos:recipe:aetius-1-128",
+  "record_urn": "urn:aos:recipe-record:aetius-1-128",
+  "author": "Aëtius of Amida",
+  "work": "Libri medicinales",
+  "book": "1",
+  "chapter": "128",
+  "section": "128",
+  "chapter_name": "Ἀμαράκινον",
+  "lemma": "Ἀμαράκινον",
+  "text": "Ἀμαράκινον σκευάζεται οὕτως· βράθυος, ξυλοβαλσάμου, καλάμου, σχοίνου ἄνθους, νάρδου κελτικῆς, κόστου ἀνὰ λίτραι ε, ἀμώμου, κασίας, καρποβαλσάμου ἀνὰ λίτραι γ, σμύρνης λίτρα α, ἀμαράκου σπέρματος λίτρα α, ἐλαίου ὀμφακίζοντος ξ̸ε λ, οἴνου εὐωδεστέρου ξ̸ε ε, ἕψε τῷ τρόπῳ τῆς νάρδου. ἡ δύναμις δὲ τοῦ ἐλαίου τούτου θερμαν- τικὴ μὲν ὡς ἡ νάρδος, οὐχ ὁμοίως δὲ τονωτική. λεπτομερέστερον γὰρ τοῦτο τῆς νάρδου καὶ παρηγορικώτερον καὶ προσηνὲς διὰ τὸ μὴ ἔχειν ὀποβάλσαμον. γυναιξὶ δὲ ἐγκολπιζόμενον καὶ ἔμμηνα κινεῖ. Κρείττων δέ φησιν· ἐστὶ δὲ τὸ ἀμαράκινον θερμαντικὸν μαλακτικὸν ἀναστομωτικόν, εὐθετεῖ πρὸς σύριγγας καὶ ὑδροκήλας μετὰ τὴν χειρουργίαν· ποιεῖ καὶ πρὸς τὰ τεθηριωμένα ἕλκη καὶ ἐσχάρας, ποιεῖ πρὸς δυσουρίας περιχριόμενον τῷ δακτύλῳ· ποιεῖ καὶ πρὸς τὰς ἐν μήτρᾳ φλεγμονὰς καὶ σκληρίας, ἐμμήνια κινεῖ, αἱμορροίδας ἀναστομοῖ.",
+  "original_text": "Ἀμαράκινον σκευάζεται οὕτως· βράθυος, ξυλοβαλσάμου, καλάμου, σχοίνου ἄνθους, νάρδου κελτικῆς, κόστου ἀνὰ λίτραι ε, ἀμώμου, κασίας, καρποβαλσάμου ἀνὰ λίτραι γ, ζιγγιβέρεως λίτρα α, ἀμαράκου σπέρματος λίτρα α, ἐλαίου ὀμφακίζοντος ξ̸ελ, οἴνου εὐώδους στερεοῦ ξ̸εε, ἕψε τῷ τρόπῳ τῆς νάρδου. ἡ δύναμις δὲ τοῦ ἐλαίου τούτου θερμαντικὴ μὲν ὡς ἡ νάρδος, οὐχ ὁμοίως δὲ τονωτική. λεπτομερέστερον γὰρ τοῦτο τῆς νάρδου καὶ παρηγορικώτερον καὶ προσηνὲς διὰ τὸ μὴ ἔχειν ὀποβάλσαμον. γυναιξὶ δὲ ἐγκολπιζόμενον καὶ ἔμμηνα κινεῖ. Κρείττων δέ φησιν· ἐστὶ δὲ τὸ ἀμαράκινον θερμαντικὸν μαλακτικὸν ἀναστομωτικόν, εὐθετεῖ πρὸς σύριγγας καὶ ὑδροκήλας μετὰ τὴν χειρουργίαν· ποιεῖ καὶ πρὸς τὰ τεθηριωμένα ἕλκη καὶ ἐσχάρας, ποιεῖ πρὸς δυσουρίας περιχριόμενον τῷ δακτύλῳ· ποιεῖ καὶ πρὸς τὰς ἐν μήτρᾳ φλεγμονὰς καὶ σκληρίας, ἐμμήνια κινεῖ, αἱμορροίδας ἀναστομοῖ.",
+  "text_source": "emended",
+  "emendations": [
+    {
+      "locus": "[63.20]",
+      "start_citation": "63.20",
+      "end_citation": "63.20",
+      "operation": "replace",
+      "olivieri_text": "ζιγγιβέρεως",
+      "adopted_text": "σμύρνης",
+      "proposal_author": "Sean Coughlin",
+      "decision": "accepted",
+      "note": "suggested by Coughlin"
+    },
+    {
+      "locus": "[63.21]",
+      "start_citation": "63.21",
+      "end_citation": "63.21",
+      "operation": "replace",
+      "olivieri_text": "εὐώδους στερεοῦ",
+      "adopted_text": "εὐωδεστέρου",
+      "proposal_author": "Irene Cala",
+      "decision": "accepted",
+      "note": "εὐωδεστέρου replaces εὐώδους στερεοῦ"
+    }
+  ],
+  "emendation_count": 2,
+  "source_kind": null,
+  "entry_kind": "recipe",
+  "citation": {
+    "pages": [
+      "63",
+      "64"
+    ],
+    "start": {
+      "page": "63",
+      "line": "18",
+      "xml_id": "oliv-63-18"
+    },
+    "end": {
+      "page": "64",
+      "line": "4",
+      "xml_id": "oliv-64-4"
+    },
+    "citation": {
+      "start": "63.18",
+      "end": "64.4"
+    },
+    "page_spans": [
+      {
+        "page": "63",
+        "start_line": "18",
+        "end_line": "26"
+      },
+      {
+        "page": "64",
+        "start_line": "1",
+        "end_line": "4"
+      }
+    ],
+    "lines": [
+      {
+        "page": "63",
+        "line": "18",
+        "xml_id": "oliv-63-18",
+        "break_no": false,
+        "text": "Ἀμαράκινον σκευάζεται οὕτως· βράθυος, ξυλοβαλσάμου, καλάμου,",
+        "citation": "63.18"
+      },
+      {
+        "page": "63",
+        "line": "19",
+        "xml_id": "oliv-63-19",
+        "break_no": false,
+        "text": "σχοίνου ἄνθους, νάρδου κελτικῆς, κόστου ἀνὰ λίτραι ε, ἀμώμου, κασίας,",
+        "citation": "63.19"
+      },
+      {
+        "page": "63",
+        "line": "20",
+        "xml_id": "oliv-63-20",
+        "break_no": false,
+        "text": "καρποβαλσάμου ἀνὰ λίτραι γ, ζιγγιβέρεως λίτρα α, ἀμαράκου σπέρ-",
+        "citation": "63.20"
+      },
+      {
+        "page": "63",
+        "line": "21",
+        "xml_id": "oliv-63-21",
+        "break_no": true,
+        "text": "ματος λίτρα α, ἐλαίου ὀμφακίζοντος ξ̸ελ, οἴνου εὐώδους στερεοῦ ξ̸εε,",
+        "citation": "63.21"
+      },
+      {
+        "page": "63",
+        "line": "22",
+        "xml_id": "oliv-63-22",
+        "break_no": false,
+        "text": "ἕψε τῷ τρόπῳ τῆς νάρδου. ἡ δύναμις δὲ τοῦ ἐλαίου τούτου θερμαν-",
+        "citation": "63.22"
+      },
+      {
+        "page": "63",
+        "line": "23",
+        "xml_id": "oliv-63-23",
+        "break_no": true,
+        "text": "τικὴ μὲν ὡς ἡ νάρδος, οὐχ ὁμοίως δὲ τονωτική. λεπτομερέστερον γὰρ",
+        "citation": "63.23"
+      },
+      {
+        "page": "63",
+        "line": "24",
+        "xml_id": "oliv-63-24",
+        "break_no": false,
+        "text": "τοῦτο τῆς νάρδου καὶ παρηγορικώτερον καὶ προσηνὲς διὰ τὸ μὴ ἔχειν",
+        "citation": "63.24"
+      },
+      {
+        "page": "63",
+        "line": "25",
+        "xml_id": "oliv-63-25",
+        "break_no": false,
+        "text": "ὀποβάλσαμον. γυναιξὶ δὲ ἐγκολπιζόμενον καὶ ἔμμηνα κινεῖ. Κρείττων",
+        "citation": "63.25"
+      },
+      {
+        "page": "63",
+        "line": "26",
+        "xml_id": "oliv-63-26",
+        "break_no": false,
+        "text": "δέ φησιν· ἐστὶ δὲ τὸ ἀμαράκινον θερμαντικὸν μαλακτικὸν ἀναστομω-",
+        "citation": "63.26"
+      },
+      {
+        "page": "64",
+        "line": "1",
+        "xml_id": "oliv-64-1",
+        "break_no": true,
+        "text": "τικόν, εὐθετεῖ πρὸς σύριγγας καὶ ὑδροκήλας μετὰ τὴν χειρουργίαν·",
+        "citation": "64.1"
+      },
+      {
+        "page": "64",
+        "line": "2",
+        "xml_id": "oliv-64-2",
+        "break_no": false,
+        "text": "ποιεῖ καὶ πρὸς τὰ τεθηριωμένα ἕλκη καὶ ἐσχάρας, ποιεῖ πρὸς δυσου-",
+        "citation": "64.2"
+      },
+      {
+        "page": "64",
+        "line": "3",
+        "xml_id": "oliv-64-3",
+        "break_no": true,
+        "text": "ρίας περιχριόμενον τῷ δακτύλῳ· ποιεῖ καὶ πρὸς τὰς ἐν μήτρᾳ φλεγ-",
+        "citation": "64.3"
+      },
+      {
+        "page": "64",
+        "line": "4",
+        "xml_id": "oliv-64-4",
+        "break_no": true,
+        "text": "μονὰς καὶ σκληρίας, ἐμμήνια κινεῖ, αἱμορροίδας ἀναστομοῖ.",
+        "citation": "64.4"
+      }
+    ],
+    "edition_key": "olivieri"
+  },
+  "notes": [
+    "Distributive ἀνὰ in «ἀνὰ λίτραι ε» governs the preceding cluster: βράθυος, ξυλοβαλσάμου, καλάμου, σχοίνου ἄνθους, νάρδου κελτικῆς, κόστου.",
+    "Distributive ἀνὰ in «ἀνὰ λίτραι γ» governs the preceding cluster: ἀμώμου, κασίας, καρποβαλσάμου."
+  ],
+  "alignment_status": "pending",
+  "alignment_confidence": "pending",
+  "alignment_evidence": null,
+  "review_status": "reviewed_structured_authority",
+  "review_provenance": {
+    "authority_source": "reports/entity_review/structured/aetius_book1.json",
+    "authority_recipe_id": "aetius-1-128",
+    "authority_lemma": "Ἀμαράκινον",
+    "model": "gpt-5.4",
+    "reasoning_effort": "high",
+    "dataset_key": "aetius_book1_oils",
+    "entity_model_version": "1.2",
+    "authority_version": "2026-04-13-qty-alt-v1",
+    "prompt_version": "qty-alt-pass-v1",
+    "build_version": "2026-05-18T15:51:35Z"
+  },
+  "schema_version": "1.2",
+  "build_metadata": {
+    "builder": "scripts/recipes/build_recipe_entities.py",
+    "built_at": "2026-05-18T15:51:35Z",
+    "source_structured_authority": "reports/entity_review/structured/aetius_book1.json",
+    "authority_model": "gpt-5.4",
+    "authority_reasoning_effort": "high",
+    "dataset_key": "aetius_book1_oils",
+    "entity_model_version": "1.2",
+    "authority_version": "2026-04-13-qty-alt-v1",
+    "prompt_version": "qty-alt-pass-v1",
+    "build_version": "2026-05-18T15:51:35Z"
+  },
+  "recipe_text_excerpt": "Ἀμαράκινον σκευάζεται οὕτως· βράθυος, ξυλοβαλσάμου, καλάμου, σχοίνου ἄνθους, νάρδου κελτικῆς, κόστου ἀνὰ λίτραι ε, ἀμώμου, κασίας, καρποβαλσάμου ἀνὰ λίτραι γ,",
+  "preparation": {
+    "preparation_id": "aetius-1-128:preparation:amarakinon",
+    "preparation_urn": "urn:aos:recipe-preparation:aetius-1-128:preparation:amarakinon",
+    "source_span": "Ἀμαράκινον",
+    "surface_form": "Ἀμαράκινον",
+    "normalized_label": "Ἀμαράκινον",
+    "qualifiers": [],
+    "regimen_notes": [],
+    "certainty": "certain",
+    "notes": [],
+    "host_locator": {
+      "book": "1",
+      "chapter": "128",
+      "section": "128",
+      "citation": {
+        "start": "63.18",
+        "end": "64.4"
+      }
+    }
+  },
+  "ingredients": [
+    {
+      "ingredient_id": "aetius-1-128:ingredient:brathys-1",
+      "ingredient_urn": "urn:aos:recipe-ingredient:aetius-1-128:ingredient:brathys-1",
+      "source_span": "βράθυος",
+      "surface_form": "βράθυος",
+      "base_label": "βράθυος",
+      "normalized_label": "βράθυς",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [],
+      "quantities": [
+        {
+          "source_span": "λίτραι ε",
+          "raw_number": "ε",
+          "normalized_number": 5,
+          "raw_unit": "λίτραι",
+          "normalized_unit": "litra",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "128",
+        "section": "128",
+        "citation": {
+          "start": "63.18",
+          "end": "64.4"
+        }
+      }
+    },
+    {
+      "ingredient_id": "aetius-1-128:ingredient:xylobalsamon-2",
+      "ingredient_urn": "urn:aos:recipe-ingredient:aetius-1-128:ingredient:xylobalsamon-2",
+      "source_span": "ξυλοβαλσάμου",
+      "surface_form": "ξυλοβαλσάμου",
+      "base_label": "ξυλοβαλσάμου",
+      "normalized_label": "ξυλοβάλσαμον",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [],
+      "quantities": [
+        {
+          "source_span": "λίτραι ε",
+          "raw_number": "ε",
+          "normalized_number": 5,
+          "raw_unit": "λίτραι",
+          "normalized_unit": "litra",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "128",
+        "section": "128",
+        "citation": {
+          "start": "63.18",
+          "end": "64.4"
+        }
+      }
+    },
+    {
+      "ingredient_id": "aetius-1-128:ingredient:kalamos-3",
+      "ingredient_urn": "urn:aos:recipe-ingredient:aetius-1-128:ingredient:kalamos-3",
+      "source_span": "καλάμου",
+      "surface_form": "καλάμου",
+      "base_label": "καλάμου",
+      "normalized_label": "κάλαμος",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [],
+      "quantities": [
+        {
+          "source_span": "λίτραι ε",
+          "raw_number": "ε",
+          "normalized_number": 5,
+          "raw_unit": "λίτραι",
+          "normalized_unit": "litra",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "128",
+        "section": "128",
+        "citation": {
+          "start": "63.18",
+          "end": "64.4"
+        }
+      }
+    },
+    {
+      "ingredient_id": "aetius-1-128:ingredient:anthos-schoinoy-4",
+      "ingredient_urn": "urn:aos:recipe-ingredient:aetius-1-128:ingredient:anthos-schoinoy-4",
+      "source_span": "σχοίνου ἄνθους",
+      "surface_form": "σχοίνου ἄνθους",
+      "base_label": "σχοίνου ἄνθους",
+      "normalized_label": "ἄνθος σχοίνου",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [],
+      "quantities": [
+        {
+          "source_span": "λίτραι ε",
+          "raw_number": "ε",
+          "normalized_number": 5,
+          "raw_unit": "λίτραι",
+          "normalized_unit": "litra",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "128",
+        "section": "128",
+        "citation": {
+          "start": "63.18",
+          "end": "64.4"
+        }
+      }
+    },
+    {
+      "ingredient_id": "aetius-1-128:ingredient:nardos-keltike-5",
+      "ingredient_urn": "urn:aos:recipe-ingredient:aetius-1-128:ingredient:nardos-keltike-5",
+      "source_span": "νάρδου κελτικῆς",
+      "surface_form": "νάρδου κελτικῆς",
+      "base_label": "νάρδου κελτικῆς",
+      "normalized_label": "νάρδος κελτική",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [],
+      "quantities": [
+        {
+          "source_span": "λίτραι ε",
+          "raw_number": "ε",
+          "normalized_number": 5,
+          "raw_unit": "λίτραι",
+          "normalized_unit": "litra",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "128",
+        "section": "128",
+        "citation": {
+          "start": "63.18",
+          "end": "64.4"
+        }
+      }
+    },
+    {
+      "ingredient_id": "aetius-1-128:ingredient:kostos-6",
+      "ingredient_urn": "urn:aos:recipe-ingredient:aetius-1-128:ingredient:kostos-6",
+      "source_span": "κόστου",
+      "surface_form": "κόστου",
+      "base_label": "κόστου",
+      "normalized_label": "κόστος",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [],
+      "quantities": [
+        {
+          "source_span": "λίτραι ε",
+          "raw_number": "ε",
+          "normalized_number": 5,
+          "raw_unit": "λίτραι",
+          "normalized_unit": "litra",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "128",
+        "section": "128",
+        "citation": {
+          "start": "63.18",
+          "end": "64.4"
+        }
+      }
+    },
+    {
+      "ingredient_id": "aetius-1-128:ingredient:amomon-7",
+      "ingredient_urn": "urn:aos:recipe-ingredient:aetius-1-128:ingredient:amomon-7",
+      "source_span": "ἀμώμου",
+      "surface_form": "ἀμώμου",
+      "base_label": "ἀμώμου",
+      "normalized_label": "ἄμωμον",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [],
+      "quantities": [
+        {
+          "source_span": "λίτραι γ",
+          "raw_number": "γ",
+          "normalized_number": 3,
+          "raw_unit": "λίτραι",
+          "normalized_unit": "litra",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "128",
+        "section": "128",
+        "citation": {
+          "start": "63.18",
+          "end": "64.4"
+        }
+      }
+    },
+    {
+      "ingredient_id": "aetius-1-128:ingredient:kasia-8",
+      "ingredient_urn": "urn:aos:recipe-ingredient:aetius-1-128:ingredient:kasia-8",
+      "source_span": "κασίας",
+      "surface_form": "κασίας",
+      "base_label": "κασίας",
+      "normalized_label": "κασία",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [],
+      "quantities": [
+        {
+          "source_span": "λίτραι γ",
+          "raw_number": "γ",
+          "normalized_number": 3,
+          "raw_unit": "λίτραι",
+          "normalized_unit": "litra",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "128",
+        "section": "128",
+        "citation": {
+          "start": "63.18",
+          "end": "64.4"
+        }
+      }
+    },
+    {
+      "ingredient_id": "aetius-1-128:ingredient:karpobalsamon-9",
+      "ingredient_urn": "urn:aos:recipe-ingredient:aetius-1-128:ingredient:karpobalsamon-9",
+      "source_span": "καρποβαλσάμου",
+      "surface_form": "καρποβαλσάμου",
+      "base_label": "καρποβαλσάμου",
+      "normalized_label": "καρποβάλσαμον",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [],
+      "quantities": [
+        {
+          "source_span": "λίτραι γ",
+          "raw_number": "γ",
+          "normalized_number": 3,
+          "raw_unit": "λίτραι",
+          "normalized_unit": "litra",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "128",
+        "section": "128",
+        "citation": {
+          "start": "63.18",
+          "end": "64.4"
+        }
+      }
+    },
+    {
+      "ingredient_id": "aetius-1-128:ingredient:smyrna-10",
+      "ingredient_urn": "urn:aos:recipe-ingredient:aetius-1-128:ingredient:smyrna-10",
+      "source_span": "σμύρνης",
+      "surface_form": "σμύρνης",
+      "base_label": "σμύρνης",
+      "normalized_label": "σμύρνα",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [],
+      "quantities": [
+        {
+          "source_span": "λίτρα α",
+          "raw_number": "α",
+          "normalized_number": 1,
+          "raw_unit": "λίτρα",
+          "normalized_unit": "litra",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "128",
+        "section": "128",
+        "citation": {
+          "start": "63.18",
+          "end": "64.4"
+        }
+      }
+    },
+    {
+      "ingredient_id": "aetius-1-128:ingredient:sperma-amarakoy-11",
+      "ingredient_urn": "urn:aos:recipe-ingredient:aetius-1-128:ingredient:sperma-amarakoy-11",
+      "source_span": "ἀμαράκου σπέρματος",
+      "surface_form": "ἀμαράκου σπέρματος",
+      "base_label": "ἀμαράκου σπέρματος",
+      "normalized_label": "σπέρμα ἀμαράκου",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [],
+      "quantities": [
+        {
+          "source_span": "λίτρα α",
+          "raw_number": "α",
+          "normalized_number": 1,
+          "raw_unit": "λίτρα",
+          "normalized_unit": "litra",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "128",
+        "section": "128",
+        "citation": {
+          "start": "63.18",
+          "end": "64.4"
+        }
+      }
+    },
+    {
+      "ingredient_id": "aetius-1-128:ingredient:elaion-omphakizon-12",
+      "ingredient_urn": "urn:aos:recipe-ingredient:aetius-1-128:ingredient:elaion-omphakizon-12",
+      "source_span": "ἐλαίου ὀμφακίζοντος",
+      "surface_form": "ἐλαίου ὀμφακίζοντος",
+      "base_label": "ἐλαίου ὀμφακίζοντος",
+      "normalized_label": "ἔλαιον ὀμφακίζον",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [
+        "aetius-1-128:process:omphakizein-1"
+      ],
+      "quantities": [
+        {
+          "source_span": "ξ̸ελ",
+          "raw_number": "ελ",
+          "normalized_number": null,
+          "raw_unit": "ξ̸",
+          "normalized_unit": "xestes",
+          "certainty": "uncertain",
+          "notes": [
+            "Abbreviated unit ξ̸ and numeral sequence ελ not safely normalized."
+          ]
+        }
+      ],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "128",
+        "section": "128",
+        "citation": {
+          "start": "63.18",
+          "end": "64.4"
+        }
+      }
+    },
+    {
+      "ingredient_id": "aetius-1-128:ingredient:oinos-eyodesteros-13",
+      "ingredient_urn": "urn:aos:recipe-ingredient:aetius-1-128:ingredient:oinos-eyodesteros-13",
+      "source_span": "οἴνου εὐωδεστέρου",
+      "surface_form": "οἴνου εὐωδεστέρου",
+      "base_label": "οἴνου",
+      "normalized_label": "οἶνος εὐωδέστερος",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [],
+      "quantities": [
+        {
+          "source_span": "ξ̸εε",
+          "raw_number": "εε",
+          "normalized_number": null,
+          "raw_unit": "ξ̸",
+          "normalized_unit": "xestes",
+          "certainty": "uncertain",
+          "notes": [
+            "Abbreviated unit ξ̸ and numeral sequence εε not safely normalized."
+          ]
+        }
+      ],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "128",
+        "section": "128",
+        "citation": {
+          "start": "63.18",
+          "end": "64.4"
+        }
+      }
+    }
+  ],
+  "processes": [
+    {
+      "process_id": "aetius-1-128:process:omphakizein-1",
+      "process_urn": "urn:aos:recipe-process:aetius-1-128:process:omphakizein-1",
+      "source_span": "ὀμφακίζοντος",
+      "surface_form": "ὀμφακίζοντος",
+      "normalized_label": "ὀμφακίζειν",
+      "target_type": "ingredient",
+      "target_ids": [
+        "aetius-1-128:ingredient:elaion-omphakizon-12"
+      ],
+      "quantities": [],
+      "qualifiers": [],
+      "certainty": "uncertain",
+      "notes": [
+        "Participial modifier extracted from the ingredient phrase rather than an imperative recipe step."
+      ],
+      "host_locator": {
+        "book": "1",
+        "chapter": "128",
+        "section": "128",
+        "citation": {
+          "start": "63.18",
+          "end": "64.4"
+        }
+      }
+    },
+    {
+      "process_id": "aetius-1-128:process:epsein-2",
+      "process_urn": "urn:aos:recipe-process:aetius-1-128:process:epsein-2",
+      "source_span": "ἕψε",
+      "surface_form": "ἕψε",
+      "normalized_label": "ἕψειν",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "manner",
+          "source_span": "τῷ τρόπῳ τῆς νάρδου",
+          "normalized_value": "κατὰ τὸν τρόπον τῆς νάρδου",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "128",
+        "section": "128",
+        "citation": {
+          "start": "63.18",
+          "end": "64.4"
+        }
+      }
+    }
+  ],
+  "materials": [],
+  "people": [
+    {
+      "person_id": "aetius-1-128:person:kreitton-1",
+      "person_urn": "urn:aos:recipe-person:aetius-1-128:person:kreitton-1",
+      "source_span": "Κρείττων",
+      "surface_form": "Κρείττων",
+      "normalized_label": "Κρείττων",
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "128",
+        "section": "128",
+        "citation": {
+          "start": "63.18",
+          "end": "64.4"
+        }
+      }
+    }
+  ],
+  "places": [],
+  "uses": [
+    {
+      "use_id": "aetius-1-128:use:gynaixi-de-egkolpizomenon-kai-emmena-kinei-1",
+      "use_urn": "urn:aos:recipe-use:aetius-1-128:use:gynaixi-de-egkolpizomenon-kai-emmena-kinei-1",
+      "category": "medical",
+      "source_span": "γυναιξὶ δὲ ἐγκολπιζόμενον καὶ ἔμμηνα κινεῖ",
+      "snippet": "γυναιξὶ δὲ ἐγκολπιζόμενον καὶ ἔμμηνα κινεῖ",
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "128",
+        "section": "128",
+        "citation": {
+          "start": "63.18",
+          "end": "64.4"
+        }
+      }
+    },
+    {
+      "use_id": "aetius-1-128:use:eythetei-pros-syriggas-kai-ydrokelas-meta-ten-cheiroyrgian-2",
+      "use_urn": "urn:aos:recipe-use:aetius-1-128:use:eythetei-pros-syriggas-kai-ydrokelas-meta-ten-cheiroyrgian-2",
+      "category": "medical",
+      "source_span": "εὐθετεῖ πρὸς σύριγγας καὶ ὑδροκήλας μετὰ τὴν χειρουργίαν",
+      "snippet": "εὐθετεῖ πρὸς σύριγγας καὶ ὑδροκήλας μετὰ τὴν χειρουργίαν",
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "128",
+        "section": "128",
+        "citation": {
+          "start": "63.18",
+          "end": "64.4"
+        }
+      }
+    },
+    {
+      "use_id": "aetius-1-128:use:poiei-kai-pros-ta-tetheriomena-elke-kai-escharas-3",
+      "use_urn": "urn:aos:recipe-use:aetius-1-128:use:poiei-kai-pros-ta-tetheriomena-elke-kai-escharas-3",
+      "category": "medical",
+      "source_span": "ποιεῖ καὶ πρὸς τὰ τεθηριωμένα ἕλκη καὶ ἐσχάρας",
+      "snippet": "ποιεῖ καὶ πρὸς τὰ τεθηριωμένα ἕλκη καὶ ἐσχάρας",
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "128",
+        "section": "128",
+        "citation": {
+          "start": "63.18",
+          "end": "64.4"
+        }
+      }
+    },
+    {
+      "use_id": "aetius-1-128:use:poiei-pros-dysoyrias-perichriomenon-to-daktylo-4",
+      "use_urn": "urn:aos:recipe-use:aetius-1-128:use:poiei-pros-dysoyrias-perichriomenon-to-daktylo-4",
+      "category": "medical",
+      "source_span": "ποιεῖ πρὸς δυσουρίας περιχριόμενον τῷ δακτύλῳ",
+      "snippet": "ποιεῖ πρὸς δυσουρίας περιχριόμενον τῷ δακτύλῳ",
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "128",
+        "section": "128",
+        "citation": {
+          "start": "63.18",
+          "end": "64.4"
+        }
+      }
+    },
+    {
+      "use_id": "aetius-1-128:use:poiei-kai-pros-tas-en-metra-phlegmonas-kai-sklerias-5",
+      "use_urn": "urn:aos:recipe-use:aetius-1-128:use:poiei-kai-pros-tas-en-metra-phlegmonas-kai-sklerias-5",
+      "category": "medical",
+      "source_span": "ποιεῖ καὶ πρὸς τὰς ἐν μήτρᾳ φλεγμονὰς καὶ σκληρίας",
+      "snippet": "ποιεῖ καὶ πρὸς τὰς ἐν μήτρᾳ φλεγμονὰς καὶ σκληρίας",
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "128",
+        "section": "128",
+        "citation": {
+          "start": "63.18",
+          "end": "64.4"
+        }
+      }
+    },
+    {
+      "use_id": "aetius-1-128:use:emmenia-kinei-6",
+      "use_urn": "urn:aos:recipe-use:aetius-1-128:use:emmenia-kinei-6",
+      "category": "medical",
+      "source_span": "ἐμμήνια κινεῖ",
+      "snippet": "ἐμμήνια κινεῖ",
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "128",
+        "section": "128",
+        "citation": {
+          "start": "63.18",
+          "end": "64.4"
+        }
+      }
+    },
+    {
+      "use_id": "aetius-1-128:use:aimorroidas-anastomoi-7",
+      "use_urn": "urn:aos:recipe-use:aetius-1-128:use:aimorroidas-anastomoi-7",
+      "category": "medical",
+      "source_span": "αἱμορροίδας ἀναστομοῖ",
+      "snippet": "αἱμορροίδας ἀναστομοῖ",
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "128",
+        "section": "128",
+        "citation": {
+          "start": "63.18",
+          "end": "64.4"
+        }
+      }
+    }
+  ],
+  "preparation_names": [
+    {
+      "preparation_name_id": "aetius-1-128:preparation_name:amarakinon-1",
+      "preparation_name_urn": "urn:aos:recipe-preparation_name:aetius-1-128:preparation_name:amarakinon-1",
+      "source_span": "Ἀμαράκινον",
+      "surface_form": "Ἀμαράκινον",
+      "normalized_label": "Ἀμαράκινον",
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "128",
+        "section": "128",
+        "citation": {
+          "start": "63.18",
+          "end": "64.4"
+        }
+      }
+    }
+  ],
+  "other_preparations_mentioned": [
+    {
+      "reference_id": "aetius-1-128:reference:nardos-1",
+      "reference_urn": "urn:aos:recipe-reference:aetius-1-128:reference:nardos-1",
+      "source_span": "τῆς νάρδου",
+      "surface_form": "τῆς νάρδου",
+      "normalized_label": "νάρδος",
+      "certainty": "certain",
+      "notes": [
+        "Referenced as the procedural model for preparation."
+      ],
+      "host_locator": {
+        "book": "1",
+        "chapter": "128",
+        "section": "128",
+        "citation": {
+          "start": "63.18",
+          "end": "64.4"
+        }
+      }
+    }
+  ],
+  "works_mentioned": [],
+  "entities": [
+    {
+      "entity_urn": "urn:aos:recipe-preparation:aetius-1-128:preparation:amarakinon",
+      "entity_type": "label",
+      "surface_form": "Ἀμαράκινον",
+      "normalized_label": "Ἀμαράκινον"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:aetius-1-128:ingredient:brathys-1",
+      "entity_type": "ingredient",
+      "surface_form": "βράθυος",
+      "normalized_label": "βράθυς"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:aetius-1-128:ingredient:xylobalsamon-2",
+      "entity_type": "ingredient",
+      "surface_form": "ξυλοβαλσάμου",
+      "normalized_label": "ξυλοβάλσαμον"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:aetius-1-128:ingredient:kalamos-3",
+      "entity_type": "ingredient",
+      "surface_form": "καλάμου",
+      "normalized_label": "κάλαμος"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:aetius-1-128:ingredient:anthos-schoinoy-4",
+      "entity_type": "ingredient",
+      "surface_form": "σχοίνου ἄνθους",
+      "normalized_label": "ἄνθος σχοίνου"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:aetius-1-128:ingredient:nardos-keltike-5",
+      "entity_type": "ingredient",
+      "surface_form": "νάρδου κελτικῆς",
+      "normalized_label": "νάρδος κελτική"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:aetius-1-128:ingredient:kostos-6",
+      "entity_type": "ingredient",
+      "surface_form": "κόστου",
+      "normalized_label": "κόστος"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:aetius-1-128:ingredient:amomon-7",
+      "entity_type": "ingredient",
+      "surface_form": "ἀμώμου",
+      "normalized_label": "ἄμωμον"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:aetius-1-128:ingredient:kasia-8",
+      "entity_type": "ingredient",
+      "surface_form": "κασίας",
+      "normalized_label": "κασία"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:aetius-1-128:ingredient:karpobalsamon-9",
+      "entity_type": "ingredient",
+      "surface_form": "καρποβαλσάμου",
+      "normalized_label": "καρποβάλσαμον"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:aetius-1-128:ingredient:smyrna-10",
+      "entity_type": "ingredient",
+      "surface_form": "σμύρνης",
+      "normalized_label": "σμύρνα"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:aetius-1-128:ingredient:sperma-amarakoy-11",
+      "entity_type": "ingredient",
+      "surface_form": "ἀμαράκου σπέρματος",
+      "normalized_label": "σπέρμα ἀμαράκου"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:aetius-1-128:ingredient:elaion-omphakizon-12",
+      "entity_type": "ingredient",
+      "surface_form": "ἐλαίου ὀμφακίζοντος",
+      "normalized_label": "ἔλαιον ὀμφακίζον"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:aetius-1-128:ingredient:oinos-eyodesteros-13",
+      "entity_type": "ingredient",
+      "surface_form": "οἴνου εὐωδεστέρου",
+      "normalized_label": "οἶνος εὐωδέστερος"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:aetius-1-128:process:omphakizein-1",
+      "entity_type": "process",
+      "surface_form": "ὀμφακίζοντος",
+      "normalized_label": "ὀμφακίζειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:aetius-1-128:process:epsein-2",
+      "entity_type": "process",
+      "surface_form": "ἕψε",
+      "normalized_label": "ἕψειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-person:aetius-1-128:person:kreitton-1",
+      "entity_type": "person",
+      "surface_form": "Κρείττων",
+      "normalized_label": "Κρείττων"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-preparation_name:aetius-1-128:preparation_name:amarakinon-1",
+      "entity_type": "preparation_name",
+      "surface_form": "Ἀμαράκινον",
+      "normalized_label": "Ἀμαράκινον"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-reference:aetius-1-128:reference:nardos-1",
+      "entity_type": "preparation_reference",
+      "surface_form": "τῆς νάρδου",
+      "normalized_label": "νάρδος"
+    }
+  ]
+}

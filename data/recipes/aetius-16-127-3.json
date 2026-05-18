@@ -1,0 +1,408 @@
+{
+  "dataset_key": "aetius_book16_myrepsika",
+  "source_json": "experiments/aetius-book16-ch126-153-myrepsika/data/aetius_book16_ch126_153_myrepsika.json",
+  "host_raw_file": "tei/raw/tlg0718016.xml",
+  "work_slug": "aetius.b16.myrepsika",
+  "recipe_id": "aetius-16-127-3",
+  "recipe_urn": "urn:aos:recipe:aetius-16-127-3",
+  "record_urn": "urn:aos:recipe-record:aetius-16-127-3",
+  "author": "Aëtius of Amida",
+  "work": "Libri medicinales",
+  "book": "16",
+  "chapter": "127",
+  "section": "3",
+  "chapter_name": "ῥοδάτον ξηρόμυρον · ἄλλο ξηρόμυρον · ἄλλο ξηρόμυρον φρυκτόν",
+  "lemma": "ἄλλο ξηρόμυρον φρυκτόν",
+  "text": "Ῥόδων λιτ. γ. ὕπνου λίτ. α. ῥάκους ξηροῦ γοστ. ὀνύχων γοα.",
+  "original_text": null,
+  "text_source": null,
+  "emendations": [],
+  "emendation_count": 0,
+  "source_kind": null,
+  "entry_kind": "recipe",
+  "citation": {
+    "pages": [
+      "162"
+    ],
+    "start": {
+      "page": "162",
+      "line": "6",
+      "xml_id": "zerv-162-6"
+    },
+    "end": {
+      "page": "162",
+      "line": "7",
+      "xml_id": "zerv-162-7"
+    },
+    "citation": {
+      "start": "162.6",
+      "end": "162.7"
+    },
+    "page_spans": [
+      {
+        "page": "162",
+        "start_line": "6",
+        "end_line": "7"
+      }
+    ],
+    "lines": [
+      {
+        "page": "162",
+        "line": "6",
+        "xml_id": "zerv-162-6",
+        "citation": "162.6",
+        "text": "Ἄλλο ξηρόμυρον φρυκτόν."
+      },
+      {
+        "page": "162",
+        "line": "6",
+        "xml_id": "zerv-162-6",
+        "citation": "162.6",
+        "text": "Ῥόδων"
+      },
+      {
+        "page": "162",
+        "line": "7",
+        "xml_id": "zerv-162-7",
+        "citation": "162.7",
+        "text": "λιτ. γ. ὕπνου λίτ. α. ῥάκους ξηροῦ γοστ. ὀνύχων γοα."
+      }
+    ],
+    "edition_key": "zervos"
+  },
+  "notes": [],
+  "alignment_status": "pending",
+  "alignment_confidence": "pending",
+  "alignment_evidence": null,
+  "review_status": "reviewed_structured_authority",
+  "review_provenance": {
+    "authority_source": "reports/entity_review/structured/aetius_book16.json",
+    "authority_recipe_id": "aetius-16-127-3",
+    "authority_lemma": "ξηρόμυρον",
+    "model": "gpt-5.4",
+    "reasoning_effort": "high",
+    "dataset_key": "aetius_book16_myrepsika",
+    "entity_model_version": "1.2",
+    "authority_version": "2026-04-13-qty-alt-v1",
+    "prompt_version": "qty-alt-pass-v1",
+    "build_version": "2026-05-18T15:51:35Z"
+  },
+  "schema_version": "1.2",
+  "build_metadata": {
+    "builder": "scripts/recipes/build_recipe_entities.py",
+    "built_at": "2026-05-18T15:51:35Z",
+    "source_structured_authority": "reports/entity_review/structured/aetius_book16.json",
+    "authority_model": "gpt-5.4",
+    "authority_reasoning_effort": "high",
+    "dataset_key": "aetius_book16_myrepsika",
+    "entity_model_version": "1.2",
+    "authority_version": "2026-04-13-qty-alt-v1",
+    "prompt_version": "qty-alt-pass-v1",
+    "build_version": "2026-05-18T15:51:35Z"
+  },
+  "recipe_text_excerpt": "Ῥόδων λιτ. γ. ὕπνου λίτ. α. ῥάκους ξηροῦ γοστ. ὀνύχων γοα.",
+  "preparation": {
+    "preparation_id": "aetius-16-127-3:preparation:xeromyron",
+    "preparation_urn": "urn:aos:recipe-preparation:aetius-16-127-3:preparation:xeromyron",
+    "source_span": "ἄλλο ξηρόμυρον φρυκτόν",
+    "surface_form": "ἄλλο ξηρόμυρον φρυκτόν",
+    "normalized_label": "ξηρόμυρον",
+    "qualifiers": [
+      {
+        "qualifier_type": "other",
+        "source_span": "φρυκτόν",
+        "normalized_value": "φρυκτόν",
+        "certainty": "certain",
+        "notes": []
+      }
+    ],
+    "regimen_notes": [],
+    "certainty": "certain",
+    "notes": [
+      "The running text gives ingredients only, so the preparation was taken from the lemma."
+    ],
+    "host_locator": {
+      "book": "16",
+      "chapter": "127",
+      "section": "3",
+      "citation": {
+        "start": "162.6",
+        "end": "162.7"
+      }
+    }
+  },
+  "ingredients": [
+    {
+      "ingredient_id": "aetius-16-127-3:ingredient:rodon-1",
+      "ingredient_urn": "urn:aos:recipe-ingredient:aetius-16-127-3:ingredient:rodon-1",
+      "source_span": "Ῥόδων",
+      "surface_form": "Ῥόδων",
+      "base_label": "ῥόδον",
+      "normalized_label": "ῥόδον",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [],
+      "quantities": [
+        {
+          "source_span": "λιτ. γ.",
+          "raw_number": "γ",
+          "normalized_number": 3,
+          "raw_unit": "λιτ.",
+          "normalized_unit": "litra",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "16",
+        "chapter": "127",
+        "section": "3",
+        "citation": {
+          "start": "162.6",
+          "end": "162.7"
+        }
+      }
+    },
+    {
+      "ingredient_id": "aetius-16-127-3:ingredient:ypnos-2",
+      "ingredient_urn": "urn:aos:recipe-ingredient:aetius-16-127-3:ingredient:ypnos-2",
+      "source_span": "ὕπνου",
+      "surface_form": "ὕπνου",
+      "base_label": "ὕπνος",
+      "normalized_label": "ὕπνος",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [],
+      "quantities": [
+        {
+          "source_span": "λίτ. α.",
+          "raw_number": "α",
+          "normalized_number": 1,
+          "raw_unit": "λίτ.",
+          "normalized_unit": "litra",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "16",
+        "chapter": "127",
+        "section": "3",
+        "citation": {
+          "start": "162.6",
+          "end": "162.7"
+        }
+      }
+    },
+    {
+      "ingredient_id": "aetius-16-127-3:ingredient:rakos-xeron-3",
+      "ingredient_urn": "urn:aos:recipe-ingredient:aetius-16-127-3:ingredient:rakos-xeron-3",
+      "source_span": "ῥάκους ξηροῦ",
+      "surface_form": "ῥάκους ξηροῦ",
+      "base_label": "ῥάκος",
+      "normalized_label": "ῥάκος ξηρόν",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [],
+      "quantities": [
+        {
+          "source_span": "γοστ.",
+          "raw_number": "στ",
+          "normalized_number": 6,
+          "raw_unit": "γο",
+          "normalized_unit": null,
+          "certainty": "uncertain",
+          "notes": [
+            "Unit abbreviation unresolved."
+          ]
+        }
+      ],
+      "qualifiers": [
+        {
+          "qualifier_type": "other",
+          "source_span": "ξηροῦ",
+          "normalized_value": "ξηρόν",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "notes": [],
+      "host_locator": {
+        "book": "16",
+        "chapter": "127",
+        "section": "3",
+        "citation": {
+          "start": "162.6",
+          "end": "162.7"
+        }
+      }
+    },
+    {
+      "ingredient_id": "aetius-16-127-3:ingredient:onyx-4",
+      "ingredient_urn": "urn:aos:recipe-ingredient:aetius-16-127-3:ingredient:onyx-4",
+      "source_span": "ὀνύχων",
+      "surface_form": "ὀνύχων",
+      "base_label": "ὄνυξ",
+      "normalized_label": "ὄνυξ",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [],
+      "quantities": [
+        {
+          "source_span": "γοα.",
+          "raw_number": "α",
+          "normalized_number": 1,
+          "raw_unit": "γο",
+          "normalized_unit": null,
+          "certainty": "uncertain",
+          "notes": [
+            "Unit abbreviation unresolved."
+          ]
+        }
+      ],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "16",
+        "chapter": "127",
+        "section": "3",
+        "citation": {
+          "start": "162.6",
+          "end": "162.7"
+        }
+      }
+    }
+  ],
+  "processes": [
+    {
+      "process_id": "aetius-16-127-3:process:phrygein-1",
+      "process_urn": "urn:aos:recipe-process:aetius-16-127-3:process:phrygein-1",
+      "source_span": "φρυκτόν",
+      "surface_form": "φρυκτόν",
+      "normalized_label": "φρύγειν",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [],
+      "certainty": "uncertain",
+      "notes": [
+        "Process inferred from the preparation epithet in the lemma."
+      ],
+      "host_locator": {
+        "book": "16",
+        "chapter": "127",
+        "section": "3",
+        "citation": {
+          "start": "162.6",
+          "end": "162.7"
+        }
+      }
+    }
+  ],
+  "materials": [],
+  "people": [],
+  "places": [],
+  "uses": [],
+  "preparation_names": [],
+  "other_preparations_mentioned": [],
+  "works_mentioned": [],
+  "entities": [
+    {
+      "entity_urn": "urn:aos:recipe-preparation:aetius-16-127-3:preparation:xeromyron",
+      "entity_type": "label",
+      "surface_form": "ἄλλο ξηρόμυρον φρυκτόν",
+      "normalized_label": "ξηρόμυρον"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:aetius-16-127-3:ingredient:rodon-1",
+      "entity_type": "ingredient",
+      "surface_form": "Ῥόδων",
+      "normalized_label": "ῥόδον"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:aetius-16-127-3:ingredient:ypnos-2",
+      "entity_type": "ingredient",
+      "surface_form": "ὕπνου",
+      "normalized_label": "ὕπνος"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:aetius-16-127-3:ingredient:rakos-xeron-3",
+      "entity_type": "ingredient",
+      "surface_form": "ῥάκους ξηροῦ",
+      "normalized_label": "ῥάκος ξηρόν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:aetius-16-127-3:ingredient:onyx-4",
+      "entity_type": "ingredient",
+      "surface_form": "ὀνύχων",
+      "normalized_label": "ὄνυξ"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:aetius-16-127-3:process:phrygein-1",
+      "entity_type": "process",
+      "surface_form": "φρυκτόν",
+      "normalized_label": "φρύγειν"
+    }
+  ],
+  "canonical_file": "data/recipes/aetius-16-127-3.json",
+  "source_entry": {
+    "source_id": "aetius-16-127-3",
+    "derived_recipe_id": "aetius-16-127-3",
+    "entry_kind": null,
+    "source_kind": null,
+    "source_lines": null,
+    "section_markers": []
+  },
+  "entity_groups": {
+    "labels": [
+      {
+        "entity_urn": "urn:aos:recipe-preparation:aetius-16-127-3:preparation:xeromyron",
+        "surface_form": "ἄλλο ξηρόμυρον φρυκτόν",
+        "normalized_label": "ξηρόμυρον"
+      }
+    ],
+    "ingredients": [
+      {
+        "entity_urn": "urn:aos:recipe-ingredient:aetius-16-127-3:ingredient:rodon-1",
+        "surface_form": "Ῥόδων",
+        "normalized_label": "ῥόδον",
+        "quantity_display": "λιτ. γ."
+      },
+      {
+        "entity_urn": "urn:aos:recipe-ingredient:aetius-16-127-3:ingredient:ypnos-2",
+        "surface_form": "ὕπνου",
+        "normalized_label": "ὕπνος",
+        "quantity_display": "λίτ. α."
+      },
+      {
+        "entity_urn": "urn:aos:recipe-ingredient:aetius-16-127-3:ingredient:rakos-xeron-3",
+        "surface_form": "ῥάκους ξηροῦ",
+        "normalized_label": "ῥάκος ξηρόν",
+        "quantity_display": "γοστ."
+      },
+      {
+        "entity_urn": "urn:aos:recipe-ingredient:aetius-16-127-3:ingredient:onyx-4",
+        "surface_form": "ὀνύχων",
+        "normalized_label": "ὄνυξ",
+        "quantity_display": "γοα."
+      }
+    ],
+    "processes": [
+      {
+        "entity_urn": "urn:aos:recipe-process:aetius-16-127-3:process:phrygein-1",
+        "surface_form": "φρυκτόν",
+        "normalized_label": "φρύγειν"
+      }
+    ],
+    "tools": [],
+    "other_preparations_mentioned": [],
+    "people": [],
+    "places": [],
+    "works_mentioned": [],
+    "preparation_names": []
+  }
+}

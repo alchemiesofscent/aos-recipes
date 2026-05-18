@@ -1,0 +1,814 @@
+{
+  "dataset_key": "dioscorides_book2_fats",
+  "source_json": "experiments/dioscorides-book2-fats/data/dioscorides_book2_fats.json",
+  "host_raw_file": "tei/raw/tlg0656.tlg001.1st1K-grc1.xml",
+  "work_slug": "diosc.b2.fats",
+  "recipe_id": "dioscorides-2-76-pig-bear-stear",
+  "recipe_urn": "urn:aos:recipe:dioscorides-2-76-pig-bear-stear",
+  "record_urn": "urn:aos:recipe-record:dioscorides-2-76-pig-bear-stear",
+  "author": "Dioscorides",
+  "work": "De materia medica",
+  "book": "2",
+  "chapter": "76",
+  "section": "2-3",
+  "chapter_name": "στέαρ",
+  "lemma": "στέαρ ὔειον καὶ ἄρκειον",
+  "text": "ὔειον δὲ καὶ ἄρκειον θεραπεύεται οὕτως· λαβὼν τὸ πρόσφατον καὶ καταπίμελον, οἷόν ἐστι τὸ νεφριαῖον, ἔμβαλε εἰς ὕδωρ δαψιλὲς ὄμβριον ὡς ὅτι ψυχρότατον καὶ ἐξυμένισον καὶ τρῖβε ταῖς χερσὶν ἐπιμελῶς, ἀνατρίβων αὐτὸ καὶ οἱονεὶ ἀποψήχων· εἶτα ἑτέρῳ ὕδατι πολλάκις ἀποκλύσας δὸς εἰς χύτραν κεράμεᾶν τὸ διπλάσιον χμροῦσαν, ἐπιχέας τε ὕδωρ, ὡς ὑπερέχειν τοῦ στέατος, θὲς ἐπὶ κούφης ἀνθρακιᾶς καὶ κίνει σπάθῃ. ὅταν δὲ τακῇ, διηθήσας αὐτὸ διʼ ἡθμοῦ εἰς ὕδωρ, καὶ ἐάσας ψυγῆναι πάλιν ἐστραγγισμένον ἐπιμελῶς ἀπόδος εἰς τὴν χύτραν προπεπλυμένην, ἐπιχέας τε ὕδωρ τῆξον πραέως, καὶ καθελὼν μικρόν τε ἐάσας τὴν τρύγα ὑποστῆναι κατάχεον εἰς θυίαν νενοτισμένην σπόγγῳ. ὅταν δὲ παγῇ, ἀνελόμενος καὶ τὴν πρὸς τῷ πυθμένι ἀκαθαρσίαν ἀφελὼν τῆξον ἐκ τρίτου χωρὶς ὕδατος, καὶ κατεράσας εἰς θυίαν καθαρίσας τε ἔμβαλε εἰς κεραμεοῦν ἀγγεῖον καὶ πωμάσας ἀπόθου εἰς κατάψυχρον τόπον.",
+  "original_text": null,
+  "text_source": null,
+  "emendations": [],
+  "emendation_count": 0,
+  "source_kind": "main_text",
+  "entry_kind": "recipe",
+  "citation": {
+    "pages": [
+      "152"
+    ],
+    "start": {
+      "page": "152",
+      "line": "1"
+    },
+    "end": {
+      "page": "152",
+      "line": "10"
+    },
+    "citation": {
+      "start": "152.1",
+      "end": "152.10"
+    },
+    "page_spans": [
+      {
+        "page": "152",
+        "start_line": "1",
+        "end_line": "10"
+      }
+    ],
+    "lines": [
+      {
+        "page": "152",
+        "line": "1",
+        "break_no": false,
+        "raw_text": "εἰς ὕδωρ δαψιλὲς ὄμβριον ὡς ὅτι ψυχρότατον καὶ ἐξυμένισον καὶ τρῖβε ταῖς χερσὶν ἐπιμελῶς, ἀνατρίβων αὐτὸ καὶ οἱονεὶ ἀποψήχων·",
+        "text": "εἰς ὕδωρ δαψιλὲς ὄμβριον ὡς ὅτι ψυχρότατον καὶ ἐξυμένισον καὶ τρῖβε ταῖς χερσὶν ἐπιμελῶς, ἀνατρίβων αὐτὸ καὶ οἱονεὶ ἀποψήχων·",
+        "citation": "152.1"
+      },
+      {
+        "page": "152",
+        "line": "1",
+        "break_no": false,
+        "raw_text": "3 εἶτα ἑτέρῳ ὕδατι πολλάκις ἀποκλύσας δὸς εἰς χύτραν κεράμεᾶν τὸ διπλάσιον χμροῦσαν, ἐπιχέας τε ὕδωρ, ὡς ὑπερέχειν τοῦ στέατος, θὲς ἐπὶ κούφης ἀνθρακιᾶς καὶ κίνει",
+        "text": "εἶτα ἑτέρῳ ὕδατι πολλάκις ἀποκλύσας δὸς εἰς χύτραν κεράμεᾶν τὸ διπλάσιον χμροῦσαν, ἐπιχέας τε ὕδωρ, ὡς ὑπερέχειν τοῦ στέατος, θὲς ἐπὶ κούφης ἀνθρακιᾶς καὶ κίνει",
+        "citation": "152.1"
+      },
+      {
+        "page": "152",
+        "line": "5",
+        "break_no": false,
+        "raw_text": "σπάθῃ. ὅταν δὲ τακῇ, διηθήσας αὐτὸ διʼ ἡθμοῦ εἰς ὕδωρ, καὶ ἐάσας ψυγῆναι πάλιν ἐστραγγισμένον ἐπιμελῶς ἀπόδος εἰς τὴν χύτραν προπεπλυμένην , ἐπιχέας τε ὕδωρ τῆξον πραέως, καὶ καθελὼν μικρόν τε ἐάσας τὴν τρύγα ὑποστῆναι κατάχεον εἰς θυίαν νενοτισμένην σπόγγῳ. ὅταν δὲ παγῇ, ἀνελόμενος καὶ τὴν",
+        "text": "σπάθῃ. ὅταν δὲ τακῇ, διηθήσας αὐτὸ διʼ ἡθμοῦ εἰς ὕδωρ, καὶ ἐάσας ψυγῆναι πάλιν ἐστραγγισμένον ἐπιμελῶς ἀπόδος εἰς τὴν χύτραν προπεπλυμένην, ἐπιχέας τε ὕδωρ τῆξον πραέως, καὶ καθελὼν μικρόν τε ἐάσας τὴν τρύγα ὑποστῆναι κατάχεον εἰς θυίαν νενοτισμένην σπόγγῳ. ὅταν δὲ παγῇ, ἀνελόμενος καὶ τὴν",
+        "citation": "152.5"
+      },
+      {
+        "page": "152",
+        "line": "10",
+        "break_no": false,
+        "raw_text": "πρὸς τῷ πυθμένι ἀκαθαρσίαν ἀφελὼν τῆξον ἐκ τρίτου χωρὶς ὕδατος, καὶ κατεράσας εἰς θυίαν καθαρίσας τε ἔμβαλε εἰς κεραμεοῦν ἀγγεῖον καὶ πωμάσας ἀπόθου εἰς κατάψυχρον τόπον.",
+        "text": "πρὸς τῷ πυθμένι ἀκαθαρσίαν ἀφελὼν τῆξον ἐκ τρίτου χωρὶς ὕδατος, καὶ κατεράσας εἰς θυίαν καθαρίσας τε ἔμβαλε εἰς κεραμεοῦν ἀγγεῖον καὶ πωμάσας ἀπόθου εἰς κατάψυχρον τόπον.",
+        "citation": "152.10"
+      }
+    ],
+    "edition_key": "wellmann"
+  },
+  "notes": [
+    "Book 2 fats slice split into logical preparation and technique units from chapters 72, 74, and 76.",
+    "Bare Arabic numerals in the raw witness are treated as structural or note noise and removed from display text, except parenthetical cross-references such as (I 68).",
+    "Section markers are stored separately and displayed near sentence boundaries as heuristic navigation aids.",
+    "Conservative split record generated locally because Codex structured-authority generation was rate-limited."
+  ],
+  "alignment_status": "pending",
+  "alignment_confidence": "pending",
+  "alignment_evidence": null,
+  "review_status": "reviewed_structured_authority",
+  "review_provenance": {
+    "authority_source": "reports/entity_review/structured/dioscorides.json",
+    "authority_recipe_id": "dioscorides-2-76-pig-bear-stear",
+    "authority_lemma": "στέαρ ὔειον καὶ ἄρκειον",
+    "model": "gpt-5.4",
+    "reasoning_effort": "high",
+    "dataset_key": "dioscorides_book2_fats",
+    "entity_model_version": "1.2",
+    "authority_version": "2026-04-13-qty-alt-v1",
+    "prompt_version": "qty-alt-pass-v1",
+    "build_version": "2026-05-18T15:51:35Z"
+  },
+  "schema_version": "1.2",
+  "build_metadata": {
+    "builder": "scripts/recipes/build_recipe_entities.py",
+    "built_at": "2026-05-18T15:51:35Z",
+    "source_structured_authority": "reports/entity_review/structured/dioscorides.json",
+    "authority_model": "gpt-5.4",
+    "authority_reasoning_effort": "high",
+    "dataset_key": "dioscorides_book2_fats",
+    "entity_model_version": "1.2",
+    "authority_version": "2026-04-13-qty-alt-v1",
+    "prompt_version": "qty-alt-pass-v1",
+    "build_version": "2026-05-18T15:51:35Z"
+  },
+  "recipe_text_excerpt": "ὔειον δὲ καὶ ἄρκειον θεραπεύεται οὕτως· λαβὼν τὸ πρόσφατον καὶ καταπίμελον, οἷόν ἐστι τὸ νεφριαῖον, ἔμβαλε εἰς ὕδωρ δαψιλὲς ὄμβριον",
+  "preparation": {
+    "preparation_id": "dioscorides-2-76-pig-bear-stear:preparation:stear-yeion-kai-arkeion",
+    "preparation_urn": "urn:aos:recipe-preparation:dioscorides-2-76-pig-bear-stear:preparation:stear-yeion-kai-arkeion",
+    "source_span": "στέαρ ὔειον καὶ ἄρκειον",
+    "surface_form": "στέαρ ὔειον καὶ ἄρκειον",
+    "normalized_label": "στέαρ ὔειον καὶ ἄρκειον",
+    "qualifiers": [],
+    "regimen_notes": [],
+    "certainty": "certain",
+    "notes": [
+      "Conservative split authority generated from exact spans in the previous broad Book 2 fat authority."
+    ],
+    "host_locator": {
+      "book": "2",
+      "chapter": "76",
+      "section": "2-3",
+      "citation": {
+        "start": "152.1",
+        "end": "152.10"
+      }
+    }
+  },
+  "ingredients": [
+    {
+      "ingredient_id": "dioscorides-2-76-pig-bear-stear:ingredient:stear-yeion-1",
+      "ingredient_urn": "urn:aos:recipe-ingredient:dioscorides-2-76-pig-bear-stear:ingredient:stear-yeion-1",
+      "source_span": "ὔειον",
+      "surface_form": "ὔειον",
+      "base_label": "ὔειον",
+      "normalized_label": "στέαρ ὔειον",
+      "alternative_set_id": null,
+      "certainty": "uncertain",
+      "linked_process_ids": [
+        "dioscorides-2-76-pig-bear-stear:process:tribein-2",
+        "dioscorides-2-76-pig-bear-stear:process:tekein-7"
+      ],
+      "quantities": [],
+      "qualifiers": [],
+      "notes": [
+        "Head noun στέαρ restored from lemma."
+      ],
+      "host_locator": {
+        "book": "2",
+        "chapter": "76",
+        "section": "2-3",
+        "citation": {
+          "start": "152.1",
+          "end": "152.10"
+        }
+      }
+    },
+    {
+      "ingredient_id": "dioscorides-2-76-pig-bear-stear:ingredient:stear-arkeion-2",
+      "ingredient_urn": "urn:aos:recipe-ingredient:dioscorides-2-76-pig-bear-stear:ingredient:stear-arkeion-2",
+      "source_span": "ἄρκειον",
+      "surface_form": "ἄρκειον",
+      "base_label": "ἄρκειον",
+      "normalized_label": "στέαρ ἄρκειον",
+      "alternative_set_id": null,
+      "certainty": "uncertain",
+      "linked_process_ids": [
+        "dioscorides-2-76-pig-bear-stear:process:tribein-2",
+        "dioscorides-2-76-pig-bear-stear:process:tekein-7"
+      ],
+      "quantities": [],
+      "qualifiers": [],
+      "notes": [
+        "Head noun στέαρ restored from lemma."
+      ],
+      "host_locator": {
+        "book": "2",
+        "chapter": "76",
+        "section": "2-3",
+        "citation": {
+          "start": "152.1",
+          "end": "152.10"
+        }
+      }
+    },
+    {
+      "ingredient_id": "dioscorides-2-76-pig-bear-stear:ingredient:ydor-ombrion-3",
+      "ingredient_urn": "urn:aos:recipe-ingredient:dioscorides-2-76-pig-bear-stear:ingredient:ydor-ombrion-3",
+      "source_span": "ὕδωρ δαψιλὲς ὄμβριον",
+      "surface_form": "ὕδωρ δαψιλὲς ὄμβριον",
+      "base_label": "ὕδωρ",
+      "normalized_label": "ὕδωρ ὄμβριον",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [
+        "dioscorides-2-76-pig-bear-stear:process:emballein-1"
+      ],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "other",
+          "source_span": "δαψιλὲς",
+          "normalized_value": "abundant",
+          "certainty": "certain",
+          "notes": []
+        },
+        {
+          "qualifier_type": "temperature",
+          "source_span": "ὡς ὅτι ψυχρότατον",
+          "normalized_value": "very cold",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "notes": [],
+      "host_locator": {
+        "book": "2",
+        "chapter": "76",
+        "section": "2-3",
+        "citation": {
+          "start": "152.1",
+          "end": "152.10"
+        }
+      }
+    }
+  ],
+  "processes": [
+    {
+      "process_id": "dioscorides-2-76-pig-bear-stear:process:emballein-1",
+      "process_urn": "urn:aos:recipe-process:dioscorides-2-76-pig-bear-stear:process:emballein-1",
+      "source_span": "ἔμβαλε",
+      "surface_form": "ἔμβαλε",
+      "normalized_label": "ἐμβάλλειν",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "2",
+        "chapter": "76",
+        "section": "2-3",
+        "citation": {
+          "start": "152.1",
+          "end": "152.10"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-2-76-pig-bear-stear:process:tribein-2",
+      "process_urn": "urn:aos:recipe-process:dioscorides-2-76-pig-bear-stear:process:tribein-2",
+      "source_span": "τρῖβε",
+      "surface_form": "τρῖβε",
+      "normalized_label": "τρίβειν",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "manner",
+          "source_span": "ταῖς χερσὶν ἐπιμελῶς",
+          "normalized_value": "carefully with the hands",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "2",
+        "chapter": "76",
+        "section": "2-3",
+        "citation": {
+          "start": "152.1",
+          "end": "152.10"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-2-76-pig-bear-stear:process:apoklyzein-3",
+      "process_urn": "urn:aos:recipe-process:dioscorides-2-76-pig-bear-stear:process:apoklyzein-3",
+      "source_span": "ἀποκλύσας",
+      "surface_form": "ἀποκλύσας",
+      "normalized_label": "ἀποκλύζειν",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "cycle_count",
+          "source_span": "πολλάκις",
+          "normalized_value": "repeatedly",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "2",
+        "chapter": "76",
+        "section": "2-3",
+        "citation": {
+          "start": "152.1",
+          "end": "152.10"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-2-76-pig-bear-stear:process:kinein-4",
+      "process_urn": "urn:aos:recipe-process:dioscorides-2-76-pig-bear-stear:process:kinein-4",
+      "source_span": "κίνει",
+      "surface_form": "κίνει",
+      "normalized_label": "κινεῖν",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [],
+      "certainty": "certain",
+      "notes": [
+        "The clause specifies stirring with a σπάθη."
+      ],
+      "host_locator": {
+        "book": "2",
+        "chapter": "76",
+        "section": "2-3",
+        "citation": {
+          "start": "152.1",
+          "end": "152.10"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-2-76-pig-bear-stear:process:diethein-5",
+      "process_urn": "urn:aos:recipe-process:dioscorides-2-76-pig-bear-stear:process:diethein-5",
+      "source_span": "διηθήσας",
+      "surface_form": "διηθήσας",
+      "normalized_label": "διηθεῖν",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "location",
+          "source_span": "διʼ ἡθμοῦ εἰς ὕδωρ",
+          "normalized_value": "through a sieve into water",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "2",
+        "chapter": "76",
+        "section": "2-3",
+        "citation": {
+          "start": "152.1",
+          "end": "152.10"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-2-76-pig-bear-stear:process:psychein-6",
+      "process_urn": "urn:aos:recipe-process:dioscorides-2-76-pig-bear-stear:process:psychein-6",
+      "source_span": "ἐάσας ψυγῆναι",
+      "surface_form": "ἐάσας ψυγῆναι",
+      "normalized_label": "ψύχειν",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "2",
+        "chapter": "76",
+        "section": "2-3",
+        "citation": {
+          "start": "152.1",
+          "end": "152.10"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-2-76-pig-bear-stear:process:tekein-7",
+      "process_urn": "urn:aos:recipe-process:dioscorides-2-76-pig-bear-stear:process:tekein-7",
+      "source_span": "τῆξον πραέως",
+      "surface_form": "τῆξον πραέως",
+      "normalized_label": "τήκειν",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "manner",
+          "source_span": "πραέως",
+          "normalized_value": "gently",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "2",
+        "chapter": "76",
+        "section": "2-3",
+        "citation": {
+          "start": "152.1",
+          "end": "152.10"
+        }
+      }
+    }
+  ],
+  "materials": [
+    {
+      "material_id": "dioscorides-2-76-pig-bear-stear:material:chytra-1",
+      "material_urn": "urn:aos:recipe-material:dioscorides-2-76-pig-bear-stear:material:chytra-1",
+      "source_span": "χύτραν κεράμεᾶν",
+      "surface_form": "χύτραν κεράμεᾶν",
+      "normalized_label": "χύτρα",
+      "role": "apparatus",
+      "certainty": "certain",
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "other",
+          "source_span": "κεράμεᾶν",
+          "normalized_value": "earthen",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "notes": [],
+      "host_locator": {
+        "book": "2",
+        "chapter": "76",
+        "section": "2-3",
+        "citation": {
+          "start": "152.1",
+          "end": "152.10"
+        }
+      }
+    },
+    {
+      "material_id": "dioscorides-2-76-pig-bear-stear:material:ethmos-2",
+      "material_urn": "urn:aos:recipe-material:dioscorides-2-76-pig-bear-stear:material:ethmos-2",
+      "source_span": "ἡθμοῦ",
+      "surface_form": "ἡθμοῦ",
+      "normalized_label": "ἡθμός",
+      "role": "tool",
+      "certainty": "certain",
+      "quantities": [],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "2",
+        "chapter": "76",
+        "section": "2-3",
+        "citation": {
+          "start": "152.1",
+          "end": "152.10"
+        }
+      }
+    },
+    {
+      "material_id": "dioscorides-2-76-pig-bear-stear:material:thyia-3",
+      "material_urn": "urn:aos:recipe-material:dioscorides-2-76-pig-bear-stear:material:thyia-3",
+      "source_span": "θυίαν",
+      "surface_form": "θυίαν",
+      "normalized_label": "θυία",
+      "role": "apparatus",
+      "certainty": "uncertain",
+      "quantities": [],
+      "qualifiers": [],
+      "notes": [
+        "Container term retained as transmitted."
+      ],
+      "host_locator": {
+        "book": "2",
+        "chapter": "76",
+        "section": "2-3",
+        "citation": {
+          "start": "152.1",
+          "end": "152.10"
+        }
+      }
+    },
+    {
+      "material_id": "dioscorides-2-76-pig-bear-stear:material:spoggos-4",
+      "material_urn": "urn:aos:recipe-material:dioscorides-2-76-pig-bear-stear:material:spoggos-4",
+      "source_span": "σπόγγῳ",
+      "surface_form": "σπόγγῳ",
+      "normalized_label": "σπόγγος",
+      "role": "tool",
+      "certainty": "certain",
+      "quantities": [],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "2",
+        "chapter": "76",
+        "section": "2-3",
+        "citation": {
+          "start": "152.1",
+          "end": "152.10"
+        }
+      }
+    },
+    {
+      "material_id": "dioscorides-2-76-pig-bear-stear:material:spathe-5",
+      "material_urn": "urn:aos:recipe-material:dioscorides-2-76-pig-bear-stear:material:spathe-5",
+      "source_span": "σπάθῃ",
+      "surface_form": "σπάθῃ",
+      "normalized_label": "σπάθη",
+      "role": "tool",
+      "certainty": "certain",
+      "quantities": [],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "2",
+        "chapter": "76",
+        "section": "2-3",
+        "citation": {
+          "start": "152.1",
+          "end": "152.10"
+        }
+      }
+    },
+    {
+      "material_id": "dioscorides-2-76-pig-bear-stear:material:anthrakia-6",
+      "material_urn": "urn:aos:recipe-material:dioscorides-2-76-pig-bear-stear:material:anthrakia-6",
+      "source_span": "κούφης ἀνθρακιᾶς",
+      "surface_form": "κούφης ἀνθρακιᾶς",
+      "normalized_label": "ἀνθρακιά",
+      "role": "fuel",
+      "certainty": "certain",
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "other",
+          "source_span": "κούφης",
+          "normalized_value": "light",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "notes": [],
+      "host_locator": {
+        "book": "2",
+        "chapter": "76",
+        "section": "2-3",
+        "citation": {
+          "start": "152.1",
+          "end": "152.10"
+        }
+      }
+    }
+  ],
+  "people": [],
+  "places": [],
+  "uses": [],
+  "preparation_names": [],
+  "other_preparations_mentioned": [],
+  "works_mentioned": [],
+  "entities": [
+    {
+      "entity_urn": "urn:aos:recipe-preparation:dioscorides-2-76-pig-bear-stear:preparation:stear-yeion-kai-arkeion",
+      "entity_type": "label",
+      "surface_form": "στέαρ ὔειον καὶ ἄρκειον",
+      "normalized_label": "στέαρ ὔειον καὶ ἄρκειον"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:dioscorides-2-76-pig-bear-stear:ingredient:stear-yeion-1",
+      "entity_type": "ingredient",
+      "surface_form": "ὔειον",
+      "normalized_label": "στέαρ ὔειον"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:dioscorides-2-76-pig-bear-stear:ingredient:stear-arkeion-2",
+      "entity_type": "ingredient",
+      "surface_form": "ἄρκειον",
+      "normalized_label": "στέαρ ἄρκειον"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:dioscorides-2-76-pig-bear-stear:ingredient:ydor-ombrion-3",
+      "entity_type": "ingredient",
+      "surface_form": "ὕδωρ δαψιλὲς ὄμβριον",
+      "normalized_label": "ὕδωρ ὄμβριον"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-2-76-pig-bear-stear:process:emballein-1",
+      "entity_type": "process",
+      "surface_form": "ἔμβαλε",
+      "normalized_label": "ἐμβάλλειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-2-76-pig-bear-stear:process:tribein-2",
+      "entity_type": "process",
+      "surface_form": "τρῖβε",
+      "normalized_label": "τρίβειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-2-76-pig-bear-stear:process:apoklyzein-3",
+      "entity_type": "process",
+      "surface_form": "ἀποκλύσας",
+      "normalized_label": "ἀποκλύζειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-2-76-pig-bear-stear:process:kinein-4",
+      "entity_type": "process",
+      "surface_form": "κίνει",
+      "normalized_label": "κινεῖν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-2-76-pig-bear-stear:process:diethein-5",
+      "entity_type": "process",
+      "surface_form": "διηθήσας",
+      "normalized_label": "διηθεῖν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-2-76-pig-bear-stear:process:psychein-6",
+      "entity_type": "process",
+      "surface_form": "ἐάσας ψυγῆναι",
+      "normalized_label": "ψύχειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-2-76-pig-bear-stear:process:tekein-7",
+      "entity_type": "process",
+      "surface_form": "τῆξον πραέως",
+      "normalized_label": "τήκειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-material:dioscorides-2-76-pig-bear-stear:material:chytra-1",
+      "entity_type": "material",
+      "surface_form": "χύτραν κεράμεᾶν",
+      "normalized_label": "χύτρα"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-material:dioscorides-2-76-pig-bear-stear:material:ethmos-2",
+      "entity_type": "material",
+      "surface_form": "ἡθμοῦ",
+      "normalized_label": "ἡθμός"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-material:dioscorides-2-76-pig-bear-stear:material:thyia-3",
+      "entity_type": "material",
+      "surface_form": "θυίαν",
+      "normalized_label": "θυία"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-material:dioscorides-2-76-pig-bear-stear:material:spoggos-4",
+      "entity_type": "material",
+      "surface_form": "σπόγγῳ",
+      "normalized_label": "σπόγγος"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-material:dioscorides-2-76-pig-bear-stear:material:spathe-5",
+      "entity_type": "material",
+      "surface_form": "σπάθῃ",
+      "normalized_label": "σπάθη"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-material:dioscorides-2-76-pig-bear-stear:material:anthrakia-6",
+      "entity_type": "material",
+      "surface_form": "κούφης ἀνθρακιᾶς",
+      "normalized_label": "ἀνθρακιά"
+    }
+  ],
+  "canonical_file": "data/recipes/dioscorides-2-76-pig-bear-stear.json",
+  "source_entry": {
+    "source_id": "dioscorides-2-76-pig-bear-stear",
+    "derived_recipe_id": "dioscorides-2-76-pig-bear-stear",
+    "entry_kind": "recipe",
+    "source_kind": "main_text",
+    "source_lines": {
+      "start": "152.1",
+      "end": "152.10"
+    },
+    "section_markers": [
+      {
+        "chapter": "76",
+        "section": "2",
+        "label": "§2",
+        "raw_token": null,
+        "offset": 0
+      },
+      {
+        "chapter": "76",
+        "section": "3",
+        "label": "§3",
+        "raw_token": "3",
+        "offset": 232
+      }
+    ]
+  },
+  "entity_groups": {
+    "labels": [
+      {
+        "entity_urn": "urn:aos:recipe-preparation:dioscorides-2-76-pig-bear-stear:preparation:stear-yeion-kai-arkeion",
+        "surface_form": "στέαρ ὔειον καὶ ἄρκειον",
+        "normalized_label": "στέαρ ὔειον καὶ ἄρκειον"
+      }
+    ],
+    "ingredients": [
+      {
+        "entity_urn": "urn:aos:recipe-ingredient:dioscorides-2-76-pig-bear-stear:ingredient:stear-yeion-1",
+        "surface_form": "ὔειον",
+        "normalized_label": "στέαρ ὔειον",
+        "quantity_display": ""
+      },
+      {
+        "entity_urn": "urn:aos:recipe-ingredient:dioscorides-2-76-pig-bear-stear:ingredient:stear-arkeion-2",
+        "surface_form": "ἄρκειον",
+        "normalized_label": "στέαρ ἄρκειον",
+        "quantity_display": ""
+      },
+      {
+        "entity_urn": "urn:aos:recipe-ingredient:dioscorides-2-76-pig-bear-stear:ingredient:ydor-ombrion-3",
+        "surface_form": "ὕδωρ δαψιλὲς ὄμβριον",
+        "normalized_label": "ὕδωρ ὄμβριον",
+        "quantity_display": ""
+      }
+    ],
+    "processes": [
+      {
+        "entity_urn": "urn:aos:recipe-process:dioscorides-2-76-pig-bear-stear:process:emballein-1",
+        "surface_form": "ἔμβαλε",
+        "normalized_label": "ἐμβάλλειν"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-process:dioscorides-2-76-pig-bear-stear:process:tribein-2",
+        "surface_form": "τρῖβε",
+        "normalized_label": "τρίβειν"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-process:dioscorides-2-76-pig-bear-stear:process:apoklyzein-3",
+        "surface_form": "ἀποκλύσας",
+        "normalized_label": "ἀποκλύζειν"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-process:dioscorides-2-76-pig-bear-stear:process:kinein-4",
+        "surface_form": "κίνει",
+        "normalized_label": "κινεῖν"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-process:dioscorides-2-76-pig-bear-stear:process:diethein-5",
+        "surface_form": "διηθήσας",
+        "normalized_label": "διηθεῖν"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-process:dioscorides-2-76-pig-bear-stear:process:psychein-6",
+        "surface_form": "ἐάσας ψυγῆναι",
+        "normalized_label": "ψύχειν"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-process:dioscorides-2-76-pig-bear-stear:process:tekein-7",
+        "surface_form": "τῆξον πραέως",
+        "normalized_label": "τήκειν"
+      }
+    ],
+    "tools": [
+      {
+        "entity_urn": "urn:aos:recipe-material:dioscorides-2-76-pig-bear-stear:material:chytra-1",
+        "surface_form": "χύτραν κεράμεᾶν",
+        "normalized_label": "χύτρα"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-material:dioscorides-2-76-pig-bear-stear:material:ethmos-2",
+        "surface_form": "ἡθμοῦ",
+        "normalized_label": "ἡθμός"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-material:dioscorides-2-76-pig-bear-stear:material:thyia-3",
+        "surface_form": "θυίαν",
+        "normalized_label": "θυία"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-material:dioscorides-2-76-pig-bear-stear:material:spoggos-4",
+        "surface_form": "σπόγγῳ",
+        "normalized_label": "σπόγγος"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-material:dioscorides-2-76-pig-bear-stear:material:spathe-5",
+        "surface_form": "σπάθῃ",
+        "normalized_label": "σπάθη"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-material:dioscorides-2-76-pig-bear-stear:material:anthrakia-6",
+        "surface_form": "κούφης ἀνθρακιᾶς",
+        "normalized_label": "ἀνθρακιά"
+      }
+    ],
+    "other_preparations_mentioned": [],
+    "people": [],
+    "places": [],
+    "works_mentioned": [],
+    "preparation_names": []
+  }
+}

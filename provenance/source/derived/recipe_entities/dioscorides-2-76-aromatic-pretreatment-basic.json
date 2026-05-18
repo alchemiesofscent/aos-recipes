@@ -1,0 +1,695 @@
+{
+  "dataset_key": "dioscorides_book2_fats",
+  "source_json": "experiments/dioscorides-book2-fats/data/dioscorides_book2_fats.json",
+  "host_raw_file": "tei/raw/tlg0656.tlg001.1st1K-grc1.xml",
+  "work_slug": "diosc.b2.fats",
+  "recipe_id": "dioscorides-2-76-aromatic-pretreatment-basic",
+  "recipe_urn": "urn:aos:recipe:dioscorides-2-76-aromatic-pretreatment-basic",
+  "record_urn": "urn:aos:recipe-record:dioscorides-2-76-aromatic-pretreatment-basic",
+  "author": "Dioscorides",
+  "work": "De materia medica",
+  "book": "2",
+  "chapter": "76",
+  "section": "10",
+  "chapter_name": "στέαρ",
+  "lemma": "πρόστυψις στεάτων πρὸς ἀρώματα",
+  "text": "προστύφεται δὲ τὰ προειρημένα στέατα πρὸς τὸ ῥᾳδίως δέξασθαι τὴν τῶν ἀρωμάτων δύναμιν ρὕτως· λαβὼν αὐτῶν ὅ τι ἂν αἱρῇ ζέσον ἅμα οἴνῳ, συγκαθεὶς μυρσίνης κλάδον ἕρπυλλόν τε καὶ κύπερον, ἔτι δὲ ἀσπάλαθον ὁλοσχερέστερον συγκοπέντα· τινὲς δὲ ἐνὶ τούτων ἀρκοῦνται. ὅταν δὲ τὸ τρίτον ἀναζέσῃ, ἀνελόμενος πραέως καὶ δι᾿ ὀθόνης ὑλίσας ἀρωμάτιζε, ὡς δεδήλωται.",
+  "original_text": null,
+  "text_source": null,
+  "emendations": [],
+  "emendation_count": 0,
+  "source_kind": "main_text",
+  "entry_kind": "technique",
+  "citation": {
+    "pages": [
+      "155"
+    ],
+    "start": {
+      "page": "155",
+      "line": "1"
+    },
+    "end": {
+      "page": "155",
+      "line": "5"
+    },
+    "citation": {
+      "start": "155.1",
+      "end": "155.5"
+    },
+    "page_spans": [
+      {
+        "page": "155",
+        "start_line": "1",
+        "end_line": "5"
+      }
+    ],
+    "lines": [
+      {
+        "page": "155",
+        "line": "1",
+        "break_no": false,
+        "raw_text": "τὴν τῶν ἀρωμάτων δύναμιν ρὕτως· λαβὼν αὐτῶν ὅ τι ἂν αἱρῇ ζέσον ἅμα οἴνῳ, συγκαθεὶς μυρσίνης κλάδον ἕρπυλλόν τε καὶ κύπερον, ἔτι δὲ ἀσπάλαθον ὁλοσχερέστερον συγκοπέντα· τινὲς δὲ ἐνὶ τούτων ἀρκοῦνται. ὅταν δὲ τὸ τρίτον ἀναζέσῃ,",
+        "text": "τὴν τῶν ἀρωμάτων δύναμιν ρὕτως· λαβὼν αὐτῶν ὅ τι ἂν αἱρῇ ζέσον ἅμα οἴνῳ, συγκαθεὶς μυρσίνης κλάδον ἕρπυλλόν τε καὶ κύπερον, ἔτι δὲ ἀσπάλαθον ὁλοσχερέστερον συγκοπέντα· τινὲς δὲ ἐνὶ τούτων ἀρκοῦνται. ὅταν δὲ τὸ τρίτον ἀναζέσῃ,",
+        "citation": "155.1"
+      },
+      {
+        "page": "155",
+        "line": "5",
+        "break_no": false,
+        "raw_text": "ἀνελόμενος πραέως καὶ δι᾿ ὀθόνης ὑλίσας ἀρωμάτιζε, ὡς δεδήλωται.",
+        "text": "ἀνελόμενος πραέως καὶ δι᾿ ὀθόνης ὑλίσας ἀρωμάτιζε, ὡς δεδήλωται.",
+        "citation": "155.5"
+      }
+    ],
+    "edition_key": "wellmann"
+  },
+  "notes": [
+    "Book 2 fats slice split into logical preparation and technique units from chapters 72, 74, and 76.",
+    "Bare Arabic numerals in the raw witness are treated as structural or note noise and removed from display text, except parenthetical cross-references such as (I 68).",
+    "Section markers are stored separately and displayed near sentence boundaries as heuristic navigation aids."
+  ],
+  "alignment_status": "pending",
+  "alignment_confidence": "pending",
+  "alignment_evidence": null,
+  "review_status": "reviewed_structured_authority",
+  "review_provenance": {
+    "authority_source": "reports/entity_review/structured/dioscorides.json",
+    "authority_recipe_id": "dioscorides-2-76-aromatic-pretreatment-basic",
+    "authority_lemma": "πρόστυψις στεάτων πρὸς ἀρώματα",
+    "model": "gpt-5.4",
+    "reasoning_effort": "high",
+    "dataset_key": "dioscorides_book2_fats",
+    "entity_model_version": "1.2",
+    "authority_version": "2026-04-13-qty-alt-v1",
+    "prompt_version": "qty-alt-pass-v1",
+    "build_version": "2026-05-18T15:51:35Z"
+  },
+  "schema_version": "1.2",
+  "build_metadata": {
+    "builder": "scripts/recipes/build_recipe_entities.py",
+    "built_at": "2026-05-18T15:51:35Z",
+    "source_structured_authority": "reports/entity_review/structured/dioscorides.json",
+    "authority_model": "gpt-5.4",
+    "authority_reasoning_effort": "high",
+    "dataset_key": "dioscorides_book2_fats",
+    "entity_model_version": "1.2",
+    "authority_version": "2026-04-13-qty-alt-v1",
+    "prompt_version": "qty-alt-pass-v1",
+    "build_version": "2026-05-18T15:51:35Z"
+  },
+  "recipe_text_excerpt": "προστύφεται δὲ τὰ προειρημένα στέατα πρὸς τὸ ῥᾳδίως δέξασθαι τὴν τῶν ἀρωμάτων δύναμιν ρὕτως· λαβὼν αὐτῶν ὅ τι ἂν αἱρῇ",
+  "preparation": {
+    "preparation_id": "dioscorides-2-76-aromatic-pretreatment-basic:preparation:prostypsis-steaton-pros-aromata",
+    "preparation_urn": "urn:aos:recipe-preparation:dioscorides-2-76-aromatic-pretreatment-basic:preparation:prostypsis-steaton-pros-aromata",
+    "source_span": "πρόστυψις στεάτων πρὸς ἀρώματα",
+    "surface_form": "πρόστυψις στεάτων πρὸς ἀρώματα",
+    "normalized_label": "πρόστυψις στεάτων πρὸς ἀρώματα",
+    "qualifiers": [],
+    "regimen_notes": [
+      {
+        "source_span": "πρὸς τὸ ῥᾳδίως δέξασθαι τὴν τῶν ἀρωμάτων δύναμιν",
+        "normalized_note": "pretreatment so the fats receive the power of the aromatics more readily",
+        "certainty": "certain",
+        "notes": []
+      },
+      {
+        "source_span": "τινὲς δὲ ἐνὶ τούτων ἀρκοῦνται",
+        "normalized_note": "some use only one of the listed additives",
+        "certainty": "certain",
+        "notes": []
+      }
+    ],
+    "certainty": "certain",
+    "notes": [],
+    "host_locator": {
+      "book": "2",
+      "chapter": "76",
+      "section": "10",
+      "citation": {
+        "start": "155.1",
+        "end": "155.5"
+      }
+    }
+  },
+  "ingredients": [
+    {
+      "ingredient_id": "dioscorides-2-76-aromatic-pretreatment-basic:ingredient:stear-1",
+      "ingredient_urn": "urn:aos:recipe-ingredient:dioscorides-2-76-aromatic-pretreatment-basic:ingredient:stear-1",
+      "source_span": "τὰ προειρημένα στέατα",
+      "surface_form": "τὰ προειρημένα στέατα",
+      "base_label": "στέατα",
+      "normalized_label": "στέαρ",
+      "alternative_set_id": null,
+      "certainty": "uncertain",
+      "linked_process_ids": [
+        "dioscorides-2-76-aromatic-pretreatment-basic:process:lambanein-1",
+        "dioscorides-2-76-aromatic-pretreatment-basic:process:zeein-2",
+        "dioscorides-2-76-aromatic-pretreatment-basic:process:aromatizein-8"
+      ],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "other",
+          "source_span": "προειρημένα",
+          "normalized_value": "previously mentioned",
+          "certainty": "certain",
+          "notes": [
+            "Specific fat subtype is not restated in this unit."
+          ]
+        }
+      ],
+      "notes": [],
+      "host_locator": {
+        "book": "2",
+        "chapter": "76",
+        "section": "10",
+        "citation": {
+          "start": "155.1",
+          "end": "155.5"
+        }
+      }
+    },
+    {
+      "ingredient_id": "dioscorides-2-76-aromatic-pretreatment-basic:ingredient:oinos-2",
+      "ingredient_urn": "urn:aos:recipe-ingredient:dioscorides-2-76-aromatic-pretreatment-basic:ingredient:oinos-2",
+      "source_span": "οἴνῳ",
+      "surface_form": "οἴνῳ",
+      "base_label": "οἴνῳ",
+      "normalized_label": "οἶνος",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [
+        "dioscorides-2-76-aromatic-pretreatment-basic:process:zeein-2"
+      ],
+      "quantities": [],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "2",
+        "chapter": "76",
+        "section": "10",
+        "citation": {
+          "start": "155.1",
+          "end": "155.5"
+        }
+      }
+    },
+    {
+      "ingredient_id": "dioscorides-2-76-aromatic-pretreatment-basic:ingredient:klados-myrsines-3",
+      "ingredient_urn": "urn:aos:recipe-ingredient:dioscorides-2-76-aromatic-pretreatment-basic:ingredient:klados-myrsines-3",
+      "source_span": "μυρσίνης κλάδον",
+      "surface_form": "μυρσίνης κλάδον",
+      "base_label": "κλάδον",
+      "normalized_label": "κλάδος μυρσίνης",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [
+        "dioscorides-2-76-aromatic-pretreatment-basic:process:sygkathienai-3"
+      ],
+      "quantities": [],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "2",
+        "chapter": "76",
+        "section": "10",
+        "citation": {
+          "start": "155.1",
+          "end": "155.5"
+        }
+      }
+    },
+    {
+      "ingredient_id": "dioscorides-2-76-aromatic-pretreatment-basic:ingredient:erpyllon-4",
+      "ingredient_urn": "urn:aos:recipe-ingredient:dioscorides-2-76-aromatic-pretreatment-basic:ingredient:erpyllon-4",
+      "source_span": "ἕρπυλλόν",
+      "surface_form": "ἕρπυλλόν",
+      "base_label": "ἕρπυλλόν",
+      "normalized_label": "ἕρπυλλον",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [
+        "dioscorides-2-76-aromatic-pretreatment-basic:process:sygkathienai-3"
+      ],
+      "quantities": [],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "2",
+        "chapter": "76",
+        "section": "10",
+        "citation": {
+          "start": "155.1",
+          "end": "155.5"
+        }
+      }
+    },
+    {
+      "ingredient_id": "dioscorides-2-76-aromatic-pretreatment-basic:ingredient:kyperon-5",
+      "ingredient_urn": "urn:aos:recipe-ingredient:dioscorides-2-76-aromatic-pretreatment-basic:ingredient:kyperon-5",
+      "source_span": "κύπερον",
+      "surface_form": "κύπερον",
+      "base_label": "κύπερον",
+      "normalized_label": "κύπερον",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [
+        "dioscorides-2-76-aromatic-pretreatment-basic:process:sygkathienai-3"
+      ],
+      "quantities": [],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "2",
+        "chapter": "76",
+        "section": "10",
+        "citation": {
+          "start": "155.1",
+          "end": "155.5"
+        }
+      }
+    },
+    {
+      "ingredient_id": "dioscorides-2-76-aromatic-pretreatment-basic:ingredient:aspalathos-6",
+      "ingredient_urn": "urn:aos:recipe-ingredient:dioscorides-2-76-aromatic-pretreatment-basic:ingredient:aspalathos-6",
+      "source_span": "ἀσπάλαθον ὁλοσχερέστερον συγκοπέντα",
+      "surface_form": "ἀσπάλαθον ὁλοσχερέστερον συγκοπέντα",
+      "base_label": "ἀσπάλαθον",
+      "normalized_label": "ἀσπάλαθος",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [
+        "dioscorides-2-76-aromatic-pretreatment-basic:process:sygkathienai-3",
+        "dioscorides-2-76-aromatic-pretreatment-basic:process:sygkoptein-4"
+      ],
+      "quantities": [],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "2",
+        "chapter": "76",
+        "section": "10",
+        "citation": {
+          "start": "155.1",
+          "end": "155.5"
+        }
+      }
+    }
+  ],
+  "processes": [
+    {
+      "process_id": "dioscorides-2-76-aromatic-pretreatment-basic:process:lambanein-1",
+      "process_urn": "urn:aos:recipe-process:dioscorides-2-76-aromatic-pretreatment-basic:process:lambanein-1",
+      "source_span": "λαβὼν",
+      "surface_form": "λαβὼν",
+      "normalized_label": "λαμβάνειν",
+      "target_type": "ingredient",
+      "target_ids": [
+        "dioscorides-2-76-aromatic-pretreatment-basic:ingredient:stear-1"
+      ],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "other",
+          "source_span": "ὅ τι ἂν αἱρῇ",
+          "normalized_value": "whichever one is chosen",
+          "certainty": "certain",
+          "notes": [
+            "Selection is among the previously mentioned fats."
+          ]
+        }
+      ],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "2",
+        "chapter": "76",
+        "section": "10",
+        "citation": {
+          "start": "155.1",
+          "end": "155.5"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-2-76-aromatic-pretreatment-basic:process:zeein-2",
+      "process_urn": "urn:aos:recipe-process:dioscorides-2-76-aromatic-pretreatment-basic:process:zeein-2",
+      "source_span": "ζέσον",
+      "surface_form": "ζέσον",
+      "normalized_label": "ζέειν",
+      "target_type": "ingredient",
+      "target_ids": [
+        "dioscorides-2-76-aromatic-pretreatment-basic:ingredient:stear-1",
+        "dioscorides-2-76-aromatic-pretreatment-basic:ingredient:oinos-2"
+      ],
+      "quantities": [],
+      "qualifiers": [],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "2",
+        "chapter": "76",
+        "section": "10",
+        "citation": {
+          "start": "155.1",
+          "end": "155.5"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-2-76-aromatic-pretreatment-basic:process:sygkathienai-3",
+      "process_urn": "urn:aos:recipe-process:dioscorides-2-76-aromatic-pretreatment-basic:process:sygkathienai-3",
+      "source_span": "συγκαθεὶς",
+      "surface_form": "συγκαθεὶς",
+      "normalized_label": "συγκαθιέναι",
+      "target_type": "ingredient",
+      "target_ids": [
+        "dioscorides-2-76-aromatic-pretreatment-basic:ingredient:klados-myrsines-3",
+        "dioscorides-2-76-aromatic-pretreatment-basic:ingredient:erpyllon-4",
+        "dioscorides-2-76-aromatic-pretreatment-basic:ingredient:kyperon-5",
+        "dioscorides-2-76-aromatic-pretreatment-basic:ingredient:aspalathos-6"
+      ],
+      "quantities": [],
+      "qualifiers": [],
+      "certainty": "uncertain",
+      "notes": [
+        "Normalized infinitive is inferred from the participial form."
+      ],
+      "host_locator": {
+        "book": "2",
+        "chapter": "76",
+        "section": "10",
+        "citation": {
+          "start": "155.1",
+          "end": "155.5"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-2-76-aromatic-pretreatment-basic:process:sygkoptein-4",
+      "process_urn": "urn:aos:recipe-process:dioscorides-2-76-aromatic-pretreatment-basic:process:sygkoptein-4",
+      "source_span": "συγκοπέντα",
+      "surface_form": "συγκοπέντα",
+      "normalized_label": "συγκόπτειν",
+      "target_type": "ingredient",
+      "target_ids": [
+        "dioscorides-2-76-aromatic-pretreatment-basic:ingredient:aspalathos-6"
+      ],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "manner",
+          "source_span": "ὁλοσχερέστερον",
+          "normalized_value": "more coarsely or more whole",
+          "certainty": "uncertain",
+          "notes": [
+            "The adverbial force is clear, but the exact nuance is uncertain."
+          ]
+        }
+      ],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "2",
+        "chapter": "76",
+        "section": "10",
+        "citation": {
+          "start": "155.1",
+          "end": "155.5"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-2-76-aromatic-pretreatment-basic:process:anazeein-5",
+      "process_urn": "urn:aos:recipe-process:dioscorides-2-76-aromatic-pretreatment-basic:process:anazeein-5",
+      "source_span": "ἀναζέσῃ",
+      "surface_form": "ἀναζέσῃ",
+      "normalized_label": "ἀναζέειν",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "cycle_count",
+          "source_span": "τὸ τρίτον",
+          "normalized_value": "3",
+          "certainty": "certain",
+          "notes": [
+            "Refers to the third boiling."
+          ]
+        }
+      ],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "2",
+        "chapter": "76",
+        "section": "10",
+        "citation": {
+          "start": "155.1",
+          "end": "155.5"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-2-76-aromatic-pretreatment-basic:process:anairein-6",
+      "process_urn": "urn:aos:recipe-process:dioscorides-2-76-aromatic-pretreatment-basic:process:anairein-6",
+      "source_span": "ἀνελόμενος",
+      "surface_form": "ἀνελόμενος",
+      "normalized_label": "ἀναιρεῖν",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "manner",
+          "source_span": "πραέως",
+          "normalized_value": "gently",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "2",
+        "chapter": "76",
+        "section": "10",
+        "citation": {
+          "start": "155.1",
+          "end": "155.5"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-2-76-aromatic-pretreatment-basic:process:ylizein-7",
+      "process_urn": "urn:aos:recipe-process:dioscorides-2-76-aromatic-pretreatment-basic:process:ylizein-7",
+      "source_span": "ὑλίσας",
+      "surface_form": "ὑλίσας",
+      "normalized_label": "ὑλίζειν",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "manner",
+          "source_span": "δι᾿ ὀθόνης",
+          "normalized_value": "through cloth",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "certainty": "uncertain",
+      "notes": [
+        "The verb is interpreted as straining or filtering from the transmitted form."
+      ],
+      "host_locator": {
+        "book": "2",
+        "chapter": "76",
+        "section": "10",
+        "citation": {
+          "start": "155.1",
+          "end": "155.5"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-2-76-aromatic-pretreatment-basic:process:aromatizein-8",
+      "process_urn": "urn:aos:recipe-process:dioscorides-2-76-aromatic-pretreatment-basic:process:aromatizein-8",
+      "source_span": "ἀρωμάτιζε",
+      "surface_form": "ἀρωμάτιζε",
+      "normalized_label": "ἀρωματίζειν",
+      "target_type": "ingredient",
+      "target_ids": [
+        "dioscorides-2-76-aromatic-pretreatment-basic:ingredient:stear-1"
+      ],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "other",
+          "source_span": "ὡς δεδήλωται",
+          "normalized_value": "as has been explained",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "2",
+        "chapter": "76",
+        "section": "10",
+        "citation": {
+          "start": "155.1",
+          "end": "155.5"
+        }
+      }
+    }
+  ],
+  "materials": [
+    {
+      "material_id": "dioscorides-2-76-aromatic-pretreatment-basic:material:othone-1",
+      "material_urn": "urn:aos:recipe-material:dioscorides-2-76-aromatic-pretreatment-basic:material:othone-1",
+      "source_span": "ὀθόνης",
+      "surface_form": "ὀθόνης",
+      "normalized_label": "ὀθόνη",
+      "role": "tool",
+      "certainty": "certain",
+      "quantities": [],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "2",
+        "chapter": "76",
+        "section": "10",
+        "citation": {
+          "start": "155.1",
+          "end": "155.5"
+        }
+      }
+    }
+  ],
+  "people": [],
+  "places": [],
+  "uses": [
+    {
+      "use_id": "dioscorides-2-76-aromatic-pretreatment-basic:use:pros-aromata-1",
+      "use_urn": "urn:aos:recipe-use:dioscorides-2-76-aromatic-pretreatment-basic:use:pros-aromata-1",
+      "category": "cosmetic",
+      "source_span": "πρὸς ἀρώματα",
+      "snippet": "πρὸς ἀρώματα",
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "2",
+        "chapter": "76",
+        "section": "10",
+        "citation": {
+          "start": "155.1",
+          "end": "155.5"
+        }
+      }
+    }
+  ],
+  "preparation_names": [],
+  "other_preparations_mentioned": [],
+  "works_mentioned": [],
+  "entities": [
+    {
+      "entity_urn": "urn:aos:recipe-preparation:dioscorides-2-76-aromatic-pretreatment-basic:preparation:prostypsis-steaton-pros-aromata",
+      "entity_type": "label",
+      "surface_form": "πρόστυψις στεάτων πρὸς ἀρώματα",
+      "normalized_label": "πρόστυψις στεάτων πρὸς ἀρώματα"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:dioscorides-2-76-aromatic-pretreatment-basic:ingredient:stear-1",
+      "entity_type": "ingredient",
+      "surface_form": "τὰ προειρημένα στέατα",
+      "normalized_label": "στέαρ"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:dioscorides-2-76-aromatic-pretreatment-basic:ingredient:oinos-2",
+      "entity_type": "ingredient",
+      "surface_form": "οἴνῳ",
+      "normalized_label": "οἶνος"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:dioscorides-2-76-aromatic-pretreatment-basic:ingredient:klados-myrsines-3",
+      "entity_type": "ingredient",
+      "surface_form": "μυρσίνης κλάδον",
+      "normalized_label": "κλάδος μυρσίνης"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:dioscorides-2-76-aromatic-pretreatment-basic:ingredient:erpyllon-4",
+      "entity_type": "ingredient",
+      "surface_form": "ἕρπυλλόν",
+      "normalized_label": "ἕρπυλλον"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:dioscorides-2-76-aromatic-pretreatment-basic:ingredient:kyperon-5",
+      "entity_type": "ingredient",
+      "surface_form": "κύπερον",
+      "normalized_label": "κύπερον"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:dioscorides-2-76-aromatic-pretreatment-basic:ingredient:aspalathos-6",
+      "entity_type": "ingredient",
+      "surface_form": "ἀσπάλαθον ὁλοσχερέστερον συγκοπέντα",
+      "normalized_label": "ἀσπάλαθος"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-2-76-aromatic-pretreatment-basic:process:lambanein-1",
+      "entity_type": "process",
+      "surface_form": "λαβὼν",
+      "normalized_label": "λαμβάνειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-2-76-aromatic-pretreatment-basic:process:zeein-2",
+      "entity_type": "process",
+      "surface_form": "ζέσον",
+      "normalized_label": "ζέειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-2-76-aromatic-pretreatment-basic:process:sygkathienai-3",
+      "entity_type": "process",
+      "surface_form": "συγκαθεὶς",
+      "normalized_label": "συγκαθιέναι"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-2-76-aromatic-pretreatment-basic:process:sygkoptein-4",
+      "entity_type": "process",
+      "surface_form": "συγκοπέντα",
+      "normalized_label": "συγκόπτειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-2-76-aromatic-pretreatment-basic:process:anazeein-5",
+      "entity_type": "process",
+      "surface_form": "ἀναζέσῃ",
+      "normalized_label": "ἀναζέειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-2-76-aromatic-pretreatment-basic:process:anairein-6",
+      "entity_type": "process",
+      "surface_form": "ἀνελόμενος",
+      "normalized_label": "ἀναιρεῖν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-2-76-aromatic-pretreatment-basic:process:ylizein-7",
+      "entity_type": "process",
+      "surface_form": "ὑλίσας",
+      "normalized_label": "ὑλίζειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-2-76-aromatic-pretreatment-basic:process:aromatizein-8",
+      "entity_type": "process",
+      "surface_form": "ἀρωμάτιζε",
+      "normalized_label": "ἀρωματίζειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-material:dioscorides-2-76-aromatic-pretreatment-basic:material:othone-1",
+      "entity_type": "material",
+      "surface_form": "ὀθόνης",
+      "normalized_label": "ὀθόνη"
+    }
+  ]
+}

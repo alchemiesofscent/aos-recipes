@@ -1,0 +1,285 @@
+{
+  "dataset_key": "paul_book7_perfumes",
+  "source_json": "experiments/paul-book7-ch20-perfumes/data/paul_book7_ch20_perfumes.json",
+  "host_raw_file": "tei/raw/tlg0715001.xml",
+  "work_slug": "paul.b7.perfumes",
+  "recipe_id": "paul-7-20-13",
+  "recipe_urn": "urn:aos:recipe:paul-7-20-13",
+  "record_urn": "urn:aos:recipe-record:paul-7-20-13",
+  "author": "Paul of Aegina",
+  "work": "Medical Epitome",
+  "book": "7",
+  "chapter": "20",
+  "section": "13",
+  "chapter_name": "Ἐλαίων καὶ μύρων σκευασίαι διάφοροι.",
+  "lemma": "Κίκινον",
+  "text": "Καὶ τοῦτο ἐν Αἰγύπτῳ γίνεται ἀπὸ τοῦ σπέρματος τῆς κικέας, ὃ καλεῖται κρότων, ὁμοίως κοπτομένου ἢ λειουμένου.",
+  "original_text": null,
+  "text_source": null,
+  "emendations": [],
+  "emendation_count": 0,
+  "source_kind": null,
+  "entry_kind": "recipe",
+  "citation": {
+    "pages": [
+      "2.384"
+    ],
+    "start": {
+      "page": "2.384",
+      "line": "15",
+      "xml_id": "heib-2-384-15"
+    },
+    "end": {
+      "page": "2.384",
+      "line": "17",
+      "xml_id": "heib-2-384-17"
+    },
+    "citation": {
+      "start": "2.384.15",
+      "end": "2.384.17"
+    },
+    "page_spans": [
+      {
+        "page": "2.384",
+        "start_line": "15",
+        "end_line": "17"
+      }
+    ],
+    "lines": [
+      {
+        "page": "2.384",
+        "line": "15",
+        "xml_id": "heib-2-384-15",
+        "break_no": false,
+        "text": "Κίκινον.",
+        "citation": "2.384.15"
+      },
+      {
+        "page": "2.384",
+        "line": "16",
+        "xml_id": "heib-2-384-16",
+        "break_no": false,
+        "text": "Καὶ τοῦτο ἐν Αἰγύπτῳ γίνεται ἀπὸ τοῦ σπέρματος τῆς κικέας, ὃ",
+        "citation": "2.384.16"
+      },
+      {
+        "page": "2.384",
+        "line": "17",
+        "xml_id": "heib-2-384-17",
+        "break_no": false,
+        "text": "καλεῖται κρότων, ὁμοίως κοπτομένου ἢ λειουμένου.",
+        "citation": "2.384.17"
+      }
+    ],
+    "edition_key": "heiberg"
+  },
+  "notes": [],
+  "alignment_status": "pending",
+  "alignment_confidence": "pending",
+  "alignment_evidence": null,
+  "review_status": "reviewed_structured_authority",
+  "review_provenance": {
+    "authority_source": "reports/entity_review/structured/paul.json",
+    "authority_recipe_id": "paul-7-20-13",
+    "authority_lemma": "Κίκινον",
+    "model": "gpt-5.4",
+    "reasoning_effort": "high",
+    "dataset_key": "paul_book7_perfumes",
+    "entity_model_version": "1.2",
+    "authority_version": "2026-04-13-qty-alt-v1",
+    "prompt_version": "qty-alt-pass-v1",
+    "build_version": "2026-05-18T15:51:35Z"
+  },
+  "schema_version": "1.2",
+  "build_metadata": {
+    "builder": "scripts/recipes/build_recipe_entities.py",
+    "built_at": "2026-05-18T15:51:35Z",
+    "source_structured_authority": "reports/entity_review/structured/paul.json",
+    "authority_model": "gpt-5.4",
+    "authority_reasoning_effort": "high",
+    "dataset_key": "paul_book7_perfumes",
+    "entity_model_version": "1.2",
+    "authority_version": "2026-04-13-qty-alt-v1",
+    "prompt_version": "qty-alt-pass-v1",
+    "build_version": "2026-05-18T15:51:35Z"
+  },
+  "recipe_text_excerpt": "Καὶ τοῦτο ἐν Αἰγύπτῳ γίνεται ἀπὸ τοῦ σπέρματος τῆς κικέας, ὃ καλεῖται κρότων, ὁμοίως κοπτομένου ἢ λειουμένου.",
+  "preparation": {
+    "preparation_id": "paul-7-20-13:preparation:kikinon",
+    "preparation_urn": "urn:aos:recipe-preparation:paul-7-20-13:preparation:kikinon",
+    "source_span": "Κίκινον",
+    "surface_form": "Κίκινον",
+    "normalized_label": "Κίκινον",
+    "qualifiers": [],
+    "regimen_notes": [],
+    "certainty": "certain",
+    "notes": [
+      "The running text does not restate the preparation name cleanly, so the lemma is used for the preparation label.",
+      "`ὃ καλεῖται κρότων` names the source plant/seed, not a same-preparation alias.",
+      "`ὁμοίως κοπτομένου ἢ λειουμένου` describes process applied to the seed and is not promoted to a preparation-level qualifier."
+    ],
+    "host_locator": {
+      "book": "7",
+      "chapter": "20",
+      "section": "13",
+      "citation": {
+        "start": "2.384.15",
+        "end": "2.384.17"
+      }
+    }
+  },
+  "ingredients": [
+    {
+      "ingredient_id": "paul-7-20-13:ingredient:sperma-kikea-1",
+      "ingredient_urn": "urn:aos:recipe-ingredient:paul-7-20-13:ingredient:sperma-kikea-1",
+      "source_span": "τοῦ σπέρματος τῆς κικέας, ὃ καλεῖται κρότων",
+      "surface_form": "τοῦ σπέρματος τῆς κικέας, ὃ καλεῖται κρότων",
+      "base_label": "σπέρμα",
+      "normalized_label": "σπέρμα κικέα",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [
+        "paul-7-20-13:process:koptein-1",
+        "paul-7-20-13:process:leioyn-2"
+      ],
+      "quantities": [],
+      "qualifiers": [],
+      "notes": [
+        "ὃ καλεῖται κρότων"
+      ],
+      "host_locator": {
+        "book": "7",
+        "chapter": "20",
+        "section": "13",
+        "citation": {
+          "start": "2.384.15",
+          "end": "2.384.17"
+        }
+      }
+    }
+  ],
+  "processes": [
+    {
+      "process_id": "paul-7-20-13:process:koptein-1",
+      "process_urn": "urn:aos:recipe-process:paul-7-20-13:process:koptein-1",
+      "source_span": "κοπτομένου",
+      "surface_form": "κοπτομένου",
+      "normalized_label": "κόπτειν",
+      "target_type": "ingredient",
+      "target_ids": [
+        "paul-7-20-13:ingredient:sperma-kikea-1"
+      ],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "manner",
+          "source_span": "ὁμοίως",
+          "normalized_value": "ὁμοίως",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "7",
+        "chapter": "20",
+        "section": "13",
+        "citation": {
+          "start": "2.384.15",
+          "end": "2.384.17"
+        }
+      }
+    },
+    {
+      "process_id": "paul-7-20-13:process:leioyn-2",
+      "process_urn": "urn:aos:recipe-process:paul-7-20-13:process:leioyn-2",
+      "source_span": "λειουμένου",
+      "surface_form": "λειουμένου",
+      "normalized_label": "λειοῦν",
+      "target_type": "ingredient",
+      "target_ids": [
+        "paul-7-20-13:ingredient:sperma-kikea-1"
+      ],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "manner",
+          "source_span": "ὁμοίως",
+          "normalized_value": "ὁμοίως",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "7",
+        "chapter": "20",
+        "section": "13",
+        "citation": {
+          "start": "2.384.15",
+          "end": "2.384.17"
+        }
+      }
+    }
+  ],
+  "materials": [],
+  "people": [],
+  "places": [
+    {
+      "place_id": "paul-7-20-13:place:aigyptos-1",
+      "place_urn": "urn:aos:recipe-place:paul-7-20-13:place:aigyptos-1",
+      "source_span": "Αἰγύπτῳ",
+      "surface_form": "Αἰγύπτῳ",
+      "normalized_label": "Αἴγυπτος",
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "7",
+        "chapter": "20",
+        "section": "13",
+        "citation": {
+          "start": "2.384.15",
+          "end": "2.384.17"
+        }
+      }
+    }
+  ],
+  "uses": [],
+  "preparation_names": [],
+  "other_preparations_mentioned": [],
+  "works_mentioned": [],
+  "entities": [
+    {
+      "entity_urn": "urn:aos:recipe-preparation:paul-7-20-13:preparation:kikinon",
+      "entity_type": "label",
+      "surface_form": "Κίκινον",
+      "normalized_label": "Κίκινον"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:paul-7-20-13:ingredient:sperma-kikea-1",
+      "entity_type": "ingredient",
+      "surface_form": "τοῦ σπέρματος τῆς κικέας, ὃ καλεῖται κρότων",
+      "normalized_label": "σπέρμα κικέα"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:paul-7-20-13:process:koptein-1",
+      "entity_type": "process",
+      "surface_form": "κοπτομένου",
+      "normalized_label": "κόπτειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:paul-7-20-13:process:leioyn-2",
+      "entity_type": "process",
+      "surface_form": "λειουμένου",
+      "normalized_label": "λειοῦν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-place:paul-7-20-13:place:aigyptos-1",
+      "entity_type": "place",
+      "surface_form": "Αἰγύπτῳ",
+      "normalized_label": "Αἴγυπτος"
+    }
+  ]
+}

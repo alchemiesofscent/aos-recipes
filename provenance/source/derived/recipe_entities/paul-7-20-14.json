@@ -1,0 +1,509 @@
+{
+  "dataset_key": "paul_book7_perfumes",
+  "source_json": "experiments/paul-book7-ch20-perfumes/data/paul_book7_ch20_perfumes.json",
+  "host_raw_file": "tei/raw/tlg0715001.xml",
+  "work_slug": "paul.b7.perfumes",
+  "recipe_id": "paul-7-20-14",
+  "recipe_urn": "urn:aos:recipe:paul-7-20-14",
+  "record_urn": "urn:aos:recipe-record:paul-7-20-14",
+  "author": "Paul of Aegina",
+  "work": "Medical Epitome",
+  "book": "7",
+  "chapter": "20",
+  "section": "14",
+  "chapter_name": "Ἐλαίων καὶ μύρων σκευασίαι διάφοροι.",
+  "lemma": "Αἰγείρινον",
+  "text": "Κατὰ τὸν καιρὸν τοῦ ἦρος γίνεται, ὅτε πολλὴ περὶ τὸ σπέρμα ἐστὶ ῥητίνη· τοὺς γὰρ κόκκους ἐνθλάσαντες τῆς αἰγείρου 𐆄 δ τούτων ἐμβάλλουσιν εἰς ξ̸ α γλυκέος ἐλαίου καὶ ἡλιοῦσιν ἡμέρας μ ἢ ἕψουσιν ἐπὶ διπλώματος ὥρας γ, καὶ οὕτω διασειρώσαντες ἀποτίθενται.",
+  "original_text": null,
+  "text_source": null,
+  "emendations": [],
+  "emendation_count": 0,
+  "source_kind": null,
+  "entry_kind": "recipe",
+  "citation": {
+    "pages": [
+      "2.384"
+    ],
+    "start": {
+      "page": "2.384",
+      "line": "18",
+      "xml_id": "heib-2-384-18"
+    },
+    "end": {
+      "page": "2.384",
+      "line": "22",
+      "xml_id": "heib-2-384-22"
+    },
+    "citation": {
+      "start": "2.384.18",
+      "end": "2.384.22"
+    },
+    "page_spans": [
+      {
+        "page": "2.384",
+        "start_line": "18",
+        "end_line": "22"
+      }
+    ],
+    "lines": [
+      {
+        "page": "2.384",
+        "line": "18",
+        "xml_id": "heib-2-384-18",
+        "break_no": false,
+        "text": "Αἰγείρινον.",
+        "citation": "2.384.18"
+      },
+      {
+        "page": "2.384",
+        "line": "19",
+        "xml_id": "heib-2-384-19",
+        "break_no": false,
+        "text": "Κατὰ τὸν καιρὸν τοῦ ἦρος γίνεται, ὅτε πολλὴ περὶ τὸ σπέρμα",
+        "citation": "2.384.19"
+      },
+      {
+        "page": "2.384",
+        "line": "20",
+        "xml_id": "heib-2-384-20",
+        "break_no": false,
+        "text": "ἐστὶ ῥητίνη· τοὺς γὰρ κόκκους ἐνθλάσαντες τῆς αἰγείρου 𐆄 δ τούτων",
+        "citation": "2.384.20"
+      },
+      {
+        "page": "2.384",
+        "line": "21",
+        "xml_id": "heib-2-384-21",
+        "break_no": false,
+        "text": "ἐμβάλλουσιν εἰς ξ̸ α γλυκέος ἐλαίου καὶ ἡλιοῦσιν ἡμέρας μ ἢ ἕψουσιν",
+        "citation": "2.384.21"
+      },
+      {
+        "page": "2.384",
+        "line": "22",
+        "xml_id": "heib-2-384-22",
+        "break_no": false,
+        "text": "ἐπὶ διπλώματος ὥρας γ, καὶ οὕτω διασειρώσαντες ἀποτίθενται.",
+        "citation": "2.384.22"
+      }
+    ],
+    "edition_key": "heiberg"
+  },
+  "notes": [],
+  "alignment_status": "pending",
+  "alignment_confidence": "pending",
+  "alignment_evidence": null,
+  "review_status": "reviewed_structured_authority",
+  "review_provenance": {
+    "authority_source": "reports/entity_review/structured/paul.json",
+    "authority_recipe_id": "paul-7-20-14",
+    "authority_lemma": "Αἰγείρινον",
+    "model": "gpt-5.4",
+    "reasoning_effort": "high",
+    "dataset_key": "paul_book7_perfumes",
+    "entity_model_version": "1.2",
+    "authority_version": "2026-04-13-qty-alt-v1",
+    "prompt_version": "qty-alt-pass-v1",
+    "build_version": "2026-05-18T15:51:35Z"
+  },
+  "schema_version": "1.2",
+  "build_metadata": {
+    "builder": "scripts/recipes/build_recipe_entities.py",
+    "built_at": "2026-05-18T15:51:35Z",
+    "source_structured_authority": "reports/entity_review/structured/paul.json",
+    "authority_model": "gpt-5.4",
+    "authority_reasoning_effort": "high",
+    "dataset_key": "paul_book7_perfumes",
+    "entity_model_version": "1.2",
+    "authority_version": "2026-04-13-qty-alt-v1",
+    "prompt_version": "qty-alt-pass-v1",
+    "build_version": "2026-05-18T15:51:35Z"
+  },
+  "recipe_text_excerpt": "Κατὰ τὸν καιρὸν τοῦ ἦρος γίνεται, ὅτε πολλὴ περὶ τὸ σπέρμα ἐστὶ ῥητίνη· τοὺς γὰρ κόκκους ἐνθλάσαντες τῆς αἰγείρου 𐆄",
+  "preparation": {
+    "preparation_id": "paul-7-20-14:preparation:aigeirinon",
+    "preparation_urn": "urn:aos:recipe-preparation:paul-7-20-14:preparation:aigeirinon",
+    "source_span": "Αἰγείρινον",
+    "surface_form": "Αἰγείρινον",
+    "normalized_label": "Αἰγείρινον",
+    "qualifiers": [
+      {
+        "qualifier_type": "other",
+        "source_span": "Κατὰ τὸν καιρὸν τοῦ ἦρος γίνεται",
+        "normalized_value": "springtime",
+        "certainty": "certain",
+        "notes": []
+      }
+    ],
+    "regimen_notes": [
+      {
+        "source_span": "ὅτε πολλὴ περὶ τὸ σπέρμα ἐστὶ ῥητίνη",
+        "normalized_note": "selection is timed for when there is abundant resin around the seed",
+        "certainty": "certain",
+        "notes": []
+      }
+    ],
+    "certainty": "certain",
+    "notes": [
+      "The running text does not restate the preparation name cleanly, so the lemma is used for preparation.source_span and preparation.normalized_label."
+    ],
+    "host_locator": {
+      "book": "7",
+      "chapter": "20",
+      "section": "14",
+      "citation": {
+        "start": "2.384.18",
+        "end": "2.384.22"
+      }
+    }
+  },
+  "ingredients": [
+    {
+      "ingredient_id": "paul-7-20-14:ingredient:kokkoi-aigeiroy-1",
+      "ingredient_urn": "urn:aos:recipe-ingredient:paul-7-20-14:ingredient:kokkoi-aigeiroy-1",
+      "source_span": "τοὺς γὰρ κόκκους ἐνθλάσαντες τῆς αἰγείρου",
+      "surface_form": "τοὺς γὰρ κόκκους ἐνθλάσαντες τῆς αἰγείρου",
+      "base_label": "κόκκος",
+      "normalized_label": "κόκκοι αἰγείρου",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [
+        "paul-7-20-14:process:enthlan-1"
+      ],
+      "quantities": [
+        {
+          "source_span": "𐆄 δ",
+          "raw_number": "δ",
+          "normalized_number": 4,
+          "raw_unit": "𐆄",
+          "normalized_unit": "uncia",
+          "certainty": "uncertain",
+          "notes": [
+            "Unit sign unresolved."
+          ]
+        }
+      ],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "7",
+        "chapter": "20",
+        "section": "14",
+        "citation": {
+          "start": "2.384.18",
+          "end": "2.384.22"
+        }
+      }
+    },
+    {
+      "ingredient_id": "paul-7-20-14:ingredient:elaion-glyky-2",
+      "ingredient_urn": "urn:aos:recipe-ingredient:paul-7-20-14:ingredient:elaion-glyky-2",
+      "source_span": "γλυκέος ἐλαίου",
+      "surface_form": "γλυκέος ἐλαίου",
+      "base_label": "ἔλαιον",
+      "normalized_label": "ἔλαιον γλυκύ",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [],
+      "quantities": [
+        {
+          "source_span": "ξ̸ α",
+          "raw_number": "ξ̸ α",
+          "normalized_number": 61,
+          "raw_unit": null,
+          "normalized_unit": "xestes",
+          "certainty": "uncertain",
+          "notes": [
+            "No explicit unit is stated in the text."
+          ]
+        }
+      ],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "7",
+        "chapter": "20",
+        "section": "14",
+        "citation": {
+          "start": "2.384.18",
+          "end": "2.384.22"
+        }
+      }
+    }
+  ],
+  "processes": [
+    {
+      "process_id": "paul-7-20-14:process:enthlan-1",
+      "process_urn": "urn:aos:recipe-process:paul-7-20-14:process:enthlan-1",
+      "source_span": "ἐνθλάσαντες",
+      "surface_form": "ἐνθλάσαντες",
+      "normalized_label": "ἐνθλᾶν",
+      "target_type": "ingredient",
+      "target_ids": [
+        "paul-7-20-14:ingredient:kokkoi-aigeiroy-1"
+      ],
+      "quantities": [],
+      "qualifiers": [],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "7",
+        "chapter": "20",
+        "section": "14",
+        "citation": {
+          "start": "2.384.18",
+          "end": "2.384.22"
+        }
+      }
+    },
+    {
+      "process_id": "paul-7-20-14:process:emballein-2",
+      "process_urn": "urn:aos:recipe-process:paul-7-20-14:process:emballein-2",
+      "source_span": "ἐμβάλλουσιν",
+      "surface_form": "ἐμβάλλουσιν",
+      "normalized_label": "ἐμβάλλειν",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "location",
+          "source_span": "εἰς ξ̸ α γλυκέος ἐλαίου",
+          "normalized_value": "εἰς ἔλαιον γλυκύ",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "7",
+        "chapter": "20",
+        "section": "14",
+        "citation": {
+          "start": "2.384.18",
+          "end": "2.384.22"
+        }
+      }
+    },
+    {
+      "process_id": "paul-7-20-14:process:elioyn-3",
+      "process_urn": "urn:aos:recipe-process:paul-7-20-14:process:elioyn-3",
+      "source_span": "ἡλιοῦσιν",
+      "surface_form": "ἡλιοῦσιν",
+      "normalized_label": "ἡλιοῦν",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [
+        {
+          "source_span": "ἡμέρας μ",
+          "raw_number": "μ",
+          "normalized_number": 40,
+          "raw_unit": "ἡμέρας",
+          "normalized_unit": null,
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "qualifiers": [],
+      "certainty": "certain",
+      "notes": [
+        "Alternative to ἕψουσιν ἐπὶ διπλώματος."
+      ],
+      "host_locator": {
+        "book": "7",
+        "chapter": "20",
+        "section": "14",
+        "citation": {
+          "start": "2.384.18",
+          "end": "2.384.22"
+        }
+      }
+    },
+    {
+      "process_id": "paul-7-20-14:process:epsein-4",
+      "process_urn": "urn:aos:recipe-process:paul-7-20-14:process:epsein-4",
+      "source_span": "ἕψουσιν",
+      "surface_form": "ἕψουσιν",
+      "normalized_label": "ἕψειν",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [
+        {
+          "source_span": "ὥρας γ",
+          "raw_number": "γ",
+          "normalized_number": 3,
+          "raw_unit": "ὥρας",
+          "normalized_unit": null,
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "qualifiers": [
+        {
+          "qualifier_type": "location",
+          "source_span": "ἐπὶ διπλώματος",
+          "normalized_value": "ἐπὶ διπλώματος",
+          "certainty": "uncertain",
+          "notes": []
+        }
+      ],
+      "certainty": "certain",
+      "notes": [
+        "Alternative to ἡλιοῦσιν ἡμέρας μ."
+      ],
+      "host_locator": {
+        "book": "7",
+        "chapter": "20",
+        "section": "14",
+        "citation": {
+          "start": "2.384.18",
+          "end": "2.384.22"
+        }
+      }
+    },
+    {
+      "process_id": "paul-7-20-14:process:diaseiran-5",
+      "process_urn": "urn:aos:recipe-process:paul-7-20-14:process:diaseiran-5",
+      "source_span": "διασειρώσαντες",
+      "surface_form": "διασειρώσαντες",
+      "normalized_label": "διασειρᾶν",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "manner",
+          "source_span": "οὕτω",
+          "normalized_value": "οὕτω",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "certainty": "uncertain",
+      "notes": [],
+      "host_locator": {
+        "book": "7",
+        "chapter": "20",
+        "section": "14",
+        "citation": {
+          "start": "2.384.18",
+          "end": "2.384.22"
+        }
+      }
+    },
+    {
+      "process_id": "paul-7-20-14:process:apotithesthai-6",
+      "process_urn": "urn:aos:recipe-process:paul-7-20-14:process:apotithesthai-6",
+      "source_span": "ἀποτίθενται",
+      "surface_form": "ἀποτίθενται",
+      "normalized_label": "ἀποτίθεσθαι",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "7",
+        "chapter": "20",
+        "section": "14",
+        "citation": {
+          "start": "2.384.18",
+          "end": "2.384.22"
+        }
+      }
+    }
+  ],
+  "materials": [
+    {
+      "material_id": "paul-7-20-14:material:diploma-1",
+      "material_urn": "urn:aos:recipe-material:paul-7-20-14:material:diploma-1",
+      "source_span": "διπλώματος",
+      "surface_form": "διπλώματος",
+      "normalized_label": "δίπλωμα",
+      "role": "apparatus",
+      "certainty": "uncertain",
+      "quantities": [],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "7",
+        "chapter": "20",
+        "section": "14",
+        "citation": {
+          "start": "2.384.18",
+          "end": "2.384.22"
+        }
+      }
+    }
+  ],
+  "people": [],
+  "places": [],
+  "uses": [],
+  "preparation_names": [],
+  "other_preparations_mentioned": [],
+  "works_mentioned": [],
+  "entities": [
+    {
+      "entity_urn": "urn:aos:recipe-preparation:paul-7-20-14:preparation:aigeirinon",
+      "entity_type": "label",
+      "surface_form": "Αἰγείρινον",
+      "normalized_label": "Αἰγείρινον"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:paul-7-20-14:ingredient:kokkoi-aigeiroy-1",
+      "entity_type": "ingredient",
+      "surface_form": "τοὺς γὰρ κόκκους ἐνθλάσαντες τῆς αἰγείρου",
+      "normalized_label": "κόκκοι αἰγείρου"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:paul-7-20-14:ingredient:elaion-glyky-2",
+      "entity_type": "ingredient",
+      "surface_form": "γλυκέος ἐλαίου",
+      "normalized_label": "ἔλαιον γλυκύ"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:paul-7-20-14:process:enthlan-1",
+      "entity_type": "process",
+      "surface_form": "ἐνθλάσαντες",
+      "normalized_label": "ἐνθλᾶν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:paul-7-20-14:process:emballein-2",
+      "entity_type": "process",
+      "surface_form": "ἐμβάλλουσιν",
+      "normalized_label": "ἐμβάλλειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:paul-7-20-14:process:elioyn-3",
+      "entity_type": "process",
+      "surface_form": "ἡλιοῦσιν",
+      "normalized_label": "ἡλιοῦν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:paul-7-20-14:process:epsein-4",
+      "entity_type": "process",
+      "surface_form": "ἕψουσιν",
+      "normalized_label": "ἕψειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:paul-7-20-14:process:diaseiran-5",
+      "entity_type": "process",
+      "surface_form": "διασειρώσαντες",
+      "normalized_label": "διασειρᾶν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:paul-7-20-14:process:apotithesthai-6",
+      "entity_type": "process",
+      "surface_form": "ἀποτίθενται",
+      "normalized_label": "ἀποτίθεσθαι"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-material:paul-7-20-14:material:diploma-1",
+      "entity_type": "material",
+      "surface_form": "διπλώματος",
+      "normalized_label": "δίπλωμα"
+    }
+  ]
+}

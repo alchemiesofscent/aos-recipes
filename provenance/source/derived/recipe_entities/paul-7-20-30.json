@@ -1,0 +1,1101 @@
+{
+  "dataset_key": "paul_book7_perfumes",
+  "source_json": "experiments/paul-book7-ch20-perfumes/data/paul_book7_ch20_perfumes.json",
+  "host_raw_file": "tei/raw/tlg0715001.xml",
+  "work_slug": "paul.b7.perfumes",
+  "recipe_id": "paul-7-20-30",
+  "recipe_urn": "urn:aos:recipe:paul-7-20-30",
+  "record_urn": "urn:aos:recipe-record:paul-7-20-30",
+  "author": "Paul of Aegina",
+  "work": "Medical Epitome",
+  "book": "7",
+  "chapter": "20",
+  "section": "30",
+  "chapter_name": "Ἐλαίων καὶ μύρων σκευασίαι διάφοροι.",
+  "lemma": "Κρόκινον, ἐν ᾧ καὶ ἑτέρου κροκομάγματος ποίησις",
+  "text": "Ἐλαίου ὀμφακίζοντος εὐώδους λι. α, καλάμου ἀρωματικοῦ λι. ε, σμύρνης τρωγλίτιδος 𐆄 ε, καρδαμώμου 𐆄 ζ, κρόκου Κίλικος 𐆄 ϛ· τῆς μὲν πρώτης ἐμβολῆς ὁ κάλαμος ἔστω καὶ ἡ σμύρνα οἴνῳ λεῖα προαποβραχέντα γ ἡμέρας καὶ κινούμενα τρὶς τῆς ἡμέρας φοινικίνῃ σπάθῃ, εἶτα συνεψόμενα τῷ ἐλαίῳ, τῆς δὲ δευτέρας τὸ καρδάμωμον ὕδατι πρὸ μιᾶς ἀποβραχέν, τῆς τρίτης δὲ ὁ κρόκος οἴνῳ. τινὲς δὲ σὺν τῷ κρόκῳ καὶ ἑτέρας ε 𐆄 σμύρνης προστιθέασιν, διασειρώσαντες δὲ τὸ μὲν ἔλαιον καθαρὸν ἀποτίθενται, τὴν δὲ τῶν εἰδῶν ὑποστάθμην ἅπασαν τροχίσκους πλάσαντες καὶ ξηράναντες ἔχουσι τὸ καλούμενον κροκόμαγμα.",
+  "original_text": null,
+  "text_source": null,
+  "emendations": [],
+  "emendation_count": 0,
+  "source_kind": null,
+  "entry_kind": "recipe",
+  "citation": {
+    "pages": [
+      "2.388"
+    ],
+    "start": {
+      "page": "2.388",
+      "line": "11",
+      "xml_id": "heib-2-388-11"
+    },
+    "end": {
+      "page": "2.388",
+      "line": "20",
+      "xml_id": "heib-2-388-20"
+    },
+    "citation": {
+      "start": "2.388.11",
+      "end": "2.388.20"
+    },
+    "page_spans": [
+      {
+        "page": "2.388",
+        "start_line": "11",
+        "end_line": "20"
+      }
+    ],
+    "lines": [
+      {
+        "page": "2.388",
+        "line": "11",
+        "xml_id": "heib-2-388-11",
+        "break_no": false,
+        "text": "Κρόκινον, ἐν ᾧ καὶ ἑτέρου κροκομάγματος ποίησις.",
+        "citation": "2.388.11"
+      },
+      {
+        "page": "2.388",
+        "line": "12",
+        "xml_id": "heib-2-388-12",
+        "break_no": false,
+        "text": "Ἐλαίου ὀμφακίζοντος εὐώδους λι. α, καλάμου ἀρωματικοῦ λι. ε,",
+        "citation": "2.388.12"
+      },
+      {
+        "page": "2.388",
+        "line": "13",
+        "xml_id": "heib-2-388-13",
+        "break_no": false,
+        "text": "σμύρνης τρωγλίτιδος 𐆄 ε, καρδαμώμου 𐆄 ζ, κρόκου Κίλικος 𐆄 ϛ· τῆς μὲν",
+        "citation": "2.388.13"
+      },
+      {
+        "page": "2.388",
+        "line": "14",
+        "xml_id": "heib-2-388-14",
+        "break_no": false,
+        "text": "πρώτης ἐμβολῆς ὁ κάλαμος ἔστω καὶ ἡ σμύρνα οἴνῳ λεῖα προαποβρα-",
+        "citation": "2.388.14"
+      },
+      {
+        "page": "2.388",
+        "line": "15",
+        "xml_id": "heib-2-388-15",
+        "break_no": true,
+        "text": "χέντα γ ἡμέρας καὶ κινούμενα τρὶς τῆς ἡμέρας φοινικίνῃ σπάθῃ, εἶτα",
+        "citation": "2.388.15"
+      },
+      {
+        "page": "2.388",
+        "line": "16",
+        "xml_id": "heib-2-388-16",
+        "break_no": false,
+        "text": "συνεψόμενα τῷ ἐλαίῳ, τῆς δὲ δευτέρας τὸ καρδάμωμον ὕδατι πρὸ",
+        "citation": "2.388.16"
+      },
+      {
+        "page": "2.388",
+        "line": "17",
+        "xml_id": "heib-2-388-17",
+        "break_no": false,
+        "text": "μιᾶς ἀποβραχέν, τῆς τρίτης δὲ ὁ κρόκος οἴνῳ. τινὲς δὲ σὺν τῷ κρόκῳ",
+        "citation": "2.388.17"
+      },
+      {
+        "page": "2.388",
+        "line": "18",
+        "xml_id": "heib-2-388-18",
+        "break_no": false,
+        "text": "καὶ ἑτέρας ε 𐆄 σμύρνης προστιθέασιν, διασειρώσαντες δὲ τὸ μὲν ἔλαιον",
+        "citation": "2.388.18"
+      },
+      {
+        "page": "2.388",
+        "line": "19",
+        "xml_id": "heib-2-388-19",
+        "break_no": false,
+        "text": "καθαρὸν ἀποτίθενται, τὴν δὲ τῶν εἰδῶν ὑποστάθμην ἅπασαν τροχίσκους",
+        "citation": "2.388.19"
+      },
+      {
+        "page": "2.388",
+        "line": "20",
+        "xml_id": "heib-2-388-20",
+        "break_no": false,
+        "text": "πλάσαντες καὶ ξηράναντες ἔχουσι τὸ καλούμενον κροκόμαγμα.",
+        "citation": "2.388.20"
+      }
+    ],
+    "edition_key": "heiberg"
+  },
+  "notes": [],
+  "alignment_status": "pending",
+  "alignment_confidence": "pending",
+  "alignment_evidence": null,
+  "review_status": "reviewed_structured_authority",
+  "review_provenance": {
+    "authority_source": "reports/entity_review/structured/paul.json",
+    "authority_recipe_id": "paul-7-20-30",
+    "authority_lemma": "κρόκινον",
+    "model": "gpt-5.4",
+    "reasoning_effort": "high",
+    "dataset_key": "paul_book7_perfumes",
+    "entity_model_version": "1.2",
+    "authority_version": "2026-04-13-qty-alt-v1",
+    "prompt_version": "qty-alt-pass-v1",
+    "build_version": "2026-05-18T15:51:35Z"
+  },
+  "schema_version": "1.2",
+  "build_metadata": {
+    "builder": "scripts/recipes/build_recipe_entities.py",
+    "built_at": "2026-05-18T15:51:35Z",
+    "source_structured_authority": "reports/entity_review/structured/paul.json",
+    "authority_model": "gpt-5.4",
+    "authority_reasoning_effort": "high",
+    "dataset_key": "paul_book7_perfumes",
+    "entity_model_version": "1.2",
+    "authority_version": "2026-04-13-qty-alt-v1",
+    "prompt_version": "qty-alt-pass-v1",
+    "build_version": "2026-05-18T15:51:35Z"
+  },
+  "recipe_text_excerpt": "Ἐλαίου ὀμφακίζοντος εὐώδους λι. α, καλάμου ἀρωματικοῦ λι. ε, σμύρνης τρωγλίτιδος 𐆄 ε, καρδαμώμου 𐆄 ζ, κρόκου Κίλικος 𐆄 ϛ·",
+  "preparation": {
+    "preparation_id": "paul-7-20-30:preparation:krokinon",
+    "preparation_urn": "urn:aos:recipe-preparation:paul-7-20-30:preparation:krokinon",
+    "source_span": "Κρόκινον",
+    "surface_form": "Κρόκινον",
+    "normalized_label": "κρόκινον",
+    "qualifiers": [
+      {
+        "qualifier_type": "cycle_count",
+        "source_span": "τῆς μὲν πρώτης ἐμβολῆς",
+        "normalized_value": "πρώτη ἐμβολή",
+        "certainty": "certain",
+        "notes": []
+      },
+      {
+        "qualifier_type": "cycle_count",
+        "source_span": "τῆς δὲ δευτέρας",
+        "normalized_value": "δευτέρα ἐμβολή",
+        "certainty": "certain",
+        "notes": [
+          "The noun ἐμβολή is understood from the preceding clause."
+        ]
+      },
+      {
+        "qualifier_type": "cycle_count",
+        "source_span": "τῆς τρίτης δὲ",
+        "normalized_value": "τρίτη ἐμβολή",
+        "certainty": "certain",
+        "notes": [
+          "The noun ἐμβολή is understood from the preceding clause."
+        ]
+      }
+    ],
+    "regimen_notes": [
+      {
+        "source_span": "τινὲς δὲ σὺν τῷ κρόκῳ καὶ ἑτέρας ε 𐆄 σμύρνης προστιθέασιν",
+        "normalized_note": "optional variant adds extra myrrh together with the saffron",
+        "certainty": "certain",
+        "notes": []
+      }
+    ],
+    "certainty": "certain",
+    "notes": [
+      "The running text does not restate the main preparation name cleanly, so the lemma supplies the preparation label."
+    ],
+    "host_locator": {
+      "book": "7",
+      "chapter": "20",
+      "section": "30",
+      "citation": {
+        "start": "2.388.11",
+        "end": "2.388.20"
+      }
+    }
+  },
+  "ingredients": [
+    {
+      "ingredient_id": "paul-7-20-30:ingredient:elaion-omphakizon-eyodes-1",
+      "ingredient_urn": "urn:aos:recipe-ingredient:paul-7-20-30:ingredient:elaion-omphakizon-eyodes-1",
+      "source_span": "Ἐλαίου ὀμφακίζοντος εὐώδους λι. α",
+      "surface_form": "Ἐλαίου ὀμφακίζοντος εὐώδους λι. α",
+      "base_label": "ἔλαιον",
+      "normalized_label": "ἔλαιον ὀμφακίζον εὐῶδες",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [
+        "paul-7-20-30:process:synepsein-4",
+        "paul-7-20-30:process:apotithesthai-8"
+      ],
+      "quantities": [
+        {
+          "source_span": "λι. α",
+          "raw_number": "α",
+          "normalized_number": 1,
+          "raw_unit": "λι.",
+          "normalized_unit": "litra",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "7",
+        "chapter": "20",
+        "section": "30",
+        "citation": {
+          "start": "2.388.11",
+          "end": "2.388.20"
+        }
+      }
+    },
+    {
+      "ingredient_id": "paul-7-20-30:ingredient:kalamos-aromatikos-2",
+      "ingredient_urn": "urn:aos:recipe-ingredient:paul-7-20-30:ingredient:kalamos-aromatikos-2",
+      "source_span": "καλάμου ἀρωματικοῦ λι. ε",
+      "surface_form": "καλάμου ἀρωματικοῦ λι. ε",
+      "base_label": "κάλαμος",
+      "normalized_label": "κάλαμος ἀρωματικός",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [
+        "paul-7-20-30:process:leiein-1",
+        "paul-7-20-30:process:proapobrechein-2",
+        "paul-7-20-30:process:kinein-3",
+        "paul-7-20-30:process:synepsein-4"
+      ],
+      "quantities": [
+        {
+          "source_span": "λι. ε",
+          "raw_number": "ε",
+          "normalized_number": 5,
+          "raw_unit": "λι.",
+          "normalized_unit": "litra",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "7",
+        "chapter": "20",
+        "section": "30",
+        "citation": {
+          "start": "2.388.11",
+          "end": "2.388.20"
+        }
+      }
+    },
+    {
+      "ingredient_id": "paul-7-20-30:ingredient:smyrna-troglitis-3",
+      "ingredient_urn": "urn:aos:recipe-ingredient:paul-7-20-30:ingredient:smyrna-troglitis-3",
+      "source_span": "σμύρνης τρωγλίτιδος 𐆄 ε",
+      "surface_form": "σμύρνης τρωγλίτιδος 𐆄 ε",
+      "base_label": "σμύρνα",
+      "normalized_label": "σμύρνα τρωγλῖτις",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [
+        "paul-7-20-30:process:leiein-1",
+        "paul-7-20-30:process:proapobrechein-2",
+        "paul-7-20-30:process:kinein-3",
+        "paul-7-20-30:process:synepsein-4"
+      ],
+      "quantities": [
+        {
+          "source_span": "𐆄 ε",
+          "raw_number": "ε",
+          "normalized_number": 5,
+          "raw_unit": "𐆄",
+          "normalized_unit": "uncia",
+          "certainty": "uncertain",
+          "notes": [
+            "Τὸ σημεῖον 𐆄 μένει ἀνεπίλυτον."
+          ]
+        }
+      ],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "7",
+        "chapter": "20",
+        "section": "30",
+        "citation": {
+          "start": "2.388.11",
+          "end": "2.388.20"
+        }
+      }
+    },
+    {
+      "ingredient_id": "paul-7-20-30:ingredient:kardamomon-4",
+      "ingredient_urn": "urn:aos:recipe-ingredient:paul-7-20-30:ingredient:kardamomon-4",
+      "source_span": "καρδαμώμου 𐆄 ζ",
+      "surface_form": "καρδαμώμου 𐆄 ζ",
+      "base_label": "καρδάμωμον",
+      "normalized_label": "καρδάμωμον",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [
+        "paul-7-20-30:process:apobrechein-5"
+      ],
+      "quantities": [
+        {
+          "source_span": "𐆄 ζ",
+          "raw_number": "ζ",
+          "normalized_number": 7,
+          "raw_unit": "𐆄",
+          "normalized_unit": "uncia",
+          "certainty": "uncertain",
+          "notes": [
+            "Τὸ σημεῖον 𐆄 μένει ἀνεπίλυτον."
+          ]
+        }
+      ],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "7",
+        "chapter": "20",
+        "section": "30",
+        "citation": {
+          "start": "2.388.11",
+          "end": "2.388.20"
+        }
+      }
+    },
+    {
+      "ingredient_id": "paul-7-20-30:ingredient:krokos-kilix-5",
+      "ingredient_urn": "urn:aos:recipe-ingredient:paul-7-20-30:ingredient:krokos-kilix-5",
+      "source_span": "κρόκου Κίλικος 𐆄 ϛ",
+      "surface_form": "κρόκου Κίλικος 𐆄 ϛ",
+      "base_label": "κρόκος",
+      "normalized_label": "κρόκος Κίλιξ",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [],
+      "quantities": [
+        {
+          "source_span": "𐆄 ϛ",
+          "raw_number": "ϛ",
+          "normalized_number": 6,
+          "raw_unit": "𐆄",
+          "normalized_unit": "uncia",
+          "certainty": "uncertain",
+          "notes": [
+            "Τὸ σημεῖον 𐆄 μένει ἀνεπίλυτον."
+          ]
+        }
+      ],
+      "qualifiers": [],
+      "notes": [
+        "Ἡ τρίτη ἐμβολὴ συνδέεται μετὰ οἴνου, ἀλλὰ ῥῆμα οὐ ρητῶς ἐπαναλαμβάνεται."
+      ],
+      "host_locator": {
+        "book": "7",
+        "chapter": "20",
+        "section": "30",
+        "citation": {
+          "start": "2.388.11",
+          "end": "2.388.20"
+        }
+      }
+    },
+    {
+      "ingredient_id": "paul-7-20-30:ingredient:smyrna-6",
+      "ingredient_urn": "urn:aos:recipe-ingredient:paul-7-20-30:ingredient:smyrna-6",
+      "source_span": "ἑτέρας ε 𐆄 σμύρνης",
+      "surface_form": "ἑτέρας ε 𐆄 σμύρνης",
+      "base_label": "σμύρνα",
+      "normalized_label": "σμύρνα",
+      "alternative_set_id": null,
+      "certainty": "uncertain",
+      "linked_process_ids": [
+        "paul-7-20-30:process:prostithenai-6"
+      ],
+      "quantities": [
+        {
+          "source_span": "ε 𐆄",
+          "raw_number": "ε",
+          "normalized_number": 5,
+          "raw_unit": "𐆄",
+          "normalized_unit": "uncia",
+          "certainty": "uncertain",
+          "notes": [
+            "Τὸ σημεῖον 𐆄 μένει ἀνεπίλυτον."
+          ]
+        }
+      ],
+      "qualifiers": [],
+      "notes": [
+        "Παραλλαγή· τινὲς προστιθέασιν."
+      ],
+      "host_locator": {
+        "book": "7",
+        "chapter": "20",
+        "section": "30",
+        "citation": {
+          "start": "2.388.11",
+          "end": "2.388.20"
+        }
+      }
+    }
+  ],
+  "processes": [
+    {
+      "process_id": "paul-7-20-30:process:leiein-1",
+      "process_urn": "urn:aos:recipe-process:paul-7-20-30:process:leiein-1",
+      "source_span": "λεῖα",
+      "surface_form": "λεῖα",
+      "normalized_label": "λείειν",
+      "target_type": "ingredient",
+      "target_ids": [
+        "paul-7-20-30:ingredient:kalamos-aromatikos-2",
+        "paul-7-20-30:ingredient:smyrna-troglitis-3"
+      ],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "other",
+          "source_span": "οἴνῳ",
+          "normalized_value": "οἴνῳ",
+          "certainty": "certain",
+          "notes": [
+            "Τὸ μέσον τῆς λείωσεως."
+          ]
+        }
+      ],
+      "certainty": "certain",
+      "notes": [
+        "Τῆς πρώτης ἐμβολῆς."
+      ],
+      "host_locator": {
+        "book": "7",
+        "chapter": "20",
+        "section": "30",
+        "citation": {
+          "start": "2.388.11",
+          "end": "2.388.20"
+        }
+      }
+    },
+    {
+      "process_id": "paul-7-20-30:process:proapobrechein-2",
+      "process_urn": "urn:aos:recipe-process:paul-7-20-30:process:proapobrechein-2",
+      "source_span": "προαποβραχέντα",
+      "surface_form": "προαποβραχέντα",
+      "normalized_label": "προαποβρέχειν",
+      "target_type": "ingredient",
+      "target_ids": [
+        "paul-7-20-30:ingredient:kalamos-aromatikos-2",
+        "paul-7-20-30:ingredient:smyrna-troglitis-3"
+      ],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "other",
+          "source_span": "οἴνῳ",
+          "normalized_value": "οἴνῳ",
+          "certainty": "certain",
+          "notes": [
+            "Τὸ μέσον τοῦ ἀποβρέχειν."
+          ]
+        },
+        {
+          "qualifier_type": "duration",
+          "source_span": "γ ἡμέρας",
+          "normalized_value": "3 ἡμέρας",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "certainty": "certain",
+      "notes": [
+        "Τῆς πρώτης ἐμβολῆς."
+      ],
+      "host_locator": {
+        "book": "7",
+        "chapter": "20",
+        "section": "30",
+        "citation": {
+          "start": "2.388.11",
+          "end": "2.388.20"
+        }
+      }
+    },
+    {
+      "process_id": "paul-7-20-30:process:kinein-3",
+      "process_urn": "urn:aos:recipe-process:paul-7-20-30:process:kinein-3",
+      "source_span": "κινούμενα",
+      "surface_form": "κινούμενα",
+      "normalized_label": "κινεῖν",
+      "target_type": "ingredient",
+      "target_ids": [
+        "paul-7-20-30:ingredient:kalamos-aromatikos-2",
+        "paul-7-20-30:ingredient:smyrna-troglitis-3"
+      ],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "other",
+          "source_span": "τρὶς τῆς ἡμέρας",
+          "normalized_value": "τρὶς καθ’ ἡμέραν",
+          "certainty": "certain",
+          "notes": [
+            "Συχνότης."
+          ]
+        }
+      ],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "7",
+        "chapter": "20",
+        "section": "30",
+        "citation": {
+          "start": "2.388.11",
+          "end": "2.388.20"
+        }
+      }
+    },
+    {
+      "process_id": "paul-7-20-30:process:synepsein-4",
+      "process_urn": "urn:aos:recipe-process:paul-7-20-30:process:synepsein-4",
+      "source_span": "συνεψόμενα",
+      "surface_form": "συνεψόμενα",
+      "normalized_label": "συνεψεῖν",
+      "target_type": "ingredient",
+      "target_ids": [
+        "paul-7-20-30:ingredient:kalamos-aromatikos-2",
+        "paul-7-20-30:ingredient:smyrna-troglitis-3",
+        "paul-7-20-30:ingredient:elaion-omphakizon-eyodes-1"
+      ],
+      "quantities": [],
+      "qualifiers": [],
+      "certainty": "certain",
+      "notes": [
+        "Τῆς πρώτης ἐμβολῆς."
+      ],
+      "host_locator": {
+        "book": "7",
+        "chapter": "20",
+        "section": "30",
+        "citation": {
+          "start": "2.388.11",
+          "end": "2.388.20"
+        }
+      }
+    },
+    {
+      "process_id": "paul-7-20-30:process:apobrechein-5",
+      "process_urn": "urn:aos:recipe-process:paul-7-20-30:process:apobrechein-5",
+      "source_span": "ἀποβραχέν",
+      "surface_form": "ἀποβραχέν",
+      "normalized_label": "ἀποβρέχειν",
+      "target_type": "ingredient",
+      "target_ids": [
+        "paul-7-20-30:ingredient:kardamomon-4"
+      ],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "other",
+          "source_span": "ὕδατι",
+          "normalized_value": "ὕδατι",
+          "certainty": "certain",
+          "notes": [
+            "Τὸ μέσον τοῦ ἀποβρέχειν."
+          ]
+        },
+        {
+          "qualifier_type": "duration",
+          "source_span": "πρὸ μιᾶς",
+          "normalized_value": "μίαν πρότερον",
+          "certainty": "uncertain",
+          "notes": [
+            "Ἡ μονὰς χρόνου ὑπονοεῖται μᾶλλον ἢ λέγεται ρητῶς."
+          ]
+        }
+      ],
+      "certainty": "certain",
+      "notes": [
+        "Τῆς δευτέρας ἐμβολῆς."
+      ],
+      "host_locator": {
+        "book": "7",
+        "chapter": "20",
+        "section": "30",
+        "citation": {
+          "start": "2.388.11",
+          "end": "2.388.20"
+        }
+      }
+    },
+    {
+      "process_id": "paul-7-20-30:process:prostithenai-6",
+      "process_urn": "urn:aos:recipe-process:paul-7-20-30:process:prostithenai-6",
+      "source_span": "προστιθέασιν",
+      "surface_form": "προστιθέασιν",
+      "normalized_label": "προστιθέναι",
+      "target_type": "ingredient",
+      "target_ids": [
+        "paul-7-20-30:ingredient:smyrna-troglitis-3",
+        "paul-7-20-30:ingredient:smyrna-6"
+      ],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "other",
+          "source_span": "σὺν τῷ κρόκῳ",
+          "normalized_value": "σὺν τῷ κρόκῳ",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "certainty": "uncertain",
+      "notes": [
+        "Παραλλαγή· τινές."
+      ],
+      "host_locator": {
+        "book": "7",
+        "chapter": "20",
+        "section": "30",
+        "citation": {
+          "start": "2.388.11",
+          "end": "2.388.20"
+        }
+      }
+    },
+    {
+      "process_id": "paul-7-20-30:process:diaseiroyn-7",
+      "process_urn": "urn:aos:recipe-process:paul-7-20-30:process:diaseiroyn-7",
+      "source_span": "διασειρώσαντες",
+      "surface_form": "διασειρώσαντες",
+      "normalized_label": "διασειροῦν",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [],
+      "certainty": "uncertain",
+      "notes": [
+        "Τὸ ῥῆμα ἐξηκριβώθη ἐκ τοῦ μετοχικοῦ τύπου· ἡ σημασία πιθανῶς κόσκινον/διασείρειν."
+      ],
+      "host_locator": {
+        "book": "7",
+        "chapter": "20",
+        "section": "30",
+        "citation": {
+          "start": "2.388.11",
+          "end": "2.388.20"
+        }
+      }
+    },
+    {
+      "process_id": "paul-7-20-30:process:apotithesthai-8",
+      "process_urn": "urn:aos:recipe-process:paul-7-20-30:process:apotithesthai-8",
+      "source_span": "ἀποτίθενται",
+      "surface_form": "ἀποτίθενται",
+      "normalized_label": "ἀποτίθεσθαι",
+      "target_type": "ingredient",
+      "target_ids": [
+        "paul-7-20-30:ingredient:elaion-omphakizon-eyodes-1"
+      ],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "other",
+          "source_span": "καθαρὸν",
+          "normalized_value": "καθαρόν",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "7",
+        "chapter": "20",
+        "section": "30",
+        "citation": {
+          "start": "2.388.11",
+          "end": "2.388.20"
+        }
+      }
+    },
+    {
+      "process_id": "paul-7-20-30:process:plassein-9",
+      "process_urn": "urn:aos:recipe-process:paul-7-20-30:process:plassein-9",
+      "source_span": "πλάσαντες",
+      "surface_form": "πλάσαντες",
+      "normalized_label": "πλάσσειν",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "other",
+          "source_span": "τροχίσκους",
+          "normalized_value": "τροχίσκους",
+          "certainty": "certain",
+          "notes": [
+            "Μορφὴ τοῦ τελικοῦ προϊόντος."
+          ]
+        }
+      ],
+      "certainty": "certain",
+      "notes": [
+        "Ἐκ τῆς τῶν εἰδῶν ὑποστάθμης."
+      ],
+      "host_locator": {
+        "book": "7",
+        "chapter": "20",
+        "section": "30",
+        "citation": {
+          "start": "2.388.11",
+          "end": "2.388.20"
+        }
+      }
+    },
+    {
+      "process_id": "paul-7-20-30:process:xerainein-10",
+      "process_urn": "urn:aos:recipe-process:paul-7-20-30:process:xerainein-10",
+      "source_span": "ξηράναντες",
+      "surface_form": "ξηράναντες",
+      "normalized_label": "ξηραίνειν",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [],
+      "certainty": "certain",
+      "notes": [
+        "Μετὰ τὸ πλάσσειν τὴν ὑποστάθμην."
+      ],
+      "host_locator": {
+        "book": "7",
+        "chapter": "20",
+        "section": "30",
+        "citation": {
+          "start": "2.388.11",
+          "end": "2.388.20"
+        }
+      }
+    }
+  ],
+  "materials": [
+    {
+      "material_id": "paul-7-20-30:material:oinos-1",
+      "material_urn": "urn:aos:recipe-material:paul-7-20-30:material:oinos-1",
+      "source_span": "οἴνῳ",
+      "surface_form": "οἴνῳ",
+      "normalized_label": "οἶνος",
+      "role": "carrier",
+      "certainty": "certain",
+      "quantities": [],
+      "qualifiers": [],
+      "notes": [
+        "Χρῆται ἐν τῇ πρώτῃ ἐμβολῇ· μνημονεύεται καὶ πρὸς τὸν κρόκον."
+      ],
+      "host_locator": {
+        "book": "7",
+        "chapter": "20",
+        "section": "30",
+        "citation": {
+          "start": "2.388.11",
+          "end": "2.388.20"
+        }
+      }
+    },
+    {
+      "material_id": "paul-7-20-30:material:ydor-2",
+      "material_urn": "urn:aos:recipe-material:paul-7-20-30:material:ydor-2",
+      "source_span": "ὕδατι",
+      "surface_form": "ὕδατι",
+      "normalized_label": "ὕδωρ",
+      "role": "carrier",
+      "certainty": "certain",
+      "quantities": [],
+      "qualifiers": [],
+      "notes": [
+        "Χρῆται πρὸς τὸ καρδάμωμον."
+      ],
+      "host_locator": {
+        "book": "7",
+        "chapter": "20",
+        "section": "30",
+        "citation": {
+          "start": "2.388.11",
+          "end": "2.388.20"
+        }
+      }
+    },
+    {
+      "material_id": "paul-7-20-30:material:phoinikine-spathe-3",
+      "material_urn": "urn:aos:recipe-material:paul-7-20-30:material:phoinikine-spathe-3",
+      "source_span": "φοινικίνῃ σπάθῃ",
+      "surface_form": "φοινικίνῃ σπάθῃ",
+      "normalized_label": "φοινικίνη σπάθη",
+      "role": "tool",
+      "certainty": "certain",
+      "quantities": [],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "7",
+        "chapter": "20",
+        "section": "30",
+        "citation": {
+          "start": "2.388.11",
+          "end": "2.388.20"
+        }
+      }
+    },
+    {
+      "material_id": "paul-7-20-30:material:ypostathme-ton-eidon-4",
+      "material_urn": "urn:aos:recipe-material:paul-7-20-30:material:ypostathme-ton-eidon-4",
+      "source_span": "τὴν δὲ τῶν εἰδῶν ὑποστάθμην ἅπασαν",
+      "surface_form": "τὴν δὲ τῶν εἰδῶν ὑποστάθμην ἅπασαν",
+      "normalized_label": "ὑποστάθμη τῶν εἰδῶν",
+      "role": "adjunct_material",
+      "certainty": "certain",
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "other",
+          "source_span": "ἅπασαν",
+          "normalized_value": "ἅπασαν",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "notes": [
+        "Τὸ ὑπόλειμμα τῶν εἰδῶν πλάσσεται καὶ ξηραίνεται εἰς κροκόμαγμα."
+      ],
+      "host_locator": {
+        "book": "7",
+        "chapter": "20",
+        "section": "30",
+        "citation": {
+          "start": "2.388.11",
+          "end": "2.388.20"
+        }
+      }
+    }
+  ],
+  "people": [],
+  "places": [
+    {
+      "place_id": "paul-7-20-30:place:kilikia-1",
+      "place_urn": "urn:aos:recipe-place:paul-7-20-30:place:kilikia-1",
+      "source_span": "Κίλικος",
+      "surface_form": "Κίλικος",
+      "normalized_label": "Κιλικία",
+      "certainty": "certain",
+      "notes": [
+        "Δηλοῖ τὴν προέλευσιν τοῦ κρόκου."
+      ],
+      "host_locator": {
+        "book": "7",
+        "chapter": "20",
+        "section": "30",
+        "citation": {
+          "start": "2.388.11",
+          "end": "2.388.20"
+        }
+      }
+    },
+    {
+      "place_id": "paul-7-20-30:place:troglitis-2",
+      "place_urn": "urn:aos:recipe-place:paul-7-20-30:place:troglitis-2",
+      "source_span": "τρωγλίτιδος",
+      "surface_form": "τρωγλίτιδος",
+      "normalized_label": "Τρωγλῖτις",
+      "certainty": "uncertain",
+      "notes": [
+        "Τὸ ἐπίθετον λειτουργεῖ ὡς γεωγραφικὸς προσδιορισμὸς τῆς σμύρνης."
+      ],
+      "host_locator": {
+        "book": "7",
+        "chapter": "20",
+        "section": "30",
+        "citation": {
+          "start": "2.388.11",
+          "end": "2.388.20"
+        }
+      }
+    }
+  ],
+  "uses": [],
+  "preparation_names": [],
+  "other_preparations_mentioned": [
+    {
+      "reference_id": "paul-7-20-30:reference:krokomagma-1",
+      "reference_urn": "urn:aos:recipe-reference:paul-7-20-30:reference:krokomagma-1",
+      "source_span": "τὸ καλούμενον κροκόμαγμα",
+      "surface_form": "τὸ καλούμενον κροκόμαγμα",
+      "normalized_label": "κροκόμαγμα",
+      "certainty": "certain",
+      "notes": [
+        "Distinct preparation/byproduct named at the end of the procedure."
+      ],
+      "host_locator": {
+        "book": "7",
+        "chapter": "20",
+        "section": "30",
+        "citation": {
+          "start": "2.388.11",
+          "end": "2.388.20"
+        }
+      }
+    }
+  ],
+  "works_mentioned": [],
+  "entities": [
+    {
+      "entity_urn": "urn:aos:recipe-preparation:paul-7-20-30:preparation:krokinon",
+      "entity_type": "label",
+      "surface_form": "Κρόκινον",
+      "normalized_label": "κρόκινον"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:paul-7-20-30:ingredient:elaion-omphakizon-eyodes-1",
+      "entity_type": "ingredient",
+      "surface_form": "Ἐλαίου ὀμφακίζοντος εὐώδους λι. α",
+      "normalized_label": "ἔλαιον ὀμφακίζον εὐῶδες"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:paul-7-20-30:ingredient:kalamos-aromatikos-2",
+      "entity_type": "ingredient",
+      "surface_form": "καλάμου ἀρωματικοῦ λι. ε",
+      "normalized_label": "κάλαμος ἀρωματικός"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:paul-7-20-30:ingredient:smyrna-troglitis-3",
+      "entity_type": "ingredient",
+      "surface_form": "σμύρνης τρωγλίτιδος 𐆄 ε",
+      "normalized_label": "σμύρνα τρωγλῖτις"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:paul-7-20-30:ingredient:kardamomon-4",
+      "entity_type": "ingredient",
+      "surface_form": "καρδαμώμου 𐆄 ζ",
+      "normalized_label": "καρδάμωμον"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:paul-7-20-30:ingredient:krokos-kilix-5",
+      "entity_type": "ingredient",
+      "surface_form": "κρόκου Κίλικος 𐆄 ϛ",
+      "normalized_label": "κρόκος Κίλιξ"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:paul-7-20-30:ingredient:smyrna-6",
+      "entity_type": "ingredient",
+      "surface_form": "ἑτέρας ε 𐆄 σμύρνης",
+      "normalized_label": "σμύρνα"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:paul-7-20-30:process:leiein-1",
+      "entity_type": "process",
+      "surface_form": "λεῖα",
+      "normalized_label": "λείειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:paul-7-20-30:process:proapobrechein-2",
+      "entity_type": "process",
+      "surface_form": "προαποβραχέντα",
+      "normalized_label": "προαποβρέχειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:paul-7-20-30:process:kinein-3",
+      "entity_type": "process",
+      "surface_form": "κινούμενα",
+      "normalized_label": "κινεῖν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:paul-7-20-30:process:synepsein-4",
+      "entity_type": "process",
+      "surface_form": "συνεψόμενα",
+      "normalized_label": "συνεψεῖν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:paul-7-20-30:process:apobrechein-5",
+      "entity_type": "process",
+      "surface_form": "ἀποβραχέν",
+      "normalized_label": "ἀποβρέχειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:paul-7-20-30:process:prostithenai-6",
+      "entity_type": "process",
+      "surface_form": "προστιθέασιν",
+      "normalized_label": "προστιθέναι"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:paul-7-20-30:process:diaseiroyn-7",
+      "entity_type": "process",
+      "surface_form": "διασειρώσαντες",
+      "normalized_label": "διασειροῦν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:paul-7-20-30:process:apotithesthai-8",
+      "entity_type": "process",
+      "surface_form": "ἀποτίθενται",
+      "normalized_label": "ἀποτίθεσθαι"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:paul-7-20-30:process:plassein-9",
+      "entity_type": "process",
+      "surface_form": "πλάσαντες",
+      "normalized_label": "πλάσσειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:paul-7-20-30:process:xerainein-10",
+      "entity_type": "process",
+      "surface_form": "ξηράναντες",
+      "normalized_label": "ξηραίνειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-material:paul-7-20-30:material:oinos-1",
+      "entity_type": "material",
+      "surface_form": "οἴνῳ",
+      "normalized_label": "οἶνος"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-material:paul-7-20-30:material:ydor-2",
+      "entity_type": "material",
+      "surface_form": "ὕδατι",
+      "normalized_label": "ὕδωρ"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-material:paul-7-20-30:material:phoinikine-spathe-3",
+      "entity_type": "material",
+      "surface_form": "φοινικίνῃ σπάθῃ",
+      "normalized_label": "φοινικίνη σπάθη"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-material:paul-7-20-30:material:ypostathme-ton-eidon-4",
+      "entity_type": "material",
+      "surface_form": "τὴν δὲ τῶν εἰδῶν ὑποστάθμην ἅπασαν",
+      "normalized_label": "ὑποστάθμη τῶν εἰδῶν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-place:paul-7-20-30:place:kilikia-1",
+      "entity_type": "place",
+      "surface_form": "Κίλικος",
+      "normalized_label": "Κιλικία"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-place:paul-7-20-30:place:troglitis-2",
+      "entity_type": "place",
+      "surface_form": "τρωγλίτιδος",
+      "normalized_label": "Τρωγλῖτις"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-reference:paul-7-20-30:reference:krokomagma-1",
+      "entity_type": "preparation_reference",
+      "surface_form": "τὸ καλούμενον κροκόμαγμα",
+      "normalized_label": "κροκόμαγμα"
+    }
+  ]
+}

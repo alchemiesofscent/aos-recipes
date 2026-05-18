@@ -1,0 +1,676 @@
+{
+  "dataset_key": "dioscorides_book2_fats",
+  "source_json": "experiments/dioscorides-book2-fats/data/dioscorides_book2_fats.json",
+  "host_raw_file": "tei/raw/tlg0656.tlg001.1st1K-grc1.xml",
+  "work_slug": "diosc.b2.fats",
+  "recipe_id": "dioscorides-2-76-aromatized-bird-goose-stear",
+  "recipe_urn": "urn:aos:recipe:dioscorides-2-76-aromatized-bird-goose-stear",
+  "record_urn": "urn:aos:recipe-record:dioscorides-2-76-aromatized-bird-goose-stear",
+  "author": "Dioscorides",
+  "work": "De materia medica",
+  "book": "2",
+  "chapter": "76",
+  "section": "13-14",
+  "chapter_name": "στέαρ",
+  "lemma": "στέαρ ὀρνίθειον καὶ χήνειον ἀρωματιστόν",
+  "text": "τὸ δὲ ὀρνίθειον καὶ χήνειον στέαρ οὔτως ἂν εὐωδια\\σθείη· σθείη· λαβὼν οἵουτινος αὐτῶν τεθεραπευμένου κοτύλας τέσσαρας καὶ καθεὶς εἰς ὀστρακίνην χύτραν πρόσμειξον ἐρυσισκήπτρου καὶ ξυλοβαλσάμου, ἔτι δὲ φοίνικος ἐλάτης καὶ καλάμου ὁλοσχερῶνς κεκομμένων ἀνὰ δραχμάς δεκαδύο, ἐπιδούς τε οἴνου Λεσβίου παλαιοῦ κύαθον ἕνα θὲς ἐπ᾿ ἀνθρακιᾶς καὶ σύζεσον τρίς· εἶτα ἀνελόμενος ἀπὸ τοῦ πυρὸς τὸ ἀγγεῖον καὶ ἐάσας ψυγῆναι τὰ ἐν αὐτῷ ἡμέραν καὶ νύκτα, τῇ ἐχομένη τῆξον αὐτά, καὶ διὰ ῥάκους λινοῦ καὶ καθαροῦ ὕλισον εἰς ἀργυροῦν ἀγγεῖον. ὅταν δὲ παγῇ, ἀνελόμενος κόγχῳ τὸ προειρημένον εἰς κεραμεοῦν ἀγγεῖον βάλε καὶ πωμάσας στεγανῶς ἀπόθου ἐν καταψύχρῳ τόπῳ· χειμῶνος δὲ ταῦτα δραστέον, ἐν γάρ θέρει οὐ πήγνυται. τινὲς δὲ πρὸς τὴν σύστασιν αὐτοῦ καὶ τὴν πῆξιν βραχύ κηροῦ Τυρρηνικοῦ μίσγουσιν. τῳ δὲ αὐτῷ τρόπῳ ἀρωματιστέον καὶ τὸ ὕειον καὶ ἄρκειον καὶ τά ὅμοια.",
+  "original_text": null,
+  "text_source": null,
+  "emendations": [],
+  "emendation_count": 0,
+  "source_kind": "main_text",
+  "entry_kind": "recipe",
+  "citation": {
+    "pages": [
+      "156"
+    ],
+    "start": {
+      "page": "156",
+      "line": "1"
+    },
+    "end": {
+      "page": "156",
+      "line": "10"
+    },
+    "citation": {
+      "start": "156.1",
+      "end": "156.10"
+    },
+    "page_spans": [
+      {
+        "page": "156",
+        "start_line": "1",
+        "end_line": "10"
+      }
+    ],
+    "lines": [
+      {
+        "page": "156",
+        "line": "1",
+        "break_no": false,
+        "raw_text": "13 τὸ δὲ ὀρνίθειον καὶ χήνειον στέαρ οὔτως ἂν εὐωδια\\σθείη· σθείη· λαβὼν οἵουτινος αὐτῶν τεθεραπευμένου κοτύλας τέσσαρας καὶ καθεὶς εἰς ὀστρακίνην χύτραν πρόσμειξον ἐρυσισκήπτρου καὶ ξυλοβαλσάμου, ἔτι δὲ φοίνικος ἐλάτης καὶ καλάμου ὁλοσχερῶνς κεκομμένων ἀνὰ δραχμάς δεκαδύο, ἐπιδούς τε οἴνου Λεσβίου",
+        "text": "τὸ δὲ ὀρνίθειον καὶ χήνειον στέαρ οὔτως ἂν εὐωδια\\σθείη· σθείη· λαβὼν οἵουτινος αὐτῶν τεθεραπευμένου κοτύλας τέσσαρας καὶ καθεὶς εἰς ὀστρακίνην χύτραν πρόσμειξον ἐρυσισκήπτρου καὶ ξυλοβαλσάμου, ἔτι δὲ φοίνικος ἐλάτης καὶ καλάμου ὁλοσχερῶνς κεκομμένων ἀνὰ δραχμάς δεκαδύο, ἐπιδούς τε οἴνου Λεσβίου",
+        "citation": "156.1"
+      },
+      {
+        "page": "156",
+        "line": "5",
+        "break_no": false,
+        "raw_text": "παλαιοῦ κύαθον ἕνα θὲς ἐπ᾿ ἀνθρακιᾶς καὶ σύζεσον τρίς· εἶτα ἀνελόμενος ἀπὸ τοῦ πυρὸς τὸ ἀγγεῖον καὶ ἐάσας ψυγῆναι τὰ ἐν αὐτῷ ἡμέραν καὶ νύκτα, τῇ ἐχομένη τῆξον αὐτά, καὶ διὰ ῥάκους λινοῦ καὶ καθαροῦ ὕλισον εἰς ἀργυροῦν ἀγγεῖον.",
+        "text": "παλαιοῦ κύαθον ἕνα θὲς ἐπ᾿ ἀνθρακιᾶς καὶ σύζεσον τρίς· εἶτα ἀνελόμενος ἀπὸ τοῦ πυρὸς τὸ ἀγγεῖον καὶ ἐάσας ψυγῆναι τὰ ἐν αὐτῷ ἡμέραν καὶ νύκτα, τῇ ἐχομένη τῆξον αὐτά, καὶ διὰ ῥάκους λινοῦ καὶ καθαροῦ ὕλισον εἰς ἀργυροῦν ἀγγεῖον.",
+        "citation": "156.5"
+      },
+      {
+        "page": "156",
+        "line": "5",
+        "break_no": false,
+        "raw_text": "14 ὅταν δὲ παγῇ, ἀνελόμενος κόγχῳ τὸ προειρημένον εἰς κεραμεοῦν ἀγγεῖον",
+        "text": "ὅταν δὲ παγῇ, ἀνελόμενος κόγχῳ τὸ προειρημένον εἰς κεραμεοῦν ἀγγεῖον",
+        "citation": "156.5"
+      },
+      {
+        "page": "156",
+        "line": "10",
+        "break_no": false,
+        "raw_text": "βάλε καὶ πωμάσας στεγανῶς ἀπόθου ἐν καταψύχρῳ τόπῳ· χειμῶνος δὲ ταῦτα δραστέον, ἐν γάρ θέρει οὐ πήγνυται. τινὲς δὲ πρὸς τὴν σύστασιν αὐτοῦ καὶ τὴν πῆξιν βραχύ κηροῦ Τυρρηνικοῦ μίσγουσιν. τῳ δὲ αὐτῷ τρόπῳ ἀρωματιστέον καὶ τὸ ὕειον καὶ ἄρκειον καὶ τά ὅμοια.",
+        "text": "βάλε καὶ πωμάσας στεγανῶς ἀπόθου ἐν καταψύχρῳ τόπῳ· χειμῶνος δὲ ταῦτα δραστέον, ἐν γάρ θέρει οὐ πήγνυται. τινὲς δὲ πρὸς τὴν σύστασιν αὐτοῦ καὶ τὴν πῆξιν βραχύ κηροῦ Τυρρηνικοῦ μίσγουσιν. τῳ δὲ αὐτῷ τρόπῳ ἀρωματιστέον καὶ τὸ ὕειον καὶ ἄρκειον καὶ τά ὅμοια.",
+        "citation": "156.10"
+      }
+    ],
+    "edition_key": "wellmann"
+  },
+  "notes": [
+    "Book 2 fats slice split into logical preparation and technique units from chapters 72, 74, and 76.",
+    "Bare Arabic numerals in the raw witness are treated as structural or note noise and removed from display text, except parenthetical cross-references such as (I 68).",
+    "Section markers are stored separately and displayed near sentence boundaries as heuristic navigation aids.",
+    "Conservative split record generated locally because Codex structured-authority generation was rate-limited.",
+    "The distributive ἀνὰ governs the repeated ingredient quantity δραχμάς δεκαδύο in the aromatic cluster."
+  ],
+  "alignment_status": "pending",
+  "alignment_confidence": "pending",
+  "alignment_evidence": null,
+  "review_status": "reviewed_structured_authority",
+  "review_provenance": {
+    "authority_source": "reports/entity_review/structured/dioscorides.json",
+    "authority_recipe_id": "dioscorides-2-76-aromatized-bird-goose-stear",
+    "authority_lemma": "στέαρ ὀρνίθειον καὶ χήνειον ἀρωματιστόν",
+    "model": "gpt-5.4",
+    "reasoning_effort": "high",
+    "dataset_key": "dioscorides_book2_fats",
+    "entity_model_version": "1.2",
+    "authority_version": "2026-04-13-qty-alt-v1",
+    "prompt_version": "qty-alt-pass-v1",
+    "build_version": "2026-05-18T15:51:35Z"
+  },
+  "schema_version": "1.2",
+  "build_metadata": {
+    "builder": "scripts/recipes/build_recipe_entities.py",
+    "built_at": "2026-05-18T15:51:35Z",
+    "source_structured_authority": "reports/entity_review/structured/dioscorides.json",
+    "authority_model": "gpt-5.4",
+    "authority_reasoning_effort": "high",
+    "dataset_key": "dioscorides_book2_fats",
+    "entity_model_version": "1.2",
+    "authority_version": "2026-04-13-qty-alt-v1",
+    "prompt_version": "qty-alt-pass-v1",
+    "build_version": "2026-05-18T15:51:35Z"
+  },
+  "recipe_text_excerpt": "τὸ δὲ ὀρνίθειον καὶ χήνειον στέαρ οὔτως ἂν εὐωδια\\σθείη· σθείη· λαβὼν οἵουτινος αὐτῶν τεθεραπευμένου κοτύλας τέσσαρας καὶ καθεὶς εἰς ὀστρακίνην",
+  "preparation": {
+    "preparation_id": "dioscorides-2-76-aromatized-bird-goose-stear:preparation:stear-ornitheion-kai-cheneion-aromatiston",
+    "preparation_urn": "urn:aos:recipe-preparation:dioscorides-2-76-aromatized-bird-goose-stear:preparation:stear-ornitheion-kai-cheneion-aromatiston",
+    "source_span": "στέαρ ὀρνίθειον καὶ χήνειον ἀρωματιστόν",
+    "surface_form": "στέαρ ὀρνίθειον καὶ χήνειον ἀρωματιστόν",
+    "normalized_label": "στέαρ ὀρνίθειον καὶ χήνειον ἀρωματιστόν",
+    "qualifiers": [],
+    "regimen_notes": [],
+    "certainty": "certain",
+    "notes": [
+      "Conservative split authority generated from exact spans in the previous broad Book 2 fat authority."
+    ],
+    "host_locator": {
+      "book": "2",
+      "chapter": "76",
+      "section": "13-14",
+      "citation": {
+        "start": "156.1",
+        "end": "156.10"
+      }
+    }
+  },
+  "ingredients": [
+    {
+      "ingredient_id": "dioscorides-2-76-aromatized-bird-goose-stear:ingredient:stear-ornitheion-1",
+      "ingredient_urn": "urn:aos:recipe-ingredient:dioscorides-2-76-aromatized-bird-goose-stear:ingredient:stear-ornitheion-1",
+      "source_span": "ὀρνίθειον",
+      "surface_form": "ὀρνίθειον",
+      "base_label": "ὀρνίθειον",
+      "normalized_label": "στέαρ ὀρνίθειον",
+      "alternative_set_id": "alt-1",
+      "certainty": "uncertain",
+      "linked_process_ids": [
+        "dioscorides-2-76-aromatized-bird-goose-stear:process:tithenai-1"
+      ],
+      "quantities": [],
+      "qualifiers": [],
+      "notes": [
+        "Head noun στέαρ restored from lemma."
+      ],
+      "host_locator": {
+        "book": "2",
+        "chapter": "76",
+        "section": "13-14",
+        "citation": {
+          "start": "156.1",
+          "end": "156.10"
+        }
+      }
+    },
+    {
+      "ingredient_id": "dioscorides-2-76-aromatized-bird-goose-stear:ingredient:stear-arkeion-2",
+      "ingredient_urn": "urn:aos:recipe-ingredient:dioscorides-2-76-aromatized-bird-goose-stear:ingredient:stear-arkeion-2",
+      "source_span": "ἄρκειον",
+      "surface_form": "ἄρκειον",
+      "base_label": "ἄρκειον",
+      "normalized_label": "στέαρ ἄρκειον",
+      "alternative_set_id": null,
+      "certainty": "uncertain",
+      "linked_process_ids": [],
+      "quantities": [],
+      "qualifiers": [],
+      "notes": [
+        "Head noun στέαρ restored from lemma."
+      ],
+      "host_locator": {
+        "book": "2",
+        "chapter": "76",
+        "section": "13-14",
+        "citation": {
+          "start": "156.1",
+          "end": "156.10"
+        }
+      }
+    },
+    {
+      "ingredient_id": "dioscorides-2-76-aromatized-bird-goose-stear:ingredient:kalamos-3",
+      "ingredient_urn": "urn:aos:recipe-ingredient:dioscorides-2-76-aromatized-bird-goose-stear:ingredient:kalamos-3",
+      "source_span": "καλάμου",
+      "surface_form": "καλάμου",
+      "base_label": "κάλαμος",
+      "normalized_label": "κάλαμος",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [],
+      "quantities": [],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "2",
+        "chapter": "76",
+        "section": "13-14",
+        "citation": {
+          "start": "156.1",
+          "end": "156.10"
+        }
+      }
+    },
+    {
+      "ingredient_id": "dioscorides-2-76-aromatized-bird-goose-stear:ingredient:xylobalsamon-4",
+      "ingredient_urn": "urn:aos:recipe-ingredient:dioscorides-2-76-aromatized-bird-goose-stear:ingredient:xylobalsamon-4",
+      "source_span": "ξυλοβαλσάμου",
+      "surface_form": "ξυλοβαλσάμου",
+      "base_label": "ξυλοβάλσαμον",
+      "normalized_label": "ξυλοβάλσαμον",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [],
+      "quantities": [
+        {
+          "source_span": "δραχμάς δεκαδύο",
+          "raw_number": "δεκαδύο",
+          "normalized_number": 12,
+          "raw_unit": "δραχμάς",
+          "normalized_unit": "drachme",
+          "certainty": "certain",
+          "notes": [
+            "Distributive quantity in the bird/goose-fat aromatic mixture."
+          ]
+        }
+      ],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "2",
+        "chapter": "76",
+        "section": "13-14",
+        "citation": {
+          "start": "156.1",
+          "end": "156.10"
+        }
+      }
+    },
+    {
+      "ingredient_id": "dioscorides-2-76-aromatized-bird-goose-stear:ingredient:erysiskeptron-5",
+      "ingredient_urn": "urn:aos:recipe-ingredient:dioscorides-2-76-aromatized-bird-goose-stear:ingredient:erysiskeptron-5",
+      "source_span": "ἐρυσισκήπτρου",
+      "surface_form": "ἐρυσισκήπτρου",
+      "base_label": "ἐρυσίσκηπτρον",
+      "normalized_label": "ἐρυσίσκηπτρον",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [],
+      "quantities": [
+        {
+          "source_span": "δραχμάς δεκαδύο",
+          "raw_number": "δεκαδύο",
+          "normalized_number": 12,
+          "raw_unit": "δραχμάς",
+          "normalized_unit": "drachme",
+          "certainty": "certain",
+          "notes": [
+            "Distributive quantity in the bird/goose-fat aromatic mixture."
+          ]
+        }
+      ],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "2",
+        "chapter": "76",
+        "section": "13-14",
+        "citation": {
+          "start": "156.1",
+          "end": "156.10"
+        }
+      }
+    },
+    {
+      "ingredient_id": "dioscorides-2-76-aromatized-bird-goose-stear:ingredient:elate-6",
+      "ingredient_urn": "urn:aos:recipe-ingredient:dioscorides-2-76-aromatized-bird-goose-stear:ingredient:elate-6",
+      "source_span": "ἐλάτης",
+      "surface_form": "ἐλάτης",
+      "base_label": "ἐλάτη",
+      "normalized_label": "ἐλάτη",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [],
+      "quantities": [
+        {
+          "source_span": "δραχμάς δεκαδύο",
+          "raw_number": "δεκαδύο",
+          "normalized_number": 12,
+          "raw_unit": "δραχμάς",
+          "normalized_unit": "drachme",
+          "certainty": "certain",
+          "notes": [
+            "Distributive quantity in the bird/goose-fat aromatic mixture."
+          ]
+        }
+      ],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "2",
+        "chapter": "76",
+        "section": "13-14",
+        "citation": {
+          "start": "156.1",
+          "end": "156.10"
+        }
+      }
+    },
+    {
+      "ingredient_id": "dioscorides-2-76-aromatized-bird-goose-stear:ingredient:oinos-lesbios-palaios-7",
+      "ingredient_urn": "urn:aos:recipe-ingredient:dioscorides-2-76-aromatized-bird-goose-stear:ingredient:oinos-lesbios-palaios-7",
+      "source_span": "οἴνου Λεσβίου παλαιοῦ",
+      "surface_form": "οἴνου Λεσβίου παλαιοῦ",
+      "base_label": "οἶνος",
+      "normalized_label": "οἶνος Λέσβιος παλαιός",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [],
+      "quantities": [
+        {
+          "source_span": "κύαθον ἕνα",
+          "raw_number": "ἕνα",
+          "normalized_number": 1,
+          "raw_unit": "κύαθον",
+          "normalized_unit": "cyathos",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "2",
+        "chapter": "76",
+        "section": "13-14",
+        "citation": {
+          "start": "156.1",
+          "end": "156.10"
+        }
+      }
+    }
+  ],
+  "processes": [
+    {
+      "process_id": "dioscorides-2-76-aromatized-bird-goose-stear:process:tithenai-1",
+      "process_urn": "urn:aos:recipe-process:dioscorides-2-76-aromatized-bird-goose-stear:process:tithenai-1",
+      "source_span": "θεὶς",
+      "surface_form": "θεὶς",
+      "normalized_label": "τιθέναι",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "2",
+        "chapter": "76",
+        "section": "13-14",
+        "citation": {
+          "start": "156.1",
+          "end": "156.10"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-2-76-aromatized-bird-goose-stear:process:psychein-2",
+      "process_urn": "urn:aos:recipe-process:dioscorides-2-76-aromatized-bird-goose-stear:process:psychein-2",
+      "source_span": "ἐάσας ψυγῆναι",
+      "surface_form": "ἐάσας ψυγῆναι",
+      "normalized_label": "ψύχειν",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "2",
+        "chapter": "76",
+        "section": "13-14",
+        "citation": {
+          "start": "156.1",
+          "end": "156.10"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-2-76-aromatized-bird-goose-stear:process:syzeein-3",
+      "process_urn": "urn:aos:recipe-process:dioscorides-2-76-aromatized-bird-goose-stear:process:syzeein-3",
+      "source_span": "σύζεσον",
+      "surface_form": "σύζεσον",
+      "normalized_label": "συζέειν",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "2",
+        "chapter": "76",
+        "section": "13-14",
+        "citation": {
+          "start": "156.1",
+          "end": "156.10"
+        }
+      }
+    }
+  ],
+  "materials": [
+    {
+      "material_id": "dioscorides-2-76-aromatized-bird-goose-stear:material:rakos-linon-1",
+      "material_urn": "urn:aos:recipe-material:dioscorides-2-76-aromatized-bird-goose-stear:material:rakos-linon-1",
+      "source_span": "ῥάκους λινοῦ",
+      "surface_form": "ῥάκους λινοῦ",
+      "normalized_label": "ῥάκος λινόν",
+      "role": "tool",
+      "certainty": "certain",
+      "quantities": [],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "2",
+        "chapter": "76",
+        "section": "13-14",
+        "citation": {
+          "start": "156.1",
+          "end": "156.10"
+        }
+      }
+    },
+    {
+      "material_id": "dioscorides-2-76-aromatized-bird-goose-stear:material:aggeion-2",
+      "material_urn": "urn:aos:recipe-material:dioscorides-2-76-aromatized-bird-goose-stear:material:aggeion-2",
+      "source_span": "ἀργυροῦν ἀγγεῖον",
+      "surface_form": "ἀργυροῦν ἀγγεῖον",
+      "normalized_label": "ἀγγεῖον",
+      "role": "apparatus",
+      "certainty": "certain",
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "other",
+          "source_span": "ἀργυροῦν",
+          "normalized_value": "silver",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "notes": [],
+      "host_locator": {
+        "book": "2",
+        "chapter": "76",
+        "section": "13-14",
+        "citation": {
+          "start": "156.1",
+          "end": "156.10"
+        }
+      }
+    }
+  ],
+  "people": [],
+  "places": [],
+  "uses": [],
+  "preparation_names": [],
+  "other_preparations_mentioned": [],
+  "works_mentioned": [],
+  "entities": [
+    {
+      "entity_urn": "urn:aos:recipe-preparation:dioscorides-2-76-aromatized-bird-goose-stear:preparation:stear-ornitheion-kai-cheneion-aromatiston",
+      "entity_type": "label",
+      "surface_form": "στέαρ ὀρνίθειον καὶ χήνειον ἀρωματιστόν",
+      "normalized_label": "στέαρ ὀρνίθειον καὶ χήνειον ἀρωματιστόν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:dioscorides-2-76-aromatized-bird-goose-stear:ingredient:stear-ornitheion-1",
+      "entity_type": "ingredient",
+      "surface_form": "ὀρνίθειον",
+      "normalized_label": "στέαρ ὀρνίθειον"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:dioscorides-2-76-aromatized-bird-goose-stear:ingredient:stear-arkeion-2",
+      "entity_type": "ingredient",
+      "surface_form": "ἄρκειον",
+      "normalized_label": "στέαρ ἄρκειον"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:dioscorides-2-76-aromatized-bird-goose-stear:ingredient:kalamos-3",
+      "entity_type": "ingredient",
+      "surface_form": "καλάμου",
+      "normalized_label": "κάλαμος"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:dioscorides-2-76-aromatized-bird-goose-stear:ingredient:xylobalsamon-4",
+      "entity_type": "ingredient",
+      "surface_form": "ξυλοβαλσάμου",
+      "normalized_label": "ξυλοβάλσαμον"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:dioscorides-2-76-aromatized-bird-goose-stear:ingredient:erysiskeptron-5",
+      "entity_type": "ingredient",
+      "surface_form": "ἐρυσισκήπτρου",
+      "normalized_label": "ἐρυσίσκηπτρον"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:dioscorides-2-76-aromatized-bird-goose-stear:ingredient:elate-6",
+      "entity_type": "ingredient",
+      "surface_form": "ἐλάτης",
+      "normalized_label": "ἐλάτη"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:dioscorides-2-76-aromatized-bird-goose-stear:ingredient:oinos-lesbios-palaios-7",
+      "entity_type": "ingredient",
+      "surface_form": "οἴνου Λεσβίου παλαιοῦ",
+      "normalized_label": "οἶνος Λέσβιος παλαιός"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-2-76-aromatized-bird-goose-stear:process:tithenai-1",
+      "entity_type": "process",
+      "surface_form": "θεὶς",
+      "normalized_label": "τιθέναι"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-2-76-aromatized-bird-goose-stear:process:psychein-2",
+      "entity_type": "process",
+      "surface_form": "ἐάσας ψυγῆναι",
+      "normalized_label": "ψύχειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-2-76-aromatized-bird-goose-stear:process:syzeein-3",
+      "entity_type": "process",
+      "surface_form": "σύζεσον",
+      "normalized_label": "συζέειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-material:dioscorides-2-76-aromatized-bird-goose-stear:material:rakos-linon-1",
+      "entity_type": "material",
+      "surface_form": "ῥάκους λινοῦ",
+      "normalized_label": "ῥάκος λινόν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-material:dioscorides-2-76-aromatized-bird-goose-stear:material:aggeion-2",
+      "entity_type": "material",
+      "surface_form": "ἀργυροῦν ἀγγεῖον",
+      "normalized_label": "ἀγγεῖον"
+    }
+  ],
+  "canonical_file": "data/recipes/dioscorides-2-76-aromatized-bird-goose-stear.json",
+  "source_entry": {
+    "source_id": "dioscorides-2-76-aromatized-bird-goose-stear",
+    "derived_recipe_id": "dioscorides-2-76-aromatized-bird-goose-stear",
+    "entry_kind": "recipe",
+    "source_kind": "main_text",
+    "source_lines": {
+      "start": "156.1",
+      "end": "156.10"
+    },
+    "section_markers": [
+      {
+        "chapter": "76",
+        "section": "13",
+        "label": "§13",
+        "raw_token": "13",
+        "offset": 0
+      },
+      {
+        "chapter": "76",
+        "section": "14",
+        "label": "§14",
+        "raw_token": "14",
+        "offset": 524
+      }
+    ]
+  },
+  "entity_groups": {
+    "labels": [
+      {
+        "entity_urn": "urn:aos:recipe-preparation:dioscorides-2-76-aromatized-bird-goose-stear:preparation:stear-ornitheion-kai-cheneion-aromatiston",
+        "surface_form": "στέαρ ὀρνίθειον καὶ χήνειον ἀρωματιστόν",
+        "normalized_label": "στέαρ ὀρνίθειον καὶ χήνειον ἀρωματιστόν"
+      }
+    ],
+    "ingredients": [
+      {
+        "entity_urn": "urn:aos:recipe-ingredient:dioscorides-2-76-aromatized-bird-goose-stear:ingredient:stear-ornitheion-1",
+        "surface_form": "ὀρνίθειον",
+        "normalized_label": "στέαρ ὀρνίθειον",
+        "quantity_display": ""
+      },
+      {
+        "entity_urn": "urn:aos:recipe-ingredient:dioscorides-2-76-aromatized-bird-goose-stear:ingredient:stear-arkeion-2",
+        "surface_form": "ἄρκειον",
+        "normalized_label": "στέαρ ἄρκειον",
+        "quantity_display": ""
+      },
+      {
+        "entity_urn": "urn:aos:recipe-ingredient:dioscorides-2-76-aromatized-bird-goose-stear:ingredient:kalamos-3",
+        "surface_form": "καλάμου",
+        "normalized_label": "κάλαμος",
+        "quantity_display": ""
+      },
+      {
+        "entity_urn": "urn:aos:recipe-ingredient:dioscorides-2-76-aromatized-bird-goose-stear:ingredient:xylobalsamon-4",
+        "surface_form": "ξυλοβαλσάμου",
+        "normalized_label": "ξυλοβάλσαμον",
+        "quantity_display": "δραχμάς δεκαδύο"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-ingredient:dioscorides-2-76-aromatized-bird-goose-stear:ingredient:erysiskeptron-5",
+        "surface_form": "ἐρυσισκήπτρου",
+        "normalized_label": "ἐρυσίσκηπτρον",
+        "quantity_display": "δραχμάς δεκαδύο"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-ingredient:dioscorides-2-76-aromatized-bird-goose-stear:ingredient:elate-6",
+        "surface_form": "ἐλάτης",
+        "normalized_label": "ἐλάτη",
+        "quantity_display": "δραχμάς δεκαδύο"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-ingredient:dioscorides-2-76-aromatized-bird-goose-stear:ingredient:oinos-lesbios-palaios-7",
+        "surface_form": "οἴνου Λεσβίου παλαιοῦ",
+        "normalized_label": "οἶνος Λέσβιος παλαιός",
+        "quantity_display": "κύαθον ἕνα"
+      }
+    ],
+    "processes": [
+      {
+        "entity_urn": "urn:aos:recipe-process:dioscorides-2-76-aromatized-bird-goose-stear:process:tithenai-1",
+        "surface_form": "θεὶς",
+        "normalized_label": "τιθέναι"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-process:dioscorides-2-76-aromatized-bird-goose-stear:process:psychein-2",
+        "surface_form": "ἐάσας ψυγῆναι",
+        "normalized_label": "ψύχειν"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-process:dioscorides-2-76-aromatized-bird-goose-stear:process:syzeein-3",
+        "surface_form": "σύζεσον",
+        "normalized_label": "συζέειν"
+      }
+    ],
+    "tools": [
+      {
+        "entity_urn": "urn:aos:recipe-material:dioscorides-2-76-aromatized-bird-goose-stear:material:rakos-linon-1",
+        "surface_form": "ῥάκους λινοῦ",
+        "normalized_label": "ῥάκος λινόν"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-material:dioscorides-2-76-aromatized-bird-goose-stear:material:aggeion-2",
+        "surface_form": "ἀργυροῦν ἀγγεῖον",
+        "normalized_label": "ἀγγεῖον"
+      }
+    ],
+    "other_preparations_mentioned": [],
+    "people": [],
+    "places": [],
+    "works_mentioned": [],
+    "preparation_names": []
+  }
+}

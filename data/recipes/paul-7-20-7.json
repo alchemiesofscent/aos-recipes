@@ -1,0 +1,782 @@
+{
+  "dataset_key": "paul_book7_perfumes",
+  "source_json": "experiments/paul-book7-ch20-perfumes/data/paul_book7_ch20_perfumes.json",
+  "host_raw_file": "tei/raw/tlg0715001.xml",
+  "work_slug": "paul.b7.perfumes",
+  "recipe_id": "paul-7-20-7",
+  "recipe_urn": "urn:aos:recipe:paul-7-20-7",
+  "record_urn": "urn:aos:recipe-record:paul-7-20-7",
+  "author": "Paul of Aegina",
+  "work": "Medical Epitome",
+  "book": "7",
+  "chapter": "20",
+  "section": "7",
+  "chapter_name": "Ἐλαίων καὶ μύρων σκευασίαι διάφοροι.",
+  "lemma": "Κρίνινον, οἱ δὲ σούσινον διὰ τὸ ἐν Σούσοις ἴσως εὑρῆσθαι",
+  "text": "Τῶν πετάλων τῶν λευκῶν ὁμοίως διεψυγμένων 𐆄 β εἰς τὸν Ἰταλικὸν τοῦ ἐλαίου ξ̸ ἐμβαλλόμεναι περισφίγγονται ἀκριβῶς, ὡς μὴ διαπνεῖσθαι, καὶ ἡλιοῦνται τρεῖς ἡμέρας, μεθ' ἃς τῶν πρώτων ἀποσειρωθέντων καὶ ῥιφέντων ἄλλαι β 𐆄 ἐμβάλλονται ἄλλας γ ἡμέρας, καὶ οὕτως ἀποτίθενται.",
+  "original_text": null,
+  "text_source": null,
+  "emendations": [],
+  "emendation_count": 0,
+  "source_kind": null,
+  "entry_kind": "recipe",
+  "citation": {
+    "pages": [
+      "2.383"
+    ],
+    "start": {
+      "page": "2.383",
+      "line": "1",
+      "xml_id": "heib-2-383-1"
+    },
+    "end": {
+      "page": "2.383",
+      "line": "6",
+      "xml_id": "heib-2-383-6"
+    },
+    "citation": {
+      "start": "2.383.1",
+      "end": "2.383.6"
+    },
+    "page_spans": [
+      {
+        "page": "2.383",
+        "start_line": "1",
+        "end_line": "6"
+      }
+    ],
+    "lines": [
+      {
+        "page": "2.383",
+        "line": "1",
+        "xml_id": "heib-2-383-1",
+        "break_no": false,
+        "text": "Κρίνινον, οἱ δὲ σούσινον διὰ τὸ ἐν Σούσοις ἴσως εὑρῆσθαι.",
+        "citation": "2.383.1"
+      },
+      {
+        "page": "2.383",
+        "line": "2",
+        "xml_id": "heib-2-383-2",
+        "break_no": false,
+        "text": "Τῶν πετάλων τῶν λευκῶν ὁμοίως διεψυγμένων 𐆄 β εἰς τὸν Ἰτα-",
+        "citation": "2.383.2"
+      },
+      {
+        "page": "2.383",
+        "line": "3",
+        "xml_id": "heib-2-383-3",
+        "break_no": true,
+        "text": "λικὸν τοῦ ἐλαίου ξ̸ ἐμβαλλόμεναι περισφίγγονται ἀκριβῶς, ὡς μὴ δια-",
+        "citation": "2.383.3"
+      },
+      {
+        "page": "2.383",
+        "line": "4",
+        "xml_id": "heib-2-383-4",
+        "break_no": true,
+        "text": "πνεῖσθαι, καὶ ἡλιοῦνται τρεῖς ἡμέρας, μεθ' ἃς τῶν πρώτων ἀποσειρω-",
+        "citation": "2.383.4"
+      },
+      {
+        "page": "2.383",
+        "line": "5",
+        "xml_id": "heib-2-383-5",
+        "break_no": true,
+        "text": "θέντων καὶ ῥιφέντων ἄλλαι β 𐆄 ἐμβάλλονται ἄλλας γ ἡμέρας, καὶ",
+        "citation": "2.383.5"
+      },
+      {
+        "page": "2.383",
+        "line": "6",
+        "xml_id": "heib-2-383-6",
+        "break_no": false,
+        "text": "οὕτως ἀποτίθενται.",
+        "citation": "2.383.6"
+      }
+    ],
+    "edition_key": "heiberg"
+  },
+  "notes": [],
+  "alignment_status": "pending",
+  "alignment_confidence": "pending",
+  "alignment_evidence": null,
+  "review_status": "reviewed_structured_authority",
+  "review_provenance": {
+    "authority_source": "reports/entity_review/structured/paul.json",
+    "authority_recipe_id": "paul-7-20-7",
+    "authority_lemma": "Κρίνινον",
+    "model": "gpt-5.4",
+    "reasoning_effort": "high",
+    "dataset_key": "paul_book7_perfumes",
+    "entity_model_version": "1.2",
+    "authority_version": "2026-04-13-qty-alt-v1",
+    "prompt_version": "qty-alt-pass-v1",
+    "build_version": "2026-05-18T15:51:35Z"
+  },
+  "schema_version": "1.2",
+  "build_metadata": {
+    "builder": "scripts/recipes/build_recipe_entities.py",
+    "built_at": "2026-05-18T15:51:35Z",
+    "source_structured_authority": "reports/entity_review/structured/paul.json",
+    "authority_model": "gpt-5.4",
+    "authority_reasoning_effort": "high",
+    "dataset_key": "paul_book7_perfumes",
+    "entity_model_version": "1.2",
+    "authority_version": "2026-04-13-qty-alt-v1",
+    "prompt_version": "qty-alt-pass-v1",
+    "build_version": "2026-05-18T15:51:35Z"
+  },
+  "recipe_text_excerpt": "Τῶν πετάλων τῶν λευκῶν ὁμοίως διεψυγμένων 𐆄 β εἰς τὸν Ἰταλικὸν τοῦ ἐλαίου ξ̸ ἐμβαλλόμεναι περισφίγγονται ἀκριβῶς, ὡς μὴ διαπνεῖσθαι,",
+  "preparation": {
+    "preparation_id": "paul-7-20-7:preparation:krininon",
+    "preparation_urn": "urn:aos:recipe-preparation:paul-7-20-7:preparation:krininon",
+    "source_span": "Κρίνινον",
+    "surface_form": "Κρίνινον",
+    "normalized_label": "Κρίνινον",
+    "qualifiers": [
+      {
+        "qualifier_type": "cycle_count",
+        "source_span": "μεθ' ἃς τῶν πρώτων ἀποσειρωθέντων καὶ ῥιφέντων ἄλλαι β 𐆄 ἐμβάλλονται ἄλλας γ ἡμέρας",
+        "normalized_value": "2",
+        "certainty": "uncertain",
+        "notes": [
+          "Interpreted as a two-stage petal-charge regimen rather than a single step-local repetition."
+        ]
+      }
+    ],
+    "regimen_notes": [],
+    "certainty": "certain",
+    "notes": [
+      "The running text does not restate the preparation name cleanly; the main label is taken from the lemma."
+    ],
+    "host_locator": {
+      "book": "7",
+      "chapter": "20",
+      "section": "7",
+      "citation": {
+        "start": "2.383.1",
+        "end": "2.383.6"
+      }
+    }
+  },
+  "ingredients": [
+    {
+      "ingredient_id": "paul-7-20-7:ingredient:leyka-petala-1",
+      "ingredient_urn": "urn:aos:recipe-ingredient:paul-7-20-7:ingredient:leyka-petala-1",
+      "source_span": "Τῶν πετάλων τῶν λευκῶν ὁμοίως διεψυγμένων 𐆄 β",
+      "surface_form": "Τῶν πετάλων τῶν λευκῶν ὁμοίως διεψυγμένων 𐆄 β",
+      "base_label": "πέταλα",
+      "normalized_label": "λευκὰ πέταλα",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [
+        "paul-7-20-7:process:diapsychein-1"
+      ],
+      "quantities": [
+        {
+          "source_span": "𐆄 β",
+          "raw_number": "β",
+          "normalized_number": 2,
+          "raw_unit": "𐆄",
+          "normalized_unit": "uncia",
+          "certainty": "uncertain",
+          "notes": [
+            "Τὸ σημεῖον 𐆄 οὐ διασαφεῖται ἐκ τοῦ χωρίου."
+          ]
+        }
+      ],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "7",
+        "chapter": "20",
+        "section": "7",
+        "citation": {
+          "start": "2.383.1",
+          "end": "2.383.6"
+        }
+      }
+    },
+    {
+      "ingredient_id": "paul-7-20-7:ingredient:elaion-italikon-2",
+      "ingredient_urn": "urn:aos:recipe-ingredient:paul-7-20-7:ingredient:elaion-italikon-2",
+      "source_span": "τὸν Ἰταλικὸν τοῦ ἐλαίου ξ̸",
+      "surface_form": "τὸν Ἰταλικὸν τοῦ ἐλαίου ξ̸",
+      "base_label": "ἔλαιον",
+      "normalized_label": "ἔλαιον Ἰταλικόν",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [],
+      "quantities": [
+        {
+          "source_span": "ξ̸",
+          "raw_number": "ξ̸",
+          "normalized_number": 60,
+          "raw_unit": null,
+          "normalized_unit": "xestes",
+          "certainty": "uncertain",
+          "notes": [
+            "Οὐδεμία μονὰς δηλοῦται ρητῶς μετὰ τοῦ ξ̸."
+          ]
+        }
+      ],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "7",
+        "chapter": "20",
+        "section": "7",
+        "citation": {
+          "start": "2.383.1",
+          "end": "2.383.6"
+        }
+      }
+    },
+    {
+      "ingredient_id": "paul-7-20-7:ingredient:leyka-petala-3",
+      "ingredient_urn": "urn:aos:recipe-ingredient:paul-7-20-7:ingredient:leyka-petala-3",
+      "source_span": "ἄλλαι β 𐆄",
+      "surface_form": "ἄλλαι β 𐆄",
+      "base_label": "πέταλα",
+      "normalized_label": "λευκὰ πέταλα",
+      "alternative_set_id": null,
+      "certainty": "uncertain",
+      "linked_process_ids": [
+        "paul-7-20-7:process:emballein-2",
+        "paul-7-20-7:process:emballein-7"
+      ],
+      "quantities": [
+        {
+          "source_span": "β 𐆄",
+          "raw_number": "β",
+          "normalized_number": 2,
+          "raw_unit": "𐆄",
+          "normalized_unit": "uncia",
+          "certainty": "uncertain",
+          "notes": [
+            "Τὸ σημεῖον 𐆄 οὐ διασαφεῖται ἐκ τοῦ χωρίου."
+          ]
+        }
+      ],
+      "qualifiers": [
+        {
+          "qualifier_type": "other",
+          "source_span": "ἄλλαι",
+          "normalized_value": "ἄλλαι",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "notes": [
+        "Τὸ οὐσιαστικὸν ἐλλείπει καὶ συνάγεται ἐκ τοῦ προτέρου «πετάλων τῶν λευκῶν»."
+      ],
+      "host_locator": {
+        "book": "7",
+        "chapter": "20",
+        "section": "7",
+        "citation": {
+          "start": "2.383.1",
+          "end": "2.383.6"
+        }
+      }
+    }
+  ],
+  "processes": [
+    {
+      "process_id": "paul-7-20-7:process:diapsychein-1",
+      "process_urn": "urn:aos:recipe-process:paul-7-20-7:process:diapsychein-1",
+      "source_span": "διεψυγμένων",
+      "surface_form": "διεψυγμένων",
+      "normalized_label": "διαψύχειν",
+      "target_type": "ingredient",
+      "target_ids": [
+        "paul-7-20-7:ingredient:leyka-petala-1",
+        "paul-7-20-7:ingredient:leyka-petala-3"
+      ],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "manner",
+          "source_span": "ὁμοίως",
+          "normalized_value": "ὁμοίως",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "7",
+        "chapter": "20",
+        "section": "7",
+        "citation": {
+          "start": "2.383.1",
+          "end": "2.383.6"
+        }
+      }
+    },
+    {
+      "process_id": "paul-7-20-7:process:emballein-2",
+      "process_urn": "urn:aos:recipe-process:paul-7-20-7:process:emballein-2",
+      "source_span": "ἐμβαλλόμεναι",
+      "surface_form": "ἐμβαλλόμεναι",
+      "normalized_label": "ἐμβάλλειν",
+      "target_type": "ingredient",
+      "target_ids": [
+        "paul-7-20-7:ingredient:leyka-petala-1",
+        "paul-7-20-7:ingredient:leyka-petala-3"
+      ],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "location",
+          "source_span": "εἰς τὸν Ἰταλικὸν τοῦ ἐλαίου ξ̸",
+          "normalized_value": "εἰς ἔλαιον Ἰταλικόν",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "7",
+        "chapter": "20",
+        "section": "7",
+        "citation": {
+          "start": "2.383.1",
+          "end": "2.383.6"
+        }
+      }
+    },
+    {
+      "process_id": "paul-7-20-7:process:perisphiggein-3",
+      "process_urn": "urn:aos:recipe-process:paul-7-20-7:process:perisphiggein-3",
+      "source_span": "περισφίγγονται",
+      "surface_form": "περισφίγγονται",
+      "normalized_label": "περισφίγγειν",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "manner",
+          "source_span": "ἀκριβῶς",
+          "normalized_value": "ἀκριβῶς",
+          "certainty": "certain",
+          "notes": []
+        },
+        {
+          "qualifier_type": "other",
+          "source_span": "ὡς μὴ διαπνεῖσθαι",
+          "normalized_value": "μὴ διαπνεῖσθαι",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "7",
+        "chapter": "20",
+        "section": "7",
+        "citation": {
+          "start": "2.383.1",
+          "end": "2.383.6"
+        }
+      }
+    },
+    {
+      "process_id": "paul-7-20-7:process:elioysthai-4",
+      "process_urn": "urn:aos:recipe-process:paul-7-20-7:process:elioysthai-4",
+      "source_span": "ἡλιοῦνται",
+      "surface_form": "ἡλιοῦνται",
+      "normalized_label": "ἡλιοῦσθαι",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "duration",
+          "source_span": "τρεῖς ἡμέρας",
+          "normalized_value": "3 ἡμέραι",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "7",
+        "chapter": "20",
+        "section": "7",
+        "citation": {
+          "start": "2.383.1",
+          "end": "2.383.6"
+        }
+      }
+    },
+    {
+      "process_id": "paul-7-20-7:process:aposeirein-5",
+      "process_urn": "urn:aos:recipe-process:paul-7-20-7:process:aposeirein-5",
+      "source_span": "ἀποσειρωθέντων",
+      "surface_form": "ἀποσειρωθέντων",
+      "normalized_label": "ἀποσειρεῖν",
+      "target_type": "ingredient",
+      "target_ids": [
+        "paul-7-20-7:ingredient:leyka-petala-1",
+        "paul-7-20-7:ingredient:leyka-petala-3"
+      ],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "other",
+          "source_span": "τῶν πρώτων",
+          "normalized_value": "πρῶτα",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "certainty": "uncertain",
+      "notes": [
+        "Ἡ λημματικὴ μορφὴ τοῦ ῥήματος οὐ βεβαία ἐκ τοῦ μετοχικοῦ τύπου μόνου."
+      ],
+      "host_locator": {
+        "book": "7",
+        "chapter": "20",
+        "section": "7",
+        "citation": {
+          "start": "2.383.1",
+          "end": "2.383.6"
+        }
+      }
+    },
+    {
+      "process_id": "paul-7-20-7:process:riptein-6",
+      "process_urn": "urn:aos:recipe-process:paul-7-20-7:process:riptein-6",
+      "source_span": "ῥιφέντων",
+      "surface_form": "ῥιφέντων",
+      "normalized_label": "ῥίπτειν",
+      "target_type": "ingredient",
+      "target_ids": [
+        "paul-7-20-7:ingredient:leyka-petala-1",
+        "paul-7-20-7:ingredient:leyka-petala-3"
+      ],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "other",
+          "source_span": "τῶν πρώτων",
+          "normalized_value": "πρῶτα",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "7",
+        "chapter": "20",
+        "section": "7",
+        "citation": {
+          "start": "2.383.1",
+          "end": "2.383.6"
+        }
+      }
+    },
+    {
+      "process_id": "paul-7-20-7:process:emballein-7",
+      "process_urn": "urn:aos:recipe-process:paul-7-20-7:process:emballein-7",
+      "source_span": "ἐμβάλλονται",
+      "surface_form": "ἐμβάλλονται",
+      "normalized_label": "ἐμβάλλειν",
+      "target_type": "ingredient",
+      "target_ids": [
+        "paul-7-20-7:ingredient:leyka-petala-1",
+        "paul-7-20-7:ingredient:leyka-petala-3"
+      ],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "duration",
+          "source_span": "ἄλλας γ ἡμέρας",
+          "normalized_value": "3 ἡμέραι",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "7",
+        "chapter": "20",
+        "section": "7",
+        "citation": {
+          "start": "2.383.1",
+          "end": "2.383.6"
+        }
+      }
+    },
+    {
+      "process_id": "paul-7-20-7:process:apotithesthai-8",
+      "process_urn": "urn:aos:recipe-process:paul-7-20-7:process:apotithesthai-8",
+      "source_span": "ἀποτίθενται",
+      "surface_form": "ἀποτίθενται",
+      "normalized_label": "ἀποτίθεσθαι",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "manner",
+          "source_span": "οὕτως",
+          "normalized_value": "οὕτως",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "7",
+        "chapter": "20",
+        "section": "7",
+        "citation": {
+          "start": "2.383.1",
+          "end": "2.383.6"
+        }
+      }
+    }
+  ],
+  "materials": [],
+  "people": [],
+  "places": [
+    {
+      "place_id": "paul-7-20-7:place:soysa-1",
+      "place_urn": "urn:aos:recipe-place:paul-7-20-7:place:soysa-1",
+      "source_span": "ἐν Σούσοις",
+      "surface_form": "ἐν Σούσοις",
+      "normalized_label": "Σοῦσα",
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "7",
+        "chapter": "20",
+        "section": "7",
+        "citation": {
+          "start": "2.383.1",
+          "end": "2.383.6"
+        }
+      }
+    }
+  ],
+  "uses": [],
+  "preparation_names": [
+    {
+      "preparation_name_id": "paul-7-20-7:preparation_name:soysinon-1",
+      "preparation_name_urn": "urn:aos:recipe-preparation_name:paul-7-20-7:preparation_name:soysinon-1",
+      "source_span": "σούσινον",
+      "surface_form": "σούσινον",
+      "normalized_label": "σούσινον",
+      "certainty": "certain",
+      "notes": [
+        "Explicit alternative name in the lemma."
+      ],
+      "host_locator": {
+        "book": "7",
+        "chapter": "20",
+        "section": "7",
+        "citation": {
+          "start": "2.383.1",
+          "end": "2.383.6"
+        }
+      }
+    }
+  ],
+  "other_preparations_mentioned": [],
+  "works_mentioned": [],
+  "entities": [
+    {
+      "entity_urn": "urn:aos:recipe-preparation:paul-7-20-7:preparation:krininon",
+      "entity_type": "label",
+      "surface_form": "Κρίνινον",
+      "normalized_label": "Κρίνινον"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:paul-7-20-7:ingredient:leyka-petala-1",
+      "entity_type": "ingredient",
+      "surface_form": "Τῶν πετάλων τῶν λευκῶν ὁμοίως διεψυγμένων 𐆄 β",
+      "normalized_label": "λευκὰ πέταλα"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:paul-7-20-7:ingredient:elaion-italikon-2",
+      "entity_type": "ingredient",
+      "surface_form": "τὸν Ἰταλικὸν τοῦ ἐλαίου ξ̸",
+      "normalized_label": "ἔλαιον Ἰταλικόν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:paul-7-20-7:ingredient:leyka-petala-3",
+      "entity_type": "ingredient",
+      "surface_form": "ἄλλαι β 𐆄",
+      "normalized_label": "λευκὰ πέταλα"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:paul-7-20-7:process:diapsychein-1",
+      "entity_type": "process",
+      "surface_form": "διεψυγμένων",
+      "normalized_label": "διαψύχειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:paul-7-20-7:process:emballein-2",
+      "entity_type": "process",
+      "surface_form": "ἐμβαλλόμεναι",
+      "normalized_label": "ἐμβάλλειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:paul-7-20-7:process:perisphiggein-3",
+      "entity_type": "process",
+      "surface_form": "περισφίγγονται",
+      "normalized_label": "περισφίγγειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:paul-7-20-7:process:elioysthai-4",
+      "entity_type": "process",
+      "surface_form": "ἡλιοῦνται",
+      "normalized_label": "ἡλιοῦσθαι"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:paul-7-20-7:process:aposeirein-5",
+      "entity_type": "process",
+      "surface_form": "ἀποσειρωθέντων",
+      "normalized_label": "ἀποσειρεῖν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:paul-7-20-7:process:riptein-6",
+      "entity_type": "process",
+      "surface_form": "ῥιφέντων",
+      "normalized_label": "ῥίπτειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:paul-7-20-7:process:emballein-7",
+      "entity_type": "process",
+      "surface_form": "ἐμβάλλονται",
+      "normalized_label": "ἐμβάλλειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:paul-7-20-7:process:apotithesthai-8",
+      "entity_type": "process",
+      "surface_form": "ἀποτίθενται",
+      "normalized_label": "ἀποτίθεσθαι"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-place:paul-7-20-7:place:soysa-1",
+      "entity_type": "place",
+      "surface_form": "ἐν Σούσοις",
+      "normalized_label": "Σοῦσα"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-preparation_name:paul-7-20-7:preparation_name:soysinon-1",
+      "entity_type": "preparation_name",
+      "surface_form": "σούσινον",
+      "normalized_label": "σούσινον"
+    }
+  ],
+  "canonical_file": "data/recipes/paul-7-20-7.json",
+  "source_entry": {
+    "source_id": "paul-7-20-7",
+    "derived_recipe_id": "paul-7-20-7",
+    "entry_kind": null,
+    "source_kind": null,
+    "source_lines": null,
+    "section_markers": []
+  },
+  "entity_groups": {
+    "labels": [
+      {
+        "entity_urn": "urn:aos:recipe-preparation:paul-7-20-7:preparation:krininon",
+        "surface_form": "Κρίνινον",
+        "normalized_label": "Κρίνινον"
+      }
+    ],
+    "ingredients": [
+      {
+        "entity_urn": "urn:aos:recipe-ingredient:paul-7-20-7:ingredient:leyka-petala-1",
+        "surface_form": "Τῶν πετάλων τῶν λευκῶν ὁμοίως διεψυγμένων 𐆄 β",
+        "normalized_label": "λευκὰ πέταλα",
+        "quantity_display": "𐆄 β"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-ingredient:paul-7-20-7:ingredient:elaion-italikon-2",
+        "surface_form": "τὸν Ἰταλικὸν τοῦ ἐλαίου ξ̸",
+        "normalized_label": "ἔλαιον Ἰταλικόν",
+        "quantity_display": "ξ̸"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-ingredient:paul-7-20-7:ingredient:leyka-petala-3",
+        "surface_form": "ἄλλαι β 𐆄",
+        "normalized_label": "λευκὰ πέταλα",
+        "quantity_display": "β 𐆄"
+      }
+    ],
+    "processes": [
+      {
+        "entity_urn": "urn:aos:recipe-process:paul-7-20-7:process:diapsychein-1",
+        "surface_form": "διεψυγμένων",
+        "normalized_label": "διαψύχειν"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-process:paul-7-20-7:process:emballein-2",
+        "surface_form": "ἐμβαλλόμεναι",
+        "normalized_label": "ἐμβάλλειν"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-process:paul-7-20-7:process:perisphiggein-3",
+        "surface_form": "περισφίγγονται",
+        "normalized_label": "περισφίγγειν"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-process:paul-7-20-7:process:elioysthai-4",
+        "surface_form": "ἡλιοῦνται",
+        "normalized_label": "ἡλιοῦσθαι"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-process:paul-7-20-7:process:aposeirein-5",
+        "surface_form": "ἀποσειρωθέντων",
+        "normalized_label": "ἀποσειρεῖν"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-process:paul-7-20-7:process:riptein-6",
+        "surface_form": "ῥιφέντων",
+        "normalized_label": "ῥίπτειν"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-process:paul-7-20-7:process:emballein-7",
+        "surface_form": "ἐμβάλλονται",
+        "normalized_label": "ἐμβάλλειν"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-process:paul-7-20-7:process:apotithesthai-8",
+        "surface_form": "ἀποτίθενται",
+        "normalized_label": "ἀποτίθεσθαι"
+      }
+    ],
+    "tools": [],
+    "other_preparations_mentioned": [],
+    "people": [],
+    "places": [
+      {
+        "entity_urn": "urn:aos:recipe-place:paul-7-20-7:place:soysa-1",
+        "surface_form": "ἐν Σούσοις",
+        "normalized_label": "Σοῦσα"
+      }
+    ],
+    "works_mentioned": [],
+    "preparation_names": [
+      {
+        "entity_urn": "urn:aos:recipe-preparation_name:paul-7-20-7:preparation_name:soysinon-1",
+        "surface_form": "σούσινον",
+        "normalized_label": "σούσινον"
+      }
+    ]
+  }
+}

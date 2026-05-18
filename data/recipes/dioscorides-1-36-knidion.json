@@ -1,0 +1,329 @@
+{
+  "dataset_key": "dioscorides_book1_perfumes_resins",
+  "source_json": "experiments/dioscorides-book1-perfumes-resins/data/dioscorides_book1_perfumes_resins.json",
+  "host_raw_file": "tei/raw/tlg0656.tlg001.1st1K-grc1.xml",
+  "work_slug": "diosc.b1.recipes",
+  "recipe_id": "dioscorides-1-36-knidion",
+  "recipe_urn": "urn:aos:recipe:dioscorides-1-36-knidion",
+  "record_urn": "urn:aos:recipe-record:dioscorides-1-36-knidion",
+  "author": "Dioscorides",
+  "work": "De materia medica",
+  "book": "1",
+  "chapter": "36",
+  "section": null,
+  "chapter_name": "διὰ τοῦ κνιδίου κόκκου",
+  "lemma": "διὰ τοῦ κνιδίου κόκκου",
+  "text": "36 ὁμοίως δὲ καὶ τὸ διὰ τοῦ Κνιδίου κόκκου σκευάζεται λεπισθέντος καὶ κοπέντος. καθαρτικὴν δὲ ἔχει δύναμιν κοιλίας πινόμενον.",
+  "original_text": null,
+  "text_source": null,
+  "emendations": [],
+  "emendation_count": 0,
+  "source_kind": "main_text",
+  "entry_kind": "recipe",
+  "citation": {
+    "pages": [
+      "39"
+    ],
+    "start": {
+      "page": "39",
+      "line": "1"
+    },
+    "end": {
+      "page": "39",
+      "line": "5"
+    },
+    "citation": {
+      "start": "39.1",
+      "end": "39.5"
+    },
+    "page_spans": [
+      {
+        "page": "39",
+        "start_line": "1",
+        "end_line": "5"
+      }
+    ],
+    "lines": [
+      {
+        "page": "39",
+        "line": "1",
+        "break_no": false,
+        "text": "36 ὁμοίως δὲ καὶ τὸ διὰ τοῦ Κνιδίου κόκκου σκευάζεται",
+        "citation": "39.1"
+      },
+      {
+        "page": "39",
+        "line": "5",
+        "break_no": false,
+        "text": "λεπισθέντος καὶ κοπέντος. καθαρτικὴν δὲ ἔχει δύναμιν κοιλίας πινόμενον.",
+        "citation": "39.5"
+      }
+    ],
+    "edition_key": "wellmann"
+  },
+  "notes": [
+    "Raw lines 1590-1633 are book 1 chapter 25 in this witness, although the prompt referred to chapter 35.",
+    "The perfume proemium is taken from the later transition at chapter 42 section 2 (raw lines 2306-2342), not from the chapter 25 κῦφι entry.",
+    "The ἰασμέλαιον entry is preserved only in the apparatus as an addition from another recension."
+  ],
+  "alignment_status": "pending",
+  "alignment_confidence": "pending",
+  "alignment_evidence": null,
+  "review_status": "reviewed_structured_authority",
+  "review_provenance": {
+    "authority_source": "reports/entity_review/structured/dioscorides.json",
+    "authority_recipe_id": "dioscorides-1-36-knidion",
+    "authority_lemma": "διὰ τοῦ κνιδίου κόκκου",
+    "model": "gpt-5.4",
+    "reasoning_effort": "high",
+    "dataset_key": "dioscorides_book1_perfumes_resins",
+    "entity_model_version": "1.2",
+    "authority_version": "2026-04-13-qty-alt-v1",
+    "prompt_version": "qty-alt-pass-v1",
+    "build_version": "2026-05-18T15:51:35Z"
+  },
+  "schema_version": "1.2",
+  "build_metadata": {
+    "builder": "scripts/recipes/build_recipe_entities.py",
+    "built_at": "2026-05-18T15:51:35Z",
+    "source_structured_authority": "reports/entity_review/structured/dioscorides.json",
+    "authority_model": "gpt-5.4",
+    "authority_reasoning_effort": "high",
+    "dataset_key": "dioscorides_book1_perfumes_resins",
+    "entity_model_version": "1.2",
+    "authority_version": "2026-04-13-qty-alt-v1",
+    "prompt_version": "qty-alt-pass-v1",
+    "build_version": "2026-05-18T15:51:35Z"
+  },
+  "recipe_text_excerpt": "ὁμοίως δὲ καὶ τὸ διὰ τοῦ Κνιδίου κόκκου σκευάζεται λεπισθέντος καὶ κοπέντος. καθαρτικὴν δὲ ἔχει δύναμιν κοιλίας πινόμενον.",
+  "preparation": {
+    "preparation_id": "dioscorides-1-36-knidion:preparation:dia-toy-knidioy-kokkoy",
+    "preparation_urn": "urn:aos:recipe-preparation:dioscorides-1-36-knidion:preparation:dia-toy-knidioy-kokkoy",
+    "source_span": "τὸ διὰ τοῦ Κνιδίου κόκκου",
+    "surface_form": "τὸ διὰ τοῦ Κνιδίου κόκκου",
+    "normalized_label": "διὰ τοῦ κνιδίου κόκκου",
+    "qualifiers": [],
+    "regimen_notes": [],
+    "certainty": "certain",
+    "notes": [],
+    "host_locator": {
+      "book": "1",
+      "chapter": "36",
+      "section": null,
+      "citation": {
+        "start": "39.1",
+        "end": "39.5"
+      }
+    }
+  },
+  "ingredients": [
+    {
+      "ingredient_id": "dioscorides-1-36-knidion:ingredient:knidios-kokkos-1",
+      "ingredient_urn": "urn:aos:recipe-ingredient:dioscorides-1-36-knidion:ingredient:knidios-kokkos-1",
+      "source_span": "τοῦ Κνιδίου κόκκου",
+      "surface_form": "τοῦ Κνιδίου κόκκου",
+      "base_label": "κόκκος",
+      "normalized_label": "κνίδιος κόκκος",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [
+        "dioscorides-1-36-knidion:process:lepizein-1",
+        "dioscorides-1-36-knidion:process:koptein-2"
+      ],
+      "quantities": [],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "36",
+        "section": null,
+        "citation": {
+          "start": "39.1",
+          "end": "39.5"
+        }
+      }
+    }
+  ],
+  "processes": [
+    {
+      "process_id": "dioscorides-1-36-knidion:process:lepizein-1",
+      "process_urn": "urn:aos:recipe-process:dioscorides-1-36-knidion:process:lepizein-1",
+      "source_span": "λεπισθέντος",
+      "surface_form": "λεπισθέντος",
+      "normalized_label": "λεπίζειν",
+      "target_type": "ingredient",
+      "target_ids": [
+        "dioscorides-1-36-knidion:ingredient:knidios-kokkos-1"
+      ],
+      "quantities": [],
+      "qualifiers": [],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "36",
+        "section": null,
+        "citation": {
+          "start": "39.1",
+          "end": "39.5"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-1-36-knidion:process:koptein-2",
+      "process_urn": "urn:aos:recipe-process:dioscorides-1-36-knidion:process:koptein-2",
+      "source_span": "κοπέντος",
+      "surface_form": "κοπέντος",
+      "normalized_label": "κόπτειν",
+      "target_type": "ingredient",
+      "target_ids": [
+        "dioscorides-1-36-knidion:ingredient:knidios-kokkos-1"
+      ],
+      "quantities": [],
+      "qualifiers": [],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "36",
+        "section": null,
+        "citation": {
+          "start": "39.1",
+          "end": "39.5"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-1-36-knidion:process:pinein-3",
+      "process_urn": "urn:aos:recipe-process:dioscorides-1-36-knidion:process:pinein-3",
+      "source_span": "πινόμενον",
+      "surface_form": "πινόμενον",
+      "normalized_label": "πίνειν",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "36",
+        "section": null,
+        "citation": {
+          "start": "39.1",
+          "end": "39.5"
+        }
+      }
+    }
+  ],
+  "materials": [],
+  "people": [],
+  "places": [],
+  "uses": [
+    {
+      "use_id": "dioscorides-1-36-knidion:use:kathartiken-de-echei-dynamin-koilias-pinomenon-1",
+      "use_urn": "urn:aos:recipe-use:dioscorides-1-36-knidion:use:kathartiken-de-echei-dynamin-koilias-pinomenon-1",
+      "category": "medical",
+      "source_span": "καθαρτικὴν δὲ ἔχει δύναμιν κοιλίας πινόμενον",
+      "snippet": "καθαρτικὴν δὲ ἔχει δύναμιν κοιλίας πινόμενον",
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "36",
+        "section": null,
+        "citation": {
+          "start": "39.1",
+          "end": "39.5"
+        }
+      }
+    }
+  ],
+  "preparation_names": [],
+  "other_preparations_mentioned": [],
+  "works_mentioned": [],
+  "entities": [
+    {
+      "entity_urn": "urn:aos:recipe-preparation:dioscorides-1-36-knidion:preparation:dia-toy-knidioy-kokkoy",
+      "entity_type": "label",
+      "surface_form": "τὸ διὰ τοῦ Κνιδίου κόκκου",
+      "normalized_label": "διὰ τοῦ κνιδίου κόκκου"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:dioscorides-1-36-knidion:ingredient:knidios-kokkos-1",
+      "entity_type": "ingredient",
+      "surface_form": "τοῦ Κνιδίου κόκκου",
+      "normalized_label": "κνίδιος κόκκος"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-1-36-knidion:process:lepizein-1",
+      "entity_type": "process",
+      "surface_form": "λεπισθέντος",
+      "normalized_label": "λεπίζειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-1-36-knidion:process:koptein-2",
+      "entity_type": "process",
+      "surface_form": "κοπέντος",
+      "normalized_label": "κόπτειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-1-36-knidion:process:pinein-3",
+      "entity_type": "process",
+      "surface_form": "πινόμενον",
+      "normalized_label": "πίνειν"
+    }
+  ],
+  "canonical_file": "data/recipes/dioscorides-1-36-knidion.json",
+  "source_entry": {
+    "source_id": "dioscorides-1-36-knidion",
+    "derived_recipe_id": "dioscorides-1-36-knidion",
+    "entry_kind": "recipe",
+    "source_kind": "main_text",
+    "source_lines": {
+      "start": 1855,
+      "end": 3167
+    },
+    "section_markers": []
+  },
+  "entity_groups": {
+    "labels": [
+      {
+        "entity_urn": "urn:aos:recipe-preparation:dioscorides-1-36-knidion:preparation:dia-toy-knidioy-kokkoy",
+        "surface_form": "τὸ διὰ τοῦ Κνιδίου κόκκου",
+        "normalized_label": "διὰ τοῦ κνιδίου κόκκου"
+      }
+    ],
+    "ingredients": [
+      {
+        "entity_urn": "urn:aos:recipe-ingredient:dioscorides-1-36-knidion:ingredient:knidios-kokkos-1",
+        "surface_form": "τοῦ Κνιδίου κόκκου",
+        "normalized_label": "κνίδιος κόκκος",
+        "quantity_display": ""
+      }
+    ],
+    "processes": [
+      {
+        "entity_urn": "urn:aos:recipe-process:dioscorides-1-36-knidion:process:lepizein-1",
+        "surface_form": "λεπισθέντος",
+        "normalized_label": "λεπίζειν"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-process:dioscorides-1-36-knidion:process:koptein-2",
+        "surface_form": "κοπέντος",
+        "normalized_label": "κόπτειν"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-process:dioscorides-1-36-knidion:process:pinein-3",
+        "surface_form": "πινόμενον",
+        "normalized_label": "πίνειν"
+      }
+    ],
+    "tools": [],
+    "other_preparations_mentioned": [],
+    "people": [],
+    "places": [],
+    "works_mentioned": [],
+    "preparation_names": []
+  }
+}

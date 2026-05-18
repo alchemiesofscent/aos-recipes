@@ -1,0 +1,1327 @@
+{
+  "dataset_key": "dioscorides_book2_fats",
+  "source_json": "experiments/dioscorides-book2-fats/data/dioscorides_book2_fats.json",
+  "host_raw_file": "tei/raw/tlg0656.tlg001.1st1K-grc1.xml",
+  "work_slug": "diosc.b2.fats",
+  "recipe_id": "dioscorides-2-74-oisypos",
+  "recipe_urn": "urn:aos:recipe:dioscorides-2-74-oisypos",
+  "record_urn": "urn:aos:recipe-record:dioscorides-2-74-oisypos",
+  "author": "Dioscorides",
+  "work": "De materia medica",
+  "book": "2",
+  "chapter": "74",
+  "section": "1-2, 4",
+  "chapter_name": "οἴσυπος",
+  "lemma": "οἴσυπος",
+  "text": "οἴσυπος δὲ λέγεται τὸ ἐκ τῶν οἰσυπηρῶν ἐρίων λίπος, ὃν σκευάσεις οὕτως· λαβὼν ἔρια μαλακὰ οἰσυπηρὰ ἔκπλυνον μὴ ἐστρουθισμένα θερμῷ ὕδατι, ἅμα ἐκθλίβων πᾶσαν τὴν ῥυπαρίαν, ἣν βαλὼν εἰς κρατῆρα πλατύστομον καὶ ἐπιχέας ὕδωρ ἀνάχει ἀρυτῆρι ῥαγδαίως, ἕως ἂν ἀφρίσῃ, ἢ ξύλῳ ἀνατάρασσε εὐτόνως, μέχρις ἂν ὁ πολὺς ἀφρὸς καὶ λιπαρὸς συλλεγῇ· εἶτα κατάρραινε θαλάσσῃ, καὶ ὅταν καταστῇ τὸ ἐπινηχόμενον λίπος, ἀναλάμβανε εἰς ἕτερον κεραμεοῦν ἀγγεῖον, ἐπιχέας τε ὕδωρ εἰς τὸν κρατῆρα πάλιν τάρασσε καὶ κατάρραινε τῇ θαλάσσῃ τὸν ἀφρὸν καὶ ἀναλάμβανε, καὶ τὸ αὐτὸ ποίει, ἄχρι ἂν μηκέτι ἀφρὸς ἐφιιστῆται δαπανηθέντος τοῦ λίπους. τὸν μέντοι ἀνῃρημένον οἴσυπον τῇ χειρὶ μαλάξας παραχρῆμα ἀναιροῦ, εἴ τινα ἔχει ἀκαθαρσίαν, στραγγίζων τὸ πρῶτον ὕδωρ καὶ ἄλλο ἐπιχέων καὶ κινῶν τῇ χειρί, ἄχρι ἂν οὗ καθαρὸς καὶ λευκὸς φανῇ, οὕτως τε ἀποτίθεσο ἐν ἀγγείῳ κεραμεῷ· ἐν ἡλίῳ δὲ θερινῷ γινέσθω πάντα. ἔνιοι δὲ διηθήσαντες τὸ λίπος πλύνουσιν ἐν ὕδατι ψυχρῷ, ταῖς χερσὶν ἀνατρίβοντες ὡς τὴν κηρωτὴν αἱ γυναῖκες· γίνεται δὲ ὁ τοιοῦτος λευκότερος. δύναμιν δὲ ἔχει θερμαντικήν, πληρωτικὴν ἑλκῶν, μαλακτικήν, καὶ μάλιστα τῶν περὶ δακτύλιον καὶ ὑστέραν σὺν μελιλώτῳ καὶ βουτύρῳ, καὶ ἔμμηνα καὶ ἔμβρυα ἐν ἐρίῳ προστιθέμενος ἄγει, πρός τε τὰ ἐν ὠσὶ καὶ αἰδοίῳ σὺν χηνείῳ στέατι. ποιεῖ δὲ καὶ πρὸς περιβεβρωμένους κανθούς καὶ ψωρώδεις καὶ βλέφαρα τετυλωμένα καὶ τριχορροοῦντα.",
+  "original_text": null,
+  "text_source": null,
+  "emendations": [],
+  "emendation_count": 0,
+  "source_kind": "main_text",
+  "entry_kind": "recipe",
+  "citation": {
+    "pages": [
+      "148",
+      "149",
+      "150"
+    ],
+    "start": {
+      "page": "148",
+      "line": "20"
+    },
+    "end": {
+      "page": "150",
+      "line": "1"
+    },
+    "citation": {
+      "start": "148.20",
+      "end": "150.1"
+    },
+    "page_spans": [
+      {
+        "page": "148",
+        "start_line": "20",
+        "end_line": "20"
+      },
+      {
+        "page": "149",
+        "start_line": "1",
+        "end_line": "25"
+      },
+      {
+        "page": "150",
+        "start_line": "1",
+        "end_line": "1"
+      }
+    ],
+    "lines": [
+      {
+        "page": "148",
+        "line": "20",
+        "break_no": false,
+        "raw_text": "74 οἴσυπος δὲ λέγεται τὸ ἐκ τῶν οἰσυπηρῶν ἐρίων λίπος, ὃν σκευάσεις οὕτως· λαβὼν ἔρια μαλακὰ οἰσυπηρὰ ἔκπλυνον μὴ ἐστρουθισμένα θερμῷ ὕδατι, ἅμα ἐκθλίβων πᾶσαν τὴν ῥυπαρίαν, ἣν βαλὼν εἰς κρατῆρα πλατύστομον καὶ ἐπιχέας ὕδωρ",
+        "text": "οἴσυπος δὲ λέγεται τὸ ἐκ τῶν οἰσυπηρῶν ἐρίων λίπος, ὃν σκευάσεις οὕτως· λαβὼν ἔρια μαλακὰ οἰσυπηρὰ ἔκπλυνον μὴ ἐστρουθισμένα θερμῷ ὕδατι, ἅμα ἐκθλίβων πᾶσαν τὴν ῥυπαρίαν, ἣν βαλὼν εἰς κρατῆρα πλατύστομον καὶ ἐπιχέας ὕδωρ",
+        "citation": "148.20"
+      },
+      {
+        "page": "149",
+        "line": "1",
+        "break_no": false,
+        "raw_text": "ἀνάχει ἀρυτῆρι ῥαγδαίως, ἕως ἂν ἀφρίσῃ, ἢ ξύλῳ ἀνατάρασσε εὐτόνως, μέχρις ἂν ὁ πολὺς ἀφρὸς καὶ λιπαρὸς συλλεγῇ· εἶτα κατάρραινε θαλάσσῃ, καὶ ὅταν καταστῇ τὸ ἐπινηχόμενον λίπος, ἀναλάμβανε εἰς ἕτερον κεραμεοῦν ἀγγεῖον, ἐπιχέας τε ὕδωρ εἰς",
+        "text": "ἀνάχει ἀρυτῆρι ῥαγδαίως, ἕως ἂν ἀφρίσῃ, ἢ ξύλῳ ἀνατάρασσε εὐτόνως, μέχρις ἂν ὁ πολὺς ἀφρὸς καὶ λιπαρὸς συλλεγῇ· εἶτα κατάρραινε θαλάσσῃ, καὶ ὅταν καταστῇ τὸ ἐπινηχόμενον λίπος, ἀναλάμβανε εἰς ἕτερον κεραμεοῦν ἀγγεῖον, ἐπιχέας τε ὕδωρ εἰς",
+        "citation": "149.1"
+      },
+      {
+        "page": "149",
+        "line": "5",
+        "break_no": false,
+        "raw_text": "τὸν κρατῆρα πάλιν τάρασσε καὶ κατάρραινε τῇ θαλάσσῃ τὸν ἀφρὸν καὶ ἀναλάμβανε, καὶ τὸ αὐτὸ ποίει, ἄχρι ἂν μηκέτι ἀφρὸς ἐφιιστῆται δαπανηθέντος τοῦ λίπους.",
+        "text": "τὸν κρατῆρα πάλιν τάρασσε καὶ κατάρραινε τῇ θαλάσσῃ τὸν ἀφρὸν καὶ ἀναλάμβανε, καὶ τὸ αὐτὸ ποίει, ἄχρι ἂν μηκέτι ἀφρὸς ἐφιιστῆται δαπανηθέντος τοῦ λίπους.",
+        "citation": "149.5"
+      },
+      {
+        "page": "149",
+        "line": "5",
+        "break_no": false,
+        "raw_text": "τὸν μέντοι ἀνῃρημένον 2 οἴσυπον τῇ χειρὶ μαλάξας παραχρῆμα ἀναιροῦ, εἴ τινα ἔχει ἀκαθαρσίαν, στραγγίζων τὸ πρῶτον ὕδωρ καὶ ἄλλο ἐπιχέων",
+        "text": "τὸν μέντοι ἀνῃρημένον οἴσυπον τῇ χειρὶ μαλάξας παραχρῆμα ἀναιροῦ, εἴ τινα ἔχει ἀκαθαρσίαν, στραγγίζων τὸ πρῶτον ὕδωρ καὶ ἄλλο ἐπιχέων",
+        "citation": "149.5"
+      },
+      {
+        "page": "149",
+        "line": "10",
+        "break_no": false,
+        "raw_text": "καὶ κινῶν τῇ χειρί, ἄχρι ἂν οὗ καθαρὸς καὶ λευκὸς φανῇ, οὕτως τε ἀποτίθεσο ἐν ἀγγείῳ κεραμεῷ· ἐν ἡλίῳ δὲ θερινῷ γινέσθω πάντα. ἔνιοι δὲ διηθήσαντες τὸ λίπος πλύνουσιν ἐν ὕδατι ψυχρῷ, ταῖς χερσὶν ἀνατρίβοντες ὡς τὴν κηρωτὴν αἱ γυναῖκες· γίνεται δὲ ὁ τοιοῦτος λευκότερος.",
+        "text": "καὶ κινῶν τῇ χειρί, ἄχρι ἂν οὗ καθαρὸς καὶ λευκὸς φανῇ, οὕτως τε ἀποτίθεσο ἐν ἀγγείῳ κεραμεῷ· ἐν ἡλίῳ δὲ θερινῷ γινέσθω πάντα. ἔνιοι δὲ διηθήσαντες τὸ λίπος πλύνουσιν ἐν ὕδατι ψυχρῷ, ταῖς χερσὶν ἀνατρίβοντες ὡς τὴν κηρωτὴν αἱ γυναῖκες· γίνεται δὲ ὁ τοιοῦτος λευκότερος.",
+        "citation": "149.10"
+      },
+      {
+        "page": "149",
+        "line": "25",
+        "break_no": false,
+        "raw_text": "δύναμιν δὲ ἔχει θερμαντικήν, πληρωτικὴν ἑλκῶν, μαλακτικήν, 4",
+        "text": "δύναμιν δὲ ἔχει θερμαντικήν, πληρωτικὴν ἑλκῶν, μαλακτικήν,",
+        "citation": "149.25"
+      },
+      {
+        "page": "150",
+        "line": "1",
+        "break_no": false,
+        "raw_text": "καὶ μάλιστα τῶν περὶ δακτύλιον καὶ ὑστέραν σὺν μελιλώτῳ καὶ βουτύρῳ, καὶ ἔμμηνα καὶ ἔμβρυα ἐν ἐρίῳ προστιθέμενος ἄγει, πρός τε τὰ ἐν ὠσὶ καὶ αἰδοίῳ σὺν χηνείῳ στέατι. ποιεῖ δὲ καὶ πρὸς περιβεβρωμένους κανθούς καὶ ψωρώδεις καὶ βλέφαρα τετυλωμένα καὶ τριχορροοῦντα.",
+        "text": "καὶ μάλιστα τῶν περὶ δακτύλιον καὶ ὑστέραν σὺν μελιλώτῳ καὶ βουτύρῳ, καὶ ἔμμηνα καὶ ἔμβρυα ἐν ἐρίῳ προστιθέμενος ἄγει, πρός τε τὰ ἐν ὠσὶ καὶ αἰδοίῳ σὺν χηνείῳ στέατι. ποιεῖ δὲ καὶ πρὸς περιβεβρωμένους κανθούς καὶ ψωρώδεις καὶ βλέφαρα τετυλωμένα καὶ τριχορροοῦντα.",
+        "citation": "150.1"
+      }
+    ],
+    "edition_key": "wellmann"
+  },
+  "notes": [
+    "Book 2 fats slice split into logical preparation and technique units from chapters 72, 74, and 76.",
+    "Bare Arabic numerals in the raw witness are treated as structural or note noise and removed from display text, except parenthetical cross-references such as (I 68).",
+    "Section markers are stored separately and displayed near sentence boundaries as heuristic navigation aids."
+  ],
+  "alignment_status": "pending",
+  "alignment_confidence": "pending",
+  "alignment_evidence": null,
+  "review_status": "reviewed_structured_authority",
+  "review_provenance": {
+    "authority_source": "reports/entity_review/structured/dioscorides.json",
+    "authority_recipe_id": "dioscorides-2-74-oisypos",
+    "authority_lemma": "οἴσυπος",
+    "model": "gpt-5.4",
+    "reasoning_effort": "high",
+    "dataset_key": "dioscorides_book2_fats",
+    "entity_model_version": "1.2",
+    "authority_version": "2026-04-13-qty-alt-v1",
+    "prompt_version": "qty-alt-pass-v1",
+    "build_version": "2026-05-18T15:51:35Z"
+  },
+  "schema_version": "1.2",
+  "build_metadata": {
+    "builder": "scripts/recipes/build_recipe_entities.py",
+    "built_at": "2026-05-18T15:51:35Z",
+    "source_structured_authority": "reports/entity_review/structured/dioscorides.json",
+    "authority_model": "gpt-5.4",
+    "authority_reasoning_effort": "high",
+    "dataset_key": "dioscorides_book2_fats",
+    "entity_model_version": "1.2",
+    "authority_version": "2026-04-13-qty-alt-v1",
+    "prompt_version": "qty-alt-pass-v1",
+    "build_version": "2026-05-18T15:51:35Z"
+  },
+  "recipe_text_excerpt": "οἴσυπος δὲ λέγεται τὸ ἐκ τῶν οἰσυπηρῶν ἐρίων λίπος, ὃν σκευάσεις οὕτως· λαβὼν ἔρια μαλακὰ οἰσυπηρὰ ἔκπλυνον μὴ ἐστρουθισμένα θερμῷ",
+  "preparation": {
+    "preparation_id": "dioscorides-2-74-oisypos:preparation:oisypos",
+    "preparation_urn": "urn:aos:recipe-preparation:dioscorides-2-74-oisypos:preparation:oisypos",
+    "source_span": "οἴσυπος",
+    "surface_form": "οἴσυπος",
+    "normalized_label": "οἴσυπος",
+    "qualifiers": [
+      {
+        "qualifier_type": "exposure",
+        "source_span": "ἐν ἡλίῳ δὲ θερινῷ",
+        "normalized_value": "ἐν ἡλίῳ θερινῷ",
+        "certainty": "certain",
+        "notes": [
+          "Applies to πάντα."
+        ]
+      }
+    ],
+    "regimen_notes": [
+      {
+        "source_span": "ἔνιοι δὲ διηθήσαντες τὸ λίπος πλύνουσιν ἐν ὕδατι ψυχρῷ",
+        "normalized_note": "ἔνιοι διηθήσαντες πλύνουσιν ἐν ὕδατι ψυχρῷ",
+        "certainty": "certain",
+        "notes": [
+          "Alternative variant."
+        ]
+      },
+      {
+        "source_span": "γίνεται δὲ ὁ τοιοῦτος λευκότερος",
+        "normalized_note": "ὁ τοιοῦτος λευκότερος γίνεται",
+        "certainty": "certain",
+        "notes": [
+          "Outcome of the alternative variant."
+        ]
+      }
+    ],
+    "certainty": "certain",
+    "notes": [],
+    "host_locator": {
+      "book": "2",
+      "chapter": "74",
+      "section": "1-2, 4",
+      "citation": {
+        "start": "148.20",
+        "end": "150.1"
+      }
+    }
+  },
+  "ingredients": [
+    {
+      "ingredient_id": "dioscorides-2-74-oisypos:ingredient:eria-malaka-oisypera-1",
+      "ingredient_urn": "urn:aos:recipe-ingredient:dioscorides-2-74-oisypos:ingredient:eria-malaka-oisypera-1",
+      "source_span": "ἔρια μαλακὰ οἰσυπηρὰ",
+      "surface_form": "ἔρια μαλακὰ οἰσυπηρὰ",
+      "base_label": "ἔρια",
+      "normalized_label": "ἔρια μαλακὰ οἰσυπηρά",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [
+        "dioscorides-2-74-oisypos:process:ekplynein-1",
+        "dioscorides-2-74-oisypos:process:ekthlibein-2"
+      ],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "other",
+          "source_span": "μὴ ἐστρουθισμένα",
+          "normalized_value": "μὴ ἐστρουθισμένα",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "notes": [],
+      "host_locator": {
+        "book": "2",
+        "chapter": "74",
+        "section": "1-2, 4",
+        "citation": {
+          "start": "148.20",
+          "end": "150.1"
+        }
+      }
+    },
+    {
+      "ingredient_id": "dioscorides-2-74-oisypos:ingredient:ydor-thermon-2",
+      "ingredient_urn": "urn:aos:recipe-ingredient:dioscorides-2-74-oisypos:ingredient:ydor-thermon-2",
+      "source_span": "θερμῷ ὕδατι",
+      "surface_form": "θερμῷ ὕδατι",
+      "base_label": "ὕδωρ",
+      "normalized_label": "ὕδωρ θερμόν",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [
+        "dioscorides-2-74-oisypos:process:ekplynein-1"
+      ],
+      "quantities": [],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "2",
+        "chapter": "74",
+        "section": "1-2, 4",
+        "citation": {
+          "start": "148.20",
+          "end": "150.1"
+        }
+      }
+    },
+    {
+      "ingredient_id": "dioscorides-2-74-oisypos:ingredient:ydor-3",
+      "ingredient_urn": "urn:aos:recipe-ingredient:dioscorides-2-74-oisypos:ingredient:ydor-3",
+      "source_span": "ὕδωρ",
+      "surface_form": "ὕδωρ",
+      "base_label": "ὕδωρ",
+      "normalized_label": "ὕδωρ",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [
+        "dioscorides-2-74-oisypos:process:epicheein-4",
+        "dioscorides-2-74-oisypos:process:epicheein-13"
+      ],
+      "quantities": [],
+      "qualifiers": [],
+      "notes": [
+        "Repeatedly added during the foaming cycle."
+      ],
+      "host_locator": {
+        "book": "2",
+        "chapter": "74",
+        "section": "1-2, 4",
+        "citation": {
+          "start": "148.20",
+          "end": "150.1"
+        }
+      }
+    },
+    {
+      "ingredient_id": "dioscorides-2-74-oisypos:ingredient:thalassion-ydor-4",
+      "ingredient_urn": "urn:aos:recipe-ingredient:dioscorides-2-74-oisypos:ingredient:thalassion-ydor-4",
+      "source_span": "θαλάσσῃ",
+      "surface_form": "θαλάσσῃ",
+      "base_label": "θάλασσα",
+      "normalized_label": "θαλάσσιον ὕδωρ",
+      "alternative_set_id": null,
+      "certainty": "uncertain",
+      "linked_process_ids": [
+        "dioscorides-2-74-oisypos:process:katarrainein-7"
+      ],
+      "quantities": [],
+      "qualifiers": [],
+      "notes": [
+        "Head noun ὕδωρ restored from context."
+      ],
+      "host_locator": {
+        "book": "2",
+        "chapter": "74",
+        "section": "1-2, 4",
+        "citation": {
+          "start": "148.20",
+          "end": "150.1"
+        }
+      }
+    },
+    {
+      "ingredient_id": "dioscorides-2-74-oisypos:ingredient:ydor-psychron-5",
+      "ingredient_urn": "urn:aos:recipe-ingredient:dioscorides-2-74-oisypos:ingredient:ydor-psychron-5",
+      "source_span": "ὕδατι ψυχρῷ",
+      "surface_form": "ὕδατι ψυχρῷ",
+      "base_label": "ὕδωρ",
+      "normalized_label": "ὕδωρ ψυχρόν",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [
+        "dioscorides-2-74-oisypos:process:plynein-17"
+      ],
+      "quantities": [],
+      "qualifiers": [],
+      "notes": [
+        "Used in the alternative variant."
+      ],
+      "host_locator": {
+        "book": "2",
+        "chapter": "74",
+        "section": "1-2, 4",
+        "citation": {
+          "start": "148.20",
+          "end": "150.1"
+        }
+      }
+    }
+  ],
+  "processes": [
+    {
+      "process_id": "dioscorides-2-74-oisypos:process:ekplynein-1",
+      "process_urn": "urn:aos:recipe-process:dioscorides-2-74-oisypos:process:ekplynein-1",
+      "source_span": "ἔκπλυνον",
+      "surface_form": "ἔκπλυνον",
+      "normalized_label": "ἐκπλύνειν",
+      "target_type": "ingredient",
+      "target_ids": [
+        "dioscorides-2-74-oisypos:ingredient:eria-malaka-oisypera-1"
+      ],
+      "quantities": [],
+      "qualifiers": [],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "2",
+        "chapter": "74",
+        "section": "1-2, 4",
+        "citation": {
+          "start": "148.20",
+          "end": "150.1"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-2-74-oisypos:process:ekthlibein-2",
+      "process_urn": "urn:aos:recipe-process:dioscorides-2-74-oisypos:process:ekthlibein-2",
+      "source_span": "ἐκθλίβων",
+      "surface_form": "ἐκθλίβων",
+      "normalized_label": "ἐκθλίβειν",
+      "target_type": "ingredient",
+      "target_ids": [
+        "dioscorides-2-74-oisypos:ingredient:eria-malaka-oisypera-1"
+      ],
+      "quantities": [],
+      "qualifiers": [],
+      "certainty": "certain",
+      "notes": [
+        "Object: πᾶσαν τὴν ῥυπαρίαν."
+      ],
+      "host_locator": {
+        "book": "2",
+        "chapter": "74",
+        "section": "1-2, 4",
+        "citation": {
+          "start": "148.20",
+          "end": "150.1"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-2-74-oisypos:process:ballein-3",
+      "process_urn": "urn:aos:recipe-process:dioscorides-2-74-oisypos:process:ballein-3",
+      "source_span": "βαλὼν",
+      "surface_form": "βαλὼν",
+      "normalized_label": "βάλλειν",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "location",
+          "source_span": "εἰς κρατῆρα πλατύστομον",
+          "normalized_value": "εἰς κρατῆρα πλατύστομον",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "2",
+        "chapter": "74",
+        "section": "1-2, 4",
+        "citation": {
+          "start": "148.20",
+          "end": "150.1"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-2-74-oisypos:process:epicheein-4",
+      "process_urn": "urn:aos:recipe-process:dioscorides-2-74-oisypos:process:epicheein-4",
+      "source_span": "ἐπιχέας",
+      "surface_form": "ἐπιχέας",
+      "normalized_label": "ἐπιχέειν",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "2",
+        "chapter": "74",
+        "section": "1-2, 4",
+        "citation": {
+          "start": "148.20",
+          "end": "150.1"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-2-74-oisypos:process:anacheein-5",
+      "process_urn": "urn:aos:recipe-process:dioscorides-2-74-oisypos:process:anacheein-5",
+      "source_span": "ἀνάχει",
+      "surface_form": "ἀνάχει",
+      "normalized_label": "ἀναχέειν",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "manner",
+          "source_span": "ῥαγδαίως",
+          "normalized_value": "ῥαγδαίως",
+          "certainty": "certain",
+          "notes": []
+        },
+        {
+          "qualifier_type": "duration",
+          "source_span": "ἕως ἂν ἀφρίσῃ",
+          "normalized_value": "ἕως ἂν ἀφρίσῃ",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "certainty": "certain",
+      "notes": [
+        "Alternative with ἀναταράσσειν follows."
+      ],
+      "host_locator": {
+        "book": "2",
+        "chapter": "74",
+        "section": "1-2, 4",
+        "citation": {
+          "start": "148.20",
+          "end": "150.1"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-2-74-oisypos:process:anatarassein-6",
+      "process_urn": "urn:aos:recipe-process:dioscorides-2-74-oisypos:process:anatarassein-6",
+      "source_span": "ἀνατάρασσε",
+      "surface_form": "ἀνατάρασσε",
+      "normalized_label": "ἀναταράσσειν",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "manner",
+          "source_span": "εὐτόνως",
+          "normalized_value": "εὐτόνως",
+          "certainty": "certain",
+          "notes": []
+        },
+        {
+          "qualifier_type": "duration",
+          "source_span": "μέχρις ἂν ὁ πολὺς ἀφρὸς καὶ λιπαρὸς συλλεγῇ",
+          "normalized_value": "μέχρις ἂν ὁ πολὺς ἀφρὸς καὶ λιπαρὸς συλλεγῇ",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "certainty": "certain",
+      "notes": [
+        "Alternative to ἀνάχει."
+      ],
+      "host_locator": {
+        "book": "2",
+        "chapter": "74",
+        "section": "1-2, 4",
+        "citation": {
+          "start": "148.20",
+          "end": "150.1"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-2-74-oisypos:process:katarrainein-7",
+      "process_urn": "urn:aos:recipe-process:dioscorides-2-74-oisypos:process:katarrainein-7",
+      "source_span": "κατάρραινε",
+      "surface_form": "κατάρραινε",
+      "normalized_label": "καταρραίνειν",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [],
+      "certainty": "certain",
+      "notes": [
+        "Repeated in the foaming cycle."
+      ],
+      "host_locator": {
+        "book": "2",
+        "chapter": "74",
+        "section": "1-2, 4",
+        "citation": {
+          "start": "148.20",
+          "end": "150.1"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-2-74-oisypos:process:analambanein-8",
+      "process_urn": "urn:aos:recipe-process:dioscorides-2-74-oisypos:process:analambanein-8",
+      "source_span": "ἀναλάμβανε",
+      "surface_form": "ἀναλάμβανε",
+      "normalized_label": "ἀναλαμβάνειν",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "location",
+          "source_span": "εἰς ἕτερον κεραμεοῦν ἀγγεῖον",
+          "normalized_value": "εἰς ἕτερον κεραμεοῦν ἀγγεῖον",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "certainty": "certain",
+      "notes": [
+        "Repeated in the foaming cycle."
+      ],
+      "host_locator": {
+        "book": "2",
+        "chapter": "74",
+        "section": "1-2, 4",
+        "citation": {
+          "start": "148.20",
+          "end": "150.1"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-2-74-oisypos:process:tarassein-9",
+      "process_urn": "urn:aos:recipe-process:dioscorides-2-74-oisypos:process:tarassein-9",
+      "source_span": "τάρασσε",
+      "surface_form": "τάρασσε",
+      "normalized_label": "ταράσσειν",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "other",
+          "source_span": "πάλιν",
+          "normalized_value": "πάλιν",
+          "certainty": "certain",
+          "notes": []
+        },
+        {
+          "qualifier_type": "duration",
+          "source_span": "ἄχρι ἂν μηκέτι ἀφρὸς ἐφιιστῆται",
+          "normalized_value": "ἄχρι ἂν μηκέτι ἀφρὸς ἐφιιστῆται",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "certainty": "certain",
+      "notes": [
+        "Part of the repeated wash-and-skim cycle."
+      ],
+      "host_locator": {
+        "book": "2",
+        "chapter": "74",
+        "section": "1-2, 4",
+        "citation": {
+          "start": "148.20",
+          "end": "150.1"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-2-74-oisypos:process:malassein-10",
+      "process_urn": "urn:aos:recipe-process:dioscorides-2-74-oisypos:process:malassein-10",
+      "source_span": "μαλάξας",
+      "surface_form": "μαλάξας",
+      "normalized_label": "μαλάσσειν",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "manner",
+          "source_span": "τῇ χειρὶ",
+          "normalized_value": "τῇ χειρί",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "2",
+        "chapter": "74",
+        "section": "1-2, 4",
+        "citation": {
+          "start": "148.20",
+          "end": "150.1"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-2-74-oisypos:process:anairein-11",
+      "process_urn": "urn:aos:recipe-process:dioscorides-2-74-oisypos:process:anairein-11",
+      "source_span": "ἀναιροῦ",
+      "surface_form": "ἀναιροῦ",
+      "normalized_label": "ἀναιρεῖν",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "duration",
+          "source_span": "παραχρῆμα",
+          "normalized_value": "παραχρῆμα",
+          "certainty": "certain",
+          "notes": []
+        },
+        {
+          "qualifier_type": "other",
+          "source_span": "εἴ τινα ἔχει ἀκαθαρσίαν",
+          "normalized_value": "εἴ τινα ἔχει ἀκαθαρσίαν",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "2",
+        "chapter": "74",
+        "section": "1-2, 4",
+        "citation": {
+          "start": "148.20",
+          "end": "150.1"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-2-74-oisypos:process:straggizein-12",
+      "process_urn": "urn:aos:recipe-process:dioscorides-2-74-oisypos:process:straggizein-12",
+      "source_span": "στραγγίζων",
+      "surface_form": "στραγγίζων",
+      "normalized_label": "στραγγίζειν",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [],
+      "certainty": "certain",
+      "notes": [
+        "Object: τὸ πρῶτον ὕδωρ."
+      ],
+      "host_locator": {
+        "book": "2",
+        "chapter": "74",
+        "section": "1-2, 4",
+        "citation": {
+          "start": "148.20",
+          "end": "150.1"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-2-74-oisypos:process:epicheein-13",
+      "process_urn": "urn:aos:recipe-process:dioscorides-2-74-oisypos:process:epicheein-13",
+      "source_span": "ἐπιχέων",
+      "surface_form": "ἐπιχέων",
+      "normalized_label": "ἐπιχέειν",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [],
+      "certainty": "certain",
+      "notes": [
+        "Object: ἄλλο [ὕδωρ]."
+      ],
+      "host_locator": {
+        "book": "2",
+        "chapter": "74",
+        "section": "1-2, 4",
+        "citation": {
+          "start": "148.20",
+          "end": "150.1"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-2-74-oisypos:process:kinein-14",
+      "process_urn": "urn:aos:recipe-process:dioscorides-2-74-oisypos:process:kinein-14",
+      "source_span": "κινῶν",
+      "surface_form": "κινῶν",
+      "normalized_label": "κινεῖν",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "manner",
+          "source_span": "τῇ χειρί",
+          "normalized_value": "τῇ χειρί",
+          "certainty": "certain",
+          "notes": []
+        },
+        {
+          "qualifier_type": "other",
+          "source_span": "ἄχρι ἂν οὗ καθαρὸς καὶ λευκὸς φανῇ",
+          "normalized_value": "ἄχρι ἂν οὗ καθαρὸς καὶ λευκὸς φανῇ",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "2",
+        "chapter": "74",
+        "section": "1-2, 4",
+        "citation": {
+          "start": "148.20",
+          "end": "150.1"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-2-74-oisypos:process:apotithesthai-15",
+      "process_urn": "urn:aos:recipe-process:dioscorides-2-74-oisypos:process:apotithesthai-15",
+      "source_span": "ἀποτίθεσο",
+      "surface_form": "ἀποτίθεσο",
+      "normalized_label": "ἀποτίθεσθαι",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "location",
+          "source_span": "ἐν ἀγγείῳ κεραμεῷ",
+          "normalized_value": "ἐν ἀγγείῳ κεραμεῷ",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "2",
+        "chapter": "74",
+        "section": "1-2, 4",
+        "citation": {
+          "start": "148.20",
+          "end": "150.1"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-2-74-oisypos:process:diethein-16",
+      "process_urn": "urn:aos:recipe-process:dioscorides-2-74-oisypos:process:diethein-16",
+      "source_span": "διηθήσαντες",
+      "surface_form": "διηθήσαντες",
+      "normalized_label": "διηθεῖν",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [],
+      "certainty": "certain",
+      "notes": [
+        "Alternative variant."
+      ],
+      "host_locator": {
+        "book": "2",
+        "chapter": "74",
+        "section": "1-2, 4",
+        "citation": {
+          "start": "148.20",
+          "end": "150.1"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-2-74-oisypos:process:plynein-17",
+      "process_urn": "urn:aos:recipe-process:dioscorides-2-74-oisypos:process:plynein-17",
+      "source_span": "πλύνουσιν",
+      "surface_form": "πλύνουσιν",
+      "normalized_label": "πλύνειν",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "temperature",
+          "source_span": "ψυχρῷ",
+          "normalized_value": "ψυχρός",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "certainty": "certain",
+      "notes": [
+        "Alternative variant."
+      ],
+      "host_locator": {
+        "book": "2",
+        "chapter": "74",
+        "section": "1-2, 4",
+        "citation": {
+          "start": "148.20",
+          "end": "150.1"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-2-74-oisypos:process:anatribein-18",
+      "process_urn": "urn:aos:recipe-process:dioscorides-2-74-oisypos:process:anatribein-18",
+      "source_span": "ἀνατρίβοντες",
+      "surface_form": "ἀνατρίβοντες",
+      "normalized_label": "ἀνατρίβειν",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "manner",
+          "source_span": "ταῖς χερσὶν",
+          "normalized_value": "ταῖς χερσίν",
+          "certainty": "certain",
+          "notes": []
+        },
+        {
+          "qualifier_type": "other",
+          "source_span": "ὡς τὴν κηρωτὴν αἱ γυναῖκες",
+          "normalized_value": "ὡς τὴν κηρωτὴν αἱ γυναῖκες",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "certainty": "certain",
+      "notes": [
+        "Alternative variant."
+      ],
+      "host_locator": {
+        "book": "2",
+        "chapter": "74",
+        "section": "1-2, 4",
+        "citation": {
+          "start": "148.20",
+          "end": "150.1"
+        }
+      }
+    }
+  ],
+  "materials": [
+    {
+      "material_id": "dioscorides-2-74-oisypos:material:krater-platystomos-1",
+      "material_urn": "urn:aos:recipe-material:dioscorides-2-74-oisypos:material:krater-platystomos-1",
+      "source_span": "κρατῆρα πλατύστομον",
+      "surface_form": "κρατῆρα πλατύστομον",
+      "normalized_label": "κρατὴρ πλατύστομος",
+      "role": "apparatus",
+      "certainty": "certain",
+      "quantities": [],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "2",
+        "chapter": "74",
+        "section": "1-2, 4",
+        "citation": {
+          "start": "148.20",
+          "end": "150.1"
+        }
+      }
+    },
+    {
+      "material_id": "dioscorides-2-74-oisypos:material:aryter-2",
+      "material_urn": "urn:aos:recipe-material:dioscorides-2-74-oisypos:material:aryter-2",
+      "source_span": "ἀρυτῆρι",
+      "surface_form": "ἀρυτῆρι",
+      "normalized_label": "ἀρυτήρ",
+      "role": "tool",
+      "certainty": "certain",
+      "quantities": [],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "2",
+        "chapter": "74",
+        "section": "1-2, 4",
+        "citation": {
+          "start": "148.20",
+          "end": "150.1"
+        }
+      }
+    },
+    {
+      "material_id": "dioscorides-2-74-oisypos:material:xylon-3",
+      "material_urn": "urn:aos:recipe-material:dioscorides-2-74-oisypos:material:xylon-3",
+      "source_span": "ξύλῳ",
+      "surface_form": "ξύλῳ",
+      "normalized_label": "ξύλον",
+      "role": "tool",
+      "certainty": "certain",
+      "quantities": [],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "2",
+        "chapter": "74",
+        "section": "1-2, 4",
+        "citation": {
+          "start": "148.20",
+          "end": "150.1"
+        }
+      }
+    },
+    {
+      "material_id": "dioscorides-2-74-oisypos:material:aggeion-kerameoyn-4",
+      "material_urn": "urn:aos:recipe-material:dioscorides-2-74-oisypos:material:aggeion-kerameoyn-4",
+      "source_span": "ἕτερον κεραμεοῦν ἀγγεῖον",
+      "surface_form": "ἕτερον κεραμεοῦν ἀγγεῖον",
+      "normalized_label": "ἀγγεῖον κεραμεοῦν",
+      "role": "apparatus",
+      "certainty": "certain",
+      "quantities": [],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "2",
+        "chapter": "74",
+        "section": "1-2, 4",
+        "citation": {
+          "start": "148.20",
+          "end": "150.1"
+        }
+      }
+    },
+    {
+      "material_id": "dioscorides-2-74-oisypos:material:aggeion-kerameon-5",
+      "material_urn": "urn:aos:recipe-material:dioscorides-2-74-oisypos:material:aggeion-kerameon-5",
+      "source_span": "ἀγγείῳ κεραμεῷ",
+      "surface_form": "ἀγγείῳ κεραμεῷ",
+      "normalized_label": "ἀγγεῖον κεραμεόν",
+      "role": "apparatus",
+      "certainty": "certain",
+      "quantities": [],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "2",
+        "chapter": "74",
+        "section": "1-2, 4",
+        "citation": {
+          "start": "148.20",
+          "end": "150.1"
+        }
+      }
+    }
+  ],
+  "people": [
+    {
+      "person_id": "dioscorides-2-74-oisypos:person:gynaikes-1",
+      "person_urn": "urn:aos:recipe-person:dioscorides-2-74-oisypos:person:gynaikes-1",
+      "source_span": "αἱ γυναῖκες",
+      "surface_form": "αἱ γυναῖκες",
+      "normalized_label": "γυναῖκες",
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "2",
+        "chapter": "74",
+        "section": "1-2, 4",
+        "citation": {
+          "start": "148.20",
+          "end": "150.1"
+        }
+      }
+    }
+  ],
+  "places": [],
+  "uses": [
+    {
+      "use_id": "dioscorides-2-74-oisypos:use:thermantiken-plerotiken-elkon-malaktiken-1",
+      "use_urn": "urn:aos:recipe-use:dioscorides-2-74-oisypos:use:thermantiken-plerotiken-elkon-malaktiken-1",
+      "category": "medical",
+      "source_span": "θερμαντικήν, πληρωτικὴν ἑλκῶν, μαλακτικήν",
+      "snippet": "θερμαντικήν, πληρωτικὴν ἑλκῶν, μαλακτικήν",
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "2",
+        "chapter": "74",
+        "section": "1-2, 4",
+        "citation": {
+          "start": "148.20",
+          "end": "150.1"
+        }
+      }
+    },
+    {
+      "use_id": "dioscorides-2-74-oisypos:use:kai-malista-ton-peri-daktylion-kai-ysteran-syn-meliloto-kai-boytyro-2",
+      "use_urn": "urn:aos:recipe-use:dioscorides-2-74-oisypos:use:kai-malista-ton-peri-daktylion-kai-ysteran-syn-meliloto-kai-boytyro-2",
+      "category": "medical",
+      "source_span": "καὶ μάλιστα τῶν περὶ δακτύλιον καὶ ὑστέραν σὺν μελιλώτῳ καὶ βουτύρῳ",
+      "snippet": "καὶ μάλιστα τῶν περὶ δακτύλιον καὶ ὑστέραν σὺν μελιλώτῳ καὶ βουτύρῳ",
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "2",
+        "chapter": "74",
+        "section": "1-2, 4",
+        "citation": {
+          "start": "148.20",
+          "end": "150.1"
+        }
+      }
+    },
+    {
+      "use_id": "dioscorides-2-74-oisypos:use:kai-emmena-kai-embrya-en-erio-prostithemenos-agei-3",
+      "use_urn": "urn:aos:recipe-use:dioscorides-2-74-oisypos:use:kai-emmena-kai-embrya-en-erio-prostithemenos-agei-3",
+      "category": "medical",
+      "source_span": "καὶ ἔμμηνα καὶ ἔμβρυα ἐν ἐρίῳ προστιθέμενος ἄγει",
+      "snippet": "καὶ ἔμμηνα καὶ ἔμβρυα ἐν ἐρίῳ προστιθέμενος ἄγει",
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "2",
+        "chapter": "74",
+        "section": "1-2, 4",
+        "citation": {
+          "start": "148.20",
+          "end": "150.1"
+        }
+      }
+    },
+    {
+      "use_id": "dioscorides-2-74-oisypos:use:pros-te-ta-en-osi-kai-aidoio-syn-cheneio-steati-4",
+      "use_urn": "urn:aos:recipe-use:dioscorides-2-74-oisypos:use:pros-te-ta-en-osi-kai-aidoio-syn-cheneio-steati-4",
+      "category": "medical",
+      "source_span": "πρός τε τὰ ἐν ὠσὶ καὶ αἰδοίῳ σὺν χηνείῳ στέατι",
+      "snippet": "πρός τε τὰ ἐν ὠσὶ καὶ αἰδοίῳ σὺν χηνείῳ στέατι",
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "2",
+        "chapter": "74",
+        "section": "1-2, 4",
+        "citation": {
+          "start": "148.20",
+          "end": "150.1"
+        }
+      }
+    },
+    {
+      "use_id": "dioscorides-2-74-oisypos:use:poiei-de-kai-pros-peribebromenoys-kanthoys-kai-psorodeis-kai-blephara-tetylomena-kai-trichorrooynta-5",
+      "use_urn": "urn:aos:recipe-use:dioscorides-2-74-oisypos:use:poiei-de-kai-pros-peribebromenoys-kanthoys-kai-psorodeis-kai-blephara-tetylomena-kai-trichorrooynta-5",
+      "category": "medical",
+      "source_span": "ποιεῖ δὲ καὶ πρὸς περιβεβρωμένους κανθούς καὶ ψωρώδεις καὶ βλέφαρα τετυλωμένα καὶ τριχορροοῦντα",
+      "snippet": "ποιεῖ δὲ καὶ πρὸς περιβεβρωμένους κανθούς καὶ ψωρώδεις καὶ βλέφαρα τετυλωμένα καὶ τριχορροοῦντα",
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "2",
+        "chapter": "74",
+        "section": "1-2, 4",
+        "citation": {
+          "start": "148.20",
+          "end": "150.1"
+        }
+      }
+    }
+  ],
+  "preparation_names": [],
+  "other_preparations_mentioned": [
+    {
+      "reference_id": "dioscorides-2-74-oisypos:reference:kerote-1",
+      "reference_urn": "urn:aos:recipe-reference:dioscorides-2-74-oisypos:reference:kerote-1",
+      "source_span": "τὴν κηρωτὴν",
+      "surface_form": "τὴν κηρωτὴν",
+      "normalized_label": "κηρωτή",
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "2",
+        "chapter": "74",
+        "section": "1-2, 4",
+        "citation": {
+          "start": "148.20",
+          "end": "150.1"
+        }
+      }
+    }
+  ],
+  "works_mentioned": [],
+  "entities": [
+    {
+      "entity_urn": "urn:aos:recipe-preparation:dioscorides-2-74-oisypos:preparation:oisypos",
+      "entity_type": "label",
+      "surface_form": "οἴσυπος",
+      "normalized_label": "οἴσυπος"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:dioscorides-2-74-oisypos:ingredient:eria-malaka-oisypera-1",
+      "entity_type": "ingredient",
+      "surface_form": "ἔρια μαλακὰ οἰσυπηρὰ",
+      "normalized_label": "ἔρια μαλακὰ οἰσυπηρά"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:dioscorides-2-74-oisypos:ingredient:ydor-thermon-2",
+      "entity_type": "ingredient",
+      "surface_form": "θερμῷ ὕδατι",
+      "normalized_label": "ὕδωρ θερμόν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:dioscorides-2-74-oisypos:ingredient:ydor-3",
+      "entity_type": "ingredient",
+      "surface_form": "ὕδωρ",
+      "normalized_label": "ὕδωρ"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:dioscorides-2-74-oisypos:ingredient:thalassion-ydor-4",
+      "entity_type": "ingredient",
+      "surface_form": "θαλάσσῃ",
+      "normalized_label": "θαλάσσιον ὕδωρ"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:dioscorides-2-74-oisypos:ingredient:ydor-psychron-5",
+      "entity_type": "ingredient",
+      "surface_form": "ὕδατι ψυχρῷ",
+      "normalized_label": "ὕδωρ ψυχρόν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-2-74-oisypos:process:ekplynein-1",
+      "entity_type": "process",
+      "surface_form": "ἔκπλυνον",
+      "normalized_label": "ἐκπλύνειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-2-74-oisypos:process:ekthlibein-2",
+      "entity_type": "process",
+      "surface_form": "ἐκθλίβων",
+      "normalized_label": "ἐκθλίβειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-2-74-oisypos:process:ballein-3",
+      "entity_type": "process",
+      "surface_form": "βαλὼν",
+      "normalized_label": "βάλλειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-2-74-oisypos:process:epicheein-4",
+      "entity_type": "process",
+      "surface_form": "ἐπιχέας",
+      "normalized_label": "ἐπιχέειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-2-74-oisypos:process:anacheein-5",
+      "entity_type": "process",
+      "surface_form": "ἀνάχει",
+      "normalized_label": "ἀναχέειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-2-74-oisypos:process:anatarassein-6",
+      "entity_type": "process",
+      "surface_form": "ἀνατάρασσε",
+      "normalized_label": "ἀναταράσσειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-2-74-oisypos:process:katarrainein-7",
+      "entity_type": "process",
+      "surface_form": "κατάρραινε",
+      "normalized_label": "καταρραίνειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-2-74-oisypos:process:analambanein-8",
+      "entity_type": "process",
+      "surface_form": "ἀναλάμβανε",
+      "normalized_label": "ἀναλαμβάνειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-2-74-oisypos:process:tarassein-9",
+      "entity_type": "process",
+      "surface_form": "τάρασσε",
+      "normalized_label": "ταράσσειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-2-74-oisypos:process:malassein-10",
+      "entity_type": "process",
+      "surface_form": "μαλάξας",
+      "normalized_label": "μαλάσσειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-2-74-oisypos:process:anairein-11",
+      "entity_type": "process",
+      "surface_form": "ἀναιροῦ",
+      "normalized_label": "ἀναιρεῖν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-2-74-oisypos:process:straggizein-12",
+      "entity_type": "process",
+      "surface_form": "στραγγίζων",
+      "normalized_label": "στραγγίζειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-2-74-oisypos:process:epicheein-13",
+      "entity_type": "process",
+      "surface_form": "ἐπιχέων",
+      "normalized_label": "ἐπιχέειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-2-74-oisypos:process:kinein-14",
+      "entity_type": "process",
+      "surface_form": "κινῶν",
+      "normalized_label": "κινεῖν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-2-74-oisypos:process:apotithesthai-15",
+      "entity_type": "process",
+      "surface_form": "ἀποτίθεσο",
+      "normalized_label": "ἀποτίθεσθαι"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-2-74-oisypos:process:diethein-16",
+      "entity_type": "process",
+      "surface_form": "διηθήσαντες",
+      "normalized_label": "διηθεῖν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-2-74-oisypos:process:plynein-17",
+      "entity_type": "process",
+      "surface_form": "πλύνουσιν",
+      "normalized_label": "πλύνειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-2-74-oisypos:process:anatribein-18",
+      "entity_type": "process",
+      "surface_form": "ἀνατρίβοντες",
+      "normalized_label": "ἀνατρίβειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-material:dioscorides-2-74-oisypos:material:krater-platystomos-1",
+      "entity_type": "material",
+      "surface_form": "κρατῆρα πλατύστομον",
+      "normalized_label": "κρατὴρ πλατύστομος"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-material:dioscorides-2-74-oisypos:material:aryter-2",
+      "entity_type": "material",
+      "surface_form": "ἀρυτῆρι",
+      "normalized_label": "ἀρυτήρ"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-material:dioscorides-2-74-oisypos:material:xylon-3",
+      "entity_type": "material",
+      "surface_form": "ξύλῳ",
+      "normalized_label": "ξύλον"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-material:dioscorides-2-74-oisypos:material:aggeion-kerameoyn-4",
+      "entity_type": "material",
+      "surface_form": "ἕτερον κεραμεοῦν ἀγγεῖον",
+      "normalized_label": "ἀγγεῖον κεραμεοῦν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-material:dioscorides-2-74-oisypos:material:aggeion-kerameon-5",
+      "entity_type": "material",
+      "surface_form": "ἀγγείῳ κεραμεῷ",
+      "normalized_label": "ἀγγεῖον κεραμεόν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-person:dioscorides-2-74-oisypos:person:gynaikes-1",
+      "entity_type": "person",
+      "surface_form": "αἱ γυναῖκες",
+      "normalized_label": "γυναῖκες"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-reference:dioscorides-2-74-oisypos:reference:kerote-1",
+      "entity_type": "preparation_reference",
+      "surface_form": "τὴν κηρωτὴν",
+      "normalized_label": "κηρωτή"
+    }
+  ]
+}

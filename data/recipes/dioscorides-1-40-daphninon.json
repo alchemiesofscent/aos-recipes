@@ -1,0 +1,1131 @@
+{
+  "dataset_key": "dioscorides_book1_perfumes_resins",
+  "source_json": "experiments/dioscorides-book1-perfumes-resins/data/dioscorides_book1_perfumes_resins.json",
+  "host_raw_file": "tei/raw/tlg0656.tlg001.1st1K-grc1.xml",
+  "work_slug": "diosc.b1.recipes",
+  "recipe_id": "dioscorides-1-40-daphninon",
+  "recipe_urn": "urn:aos:recipe:dioscorides-1-40-daphninon",
+  "record_urn": "urn:aos:recipe-record:dioscorides-1-40-daphninon",
+  "author": "Dioscorides",
+  "work": "De materia medica",
+  "book": "1",
+  "chapter": "40",
+  "section": null,
+  "chapter_name": "δάφνινον",
+  "lemma": "δάφνινον",
+  "text": "40 τὸ δὲ δάφνινον σκευάζεται διὰ τῶν δαφνίδων, ὅταν ὦσι δρυπεπεῖς, ἑψομένων μεθ᾿ ὕδατος· ἐκ γὰρ τοῦ περικειμένου λέπους ἀνίησι λιπαρίαν τινά, ἣν διακόψαντες χερσὶν εἰς μύακα ἀναλαμβάνουσιν, ἔνιοι δὲ ὀμφάκινον ἔλαιον προστύψαντες κυπέρῳ καὶ σχοίνῳ καὶ καλάμῳ καὶ μετὰ ταῦτα δάφνης φύλλα περιβαλόντες συνέψουσιν, οἱ δὲ καὶ δαφνίδας, ἕως ἂν κανὸν γένηται τῇ ὀσμῇ ἔνιοι δὲ καὶ στύρακα μίσγουσι καὶ μυρσίνην. ἀρίστη δὲ πρὸς σκευασίαν ἡ ὀρεινὴ καὶ πλατύφυυλλος δάφνη· 2 διαφέρει δὲ τοῦ δαφνίνου τὸ πρόσφατον, χλωρὸν τῇ χρόᾳ, πικρότατον, δριμύ. δύναμιν δὲ ἔχει θερμαντικήν, μαλακτικήν, ἀναστομωτικήν, κόπων λυτικήν· ἁρμόζει καὶ τοῖς περὶ τὰ νεῦρα πάθεσι πᾶσι καὶ φρίκαις καὶ ὠταλγίαις καὶ κατάρροις καὶ κεφαλαλγίαις. ἔστι δὲ καὶ ναυτιῶδες ποθέν.",
+  "original_text": null,
+  "text_source": null,
+  "emendations": [],
+  "emendation_count": 0,
+  "source_kind": "main_text",
+  "entry_kind": "recipe",
+  "citation": {
+    "pages": [
+      "40",
+      "41"
+    ],
+    "start": {
+      "page": "40",
+      "line": "10"
+    },
+    "end": {
+      "page": "41",
+      "line": "5"
+    },
+    "citation": {
+      "start": "40.10",
+      "end": "41.5"
+    },
+    "page_spans": [
+      {
+        "page": "40",
+        "start_line": "10",
+        "end_line": "20"
+      },
+      {
+        "page": "41",
+        "start_line": "1",
+        "end_line": "5"
+      }
+    ],
+    "lines": [
+      {
+        "page": "40",
+        "line": "10",
+        "break_no": false,
+        "text": "40 τὸ δὲ δάφνινον σκευάζεται διὰ τῶν δαφνίδων, ὅταν",
+        "citation": "40.10"
+      },
+      {
+        "page": "40",
+        "line": "15",
+        "break_no": false,
+        "text": "ὦσι δρυπεπεῖς, ἑψομένων μεθ᾿ ὕδατος· ἐκ γὰρ τοῦ περικειμένου λέπους ἀνίησι λιπαρίαν τινά, ἣν διακόψαντες χερσὶν εἰς μύακα ἀναλαμβάνουσιν, ἔνιοι δὲ ὀμφάκινον ἔλαιον προστύψαντες κυπέρῳ καὶ σχοίνῳ καὶ καλάμῳ καὶ μετὰ ταῦτα δάφνης φύλλα περιβαλόντες συνέψουσιν, οἱ δὲ καὶ δαφνίδας, ἕως ἂν κανὸν",
+        "citation": "40.15"
+      },
+      {
+        "page": "40",
+        "line": "20",
+        "break_no": false,
+        "text": "γένηται τῇ ὀσμῇ ἔνιοι δὲ καὶ στύρακα μίσγουσι καὶ μυρσίνην.",
+        "citation": "40.20"
+      },
+      {
+        "page": "41",
+        "line": "1",
+        "break_no": false,
+        "text": "ἀρίστη δὲ πρὸς σκευασίαν ἡ ὀρεινὴ καὶ πλατύφυυλλος δάφνη· 2 διαφέρει δὲ τοῦ δαφνίνου τὸ πρόσφατον, χλωρὸν τῇ χρόᾳ, πικρότατον, δριμύ. δύναμιν δὲ ἔχει θερμαντικήν, μαλακτικήν, ἀναστομωτικήν,",
+        "citation": "41.1"
+      },
+      {
+        "page": "41",
+        "line": "5",
+        "break_no": false,
+        "text": "κόπων λυτικήν· ἁρμόζει καὶ τοῖς περὶ τὰ νεῦρα πάθεσι πᾶσι καὶ φρίκαις καὶ ὠταλγίαις καὶ κατάρροις καὶ κεφαλαλγίαις. ἔστι δὲ καὶ ναυτιῶδες ποθέν.",
+        "citation": "41.5"
+      }
+    ],
+    "edition_key": "wellmann"
+  },
+  "notes": [
+    "Raw lines 1590-1633 are book 1 chapter 25 in this witness, although the prompt referred to chapter 35.",
+    "The perfume proemium is taken from the later transition at chapter 42 section 2 (raw lines 2306-2342), not from the chapter 25 κῦφι entry.",
+    "The ἰασμέλαιον entry is preserved only in the apparatus as an addition from another recension.",
+    "The text distinguishes fresh δαφνίνον as χλωρὸν τῇ χρόᾳ, πικρότατον, δριμύ.",
+    "The text also attributes θερμαντική, μαλακτική, and ἀναστομωτική power to the preparation.",
+    "The text says the preparation is ναυτιῶδες when drunk (ποθέν)."
+  ],
+  "alignment_status": "pending",
+  "alignment_confidence": "pending",
+  "alignment_evidence": null,
+  "review_status": "reviewed_structured_authority",
+  "review_provenance": {
+    "authority_source": "reports/entity_review/structured/dioscorides.json",
+    "authority_recipe_id": "dioscorides-1-40-daphninon",
+    "authority_lemma": "δάφνινον",
+    "model": "gpt-5.4",
+    "reasoning_effort": "high",
+    "dataset_key": "dioscorides_book1_perfumes_resins",
+    "entity_model_version": "1.2",
+    "authority_version": "2026-04-13-qty-alt-v1",
+    "prompt_version": "qty-alt-pass-v1",
+    "build_version": "2026-05-18T15:51:35Z"
+  },
+  "schema_version": "1.2",
+  "build_metadata": {
+    "builder": "scripts/recipes/build_recipe_entities.py",
+    "built_at": "2026-05-18T15:51:35Z",
+    "source_structured_authority": "reports/entity_review/structured/dioscorides.json",
+    "authority_model": "gpt-5.4",
+    "authority_reasoning_effort": "high",
+    "dataset_key": "dioscorides_book1_perfumes_resins",
+    "entity_model_version": "1.2",
+    "authority_version": "2026-04-13-qty-alt-v1",
+    "prompt_version": "qty-alt-pass-v1",
+    "build_version": "2026-05-18T15:51:35Z"
+  },
+  "recipe_text_excerpt": "τὸ δὲ δάφνινον σκευάζεται διὰ τῶν δαφνίδων, ὅταν ὦσι δρυπεπεῖς, ἑψομένων μεθ᾿ ὕδατος· ἐκ γὰρ τοῦ περικειμένου λέπους ἀνίησι λιπαρίαν",
+  "preparation": {
+    "preparation_id": "dioscorides-1-40-daphninon:preparation:daphninon",
+    "preparation_urn": "urn:aos:recipe-preparation:dioscorides-1-40-daphninon:preparation:daphninon",
+    "source_span": "δάφνινον",
+    "surface_form": "δάφνινον",
+    "normalized_label": "δάφνινον",
+    "qualifiers": [
+      {
+        "qualifier_type": "other",
+        "source_span": "τὸ πρόσφατον",
+        "normalized_value": "πρόσφατον",
+        "certainty": "certain",
+        "notes": [
+          "Characterizes the preparation in its fresh state, not as a separate named alias."
+        ]
+      }
+    ],
+    "regimen_notes": [
+      {
+        "source_span": "διὰ τῶν δαφνίδων, ὅταν ὦσι δρυπεπεῖς",
+        "normalized_note": "σκευάζεται ἐκ δαφνίδων ὅταν δρυπεπεῖς ὦσι",
+        "certainty": "certain",
+        "notes": []
+      },
+      {
+        "source_span": "ἀρίστη δὲ πρὸς σκευασίαν ἡ ὀρεινὴ καὶ πλατύφυυλλος δάφνη",
+        "normalized_note": "πρὸς σκευασίαν προκρίνεται ἡ ὀρεινὴ καὶ πλατύφυλλος δάφνη",
+        "certainty": "certain",
+        "notes": []
+      }
+    ],
+    "certainty": "certain",
+    "notes": [],
+    "host_locator": {
+      "book": "1",
+      "chapter": "40",
+      "section": null,
+      "citation": {
+        "start": "40.10",
+        "end": "41.5"
+      }
+    }
+  },
+  "ingredients": [
+    {
+      "ingredient_id": "dioscorides-1-40-daphninon:ingredient:daphnides-1",
+      "ingredient_urn": "urn:aos:recipe-ingredient:dioscorides-1-40-daphninon:ingredient:daphnides-1",
+      "source_span": "τῶν δαφνίδων",
+      "surface_form": "τῶν δαφνίδων",
+      "base_label": "δαφνίδων",
+      "normalized_label": "δαφνίδες",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [
+        "dioscorides-1-40-daphninon:process:epsein-2"
+      ],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "other",
+          "source_span": "ὅταν ὦσι δρυπεπεῖς",
+          "normalized_value": "δρυπεπεῖς",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "40",
+        "section": null,
+        "citation": {
+          "start": "40.10",
+          "end": "41.5"
+        }
+      }
+    },
+    {
+      "ingredient_id": "dioscorides-1-40-daphninon:ingredient:ydor-2",
+      "ingredient_urn": "urn:aos:recipe-ingredient:dioscorides-1-40-daphninon:ingredient:ydor-2",
+      "source_span": "ὕδατος",
+      "surface_form": "ὕδατος",
+      "base_label": "ὕδατος",
+      "normalized_label": "ὕδωρ",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [
+        "dioscorides-1-40-daphninon:process:epsein-2"
+      ],
+      "quantities": [],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "40",
+        "section": null,
+        "citation": {
+          "start": "40.10",
+          "end": "41.5"
+        }
+      }
+    },
+    {
+      "ingredient_id": "dioscorides-1-40-daphninon:ingredient:liparia-3",
+      "ingredient_urn": "urn:aos:recipe-ingredient:dioscorides-1-40-daphninon:ingredient:liparia-3",
+      "source_span": "λιπαρίαν τινά",
+      "surface_form": "λιπαρίαν τινά",
+      "base_label": "λιπαρίαν",
+      "normalized_label": "λιπαρία",
+      "alternative_set_id": null,
+      "certainty": "uncertain",
+      "linked_process_ids": [
+        "dioscorides-1-40-daphninon:process:anienai-3",
+        "dioscorides-1-40-daphninon:process:diakoptein-4",
+        "dioscorides-1-40-daphninon:process:analambanein-5"
+      ],
+      "quantities": [],
+      "qualifiers": [],
+      "notes": [
+        "Intermediate fatty exudate named only generically in the text."
+      ],
+      "host_locator": {
+        "book": "1",
+        "chapter": "40",
+        "section": null,
+        "citation": {
+          "start": "40.10",
+          "end": "41.5"
+        }
+      }
+    },
+    {
+      "ingredient_id": "dioscorides-1-40-daphninon:ingredient:elaion-omphakinon-4",
+      "ingredient_urn": "urn:aos:recipe-ingredient:dioscorides-1-40-daphninon:ingredient:elaion-omphakinon-4",
+      "source_span": "ὀμφάκινον ἔλαιον",
+      "surface_form": "ὀμφάκινον ἔλαιον",
+      "base_label": "ἔλαιον",
+      "normalized_label": "ἔλαιον ὀμφάκινον",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [
+        "dioscorides-1-40-daphninon:process:prostyptein-6",
+        "dioscorides-1-40-daphninon:process:synepsein-8"
+      ],
+      "quantities": [],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "40",
+        "section": null,
+        "citation": {
+          "start": "40.10",
+          "end": "41.5"
+        }
+      }
+    },
+    {
+      "ingredient_id": "dioscorides-1-40-daphninon:ingredient:kyperos-5",
+      "ingredient_urn": "urn:aos:recipe-ingredient:dioscorides-1-40-daphninon:ingredient:kyperos-5",
+      "source_span": "κυπέρῳ",
+      "surface_form": "κυπέρῳ",
+      "base_label": "κυπέρῳ",
+      "normalized_label": "κύπερος",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [
+        "dioscorides-1-40-daphninon:process:prostyptein-6"
+      ],
+      "quantities": [],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "40",
+        "section": null,
+        "citation": {
+          "start": "40.10",
+          "end": "41.5"
+        }
+      }
+    },
+    {
+      "ingredient_id": "dioscorides-1-40-daphninon:ingredient:schoinos-6",
+      "ingredient_urn": "urn:aos:recipe-ingredient:dioscorides-1-40-daphninon:ingredient:schoinos-6",
+      "source_span": "σχοίνῳ",
+      "surface_form": "σχοίνῳ",
+      "base_label": "σχοίνῳ",
+      "normalized_label": "σχοῖνος",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [
+        "dioscorides-1-40-daphninon:process:prostyptein-6"
+      ],
+      "quantities": [],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "40",
+        "section": null,
+        "citation": {
+          "start": "40.10",
+          "end": "41.5"
+        }
+      }
+    },
+    {
+      "ingredient_id": "dioscorides-1-40-daphninon:ingredient:kalamos-7",
+      "ingredient_urn": "urn:aos:recipe-ingredient:dioscorides-1-40-daphninon:ingredient:kalamos-7",
+      "source_span": "καλάμῳ",
+      "surface_form": "καλάμῳ",
+      "base_label": "καλάμῳ",
+      "normalized_label": "κάλαμος",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [
+        "dioscorides-1-40-daphninon:process:prostyptein-6"
+      ],
+      "quantities": [],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "40",
+        "section": null,
+        "citation": {
+          "start": "40.10",
+          "end": "41.5"
+        }
+      }
+    },
+    {
+      "ingredient_id": "dioscorides-1-40-daphninon:ingredient:phylla-daphnes-8",
+      "ingredient_urn": "urn:aos:recipe-ingredient:dioscorides-1-40-daphninon:ingredient:phylla-daphnes-8",
+      "source_span": "δάφνης φύλλα",
+      "surface_form": "δάφνης φύλλα",
+      "base_label": "φύλλα",
+      "normalized_label": "φύλλα δάφνης",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [
+        "dioscorides-1-40-daphninon:process:periballein-7",
+        "dioscorides-1-40-daphninon:process:synepsein-8"
+      ],
+      "quantities": [],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "40",
+        "section": null,
+        "citation": {
+          "start": "40.10",
+          "end": "41.5"
+        }
+      }
+    },
+    {
+      "ingredient_id": "dioscorides-1-40-daphninon:ingredient:daphnides-9",
+      "ingredient_urn": "urn:aos:recipe-ingredient:dioscorides-1-40-daphninon:ingredient:daphnides-9",
+      "source_span": "δαφνίδας",
+      "surface_form": "δαφνίδας",
+      "base_label": "δαφνίδας",
+      "normalized_label": "δαφνίδες",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [
+        "dioscorides-1-40-daphninon:process:synepsein-8"
+      ],
+      "quantities": [],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "40",
+        "section": null,
+        "citation": {
+          "start": "40.10",
+          "end": "41.5"
+        }
+      }
+    },
+    {
+      "ingredient_id": "dioscorides-1-40-daphninon:ingredient:styrax-10",
+      "ingredient_urn": "urn:aos:recipe-ingredient:dioscorides-1-40-daphninon:ingredient:styrax-10",
+      "source_span": "στύρακα",
+      "surface_form": "στύρακα",
+      "base_label": "στύρακα",
+      "normalized_label": "στύραξ",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [
+        "dioscorides-1-40-daphninon:process:misgein-9"
+      ],
+      "quantities": [],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "40",
+        "section": null,
+        "citation": {
+          "start": "40.10",
+          "end": "41.5"
+        }
+      }
+    },
+    {
+      "ingredient_id": "dioscorides-1-40-daphninon:ingredient:myrsine-11",
+      "ingredient_urn": "urn:aos:recipe-ingredient:dioscorides-1-40-daphninon:ingredient:myrsine-11",
+      "source_span": "μυρσίνην",
+      "surface_form": "μυρσίνην",
+      "base_label": "μυρσίνην",
+      "normalized_label": "μυρσίνη",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [
+        "dioscorides-1-40-daphninon:process:misgein-9"
+      ],
+      "quantities": [],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "40",
+        "section": null,
+        "citation": {
+          "start": "40.10",
+          "end": "41.5"
+        }
+      }
+    }
+  ],
+  "processes": [
+    {
+      "process_id": "dioscorides-1-40-daphninon:process:skeyazein-1",
+      "process_urn": "urn:aos:recipe-process:dioscorides-1-40-daphninon:process:skeyazein-1",
+      "source_span": "σκευάζεται",
+      "surface_form": "σκευάζεται",
+      "normalized_label": "σκευάζειν",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "40",
+        "section": null,
+        "citation": {
+          "start": "40.10",
+          "end": "41.5"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-1-40-daphninon:process:epsein-2",
+      "process_urn": "urn:aos:recipe-process:dioscorides-1-40-daphninon:process:epsein-2",
+      "source_span": "ἑψομένων",
+      "surface_form": "ἑψομένων",
+      "normalized_label": "ἕψειν",
+      "target_type": "ingredient",
+      "target_ids": [
+        "dioscorides-1-40-daphninon:ingredient:daphnides-1",
+        "dioscorides-1-40-daphninon:ingredient:daphnides-9"
+      ],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "other",
+          "source_span": "μεθ᾿ ὕδατος",
+          "normalized_value": "μετὰ ὕδατος",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "40",
+        "section": null,
+        "citation": {
+          "start": "40.10",
+          "end": "41.5"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-1-40-daphninon:process:anienai-3",
+      "process_urn": "urn:aos:recipe-process:dioscorides-1-40-daphninon:process:anienai-3",
+      "source_span": "ἀνίησι",
+      "surface_form": "ἀνίησι",
+      "normalized_label": "ἀνιέναι",
+      "target_type": "ingredient",
+      "target_ids": [
+        "dioscorides-1-40-daphninon:ingredient:liparia-3"
+      ],
+      "quantities": [],
+      "qualifiers": [],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "40",
+        "section": null,
+        "citation": {
+          "start": "40.10",
+          "end": "41.5"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-1-40-daphninon:process:diakoptein-4",
+      "process_urn": "urn:aos:recipe-process:dioscorides-1-40-daphninon:process:diakoptein-4",
+      "source_span": "διακόψαντες",
+      "surface_form": "διακόψαντες",
+      "normalized_label": "διακόπτειν",
+      "target_type": "ingredient",
+      "target_ids": [
+        "dioscorides-1-40-daphninon:ingredient:liparia-3"
+      ],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "manner",
+          "source_span": "χερσὶν",
+          "normalized_value": "χερσίν",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "40",
+        "section": null,
+        "citation": {
+          "start": "40.10",
+          "end": "41.5"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-1-40-daphninon:process:analambanein-5",
+      "process_urn": "urn:aos:recipe-process:dioscorides-1-40-daphninon:process:analambanein-5",
+      "source_span": "ἀναλαμβάνουσιν",
+      "surface_form": "ἀναλαμβάνουσιν",
+      "normalized_label": "ἀναλαμβάνειν",
+      "target_type": "ingredient",
+      "target_ids": [
+        "dioscorides-1-40-daphninon:ingredient:liparia-3"
+      ],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "location",
+          "source_span": "εἰς μύακα",
+          "normalized_value": "εἰς μύακα",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "40",
+        "section": null,
+        "citation": {
+          "start": "40.10",
+          "end": "41.5"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-1-40-daphninon:process:prostyptein-6",
+      "process_urn": "urn:aos:recipe-process:dioscorides-1-40-daphninon:process:prostyptein-6",
+      "source_span": "προστύψαντες",
+      "surface_form": "προστύψαντες",
+      "normalized_label": "προστύπτειν",
+      "target_type": "ingredient",
+      "target_ids": [
+        "dioscorides-1-40-daphninon:ingredient:elaion-omphakinon-4"
+      ],
+      "quantities": [],
+      "qualifiers": [],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "40",
+        "section": null,
+        "citation": {
+          "start": "40.10",
+          "end": "41.5"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-1-40-daphninon:process:periballein-7",
+      "process_urn": "urn:aos:recipe-process:dioscorides-1-40-daphninon:process:periballein-7",
+      "source_span": "περιβαλόντες",
+      "surface_form": "περιβαλόντες",
+      "normalized_label": "περιβάλλειν",
+      "target_type": "ingredient",
+      "target_ids": [
+        "dioscorides-1-40-daphninon:ingredient:phylla-daphnes-8"
+      ],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "other",
+          "source_span": "μετὰ ταῦτα",
+          "normalized_value": "μετὰ ταῦτα",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "40",
+        "section": null,
+        "citation": {
+          "start": "40.10",
+          "end": "41.5"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-1-40-daphninon:process:synepsein-8",
+      "process_urn": "urn:aos:recipe-process:dioscorides-1-40-daphninon:process:synepsein-8",
+      "source_span": "συνέψουσιν",
+      "surface_form": "συνέψουσιν",
+      "normalized_label": "συνέψειν",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "duration",
+          "source_span": "ἕως ἂν κανὸν γένηται τῇ ὀσμῇ",
+          "normalized_value": "ἕως ἂν κανὸν γένηται τῇ ὀσμῇ",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "40",
+        "section": null,
+        "citation": {
+          "start": "40.10",
+          "end": "41.5"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-1-40-daphninon:process:misgein-9",
+      "process_urn": "urn:aos:recipe-process:dioscorides-1-40-daphninon:process:misgein-9",
+      "source_span": "μίσγουσι",
+      "surface_form": "μίσγουσι",
+      "normalized_label": "μίσγειν",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "40",
+        "section": null,
+        "citation": {
+          "start": "40.10",
+          "end": "41.5"
+        }
+      }
+    }
+  ],
+  "materials": [
+    {
+      "material_id": "dioscorides-1-40-daphninon:material:cheir-1",
+      "material_urn": "urn:aos:recipe-material:dioscorides-1-40-daphninon:material:cheir-1",
+      "source_span": "χερσὶν",
+      "surface_form": "χερσὶν",
+      "normalized_label": "χείρ",
+      "role": "tool",
+      "certainty": "uncertain",
+      "quantities": [],
+      "qualifiers": [],
+      "notes": [
+        "Body part used instrumentally."
+      ],
+      "host_locator": {
+        "book": "1",
+        "chapter": "40",
+        "section": null,
+        "citation": {
+          "start": "40.10",
+          "end": "41.5"
+        }
+      }
+    },
+    {
+      "material_id": "dioscorides-1-40-daphninon:material:myaka-2",
+      "material_urn": "urn:aos:recipe-material:dioscorides-1-40-daphninon:material:myaka-2",
+      "source_span": "μύακα",
+      "surface_form": "μύακα",
+      "normalized_label": "μύακα",
+      "role": "uncertain_material",
+      "certainty": "uncertain",
+      "quantities": [],
+      "qualifiers": [],
+      "notes": [
+        "Receiving container or implement is named only by the Greek term."
+      ],
+      "host_locator": {
+        "book": "1",
+        "chapter": "40",
+        "section": null,
+        "citation": {
+          "start": "40.10",
+          "end": "41.5"
+        }
+      }
+    }
+  ],
+  "people": [],
+  "places": [],
+  "uses": [
+    {
+      "use_id": "dioscorides-1-40-daphninon:use:kopon-lytiken-1",
+      "use_urn": "urn:aos:recipe-use:dioscorides-1-40-daphninon:use:kopon-lytiken-1",
+      "category": "medical",
+      "source_span": "κόπων λυτικήν",
+      "snippet": "κόπων λυτικήν",
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "40",
+        "section": null,
+        "citation": {
+          "start": "40.10",
+          "end": "41.5"
+        }
+      }
+    },
+    {
+      "use_id": "dioscorides-1-40-daphninon:use:armozei-kai-tois-peri-ta-neyra-pathesi-pasi-kai-phrikais-kai-otalgiais-kai-katarrois-kai-kephalalgiais-2",
+      "use_urn": "urn:aos:recipe-use:dioscorides-1-40-daphninon:use:armozei-kai-tois-peri-ta-neyra-pathesi-pasi-kai-phrikais-kai-otalgiais-kai-katarrois-kai-kephalalgiais-2",
+      "category": "medical",
+      "source_span": "ἁρμόζει καὶ τοῖς περὶ τὰ νεῦρα πάθεσι πᾶσι καὶ φρίκαις καὶ ὠταλγίαις καὶ κατάρροις καὶ κεφαλαλγίαις",
+      "snippet": "ἁρμόζει καὶ τοῖς περὶ τὰ νεῦρα πάθεσι πᾶσι καὶ φρίκαις καὶ ὠταλγίαις καὶ κατάρροις καὶ κεφαλαλγίαις",
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "40",
+        "section": null,
+        "citation": {
+          "start": "40.10",
+          "end": "41.5"
+        }
+      }
+    }
+  ],
+  "preparation_names": [],
+  "other_preparations_mentioned": [
+    {
+      "reference_id": "dioscorides-1-40-daphninon:reference:omphakinon-elaion-1",
+      "reference_urn": "urn:aos:recipe-reference:dioscorides-1-40-daphninon:reference:omphakinon-elaion-1",
+      "source_span": "ὀμφάκινον ἔλαιον",
+      "surface_form": "ὀμφάκινον ἔλαιον",
+      "normalized_label": "ὀμφάκινον ἔλαιον",
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "40",
+        "section": null,
+        "citation": {
+          "start": "40.10",
+          "end": "41.5"
+        }
+      }
+    }
+  ],
+  "works_mentioned": [],
+  "entities": [
+    {
+      "entity_urn": "urn:aos:recipe-preparation:dioscorides-1-40-daphninon:preparation:daphninon",
+      "entity_type": "label",
+      "surface_form": "δάφνινον",
+      "normalized_label": "δάφνινον"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:dioscorides-1-40-daphninon:ingredient:daphnides-1",
+      "entity_type": "ingredient",
+      "surface_form": "τῶν δαφνίδων",
+      "normalized_label": "δαφνίδες"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:dioscorides-1-40-daphninon:ingredient:ydor-2",
+      "entity_type": "ingredient",
+      "surface_form": "ὕδατος",
+      "normalized_label": "ὕδωρ"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:dioscorides-1-40-daphninon:ingredient:liparia-3",
+      "entity_type": "ingredient",
+      "surface_form": "λιπαρίαν τινά",
+      "normalized_label": "λιπαρία"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:dioscorides-1-40-daphninon:ingredient:elaion-omphakinon-4",
+      "entity_type": "ingredient",
+      "surface_form": "ὀμφάκινον ἔλαιον",
+      "normalized_label": "ἔλαιον ὀμφάκινον"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:dioscorides-1-40-daphninon:ingredient:kyperos-5",
+      "entity_type": "ingredient",
+      "surface_form": "κυπέρῳ",
+      "normalized_label": "κύπερος"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:dioscorides-1-40-daphninon:ingredient:schoinos-6",
+      "entity_type": "ingredient",
+      "surface_form": "σχοίνῳ",
+      "normalized_label": "σχοῖνος"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:dioscorides-1-40-daphninon:ingredient:kalamos-7",
+      "entity_type": "ingredient",
+      "surface_form": "καλάμῳ",
+      "normalized_label": "κάλαμος"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:dioscorides-1-40-daphninon:ingredient:phylla-daphnes-8",
+      "entity_type": "ingredient",
+      "surface_form": "δάφνης φύλλα",
+      "normalized_label": "φύλλα δάφνης"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:dioscorides-1-40-daphninon:ingredient:daphnides-9",
+      "entity_type": "ingredient",
+      "surface_form": "δαφνίδας",
+      "normalized_label": "δαφνίδες"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:dioscorides-1-40-daphninon:ingredient:styrax-10",
+      "entity_type": "ingredient",
+      "surface_form": "στύρακα",
+      "normalized_label": "στύραξ"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:dioscorides-1-40-daphninon:ingredient:myrsine-11",
+      "entity_type": "ingredient",
+      "surface_form": "μυρσίνην",
+      "normalized_label": "μυρσίνη"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-1-40-daphninon:process:skeyazein-1",
+      "entity_type": "process",
+      "surface_form": "σκευάζεται",
+      "normalized_label": "σκευάζειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-1-40-daphninon:process:epsein-2",
+      "entity_type": "process",
+      "surface_form": "ἑψομένων",
+      "normalized_label": "ἕψειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-1-40-daphninon:process:anienai-3",
+      "entity_type": "process",
+      "surface_form": "ἀνίησι",
+      "normalized_label": "ἀνιέναι"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-1-40-daphninon:process:diakoptein-4",
+      "entity_type": "process",
+      "surface_form": "διακόψαντες",
+      "normalized_label": "διακόπτειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-1-40-daphninon:process:analambanein-5",
+      "entity_type": "process",
+      "surface_form": "ἀναλαμβάνουσιν",
+      "normalized_label": "ἀναλαμβάνειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-1-40-daphninon:process:prostyptein-6",
+      "entity_type": "process",
+      "surface_form": "προστύψαντες",
+      "normalized_label": "προστύπτειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-1-40-daphninon:process:periballein-7",
+      "entity_type": "process",
+      "surface_form": "περιβαλόντες",
+      "normalized_label": "περιβάλλειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-1-40-daphninon:process:synepsein-8",
+      "entity_type": "process",
+      "surface_form": "συνέψουσιν",
+      "normalized_label": "συνέψειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-1-40-daphninon:process:misgein-9",
+      "entity_type": "process",
+      "surface_form": "μίσγουσι",
+      "normalized_label": "μίσγειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-material:dioscorides-1-40-daphninon:material:cheir-1",
+      "entity_type": "material",
+      "surface_form": "χερσὶν",
+      "normalized_label": "χείρ"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-material:dioscorides-1-40-daphninon:material:myaka-2",
+      "entity_type": "material",
+      "surface_form": "μύακα",
+      "normalized_label": "μύακα"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-reference:dioscorides-1-40-daphninon:reference:omphakinon-elaion-1",
+      "entity_type": "preparation_reference",
+      "surface_form": "ὀμφάκινον ἔλαιον",
+      "normalized_label": "ὀμφάκινον ἔλαιον"
+    }
+  ],
+  "canonical_file": "data/recipes/dioscorides-1-40-daphninon.json",
+  "source_entry": {
+    "source_id": "dioscorides-1-40-daphninon",
+    "derived_recipe_id": "dioscorides-1-40-daphninon",
+    "entry_kind": "recipe",
+    "source_kind": "main_text",
+    "source_lines": {
+      "start": 1855,
+      "end": 3167
+    },
+    "section_markers": []
+  },
+  "entity_groups": {
+    "labels": [
+      {
+        "entity_urn": "urn:aos:recipe-preparation:dioscorides-1-40-daphninon:preparation:daphninon",
+        "surface_form": "δάφνινον",
+        "normalized_label": "δάφνινον"
+      }
+    ],
+    "ingredients": [
+      {
+        "entity_urn": "urn:aos:recipe-ingredient:dioscorides-1-40-daphninon:ingredient:daphnides-1",
+        "surface_form": "τῶν δαφνίδων",
+        "normalized_label": "δαφνίδες",
+        "quantity_display": ""
+      },
+      {
+        "entity_urn": "urn:aos:recipe-ingredient:dioscorides-1-40-daphninon:ingredient:ydor-2",
+        "surface_form": "ὕδατος",
+        "normalized_label": "ὕδωρ",
+        "quantity_display": ""
+      },
+      {
+        "entity_urn": "urn:aos:recipe-ingredient:dioscorides-1-40-daphninon:ingredient:liparia-3",
+        "surface_form": "λιπαρίαν τινά",
+        "normalized_label": "λιπαρία",
+        "quantity_display": ""
+      },
+      {
+        "entity_urn": "urn:aos:recipe-ingredient:dioscorides-1-40-daphninon:ingredient:elaion-omphakinon-4",
+        "surface_form": "ὀμφάκινον ἔλαιον",
+        "normalized_label": "ἔλαιον ὀμφάκινον",
+        "quantity_display": ""
+      },
+      {
+        "entity_urn": "urn:aos:recipe-ingredient:dioscorides-1-40-daphninon:ingredient:kyperos-5",
+        "surface_form": "κυπέρῳ",
+        "normalized_label": "κύπερος",
+        "quantity_display": ""
+      },
+      {
+        "entity_urn": "urn:aos:recipe-ingredient:dioscorides-1-40-daphninon:ingredient:schoinos-6",
+        "surface_form": "σχοίνῳ",
+        "normalized_label": "σχοῖνος",
+        "quantity_display": ""
+      },
+      {
+        "entity_urn": "urn:aos:recipe-ingredient:dioscorides-1-40-daphninon:ingredient:kalamos-7",
+        "surface_form": "καλάμῳ",
+        "normalized_label": "κάλαμος",
+        "quantity_display": ""
+      },
+      {
+        "entity_urn": "urn:aos:recipe-ingredient:dioscorides-1-40-daphninon:ingredient:phylla-daphnes-8",
+        "surface_form": "δάφνης φύλλα",
+        "normalized_label": "φύλλα δάφνης",
+        "quantity_display": ""
+      },
+      {
+        "entity_urn": "urn:aos:recipe-ingredient:dioscorides-1-40-daphninon:ingredient:daphnides-9",
+        "surface_form": "δαφνίδας",
+        "normalized_label": "δαφνίδες",
+        "quantity_display": ""
+      },
+      {
+        "entity_urn": "urn:aos:recipe-ingredient:dioscorides-1-40-daphninon:ingredient:styrax-10",
+        "surface_form": "στύρακα",
+        "normalized_label": "στύραξ",
+        "quantity_display": ""
+      },
+      {
+        "entity_urn": "urn:aos:recipe-ingredient:dioscorides-1-40-daphninon:ingredient:myrsine-11",
+        "surface_form": "μυρσίνην",
+        "normalized_label": "μυρσίνη",
+        "quantity_display": ""
+      }
+    ],
+    "processes": [
+      {
+        "entity_urn": "urn:aos:recipe-process:dioscorides-1-40-daphninon:process:skeyazein-1",
+        "surface_form": "σκευάζεται",
+        "normalized_label": "σκευάζειν"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-process:dioscorides-1-40-daphninon:process:epsein-2",
+        "surface_form": "ἑψομένων",
+        "normalized_label": "ἕψειν"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-process:dioscorides-1-40-daphninon:process:anienai-3",
+        "surface_form": "ἀνίησι",
+        "normalized_label": "ἀνιέναι"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-process:dioscorides-1-40-daphninon:process:diakoptein-4",
+        "surface_form": "διακόψαντες",
+        "normalized_label": "διακόπτειν"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-process:dioscorides-1-40-daphninon:process:analambanein-5",
+        "surface_form": "ἀναλαμβάνουσιν",
+        "normalized_label": "ἀναλαμβάνειν"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-process:dioscorides-1-40-daphninon:process:prostyptein-6",
+        "surface_form": "προστύψαντες",
+        "normalized_label": "προστύπτειν"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-process:dioscorides-1-40-daphninon:process:periballein-7",
+        "surface_form": "περιβαλόντες",
+        "normalized_label": "περιβάλλειν"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-process:dioscorides-1-40-daphninon:process:synepsein-8",
+        "surface_form": "συνέψουσιν",
+        "normalized_label": "συνέψειν"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-process:dioscorides-1-40-daphninon:process:misgein-9",
+        "surface_form": "μίσγουσι",
+        "normalized_label": "μίσγειν"
+      }
+    ],
+    "tools": [
+      {
+        "entity_urn": "urn:aos:recipe-material:dioscorides-1-40-daphninon:material:cheir-1",
+        "surface_form": "χερσὶν",
+        "normalized_label": "χείρ"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-material:dioscorides-1-40-daphninon:material:myaka-2",
+        "surface_form": "μύακα",
+        "normalized_label": "μύακα"
+      }
+    ],
+    "other_preparations_mentioned": [
+      {
+        "entity_urn": "urn:aos:recipe-reference:dioscorides-1-40-daphninon:reference:omphakinon-elaion-1",
+        "surface_form": "ὀμφάκινον ἔλαιον",
+        "normalized_label": "ὀμφάκινον ἔλαιον"
+      }
+    ],
+    "people": [],
+    "places": [],
+    "works_mentioned": [],
+    "preparation_names": []
+  }
+}

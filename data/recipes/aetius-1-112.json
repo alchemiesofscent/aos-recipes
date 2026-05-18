@@ -1,0 +1,812 @@
+{
+  "dataset_key": "aetius_book1_oils",
+  "source_json": "experiments/aetius-book1-ch99-136-oils/data/aetius_book1_ch99_136_oils.json",
+  "host_raw_file": "tei/raw/tlg0718001.xml",
+  "work_slug": "aetius.b1.oils",
+  "recipe_id": "aetius-1-112",
+  "recipe_urn": "urn:aos:recipe:aetius-1-112",
+  "record_urn": "urn:aos:recipe-record:aetius-1-112",
+  "author": "Aëtius of Amida",
+  "work": "Libri medicinales",
+  "book": "1",
+  "chapter": "112",
+  "section": "112",
+  "chapter_name": "Μήλινον",
+  "lemma": "Μήλινον",
+  "text": "Μήλινον σκευάζεται ἀπὸ τῶν κυδωνίων μήλων, γίγνεται δὲ καὶ ἐκ τῶν ἄλλων μήλων τῶν στρυφνότερον ἐχόντων τὸ δέρμα καὶ εὐωδέστερον. περιελόντες δὲ τὸ πρὸς τὴν ἔκφυσιν καὶ πρὸς τῷ πυθμένι κάρφος καὶ τὴν ἐντεριώνην σὺν τοῖς ἔνδον κόκκοις, εἶτα τέμνοντες προσκειμένου τοῦ δέρματος—ἐν αὐτῷ γὰρ ἡ εὐωδία καὶ ἡ στύψις ὑπάρχει—καὶ ποιήσαντες μικρὰ τεμάχια, ἐμβαλοῦμεν τῷ ξέστῃ τοῦ ὀμφακίνου ἐλαίου 𐆄 γ τῶν μήλων, καὶ ἡλιώσαντες ἡμέρας μ ἀποτιθέμεθα. δύναμις δὲ τοῦ μηλίνου μᾶλλον ἐπὶ τὸ ψυχρότερον νεύει, οὐ μὴν ἄγαν διὰ τὸ οἰνῶδες τοῦ μήλου. στύφει μέντοι γε ἱκανῶς καθάπερ τὸ σχίνινον καὶ μᾶλλον ᾠκείωται στομάχῳ, διὰ τὸ ἐκ τροφίμων ὑλῶν ἀμφοτέρων γίγνεσθαι τοῦ τε ἐλαίου καὶ τοῦ μήλου, ὥστε ἀκολούθως ἁρμόττει στομάχῳ φλεγμαίνοντι καὶ ἀτονοῦντι ἐμβρεχόμενον καὶ τοῖς ἐπιθέμασιν ἐμβαλλόμενον καὶ πινόμενον. χρησιμώτερον δέ ἐστι τοῦ ῥοδίνου διὰ τὸ οἰκειότερον τοῦ μήλου· ἐντίθησι γὰρ τόνον τῷ στομάχῳ καὶ σφοδρότερον διωθεῖ τοὺς ἐγκειμένους ἐν τῇ γαστρὶ δρι- μεῖς χυμούς· ἐνίεται δὲ δι’ ἕδρας καὶ τοῖς ὑπὸ δριμείας χολῆς δακνωμένοις τὸν κῶλον καὶ τὰ παχέα τῶν ἐντέρων. παραφυλακτέον δὲ καὶ τὴν αὐτοῦ προσαγωγὴν ἐπὶ τῶν ἀπὸ ψύξεως βλαβέντων, ἐπὶ γὰρ τούτων μᾶλλον ἁρμόζει τὸ ἔχον ἀψίνθιον συνεψόμενον.",
+  "original_text": "Μήλινον σκευάζεται ἀπὸ τῶν κυδωνίων μήλων, γίγνεται δὲ καὶ ἐκ τῶν ἄλλων μήλων τῶν στρυφνότερον ἐχόντων τὸ δέρμα καὶ εὐωδέστερον. περιελόντες δὲ τὸ πρὸς τὴν ἔκφυσιν καὶ πρὸς τῷ πυθμένι κάρφος καὶ τὴν ἐντεριώνην σὺν τοῖς ἔνδον κόκκοις, εἶτα τέμνοντες προσκειμένου τοῦ δέρματος—ἐν αὐτῷ γὰρ ἡ εὐωδία καὶ ἡ στύψις ὑπάρχει—καὶ ποιήσαντες μικρὰ τεμάχη, ἐμβαλοῦμεν τῷ ξέστῃ τοῦ ὀμφακίνου ἐλαίου 𐆄 γ τῶν μήλων, καὶ ἡλιώσαντες ἡμέρας μ ἀποτιθέμεθα. δύναμις δὲ τοῦ μηλίνου μᾶλλον ἐπὶ τὸ ψυχρότερον νεύει, οὐ μὴν ἄγαν διὰ τὸ οἰνῶδες τοῦ μήλου. στύφει μέντοι γε ἱκανῶς καθάπερ τὸ σχίνινον καὶ μᾶλλον ᾠκείωται στομάχῳ, διὰ τὸ ἐκ τροφίμων ὑλῶν ἀμφοτέρων γίγνεσθαι τοῦ τε ἐλαίου καὶ τοῦ μήλου, ὥστε ἀκολούθως ἁρμόττει στομάχῳ φλεγμαίνοντι καὶ ἀτονοῦντι ἐμβρεχόμενον καὶ τοῖς ἐπιθέμασιν ἐμβαλλόμενον καὶ πινόμενον. χρησιμώτερον δέ ἐστι τοῦ ῥοδίνου διὰ τὸ οἰκειότερον τοῦ μήλου· ἐντίθησι γὰρ τόνον τῷ στομάχῳ καὶ σφοδρότερον διωθεῖ τοὺς ἐγκειμένους ἐν τῇ γαστρὶ δριμεῖς χυμούς· ἐνίεται δὲ δι' ἕδρας καὶ τοῖς ὑπὸ δριμείας χολῆς δακνωμένοις τὸν κῶλον καὶ τὰ παχέα τῶν ἐντέρων. παραφυλακτέον δὲ καὶ τὴν αὐτοῦ προσαγωγὴν ἐπὶ τῶν ἀπὸ ψύξεως βλαβέντων, ἐπὶ γὰρ τούτων μᾶλλον ἁρμόζει τὸ ἔχον ἀψίνθιον συνεψόμενον.",
+  "text_source": "emended",
+  "emendations": [
+    {
+      "locus": "[57.17]",
+      "start_citation": "57.17",
+      "end_citation": "57.17",
+      "operation": "replace",
+      "olivieri_text": "τεμάχη",
+      "adopted_text": "τεμάχια",
+      "proposal_author": "Irene Cala",
+      "decision": "accepted",
+      "note": "τεμάχια replaces τεμάχη"
+    }
+  ],
+  "emendation_count": 1,
+  "source_kind": null,
+  "entry_kind": "recipe",
+  "citation": {
+    "pages": [
+      "57"
+    ],
+    "start": {
+      "page": "57",
+      "line": "12",
+      "xml_id": "oliv-57-12"
+    },
+    "end": {
+      "page": "57",
+      "line": "30",
+      "xml_id": "oliv-57-30"
+    },
+    "citation": {
+      "start": "57.12",
+      "end": "57.30"
+    },
+    "page_spans": [
+      {
+        "page": "57",
+        "start_line": "12",
+        "end_line": "30"
+      }
+    ],
+    "lines": [
+      {
+        "page": "57",
+        "line": "12",
+        "xml_id": "oliv-57-12",
+        "break_no": false,
+        "text": "Μήλινον σκευάζεται ἀπὸ τῶν κυδωνίων μήλων, γίγνεται δὲ καὶ",
+        "citation": "57.12"
+      },
+      {
+        "page": "57",
+        "line": "13",
+        "xml_id": "oliv-57-13",
+        "break_no": false,
+        "text": "ἐκ τῶν ἄλλων μήλων τῶν στρυφνότερον ἐχόντων τὸ δέρμα καὶ εὐω-",
+        "citation": "57.13"
+      },
+      {
+        "page": "57",
+        "line": "14",
+        "xml_id": "oliv-57-14",
+        "break_no": true,
+        "text": "δέστερον. περιελόντες δὲ τὸ πρὸς τὴν ἔκφυσιν καὶ πρὸς τῷ πυθμένι",
+        "citation": "57.14"
+      },
+      {
+        "page": "57",
+        "line": "15",
+        "xml_id": "oliv-57-15",
+        "break_no": false,
+        "text": "κάρφος καὶ τὴν ἐντεριώνην σὺν τοῖς ἔνδον κόκκοις, εἶτα τέμνοντες",
+        "citation": "57.15"
+      },
+      {
+        "page": "57",
+        "line": "16",
+        "xml_id": "oliv-57-16",
+        "break_no": false,
+        "text": "προσκειμένου τοῦ δέρματος—ἐν αὐτῷ γὰρ ἡ εὐωδία καὶ ἡ στύψις",
+        "citation": "57.16"
+      },
+      {
+        "page": "57",
+        "line": "17",
+        "xml_id": "oliv-57-17",
+        "break_no": false,
+        "text": "ὑπάρχει—καὶ ποιήσαντες μικρὰ τεμάχη, ἐμβαλοῦμεν τῷ ξέστῃ τοῦ",
+        "citation": "57.17"
+      },
+      {
+        "page": "57",
+        "line": "18",
+        "xml_id": "oliv-57-18",
+        "break_no": false,
+        "text": "ὀμφακίνου ἐλαίου 𐆄 γ τῶν μήλων, καὶ ἡλιώσαντες ἡμέρας μ ἀποτιθέ-",
+        "citation": "57.18"
+      },
+      {
+        "page": "57",
+        "line": "19",
+        "xml_id": "oliv-57-19",
+        "break_no": true,
+        "text": "μεθα. δύναμις δὲ τοῦ μηλίνου μᾶλλον ἐπὶ τὸ ψυχρότερον νεύει, οὐ",
+        "citation": "57.19"
+      },
+      {
+        "page": "57",
+        "line": "20",
+        "xml_id": "oliv-57-20",
+        "break_no": false,
+        "text": "μὴν ἄγαν διὰ τὸ οἰνῶδες τοῦ μήλου. στύφει μέντοι γε ἱκανῶς καθά-",
+        "citation": "57.20"
+      },
+      {
+        "page": "57",
+        "line": "21",
+        "xml_id": "oliv-57-21",
+        "break_no": true,
+        "text": "περ τὸ σχίνινον καὶ μᾶλλον ᾠκείωται στομάχῳ, διὰ τὸ ἐκ τροφίμων",
+        "citation": "57.21"
+      },
+      {
+        "page": "57",
+        "line": "22",
+        "xml_id": "oliv-57-22",
+        "break_no": false,
+        "text": "ὑλῶν ἀμφοτέρων γίγνεσθαι τοῦ τε ἐλαίου καὶ τοῦ μήλου, ὥστε ἀκο-",
+        "citation": "57.22"
+      },
+      {
+        "page": "57",
+        "line": "23",
+        "xml_id": "oliv-57-23",
+        "break_no": true,
+        "text": "λούθως ἁρμόττει στομάχῳ φλεγμαίνοντι καὶ ἀτονοῦντι ἐμβρεχόμενον",
+        "citation": "57.23"
+      },
+      {
+        "page": "57",
+        "line": "24",
+        "xml_id": "oliv-57-24",
+        "break_no": false,
+        "text": "καὶ τοῖς ἐπιθέμασιν ἐμβαλλόμενον καὶ πινόμενον. χρησιμώτερον δέ ἐστι",
+        "citation": "57.24"
+      },
+      {
+        "page": "57",
+        "line": "25",
+        "xml_id": "oliv-57-25",
+        "break_no": false,
+        "text": "τοῦ ῥοδίνου διὰ τὸ οἰκειότερον τοῦ μήλου· ἐντίθησι γὰρ τόνον τῷ",
+        "citation": "57.25"
+      },
+      {
+        "page": "57",
+        "line": "26",
+        "xml_id": "oliv-57-26",
+        "break_no": false,
+        "text": "στομάχῳ καὶ σφοδρότερον διωθεῖ τοὺς ἐγκειμένους ἐν τῇ γαστρὶ δρι-",
+        "citation": "57.26"
+      },
+      {
+        "page": "57",
+        "line": "27",
+        "xml_id": "oliv-57-27",
+        "break_no": true,
+        "text": "μεῖς χυμούς· ἐνίεται δὲ δι' ἕδρας καὶ τοῖς ὑπὸ δριμείας χολῆς δακνω-",
+        "citation": "57.27"
+      },
+      {
+        "page": "57",
+        "line": "28",
+        "xml_id": "oliv-57-28",
+        "break_no": true,
+        "text": "μένοις τὸν κῶλον καὶ τὰ παχέα τῶν ἐντέρων. παραφυλακτέον δὲ καὶ",
+        "citation": "57.28"
+      },
+      {
+        "page": "57",
+        "line": "29",
+        "xml_id": "oliv-57-29",
+        "break_no": false,
+        "text": "τὴν αὐτοῦ προσαγωγὴν ἐπὶ τῶν ἀπὸ ψύξεως βλαβέντων, ἐπὶ γὰρ τού-",
+        "citation": "57.29"
+      },
+      {
+        "page": "57",
+        "line": "30",
+        "xml_id": "oliv-57-30",
+        "break_no": true,
+        "text": "των μᾶλλον ἁρμόζει τὸ ἔχον ἀψίνθιον συνεψόμενον.",
+        "citation": "57.30"
+      }
+    ],
+    "edition_key": "olivieri"
+  },
+  "notes": [
+    "γίγνεται δὲ καὶ ἐκ τῶν ἄλλων μήλων τῶν στρυφνότερον ἐχόντων τὸ δέρμα καὶ εὐωδέστερον.",
+    "παραφυλακτέον δὲ καὶ τὴν αὐτοῦ προσαγωγὴν ἐπὶ τῶν ἀπὸ ψύξεως βλαβέντων."
+  ],
+  "alignment_status": "pending",
+  "alignment_confidence": "pending",
+  "alignment_evidence": null,
+  "review_status": "reviewed_structured_authority",
+  "review_provenance": {
+    "authority_source": "reports/entity_review/structured/aetius_book1.json",
+    "authority_recipe_id": "aetius-1-112",
+    "authority_lemma": "Μήλινον",
+    "model": "gpt-5.4",
+    "reasoning_effort": "high",
+    "dataset_key": "aetius_book1_oils",
+    "entity_model_version": "1.2",
+    "authority_version": "2026-04-13-qty-alt-v1",
+    "prompt_version": "qty-alt-pass-v1",
+    "build_version": "2026-05-18T15:51:35Z"
+  },
+  "schema_version": "1.2",
+  "build_metadata": {
+    "builder": "scripts/recipes/build_recipe_entities.py",
+    "built_at": "2026-05-18T15:51:35Z",
+    "source_structured_authority": "reports/entity_review/structured/aetius_book1.json",
+    "authority_model": "gpt-5.4",
+    "authority_reasoning_effort": "high",
+    "dataset_key": "aetius_book1_oils",
+    "entity_model_version": "1.2",
+    "authority_version": "2026-04-13-qty-alt-v1",
+    "prompt_version": "qty-alt-pass-v1",
+    "build_version": "2026-05-18T15:51:35Z"
+  },
+  "recipe_text_excerpt": "Μήλινον σκευάζεται ἀπὸ τῶν κυδωνίων μήλων, γίγνεται δὲ καὶ ἐκ τῶν ἄλλων μήλων τῶν στρυφνότερον ἐχόντων τὸ δέρμα καὶ εὐωδέστερον.",
+  "preparation": {
+    "preparation_id": "aetius-1-112:preparation:melinon",
+    "preparation_urn": "urn:aos:recipe-preparation:aetius-1-112:preparation:melinon",
+    "source_span": "Μήλινον",
+    "surface_form": "Μήλινον",
+    "normalized_label": "Μήλινον",
+    "qualifiers": [],
+    "regimen_notes": [],
+    "certainty": "certain",
+    "notes": [],
+    "host_locator": {
+      "book": "1",
+      "chapter": "112",
+      "section": "112",
+      "citation": {
+        "start": "57.12",
+        "end": "57.30"
+      }
+    }
+  },
+  "ingredients": [
+    {
+      "ingredient_id": "aetius-1-112:ingredient:kydonia-mela-1",
+      "ingredient_urn": "urn:aos:recipe-ingredient:aetius-1-112:ingredient:kydonia-mela-1",
+      "source_span": "τῶν κυδωνίων μήλων",
+      "surface_form": "τῶν κυδωνίων μήλων",
+      "base_label": "μῆλον",
+      "normalized_label": "κυδώνια μῆλα",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [
+        "aetius-1-112:process:periairein-1",
+        "aetius-1-112:process:temnein-2",
+        "aetius-1-112:process:poiein-3",
+        "aetius-1-112:process:emballein-4"
+      ],
+      "quantities": [
+        {
+          "source_span": "𐆄 γ",
+          "raw_number": "γ",
+          "normalized_number": 3,
+          "raw_unit": "𐆄",
+          "normalized_unit": "uncia",
+          "certainty": "uncertain",
+          "notes": [
+            "Unit sign 𐆄 is left unresolved."
+          ]
+        }
+      ],
+      "qualifiers": [],
+      "notes": [
+        "Primary fruit option."
+      ],
+      "host_locator": {
+        "book": "1",
+        "chapter": "112",
+        "section": "112",
+        "citation": {
+          "start": "57.12",
+          "end": "57.30"
+        }
+      }
+    },
+    {
+      "ingredient_id": "aetius-1-112:ingredient:alla-mela-2",
+      "ingredient_urn": "urn:aos:recipe-ingredient:aetius-1-112:ingredient:alla-mela-2",
+      "source_span": "τῶν ἄλλων μήλων τῶν στρυφνότερον ἐχόντων τὸ δέρμα καὶ εὐωδέστερον",
+      "surface_form": "τῶν ἄλλων μήλων τῶν στρυφνότερον ἐχόντων τὸ δέρμα καὶ εὐωδέστερον",
+      "base_label": "μῆλον",
+      "normalized_label": "ἄλλα μῆλα",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [
+        "aetius-1-112:process:periairein-1",
+        "aetius-1-112:process:temnein-2",
+        "aetius-1-112:process:poiein-3",
+        "aetius-1-112:process:emballein-4"
+      ],
+      "quantities": [
+        {
+          "source_span": "𐆄 γ",
+          "raw_number": "γ",
+          "normalized_number": 3,
+          "raw_unit": "𐆄",
+          "normalized_unit": "uncia",
+          "certainty": "uncertain",
+          "notes": [
+            "Unit sign 𐆄 is left unresolved."
+          ]
+        }
+      ],
+      "qualifiers": [
+        {
+          "qualifier_type": "other",
+          "source_span": "τῶν στρυφνότερον ἐχόντων τὸ δέρμα καὶ εὐωδέστερον",
+          "normalized_value": "στρυφνότερον τὸ δέρμα καὶ εὐωδέστερον",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "notes": [
+        "Alternative fruit option."
+      ],
+      "host_locator": {
+        "book": "1",
+        "chapter": "112",
+        "section": "112",
+        "citation": {
+          "start": "57.12",
+          "end": "57.30"
+        }
+      }
+    },
+    {
+      "ingredient_id": "aetius-1-112:ingredient:omphakinon-elaion-3",
+      "ingredient_urn": "urn:aos:recipe-ingredient:aetius-1-112:ingredient:omphakinon-elaion-3",
+      "source_span": "τοῦ ὀμφακίνου ἐλαίου",
+      "surface_form": "τοῦ ὀμφακίνου ἐλαίου",
+      "base_label": "ἔλαιον",
+      "normalized_label": "ὀμφάκινον ἔλαιον",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [
+        "aetius-1-112:process:emballein-4"
+      ],
+      "quantities": [
+        {
+          "source_span": "τῷ ξέστῃ",
+          "raw_number": null,
+          "normalized_number": null,
+          "raw_unit": "ξέστῃ",
+          "normalized_unit": "xestes",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "112",
+        "section": "112",
+        "citation": {
+          "start": "57.12",
+          "end": "57.30"
+        }
+      }
+    }
+  ],
+  "processes": [
+    {
+      "process_id": "aetius-1-112:process:periairein-1",
+      "process_urn": "urn:aos:recipe-process:aetius-1-112:process:periairein-1",
+      "source_span": "περιελόντες",
+      "surface_form": "περιελόντες",
+      "normalized_label": "περιαιρεῖν",
+      "target_type": "ingredient",
+      "target_ids": [
+        "aetius-1-112:ingredient:kydonia-mela-1",
+        "aetius-1-112:ingredient:alla-mela-2"
+      ],
+      "quantities": [],
+      "qualifiers": [],
+      "certainty": "certain",
+      "notes": [
+        "Removed τὸ πρὸς τὴν ἔκφυσιν καὶ πρὸς τῷ πυθμένι κάρφος καὶ τὴν ἐντεριώνην σὺν τοῖς ἔνδον κόκκοις."
+      ],
+      "host_locator": {
+        "book": "1",
+        "chapter": "112",
+        "section": "112",
+        "citation": {
+          "start": "57.12",
+          "end": "57.30"
+        }
+      }
+    },
+    {
+      "process_id": "aetius-1-112:process:temnein-2",
+      "process_urn": "urn:aos:recipe-process:aetius-1-112:process:temnein-2",
+      "source_span": "τέμνοντες",
+      "surface_form": "τέμνοντες",
+      "normalized_label": "τέμνειν",
+      "target_type": "ingredient",
+      "target_ids": [
+        "aetius-1-112:ingredient:kydonia-mela-1",
+        "aetius-1-112:ingredient:alla-mela-2"
+      ],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "other",
+          "source_span": "προσκειμένου τοῦ δέρματος",
+          "normalized_value": "μετὰ τοῦ δέρματος",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "certainty": "certain",
+      "notes": [
+        "ἐν αὐτῷ γὰρ ἡ εὐωδία καὶ ἡ στύψις ὑπάρχει."
+      ],
+      "host_locator": {
+        "book": "1",
+        "chapter": "112",
+        "section": "112",
+        "citation": {
+          "start": "57.12",
+          "end": "57.30"
+        }
+      }
+    },
+    {
+      "process_id": "aetius-1-112:process:poiein-3",
+      "process_urn": "urn:aos:recipe-process:aetius-1-112:process:poiein-3",
+      "source_span": "ποιήσαντες",
+      "surface_form": "ποιήσαντες",
+      "normalized_label": "ποιεῖν",
+      "target_type": "ingredient",
+      "target_ids": [
+        "aetius-1-112:ingredient:kydonia-mela-1",
+        "aetius-1-112:ingredient:alla-mela-2"
+      ],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "manner",
+          "source_span": "μικρὰ τεμάχια",
+          "normalized_value": "μικρὰ τεμάχια",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "112",
+        "section": "112",
+        "citation": {
+          "start": "57.12",
+          "end": "57.30"
+        }
+      }
+    },
+    {
+      "process_id": "aetius-1-112:process:emballein-4",
+      "process_urn": "urn:aos:recipe-process:aetius-1-112:process:emballein-4",
+      "source_span": "ἐμβαλοῦμεν",
+      "surface_form": "ἐμβαλοῦμεν",
+      "normalized_label": "ἐμβάλλειν",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "112",
+        "section": "112",
+        "citation": {
+          "start": "57.12",
+          "end": "57.30"
+        }
+      }
+    },
+    {
+      "process_id": "aetius-1-112:process:elioyn-5",
+      "process_urn": "urn:aos:recipe-process:aetius-1-112:process:elioyn-5",
+      "source_span": "ἡλιώσαντες",
+      "surface_form": "ἡλιώσαντες",
+      "normalized_label": "ἡλιοῦν",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "duration",
+          "source_span": "ἡμέρας μ",
+          "normalized_value": "40 ἡμέραι",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "112",
+        "section": "112",
+        "citation": {
+          "start": "57.12",
+          "end": "57.30"
+        }
+      }
+    },
+    {
+      "process_id": "aetius-1-112:process:apotithesthai-6",
+      "process_urn": "urn:aos:recipe-process:aetius-1-112:process:apotithesthai-6",
+      "source_span": "ἀποτιθέμεθα",
+      "surface_form": "ἀποτιθέμεθα",
+      "normalized_label": "ἀποτίθεσθαι",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "112",
+        "section": "112",
+        "citation": {
+          "start": "57.12",
+          "end": "57.30"
+        }
+      }
+    }
+  ],
+  "materials": [],
+  "people": [],
+  "places": [],
+  "uses": [
+    {
+      "use_id": "aetius-1-112:use:oste-akoloythos-armottei-stomacho-phlegmainonti-kai-atonoynti-embrechomenon-kai-tois-epithemasin-emballomenon-kai-pinomenon-1",
+      "use_urn": "urn:aos:recipe-use:aetius-1-112:use:oste-akoloythos-armottei-stomacho-phlegmainonti-kai-atonoynti-embrechomenon-kai-tois-epithemasin-emballomenon-kai-pinomenon-1",
+      "category": "medical",
+      "source_span": "ὥστε ἀκολούθως ἁρμόττει στομάχῳ φλεγμαίνοντι καὶ ἀτονοῦντι ἐμβρεχόμενον καὶ τοῖς ἐπιθέμασιν ἐμβαλλόμενον καὶ πινόμενον",
+      "snippet": "ὥστε ἀκολούθως ἁρμόττει στομάχῳ φλεγμαίνοντι καὶ ἀτονοῦντι ἐμβρεχόμενον καὶ τοῖς ἐπιθέμασιν ἐμβαλλόμενον καὶ πινόμενον",
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "112",
+        "section": "112",
+        "citation": {
+          "start": "57.12",
+          "end": "57.30"
+        }
+      }
+    },
+    {
+      "use_id": "aetius-1-112:use:enietai-de-di-edras-kai-tois-ypo-drimeias-choles-daknomenois-ton-kolon-kai-ta-pachea-ton-enteron-2",
+      "use_urn": "urn:aos:recipe-use:aetius-1-112:use:enietai-de-di-edras-kai-tois-ypo-drimeias-choles-daknomenois-ton-kolon-kai-ta-pachea-ton-enteron-2",
+      "category": "medical",
+      "source_span": "ἐνίεται δὲ δι' ἕδρας καὶ τοῖς ὑπὸ δριμείας χολῆς δακνωμένοις τὸν κῶλον καὶ τὰ παχέα τῶν ἐντέρων",
+      "snippet": "ἐνίεται δὲ δι' ἕδρας καὶ τοῖς ὑπὸ δριμείας χολῆς δακνωμένοις τὸν κῶλον καὶ τὰ παχέα τῶν ἐντέρων",
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "112",
+        "section": "112",
+        "citation": {
+          "start": "57.12",
+          "end": "57.30"
+        }
+      }
+    }
+  ],
+  "preparation_names": [],
+  "other_preparations_mentioned": [
+    {
+      "reference_id": "aetius-1-112:reference:schininon-1",
+      "reference_urn": "urn:aos:recipe-reference:aetius-1-112:reference:schininon-1",
+      "source_span": "τὸ σχίνινον",
+      "surface_form": "τὸ σχίνινον",
+      "normalized_label": "σχίνινον",
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "112",
+        "section": "112",
+        "citation": {
+          "start": "57.12",
+          "end": "57.30"
+        }
+      }
+    },
+    {
+      "reference_id": "aetius-1-112:reference:rodinon-2",
+      "reference_urn": "urn:aos:recipe-reference:aetius-1-112:reference:rodinon-2",
+      "source_span": "τοῦ ῥοδίνου",
+      "surface_form": "τοῦ ῥοδίνου",
+      "normalized_label": "ῥόδινον",
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "112",
+        "section": "112",
+        "citation": {
+          "start": "57.12",
+          "end": "57.30"
+        }
+      }
+    }
+  ],
+  "works_mentioned": [],
+  "entities": [
+    {
+      "entity_urn": "urn:aos:recipe-preparation:aetius-1-112:preparation:melinon",
+      "entity_type": "label",
+      "surface_form": "Μήλινον",
+      "normalized_label": "Μήλινον"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:aetius-1-112:ingredient:kydonia-mela-1",
+      "entity_type": "ingredient",
+      "surface_form": "τῶν κυδωνίων μήλων",
+      "normalized_label": "κυδώνια μῆλα"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:aetius-1-112:ingredient:alla-mela-2",
+      "entity_type": "ingredient",
+      "surface_form": "τῶν ἄλλων μήλων τῶν στρυφνότερον ἐχόντων τὸ δέρμα καὶ εὐωδέστερον",
+      "normalized_label": "ἄλλα μῆλα"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:aetius-1-112:ingredient:omphakinon-elaion-3",
+      "entity_type": "ingredient",
+      "surface_form": "τοῦ ὀμφακίνου ἐλαίου",
+      "normalized_label": "ὀμφάκινον ἔλαιον"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:aetius-1-112:process:periairein-1",
+      "entity_type": "process",
+      "surface_form": "περιελόντες",
+      "normalized_label": "περιαιρεῖν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:aetius-1-112:process:temnein-2",
+      "entity_type": "process",
+      "surface_form": "τέμνοντες",
+      "normalized_label": "τέμνειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:aetius-1-112:process:poiein-3",
+      "entity_type": "process",
+      "surface_form": "ποιήσαντες",
+      "normalized_label": "ποιεῖν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:aetius-1-112:process:emballein-4",
+      "entity_type": "process",
+      "surface_form": "ἐμβαλοῦμεν",
+      "normalized_label": "ἐμβάλλειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:aetius-1-112:process:elioyn-5",
+      "entity_type": "process",
+      "surface_form": "ἡλιώσαντες",
+      "normalized_label": "ἡλιοῦν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:aetius-1-112:process:apotithesthai-6",
+      "entity_type": "process",
+      "surface_form": "ἀποτιθέμεθα",
+      "normalized_label": "ἀποτίθεσθαι"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-reference:aetius-1-112:reference:schininon-1",
+      "entity_type": "preparation_reference",
+      "surface_form": "τὸ σχίνινον",
+      "normalized_label": "σχίνινον"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-reference:aetius-1-112:reference:rodinon-2",
+      "entity_type": "preparation_reference",
+      "surface_form": "τοῦ ῥοδίνου",
+      "normalized_label": "ῥόδινον"
+    }
+  ],
+  "canonical_file": "data/recipes/aetius-1-112.json",
+  "source_entry": {
+    "source_id": "aetius-1-112",
+    "derived_recipe_id": "aetius-1-112",
+    "entry_kind": null,
+    "source_kind": null,
+    "source_lines": null,
+    "section_markers": []
+  },
+  "entity_groups": {
+    "labels": [
+      {
+        "entity_urn": "urn:aos:recipe-preparation:aetius-1-112:preparation:melinon",
+        "surface_form": "Μήλινον",
+        "normalized_label": "Μήλινον"
+      }
+    ],
+    "ingredients": [
+      {
+        "entity_urn": "urn:aos:recipe-ingredient:aetius-1-112:ingredient:kydonia-mela-1",
+        "surface_form": "τῶν κυδωνίων μήλων",
+        "normalized_label": "κυδώνια μῆλα",
+        "quantity_display": "𐆄 γ"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-ingredient:aetius-1-112:ingredient:alla-mela-2",
+        "surface_form": "τῶν ἄλλων μήλων τῶν στρυφνότερον ἐχόντων τὸ δέρμα καὶ εὐωδέστερον",
+        "normalized_label": "ἄλλα μῆλα",
+        "quantity_display": "𐆄 γ"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-ingredient:aetius-1-112:ingredient:omphakinon-elaion-3",
+        "surface_form": "τοῦ ὀμφακίνου ἐλαίου",
+        "normalized_label": "ὀμφάκινον ἔλαιον",
+        "quantity_display": "τῷ ξέστῃ"
+      }
+    ],
+    "processes": [
+      {
+        "entity_urn": "urn:aos:recipe-process:aetius-1-112:process:periairein-1",
+        "surface_form": "περιελόντες",
+        "normalized_label": "περιαιρεῖν"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-process:aetius-1-112:process:temnein-2",
+        "surface_form": "τέμνοντες",
+        "normalized_label": "τέμνειν"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-process:aetius-1-112:process:poiein-3",
+        "surface_form": "ποιήσαντες",
+        "normalized_label": "ποιεῖν"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-process:aetius-1-112:process:emballein-4",
+        "surface_form": "ἐμβαλοῦμεν",
+        "normalized_label": "ἐμβάλλειν"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-process:aetius-1-112:process:elioyn-5",
+        "surface_form": "ἡλιώσαντες",
+        "normalized_label": "ἡλιοῦν"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-process:aetius-1-112:process:apotithesthai-6",
+        "surface_form": "ἀποτιθέμεθα",
+        "normalized_label": "ἀποτίθεσθαι"
+      }
+    ],
+    "tools": [],
+    "other_preparations_mentioned": [
+      {
+        "entity_urn": "urn:aos:recipe-reference:aetius-1-112:reference:schininon-1",
+        "surface_form": "τὸ σχίνινον",
+        "normalized_label": "σχίνινον"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-reference:aetius-1-112:reference:rodinon-2",
+        "surface_form": "τοῦ ῥοδίνου",
+        "normalized_label": "ῥόδινον"
+      }
+    ],
+    "people": [],
+    "places": [],
+    "works_mentioned": [],
+    "preparation_names": []
+  }
+}

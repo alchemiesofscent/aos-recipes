@@ -1,0 +1,684 @@
+{
+  "dataset_key": "dioscorides_book1_perfumes_resins",
+  "source_json": "experiments/dioscorides-book1-perfumes-resins/data/dioscorides_book1_perfumes_resins.json",
+  "host_raw_file": "tei/raw/tlg0656.tlg001.1st1K-grc1.xml",
+  "work_slug": "diosc.b1.recipes",
+  "recipe_id": "dioscorides-1-50-habrotoninon",
+  "recipe_urn": "urn:aos:recipe:dioscorides-1-50-habrotoninon",
+  "record_urn": "urn:aos:recipe-record:dioscorides-1-50-habrotoninon",
+  "author": "Dioscorides",
+  "work": "De materia medica",
+  "book": "1",
+  "chapter": "50",
+  "section": null,
+  "chapter_name": "ἁβροτόνινον",
+  "lemma": "ἁβροτόνινον",
+  "text": "50 ἁβροτονίνου σκευασία· ἐκ τοῦ εἰς τὸ κύπρινον ἠρωματισμένου ἐλαίου λίτρας ἐννέα οὐγγίας πέντε ἁβροτόνου φύλλων λίτρας ὀκτὼ ἔμβαλε καὶ ἀποβρέξας νύκτα καὶ ἡμέραν ἐξίπου. πολύβροχον δʼ εἰ βούλει ποιῆσαι, ἐκβαλὼν τὰ πρῶτα φύλλα, ἐμβαλὼν δὲ ἕτερα φύλλα ἐναποβρέχων ἐκπίεζε. δύναμιν δὲ ἔχει θερμαντικήν, ποιοῦσαν πρὸς τὰς ἐν ὑστέρᾳ μύσεις καὶ σκληρίας, ἄγον ἔμμηνα καὶ δεύτερα.",
+  "original_text": null,
+  "text_source": null,
+  "emendations": [],
+  "emendation_count": 0,
+  "source_kind": "main_text",
+  "entry_kind": "recipe",
+  "citation": {
+    "pages": [
+      "46",
+      "47"
+    ],
+    "start": {
+      "page": "46",
+      "line": "25"
+    },
+    "end": {
+      "page": "47",
+      "line": "5"
+    },
+    "citation": {
+      "start": "46.25",
+      "end": "47.5"
+    },
+    "page_spans": [
+      {
+        "page": "46",
+        "start_line": "25",
+        "end_line": "25"
+      },
+      {
+        "page": "47",
+        "start_line": "1",
+        "end_line": "5"
+      }
+    ],
+    "lines": [
+      {
+        "page": "46",
+        "line": "25",
+        "break_no": false,
+        "text": "50 ἁβροτονίνου σκευασία· ἐκ τοῦ εἰς τὸ κύπρινον ἠρωματισμένου",
+        "citation": "46.25"
+      },
+      {
+        "page": "47",
+        "line": "1",
+        "break_no": false,
+        "text": "ἐλαίου λίτρας ἐννέα οὐγγίας πέντε ἁβροτόνου φύλλων λίτρας ὀκτὼ ἔμβαλε καὶ ἀποβρέξας νύκτα καὶ ἡμέραν ἐξίπου. πολύβροχον δʼ εἰ βούλει ποιῆσαι, ἐκβαλὼν τὰ πρῶτα φύλλα, ἐμβαλὼν δὲ ἕτερα φύλλα ἐναποβρέχων ἐκπίεζε.",
+        "citation": "47.1"
+      },
+      {
+        "page": "47",
+        "line": "5",
+        "break_no": false,
+        "text": "δύναμιν δὲ ἔχει θερμαντικήν, ποιοῦσαν πρὸς τὰς ἐν ὑστέρᾳ μύσεις καὶ σκληρίας, ἄγον ἔμμηνα καὶ δεύτερα.",
+        "citation": "47.5"
+      }
+    ],
+    "edition_key": "wellmann"
+  },
+  "notes": [
+    "Raw lines 1590-1633 are book 1 chapter 25 in this witness, although the prompt referred to chapter 35.",
+    "The perfume proemium is taken from the later transition at chapter 42 section 2 (raw lines 2306-2342), not from the chapter 25 κῦφι entry.",
+    "The ἰασμέλαιον entry is preserved only in the apparatus as an addition from another recension."
+  ],
+  "alignment_status": "pending",
+  "alignment_confidence": "pending",
+  "alignment_evidence": null,
+  "review_status": "reviewed_structured_authority",
+  "review_provenance": {
+    "authority_source": "reports/entity_review/structured/dioscorides.json",
+    "authority_recipe_id": "dioscorides-1-50-habrotoninon",
+    "authority_lemma": "ἁβροτόνινον",
+    "model": "gpt-5.4",
+    "reasoning_effort": "high",
+    "dataset_key": "dioscorides_book1_perfumes_resins",
+    "entity_model_version": "1.2",
+    "authority_version": "2026-04-13-qty-alt-v1",
+    "prompt_version": "qty-alt-pass-v1",
+    "build_version": "2026-05-18T15:51:35Z"
+  },
+  "schema_version": "1.2",
+  "build_metadata": {
+    "builder": "scripts/recipes/build_recipe_entities.py",
+    "built_at": "2026-05-18T15:51:35Z",
+    "source_structured_authority": "reports/entity_review/structured/dioscorides.json",
+    "authority_model": "gpt-5.4",
+    "authority_reasoning_effort": "high",
+    "dataset_key": "dioscorides_book1_perfumes_resins",
+    "entity_model_version": "1.2",
+    "authority_version": "2026-04-13-qty-alt-v1",
+    "prompt_version": "qty-alt-pass-v1",
+    "build_version": "2026-05-18T15:51:35Z"
+  },
+  "recipe_text_excerpt": "ἁβροτονίνου σκευασία· ἐκ τοῦ εἰς τὸ κύπρινον ἠρωματισμένου ἐλαίου λίτρας ἐννέα οὐγγίας πέντε ἁβροτόνου φύλλων λίτρας ὀκτὼ ἔμβαλε καὶ ἀποβρέξας",
+  "preparation": {
+    "preparation_id": "dioscorides-1-50-habrotoninon:preparation:abrotoninon",
+    "preparation_urn": "urn:aos:recipe-preparation:dioscorides-1-50-habrotoninon:preparation:abrotoninon",
+    "source_span": "ἁβροτόνινον",
+    "surface_form": "ἁβροτόνινον",
+    "normalized_label": "ἁβροτόνινον",
+    "qualifiers": [
+      {
+        "qualifier_type": "other",
+        "source_span": "πολύβροχον",
+        "normalized_value": "πολύβροχον",
+        "certainty": "certain",
+        "notes": [
+          "Optional variant label for the preparation; the following clause describes repeated re-soaking by replacing the leaves."
+        ]
+      }
+    ],
+    "regimen_notes": [],
+    "certainty": "certain",
+    "notes": [
+      "Used the lemma because the running text presents the heading in a declined form (ἁβροτονίνου σκευασία)."
+    ],
+    "host_locator": {
+      "book": "1",
+      "chapter": "50",
+      "section": null,
+      "citation": {
+        "start": "46.25",
+        "end": "47.5"
+      }
+    }
+  },
+  "ingredients": [
+    {
+      "ingredient_id": "dioscorides-1-50-habrotoninon:ingredient:elaion-eis-to-kyprinon-eromatismenon-1",
+      "ingredient_urn": "urn:aos:recipe-ingredient:dioscorides-1-50-habrotoninon:ingredient:elaion-eis-to-kyprinon-eromatismenon-1",
+      "source_span": "τοῦ εἰς τὸ κύπρινον ἠρωματισμένου ἐλαίου",
+      "surface_form": "τοῦ εἰς τὸ κύπρινον ἠρωματισμένου ἐλαίου",
+      "base_label": "ἔλαιον",
+      "normalized_label": "ἔλαιον εἰς τὸ κύπρινον ἠρωματισμένον",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [
+        "dioscorides-1-50-habrotoninon:process:aromatizein-1"
+      ],
+      "quantities": [
+        {
+          "source_span": "λίτρας ἐννέα",
+          "raw_number": "ἐννέα",
+          "normalized_number": 9,
+          "raw_unit": "λίτρας",
+          "normalized_unit": "litra",
+          "certainty": "certain",
+          "notes": []
+        },
+        {
+          "source_span": "οὐγγίας πέντε",
+          "raw_number": "πέντε",
+          "normalized_number": 5,
+          "raw_unit": "οὐγγίας",
+          "normalized_unit": "uncia",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "50",
+        "section": null,
+        "citation": {
+          "start": "46.25",
+          "end": "47.5"
+        }
+      }
+    },
+    {
+      "ingredient_id": "dioscorides-1-50-habrotoninon:ingredient:phylla-abrotonoy-2",
+      "ingredient_urn": "urn:aos:recipe-ingredient:dioscorides-1-50-habrotoninon:ingredient:phylla-abrotonoy-2",
+      "source_span": "ἁβροτόνου φύλλων",
+      "surface_form": "ἁβροτόνου φύλλων",
+      "base_label": "φύλλα",
+      "normalized_label": "φύλλα ἁβροτόνου",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [],
+      "quantities": [
+        {
+          "source_span": "λίτρας ὀκτὼ",
+          "raw_number": "ὀκτὼ",
+          "normalized_number": 8,
+          "raw_unit": "λίτρας",
+          "normalized_unit": "litra",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "50",
+        "section": null,
+        "citation": {
+          "start": "46.25",
+          "end": "47.5"
+        }
+      }
+    },
+    {
+      "ingredient_id": "dioscorides-1-50-habrotoninon:ingredient:prota-phylla-3",
+      "ingredient_urn": "urn:aos:recipe-ingredient:dioscorides-1-50-habrotoninon:ingredient:prota-phylla-3",
+      "source_span": "τὰ πρῶτα φύλλα",
+      "surface_form": "τὰ πρῶτα φύλλα",
+      "base_label": "φύλλα",
+      "normalized_label": "πρῶτα φύλλα",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "other",
+          "source_span": "πρῶτα",
+          "normalized_value": "πρῶτα",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "50",
+        "section": null,
+        "citation": {
+          "start": "46.25",
+          "end": "47.5"
+        }
+      }
+    },
+    {
+      "ingredient_id": "dioscorides-1-50-habrotoninon:ingredient:etera-phylla-4",
+      "ingredient_urn": "urn:aos:recipe-ingredient:dioscorides-1-50-habrotoninon:ingredient:etera-phylla-4",
+      "source_span": "ἕτερα φύλλα",
+      "surface_form": "ἕτερα φύλλα",
+      "base_label": "φύλλα",
+      "normalized_label": "ἕτερα φύλλα",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "other",
+          "source_span": "ἕτερα",
+          "normalized_value": "ἕτερα",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "50",
+        "section": null,
+        "citation": {
+          "start": "46.25",
+          "end": "47.5"
+        }
+      }
+    }
+  ],
+  "processes": [
+    {
+      "process_id": "dioscorides-1-50-habrotoninon:process:aromatizein-1",
+      "process_urn": "urn:aos:recipe-process:dioscorides-1-50-habrotoninon:process:aromatizein-1",
+      "source_span": "ἠρωματισμένου",
+      "surface_form": "ἠρωματισμένου",
+      "normalized_label": "ἀρωματίζειν",
+      "target_type": "ingredient",
+      "target_ids": [
+        "dioscorides-1-50-habrotoninon:ingredient:elaion-eis-to-kyprinon-eromatismenon-1"
+      ],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "other",
+          "source_span": "εἰς τὸ κύπρινον",
+          "normalized_value": "εἰς τὸ κύπρινον",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "50",
+        "section": null,
+        "citation": {
+          "start": "46.25",
+          "end": "47.5"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-1-50-habrotoninon:process:emballein-2",
+      "process_urn": "urn:aos:recipe-process:dioscorides-1-50-habrotoninon:process:emballein-2",
+      "source_span": "ἔμβαλε",
+      "surface_form": "ἔμβαλε",
+      "normalized_label": "ἐμβάλλειν",
+      "target_type": "ingredient",
+      "target_ids": [
+        "dioscorides-1-50-habrotoninon:ingredient:phylla-abrotonoy-2"
+      ],
+      "quantities": [],
+      "qualifiers": [],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "50",
+        "section": null,
+        "citation": {
+          "start": "46.25",
+          "end": "47.5"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-1-50-habrotoninon:process:apobrechein-3",
+      "process_urn": "urn:aos:recipe-process:dioscorides-1-50-habrotoninon:process:apobrechein-3",
+      "source_span": "ἀποβρέξας",
+      "surface_form": "ἀποβρέξας",
+      "normalized_label": "ἀποβρέχειν",
+      "target_type": "ingredient",
+      "target_ids": [
+        "dioscorides-1-50-habrotoninon:ingredient:phylla-abrotonoy-2"
+      ],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "duration",
+          "source_span": "νύκτα καὶ ἡμέραν",
+          "normalized_value": "νύκτα καὶ ἡμέραν",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "50",
+        "section": null,
+        "citation": {
+          "start": "46.25",
+          "end": "47.5"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-1-50-habrotoninon:process:ekpiezein-4",
+      "process_urn": "urn:aos:recipe-process:dioscorides-1-50-habrotoninon:process:ekpiezein-4",
+      "source_span": "ἐξίπου",
+      "surface_form": "ἐξίπου",
+      "normalized_label": "ἐκπιέζειν",
+      "target_type": "ingredient",
+      "target_ids": [
+        "dioscorides-1-50-habrotoninon:ingredient:phylla-abrotonoy-2"
+      ],
+      "quantities": [],
+      "qualifiers": [],
+      "certainty": "uncertain",
+      "notes": [
+        "The normalization follows the parallel form ἐκπίεζε later in the recipe."
+      ],
+      "host_locator": {
+        "book": "1",
+        "chapter": "50",
+        "section": null,
+        "citation": {
+          "start": "46.25",
+          "end": "47.5"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-1-50-habrotoninon:process:poiein-5",
+      "process_urn": "urn:aos:recipe-process:dioscorides-1-50-habrotoninon:process:poiein-5",
+      "source_span": "ποιῆσαι",
+      "surface_form": "ποιῆσαι",
+      "normalized_label": "ποιεῖν",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "other",
+          "source_span": "πολύβροχον",
+          "normalized_value": "πολύβροχον",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "50",
+        "section": null,
+        "citation": {
+          "start": "46.25",
+          "end": "47.5"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-1-50-habrotoninon:process:ekballein-6",
+      "process_urn": "urn:aos:recipe-process:dioscorides-1-50-habrotoninon:process:ekballein-6",
+      "source_span": "ἐκβαλὼν",
+      "surface_form": "ἐκβαλὼν",
+      "normalized_label": "ἐκβάλλειν",
+      "target_type": "ingredient",
+      "target_ids": [
+        "dioscorides-1-50-habrotoninon:ingredient:prota-phylla-3"
+      ],
+      "quantities": [],
+      "qualifiers": [],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "50",
+        "section": null,
+        "citation": {
+          "start": "46.25",
+          "end": "47.5"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-1-50-habrotoninon:process:emballein-7",
+      "process_urn": "urn:aos:recipe-process:dioscorides-1-50-habrotoninon:process:emballein-7",
+      "source_span": "ἐμβαλὼν",
+      "surface_form": "ἐμβαλὼν",
+      "normalized_label": "ἐμβάλλειν",
+      "target_type": "ingredient",
+      "target_ids": [
+        "dioscorides-1-50-habrotoninon:ingredient:etera-phylla-4"
+      ],
+      "quantities": [],
+      "qualifiers": [],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "50",
+        "section": null,
+        "citation": {
+          "start": "46.25",
+          "end": "47.5"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-1-50-habrotoninon:process:enapobrechein-8",
+      "process_urn": "urn:aos:recipe-process:dioscorides-1-50-habrotoninon:process:enapobrechein-8",
+      "source_span": "ἐναποβρέχων",
+      "surface_form": "ἐναποβρέχων",
+      "normalized_label": "ἐναποβρέχειν",
+      "target_type": "ingredient",
+      "target_ids": [
+        "dioscorides-1-50-habrotoninon:ingredient:etera-phylla-4"
+      ],
+      "quantities": [],
+      "qualifiers": [],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "50",
+        "section": null,
+        "citation": {
+          "start": "46.25",
+          "end": "47.5"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-1-50-habrotoninon:process:ekpiezein-9",
+      "process_urn": "urn:aos:recipe-process:dioscorides-1-50-habrotoninon:process:ekpiezein-9",
+      "source_span": "ἐκπίεζε",
+      "surface_form": "ἐκπίεζε",
+      "normalized_label": "ἐκπιέζειν",
+      "target_type": "ingredient",
+      "target_ids": [
+        "dioscorides-1-50-habrotoninon:ingredient:etera-phylla-4"
+      ],
+      "quantities": [],
+      "qualifiers": [],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "50",
+        "section": null,
+        "citation": {
+          "start": "46.25",
+          "end": "47.5"
+        }
+      }
+    }
+  ],
+  "materials": [],
+  "people": [],
+  "places": [],
+  "uses": [
+    {
+      "use_id": "dioscorides-1-50-habrotoninon:use:pros-tas-en-ystera-myseis-kai-sklerias-1",
+      "use_urn": "urn:aos:recipe-use:dioscorides-1-50-habrotoninon:use:pros-tas-en-ystera-myseis-kai-sklerias-1",
+      "category": "medical",
+      "source_span": "πρὸς τὰς ἐν ὑστέρᾳ μύσεις καὶ σκληρίας",
+      "snippet": "πρὸς τὰς ἐν ὑστέρᾳ μύσεις καὶ σκληρίας",
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "50",
+        "section": null,
+        "citation": {
+          "start": "46.25",
+          "end": "47.5"
+        }
+      }
+    },
+    {
+      "use_id": "dioscorides-1-50-habrotoninon:use:agon-emmena-kai-deytera-2",
+      "use_urn": "urn:aos:recipe-use:dioscorides-1-50-habrotoninon:use:agon-emmena-kai-deytera-2",
+      "category": "medical",
+      "source_span": "ἄγον ἔμμηνα καὶ δεύτερα",
+      "snippet": "ἄγον ἔμμηνα καὶ δεύτερα",
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "50",
+        "section": null,
+        "citation": {
+          "start": "46.25",
+          "end": "47.5"
+        }
+      }
+    }
+  ],
+  "preparation_names": [],
+  "other_preparations_mentioned": [
+    {
+      "reference_id": "dioscorides-1-50-habrotoninon:reference:kyprinon-1",
+      "reference_urn": "urn:aos:recipe-reference:dioscorides-1-50-habrotoninon:reference:kyprinon-1",
+      "source_span": "κύπρινον",
+      "surface_form": "κύπρινον",
+      "normalized_label": "κύπρινον",
+      "certainty": "certain",
+      "notes": [
+        "Mentioned as a distinct preparation in the oil base, not as an alias of ἁβροτόνινον."
+      ],
+      "host_locator": {
+        "book": "1",
+        "chapter": "50",
+        "section": null,
+        "citation": {
+          "start": "46.25",
+          "end": "47.5"
+        }
+      }
+    }
+  ],
+  "works_mentioned": [],
+  "entities": [
+    {
+      "entity_urn": "urn:aos:recipe-preparation:dioscorides-1-50-habrotoninon:preparation:abrotoninon",
+      "entity_type": "label",
+      "surface_form": "ἁβροτόνινον",
+      "normalized_label": "ἁβροτόνινον"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:dioscorides-1-50-habrotoninon:ingredient:elaion-eis-to-kyprinon-eromatismenon-1",
+      "entity_type": "ingredient",
+      "surface_form": "τοῦ εἰς τὸ κύπρινον ἠρωματισμένου ἐλαίου",
+      "normalized_label": "ἔλαιον εἰς τὸ κύπρινον ἠρωματισμένον"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:dioscorides-1-50-habrotoninon:ingredient:phylla-abrotonoy-2",
+      "entity_type": "ingredient",
+      "surface_form": "ἁβροτόνου φύλλων",
+      "normalized_label": "φύλλα ἁβροτόνου"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:dioscorides-1-50-habrotoninon:ingredient:prota-phylla-3",
+      "entity_type": "ingredient",
+      "surface_form": "τὰ πρῶτα φύλλα",
+      "normalized_label": "πρῶτα φύλλα"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:dioscorides-1-50-habrotoninon:ingredient:etera-phylla-4",
+      "entity_type": "ingredient",
+      "surface_form": "ἕτερα φύλλα",
+      "normalized_label": "ἕτερα φύλλα"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-1-50-habrotoninon:process:aromatizein-1",
+      "entity_type": "process",
+      "surface_form": "ἠρωματισμένου",
+      "normalized_label": "ἀρωματίζειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-1-50-habrotoninon:process:emballein-2",
+      "entity_type": "process",
+      "surface_form": "ἔμβαλε",
+      "normalized_label": "ἐμβάλλειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-1-50-habrotoninon:process:apobrechein-3",
+      "entity_type": "process",
+      "surface_form": "ἀποβρέξας",
+      "normalized_label": "ἀποβρέχειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-1-50-habrotoninon:process:ekpiezein-4",
+      "entity_type": "process",
+      "surface_form": "ἐξίπου",
+      "normalized_label": "ἐκπιέζειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-1-50-habrotoninon:process:poiein-5",
+      "entity_type": "process",
+      "surface_form": "ποιῆσαι",
+      "normalized_label": "ποιεῖν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-1-50-habrotoninon:process:ekballein-6",
+      "entity_type": "process",
+      "surface_form": "ἐκβαλὼν",
+      "normalized_label": "ἐκβάλλειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-1-50-habrotoninon:process:emballein-7",
+      "entity_type": "process",
+      "surface_form": "ἐμβαλὼν",
+      "normalized_label": "ἐμβάλλειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-1-50-habrotoninon:process:enapobrechein-8",
+      "entity_type": "process",
+      "surface_form": "ἐναποβρέχων",
+      "normalized_label": "ἐναποβρέχειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-1-50-habrotoninon:process:ekpiezein-9",
+      "entity_type": "process",
+      "surface_form": "ἐκπίεζε",
+      "normalized_label": "ἐκπιέζειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-reference:dioscorides-1-50-habrotoninon:reference:kyprinon-1",
+      "entity_type": "preparation_reference",
+      "surface_form": "κύπρινον",
+      "normalized_label": "κύπρινον"
+    }
+  ]
+}

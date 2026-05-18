@@ -1,0 +1,57 @@
+@import url("/experiments/aetius-book1-emended-compare/style.css");
+
+.status-accepted {
+  background: #d8ebd0;
+}
+
+.status-pending {
+  background: #f4e6b6;
+}
+
+.status-rejected {
+  background: #f6d9d4;
+}
+
+.field-list {
+  display: grid;
+  gap: 0.75rem;
+}
+
+.field-item {
+  border: 1px solid var(--line);
+  border-radius: 12px;
+  background: var(--panel-strong);
+  padding: 0.8rem;
+}
+
+.field-op {
+  font-size: 0.82rem;
+  color: var(--muted);
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+
+.mono {
+  font-family: "SFMono-Regular", Consolas, "Liberation Mono", monospace;
+  font-size: 0.92rem;
+}
+
+.split-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 1rem;
+}
+
+.mini-title {
+  margin: 0 0 0.4rem;
+  font-size: 0.9rem;
+  color: var(--muted);
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+}
+
+@media (max-width: 880px) {
+  .split-grid {
+    grid-template-columns: 1fr;
+  }
+}

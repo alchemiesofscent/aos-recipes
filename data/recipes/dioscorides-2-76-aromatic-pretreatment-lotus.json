@@ -1,0 +1,594 @@
+{
+  "dataset_key": "dioscorides_book2_fats",
+  "source_json": "experiments/dioscorides-book2-fats/data/dioscorides_book2_fats.json",
+  "host_raw_file": "tei/raw/tlg0656.tlg001.1st1K-grc1.xml",
+  "work_slug": "diosc.b2.fats",
+  "recipe_id": "dioscorides-2-76-aromatic-pretreatment-lotus",
+  "recipe_urn": "urn:aos:recipe:dioscorides-2-76-aromatic-pretreatment-lotus",
+  "record_urn": "urn:aos:recipe-record:dioscorides-2-76-aromatic-pretreatment-lotus",
+  "author": "Dioscorides",
+  "work": "De materia medica",
+  "book": "2",
+  "chapter": "76",
+  "section": "11-12",
+  "chapter_name": "στέαρ",
+  "lemma": "πρόστυψις στεάτων διὰ λωτίνου καρποῦ",
+  "text": "ἔτι δὲ καὶ οὕτως πρόστυφε τὰ στέατα κόψας ὅ τι ἂν αὐτῶν θέλῃς — πρόσφατον δὲ καὶ ἀμιγὲς αἵματος τά τε ἄλλα ἔχον, ἃ πολλάκις εἴρηται — καὶ ἐμβαλὼν εἰς λοπάδα καινὴν ἐπιχέας τε οἶνον παλαιὸν λευκὸν εὐώδη, ὡς ὑπερέχειν δακτύλους ὀκτώ, σύζεσον ἐλαφρῷ χρώμενος πυρί, ἕως τὴν σύμφυτον ὀσμὴν ὀποβάλῃ καὶ μᾶλλον οἰνίζῃ. εἶτα καθελὼν τὸ ἀγγεῖον καὶ ψύξας ἀνελοῦ τοῦ στέατος μνᾶς δύο καὶ ἐμβαλών εἰς λοπάδα προσεπιδούς τε τοῦ αὐτοῦ οἴνου κοτύλας τέσσαρας καὶ λωτίνου καρποῦ, οὖ τοῖς ξύλοις οἱ αὐλοποιοὶ χρῶνται, κεκομμένου μνᾶς τέσσαρας ἕψε πυρὶ κούφῳ διηνεκῶς κινῶν. ὅταν δὲ τὴν στεατώδη ἀποφοράν ἀποβάλῃ πᾶσαν, διυλίσας αὐτὸ ψῦχε, καὶ λαβὼν ἀσπαλάθου κεκομμένου μνᾶν μίαν, ἀμαρακίνου δὲ ἄνθους μνᾶς τέσσαρας οἴνῳ φύρασον παλαιῷ καὶ ἔασον μίαν νύκτα συμπιεῖν τῇ δ᾿ ἐχομένη εἰς χύτραν κεραμεᾶν τριχουνιαίαν καινὴν κάθες ταῦτα καὶ τὸ στέαρ, προσαπόδος δὲ καὶ οἴνου χοέως ἥμισυ καὶ σύζεσον ἅπαντα ὁμοῦ· ὅταν δὲ πάντων τῶν στυμμάτων τὴν δύναμιν καὶ τὴν ὀσμὴν ἀπολάβῃ τὸ στέαρ, καθελὼν αὐτὸ καὶ διυλίσας πῆξον ἀπόθου τε. ἐὰν δὲ εὐωδέστερον ποιῆσαι θέλῃς, μίσγε σμύρνης τῆς λιπαρωτάτης ὀκτὼ ὁλκὰς οἴνῳ διειμένας πολυετεῖ.",
+  "original_text": null,
+  "text_source": null,
+  "emendations": [],
+  "emendation_count": 0,
+  "source_kind": "main_text",
+  "entry_kind": "technique",
+  "citation": {
+    "pages": [
+      "155"
+    ],
+    "start": {
+      "page": "155",
+      "line": "5"
+    },
+    "end": {
+      "page": "155",
+      "line": "25"
+    },
+    "citation": {
+      "start": "155.5",
+      "end": "155.25"
+    },
+    "page_spans": [
+      {
+        "page": "155",
+        "start_line": "5",
+        "end_line": "25"
+      }
+    ],
+    "lines": [
+      {
+        "page": "155",
+        "line": "5",
+        "break_no": false,
+        "raw_text": "ἔτι δὲ καὶ οὕτως πρόστυφε τὰ στέατα κόψας ὅ τι ἂν 11 αὐτῶν θέλῃς — πρόσφατον δὲ καὶ ἀμιγὲς αἵματος τά τε ἄλλα ἔχον, ἃ πολλάκις εἴρηται — καὶ ἐμβαλὼν εἰς λοπάδα καινὴν ἐπιχέας τε οἶνον παλαιὸν λευκὸν εὐώδη, ὡς ὑπερέχειν δακτύλους",
+        "text": "ἔτι δὲ καὶ οὕτως πρόστυφε τὰ στέατα κόψας ὅ τι ἂν αὐτῶν θέλῃς — πρόσφατον δὲ καὶ ἀμιγὲς αἵματος τά τε ἄλλα ἔχον, ἃ πολλάκις εἴρηται — καὶ ἐμβαλὼν εἰς λοπάδα καινὴν ἐπιχέας τε οἶνον παλαιὸν λευκὸν εὐώδη, ὡς ὑπερέχειν δακτύλους",
+        "citation": "155.5"
+      },
+      {
+        "page": "155",
+        "line": "10",
+        "break_no": false,
+        "raw_text": "ὀκτώ, σύζεσον ἐλαφρῷ χρώμενος πυρί, ἕως τὴν σύμφυτον ὀσμὴν ὀποβάλῃ καὶ μᾶλλον οἰνίζῃ. εἶτα καθελὼν τὸ ἀγγεῖον καὶ ψύξας ἀνελοῦ τοῦ στέατος μνᾶς δύο καὶ ἐμβαλών εἰς λοπάδα προσεπιδούς τε τοῦ αὐτοῦ οἴνου κοτύλας τέσσαρας καὶ λωτίνου καρποῦ, οὖ τοῖς ξύλοις οἱ αὐλοποιοὶ χρῶνται, κεκομμένου",
+        "text": "ὀκτώ, σύζεσον ἐλαφρῷ χρώμενος πυρί, ἕως τὴν σύμφυτον ὀσμὴν ὀποβάλῃ καὶ μᾶλλον οἰνίζῃ. εἶτα καθελὼν τὸ ἀγγεῖον καὶ ψύξας ἀνελοῦ τοῦ στέατος μνᾶς δύο καὶ ἐμβαλών εἰς λοπάδα προσεπιδούς τε τοῦ αὐτοῦ οἴνου κοτύλας τέσσαρας καὶ λωτίνου καρποῦ, οὖ τοῖς ξύλοις οἱ αὐλοποιοὶ χρῶνται, κεκομμένου",
+        "citation": "155.10"
+      },
+      {
+        "page": "155",
+        "line": "15",
+        "break_no": false,
+        "raw_text": "μνᾶς τέσσαρας ἕψε πυρὶ κούφῳ διηνεκῶς κινῶν.",
+        "text": "μνᾶς τέσσαρας ἕψε πυρὶ κούφῳ διηνεκῶς κινῶν.",
+        "citation": "155.15"
+      },
+      {
+        "page": "155",
+        "line": "15",
+        "break_no": false,
+        "raw_text": "ὅταν 12 δὲ τὴν στεατώδη ἀποφοράν ἀποβάλῃ πᾶσαν, διυλίσας αὐτὸ ψῦχε, καὶ λαβὼν ἀσπαλάθου κεκομμένου μνᾶν μίαν, ἀμαρακίνου δὲ ἄνθους μνᾶς τέσσαρας οἴνῳ φύρασον παλαιῷ καὶ ἔασον μίαν νύκτα συμπιεῖν τῇ δ᾿ ἐχομένη εἰς χύτραν κεραμεᾶν τριχουνιαίαν",
+        "text": "ὅταν δὲ τὴν στεατώδη ἀποφοράν ἀποβάλῃ πᾶσαν, διυλίσας αὐτὸ ψῦχε, καὶ λαβὼν ἀσπαλάθου κεκομμένου μνᾶν μίαν, ἀμαρακίνου δὲ ἄνθους μνᾶς τέσσαρας οἴνῳ φύρασον παλαιῷ καὶ ἔασον μίαν νύκτα συμπιεῖν τῇ δ᾿ ἐχομένη εἰς χύτραν κεραμεᾶν τριχουνιαίαν",
+        "citation": "155.15"
+      },
+      {
+        "page": "155",
+        "line": "20",
+        "break_no": false,
+        "raw_text": "καινὴν κάθες ταῦτα καὶ τὸ στέαρ, προσαπόδος δὲ καὶ οἴνου χοέως ἥμισυ καὶ σύζεσον ἅπαντα ὁμοῦ· ὅταν δὲ πάντων τῶν στυμμάτων τὴν δύναμιν καὶ τὴν ὀσμὴν ἀπολάβῃ τὸ στέαρ, καθελὼν αὐτὸ καὶ διυλίσας πῆξον ἀπόθου τε. ἐὰν δὲ εὐωδέστερον ποιῆσαι θέλῃς, μίσγε σμύρνης τῆς λιπαρωτάτης",
+        "text": "καινὴν κάθες ταῦτα καὶ τὸ στέαρ, προσαπόδος δὲ καὶ οἴνου χοέως ἥμισυ καὶ σύζεσον ἅπαντα ὁμοῦ· ὅταν δὲ πάντων τῶν στυμμάτων τὴν δύναμιν καὶ τὴν ὀσμὴν ἀπολάβῃ τὸ στέαρ, καθελὼν αὐτὸ καὶ διυλίσας πῆξον ἀπόθου τε. ἐὰν δὲ εὐωδέστερον ποιῆσαι θέλῃς, μίσγε σμύρνης τῆς λιπαρωτάτης",
+        "citation": "155.20"
+      },
+      {
+        "page": "155",
+        "line": "25",
+        "break_no": false,
+        "raw_text": "ὀκτὼ ὁλκὰς οἴνῳ διειμένας πολυετεῖ.",
+        "text": "ὀκτὼ ὁλκὰς οἴνῳ διειμένας πολυετεῖ.",
+        "citation": "155.25"
+      }
+    ],
+    "edition_key": "wellmann"
+  },
+  "notes": [
+    "Book 2 fats slice split into logical preparation and technique units from chapters 72, 74, and 76.",
+    "Bare Arabic numerals in the raw witness are treated as structural or note noise and removed from display text, except parenthetical cross-references such as (I 68).",
+    "Section markers are stored separately and displayed near sentence boundaries as heuristic navigation aids.",
+    "Conservative split record generated locally because Codex structured-authority generation was rate-limited."
+  ],
+  "alignment_status": "pending",
+  "alignment_confidence": "pending",
+  "alignment_evidence": null,
+  "review_status": "reviewed_structured_authority",
+  "review_provenance": {
+    "authority_source": "reports/entity_review/structured/dioscorides.json",
+    "authority_recipe_id": "dioscorides-2-76-aromatic-pretreatment-lotus",
+    "authority_lemma": "πρόστυψις στεάτων διὰ λωτίνου καρποῦ",
+    "model": "gpt-5.4",
+    "reasoning_effort": "high",
+    "dataset_key": "dioscorides_book2_fats",
+    "entity_model_version": "1.2",
+    "authority_version": "2026-04-13-qty-alt-v1",
+    "prompt_version": "qty-alt-pass-v1",
+    "build_version": "2026-05-18T15:51:35Z"
+  },
+  "schema_version": "1.2",
+  "build_metadata": {
+    "builder": "scripts/recipes/build_recipe_entities.py",
+    "built_at": "2026-05-18T15:51:35Z",
+    "source_structured_authority": "reports/entity_review/structured/dioscorides.json",
+    "authority_model": "gpt-5.4",
+    "authority_reasoning_effort": "high",
+    "dataset_key": "dioscorides_book2_fats",
+    "entity_model_version": "1.2",
+    "authority_version": "2026-04-13-qty-alt-v1",
+    "prompt_version": "qty-alt-pass-v1",
+    "build_version": "2026-05-18T15:51:35Z"
+  },
+  "recipe_text_excerpt": "ἔτι δὲ καὶ οὕτως πρόστυφε τὰ στέατα κόψας ὅ τι ἂν αὐτῶν θέλῃς — πρόσφατον δὲ καὶ ἀμιγὲς αἵματος τά",
+  "preparation": {
+    "preparation_id": "dioscorides-2-76-aromatic-pretreatment-lotus:preparation:prostypsis-steaton-dia-lotinoy-karpoy",
+    "preparation_urn": "urn:aos:recipe-preparation:dioscorides-2-76-aromatic-pretreatment-lotus:preparation:prostypsis-steaton-dia-lotinoy-karpoy",
+    "source_span": "πρόστυψις στεάτων διὰ λωτίνου καρποῦ",
+    "surface_form": "πρόστυψις στεάτων διὰ λωτίνου καρποῦ",
+    "normalized_label": "πρόστυψις στεάτων διὰ λωτίνου καρποῦ",
+    "qualifiers": [],
+    "regimen_notes": [],
+    "certainty": "certain",
+    "notes": [
+      "Conservative split authority generated from exact spans in the previous broad Book 2 fat authority."
+    ],
+    "host_locator": {
+      "book": "2",
+      "chapter": "76",
+      "section": "11-12",
+      "citation": {
+        "start": "155.5",
+        "end": "155.25"
+      }
+    }
+  },
+  "ingredients": [
+    {
+      "ingredient_id": "dioscorides-2-76-aromatic-pretreatment-lotus:ingredient:aspalathos-1",
+      "ingredient_urn": "urn:aos:recipe-ingredient:dioscorides-2-76-aromatic-pretreatment-lotus:ingredient:aspalathos-1",
+      "source_span": "ἀσπαλάθου",
+      "surface_form": "ἀσπαλάθου",
+      "base_label": "ἀσπάλαθος",
+      "normalized_label": "ἀσπάλαθος",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [
+        "dioscorides-2-76-aromatic-pretreatment-lotus:process:phyran-3"
+      ],
+      "quantities": [
+        {
+          "source_span": "μνᾶν μίαν",
+          "raw_number": "μίαν",
+          "normalized_number": 1,
+          "raw_unit": "μνᾶν",
+          "normalized_unit": "mna",
+          "certainty": "certain",
+          "notes": [
+            "Later aromatic mixture."
+          ]
+        }
+      ],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "2",
+        "chapter": "76",
+        "section": "11-12",
+        "citation": {
+          "start": "155.5",
+          "end": "155.25"
+        }
+      }
+    },
+    {
+      "ingredient_id": "dioscorides-2-76-aromatic-pretreatment-lotus:ingredient:oinos-palaios-leykos-eyodes-2",
+      "ingredient_urn": "urn:aos:recipe-ingredient:dioscorides-2-76-aromatic-pretreatment-lotus:ingredient:oinos-palaios-leykos-eyodes-2",
+      "source_span": "οἶνον παλαιὸν λευκὸν εὐώδη",
+      "surface_form": "οἶνον παλαιὸν λευκὸν εὐώδη",
+      "base_label": "οἶνος",
+      "normalized_label": "οἶνος παλαιὸς λευκὸς εὐώδης",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [],
+      "quantities": [
+        {
+          "source_span": "δακτύλους ὀκτώ",
+          "raw_number": "ὀκτώ",
+          "normalized_number": 8,
+          "raw_unit": "δακτύλους",
+          "normalized_unit": null,
+          "certainty": "uncertain",
+          "notes": [
+            "Fill height above the fat."
+          ]
+        }
+      ],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "2",
+        "chapter": "76",
+        "section": "11-12",
+        "citation": {
+          "start": "155.5",
+          "end": "155.25"
+        }
+      }
+    },
+    {
+      "ingredient_id": "dioscorides-2-76-aromatic-pretreatment-lotus:ingredient:karpos-lotinos-3",
+      "ingredient_urn": "urn:aos:recipe-ingredient:dioscorides-2-76-aromatic-pretreatment-lotus:ingredient:karpos-lotinos-3",
+      "source_span": "λωτίνου καρποῦ",
+      "surface_form": "λωτίνου καρποῦ",
+      "base_label": "καρπός",
+      "normalized_label": "καρπὸς λωτῖνος",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [
+        "dioscorides-2-76-aromatic-pretreatment-lotus:process:epsein-1"
+      ],
+      "quantities": [
+        {
+          "source_span": "μνᾶς τέσσαρας",
+          "raw_number": "τέσσαρας",
+          "normalized_number": 4,
+          "raw_unit": "μνᾶς",
+          "normalized_unit": "mna",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "2",
+        "chapter": "76",
+        "section": "11-12",
+        "citation": {
+          "start": "155.5",
+          "end": "155.25"
+        }
+      }
+    },
+    {
+      "ingredient_id": "dioscorides-2-76-aromatic-pretreatment-lotus:ingredient:anthos-amarakinon-4",
+      "ingredient_urn": "urn:aos:recipe-ingredient:dioscorides-2-76-aromatic-pretreatment-lotus:ingredient:anthos-amarakinon-4",
+      "source_span": "ἀμαρακίνου δὲ ἄνθους",
+      "surface_form": "ἀμαρακίνου δὲ ἄνθους",
+      "base_label": "ἄνθος",
+      "normalized_label": "ἄνθος ἀμαράκινον",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [],
+      "quantities": [
+        {
+          "source_span": "μνᾶς τέσσαρας",
+          "raw_number": "τέσσαρας",
+          "normalized_number": 4,
+          "raw_unit": "μνᾶς",
+          "normalized_unit": "mna",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "2",
+        "chapter": "76",
+        "section": "11-12",
+        "citation": {
+          "start": "155.5",
+          "end": "155.25"
+        }
+      }
+    },
+    {
+      "ingredient_id": "dioscorides-2-76-aromatic-pretreatment-lotus:ingredient:smyrna-liparotate-5",
+      "ingredient_urn": "urn:aos:recipe-ingredient:dioscorides-2-76-aromatic-pretreatment-lotus:ingredient:smyrna-liparotate-5",
+      "source_span": "σμύρνης τῆς λιπαρωτάτης",
+      "surface_form": "σμύρνης τῆς λιπαρωτάτης",
+      "base_label": "σμύρνα",
+      "normalized_label": "σμύρνα λιπαρωτάτη",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [],
+      "quantities": [
+        {
+          "source_span": "ὀκτὼ ὁλκὰς",
+          "raw_number": "ὀκτὼ",
+          "normalized_number": 8,
+          "raw_unit": "ὁλκὰς",
+          "normalized_unit": "holce",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "2",
+        "chapter": "76",
+        "section": "11-12",
+        "citation": {
+          "start": "155.5",
+          "end": "155.25"
+        }
+      }
+    }
+  ],
+  "processes": [
+    {
+      "process_id": "dioscorides-2-76-aromatic-pretreatment-lotus:process:epsein-1",
+      "process_urn": "urn:aos:recipe-process:dioscorides-2-76-aromatic-pretreatment-lotus:process:epsein-1",
+      "source_span": "ἕψε",
+      "surface_form": "ἕψε",
+      "normalized_label": "ἕψειν",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "2",
+        "chapter": "76",
+        "section": "11-12",
+        "citation": {
+          "start": "155.5",
+          "end": "155.25"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-2-76-aromatic-pretreatment-lotus:process:syzeein-2",
+      "process_urn": "urn:aos:recipe-process:dioscorides-2-76-aromatic-pretreatment-lotus:process:syzeein-2",
+      "source_span": "σύζεσον",
+      "surface_form": "σύζεσον",
+      "normalized_label": "συζέειν",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "2",
+        "chapter": "76",
+        "section": "11-12",
+        "citation": {
+          "start": "155.5",
+          "end": "155.25"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-2-76-aromatic-pretreatment-lotus:process:phyran-3",
+      "process_urn": "urn:aos:recipe-process:dioscorides-2-76-aromatic-pretreatment-lotus:process:phyran-3",
+      "source_span": "φύρασον",
+      "surface_form": "φύρασον",
+      "normalized_label": "φυρᾶν",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "other",
+          "source_span": "παλαιῷ",
+          "normalized_value": "παλαιῷ",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "2",
+        "chapter": "76",
+        "section": "11-12",
+        "citation": {
+          "start": "155.5",
+          "end": "155.25"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-2-76-aromatic-pretreatment-lotus:process:diylizein-4",
+      "process_urn": "urn:aos:recipe-process:dioscorides-2-76-aromatic-pretreatment-lotus:process:diylizein-4",
+      "source_span": "διυλίσας",
+      "surface_form": "διυλίσας",
+      "normalized_label": "διυλίζειν",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "2",
+        "chapter": "76",
+        "section": "11-12",
+        "citation": {
+          "start": "155.5",
+          "end": "155.25"
+        }
+      }
+    }
+  ],
+  "materials": [],
+  "people": [],
+  "places": [],
+  "uses": [],
+  "preparation_names": [],
+  "other_preparations_mentioned": [],
+  "works_mentioned": [],
+  "entities": [
+    {
+      "entity_urn": "urn:aos:recipe-preparation:dioscorides-2-76-aromatic-pretreatment-lotus:preparation:prostypsis-steaton-dia-lotinoy-karpoy",
+      "entity_type": "label",
+      "surface_form": "πρόστυψις στεάτων διὰ λωτίνου καρποῦ",
+      "normalized_label": "πρόστυψις στεάτων διὰ λωτίνου καρποῦ"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:dioscorides-2-76-aromatic-pretreatment-lotus:ingredient:aspalathos-1",
+      "entity_type": "ingredient",
+      "surface_form": "ἀσπαλάθου",
+      "normalized_label": "ἀσπάλαθος"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:dioscorides-2-76-aromatic-pretreatment-lotus:ingredient:oinos-palaios-leykos-eyodes-2",
+      "entity_type": "ingredient",
+      "surface_form": "οἶνον παλαιὸν λευκὸν εὐώδη",
+      "normalized_label": "οἶνος παλαιὸς λευκὸς εὐώδης"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:dioscorides-2-76-aromatic-pretreatment-lotus:ingredient:karpos-lotinos-3",
+      "entity_type": "ingredient",
+      "surface_form": "λωτίνου καρποῦ",
+      "normalized_label": "καρπὸς λωτῖνος"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:dioscorides-2-76-aromatic-pretreatment-lotus:ingredient:anthos-amarakinon-4",
+      "entity_type": "ingredient",
+      "surface_form": "ἀμαρακίνου δὲ ἄνθους",
+      "normalized_label": "ἄνθος ἀμαράκινον"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:dioscorides-2-76-aromatic-pretreatment-lotus:ingredient:smyrna-liparotate-5",
+      "entity_type": "ingredient",
+      "surface_form": "σμύρνης τῆς λιπαρωτάτης",
+      "normalized_label": "σμύρνα λιπαρωτάτη"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-2-76-aromatic-pretreatment-lotus:process:epsein-1",
+      "entity_type": "process",
+      "surface_form": "ἕψε",
+      "normalized_label": "ἕψειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-2-76-aromatic-pretreatment-lotus:process:syzeein-2",
+      "entity_type": "process",
+      "surface_form": "σύζεσον",
+      "normalized_label": "συζέειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-2-76-aromatic-pretreatment-lotus:process:phyran-3",
+      "entity_type": "process",
+      "surface_form": "φύρασον",
+      "normalized_label": "φυρᾶν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-2-76-aromatic-pretreatment-lotus:process:diylizein-4",
+      "entity_type": "process",
+      "surface_form": "διυλίσας",
+      "normalized_label": "διυλίζειν"
+    }
+  ],
+  "canonical_file": "data/recipes/dioscorides-2-76-aromatic-pretreatment-lotus.json",
+  "source_entry": {
+    "source_id": "dioscorides-2-76-aromatic-pretreatment-lotus",
+    "derived_recipe_id": "dioscorides-2-76-aromatic-pretreatment-lotus",
+    "entry_kind": "technique",
+    "source_kind": "main_text",
+    "source_lines": {
+      "start": "155.5",
+      "end": "155.25"
+    },
+    "section_markers": [
+      {
+        "chapter": "76",
+        "section": "11",
+        "label": "§11",
+        "raw_token": "11",
+        "offset": 0
+      },
+      {
+        "chapter": "76",
+        "section": "12",
+        "label": "§12",
+        "raw_token": "12",
+        "offset": 557
+      }
+    ]
+  },
+  "entity_groups": {
+    "labels": [
+      {
+        "entity_urn": "urn:aos:recipe-preparation:dioscorides-2-76-aromatic-pretreatment-lotus:preparation:prostypsis-steaton-dia-lotinoy-karpoy",
+        "surface_form": "πρόστυψις στεάτων διὰ λωτίνου καρποῦ",
+        "normalized_label": "πρόστυψις στεάτων διὰ λωτίνου καρποῦ"
+      }
+    ],
+    "ingredients": [
+      {
+        "entity_urn": "urn:aos:recipe-ingredient:dioscorides-2-76-aromatic-pretreatment-lotus:ingredient:aspalathos-1",
+        "surface_form": "ἀσπαλάθου",
+        "normalized_label": "ἀσπάλαθος",
+        "quantity_display": "μνᾶν μίαν"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-ingredient:dioscorides-2-76-aromatic-pretreatment-lotus:ingredient:oinos-palaios-leykos-eyodes-2",
+        "surface_form": "οἶνον παλαιὸν λευκὸν εὐώδη",
+        "normalized_label": "οἶνος παλαιὸς λευκὸς εὐώδης",
+        "quantity_display": "δακτύλους ὀκτώ"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-ingredient:dioscorides-2-76-aromatic-pretreatment-lotus:ingredient:karpos-lotinos-3",
+        "surface_form": "λωτίνου καρποῦ",
+        "normalized_label": "καρπὸς λωτῖνος",
+        "quantity_display": "μνᾶς τέσσαρας"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-ingredient:dioscorides-2-76-aromatic-pretreatment-lotus:ingredient:anthos-amarakinon-4",
+        "surface_form": "ἀμαρακίνου δὲ ἄνθους",
+        "normalized_label": "ἄνθος ἀμαράκινον",
+        "quantity_display": "μνᾶς τέσσαρας"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-ingredient:dioscorides-2-76-aromatic-pretreatment-lotus:ingredient:smyrna-liparotate-5",
+        "surface_form": "σμύρνης τῆς λιπαρωτάτης",
+        "normalized_label": "σμύρνα λιπαρωτάτη",
+        "quantity_display": "ὀκτὼ ὁλκὰς"
+      }
+    ],
+    "processes": [
+      {
+        "entity_urn": "urn:aos:recipe-process:dioscorides-2-76-aromatic-pretreatment-lotus:process:epsein-1",
+        "surface_form": "ἕψε",
+        "normalized_label": "ἕψειν"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-process:dioscorides-2-76-aromatic-pretreatment-lotus:process:syzeein-2",
+        "surface_form": "σύζεσον",
+        "normalized_label": "συζέειν"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-process:dioscorides-2-76-aromatic-pretreatment-lotus:process:phyran-3",
+        "surface_form": "φύρασον",
+        "normalized_label": "φυρᾶν"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-process:dioscorides-2-76-aromatic-pretreatment-lotus:process:diylizein-4",
+        "surface_form": "διυλίσας",
+        "normalized_label": "διυλίζειν"
+      }
+    ],
+    "tools": [],
+    "other_preparations_mentioned": [],
+    "people": [],
+    "places": [],
+    "works_mentioned": [],
+    "preparation_names": []
+  }
+}

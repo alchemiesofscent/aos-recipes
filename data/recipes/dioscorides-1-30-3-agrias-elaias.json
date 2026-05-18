@@ -1,0 +1,371 @@
+{
+  "dataset_key": "dioscorides_book1_perfumes_resins",
+  "source_json": "experiments/dioscorides-book1-perfumes-resins/data/dioscorides_book1_perfumes_resins.json",
+  "host_raw_file": "tei/raw/tlg0656.tlg001.1st1K-grc1.xml",
+  "work_slug": "diosc.b1.recipes",
+  "recipe_id": "dioscorides-1-30-3-agrias-elaias",
+  "recipe_urn": "urn:aos:recipe:dioscorides-1-30-3-agrias-elaias",
+  "record_urn": "urn:aos:recipe-record:dioscorides-1-30-3-agrias-elaias",
+  "author": "Dioscorides",
+  "work": "De materia medica",
+  "book": "1",
+  "chapter": "30",
+  "section": "3",
+  "chapter_name": "ἔλαιον πρὸς τὴν ἐν ὑγιείᾳ χρῆσιν",
+  "lemma": "ἔλαιον ἀγρίας ἐλαίας",
+  "text": "3 τὸ δὲ ἐκ τῆς ἀγρίας ἐλαίας ἔλαιον στυπτικώτερον, πρὸς μὲν τὴν ἐν ὑγιείᾳ χρῆσιν δεύτερον, κεφαλαλγοῦσι δὲ ἀντὶ ῥοδίνου ἁρμόζει, ἐπέχον καὶ ἱδρῶτας καὶ τρίχας ῥεούσας. ἀποσμήχει δὲ καὶ πίτυρα καὶ ἀχῶρας καὶ ψώρας καὶ λέπρας, βράδιόν τε πολιοῖ καθ᾿ ἑκάστην ἡμέραν ἐπαλειφόμενον.",
+  "original_text": null,
+  "text_source": null,
+  "emendations": [],
+  "emendation_count": 0,
+  "source_kind": "main_text",
+  "entry_kind": "recipe",
+  "citation": {
+    "pages": [
+      "34"
+    ],
+    "start": {
+      "page": "34",
+      "line": "15"
+    },
+    "end": {
+      "page": "34",
+      "line": "20"
+    },
+    "citation": {
+      "start": "34.15",
+      "end": "34.20"
+    },
+    "page_spans": [
+      {
+        "page": "34",
+        "start_line": "15",
+        "end_line": "20"
+      }
+    ],
+    "lines": [
+      {
+        "page": "34",
+        "line": "15",
+        "break_no": false,
+        "text": "3 τὸ δὲ ἐκ τῆς ἀγρίας ἐλαίας ἔλαιον στυπτικώτερον, πρὸς μὲν τὴν ἐν ὑγιείᾳ χρῆσιν δεύτερον, κεφαλαλγοῦσι δὲ ἀντὶ ῥοδίνου ἁρμόζει, ἐπέχον καὶ ἱδρῶτας καὶ τρίχας ῥεούσας. ἀποσμήχει",
+        "citation": "34.15"
+      },
+      {
+        "page": "34",
+        "line": "20",
+        "break_no": false,
+        "text": "δὲ καὶ πίτυρα καὶ ἀχῶρας καὶ ψώρας καὶ λέπρας, βράδιόν τε πολιοῖ καθ᾿ ἑκάστην ἡμέραν ἐπαλειφόμενον.",
+        "citation": "34.20"
+      }
+    ],
+    "edition_key": "wellmann"
+  },
+  "notes": [
+    "Raw lines 1590-1633 are book 1 chapter 25 in this witness, although the prompt referred to chapter 35.",
+    "The perfume proemium is taken from the later transition at chapter 42 section 2 (raw lines 2306-2342), not from the chapter 25 κῦφι entry.",
+    "The ἰασμέλαιον entry is preserved only in the apparatus as an addition from another recension."
+  ],
+  "alignment_status": "pending",
+  "alignment_confidence": "pending",
+  "alignment_evidence": null,
+  "review_status": "reviewed_structured_authority",
+  "review_provenance": {
+    "authority_source": "reports/entity_review/structured/dioscorides.json",
+    "authority_recipe_id": "dioscorides-1-30-3-agrias-elaias",
+    "authority_lemma": "ἔλαιον ἀγρίας ἐλαίας",
+    "model": "gpt-5.4",
+    "reasoning_effort": "high",
+    "dataset_key": "dioscorides_book1_perfumes_resins",
+    "entity_model_version": "1.2",
+    "authority_version": "2026-04-13-qty-alt-v1",
+    "prompt_version": "qty-alt-pass-v1",
+    "build_version": "2026-05-18T15:51:35Z"
+  },
+  "schema_version": "1.2",
+  "build_metadata": {
+    "builder": "scripts/recipes/build_recipe_entities.py",
+    "built_at": "2026-05-18T15:51:35Z",
+    "source_structured_authority": "reports/entity_review/structured/dioscorides.json",
+    "authority_model": "gpt-5.4",
+    "authority_reasoning_effort": "high",
+    "dataset_key": "dioscorides_book1_perfumes_resins",
+    "entity_model_version": "1.2",
+    "authority_version": "2026-04-13-qty-alt-v1",
+    "prompt_version": "qty-alt-pass-v1",
+    "build_version": "2026-05-18T15:51:35Z"
+  },
+  "recipe_text_excerpt": "τὸ δὲ ἐκ τῆς ἀγρίας ἐλαίας ἔλαιον στυπτικώτερον, πρὸς μὲν τὴν ἐν ὑγιείᾳ χρῆσιν δεύτερον, κεφαλαλγοῦσι δὲ ἀντὶ ῥοδίνου ἁρμόζει,",
+  "preparation": {
+    "preparation_id": "dioscorides-1-30-3-agrias-elaias:preparation:elaion-agrias-elaias",
+    "preparation_urn": "urn:aos:recipe-preparation:dioscorides-1-30-3-agrias-elaias:preparation:elaion-agrias-elaias",
+    "source_span": "ἔλαιον ἀγρίας ἐλαίας",
+    "surface_form": "ἔλαιον ἀγρίας ἐλαίας",
+    "normalized_label": "ἔλαιον ἀγρίας ἐλαίας",
+    "qualifiers": [],
+    "regimen_notes": [],
+    "certainty": "certain",
+    "notes": [
+      "Used lemma because the running text does not restate the preparation name as cleanly as the lemma."
+    ],
+    "host_locator": {
+      "book": "1",
+      "chapter": "30",
+      "section": "3",
+      "citation": {
+        "start": "34.15",
+        "end": "34.20"
+      }
+    }
+  },
+  "ingredients": [
+    {
+      "ingredient_id": "dioscorides-1-30-3-agrias-elaias:ingredient:agria-elaia-1",
+      "ingredient_urn": "urn:aos:recipe-ingredient:dioscorides-1-30-3-agrias-elaias:ingredient:agria-elaia-1",
+      "source_span": "τῆς ἀγρίας ἐλαίας",
+      "surface_form": "τῆς ἀγρίας ἐλαίας",
+      "base_label": "ἐλαία",
+      "normalized_label": "ἀγρία ἐλαία",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [],
+      "quantities": [],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "30",
+        "section": "3",
+        "citation": {
+          "start": "34.15",
+          "end": "34.20"
+        }
+      }
+    }
+  ],
+  "processes": [
+    {
+      "process_id": "dioscorides-1-30-3-agrias-elaias:process:epaleiphesthai-1",
+      "process_urn": "urn:aos:recipe-process:dioscorides-1-30-3-agrias-elaias:process:epaleiphesthai-1",
+      "source_span": "ἐπαλειφόμενον",
+      "surface_form": "ἐπαλειφόμενον",
+      "normalized_label": "ἐπαλείφεσθαι",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "duration",
+          "source_span": "καθ᾿ ἑκάστην ἡμέραν",
+          "normalized_value": "καθ᾿ ἑκάστην ἡμέραν",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "30",
+        "section": "3",
+        "citation": {
+          "start": "34.15",
+          "end": "34.20"
+        }
+      }
+    }
+  ],
+  "materials": [],
+  "people": [],
+  "places": [],
+  "uses": [
+    {
+      "use_id": "dioscorides-1-30-3-agrias-elaias:use:pros-men-ten-en-ygieia-chresin-deyteron-1",
+      "use_urn": "urn:aos:recipe-use:dioscorides-1-30-3-agrias-elaias:use:pros-men-ten-en-ygieia-chresin-deyteron-1",
+      "category": "other",
+      "source_span": "πρὸς μὲν τὴν ἐν ὑγιείᾳ χρῆσιν δεύτερον",
+      "snippet": "πρὸς μὲν τὴν ἐν ὑγιείᾳ χρῆσιν δεύτερον",
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "30",
+        "section": "3",
+        "citation": {
+          "start": "34.15",
+          "end": "34.20"
+        }
+      }
+    },
+    {
+      "use_id": "dioscorides-1-30-3-agrias-elaias:use:kephalalgoysi-de-anti-rodinoy-armozei-2",
+      "use_urn": "urn:aos:recipe-use:dioscorides-1-30-3-agrias-elaias:use:kephalalgoysi-de-anti-rodinoy-armozei-2",
+      "category": "medical",
+      "source_span": "κεφαλαλγοῦσι δὲ ἀντὶ ῥοδίνου ἁρμόζει",
+      "snippet": "κεφαλαλγοῦσι δὲ ἀντὶ ῥοδίνου ἁρμόζει",
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "30",
+        "section": "3",
+        "citation": {
+          "start": "34.15",
+          "end": "34.20"
+        }
+      }
+    },
+    {
+      "use_id": "dioscorides-1-30-3-agrias-elaias:use:epechon-kai-idrotas-kai-trichas-reoysas-3",
+      "use_urn": "urn:aos:recipe-use:dioscorides-1-30-3-agrias-elaias:use:epechon-kai-idrotas-kai-trichas-reoysas-3",
+      "category": "cosmetic",
+      "source_span": "ἐπέχον καὶ ἱδρῶτας καὶ τρίχας ῥεούσας",
+      "snippet": "ἐπέχον καὶ ἱδρῶτας καὶ τρίχας ῥεούσας",
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "30",
+        "section": "3",
+        "citation": {
+          "start": "34.15",
+          "end": "34.20"
+        }
+      }
+    },
+    {
+      "use_id": "dioscorides-1-30-3-agrias-elaias:use:aposmechei-de-kai-pityra-kai-achoras-kai-psoras-kai-lepras-4",
+      "use_urn": "urn:aos:recipe-use:dioscorides-1-30-3-agrias-elaias:use:aposmechei-de-kai-pityra-kai-achoras-kai-psoras-kai-lepras-4",
+      "category": "medical",
+      "source_span": "ἀποσμήχει δὲ καὶ πίτυρα καὶ ἀχῶρας καὶ ψώρας καὶ λέπρας",
+      "snippet": "ἀποσμήχει δὲ καὶ πίτυρα καὶ ἀχῶρας καὶ ψώρας καὶ λέπρας",
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "30",
+        "section": "3",
+        "citation": {
+          "start": "34.15",
+          "end": "34.20"
+        }
+      }
+    },
+    {
+      "use_id": "dioscorides-1-30-3-agrias-elaias:use:bradion-te-polioi-kath-ekasten-emeran-epaleiphomenon-5",
+      "use_urn": "urn:aos:recipe-use:dioscorides-1-30-3-agrias-elaias:use:bradion-te-polioi-kath-ekasten-emeran-epaleiphomenon-5",
+      "category": "cosmetic",
+      "source_span": "βράδιόν τε πολιοῖ καθ᾿ ἑκάστην ἡμέραν ἐπαλειφόμενον",
+      "snippet": "βράδιόν τε πολιοῖ καθ᾿ ἑκάστην ἡμέραν ἐπαλειφόμενον",
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "30",
+        "section": "3",
+        "citation": {
+          "start": "34.15",
+          "end": "34.20"
+        }
+      }
+    }
+  ],
+  "preparation_names": [],
+  "other_preparations_mentioned": [
+    {
+      "reference_id": "dioscorides-1-30-3-agrias-elaias:reference:rodinon-1",
+      "reference_urn": "urn:aos:recipe-reference:dioscorides-1-30-3-agrias-elaias:reference:rodinon-1",
+      "source_span": "ῥοδίνου",
+      "surface_form": "ῥοδίνου",
+      "normalized_label": "ῥόδινον",
+      "certainty": "uncertain",
+      "notes": [
+        "Distinct preparation mentioned in substitution context; only the inflected form is explicit in the passage."
+      ],
+      "host_locator": {
+        "book": "1",
+        "chapter": "30",
+        "section": "3",
+        "citation": {
+          "start": "34.15",
+          "end": "34.20"
+        }
+      }
+    }
+  ],
+  "works_mentioned": [],
+  "entities": [
+    {
+      "entity_urn": "urn:aos:recipe-preparation:dioscorides-1-30-3-agrias-elaias:preparation:elaion-agrias-elaias",
+      "entity_type": "label",
+      "surface_form": "ἔλαιον ἀγρίας ἐλαίας",
+      "normalized_label": "ἔλαιον ἀγρίας ἐλαίας"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:dioscorides-1-30-3-agrias-elaias:ingredient:agria-elaia-1",
+      "entity_type": "ingredient",
+      "surface_form": "τῆς ἀγρίας ἐλαίας",
+      "normalized_label": "ἀγρία ἐλαία"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-1-30-3-agrias-elaias:process:epaleiphesthai-1",
+      "entity_type": "process",
+      "surface_form": "ἐπαλειφόμενον",
+      "normalized_label": "ἐπαλείφεσθαι"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-reference:dioscorides-1-30-3-agrias-elaias:reference:rodinon-1",
+      "entity_type": "preparation_reference",
+      "surface_form": "ῥοδίνου",
+      "normalized_label": "ῥόδινον"
+    }
+  ],
+  "canonical_file": "data/recipes/dioscorides-1-30-3-agrias-elaias.json",
+  "source_entry": {
+    "source_id": "dioscorides-1-30-3-agrias-elaias",
+    "derived_recipe_id": "dioscorides-1-30-3-agrias-elaias",
+    "entry_kind": "recipe",
+    "source_kind": "main_text",
+    "source_lines": {
+      "start": 1855,
+      "end": 3167
+    },
+    "section_markers": []
+  },
+  "entity_groups": {
+    "labels": [
+      {
+        "entity_urn": "urn:aos:recipe-preparation:dioscorides-1-30-3-agrias-elaias:preparation:elaion-agrias-elaias",
+        "surface_form": "ἔλαιον ἀγρίας ἐλαίας",
+        "normalized_label": "ἔλαιον ἀγρίας ἐλαίας"
+      }
+    ],
+    "ingredients": [
+      {
+        "entity_urn": "urn:aos:recipe-ingredient:dioscorides-1-30-3-agrias-elaias:ingredient:agria-elaia-1",
+        "surface_form": "τῆς ἀγρίας ἐλαίας",
+        "normalized_label": "ἀγρία ἐλαία",
+        "quantity_display": ""
+      }
+    ],
+    "processes": [
+      {
+        "entity_urn": "urn:aos:recipe-process:dioscorides-1-30-3-agrias-elaias:process:epaleiphesthai-1",
+        "surface_form": "ἐπαλειφόμενον",
+        "normalized_label": "ἐπαλείφεσθαι"
+      }
+    ],
+    "tools": [],
+    "other_preparations_mentioned": [
+      {
+        "entity_urn": "urn:aos:recipe-reference:dioscorides-1-30-3-agrias-elaias:reference:rodinon-1",
+        "surface_form": "ῥοδίνου",
+        "normalized_label": "ῥόδινον"
+      }
+    ],
+    "people": [],
+    "places": [],
+    "works_mentioned": [],
+    "preparation_names": []
+  }
+}

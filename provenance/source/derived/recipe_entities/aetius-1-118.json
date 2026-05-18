@@ -1,0 +1,709 @@
+{
+  "dataset_key": "aetius_book1_oils",
+  "source_json": "experiments/aetius-book1-ch99-136-oils/data/aetius_book1_ch99_136_oils.json",
+  "host_raw_file": "tei/raw/tlg0718001.xml",
+  "work_slug": "aetius.b1.oils",
+  "recipe_id": "aetius-1-118",
+  "recipe_urn": "urn:aos:recipe:aetius-1-118",
+  "record_urn": "urn:aos:recipe-record:aetius-1-118",
+  "author": "Aëtius of Amida",
+  "work": "Libri medicinales",
+  "book": "1",
+  "chapter": "118",
+  "section": "118",
+  "chapter_name": "Ναρκίσσινον ἐκ τῶν λευκῶν ἀνθῶν γίνεται τῆς ναρκίσσου",
+  "lemma": "Ναρκίσσινον ἐκ τῶν λευκῶν ἀνθῶν γίνεται τῆς ναρκίσσου",
+  "text": "Ναρκίσσινον ἐκ τῶν λευκῶν ἀνθῶν γίνεται τῆς ναρκίσσου προεψυγμένων νύκτα καὶ ἡμέραν καὶ ἐμβαλλομένων τῷ ἰταλικῷ ξέστῃ τοῦ γλυκυτάτου ἐλαίου 𐆄 β καὶ περισφιγγομένου ἀκριβῶς τοῦ βίκου καὶ ἡλιουμένου ἡμέρας δ. δεῖ δὲ καὶ ταύτας ἀμείβειν ὡς ἐπὶ τοῦ κρινίνου προείρηται καὶ μᾶλλον γίγνεται εὐῶδες τὸ ἔλαιον, μάλιστα εἰ συμμέτρως ἡλιωθῇ. εἰ γὰρ ἐπὶ πλέον ἡλιωθείη τὸ κρίνινον ἢ τὸ ναρκίσσινον ἢ τὸ ἰάτον ἢ ἄλλο τι τῶν μὴ ἰσχυρὰν καὶ μόνιμον ἐχόντων τὴν εὐωδίαν, ἄοσμον ἀποτελεῖται. δύναμιν δὲ ἔχει τὸ ναρκίσσινον θερμοτέραν τοῦ ἀνηθίνου, ὥστε καὶ τοῖς αὐτοῖς χρησιμεύειν ἐπὶ τοῦ ἄλλου σώματος χωρὶς κεφαλῆς, δριμεῖα γάρ ἐστιν ἡ ἀπὸ τοῦ ναρκισσίνου εὐωδία.",
+  "original_text": "Ναρκίσσινον ἐκ τῶν λευκῶν ἀνθῶν γίνεται τῆς ναρκίσσου προεψυγμένων νύκτα καὶ ἡμέραν καὶ ἐμβαλλομένων τῷ ἰταλικῷ ξέστῃ τοῦ γλυκυτάτου ἐλαίου 𐆄 β καὶ περισφιγγομένου ἀκριβῶς τοῦ βίκου καὶ ἡλιουμένου ἐπὶ ἡμέρας λ. δεῖ δὲ καὶ ταύτας ἀμείβειν ὡς ἐπὶ τοῦ κρινίνου προείρηται καὶ μᾶλλον γίγνεται εὐῶδες τὸ ἔλαιον, μάλιστα εἰ συμμέτρως ἡλιωθῇ. εἰ γὰρ ἐπὶ πλέον ἡλιωθείη τὸ κρίνινον ἢ τὸ ναρκίσσινον ἢ τὸ ἰάτον ἢ ἄλλο τι τῶν μὴ ἰσχυρὰν καὶ μόνιμον ἐχόντων τὴν εὐωδίαν, ἄνοσμον ἀποτελεῖται. δύναμιν δὲ ἔχει τὸ ναρκίσσινον θερμοτέραν τοῦ ἀνηθίνου, ὥστε καὶ τοῖς αὐτοῖς χρησιμεύειν ἐπὶ τοῦ ἄλλου σώματος χωρὶς κεφαλῆς, δριμεῖα γάρ ἐστιν ἡ ἀπὸ τοῦ ναρκισσίνου εὐωδία.",
+  "text_source": "emended",
+  "emendations": [
+    {
+      "locus": "[61.4]",
+      "start_citation": "61.4",
+      "end_citation": "61.4",
+      "operation": "replace",
+      "olivieri_text": "ἐπὶ ἡμέρας λ",
+      "adopted_text": "ἡμέρας δ",
+      "proposal_author": "Irene Cala",
+      "decision": "accepted",
+      "note": "ἡμέρας δ replaces ἐπὶ ἡμέρας λ"
+    },
+    {
+      "locus": "[61.8]",
+      "start_citation": "61.8",
+      "end_citation": "61.8",
+      "operation": "replace",
+      "olivieri_text": "ἄνοσμον",
+      "adopted_text": "ἄοσμον",
+      "proposal_author": "Irene Cala",
+      "decision": "accepted",
+      "note": "ἄοσμον replaces ἄνοσμον"
+    }
+  ],
+  "emendation_count": 2,
+  "source_kind": null,
+  "entry_kind": "recipe",
+  "citation": {
+    "pages": [
+      "61"
+    ],
+    "start": {
+      "page": "61",
+      "line": "1",
+      "xml_id": "oliv-61-1"
+    },
+    "end": {
+      "page": "61",
+      "line": "11",
+      "xml_id": "oliv-61-11"
+    },
+    "citation": {
+      "start": "61.1",
+      "end": "61.11"
+    },
+    "page_spans": [
+      {
+        "page": "61",
+        "start_line": "1",
+        "end_line": "11"
+      }
+    ],
+    "lines": [
+      {
+        "page": "61",
+        "line": "1",
+        "xml_id": "oliv-61-1",
+        "break_no": false,
+        "text": "Ναρκίσσινον ἐκ τῶν λευκῶν ἀνθῶν γίνεται τῆς ναρκίσσου προ-",
+        "citation": "61.1"
+      },
+      {
+        "page": "61",
+        "line": "2",
+        "xml_id": "oliv-61-2",
+        "break_no": true,
+        "text": "εψυγμένων νύκτα καὶ ἡμέραν καὶ ἐμβαλλομένων τῷ ἰταλικῷ ξέστῃ τοῦ",
+        "citation": "61.2"
+      },
+      {
+        "page": "61",
+        "line": "3",
+        "xml_id": "oliv-61-3",
+        "break_no": false,
+        "text": "γλυκυτάτου ἐλαίου 𐆄 β καὶ περισφιγγομένου ἀκριβῶς τοῦ βίκου καὶ",
+        "citation": "61.3"
+      },
+      {
+        "page": "61",
+        "line": "4",
+        "xml_id": "oliv-61-4",
+        "break_no": false,
+        "text": "ἡλιουμένου ἐπὶ ἡμέρας λ. δεῖ δὲ καὶ ταύτας ἀμείβειν ὡς ἐπὶ τοῦ",
+        "citation": "61.4"
+      },
+      {
+        "page": "61",
+        "line": "5",
+        "xml_id": "oliv-61-5",
+        "break_no": false,
+        "text": "κρινίνου προείρηται καὶ μᾶλλον γίγνεται εὐῶδες τὸ ἔλαιον, μάλιστα",
+        "citation": "61.5"
+      },
+      {
+        "page": "61",
+        "line": "6",
+        "xml_id": "oliv-61-6",
+        "break_no": false,
+        "text": "εἰ συμμέτρως ἡλιωθῇ. εἰ γὰρ ἐπὶ πλέον ἡλιωθείη τὸ κρίνινον ἢ τὸ",
+        "citation": "61.6"
+      },
+      {
+        "page": "61",
+        "line": "7",
+        "xml_id": "oliv-61-7",
+        "break_no": false,
+        "text": "ναρκίσσινον ἢ τὸ ἰάτον ἢ ἄλλο τι τῶν μὴ ἰσχυρὰν καὶ μόνιμον ἐχόν-",
+        "citation": "61.7"
+      },
+      {
+        "page": "61",
+        "line": "8",
+        "xml_id": "oliv-61-8",
+        "break_no": true,
+        "text": "των τὴν εὐωδίαν, ἄνοσμον ἀποτελεῖται. δύναμιν δὲ ἔχει τὸ ναρκίσσι-",
+        "citation": "61.8"
+      },
+      {
+        "page": "61",
+        "line": "9",
+        "xml_id": "oliv-61-9",
+        "break_no": true,
+        "text": "νον θερμοτέραν τοῦ ἀνηθίνου, ὥστε καὶ τοῖς αὐτοῖς χρησιμεύειν ἐπὶ",
+        "citation": "61.9"
+      },
+      {
+        "page": "61",
+        "line": "10",
+        "xml_id": "oliv-61-10",
+        "break_no": false,
+        "text": "τοῦ ἄλλου σώματος χωρὶς κεφαλῆς, δριμεῖα γάρ ἐστιν ἡ ἀπὸ τοῦ",
+        "citation": "61.10"
+      },
+      {
+        "page": "61",
+        "line": "11",
+        "xml_id": "oliv-61-11",
+        "break_no": false,
+        "text": "ναρκισσίνου εὐωδία.",
+        "citation": "61.11"
+      }
+    ],
+    "edition_key": "olivieri"
+  },
+  "notes": [],
+  "alignment_status": "pending",
+  "alignment_confidence": "pending",
+  "alignment_evidence": null,
+  "review_status": "reviewed_structured_authority",
+  "review_provenance": {
+    "authority_source": "reports/entity_review/structured/aetius_book1.json",
+    "authority_recipe_id": "aetius-1-118",
+    "authority_lemma": "ναρκίσσινον",
+    "model": "gpt-5.4",
+    "reasoning_effort": "high",
+    "dataset_key": "aetius_book1_oils",
+    "entity_model_version": "1.2",
+    "authority_version": "2026-04-13-qty-alt-v1",
+    "prompt_version": "qty-alt-pass-v1",
+    "build_version": "2026-05-18T15:51:35Z"
+  },
+  "schema_version": "1.2",
+  "build_metadata": {
+    "builder": "scripts/recipes/build_recipe_entities.py",
+    "built_at": "2026-05-18T15:51:35Z",
+    "source_structured_authority": "reports/entity_review/structured/aetius_book1.json",
+    "authority_model": "gpt-5.4",
+    "authority_reasoning_effort": "high",
+    "dataset_key": "aetius_book1_oils",
+    "entity_model_version": "1.2",
+    "authority_version": "2026-04-13-qty-alt-v1",
+    "prompt_version": "qty-alt-pass-v1",
+    "build_version": "2026-05-18T15:51:35Z"
+  },
+  "recipe_text_excerpt": "Ναρκίσσινον ἐκ τῶν λευκῶν ἀνθῶν γίνεται τῆς ναρκίσσου προεψυγμένων νύκτα καὶ ἡμέραν καὶ ἐμβαλλομένων τῷ ἰταλικῷ ξέστῃ τοῦ γλυκυτάτου ἐλαίου",
+  "preparation": {
+    "preparation_id": "aetius-1-118:preparation:narkissinon",
+    "preparation_urn": "urn:aos:recipe-preparation:aetius-1-118:preparation:narkissinon",
+    "source_span": "Ναρκίσσινον",
+    "surface_form": "Ναρκίσσινον",
+    "normalized_label": "ναρκίσσινον",
+    "qualifiers": [
+      {
+        "qualifier_type": "other",
+        "source_span": "ἐκ τῶν λευκῶν ἀνθῶν",
+        "normalized_value": "ἐκ τῶν λευκῶν ἀνθῶν",
+        "certainty": "certain",
+        "notes": []
+      }
+    ],
+    "regimen_notes": [
+      {
+        "source_span": "εἰ γὰρ ἐπὶ πλεῖον ἡλιωθείη τὸ κρίνινον ἢ τὸ ναρκίσσινον ἢ τὸ ἰάτον ἢ ἄλλο τι τῶν μὴ ἰσχυρὰν καὶ μόνιμον ἐχόντων τὴν εὐωδίαν, ἄοσμον ἀποτελεῖται",
+        "normalized_note": "ἡ ὑπερβολὴ τῆς ἡλιώσεως ἀφαιρεῖ τὴν εὐωδίαν",
+        "certainty": "certain",
+        "notes": []
+      }
+    ],
+    "certainty": "certain",
+    "notes": [],
+    "host_locator": {
+      "book": "1",
+      "chapter": "118",
+      "section": "118",
+      "citation": {
+        "start": "61.1",
+        "end": "61.11"
+      }
+    }
+  },
+  "ingredients": [
+    {
+      "ingredient_id": "aetius-1-118:ingredient:leyka-anthe-narkissoy-1",
+      "ingredient_urn": "urn:aos:recipe-ingredient:aetius-1-118:ingredient:leyka-anthe-narkissoy-1",
+      "source_span": "τῶν λευκῶν ἀνθῶν",
+      "surface_form": "τῶν λευκῶν ἀνθῶν",
+      "base_label": "ἄνθη",
+      "normalized_label": "λευκὰ ἄνθη ναρκίσσου",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [
+        "aetius-1-118:process:propsychein-1",
+        "aetius-1-118:process:emballein-2",
+        "aetius-1-118:process:ameibein-5"
+      ],
+      "quantities": [
+        {
+          "source_span": "𐆄 β",
+          "raw_number": "β",
+          "normalized_number": 2,
+          "raw_unit": "𐆄",
+          "normalized_unit": "uncia",
+          "certainty": "uncertain",
+          "notes": [
+            "The ounce count is attached to the narcissus flowers; the oil is separately measured by the Italian xestes."
+          ]
+        }
+      ],
+      "qualifiers": [
+        {
+          "qualifier_type": "color",
+          "source_span": "λευκῶν",
+          "normalized_value": "λευκός",
+          "certainty": "certain",
+          "notes": []
+        },
+        {
+          "qualifier_type": "other",
+          "source_span": "τῆς ναρκίσσου",
+          "normalized_value": "ναρκίσσος",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "118",
+        "section": "118",
+        "citation": {
+          "start": "61.1",
+          "end": "61.11"
+        }
+      }
+    },
+    {
+      "ingredient_id": "aetius-1-118:ingredient:glykytaton-elaion-2",
+      "ingredient_urn": "urn:aos:recipe-ingredient:aetius-1-118:ingredient:glykytaton-elaion-2",
+      "source_span": "τοῦ γλυκυτάτου ἐλαίου",
+      "surface_form": "τοῦ γλυκυτάτου ἐλαίου",
+      "base_label": "ἔλαιον",
+      "normalized_label": "γλυκύτατον ἔλαιον",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [
+        "aetius-1-118:process:emballein-2"
+      ],
+      "quantities": [
+        {
+          "source_span": "τῷ ἰταλικῷ ξέστῃ",
+          "raw_number": null,
+          "normalized_number": 1,
+          "raw_unit": "ἰταλικῷ ξέστῃ",
+          "normalized_unit": "xestes",
+          "certainty": "uncertain",
+          "notes": [
+            "Singular measure implies one xestes, but no numeral is written; the separate 𐆄 β belongs to the flowers."
+          ]
+        }
+      ],
+      "qualifiers": [
+        {
+          "qualifier_type": "other",
+          "source_span": "γλυκυτάτου",
+          "normalized_value": "γλυκύτατον",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "118",
+        "section": "118",
+        "citation": {
+          "start": "61.1",
+          "end": "61.11"
+        }
+      }
+    }
+  ],
+  "processes": [
+    {
+      "process_id": "aetius-1-118:process:propsychein-1",
+      "process_urn": "urn:aos:recipe-process:aetius-1-118:process:propsychein-1",
+      "source_span": "προεψυγμένων",
+      "surface_form": "προεψυγμένων",
+      "normalized_label": "προψύχειν",
+      "target_type": "ingredient",
+      "target_ids": [
+        "aetius-1-118:ingredient:leyka-anthe-narkissoy-1"
+      ],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "duration",
+          "source_span": "νύκτα καὶ ἡμέραν",
+          "normalized_value": "1 νὺξ καὶ 1 ἡμέρα",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "118",
+        "section": "118",
+        "citation": {
+          "start": "61.1",
+          "end": "61.11"
+        }
+      }
+    },
+    {
+      "process_id": "aetius-1-118:process:emballein-2",
+      "process_urn": "urn:aos:recipe-process:aetius-1-118:process:emballein-2",
+      "source_span": "ἐμβαλλομένων",
+      "surface_form": "ἐμβαλλομένων",
+      "normalized_label": "ἐμβάλλειν",
+      "target_type": "ingredient",
+      "target_ids": [
+        "aetius-1-118:ingredient:leyka-anthe-narkissoy-1"
+      ],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "location",
+          "source_span": "τῷ ἰταλικῷ ξέστῃ τοῦ γλυκυτάτου ἐλαίου",
+          "normalized_value": "ἐν γλυκυτάτῳ ἐλαίῳ",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "118",
+        "section": "118",
+        "citation": {
+          "start": "61.1",
+          "end": "61.11"
+        }
+      }
+    },
+    {
+      "process_id": "aetius-1-118:process:perisphiggein-3",
+      "process_urn": "urn:aos:recipe-process:aetius-1-118:process:perisphiggein-3",
+      "source_span": "περισφιγγομένου",
+      "surface_form": "περισφιγγομένου",
+      "normalized_label": "περισφίγγειν",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "manner",
+          "source_span": "ἀκριβῶς",
+          "normalized_value": "ἀκριβῶς",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "certainty": "certain",
+      "notes": [
+        "Applied to τοῦ βίκου."
+      ],
+      "host_locator": {
+        "book": "1",
+        "chapter": "118",
+        "section": "118",
+        "citation": {
+          "start": "61.1",
+          "end": "61.11"
+        }
+      }
+    },
+    {
+      "process_id": "aetius-1-118:process:elioyn-4",
+      "process_urn": "urn:aos:recipe-process:aetius-1-118:process:elioyn-4",
+      "source_span": "ἡλιουμένου",
+      "surface_form": "ἡλιουμένου",
+      "normalized_label": "ἡλιοῦν",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "duration",
+          "source_span": "ἐπὶ ἡμέρας δ",
+          "normalized_value": "4 ἡμέραι",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "118",
+        "section": "118",
+        "citation": {
+          "start": "61.1",
+          "end": "61.11"
+        }
+      }
+    },
+    {
+      "process_id": "aetius-1-118:process:ameibein-5",
+      "process_urn": "urn:aos:recipe-process:aetius-1-118:process:ameibein-5",
+      "source_span": "ἀμείβειν",
+      "surface_form": "ἀμείβειν",
+      "normalized_label": "ἀμείβειν",
+      "target_type": "ingredient",
+      "target_ids": [
+        "aetius-1-118:ingredient:leyka-anthe-narkissoy-1"
+      ],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "manner",
+          "source_span": "ὡς ἐπὶ τοῦ κρινίνου προείρηται",
+          "normalized_value": "ὡς ἐπὶ τοῦ κρινίνου",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "118",
+        "section": "118",
+        "citation": {
+          "start": "61.1",
+          "end": "61.11"
+        }
+      }
+    },
+    {
+      "process_id": "aetius-1-118:process:elioyn-6",
+      "process_urn": "urn:aos:recipe-process:aetius-1-118:process:elioyn-6",
+      "source_span": "ἡλιωθῇ",
+      "surface_form": "ἡλιωθῇ",
+      "normalized_label": "ἡλιοῦν",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "manner",
+          "source_span": "συμμέτρως",
+          "normalized_value": "συμμέτρως",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "certainty": "uncertain",
+      "notes": [
+        "This is advisory guidance on how the oil becomes more fragrant."
+      ],
+      "host_locator": {
+        "book": "1",
+        "chapter": "118",
+        "section": "118",
+        "citation": {
+          "start": "61.1",
+          "end": "61.11"
+        }
+      }
+    }
+  ],
+  "materials": [
+    {
+      "material_id": "aetius-1-118:material:bikos-1",
+      "material_urn": "urn:aos:recipe-material:aetius-1-118:material:bikos-1",
+      "source_span": "τοῦ βίκου",
+      "surface_form": "τοῦ βίκου",
+      "normalized_label": "βῖκος",
+      "role": "apparatus",
+      "certainty": "uncertain",
+      "quantities": [],
+      "qualifiers": [],
+      "notes": [
+        "The text treats this as the item to be tightly secured during preparation."
+      ],
+      "host_locator": {
+        "book": "1",
+        "chapter": "118",
+        "section": "118",
+        "citation": {
+          "start": "61.1",
+          "end": "61.11"
+        }
+      }
+    }
+  ],
+  "people": [],
+  "places": [],
+  "uses": [
+    {
+      "use_id": "aetius-1-118:use:oste-kai-tois-aytois-chresimeyein-epi-toy-alloy-somatos-choris-kephales-1",
+      "use_urn": "urn:aos:recipe-use:aetius-1-118:use:oste-kai-tois-aytois-chresimeyein-epi-toy-alloy-somatos-choris-kephales-1",
+      "category": "medical",
+      "source_span": "ὥστε καὶ τοῖς αὐτοῖς χρησιμεύειν ἐπὶ τοῦ ἄλλου σώματος χωρὶς κεφαλῆς",
+      "snippet": "ὥστε καὶ τοῖς αὐτοῖς χρησιμεύειν ἐπὶ τοῦ ἄλλου σώματος χωρὶς κεφαλῆς",
+      "certainty": "certain",
+      "notes": [
+        "The text excludes application to the head because the fragrance is pungent."
+      ],
+      "host_locator": {
+        "book": "1",
+        "chapter": "118",
+        "section": "118",
+        "citation": {
+          "start": "61.1",
+          "end": "61.11"
+        }
+      }
+    }
+  ],
+  "preparation_names": [],
+  "other_preparations_mentioned": [
+    {
+      "reference_id": "aetius-1-118:reference:krininon-1",
+      "reference_urn": "urn:aos:recipe-reference:aetius-1-118:reference:krininon-1",
+      "source_span": "τοῦ κρινίνου",
+      "surface_form": "τοῦ κρινίνου",
+      "normalized_label": "κρίνινον",
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "118",
+        "section": "118",
+        "citation": {
+          "start": "61.1",
+          "end": "61.11"
+        }
+      }
+    },
+    {
+      "reference_id": "aetius-1-118:reference:iaton-2",
+      "reference_urn": "urn:aos:recipe-reference:aetius-1-118:reference:iaton-2",
+      "source_span": "τὸ ἰάτον",
+      "surface_form": "τὸ ἰάτον",
+      "normalized_label": "ἰάτον",
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "118",
+        "section": "118",
+        "citation": {
+          "start": "61.1",
+          "end": "61.11"
+        }
+      }
+    },
+    {
+      "reference_id": "aetius-1-118:reference:anethinon-3",
+      "reference_urn": "urn:aos:recipe-reference:aetius-1-118:reference:anethinon-3",
+      "source_span": "τοῦ ἀνηθίνου",
+      "surface_form": "τοῦ ἀνηθίνου",
+      "normalized_label": "ἀνηθίνον",
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "118",
+        "section": "118",
+        "citation": {
+          "start": "61.1",
+          "end": "61.11"
+        }
+      }
+    }
+  ],
+  "works_mentioned": [],
+  "entities": [
+    {
+      "entity_urn": "urn:aos:recipe-preparation:aetius-1-118:preparation:narkissinon",
+      "entity_type": "label",
+      "surface_form": "Ναρκίσσινον",
+      "normalized_label": "ναρκίσσινον"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:aetius-1-118:ingredient:leyka-anthe-narkissoy-1",
+      "entity_type": "ingredient",
+      "surface_form": "τῶν λευκῶν ἀνθῶν",
+      "normalized_label": "λευκὰ ἄνθη ναρκίσσου"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:aetius-1-118:ingredient:glykytaton-elaion-2",
+      "entity_type": "ingredient",
+      "surface_form": "τοῦ γλυκυτάτου ἐλαίου",
+      "normalized_label": "γλυκύτατον ἔλαιον"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:aetius-1-118:process:propsychein-1",
+      "entity_type": "process",
+      "surface_form": "προεψυγμένων",
+      "normalized_label": "προψύχειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:aetius-1-118:process:emballein-2",
+      "entity_type": "process",
+      "surface_form": "ἐμβαλλομένων",
+      "normalized_label": "ἐμβάλλειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:aetius-1-118:process:perisphiggein-3",
+      "entity_type": "process",
+      "surface_form": "περισφιγγομένου",
+      "normalized_label": "περισφίγγειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:aetius-1-118:process:elioyn-4",
+      "entity_type": "process",
+      "surface_form": "ἡλιουμένου",
+      "normalized_label": "ἡλιοῦν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:aetius-1-118:process:ameibein-5",
+      "entity_type": "process",
+      "surface_form": "ἀμείβειν",
+      "normalized_label": "ἀμείβειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:aetius-1-118:process:elioyn-6",
+      "entity_type": "process",
+      "surface_form": "ἡλιωθῇ",
+      "normalized_label": "ἡλιοῦν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-material:aetius-1-118:material:bikos-1",
+      "entity_type": "material",
+      "surface_form": "τοῦ βίκου",
+      "normalized_label": "βῖκος"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-reference:aetius-1-118:reference:krininon-1",
+      "entity_type": "preparation_reference",
+      "surface_form": "τοῦ κρινίνου",
+      "normalized_label": "κρίνινον"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-reference:aetius-1-118:reference:iaton-2",
+      "entity_type": "preparation_reference",
+      "surface_form": "τὸ ἰάτον",
+      "normalized_label": "ἰάτον"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-reference:aetius-1-118:reference:anethinon-3",
+      "entity_type": "preparation_reference",
+      "surface_form": "τοῦ ἀνηθίνου",
+      "normalized_label": "ἀνηθίνον"
+    }
+  ]
+}

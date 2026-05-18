@@ -1,0 +1,384 @@
+{
+  "dataset_key": "dioscorides_book2_fats",
+  "source_json": "experiments/dioscorides-book2-fats/data/dioscorides_book2_fats.json",
+  "host_raw_file": "tei/raw/tlg0656.tlg001.1st1K-grc1.xml",
+  "work_slug": "diosc.b2.fats",
+  "recipe_id": "dioscorides-2-76-bull-stear",
+  "recipe_urn": "urn:aos:recipe:dioscorides-2-76-bull-stear",
+  "record_urn": "urn:aos:recipe-record:dioscorides-2-76-bull-stear",
+  "author": "Dioscorides",
+  "work": "De materia medica",
+  "book": "2",
+  "chapter": "76",
+  "section": "6-8",
+  "chapter_name": "στέαρ",
+  "lemma": "στέαρ ταύρειον",
+  "text": "τὸ δὲ ταύρειον θεραπευτέον οὕτως· λαβὼν καὶ τούτου τὸ πρόσφατον καὶ νεφριαῖον ἔκπλυνον ποταμίῳ ῥεύματι, ἐξυμενίσας τε δὸς εἰς χύτραν κεραμεᾶν καινήν, ἁλὸς ὀλίγον προσεμπάσας, καὶ τῆκε· εἶτα εἰς ὕδωρ διαυγὲς ἀπηθήσας, ὅταν ἀρχὴν λαμβάνῃ πήξεως, ταῖς χερσὶ πάλιν ἔκπλυνον σφοδρῶς τρίβων. τοῦ μὲν ἀποχεομένου ὕδατος τοῦ δὲ ἐπιχεομένου, ἄχρι ἂν πλυθῇ καλῶς, καὶ πάλιν εἰς χύτραν ἐμβαλών ἕψε μετʼ οἴνου ἴσου εὐώδους. ὡς δ᾿ ἂν ζέσῃ δίς, ἄρας ἀπὸ τοῦ πυρὸς τὴν χύτραν ἔασον ἐννυκτερεῦσαι τὸ στέαρ ἐνθάδε· τῇ δ᾿ ἐχομένη ἐάν τι τῆς δυσωδίας ὑπολείπηται, ἀνελόμενος τὸ προειρημένον εἰς ἑτέραν χύτραν καινὴν προσεπίχεον οἶνον εὐώδη καὶ τὰ αὐτὰ τοῖς προειρημένοις ποίει, ἕως ἂν ἅπασαν τὴν δυσωδίαν ἀποβάλῃ. τήκετοι δὲ καὶ χωρὶς ἀλῶν ἐπ᾿ ἐνίαις διαθέσεσιν, ἐν αἶς οὗτοι ἐναντιοῦνται· γίνεται μέντοι τὸ οὕτως σκευασθὲν οὐκ ἄγαν λευκόν, ὡσαύτως δὲ καὶ παρδάλειον σκευαστέον καὶ λεόντειον συάγρειόν τε καὶ καμήλεον καὶ ἵππειον καὶ τὰ ὅμοια.",
+  "original_text": null,
+  "text_source": null,
+  "emendations": [],
+  "emendation_count": 0,
+  "source_kind": "main_text",
+  "entry_kind": "recipe",
+  "citation": {
+    "pages": [
+      "153"
+    ],
+    "start": {
+      "page": "153",
+      "line": "5"
+    },
+    "end": {
+      "page": "153",
+      "line": "20"
+    },
+    "citation": {
+      "start": "153.5",
+      "end": "153.20"
+    },
+    "page_spans": [
+      {
+        "page": "153",
+        "start_line": "5",
+        "end_line": "20"
+      }
+    ],
+    "lines": [
+      {
+        "page": "153",
+        "line": "5",
+        "break_no": false,
+        "raw_text": "τὴν ἰδίαν ὀσμὴν ἀποβάλῃ· εἶτα πρὸς μίαν μνᾶν τοῦ στέατος 6 Ἀττικὴν κηροῦ Τυρρηνικοῦ ὁλκὰς τέτταρας ἐμβλητέον καὶ διηθητέον, ἀφαιρετέον τε τὴν προσκαθημένην ἐν τῳ πυθμένι ἀκαθαρσίαν καὶ εἰς λοπάδα καινὴν ἀποθετέον· εἶτα εἰς ἥλιον καθ᾿ ἡμέραν κομιστέον περιεσκεπασμένον, ὅπως ἀπολευκανθῇ",
+        "text": "τὴν ἰδίαν ὀσμὴν ἀποβάλῃ· εἶτα πρὸς μίαν μνᾶν τοῦ στέατος Ἀττικὴν κηροῦ Τυρρηνικοῦ ὁλκὰς τέτταρας ἐμβλητέον καὶ διηθητέον, ἀφαιρετέον τε τὴν προσκαθημένην ἐν τῳ πυθμένι ἀκαθαρσίαν καὶ εἰς λοπάδα καινὴν ἀποθετέον· εἶτα εἰς ἥλιον καθ᾿ ἡμέραν κομιστέον περιεσκεπασμένον, ὅπως ἀπολευκανθῇ",
+        "citation": "153.5"
+      },
+      {
+        "page": "153",
+        "line": "10",
+        "break_no": false,
+        "raw_text": "καὶ τὴν δυσωδίαν ἀποβάλῃ. τὸ δὲ ταύρειον θεραπευτέον οὕτως· λαβὼν καὶ τούτου τὸ πρόσφατον καὶ νεφριαῖον ἔκπλυνον ποταμίῳ ῥεύματι, ἐξυμενίσας τε δὸς εἰς χύτραν κεραμεᾶν καινήν, ἁλὸς ὀλίγον προσεμπάσας,",
+        "text": "καὶ τὴν δυσωδίαν ἀποβάλῃ. τὸ δὲ ταύρειον θεραπευτέον οὕτως· λαβὼν καὶ τούτου τὸ πρόσφατον καὶ νεφριαῖον ἔκπλυνον ποταμίῳ ῥεύματι, ἐξυμενίσας τε δὸς εἰς χύτραν κεραμεᾶν καινήν, ἁλὸς ὀλίγον προσεμπάσας,",
+        "citation": "153.10"
+      },
+      {
+        "page": "153",
+        "line": "10",
+        "break_no": false,
+        "raw_text": "καὶ τῆκε· εἶτα εἰς ὕδωρ διαυγὲς ἀπηθήσας, ὅταν ἀρχὴν λαμβάνῃ 7",
+        "text": "καὶ τῆκε· εἶτα εἰς ὕδωρ διαυγὲς ἀπηθήσας, ὅταν ἀρχὴν λαμβάνῃ",
+        "citation": "153.10"
+      },
+      {
+        "page": "153",
+        "line": "15",
+        "break_no": false,
+        "raw_text": "πήξεως, ταῖς χερσὶ πάλιν ἔκπλυνον σφοδρῶς τρίβων. τοῦ μὲν ἀποχεομένου ὕδατος τοῦ δὲ ἐπιχεομένου, ἄχρι ἂν πλυθῇ καλῶς, καὶ πάλιν εἰς χύτραν ἐμβαλών ἕψε μετʼ οἴνου ἴσου εὐώδους. ὡς δ᾿ ἂν ζέσῃ δίς, ἄρας ἀπὸ τοῦ πυρὸς τὴν χύτραν ἔασον ἐννυκτερεῦσαι τὸ στέαρ ἐνθάδε· τῇ δ᾿ ἐχομένη ἐάν τι τῆς",
+        "text": "πήξεως, ταῖς χερσὶ πάλιν ἔκπλυνον σφοδρῶς τρίβων. τοῦ μὲν ἀποχεομένου ὕδατος τοῦ δὲ ἐπιχεομένου, ἄχρι ἂν πλυθῇ καλῶς, καὶ πάλιν εἰς χύτραν ἐμβαλών ἕψε μετʼ οἴνου ἴσου εὐώδους. ὡς δ᾿ ἂν ζέσῃ δίς, ἄρας ἀπὸ τοῦ πυρὸς τὴν χύτραν ἔασον ἐννυκτερεῦσαι τὸ στέαρ ἐνθάδε· τῇ δ᾿ ἐχομένη ἐάν τι τῆς",
+        "citation": "153.15"
+      },
+      {
+        "page": "153",
+        "line": "20",
+        "break_no": false,
+        "raw_text": "δυσωδίας ὑπολείπηται, ἀνελόμενος τὸ προειρημένον εἰς ἑτέραν χύτραν καινὴν προσεπίχεον οἶνον εὐώδη καὶ τὰ αὐτὰ τοῖς προειρημένοις ποίει, ἕως ἂν ἅπασαν τὴν δυσωδίαν ἀποβάλῃ.",
+        "text": "δυσωδίας ὑπολείπηται, ἀνελόμενος τὸ προειρημένον εἰς ἑτέραν χύτραν καινὴν προσεπίχεον οἶνον εὐώδη καὶ τὰ αὐτὰ τοῖς προειρημένοις ποίει, ἕως ἂν ἅπασαν τὴν δυσωδίαν ἀποβάλῃ.",
+        "citation": "153.20"
+      },
+      {
+        "page": "153",
+        "line": "20",
+        "break_no": false,
+        "raw_text": "τήκετοι 8 δὲ καὶ χωρὶς ἀλῶν ἐπ᾿ ἐνίαις διαθέσεσιν, ἐν αἶς οὗτοι",
+        "text": "τήκετοι δὲ καὶ χωρὶς ἀλῶν ἐπ᾿ ἐνίαις διαθέσεσιν, ἐν αἶς οὗτοι",
+        "citation": "153.20"
+      }
+    ],
+    "edition_key": "wellmann"
+  },
+  "notes": [
+    "Book 2 fats slice split into logical preparation and technique units from chapters 72, 74, and 76.",
+    "Bare Arabic numerals in the raw witness are treated as structural or note noise and removed from display text, except parenthetical cross-references such as (I 68).",
+    "Section markers are stored separately and displayed near sentence boundaries as heuristic navigation aids.",
+    "Conservative split record generated locally because Codex structured-authority generation was rate-limited."
+  ],
+  "alignment_status": "pending",
+  "alignment_confidence": "pending",
+  "alignment_evidence": null,
+  "review_status": "reviewed_structured_authority",
+  "review_provenance": {
+    "authority_source": "reports/entity_review/structured/dioscorides.json",
+    "authority_recipe_id": "dioscorides-2-76-bull-stear",
+    "authority_lemma": "στέαρ ταύρειον",
+    "model": "gpt-5.4",
+    "reasoning_effort": "high",
+    "dataset_key": "dioscorides_book2_fats",
+    "entity_model_version": "1.2",
+    "authority_version": "2026-04-13-qty-alt-v1",
+    "prompt_version": "qty-alt-pass-v1",
+    "build_version": "2026-05-18T15:51:35Z"
+  },
+  "schema_version": "1.2",
+  "build_metadata": {
+    "builder": "scripts/recipes/build_recipe_entities.py",
+    "built_at": "2026-05-18T15:51:35Z",
+    "source_structured_authority": "reports/entity_review/structured/dioscorides.json",
+    "authority_model": "gpt-5.4",
+    "authority_reasoning_effort": "high",
+    "dataset_key": "dioscorides_book2_fats",
+    "entity_model_version": "1.2",
+    "authority_version": "2026-04-13-qty-alt-v1",
+    "prompt_version": "qty-alt-pass-v1",
+    "build_version": "2026-05-18T15:51:35Z"
+  },
+  "recipe_text_excerpt": "τὸ δὲ ταύρειον θεραπευτέον οὕτως· λαβὼν καὶ τούτου τὸ πρόσφατον καὶ νεφριαῖον ἔκπλυνον ποταμίῳ ῥεύματι, ἐξυμενίσας τε δὸς εἰς χύτραν",
+  "preparation": {
+    "preparation_id": "dioscorides-2-76-bull-stear:preparation:stear-tayreion",
+    "preparation_urn": "urn:aos:recipe-preparation:dioscorides-2-76-bull-stear:preparation:stear-tayreion",
+    "source_span": "στέαρ ταύρειον",
+    "surface_form": "στέαρ ταύρειον",
+    "normalized_label": "στέαρ ταύρειον",
+    "qualifiers": [],
+    "regimen_notes": [],
+    "certainty": "certain",
+    "notes": [
+      "Conservative split authority generated from exact spans in the previous broad Book 2 fat authority."
+    ],
+    "host_locator": {
+      "book": "2",
+      "chapter": "76",
+      "section": "6-8",
+      "citation": {
+        "start": "153.5",
+        "end": "153.20"
+      }
+    }
+  },
+  "ingredients": [
+    {
+      "ingredient_id": "dioscorides-2-76-bull-stear:ingredient:oinos-eyodes-1",
+      "ingredient_urn": "urn:aos:recipe-ingredient:dioscorides-2-76-bull-stear:ingredient:oinos-eyodes-1",
+      "source_span": "οἴνου ἴσου εὐώδους",
+      "surface_form": "οἴνου ἴσου εὐώδους",
+      "base_label": "οἶνος",
+      "normalized_label": "οἶνος εὐώδης",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [
+        "dioscorides-2-76-bull-stear:process:epsein-3"
+      ],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "other",
+          "source_span": "ἴσου",
+          "normalized_value": "equal amount",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "notes": [],
+      "host_locator": {
+        "book": "2",
+        "chapter": "76",
+        "section": "6-8",
+        "citation": {
+          "start": "153.5",
+          "end": "153.20"
+        }
+      }
+    },
+    {
+      "ingredient_id": "dioscorides-2-76-bull-stear:ingredient:stear-tayreion-2",
+      "ingredient_urn": "urn:aos:recipe-ingredient:dioscorides-2-76-bull-stear:ingredient:stear-tayreion-2",
+      "source_span": "ταύρειον",
+      "surface_form": "ταύρειον",
+      "base_label": "ταύρειον",
+      "normalized_label": "στέαρ ταύρειον",
+      "alternative_set_id": null,
+      "certainty": "uncertain",
+      "linked_process_ids": [
+        "dioscorides-2-76-bull-stear:process:ekplynein-2",
+        "dioscorides-2-76-bull-stear:process:epsein-3"
+      ],
+      "quantities": [],
+      "qualifiers": [],
+      "notes": [
+        "Head noun στέαρ restored from lemma."
+      ],
+      "host_locator": {
+        "book": "2",
+        "chapter": "76",
+        "section": "6-8",
+        "citation": {
+          "start": "153.5",
+          "end": "153.20"
+        }
+      }
+    }
+  ],
+  "processes": [
+    {
+      "process_id": "dioscorides-2-76-bull-stear:process:exymenizein-1",
+      "process_urn": "urn:aos:recipe-process:dioscorides-2-76-bull-stear:process:exymenizein-1",
+      "source_span": "ἐξυμενίσας",
+      "surface_form": "ἐξυμενίσας",
+      "normalized_label": "ἐξυμενίζειν",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "2",
+        "chapter": "76",
+        "section": "6-8",
+        "citation": {
+          "start": "153.5",
+          "end": "153.20"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-2-76-bull-stear:process:ekplynein-2",
+      "process_urn": "urn:aos:recipe-process:dioscorides-2-76-bull-stear:process:ekplynein-2",
+      "source_span": "ἔκπλυνον",
+      "surface_form": "ἔκπλυνον",
+      "normalized_label": "ἐκπλύνειν",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "location",
+          "source_span": "ποταμίῳ ῥεύματι",
+          "normalized_value": "in running river water",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "2",
+        "chapter": "76",
+        "section": "6-8",
+        "citation": {
+          "start": "153.5",
+          "end": "153.20"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-2-76-bull-stear:process:epsein-3",
+      "process_urn": "urn:aos:recipe-process:dioscorides-2-76-bull-stear:process:epsein-3",
+      "source_span": "ἕψε",
+      "surface_form": "ἕψε",
+      "normalized_label": "ἕψειν",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "other",
+          "source_span": "μετʼ οἴνου ἴσου εὐώδους",
+          "normalized_value": "with an equal amount of fragrant wine",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "2",
+        "chapter": "76",
+        "section": "6-8",
+        "citation": {
+          "start": "153.5",
+          "end": "153.20"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-2-76-bull-stear:process:ennyktereyein-4",
+      "process_urn": "urn:aos:recipe-process:dioscorides-2-76-bull-stear:process:ennyktereyein-4",
+      "source_span": "ἔασον ἐννυκτερεῦσαι",
+      "surface_form": "ἔασον ἐννυκτερεῦσαι",
+      "normalized_label": "ἐννυκτερεύειν",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "duration",
+          "source_span": "ἐννυκτερεῦσαι",
+          "normalized_value": "overnight",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "2",
+        "chapter": "76",
+        "section": "6-8",
+        "citation": {
+          "start": "153.5",
+          "end": "153.20"
+        }
+      }
+    }
+  ],
+  "materials": [],
+  "people": [],
+  "places": [],
+  "uses": [],
+  "preparation_names": [],
+  "other_preparations_mentioned": [],
+  "works_mentioned": [],
+  "entities": [
+    {
+      "entity_urn": "urn:aos:recipe-preparation:dioscorides-2-76-bull-stear:preparation:stear-tayreion",
+      "entity_type": "label",
+      "surface_form": "στέαρ ταύρειον",
+      "normalized_label": "στέαρ ταύρειον"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:dioscorides-2-76-bull-stear:ingredient:oinos-eyodes-1",
+      "entity_type": "ingredient",
+      "surface_form": "οἴνου ἴσου εὐώδους",
+      "normalized_label": "οἶνος εὐώδης"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:dioscorides-2-76-bull-stear:ingredient:stear-tayreion-2",
+      "entity_type": "ingredient",
+      "surface_form": "ταύρειον",
+      "normalized_label": "στέαρ ταύρειον"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-2-76-bull-stear:process:exymenizein-1",
+      "entity_type": "process",
+      "surface_form": "ἐξυμενίσας",
+      "normalized_label": "ἐξυμενίζειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-2-76-bull-stear:process:ekplynein-2",
+      "entity_type": "process",
+      "surface_form": "ἔκπλυνον",
+      "normalized_label": "ἐκπλύνειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-2-76-bull-stear:process:epsein-3",
+      "entity_type": "process",
+      "surface_form": "ἕψε",
+      "normalized_label": "ἕψειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-2-76-bull-stear:process:ennyktereyein-4",
+      "entity_type": "process",
+      "surface_form": "ἔασον ἐννυκτερεῦσαι",
+      "normalized_label": "ἐννυκτερεύειν"
+    }
+  ]
+}

@@ -1,0 +1,298 @@
+{
+  "dataset_key": "aetius_book1_oils",
+  "source_json": "experiments/aetius-book1-ch99-136-oils/data/aetius_book1_ch99_136_oils.json",
+  "host_raw_file": "tei/raw/tlg0718001.xml",
+  "work_slug": "aetius.b1.oils",
+  "recipe_id": "aetius-1-102",
+  "recipe_urn": "urn:aos:recipe:aetius-1-102",
+  "record_urn": "urn:aos:recipe-record:aetius-1-102",
+  "author": "Aëtius of Amida",
+  "work": "Libri medicinales",
+  "book": "1",
+  "chapter": "102",
+  "section": "102",
+  "chapter_name": "Λινοσπέρμινον",
+  "lemma": "Λινοσπέρμινον",
+  "text": "Λινοσπέρμινον. Καὶ ἐκ τοῦ λινοσπέρμου δὲ σκευάζεται ἔλαιον, ὡς προείρηται καὶ χρῶνται αὐτῷ νῦν ἀντὶ τοῦ κικίνου· τὸ γὰρ κίκινον οὐκέτι κομίζεται ἀλλὰ τοῦτο ἀντ' αὐτοῦ κομίζουσιν.",
+  "original_text": "Λινοσπέρμινον. Καὶ ἐκ τοῦ λινοσπέρμου δὲ σκευάζεται ἔλαιον, ὡς προείρηται καὶ χρῶνται αὐτῷ νῦν ἀντὶ τοῦ κικίνου· τὸ γὰρ κίκινον οὐκέτι κομίζεται ἀλλὰ τοῦτο ἀντ' αὐτοῦ κομίζουσιν.",
+  "text_source": "olivieri",
+  "emendations": [],
+  "emendation_count": 0,
+  "source_kind": null,
+  "entry_kind": "recipe",
+  "citation": {
+    "pages": [
+      "55"
+    ],
+    "start": {
+      "page": "55",
+      "line": "3",
+      "xml_id": "oliv-55-3"
+    },
+    "end": {
+      "page": "55",
+      "line": "5",
+      "xml_id": "oliv-55-5"
+    },
+    "citation": {
+      "start": "55.3",
+      "end": "55.5"
+    },
+    "page_spans": [
+      {
+        "page": "55",
+        "start_line": "3",
+        "end_line": "5"
+      }
+    ],
+    "lines": [
+      {
+        "page": "55",
+        "line": "3",
+        "xml_id": "oliv-55-3",
+        "break_no": false,
+        "text": "Λινοσπέρμινον. Καὶ ἐκ τοῦ λινοσπέρμου δὲ σκευάζεται ἔλαιον, ὡς",
+        "citation": "55.3"
+      },
+      {
+        "page": "55",
+        "line": "4",
+        "xml_id": "oliv-55-4",
+        "break_no": false,
+        "text": "προείρηται καὶ χρῶνται αὐτῷ νῦν ἀντὶ τοῦ κικίνου· τὸ γὰρ κίκινον",
+        "citation": "55.4"
+      },
+      {
+        "page": "55",
+        "line": "5",
+        "xml_id": "oliv-55-5",
+        "break_no": false,
+        "text": "οὐκέτι κομίζεται ἀλλὰ τοῦτο ἀντ' αὐτοῦ κομίζουσιν.",
+        "citation": "55.5"
+      }
+    ],
+    "edition_key": "olivieri"
+  },
+  "notes": [],
+  "alignment_status": "pending",
+  "alignment_confidence": "pending",
+  "alignment_evidence": null,
+  "review_status": "reviewed_structured_authority",
+  "review_provenance": {
+    "authority_source": "reports/entity_review/structured/aetius_book1.json",
+    "authority_recipe_id": "aetius-1-102",
+    "authority_lemma": "Λινοσπέρμινον",
+    "model": "gpt-5.4",
+    "reasoning_effort": "high",
+    "dataset_key": "aetius_book1_oils",
+    "entity_model_version": "1.2",
+    "authority_version": "2026-04-13-qty-alt-v1",
+    "prompt_version": "qty-alt-pass-v1",
+    "build_version": "2026-05-18T15:51:35Z"
+  },
+  "schema_version": "1.2",
+  "build_metadata": {
+    "builder": "scripts/recipes/build_recipe_entities.py",
+    "built_at": "2026-05-18T15:51:35Z",
+    "source_structured_authority": "reports/entity_review/structured/aetius_book1.json",
+    "authority_model": "gpt-5.4",
+    "authority_reasoning_effort": "high",
+    "dataset_key": "aetius_book1_oils",
+    "entity_model_version": "1.2",
+    "authority_version": "2026-04-13-qty-alt-v1",
+    "prompt_version": "qty-alt-pass-v1",
+    "build_version": "2026-05-18T15:51:35Z"
+  },
+  "recipe_text_excerpt": "Λινοσπέρμινον. Καὶ ἐκ τοῦ λινοσπέρμου δὲ σκευάζεται ἔλαιον, ὡς προείρηται καὶ χρῶνται αὐτῷ νῦν ἀντὶ τοῦ κικίνου· τὸ γὰρ κίκινον",
+  "preparation": {
+    "preparation_id": "aetius-1-102:preparation:linosperminon",
+    "preparation_urn": "urn:aos:recipe-preparation:aetius-1-102:preparation:linosperminon",
+    "source_span": "Λινοσπέρμινον",
+    "surface_form": "Λινοσπέρμινον",
+    "normalized_label": "Λινοσπέρμινον",
+    "qualifiers": [],
+    "regimen_notes": [],
+    "certainty": "certain",
+    "notes": [
+      "The running text describes an oil prepared from flaxseed but does not restate the preparation name cleanly; the lemma supplies the preparation label."
+    ],
+    "host_locator": {
+      "book": "1",
+      "chapter": "102",
+      "section": "102",
+      "citation": {
+        "start": "55.3",
+        "end": "55.5"
+      }
+    }
+  },
+  "ingredients": [
+    {
+      "ingredient_id": "aetius-1-102:ingredient:linospermon-1",
+      "ingredient_urn": "urn:aos:recipe-ingredient:aetius-1-102:ingredient:linospermon-1",
+      "source_span": "τοῦ λινοσπέρμου",
+      "surface_form": "τοῦ λινοσπέρμου",
+      "base_label": "λινοσπέρμον",
+      "normalized_label": "λινοσπέρμον",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [
+        "aetius-1-102:process:skeyazesthai-1"
+      ],
+      "quantities": [],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "102",
+        "section": "102",
+        "citation": {
+          "start": "55.3",
+          "end": "55.5"
+        }
+      }
+    }
+  ],
+  "processes": [
+    {
+      "process_id": "aetius-1-102:process:skeyazesthai-1",
+      "process_urn": "urn:aos:recipe-process:aetius-1-102:process:skeyazesthai-1",
+      "source_span": "σκευάζεται",
+      "surface_form": "σκευάζεται",
+      "normalized_label": "σκευάζεσθαι",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "102",
+        "section": "102",
+        "citation": {
+          "start": "55.3",
+          "end": "55.5"
+        }
+      }
+    }
+  ],
+  "materials": [],
+  "people": [],
+  "places": [],
+  "uses": [
+    {
+      "use_id": "aetius-1-102:use:chrontai-ayto-nyn-anti-toy-kikinoy-1",
+      "use_urn": "urn:aos:recipe-use:aetius-1-102:use:chrontai-ayto-nyn-anti-toy-kikinoy-1",
+      "category": "other",
+      "source_span": "χρῶνται αὐτῷ νῦν ἀντὶ τοῦ κικίνου",
+      "snippet": "χρῶνται αὐτῷ νῦν ἀντὶ τοῦ κικίνου",
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "102",
+        "section": "102",
+        "citation": {
+          "start": "55.3",
+          "end": "55.5"
+        }
+      }
+    }
+  ],
+  "preparation_names": [],
+  "other_preparations_mentioned": [
+    {
+      "reference_id": "aetius-1-102:reference:kikinon-1",
+      "reference_urn": "urn:aos:recipe-reference:aetius-1-102:reference:kikinon-1",
+      "source_span": "τὸ γὰρ κίκινον",
+      "surface_form": "τὸ γὰρ κίκινον",
+      "normalized_label": "κίκινον",
+      "certainty": "certain",
+      "notes": [
+        "Mentioned as a distinct preparation used for comparison and substitution."
+      ],
+      "host_locator": {
+        "book": "1",
+        "chapter": "102",
+        "section": "102",
+        "citation": {
+          "start": "55.3",
+          "end": "55.5"
+        }
+      }
+    }
+  ],
+  "works_mentioned": [],
+  "entities": [
+    {
+      "entity_urn": "urn:aos:recipe-preparation:aetius-1-102:preparation:linosperminon",
+      "entity_type": "label",
+      "surface_form": "Λινοσπέρμινον",
+      "normalized_label": "Λινοσπέρμινον"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:aetius-1-102:ingredient:linospermon-1",
+      "entity_type": "ingredient",
+      "surface_form": "τοῦ λινοσπέρμου",
+      "normalized_label": "λινοσπέρμον"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:aetius-1-102:process:skeyazesthai-1",
+      "entity_type": "process",
+      "surface_form": "σκευάζεται",
+      "normalized_label": "σκευάζεσθαι"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-reference:aetius-1-102:reference:kikinon-1",
+      "entity_type": "preparation_reference",
+      "surface_form": "τὸ γὰρ κίκινον",
+      "normalized_label": "κίκινον"
+    }
+  ],
+  "canonical_file": "data/recipes/aetius-1-102.json",
+  "source_entry": {
+    "source_id": "aetius-1-102",
+    "derived_recipe_id": "aetius-1-102",
+    "entry_kind": null,
+    "source_kind": null,
+    "source_lines": null,
+    "section_markers": []
+  },
+  "entity_groups": {
+    "labels": [
+      {
+        "entity_urn": "urn:aos:recipe-preparation:aetius-1-102:preparation:linosperminon",
+        "surface_form": "Λινοσπέρμινον",
+        "normalized_label": "Λινοσπέρμινον"
+      }
+    ],
+    "ingredients": [
+      {
+        "entity_urn": "urn:aos:recipe-ingredient:aetius-1-102:ingredient:linospermon-1",
+        "surface_form": "τοῦ λινοσπέρμου",
+        "normalized_label": "λινοσπέρμον",
+        "quantity_display": ""
+      }
+    ],
+    "processes": [
+      {
+        "entity_urn": "urn:aos:recipe-process:aetius-1-102:process:skeyazesthai-1",
+        "surface_form": "σκευάζεται",
+        "normalized_label": "σκευάζεσθαι"
+      }
+    ],
+    "tools": [],
+    "other_preparations_mentioned": [
+      {
+        "entity_urn": "urn:aos:recipe-reference:aetius-1-102:reference:kikinon-1",
+        "surface_form": "τὸ γὰρ κίκινον",
+        "normalized_label": "κίκινον"
+      }
+    ],
+    "people": [],
+    "places": [],
+    "works_mentioned": [],
+    "preparation_names": []
+  }
+}

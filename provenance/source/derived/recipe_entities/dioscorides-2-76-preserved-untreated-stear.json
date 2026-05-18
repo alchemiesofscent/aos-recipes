@@ -1,0 +1,449 @@
+{
+  "dataset_key": "dioscorides_book2_fats",
+  "source_json": "experiments/dioscorides-book2-fats/data/dioscorides_book2_fats.json",
+  "host_raw_file": "tei/raw/tlg0656.tlg001.1st1K-grc1.xml",
+  "work_slug": "diosc.b2.fats",
+  "recipe_id": "dioscorides-2-76-preserved-untreated-stear",
+  "recipe_urn": "urn:aos:recipe:dioscorides-2-76-preserved-untreated-stear",
+  "record_urn": "urn:aos:recipe-record:dioscorides-2-76-preserved-untreated-stear",
+  "author": "Dioscorides",
+  "work": "De materia medica",
+  "book": "2",
+  "chapter": "76",
+  "section": "16",
+  "chapter_name": "στέαρ",
+  "lemma": "στέαρ ἀθεράπευτον ἄσηπτον",
+  "text": "εἰ δὲ ἀθεράπευτον στέαρ χήνειον ἢ ἀρνίθειον ἢ μόσχειον θέλοι τις ἄσηπτον διατηρῆσαι, οὕτως ποιητέον αὐτό· λαβὼν πρόσφατον, ὁποῖον ἂν αἱρῇ, ἔκπλυνον ἐπιμελῶς καὶ διαψύξας ἐπὶ κοσκίνου ἐν σκιᾷ, μετὰ τὸ ξηρανθῆναι ἔμβαλε εἰς ὀθόνην καὶ ἐκπίεσον ταῖς χερσὶν ἐρρωμένως, εἶτα λίνῳ διείρας κρέμασον ἐν τόπῳ σκιερῷ· μετὰ δὲ ἡμέρας πολλὰς καινῷ ἀποδήσας χαριῃ ἀποτίθεσο ἐν καταψύχρῳ τόπῳ. ἄσηπτα δὲ διαμένει καὶ ἐν μέλιτι ἀποτεθέντα.",
+  "original_text": null,
+  "text_source": null,
+  "emendations": [],
+  "emendation_count": 0,
+  "source_kind": "main_text",
+  "entry_kind": "recipe",
+  "citation": {
+    "pages": [
+      "157"
+    ],
+    "start": {
+      "page": "157",
+      "line": "1"
+    },
+    "end": {
+      "page": "157",
+      "line": "10"
+    },
+    "citation": {
+      "start": "157.1",
+      "end": "157.10"
+    },
+    "page_spans": [
+      {
+        "page": "157",
+        "start_line": "1",
+        "end_line": "10"
+      }
+    ],
+    "lines": [
+      {
+        "page": "157",
+        "line": "1",
+        "break_no": false,
+        "raw_text": "εἰ δὲ ἀθεράπευτον στέαρ χήνειον ἢ ἀρνίθειον ἢ μόσχειον 16 θέλοι τις ἄσηπτον διατηρῆσαι, οὕτως ποιητέον αὐτό· λαβὼν",
+        "text": "εἰ δὲ ἀθεράπευτον στέαρ χήνειον ἢ ἀρνίθειον ἢ μόσχειον θέλοι τις ἄσηπτον διατηρῆσαι, οὕτως ποιητέον αὐτό· λαβὼν",
+        "citation": "157.1"
+      },
+      {
+        "page": "157",
+        "line": "5",
+        "break_no": false,
+        "raw_text": "πρόσφατον, ὁποῖον ἂν αἱρῇ, ἔκπλυνον ἐπιμελῶς καὶ διαψύξας ἐπὶ κοσκίνου ἐν σκιᾷ, μετὰ τὸ ξηρανθῆναι ἔμβαλε εἰς ὀθόνην καὶ ἐκπίεσον ταῖς χερσὶν ἐρρωμένως, εἶτα λίνῳ διείρας κρέμασον ἐν τόπῳ σκιερῷ· μετὰ δὲ ἡμέρας πολλὰς καινῷ ἀποδήσας χαριῃ ἀποτίθεσο ἐν καταψύχρῳ τόπῳ. ἄσηπτα δὲ διαμένει",
+        "text": "πρόσφατον, ὁποῖον ἂν αἱρῇ, ἔκπλυνον ἐπιμελῶς καὶ διαψύξας ἐπὶ κοσκίνου ἐν σκιᾷ, μετὰ τὸ ξηρανθῆναι ἔμβαλε εἰς ὀθόνην καὶ ἐκπίεσον ταῖς χερσὶν ἐρρωμένως, εἶτα λίνῳ διείρας κρέμασον ἐν τόπῳ σκιερῷ· μετὰ δὲ ἡμέρας πολλὰς καινῷ ἀποδήσας χαριῃ ἀποτίθεσο ἐν καταψύχρῳ τόπῳ. ἄσηπτα δὲ διαμένει",
+        "citation": "157.5"
+      },
+      {
+        "page": "157",
+        "line": "10",
+        "break_no": false,
+        "raw_text": "καὶ ἐν μέλιτι ἀποτεθέντα.",
+        "text": "καὶ ἐν μέλιτι ἀποτεθέντα.",
+        "citation": "157.10"
+      }
+    ],
+    "edition_key": "wellmann"
+  },
+  "notes": [
+    "Book 2 fats slice split into logical preparation and technique units from chapters 72, 74, and 76.",
+    "Bare Arabic numerals in the raw witness are treated as structural or note noise and removed from display text, except parenthetical cross-references such as (I 68).",
+    "Section markers are stored separately and displayed near sentence boundaries as heuristic navigation aids.",
+    "Conservative split record generated locally because Codex structured-authority generation was rate-limited."
+  ],
+  "alignment_status": "pending",
+  "alignment_confidence": "pending",
+  "alignment_evidence": null,
+  "review_status": "reviewed_structured_authority",
+  "review_provenance": {
+    "authority_source": "reports/entity_review/structured/dioscorides.json",
+    "authority_recipe_id": "dioscorides-2-76-preserved-untreated-stear",
+    "authority_lemma": "στέαρ ἀθεράπευτον ἄσηπτον",
+    "model": "gpt-5.4",
+    "reasoning_effort": "high",
+    "dataset_key": "dioscorides_book2_fats",
+    "entity_model_version": "1.2",
+    "authority_version": "2026-04-13-qty-alt-v1",
+    "prompt_version": "qty-alt-pass-v1",
+    "build_version": "2026-05-18T15:51:35Z"
+  },
+  "schema_version": "1.2",
+  "build_metadata": {
+    "builder": "scripts/recipes/build_recipe_entities.py",
+    "built_at": "2026-05-18T15:51:35Z",
+    "source_structured_authority": "reports/entity_review/structured/dioscorides.json",
+    "authority_model": "gpt-5.4",
+    "authority_reasoning_effort": "high",
+    "dataset_key": "dioscorides_book2_fats",
+    "entity_model_version": "1.2",
+    "authority_version": "2026-04-13-qty-alt-v1",
+    "prompt_version": "qty-alt-pass-v1",
+    "build_version": "2026-05-18T15:51:35Z"
+  },
+  "recipe_text_excerpt": "εἰ δὲ ἀθεράπευτον στέαρ χήνειον ἢ ἀρνίθειον ἢ μόσχειον θέλοι τις ἄσηπτον διατηρῆσαι, οὕτως ποιητέον αὐτό· λαβὼν πρόσφατον, ὁποῖον ἂν",
+  "preparation": {
+    "preparation_id": "dioscorides-2-76-preserved-untreated-stear:preparation:stear-atherapeyton-asepton",
+    "preparation_urn": "urn:aos:recipe-preparation:dioscorides-2-76-preserved-untreated-stear:preparation:stear-atherapeyton-asepton",
+    "source_span": "στέαρ ἀθεράπευτον ἄσηπτον",
+    "surface_form": "στέαρ ἀθεράπευτον ἄσηπτον",
+    "normalized_label": "στέαρ ἀθεράπευτον ἄσηπτον",
+    "qualifiers": [],
+    "regimen_notes": [],
+    "certainty": "certain",
+    "notes": [
+      "Conservative split authority generated from exact spans in the previous broad Book 2 fat authority."
+    ],
+    "host_locator": {
+      "book": "2",
+      "chapter": "76",
+      "section": "16",
+      "citation": {
+        "start": "157.1",
+        "end": "157.10"
+      }
+    }
+  },
+  "ingredients": [
+    {
+      "ingredient_id": "dioscorides-2-76-preserved-untreated-stear:ingredient:stear-moscheion-1",
+      "ingredient_urn": "urn:aos:recipe-ingredient:dioscorides-2-76-preserved-untreated-stear:ingredient:stear-moscheion-1",
+      "source_span": "μόσχειον",
+      "surface_form": "μόσχειον",
+      "base_label": "μόσχειον",
+      "normalized_label": "στέαρ μόσχειον",
+      "alternative_set_id": null,
+      "certainty": "uncertain",
+      "linked_process_ids": [],
+      "quantities": [],
+      "qualifiers": [],
+      "notes": [
+        "Head noun στέαρ restored from lemma."
+      ],
+      "host_locator": {
+        "book": "2",
+        "chapter": "76",
+        "section": "16",
+        "citation": {
+          "start": "157.1",
+          "end": "157.10"
+        }
+      }
+    },
+    {
+      "ingredient_id": "dioscorides-2-76-preserved-untreated-stear:ingredient:meli-2",
+      "ingredient_urn": "urn:aos:recipe-ingredient:dioscorides-2-76-preserved-untreated-stear:ingredient:meli-2",
+      "source_span": "μέλιτι",
+      "surface_form": "μέλιτι",
+      "base_label": "μέλι",
+      "normalized_label": "μέλι",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [],
+      "quantities": [],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "2",
+        "chapter": "76",
+        "section": "16",
+        "citation": {
+          "start": "157.1",
+          "end": "157.10"
+        }
+      }
+    }
+  ],
+  "processes": [
+    {
+      "process_id": "dioscorides-2-76-preserved-untreated-stear:process:emballein-1",
+      "process_urn": "urn:aos:recipe-process:dioscorides-2-76-preserved-untreated-stear:process:emballein-1",
+      "source_span": "ἔμβαλε",
+      "surface_form": "ἔμβαλε",
+      "normalized_label": "ἐμβάλλειν",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "2",
+        "chapter": "76",
+        "section": "16",
+        "citation": {
+          "start": "157.1",
+          "end": "157.10"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-2-76-preserved-untreated-stear:process:apotithesthai-2",
+      "process_urn": "urn:aos:recipe-process:dioscorides-2-76-preserved-untreated-stear:process:apotithesthai-2",
+      "source_span": "ἀποτίθεσο",
+      "surface_form": "ἀποτίθεσο",
+      "normalized_label": "ἀποτίθεσθαι",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "2",
+        "chapter": "76",
+        "section": "16",
+        "citation": {
+          "start": "157.1",
+          "end": "157.10"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-2-76-preserved-untreated-stear:process:ekplynein-3",
+      "process_urn": "urn:aos:recipe-process:dioscorides-2-76-preserved-untreated-stear:process:ekplynein-3",
+      "source_span": "ἔκπλυνον",
+      "surface_form": "ἔκπλυνον",
+      "normalized_label": "ἐκπλύνειν",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "2",
+        "chapter": "76",
+        "section": "16",
+        "citation": {
+          "start": "157.1",
+          "end": "157.10"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-2-76-preserved-untreated-stear:process:ekpiezein-4",
+      "process_urn": "urn:aos:recipe-process:dioscorides-2-76-preserved-untreated-stear:process:ekpiezein-4",
+      "source_span": "ἐκπίεσον",
+      "surface_form": "ἐκπίεσον",
+      "normalized_label": "ἐκπιέζειν",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "manner",
+          "source_span": "ταῖς χερσὶν ἐρρωμένως",
+          "normalized_value": "firmly with the hands",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "2",
+        "chapter": "76",
+        "section": "16",
+        "citation": {
+          "start": "157.1",
+          "end": "157.10"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-2-76-preserved-untreated-stear:process:kremannynai-5",
+      "process_urn": "urn:aos:recipe-process:dioscorides-2-76-preserved-untreated-stear:process:kremannynai-5",
+      "source_span": "κρέμασον",
+      "surface_form": "κρέμασον",
+      "normalized_label": "κρεμάννυναι",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "location",
+          "source_span": "ἐν τόπῳ σκιερῷ",
+          "normalized_value": "in a shady place",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "2",
+        "chapter": "76",
+        "section": "16",
+        "citation": {
+          "start": "157.1",
+          "end": "157.10"
+        }
+      }
+    }
+  ],
+  "materials": [
+    {
+      "material_id": "dioscorides-2-76-preserved-untreated-stear:material:othone-1",
+      "material_urn": "urn:aos:recipe-material:dioscorides-2-76-preserved-untreated-stear:material:othone-1",
+      "source_span": "ὀθόνην",
+      "surface_form": "ὀθόνην",
+      "normalized_label": "ὀθόνη",
+      "role": "tool",
+      "certainty": "certain",
+      "quantities": [],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "2",
+        "chapter": "76",
+        "section": "16",
+        "citation": {
+          "start": "157.1",
+          "end": "157.10"
+        }
+      }
+    },
+    {
+      "material_id": "dioscorides-2-76-preserved-untreated-stear:material:koskinon-2",
+      "material_urn": "urn:aos:recipe-material:dioscorides-2-76-preserved-untreated-stear:material:koskinon-2",
+      "source_span": "κοσκίνου",
+      "surface_form": "κοσκίνου",
+      "normalized_label": "κόσκινον",
+      "role": "tool",
+      "certainty": "certain",
+      "quantities": [],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "2",
+        "chapter": "76",
+        "section": "16",
+        "citation": {
+          "start": "157.1",
+          "end": "157.10"
+        }
+      }
+    },
+    {
+      "material_id": "dioscorides-2-76-preserved-untreated-stear:material:linon-3",
+      "material_urn": "urn:aos:recipe-material:dioscorides-2-76-preserved-untreated-stear:material:linon-3",
+      "source_span": "λίνῳ",
+      "surface_form": "λίνῳ",
+      "normalized_label": "λίνον",
+      "role": "tool",
+      "certainty": "certain",
+      "quantities": [],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "2",
+        "chapter": "76",
+        "section": "16",
+        "citation": {
+          "start": "157.1",
+          "end": "157.10"
+        }
+      }
+    }
+  ],
+  "people": [],
+  "places": [],
+  "uses": [],
+  "preparation_names": [],
+  "other_preparations_mentioned": [],
+  "works_mentioned": [],
+  "entities": [
+    {
+      "entity_urn": "urn:aos:recipe-preparation:dioscorides-2-76-preserved-untreated-stear:preparation:stear-atherapeyton-asepton",
+      "entity_type": "label",
+      "surface_form": "στέαρ ἀθεράπευτον ἄσηπτον",
+      "normalized_label": "στέαρ ἀθεράπευτον ἄσηπτον"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:dioscorides-2-76-preserved-untreated-stear:ingredient:stear-moscheion-1",
+      "entity_type": "ingredient",
+      "surface_form": "μόσχειον",
+      "normalized_label": "στέαρ μόσχειον"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:dioscorides-2-76-preserved-untreated-stear:ingredient:meli-2",
+      "entity_type": "ingredient",
+      "surface_form": "μέλιτι",
+      "normalized_label": "μέλι"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-2-76-preserved-untreated-stear:process:emballein-1",
+      "entity_type": "process",
+      "surface_form": "ἔμβαλε",
+      "normalized_label": "ἐμβάλλειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-2-76-preserved-untreated-stear:process:apotithesthai-2",
+      "entity_type": "process",
+      "surface_form": "ἀποτίθεσο",
+      "normalized_label": "ἀποτίθεσθαι"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-2-76-preserved-untreated-stear:process:ekplynein-3",
+      "entity_type": "process",
+      "surface_form": "ἔκπλυνον",
+      "normalized_label": "ἐκπλύνειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-2-76-preserved-untreated-stear:process:ekpiezein-4",
+      "entity_type": "process",
+      "surface_form": "ἐκπίεσον",
+      "normalized_label": "ἐκπιέζειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-2-76-preserved-untreated-stear:process:kremannynai-5",
+      "entity_type": "process",
+      "surface_form": "κρέμασον",
+      "normalized_label": "κρεμάννυναι"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-material:dioscorides-2-76-preserved-untreated-stear:material:othone-1",
+      "entity_type": "material",
+      "surface_form": "ὀθόνην",
+      "normalized_label": "ὀθόνη"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-material:dioscorides-2-76-preserved-untreated-stear:material:koskinon-2",
+      "entity_type": "material",
+      "surface_form": "κοσκίνου",
+      "normalized_label": "κόσκινον"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-material:dioscorides-2-76-preserved-untreated-stear:material:linon-3",
+      "entity_type": "material",
+      "surface_form": "λίνῳ",
+      "normalized_label": "λίνον"
+    }
+  ]
+}

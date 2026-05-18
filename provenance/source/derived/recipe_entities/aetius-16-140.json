@@ -1,0 +1,534 @@
+{
+  "dataset_key": "aetius_book16_myrepsika",
+  "source_json": "experiments/aetius-book16-ch126-153-myrepsika/data/aetius_book16_ch126_153_myrepsika.json",
+  "host_raw_file": "tei/raw/tlg0718016.xml",
+  "work_slug": "aetius.b16.myrepsika",
+  "recipe_id": "aetius-16-140",
+  "recipe_urn": "urn:aos:recipe:aetius-16-140",
+  "record_urn": "urn:aos:recipe-record:aetius-16-140",
+  "author": "Aëtius of Amida",
+  "work": "Libri medicinales",
+  "book": "16",
+  "chapter": "140",
+  "section": null,
+  "chapter_name": "μουστακίων σκευασία",
+  "lemma": "μουστακίων σκευασία",
+  "text": "Σεμιδάλεως ξειστ ἤτοι ξέστ ιστ. ἐλαίου ὀμφακίνου ξεε ἤτοι ξέστ. ε. πεπέρεως γοε ἤτοι οὐγ. ε. φύλλου, καρυοφύλλου ἀνὰ γοα. ἤτοι οὐγ. α. οἴνου μούστου γλυκυτάτου ξεγ ἤτοι ξέστ. γ· μέλιτος λιβ. ἤτοι λίτρ. β. γίνονται δὲ ταῦτα ὡς πλακούντια μικρά.",
+  "original_text": null,
+  "text_source": null,
+  "emendations": [],
+  "emendation_count": 0,
+  "source_kind": null,
+  "entry_kind": "recipe",
+  "citation": {
+    "pages": [
+      "168"
+    ],
+    "start": {
+      "page": "168",
+      "line": "1",
+      "xml_id": "zerv-168-1"
+    },
+    "end": {
+      "page": "168",
+      "line": "5",
+      "xml_id": "zerv-168-5"
+    },
+    "citation": {
+      "start": "168.1",
+      "end": "168.5"
+    },
+    "page_spans": [
+      {
+        "page": "168",
+        "start_line": "1",
+        "end_line": "5"
+      }
+    ],
+    "lines": [
+      {
+        "page": "168",
+        "line": "1",
+        "xml_id": "zerv-168-1",
+        "citation": "168.1",
+        "text": "ΜΟΥΣΤΑΚΙΩΝ ΣΚΕΥΑΣΙΑ."
+      },
+      {
+        "page": "168",
+        "line": "2",
+        "xml_id": "zerv-168-2",
+        "citation": "168.2",
+        "text": "Σεμιδάλεως ξειστ ἤτοι ξέστ ιστ. ἐλαίου ὀμφακίνου ξεε ἤτοι"
+      },
+      {
+        "page": "168",
+        "line": "3",
+        "xml_id": "zerv-168-3",
+        "citation": "168.3",
+        "text": "ξέστ. ε. πεπέρεως γοε ἤτοι οὐγ. ε. φύλλου, καρυοφύλλου ἀνὰ γοα."
+      },
+      {
+        "page": "168",
+        "line": "4",
+        "xml_id": "zerv-168-4",
+        "citation": "168.4",
+        "text": "ἤτοι οὐγ. α. οἴνου μούστου γλυκυτάτου ξεγ ἤτοι ξέστ. γ· μέλιτος"
+      },
+      {
+        "page": "168",
+        "line": "5",
+        "xml_id": "zerv-168-5",
+        "citation": "168.5",
+        "text": "λιβ. ἤτοι λίτρ. β. γίνονται δὲ ταῦτα ὡς πλακούντια μικρά."
+      }
+    ],
+    "edition_key": "zervos"
+  },
+  "notes": [
+    "Distributive «ἀνὰ» governs the quantity for the ingredient cluster «φύλλου, καρυοφύλλου»."
+  ],
+  "alignment_status": "pending",
+  "alignment_confidence": "pending",
+  "alignment_evidence": null,
+  "review_status": "reviewed_structured_authority",
+  "review_provenance": {
+    "authority_source": "reports/entity_review/structured/aetius_book16.json",
+    "authority_recipe_id": "aetius-16-140",
+    "authority_lemma": "μουστακίων σκευασία",
+    "model": "gpt-5.4",
+    "reasoning_effort": "high",
+    "dataset_key": "aetius_book16_myrepsika",
+    "entity_model_version": "1.2",
+    "authority_version": "2026-04-13-qty-alt-v1",
+    "prompt_version": "qty-alt-pass-v1",
+    "build_version": "2026-05-18T15:51:35Z"
+  },
+  "schema_version": "1.2",
+  "build_metadata": {
+    "builder": "scripts/recipes/build_recipe_entities.py",
+    "built_at": "2026-05-18T15:51:35Z",
+    "source_structured_authority": "reports/entity_review/structured/aetius_book16.json",
+    "authority_model": "gpt-5.4",
+    "authority_reasoning_effort": "high",
+    "dataset_key": "aetius_book16_myrepsika",
+    "entity_model_version": "1.2",
+    "authority_version": "2026-04-13-qty-alt-v1",
+    "prompt_version": "qty-alt-pass-v1",
+    "build_version": "2026-05-18T15:51:35Z"
+  },
+  "recipe_text_excerpt": "Σεμιδάλεως ξειστ ἤτοι ξέστ ιστ. ἐλαίου ὀμφακίνου ξεε ἤτοι ξέστ. ε. πεπέρεως γοε ἤτοι οὐγ. ε. φύλλου, καρυοφύλλου ἀνὰ γοα.",
+  "preparation": {
+    "preparation_id": "aetius-16-140:preparation:moystakion-skeyasia",
+    "preparation_urn": "urn:aos:recipe-preparation:aetius-16-140:preparation:moystakion-skeyasia",
+    "source_span": "μουστακίων σκευασία",
+    "surface_form": "μουστακίων σκευασία",
+    "normalized_label": "μουστακίων σκευασία",
+    "qualifiers": [],
+    "regimen_notes": [],
+    "certainty": "certain",
+    "notes": [],
+    "host_locator": {
+      "book": "16",
+      "chapter": "140",
+      "section": null,
+      "citation": {
+        "start": "168.1",
+        "end": "168.5"
+      }
+    }
+  },
+  "ingredients": [
+    {
+      "ingredient_id": "aetius-16-140:ingredient:semidalis-1",
+      "ingredient_urn": "urn:aos:recipe-ingredient:aetius-16-140:ingredient:semidalis-1",
+      "source_span": "Σεμιδάλεως",
+      "surface_form": "Σεμιδάλεως",
+      "base_label": "Σεμιδάλεως",
+      "normalized_label": "σεμίδαλις",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [],
+      "quantities": [
+        {
+          "source_span": "ξειστ ἤτοι ξέστ ιστ.",
+          "raw_number": "ιστ",
+          "normalized_number": 16,
+          "raw_unit": "ξέστ",
+          "normalized_unit": "xestes",
+          "certainty": "certain",
+          "notes": [
+            "The source first gives the abbreviated form «ξειστ»."
+          ]
+        }
+      ],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "16",
+        "chapter": "140",
+        "section": null,
+        "citation": {
+          "start": "168.1",
+          "end": "168.5"
+        }
+      }
+    },
+    {
+      "ingredient_id": "aetius-16-140:ingredient:elaion-omphakinon-2",
+      "ingredient_urn": "urn:aos:recipe-ingredient:aetius-16-140:ingredient:elaion-omphakinon-2",
+      "source_span": "ἐλαίου ὀμφακίνου",
+      "surface_form": "ἐλαίου ὀμφακίνου",
+      "base_label": "ἐλαίου",
+      "normalized_label": "ἔλαιον ὀμφάκινον",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [],
+      "quantities": [
+        {
+          "source_span": "ξεε ἤτοι ξέστ. ε.",
+          "raw_number": "ε",
+          "normalized_number": 5,
+          "raw_unit": "ξέστ.",
+          "normalized_unit": "xestes",
+          "certainty": "certain",
+          "notes": [
+            "The source first gives the abbreviated form «ξεε»."
+          ]
+        }
+      ],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "16",
+        "chapter": "140",
+        "section": null,
+        "citation": {
+          "start": "168.1",
+          "end": "168.5"
+        }
+      }
+    },
+    {
+      "ingredient_id": "aetius-16-140:ingredient:peperi-3",
+      "ingredient_urn": "urn:aos:recipe-ingredient:aetius-16-140:ingredient:peperi-3",
+      "source_span": "πεπέρεως",
+      "surface_form": "πεπέρεως",
+      "base_label": "πεπέρεως",
+      "normalized_label": "πέπερι",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [],
+      "quantities": [
+        {
+          "source_span": "γοε ἤτοι οὐγ. ε.",
+          "raw_number": "ε",
+          "normalized_number": 5,
+          "raw_unit": "οὐγ.",
+          "normalized_unit": "uncia",
+          "certainty": "certain",
+          "notes": [
+            "The source first gives the abbreviated form «γοε»."
+          ]
+        }
+      ],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "16",
+        "chapter": "140",
+        "section": null,
+        "citation": {
+          "start": "168.1",
+          "end": "168.5"
+        }
+      }
+    },
+    {
+      "ingredient_id": "aetius-16-140:ingredient:phyllon-4",
+      "ingredient_urn": "urn:aos:recipe-ingredient:aetius-16-140:ingredient:phyllon-4",
+      "source_span": "φύλλου",
+      "surface_form": "φύλλου",
+      "base_label": "φύλλου",
+      "normalized_label": "φύλλον",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [],
+      "quantities": [
+        {
+          "source_span": "γοα. ἤτοι οὐγ. α.",
+          "raw_number": "α",
+          "normalized_number": 1,
+          "raw_unit": "οὐγ.",
+          "normalized_unit": "uncia",
+          "certainty": "certain",
+          "notes": [
+            "Shared distributive quantity governed by «ἀνὰ».",
+            "The source first gives the abbreviated form «γοα.»."
+          ]
+        }
+      ],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "16",
+        "chapter": "140",
+        "section": null,
+        "citation": {
+          "start": "168.1",
+          "end": "168.5"
+        }
+      }
+    },
+    {
+      "ingredient_id": "aetius-16-140:ingredient:karyophyllon-5",
+      "ingredient_urn": "urn:aos:recipe-ingredient:aetius-16-140:ingredient:karyophyllon-5",
+      "source_span": "καρυοφύλλου",
+      "surface_form": "καρυοφύλλου",
+      "base_label": "καρυοφύλλου",
+      "normalized_label": "καρυόφυλλον",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [],
+      "quantities": [
+        {
+          "source_span": "γοα. ἤτοι οὐγ. α.",
+          "raw_number": "α",
+          "normalized_number": 1,
+          "raw_unit": "οὐγ.",
+          "normalized_unit": "uncia",
+          "certainty": "certain",
+          "notes": [
+            "Shared distributive quantity governed by «ἀνὰ».",
+            "The source first gives the abbreviated form «γοα.»."
+          ]
+        }
+      ],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "16",
+        "chapter": "140",
+        "section": null,
+        "citation": {
+          "start": "168.1",
+          "end": "168.5"
+        }
+      }
+    },
+    {
+      "ingredient_id": "aetius-16-140:ingredient:oinos-moystos-glykytatos-6",
+      "ingredient_urn": "urn:aos:recipe-ingredient:aetius-16-140:ingredient:oinos-moystos-glykytatos-6",
+      "source_span": "οἴνου μούστου γλυκυτάτου",
+      "surface_form": "οἴνου μούστου γλυκυτάτου",
+      "base_label": "οἴνου μούστου",
+      "normalized_label": "οἶνος μοῦστος γλυκύτατος",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [],
+      "quantities": [
+        {
+          "source_span": "ξεγ ἤτοι ξέστ. γ",
+          "raw_number": "γ",
+          "normalized_number": 3,
+          "raw_unit": "ξέστ.",
+          "normalized_unit": "xestes",
+          "certainty": "certain",
+          "notes": [
+            "The source first gives the abbreviated form «ξεγ»."
+          ]
+        }
+      ],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "16",
+        "chapter": "140",
+        "section": null,
+        "citation": {
+          "start": "168.1",
+          "end": "168.5"
+        }
+      }
+    },
+    {
+      "ingredient_id": "aetius-16-140:ingredient:meli-7",
+      "ingredient_urn": "urn:aos:recipe-ingredient:aetius-16-140:ingredient:meli-7",
+      "source_span": "μέλιτος",
+      "surface_form": "μέλιτος",
+      "base_label": "μέλιτος",
+      "normalized_label": "μέλι",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [],
+      "quantities": [
+        {
+          "source_span": "λιβ. ἤτοι λίτρ. β.",
+          "raw_number": "β",
+          "normalized_number": 2,
+          "raw_unit": "λίτρ.",
+          "normalized_unit": "litra",
+          "certainty": "certain",
+          "notes": [
+            "The source first gives the abbreviated form «λιβ.»."
+          ]
+        }
+      ],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "16",
+        "chapter": "140",
+        "section": null,
+        "citation": {
+          "start": "168.1",
+          "end": "168.5"
+        }
+      }
+    }
+  ],
+  "processes": [
+    {
+      "process_id": "aetius-16-140:process:ginesthai-1",
+      "process_urn": "urn:aos:recipe-process:aetius-16-140:process:ginesthai-1",
+      "source_span": "γίνονται",
+      "surface_form": "γίνονται",
+      "normalized_label": "γίνεσθαι",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "manner",
+          "source_span": "ὡς πλακούντια μικρά",
+          "normalized_value": "ὡς πλακούντια μικρά",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "16",
+        "chapter": "140",
+        "section": null,
+        "citation": {
+          "start": "168.1",
+          "end": "168.5"
+        }
+      }
+    }
+  ],
+  "materials": [],
+  "people": [],
+  "places": [],
+  "uses": [],
+  "preparation_names": [
+    {
+      "preparation_name_id": "aetius-16-140:preparation_name:moystakion-skeyasia-1",
+      "preparation_name_urn": "urn:aos:recipe-preparation_name:aetius-16-140:preparation_name:moystakion-skeyasia-1",
+      "source_span": "μουστακίων σκευασία",
+      "surface_form": "μουστακίων σκευασία",
+      "normalized_label": "μουστακίων σκευασία",
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "16",
+        "chapter": "140",
+        "section": null,
+        "citation": {
+          "start": "168.1",
+          "end": "168.5"
+        }
+      }
+    }
+  ],
+  "other_preparations_mentioned": [
+    {
+      "reference_id": "aetius-16-140:reference:plakoyntion-1",
+      "reference_urn": "urn:aos:recipe-reference:aetius-16-140:reference:plakoyntion-1",
+      "source_span": "πλακούντια",
+      "surface_form": "πλακούντια",
+      "normalized_label": "πλακούντιον",
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "16",
+        "chapter": "140",
+        "section": null,
+        "citation": {
+          "start": "168.1",
+          "end": "168.5"
+        }
+      }
+    }
+  ],
+  "works_mentioned": [],
+  "entities": [
+    {
+      "entity_urn": "urn:aos:recipe-preparation:aetius-16-140:preparation:moystakion-skeyasia",
+      "entity_type": "label",
+      "surface_form": "μουστακίων σκευασία",
+      "normalized_label": "μουστακίων σκευασία"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:aetius-16-140:ingredient:semidalis-1",
+      "entity_type": "ingredient",
+      "surface_form": "Σεμιδάλεως",
+      "normalized_label": "σεμίδαλις"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:aetius-16-140:ingredient:elaion-omphakinon-2",
+      "entity_type": "ingredient",
+      "surface_form": "ἐλαίου ὀμφακίνου",
+      "normalized_label": "ἔλαιον ὀμφάκινον"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:aetius-16-140:ingredient:peperi-3",
+      "entity_type": "ingredient",
+      "surface_form": "πεπέρεως",
+      "normalized_label": "πέπερι"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:aetius-16-140:ingredient:phyllon-4",
+      "entity_type": "ingredient",
+      "surface_form": "φύλλου",
+      "normalized_label": "φύλλον"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:aetius-16-140:ingredient:karyophyllon-5",
+      "entity_type": "ingredient",
+      "surface_form": "καρυοφύλλου",
+      "normalized_label": "καρυόφυλλον"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:aetius-16-140:ingredient:oinos-moystos-glykytatos-6",
+      "entity_type": "ingredient",
+      "surface_form": "οἴνου μούστου γλυκυτάτου",
+      "normalized_label": "οἶνος μοῦστος γλυκύτατος"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:aetius-16-140:ingredient:meli-7",
+      "entity_type": "ingredient",
+      "surface_form": "μέλιτος",
+      "normalized_label": "μέλι"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:aetius-16-140:process:ginesthai-1",
+      "entity_type": "process",
+      "surface_form": "γίνονται",
+      "normalized_label": "γίνεσθαι"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-preparation_name:aetius-16-140:preparation_name:moystakion-skeyasia-1",
+      "entity_type": "preparation_name",
+      "surface_form": "μουστακίων σκευασία",
+      "normalized_label": "μουστακίων σκευασία"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-reference:aetius-16-140:reference:plakoyntion-1",
+      "entity_type": "preparation_reference",
+      "surface_form": "πλακούντια",
+      "normalized_label": "πλακούντιον"
+    }
+  ]
+}

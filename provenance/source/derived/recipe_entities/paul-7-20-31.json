@@ -1,0 +1,737 @@
+{
+  "dataset_key": "paul_book7_perfumes",
+  "source_json": "experiments/paul-book7-ch20-perfumes/data/paul_book7_ch20_perfumes.json",
+  "host_raw_file": "tei/raw/tlg0715001.xml",
+  "work_slug": "paul.b7.perfumes",
+  "recipe_id": "paul-7-20-31",
+  "recipe_urn": "urn:aos:recipe:paul-7-20-31",
+  "record_urn": "urn:aos:recipe-record:paul-7-20-31",
+  "author": "Paul of Aegina",
+  "work": "Medical Epitome",
+  "book": "7",
+  "chapter": "20",
+  "section": "31",
+  "chapter_name": "Ἐλαίων καὶ μύρων σκευασίαι διάφοροι.",
+  "lemma": "Μενδήσιον",
+  "text": "Εἴρηται μὲν διὰ τὸ ἐν Αἰγύπτῳ εὑρῆσθαι, ἔνθα καὶ ὁ μένδης τρέφεται, λαμβάνει δὲ ἐλαίου βαλανίνου λι. ι (ἐν ἄλλῳ ξ̸ ι), σμύρνης, καςσίας, σύριγγος ἀνὰ 𐆄 γ, τερεβινθίνης λι. α (ἔνιοι ι), κιναμώμου 𐆄 γ. τοῦτο οὐχ ἕψεται, ἀλλ' ἐμβληθέντα ξηρὰ κινεῖται ἐπὶ ἡμέρας ξ, εἶτα τακεῖσα ἡ τερεβινθίνη εἰς μέρος τοῦ ἐλαίου ἐμβάλλεται, εἶτα πάλιν κινεῖται ἑτέρας ἡμέρας ζ καὶ οὕτως ἀποτίθεται.",
+  "original_text": null,
+  "text_source": null,
+  "emendations": [],
+  "emendation_count": 0,
+  "source_kind": null,
+  "entry_kind": "recipe",
+  "citation": {
+    "pages": [
+      "2.388",
+      "2.389"
+    ],
+    "start": {
+      "page": "2.388",
+      "line": "21",
+      "xml_id": "heib-2-388-21"
+    },
+    "end": {
+      "page": "2.389",
+      "line": "2",
+      "xml_id": "heib-2-389-2"
+    },
+    "citation": {
+      "start": "2.388.21",
+      "end": "2.389.2"
+    },
+    "page_spans": [
+      {
+        "page": "2.388",
+        "start_line": "21",
+        "end_line": "25"
+      },
+      {
+        "page": "2.389",
+        "start_line": "1",
+        "end_line": "2"
+      }
+    ],
+    "lines": [
+      {
+        "page": "2.388",
+        "line": "21",
+        "xml_id": "heib-2-388-21",
+        "break_no": false,
+        "text": "Μενδήσιον.",
+        "citation": "2.388.21"
+      },
+      {
+        "page": "2.388",
+        "line": "22",
+        "xml_id": "heib-2-388-22",
+        "break_no": false,
+        "text": "Εἴρηται μὲν διὰ τὸ ἐν Αἰγύπτῳ εὑρῆσθαι, ἔνθα καὶ ὁ μένδης τρέ-",
+        "citation": "2.388.22"
+      },
+      {
+        "page": "2.388",
+        "line": "23",
+        "xml_id": "heib-2-388-23",
+        "break_no": true,
+        "text": "φεται, λαμβάνει δὲ ἐλαίου βαλανίνου λι. ι (ἐν ἄλλῳ ξ̸ ι), σμύρνης, κας-",
+        "citation": "2.388.23"
+      },
+      {
+        "page": "2.388",
+        "line": "24",
+        "xml_id": "heib-2-388-24",
+        "break_no": true,
+        "text": "σίας, σύριγγος ἀνὰ 𐆄 γ, τερεβινθίνης λι. α (ἔνιοι ι), κιναμώμου 𐆄 γ.",
+        "citation": "2.388.24"
+      },
+      {
+        "page": "2.388",
+        "line": "25",
+        "xml_id": "heib-2-388-25",
+        "break_no": false,
+        "text": "τοῦτο οὐχ ἕψεται, ἀλλ' ἐμβληθέντα ξηρὰ κινεῖται ἐπὶ ἡμέρας ξ, εἶτα",
+        "citation": "2.388.25"
+      },
+      {
+        "page": "2.389",
+        "line": "1",
+        "xml_id": "heib-2-389-1",
+        "break_no": false,
+        "text": "τακεῖσα ἡ τερεβινθίνη εἰς μέρος τοῦ ἐλαίου ἐμβάλλεται, εἶτα πάλιν",
+        "citation": "2.389.1"
+      },
+      {
+        "page": "2.389",
+        "line": "2",
+        "xml_id": "heib-2-389-2",
+        "break_no": false,
+        "text": "κινεῖται ἑτέρας ἡμέρας ζ καὶ οὕτως ἀποτίθεται.",
+        "citation": "2.389.2"
+      }
+    ],
+    "edition_key": "heiberg"
+  },
+  "notes": [
+    "τὸ διανεμητικὸν «ἀνὰ» κυβερνᾷ τὸ σύμπλεγμα σμύρνης, καςσίας, σύριγγος."
+  ],
+  "alignment_status": "pending",
+  "alignment_confidence": "pending",
+  "alignment_evidence": null,
+  "review_status": "reviewed_structured_authority",
+  "review_provenance": {
+    "authority_source": "reports/entity_review/structured/paul.json",
+    "authority_recipe_id": "paul-7-20-31",
+    "authority_lemma": "Μενδήσιον",
+    "model": "gpt-5.4",
+    "reasoning_effort": "high",
+    "dataset_key": "paul_book7_perfumes",
+    "entity_model_version": "1.2",
+    "authority_version": "2026-04-13-qty-alt-v1",
+    "prompt_version": "qty-alt-pass-v1",
+    "build_version": "2026-05-18T15:51:35Z"
+  },
+  "schema_version": "1.2",
+  "build_metadata": {
+    "builder": "scripts/recipes/build_recipe_entities.py",
+    "built_at": "2026-05-18T15:51:35Z",
+    "source_structured_authority": "reports/entity_review/structured/paul.json",
+    "authority_model": "gpt-5.4",
+    "authority_reasoning_effort": "high",
+    "dataset_key": "paul_book7_perfumes",
+    "entity_model_version": "1.2",
+    "authority_version": "2026-04-13-qty-alt-v1",
+    "prompt_version": "qty-alt-pass-v1",
+    "build_version": "2026-05-18T15:51:35Z"
+  },
+  "recipe_text_excerpt": "Εἴρηται μὲν διὰ τὸ ἐν Αἰγύπτῳ εὑρῆσθαι, ἔνθα καὶ ὁ μένδης τρέφεται, λαμβάνει δὲ ἐλαίου βαλανίνου λι. ι (ἐν ἄλλῳ",
+  "preparation": {
+    "preparation_id": "paul-7-20-31:preparation:mendesion",
+    "preparation_urn": "urn:aos:recipe-preparation:paul-7-20-31:preparation:mendesion",
+    "source_span": "Μενδήσιον",
+    "surface_form": "Μενδήσιον",
+    "normalized_label": "Μενδήσιον",
+    "qualifiers": [],
+    "regimen_notes": [],
+    "certainty": "certain",
+    "notes": [],
+    "host_locator": {
+      "book": "7",
+      "chapter": "20",
+      "section": "31",
+      "citation": {
+        "start": "2.388.21",
+        "end": "2.389.2"
+      }
+    }
+  },
+  "ingredients": [
+    {
+      "ingredient_id": "paul-7-20-31:ingredient:elaion-balaninon-1",
+      "ingredient_urn": "urn:aos:recipe-ingredient:paul-7-20-31:ingredient:elaion-balaninon-1",
+      "source_span": "ἐλαίου βαλανίνου",
+      "surface_form": "ἐλαίου βαλανίνου",
+      "base_label": "ἔλαιον",
+      "normalized_label": "ἔλαιον βαλάνινον",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [],
+      "quantities": [
+        {
+          "source_span": "λι. ι",
+          "raw_number": "ι",
+          "normalized_number": 10,
+          "raw_unit": "λι.",
+          "normalized_unit": "litra",
+          "certainty": "certain",
+          "notes": []
+        },
+        {
+          "source_span": "ξ̸ ι",
+          "raw_number": "ξ̸ ι",
+          "normalized_number": null,
+          "raw_unit": null,
+          "normalized_unit": "xestes",
+          "certainty": "uncertain",
+          "notes": [
+            "παρενθετικὴ παραλλαγή· ἡ μονὰς νοεῖται ἐκ τοῦ προηγοῦντος «λι.»"
+          ]
+        }
+      ],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "7",
+        "chapter": "20",
+        "section": "31",
+        "citation": {
+          "start": "2.388.21",
+          "end": "2.389.2"
+        }
+      }
+    },
+    {
+      "ingredient_id": "paul-7-20-31:ingredient:smyrna-2",
+      "ingredient_urn": "urn:aos:recipe-ingredient:paul-7-20-31:ingredient:smyrna-2",
+      "source_span": "σμύρνης",
+      "surface_form": "σμύρνης",
+      "base_label": "σμύρνα",
+      "normalized_label": "σμύρνα",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [
+        "paul-7-20-31:process:emballein-2",
+        "paul-7-20-31:process:emballein-5"
+      ],
+      "quantities": [
+        {
+          "source_span": "𐆄 γ",
+          "raw_number": "γ",
+          "normalized_number": 3,
+          "raw_unit": "𐆄",
+          "normalized_unit": "uncia",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "7",
+        "chapter": "20",
+        "section": "31",
+        "citation": {
+          "start": "2.388.21",
+          "end": "2.389.2"
+        }
+      }
+    },
+    {
+      "ingredient_id": "paul-7-20-31:ingredient:kassia-3",
+      "ingredient_urn": "urn:aos:recipe-ingredient:paul-7-20-31:ingredient:kassia-3",
+      "source_span": "καςσίας",
+      "surface_form": "καςσίας",
+      "base_label": "κασσία",
+      "normalized_label": "κασσία",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [
+        "paul-7-20-31:process:emballein-2",
+        "paul-7-20-31:process:emballein-5"
+      ],
+      "quantities": [
+        {
+          "source_span": "𐆄 γ",
+          "raw_number": "γ",
+          "normalized_number": 3,
+          "raw_unit": "𐆄",
+          "normalized_unit": "uncia",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "7",
+        "chapter": "20",
+        "section": "31",
+        "citation": {
+          "start": "2.388.21",
+          "end": "2.389.2"
+        }
+      }
+    },
+    {
+      "ingredient_id": "paul-7-20-31:ingredient:syrigx-4",
+      "ingredient_urn": "urn:aos:recipe-ingredient:paul-7-20-31:ingredient:syrigx-4",
+      "source_span": "σύριγγος",
+      "surface_form": "σύριγγος",
+      "base_label": "σύριγξ",
+      "normalized_label": "σύριγξ",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [
+        "paul-7-20-31:process:emballein-2",
+        "paul-7-20-31:process:emballein-5"
+      ],
+      "quantities": [
+        {
+          "source_span": "𐆄 γ",
+          "raw_number": "γ",
+          "normalized_number": 3,
+          "raw_unit": "𐆄",
+          "normalized_unit": "uncia",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "7",
+        "chapter": "20",
+        "section": "31",
+        "citation": {
+          "start": "2.388.21",
+          "end": "2.389.2"
+        }
+      }
+    },
+    {
+      "ingredient_id": "paul-7-20-31:ingredient:terebinthine-5",
+      "ingredient_urn": "urn:aos:recipe-ingredient:paul-7-20-31:ingredient:terebinthine-5",
+      "source_span": "τερεβινθίνης",
+      "surface_form": "τερεβινθίνης",
+      "base_label": "τερεβινθίνη",
+      "normalized_label": "τερεβινθίνη",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [
+        "paul-7-20-31:process:tekein-4",
+        "paul-7-20-31:process:emballein-2",
+        "paul-7-20-31:process:emballein-5"
+      ],
+      "quantities": [
+        {
+          "source_span": "λι. α",
+          "raw_number": "α",
+          "normalized_number": 1,
+          "raw_unit": "λι.",
+          "normalized_unit": "litra",
+          "certainty": "certain",
+          "notes": []
+        },
+        {
+          "source_span": "ι",
+          "raw_number": "ι",
+          "normalized_number": 10,
+          "raw_unit": null,
+          "normalized_unit": "litra",
+          "certainty": "uncertain",
+          "notes": [
+            "παρενθετικὴ παραλλαγή «ἔνιοι ι»· ἡ μονὰς νοεῖται ἐκ τοῦ προηγοῦντος «λι.»"
+          ]
+        }
+      ],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "7",
+        "chapter": "20",
+        "section": "31",
+        "citation": {
+          "start": "2.388.21",
+          "end": "2.389.2"
+        }
+      }
+    },
+    {
+      "ingredient_id": "paul-7-20-31:ingredient:kinamomon-6",
+      "ingredient_urn": "urn:aos:recipe-ingredient:paul-7-20-31:ingredient:kinamomon-6",
+      "source_span": "κιναμώμου",
+      "surface_form": "κιναμώμου",
+      "base_label": "κινάμωμον",
+      "normalized_label": "κινάμωμον",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [
+        "paul-7-20-31:process:emballein-2",
+        "paul-7-20-31:process:emballein-5"
+      ],
+      "quantities": [
+        {
+          "source_span": "𐆄 γ",
+          "raw_number": "γ",
+          "normalized_number": 3,
+          "raw_unit": "𐆄",
+          "normalized_unit": "uncia",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "7",
+        "chapter": "20",
+        "section": "31",
+        "citation": {
+          "start": "2.388.21",
+          "end": "2.389.2"
+        }
+      }
+    }
+  ],
+  "processes": [
+    {
+      "process_id": "paul-7-20-31:process:epsein-1",
+      "process_urn": "urn:aos:recipe-process:paul-7-20-31:process:epsein-1",
+      "source_span": "οὐχ ἕψεται",
+      "surface_form": "οὐχ ἕψεται",
+      "normalized_label": "ἕψειν",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [],
+      "certainty": "certain",
+      "notes": [
+        "ἀρνητικῶς διατυποῦται· τὸ σκεύασμα οὐ βράζεται"
+      ],
+      "host_locator": {
+        "book": "7",
+        "chapter": "20",
+        "section": "31",
+        "citation": {
+          "start": "2.388.21",
+          "end": "2.389.2"
+        }
+      }
+    },
+    {
+      "process_id": "paul-7-20-31:process:emballein-2",
+      "process_urn": "urn:aos:recipe-process:paul-7-20-31:process:emballein-2",
+      "source_span": "ἐμβληθέντα",
+      "surface_form": "ἐμβληθέντα",
+      "normalized_label": "ἐμβάλλειν",
+      "target_type": "ingredient",
+      "target_ids": [
+        "paul-7-20-31:ingredient:smyrna-2",
+        "paul-7-20-31:ingredient:kassia-3",
+        "paul-7-20-31:ingredient:syrigx-4",
+        "paul-7-20-31:ingredient:kinamomon-6"
+      ],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "manner",
+          "source_span": "ξηρὰ",
+          "normalized_value": "ξηρά",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "7",
+        "chapter": "20",
+        "section": "31",
+        "citation": {
+          "start": "2.388.21",
+          "end": "2.389.2"
+        }
+      }
+    },
+    {
+      "process_id": "paul-7-20-31:process:kinein-3",
+      "process_urn": "urn:aos:recipe-process:paul-7-20-31:process:kinein-3",
+      "source_span": "κινεῖται",
+      "surface_form": "κινεῖται",
+      "normalized_label": "κινεῖν",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "duration",
+          "source_span": "ἐπὶ ἡμέρας ξ",
+          "normalized_value": "60 ἡμέραι",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "7",
+        "chapter": "20",
+        "section": "31",
+        "citation": {
+          "start": "2.388.21",
+          "end": "2.389.2"
+        }
+      }
+    },
+    {
+      "process_id": "paul-7-20-31:process:tekein-4",
+      "process_urn": "urn:aos:recipe-process:paul-7-20-31:process:tekein-4",
+      "source_span": "τακεῖσα",
+      "surface_form": "τακεῖσα",
+      "normalized_label": "τήκειν",
+      "target_type": "ingredient",
+      "target_ids": [
+        "paul-7-20-31:ingredient:terebinthine-5"
+      ],
+      "quantities": [],
+      "qualifiers": [],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "7",
+        "chapter": "20",
+        "section": "31",
+        "citation": {
+          "start": "2.388.21",
+          "end": "2.389.2"
+        }
+      }
+    },
+    {
+      "process_id": "paul-7-20-31:process:emballein-5",
+      "process_urn": "urn:aos:recipe-process:paul-7-20-31:process:emballein-5",
+      "source_span": "ἐμβάλλεται",
+      "surface_form": "ἐμβάλλεται",
+      "normalized_label": "ἐμβάλλειν",
+      "target_type": "ingredient",
+      "target_ids": [
+        "paul-7-20-31:ingredient:terebinthine-5"
+      ],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "location",
+          "source_span": "εἰς μέρος τοῦ ἐλαίου",
+          "normalized_value": "εἰς μέρος τοῦ ἐλαίου",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "7",
+        "chapter": "20",
+        "section": "31",
+        "citation": {
+          "start": "2.388.21",
+          "end": "2.389.2"
+        }
+      }
+    },
+    {
+      "process_id": "paul-7-20-31:process:kinein-6",
+      "process_urn": "urn:aos:recipe-process:paul-7-20-31:process:kinein-6",
+      "source_span": "κινεῖται",
+      "surface_form": "κινεῖται",
+      "normalized_label": "κινεῖν",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "manner",
+          "source_span": "πάλιν",
+          "normalized_value": "πάλιν",
+          "certainty": "certain",
+          "notes": []
+        },
+        {
+          "qualifier_type": "duration",
+          "source_span": "ἑτέρας ἡμέρας ζ",
+          "normalized_value": "7 ἡμέραι",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "7",
+        "chapter": "20",
+        "section": "31",
+        "citation": {
+          "start": "2.388.21",
+          "end": "2.389.2"
+        }
+      }
+    },
+    {
+      "process_id": "paul-7-20-31:process:apotithesthai-7",
+      "process_urn": "urn:aos:recipe-process:paul-7-20-31:process:apotithesthai-7",
+      "source_span": "ἀποτίθεται",
+      "surface_form": "ἀποτίθεται",
+      "normalized_label": "ἀποτίθεσθαι",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "manner",
+          "source_span": "οὕτως",
+          "normalized_value": "οὕτως",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "7",
+        "chapter": "20",
+        "section": "31",
+        "citation": {
+          "start": "2.388.21",
+          "end": "2.389.2"
+        }
+      }
+    }
+  ],
+  "materials": [],
+  "people": [],
+  "places": [
+    {
+      "place_id": "paul-7-20-31:place:aigyptos-1",
+      "place_urn": "urn:aos:recipe-place:paul-7-20-31:place:aigyptos-1",
+      "source_span": "Αἰγύπτῳ",
+      "surface_form": "Αἰγύπτῳ",
+      "normalized_label": "Αἴγυπτος",
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "7",
+        "chapter": "20",
+        "section": "31",
+        "citation": {
+          "start": "2.388.21",
+          "end": "2.389.2"
+        }
+      }
+    }
+  ],
+  "uses": [],
+  "preparation_names": [],
+  "other_preparations_mentioned": [],
+  "works_mentioned": [],
+  "entities": [
+    {
+      "entity_urn": "urn:aos:recipe-preparation:paul-7-20-31:preparation:mendesion",
+      "entity_type": "label",
+      "surface_form": "Μενδήσιον",
+      "normalized_label": "Μενδήσιον"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:paul-7-20-31:ingredient:elaion-balaninon-1",
+      "entity_type": "ingredient",
+      "surface_form": "ἐλαίου βαλανίνου",
+      "normalized_label": "ἔλαιον βαλάνινον"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:paul-7-20-31:ingredient:smyrna-2",
+      "entity_type": "ingredient",
+      "surface_form": "σμύρνης",
+      "normalized_label": "σμύρνα"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:paul-7-20-31:ingredient:kassia-3",
+      "entity_type": "ingredient",
+      "surface_form": "καςσίας",
+      "normalized_label": "κασσία"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:paul-7-20-31:ingredient:syrigx-4",
+      "entity_type": "ingredient",
+      "surface_form": "σύριγγος",
+      "normalized_label": "σύριγξ"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:paul-7-20-31:ingredient:terebinthine-5",
+      "entity_type": "ingredient",
+      "surface_form": "τερεβινθίνης",
+      "normalized_label": "τερεβινθίνη"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:paul-7-20-31:ingredient:kinamomon-6",
+      "entity_type": "ingredient",
+      "surface_form": "κιναμώμου",
+      "normalized_label": "κινάμωμον"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:paul-7-20-31:process:epsein-1",
+      "entity_type": "process",
+      "surface_form": "οὐχ ἕψεται",
+      "normalized_label": "ἕψειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:paul-7-20-31:process:emballein-2",
+      "entity_type": "process",
+      "surface_form": "ἐμβληθέντα",
+      "normalized_label": "ἐμβάλλειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:paul-7-20-31:process:kinein-3",
+      "entity_type": "process",
+      "surface_form": "κινεῖται",
+      "normalized_label": "κινεῖν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:paul-7-20-31:process:tekein-4",
+      "entity_type": "process",
+      "surface_form": "τακεῖσα",
+      "normalized_label": "τήκειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:paul-7-20-31:process:emballein-5",
+      "entity_type": "process",
+      "surface_form": "ἐμβάλλεται",
+      "normalized_label": "ἐμβάλλειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:paul-7-20-31:process:kinein-6",
+      "entity_type": "process",
+      "surface_form": "κινεῖται",
+      "normalized_label": "κινεῖν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:paul-7-20-31:process:apotithesthai-7",
+      "entity_type": "process",
+      "surface_form": "ἀποτίθεται",
+      "normalized_label": "ἀποτίθεσθαι"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-place:paul-7-20-31:place:aigyptos-1",
+      "entity_type": "place",
+      "surface_form": "Αἰγύπτῳ",
+      "normalized_label": "Αἴγυπτος"
+    }
+  ]
+}

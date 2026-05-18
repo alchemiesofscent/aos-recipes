@@ -1,0 +1,693 @@
+{
+  "dataset_key": "aetius_book1_oils",
+  "source_json": "experiments/aetius-book1-ch99-136-oils/data/aetius_book1_ch99_136_oils.json",
+  "host_raw_file": "tei/raw/tlg0718001.xml",
+  "work_slug": "aetius.b1.oils",
+  "recipe_id": "aetius-1-115",
+  "recipe_urn": "urn:aos:recipe:aetius-1-115",
+  "record_urn": "urn:aos:recipe-record:aetius-1-115",
+  "author": "Aëtius of Amida",
+  "work": "Libri medicinales",
+  "book": "1",
+  "chapter": "115",
+  "section": "115",
+  "chapter_name": "Ἀνήθινον γίνεται ἐκ τῆς κόμης τοῦ ἀνήθου χλωρᾶς",
+  "lemma": "Ἀνήθινον γίνεται ἐκ τῆς κόμης τοῦ ἀνήθου χλωρᾶς",
+  "text": "Ἀνήθινον γίνεται ἐκ τῆς κόμης τοῦ ἀνήθου χλωρᾶς ἔτι οὔσης, πρὶν ἢ τὸ σπερμάτιον στερεὸν γένηται καὶ δριμύ, ἀσύμφορον γὰρ γίνεται εἰς τὴν χρῆσιν διὰ τὴν ἀποβολὴν τοῦ ἄνθους. ἀποτέμνοντα δὲ μόνους τοὺς καλαθίσκους τῶν βλαστῶν καὶ στήσαντα 𐆄 α, ἐμβάλλειν χρὴ τῷ ἰταλικῷ ξέστῃ τοῦ γλυκέος ἐλαίου, περισφίγγειν δὲ ἀκριβῶς τὸ στόμα τοῦ σκεύους καὶ ἡλιοῦν ἡμέρας μ. θερμότερον δέ ἐστι τοῦτο τοῦ χαμαιμηλίνου· προσαγέσθω τοίνυν τοῖς κεκοπωμένοις ἐν χειμῶνι μαλάσσει γὰρ καὶ ὑγραίνει. χρηστέον δὲ κἀπὶ τῶν ἀπὸ φλέγματος πυρεσσόντων βληχρῶς, καὶ ὅλως τοῖς ὑπὸ ψυχρῶν αἰτιῶν κάμνουσιν ἁρμόδιον καὶ μάλιστα τένοντας ἢ μύας.",
+  "original_text": "Ἀνήθινον γίνεται ἐκ τῆς κόμης τοῦ ἀνήθου χλωρᾶς ἔτι οὔσης, πρὶν ἢ τὸ σπερμάτιον στερεὸν γένηται καὶ δριμύ, ἀσύμφορον γὰρ γίνεται εἰς τὴν χρῆσιν διὰ τὴν ἀποβολὴν τοῦ ἄνθους. ἀποτέμνοντα δὲ μόνους τοὺς καλαθίσκους τῶν βλαστῶν καὶ στήσαντα 𐆄 α, ἐμβάλλειν χρὴ τῷ ἰταλικῷ ξέστῃ τοῦ γλυκέος ἐλαίου, περισφίγγειν δὲ ἀκριβῶς τὸ στόμα τοῦ σκεύους καὶ ἡλιοῦν ἡμέρας μ. θερμότερον δέ ἐστι τοῦτο τοῦ χαμαιμηλίνου· προσαγέσθω τοίνυν τοῖς κεκοπωμένοις ἐν χειμῶνι μαλάσσει γὰρ καὶ ὑγραίνει. χρηστέον δὲ κἀπὶ τῶν ἀπὸ φλέγματος πυρεσσόντων βληχρῶς, καὶ ὅλως τοῖς ὑπὸ ψυχρῶν αἰτιῶν κάμνουσιν ἁρμόδιον καὶ μάλιστα τένοντας ἢ μύας.",
+  "text_source": "olivieri",
+  "emendations": [],
+  "emendation_count": 0,
+  "source_kind": null,
+  "entry_kind": "recipe",
+  "citation": {
+    "pages": [
+      "59"
+    ],
+    "start": {
+      "page": "59",
+      "line": "21",
+      "xml_id": "oliv-59-21"
+    },
+    "end": {
+      "page": "59",
+      "line": "30",
+      "xml_id": "oliv-59-30"
+    },
+    "citation": {
+      "start": "59.21",
+      "end": "59.30"
+    },
+    "page_spans": [
+      {
+        "page": "59",
+        "start_line": "21",
+        "end_line": "30"
+      }
+    ],
+    "lines": [
+      {
+        "page": "59",
+        "line": "21",
+        "xml_id": "oliv-59-21",
+        "break_no": false,
+        "text": "Ἀνήθινον γίνεται ἐκ τῆς κόμης τοῦ ἀνήθου χλωρᾶς ἔτι οὔσης,",
+        "citation": "59.21"
+      },
+      {
+        "page": "59",
+        "line": "22",
+        "xml_id": "oliv-59-22",
+        "break_no": false,
+        "text": "πρὶν ἢ τὸ σπερμάτιον στερεὸν γένηται καὶ δριμύ, ἀσύμφορον γὰρ",
+        "citation": "59.22"
+      },
+      {
+        "page": "59",
+        "line": "23",
+        "xml_id": "oliv-59-23",
+        "break_no": false,
+        "text": "γίνεται εἰς τὴν χρῆσιν διὰ τὴν ἀποβολὴν τοῦ ἄνθους. ἀποτέμνοντα",
+        "citation": "59.23"
+      },
+      {
+        "page": "59",
+        "line": "24",
+        "xml_id": "oliv-59-24",
+        "break_no": false,
+        "text": "δὲ μόνους τοὺς καλαθίσκους τῶν βλαστῶν καὶ στήσαντα 𐆄 α, ἐμβάλλειν",
+        "citation": "59.24"
+      },
+      {
+        "page": "59",
+        "line": "25",
+        "xml_id": "oliv-59-25",
+        "break_no": false,
+        "text": "χρὴ τῷ ἰταλικῷ ξέστῃ τοῦ γλυκέος ἐλαίου, περισφίγγειν δὲ ἀκριβῶς",
+        "citation": "59.25"
+      },
+      {
+        "page": "59",
+        "line": "26",
+        "xml_id": "oliv-59-26",
+        "break_no": false,
+        "text": "τὸ στόμα τοῦ σκεύους καὶ ἡλιοῦν ἡμέρας μ. θερμότερον δέ ἐστι τοῦτο",
+        "citation": "59.26"
+      },
+      {
+        "page": "59",
+        "line": "27",
+        "xml_id": "oliv-59-27",
+        "break_no": false,
+        "text": "τοῦ χαμαιμηλίνου· προσαγέσθω τοίνυν τοῖς κεκοπωμένοις ἐν χειμῶνι",
+        "citation": "59.27"
+      },
+      {
+        "page": "59",
+        "line": "28",
+        "xml_id": "oliv-59-28",
+        "break_no": false,
+        "text": "μαλάσσει γὰρ καὶ ὑγραίνει. χρηστέον δὲ κἀπὶ τῶν ἀπὸ φλέγματος",
+        "citation": "59.28"
+      },
+      {
+        "page": "59",
+        "line": "29",
+        "xml_id": "oliv-59-29",
+        "break_no": false,
+        "text": "πυρεσσόντων βληχρῶς, καὶ ὅλως τοῖς ὑπὸ ψυχρῶν αἰτιῶν κάμνουσιν",
+        "citation": "59.29"
+      },
+      {
+        "page": "59",
+        "line": "30",
+        "xml_id": "oliv-59-30",
+        "break_no": false,
+        "text": "ἁρμόδιον καὶ μάλιστα τένοντας ἢ μύας.",
+        "citation": "59.30"
+      }
+    ],
+    "edition_key": "olivieri"
+  },
+  "notes": [],
+  "alignment_status": "pending",
+  "alignment_confidence": "pending",
+  "alignment_evidence": null,
+  "review_status": "reviewed_structured_authority",
+  "review_provenance": {
+    "authority_source": "reports/entity_review/structured/aetius_book1.json",
+    "authority_recipe_id": "aetius-1-115",
+    "authority_lemma": "ἀνήθινον",
+    "model": "gpt-5.4",
+    "reasoning_effort": "high",
+    "dataset_key": "aetius_book1_oils",
+    "entity_model_version": "1.2",
+    "authority_version": "2026-04-13-qty-alt-v1",
+    "prompt_version": "qty-alt-pass-v1",
+    "build_version": "2026-05-18T15:51:35Z"
+  },
+  "schema_version": "1.2",
+  "build_metadata": {
+    "builder": "scripts/recipes/build_recipe_entities.py",
+    "built_at": "2026-05-18T15:51:35Z",
+    "source_structured_authority": "reports/entity_review/structured/aetius_book1.json",
+    "authority_model": "gpt-5.4",
+    "authority_reasoning_effort": "high",
+    "dataset_key": "aetius_book1_oils",
+    "entity_model_version": "1.2",
+    "authority_version": "2026-04-13-qty-alt-v1",
+    "prompt_version": "qty-alt-pass-v1",
+    "build_version": "2026-05-18T15:51:35Z"
+  },
+  "recipe_text_excerpt": "Ἀνήθινον γίνεται ἐκ τῆς κόμης τοῦ ἀνήθου χλωρᾶς ἔτι οὔσης, πρὶν ἢ τὸ σπερμάτιον στερεὸν γένηται καὶ δριμύ, ἀσύμφορον γὰρ",
+  "preparation": {
+    "preparation_id": "aetius-1-115:preparation:anethinon",
+    "preparation_urn": "urn:aos:recipe-preparation:aetius-1-115:preparation:anethinon",
+    "source_span": "Ἀνήθινον",
+    "surface_form": "Ἀνήθινον",
+    "normalized_label": "ἀνήθινον",
+    "qualifiers": [],
+    "regimen_notes": [],
+    "certainty": "certain",
+    "notes": [],
+    "host_locator": {
+      "book": "1",
+      "chapter": "115",
+      "section": "115",
+      "citation": {
+        "start": "59.21",
+        "end": "59.30"
+      }
+    }
+  },
+  "ingredients": [
+    {
+      "ingredient_id": "aetius-1-115:ingredient:kome-anethoy-chlora-1",
+      "ingredient_urn": "urn:aos:recipe-ingredient:aetius-1-115:ingredient:kome-anethoy-chlora-1",
+      "source_span": "τῆς κόμης τοῦ ἀνήθου χλωρᾶς ἔτι οὔσης",
+      "surface_form": "τῆς κόμης τοῦ ἀνήθου χλωρᾶς ἔτι οὔσης",
+      "base_label": "κόμη τοῦ ἀνήθου",
+      "normalized_label": "κόμη ἀνήθου χλωρά",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [
+        "aetius-1-115:process:einai-1"
+      ],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "color",
+          "source_span": "χλωρᾶς",
+          "normalized_value": "χλωρά",
+          "certainty": "certain",
+          "notes": []
+        },
+        {
+          "qualifier_type": "other",
+          "source_span": "ἔτι",
+          "normalized_value": "ἔτι",
+          "certainty": "certain",
+          "notes": []
+        },
+        {
+          "qualifier_type": "other",
+          "source_span": "πρὶν ἢ τὸ σπερμάτιον στερεὸν γένηται καὶ δριμύ",
+          "normalized_value": null,
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "115",
+        "section": "115",
+        "citation": {
+          "start": "59.21",
+          "end": "59.30"
+        }
+      }
+    },
+    {
+      "ingredient_id": "aetius-1-115:ingredient:kalathiskoi-blaston-2",
+      "ingredient_urn": "urn:aos:recipe-ingredient:aetius-1-115:ingredient:kalathiskoi-blaston-2",
+      "source_span": "μόνους τοὺς καλαθίσκους τῶν βλαστῶν",
+      "surface_form": "μόνους τοὺς καλαθίσκους τῶν βλαστῶν",
+      "base_label": "καλαθίσκοι τῶν βλαστῶν",
+      "normalized_label": "καλαθίσκοι βλαστῶν",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [
+        "aetius-1-115:process:apotemnein-2",
+        "aetius-1-115:process:stesai-3"
+      ],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "other",
+          "source_span": "μόνους",
+          "normalized_value": "μόνον",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "115",
+        "section": "115",
+        "citation": {
+          "start": "59.21",
+          "end": "59.30"
+        }
+      }
+    },
+    {
+      "ingredient_id": "aetius-1-115:ingredient:glyky-elaion-3",
+      "ingredient_urn": "urn:aos:recipe-ingredient:aetius-1-115:ingredient:glyky-elaion-3",
+      "source_span": "τοῦ γλυκέος ἐλαίου",
+      "surface_form": "τοῦ γλυκέος ἐλαίου",
+      "base_label": "ἔλαιον",
+      "normalized_label": "γλυκὺ ἔλαιον",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [
+        "aetius-1-115:process:emballein-4"
+      ],
+      "quantities": [
+        {
+          "source_span": "τῷ ἰταλικῷ ξέστῃ",
+          "raw_number": null,
+          "normalized_number": 1,
+          "raw_unit": "ἰταλικῷ ξέστῃ",
+          "normalized_unit": "xestes",
+          "certainty": "uncertain",
+          "notes": [
+            "Singular measure implies one xestes, but no numeral is written."
+          ]
+        }
+      ],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "115",
+        "section": "115",
+        "citation": {
+          "start": "59.21",
+          "end": "59.30"
+        }
+      }
+    }
+  ],
+  "processes": [
+    {
+      "process_id": "aetius-1-115:process:einai-1",
+      "process_urn": "urn:aos:recipe-process:aetius-1-115:process:einai-1",
+      "source_span": "οὔσης",
+      "surface_form": "οὔσης",
+      "normalized_label": "εἶναι",
+      "target_type": "ingredient",
+      "target_ids": [
+        "aetius-1-115:ingredient:kome-anethoy-chlora-1"
+      ],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "color",
+          "source_span": "χλωρᾶς",
+          "normalized_value": "χλωρά",
+          "certainty": "certain",
+          "notes": []
+        },
+        {
+          "qualifier_type": "other",
+          "source_span": "ἔτι",
+          "normalized_value": "ἔτι",
+          "certainty": "certain",
+          "notes": []
+        },
+        {
+          "qualifier_type": "other",
+          "source_span": "πρὶν ἢ τὸ σπερμάτιον στερεὸν γένηται καὶ δριμύ",
+          "normalized_value": null,
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "certainty": "certain",
+      "notes": [
+        "Participial state linked to the dill tops as harvested material."
+      ],
+      "host_locator": {
+        "book": "1",
+        "chapter": "115",
+        "section": "115",
+        "citation": {
+          "start": "59.21",
+          "end": "59.30"
+        }
+      }
+    },
+    {
+      "process_id": "aetius-1-115:process:apotemnein-2",
+      "process_urn": "urn:aos:recipe-process:aetius-1-115:process:apotemnein-2",
+      "source_span": "ἀποτέμνοντα",
+      "surface_form": "ἀποτέμνοντα",
+      "normalized_label": "ἀποτέμνειν",
+      "target_type": "ingredient",
+      "target_ids": [
+        "aetius-1-115:ingredient:kalathiskoi-blaston-2"
+      ],
+      "quantities": [],
+      "qualifiers": [],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "115",
+        "section": "115",
+        "citation": {
+          "start": "59.21",
+          "end": "59.30"
+        }
+      }
+    },
+    {
+      "process_id": "aetius-1-115:process:stesai-3",
+      "process_urn": "urn:aos:recipe-process:aetius-1-115:process:stesai-3",
+      "source_span": "στήσαντα",
+      "surface_form": "στήσαντα",
+      "normalized_label": "στῆσαι",
+      "target_type": "ingredient",
+      "target_ids": [
+        "aetius-1-115:ingredient:kalathiskoi-blaston-2"
+      ],
+      "quantities": [
+        {
+          "source_span": "𐆄 α",
+          "raw_number": "α",
+          "normalized_number": 1,
+          "raw_unit": "𐆄",
+          "normalized_unit": "uncia",
+          "certainty": "uncertain",
+          "notes": [
+            "The symbol 𐆄 is interpreted as an ounce sign."
+          ]
+        }
+      ],
+      "qualifiers": [],
+      "certainty": "uncertain",
+      "notes": [
+        "The verb likely indicates setting or weighing the cut material."
+      ],
+      "host_locator": {
+        "book": "1",
+        "chapter": "115",
+        "section": "115",
+        "citation": {
+          "start": "59.21",
+          "end": "59.30"
+        }
+      }
+    },
+    {
+      "process_id": "aetius-1-115:process:emballein-4",
+      "process_urn": "urn:aos:recipe-process:aetius-1-115:process:emballein-4",
+      "source_span": "ἐμβάλλειν",
+      "surface_form": "ἐμβάλλειν",
+      "normalized_label": "ἐμβάλλειν",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "115",
+        "section": "115",
+        "citation": {
+          "start": "59.21",
+          "end": "59.30"
+        }
+      }
+    },
+    {
+      "process_id": "aetius-1-115:process:perisphiggein-5",
+      "process_urn": "urn:aos:recipe-process:aetius-1-115:process:perisphiggein-5",
+      "source_span": "περισφίγγειν",
+      "surface_form": "περισφίγγειν",
+      "normalized_label": "περισφίγγειν",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "manner",
+          "source_span": "ἀκριβῶς",
+          "normalized_value": "ἀκριβῶς",
+          "certainty": "certain",
+          "notes": []
+        },
+        {
+          "qualifier_type": "location",
+          "source_span": "τὸ στόμα τοῦ σκεύους",
+          "normalized_value": null,
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "115",
+        "section": "115",
+        "citation": {
+          "start": "59.21",
+          "end": "59.30"
+        }
+      }
+    },
+    {
+      "process_id": "aetius-1-115:process:elioyn-6",
+      "process_urn": "urn:aos:recipe-process:aetius-1-115:process:elioyn-6",
+      "source_span": "ἡλιοῦν",
+      "surface_form": "ἡλιοῦν",
+      "normalized_label": "ἡλιοῦν",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [
+        {
+          "source_span": "ἡμέρας μ.",
+          "raw_number": "μ.",
+          "normalized_number": 40,
+          "raw_unit": "ἡμέρας",
+          "normalized_unit": null,
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "qualifiers": [],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "115",
+        "section": "115",
+        "citation": {
+          "start": "59.21",
+          "end": "59.30"
+        }
+      }
+    }
+  ],
+  "materials": [
+    {
+      "material_id": "aetius-1-115:material:skeyos-1",
+      "material_urn": "urn:aos:recipe-material:aetius-1-115:material:skeyos-1",
+      "source_span": "τὸ στόμα τοῦ σκεύους",
+      "surface_form": "τὸ στόμα τοῦ σκεύους",
+      "normalized_label": "σκεῦος",
+      "role": "apparatus",
+      "certainty": "certain",
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "location",
+          "source_span": "τὸ στόμα",
+          "normalized_value": "στόμα",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "115",
+        "section": "115",
+        "citation": {
+          "start": "59.21",
+          "end": "59.30"
+        }
+      }
+    }
+  ],
+  "people": [],
+  "places": [],
+  "uses": [
+    {
+      "use_id": "aetius-1-115:use:tois-kekopomenois-en-cheimoni-malassei-gar-kai-ygrainei-1",
+      "use_urn": "urn:aos:recipe-use:aetius-1-115:use:tois-kekopomenois-en-cheimoni-malassei-gar-kai-ygrainei-1",
+      "category": "medical",
+      "source_span": "τοῖς κεκοπωμένοις ἐν χειμῶνι μαλάσσει γὰρ καὶ ὑγραίνει",
+      "snippet": "τοῖς κεκοπωμένοις ἐν χειμῶνι μαλάσσει γὰρ καὶ ὑγραίνει",
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "115",
+        "section": "115",
+        "citation": {
+          "start": "59.21",
+          "end": "59.30"
+        }
+      }
+    },
+    {
+      "use_id": "aetius-1-115:use:kapi-ton-apo-phlegmatos-pyressonton-blechros-2",
+      "use_urn": "urn:aos:recipe-use:aetius-1-115:use:kapi-ton-apo-phlegmatos-pyressonton-blechros-2",
+      "category": "medical",
+      "source_span": "κἀπὶ τῶν ἀπὸ φλέγματος πυρεσσόντων βληχρῶς",
+      "snippet": "κἀπὶ τῶν ἀπὸ φλέγματος πυρεσσόντων βληχρῶς",
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "115",
+        "section": "115",
+        "citation": {
+          "start": "59.21",
+          "end": "59.30"
+        }
+      }
+    },
+    {
+      "use_id": "aetius-1-115:use:tois-ypo-psychron-aition-kamnoysin-armodion-kai-malista-tenontas-e-myas-3",
+      "use_urn": "urn:aos:recipe-use:aetius-1-115:use:tois-ypo-psychron-aition-kamnoysin-armodion-kai-malista-tenontas-e-myas-3",
+      "category": "medical",
+      "source_span": "τοῖς ὑπὸ ψυχρῶν αἰτιῶν κάμνουσιν ἁρμόδιον καὶ μάλιστα τένοντας ἢ μύας",
+      "snippet": "τοῖς ὑπὸ ψυχρῶν αἰτιῶν κάμνουσιν ἁρμόδιον καὶ μάλιστα τένοντας ἢ μύας",
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "115",
+        "section": "115",
+        "citation": {
+          "start": "59.21",
+          "end": "59.30"
+        }
+      }
+    }
+  ],
+  "preparation_names": [],
+  "other_preparations_mentioned": [
+    {
+      "reference_id": "aetius-1-115:reference:chamaimelinon-1",
+      "reference_urn": "urn:aos:recipe-reference:aetius-1-115:reference:chamaimelinon-1",
+      "source_span": "χαμαιμηλίνου",
+      "surface_form": "χαμαιμηλίνου",
+      "normalized_label": "χαμαιμήλινον",
+      "certainty": "certain",
+      "notes": [
+        "Distinct preparation mentioned only for comparison; normalized from genitive form."
+      ],
+      "host_locator": {
+        "book": "1",
+        "chapter": "115",
+        "section": "115",
+        "citation": {
+          "start": "59.21",
+          "end": "59.30"
+        }
+      }
+    }
+  ],
+  "works_mentioned": [],
+  "entities": [
+    {
+      "entity_urn": "urn:aos:recipe-preparation:aetius-1-115:preparation:anethinon",
+      "entity_type": "label",
+      "surface_form": "Ἀνήθινον",
+      "normalized_label": "ἀνήθινον"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:aetius-1-115:ingredient:kome-anethoy-chlora-1",
+      "entity_type": "ingredient",
+      "surface_form": "τῆς κόμης τοῦ ἀνήθου χλωρᾶς ἔτι οὔσης",
+      "normalized_label": "κόμη ἀνήθου χλωρά"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:aetius-1-115:ingredient:kalathiskoi-blaston-2",
+      "entity_type": "ingredient",
+      "surface_form": "μόνους τοὺς καλαθίσκους τῶν βλαστῶν",
+      "normalized_label": "καλαθίσκοι βλαστῶν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:aetius-1-115:ingredient:glyky-elaion-3",
+      "entity_type": "ingredient",
+      "surface_form": "τοῦ γλυκέος ἐλαίου",
+      "normalized_label": "γλυκὺ ἔλαιον"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:aetius-1-115:process:einai-1",
+      "entity_type": "process",
+      "surface_form": "οὔσης",
+      "normalized_label": "εἶναι"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:aetius-1-115:process:apotemnein-2",
+      "entity_type": "process",
+      "surface_form": "ἀποτέμνοντα",
+      "normalized_label": "ἀποτέμνειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:aetius-1-115:process:stesai-3",
+      "entity_type": "process",
+      "surface_form": "στήσαντα",
+      "normalized_label": "στῆσαι"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:aetius-1-115:process:emballein-4",
+      "entity_type": "process",
+      "surface_form": "ἐμβάλλειν",
+      "normalized_label": "ἐμβάλλειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:aetius-1-115:process:perisphiggein-5",
+      "entity_type": "process",
+      "surface_form": "περισφίγγειν",
+      "normalized_label": "περισφίγγειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:aetius-1-115:process:elioyn-6",
+      "entity_type": "process",
+      "surface_form": "ἡλιοῦν",
+      "normalized_label": "ἡλιοῦν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-material:aetius-1-115:material:skeyos-1",
+      "entity_type": "material",
+      "surface_form": "τὸ στόμα τοῦ σκεύους",
+      "normalized_label": "σκεῦος"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-reference:aetius-1-115:reference:chamaimelinon-1",
+      "entity_type": "preparation_reference",
+      "surface_form": "χαμαιμηλίνου",
+      "normalized_label": "χαμαιμήλινον"
+    }
+  ]
+}

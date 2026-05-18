@@ -1,0 +1,969 @@
+{
+  "dataset_key": "dioscorides_book2_fats",
+  "source_json": "experiments/dioscorides-book2-fats/data/dioscorides_book2_fats.json",
+  "host_raw_file": "tei/raw/tlg0656.tlg001.1st1K-grc1.xml",
+  "work_slug": "diosc.b2.fats",
+  "recipe_id": "dioscorides-2-76-stear-properties-catalogue",
+  "recipe_urn": "urn:aos:recipe:dioscorides-2-76-stear-properties-catalogue",
+  "record_urn": "urn:aos:recipe-record:dioscorides-2-76-stear-properties-catalogue",
+  "author": "Dioscorides",
+  "work": "De materia medica",
+  "book": "2",
+  "chapter": "76",
+  "section": "17-19",
+  "chapter_name": "στέαρ",
+  "lemma": "δυνάμεις στεάτων",
+  "text": "δύναμιν δὲ ἔχει τὰ στέατα πάντα θερμαντικήν. τὸ μέντοι ταύρειον στύφει ποσῶς καὶ τὸ βόειον καὶ τὸ μόσχειον, καὶ τὸ λεόντειον δὲ ἀναλογεῖ τούτοις· φασὶ δὲ καὶ ἀντιφάρμακον αὐτὸ τοῖς ἐπιβουλεύουσιν εἶναι. τὸ δὲ ἐλεφάντειον καὶ ἐλάφειον ἑρπετὰ διώκει καταχριόμενον τὸ δὲ αἴγειον στυπτικώτερον, ὅθεν δυσεντερικοῖς δίδοται σύν ἀλφίτῳ καὶ τυρῷ, καὶ ἑψόμενον ἐγκλύζεται μετὰ πτισάνης χυλοῦ. εὐθετεῖ δὲ καὶ φθισικοῖς ἐν ῥοφήμασιν ὁ ἐξ αὐτῶν ζωμός, καὶ τοῖς κανθαρίδας πεπωκόσιν ὠφελίμως δίδοται. τὸ δὲ τράγειον, διαλυτικώτερον ὄν, βοηθεῖ ποδαγρικοῖς φυραθὲν σὺν αἰγὸς σπυράθοις καὶ κρόκῳ καὶ ἐπιτιθέμενον, καὶ τὸ προβάτειον δὲ ἀναλογεῖ τούτῳ. ὕειον δὲ τοῖς περὶ ὑστέραν καὶ ἕδραν καὶ πυρικαύτοις ἁρμόζει· τὸ δὲ ταριχηρὸν ὕειον ὡς ὅτι παλαιότατον θερμαίνει, μαλάσσει, οἴνῳ δὲ πλυθὲν ἁρμόζει πλευριτικοῖς, σὺν τέφρᾳ ἢ ἀσβέστῳ ἀναλημφθέν, καὶ πρὸς οἰδήματα καὶ φλεγμονάς. τὸ δὲ ὄνειόν φασιν οὐλάς ὁμόχρους ποιεῖν, χήνειον δᾶ καὶ ὀρνίθειον πρός τε τὰ γυναικεῖα καὶ ἐπιρρήξεις χειλῶν καὶ προσώπων ἐπιμέλειαν καὶ ὠταλγίας ἁρμόζει, τὸ δὲ ἄρκειον δοκεῖ τριχοφυὲς εἶναι ἀλωπεκιῶν καὶ χιμετλιῶσιν ἁρμόζει. τὸ δὲ τῆς ἀλώπεκος στέαρ ποιεῖ πρὸς ὠταλγίας, τὸ δὲ τῶν ποταμίων ἰχθύων ὀξυδερκὲς ἐγχριόμενον, ἀποτακὲν ἐν ἡλίῳ καὶ μέλιτι μιγέν, τὸ δὲ τῆς ἐχίδνης πρὸς ἀμβλυωπίας, ἔτι δὲ ὑποχύσεις ἐνεργεῖ. μιγὲν κεδρίᾳ καὶ μέλιτι Ἀττικῷ καὶ ἐλαίῳ παλαιῷ ἴσον, ἐκτιλθείσας δὲ τὰς ἐν μασχάλη τρίχας πρὸς ταῖς ῥίζαις καταρισθὲν καθʼ ἑαυτὸ πρόσφατον ἐξιτήλους ποιεῖ.",
+  "original_text": null,
+  "text_source": null,
+  "emendations": [],
+  "emendation_count": 0,
+  "source_kind": "main_text",
+  "entry_kind": "properties_catalogue",
+  "citation": {
+    "pages": [
+      "157",
+      "158"
+    ],
+    "start": {
+      "page": "157",
+      "line": "10"
+    },
+    "end": {
+      "page": "158",
+      "line": "10"
+    },
+    "citation": {
+      "start": "157.10",
+      "end": "158.10"
+    },
+    "page_spans": [
+      {
+        "page": "157",
+        "start_line": "10",
+        "end_line": "20"
+      },
+      {
+        "page": "158",
+        "start_line": "1",
+        "end_line": "10"
+      }
+    ],
+    "lines": [
+      {
+        "page": "157",
+        "line": "10",
+        "break_no": false,
+        "raw_text": "δύναμιν δὲ ἔχει τὰ στέατα πάντα θερμαντικήν. τὸ μέντοι 17 ταύρειον στύφει ποσῶς καὶ τὸ βόειον καὶ τὸ μόσχειον, καὶ τὸ λεόντειον δὲ ἀναλογεῖ τούτοις· φασὶ δὲ καὶ ἀντιφάρμακον αὐτὸ τοῖς ἐπιβουλεύουσιν εἶναι. τὸ δὲ ἐλεφάντειον καὶ ἐλάφειον",
+        "text": "δύναμιν δὲ ἔχει τὰ στέατα πάντα θερμαντικήν. τὸ μέντοι ταύρειον στύφει ποσῶς καὶ τὸ βόειον καὶ τὸ μόσχειον, καὶ τὸ λεόντειον δὲ ἀναλογεῖ τούτοις· φασὶ δὲ καὶ ἀντιφάρμακον αὐτὸ τοῖς ἐπιβουλεύουσιν εἶναι. τὸ δὲ ἐλεφάντειον καὶ ἐλάφειον",
+        "citation": "157.10"
+      },
+      {
+        "page": "157",
+        "line": "15",
+        "break_no": false,
+        "raw_text": "ἑρπετὰ διώκει καταχριόμενον τὸ δὲ αἴγειον στυπτικώτερον, ὅθεν δυσεντερικοῖς δίδοται σύν ἀλφίτῳ καὶ τυρῷ, καὶ ἑψόμενον ἐγκλύζεται μετὰ πτισάνης χυλοῦ. εὐθετεῖ δὲ καὶ φθισικοῖς ἐν ῥοφήμασιν ὁ ἐξ αὐτῶν ζωμός, καὶ τοῖς κανθαρίδας πεπωκόσιν ὠφελίμως δίδοται.",
+        "text": "ἑρπετὰ διώκει καταχριόμενον τὸ δὲ αἴγειον στυπτικώτερον, ὅθεν δυσεντερικοῖς δίδοται σύν ἀλφίτῳ καὶ τυρῷ, καὶ ἑψόμενον ἐγκλύζεται μετὰ πτισάνης χυλοῦ. εὐθετεῖ δὲ καὶ φθισικοῖς ἐν ῥοφήμασιν ὁ ἐξ αὐτῶν ζωμός, καὶ τοῖς κανθαρίδας πεπωκόσιν ὠφελίμως δίδοται.",
+        "citation": "157.15"
+      },
+      {
+        "page": "157",
+        "line": "15",
+        "break_no": false,
+        "raw_text": "τὸ δὲ τράγειον, διαλυτικώτερον ὄν, βοηθεῖ 18",
+        "text": "τὸ δὲ τράγειον, διαλυτικώτερον ὄν, βοηθεῖ",
+        "citation": "157.15"
+      },
+      {
+        "page": "157",
+        "line": "20",
+        "break_no": false,
+        "raw_text": "ποδαγρικοῖς φυραθὲν σὺν αἰγὸς σπυράθοις καὶ κρόκῳ καὶ ἐπιτιθέμενον, καὶ τὸ προβάτειον δὲ ἀναλογεῖ τούτῳ. ὕειον δὲ τοῖς περὶ ὑστέραν καὶ ἕδραν καὶ πυρικαύτοις ἁρμόζει· τὸ δὲ ταριχηρὸν ὕειον ὡς ὅτι παλαιότατον θερμαίνει,",
+        "text": "ποδαγρικοῖς φυραθὲν σὺν αἰγὸς σπυράθοις καὶ κρόκῳ καὶ ἐπιτιθέμενον, καὶ τὸ προβάτειον δὲ ἀναλογεῖ τούτῳ. ὕειον δὲ τοῖς περὶ ὑστέραν καὶ ἕδραν καὶ πυρικαύτοις ἁρμόζει· τὸ δὲ ταριχηρὸν ὕειον ὡς ὅτι παλαιότατον θερμαίνει,",
+        "citation": "157.20"
+      },
+      {
+        "page": "158",
+        "line": "1",
+        "break_no": false,
+        "raw_text": "μαλάσσει, οἴνῳ δὲ πλυθὲν ἁρμόζει πλευριτικοῖς, σὺν τέφρᾳ ἢ ἀσβέστῳ ἀναλημφθέν, καὶ πρὸς οἰδήματα καὶ φλεγμονάς. τὸ δὲ ὄνειόν φασιν οὐλάς ὁμόχρους ποιεῖν, χήνειον δᾶ καὶ ὀρνίθειον πρός τε τὰ γυναικεῖα καὶ ἐπιρρήξεις χειλῶν καὶ προσώπων ἐπιμέλειαν καὶ ὠταλγίας ἁρμόζει, τὸ δὲ ἄρκειον δοκεῖ τριχοφυὲς",
+        "text": "μαλάσσει, οἴνῳ δὲ πλυθὲν ἁρμόζει πλευριτικοῖς, σὺν τέφρᾳ ἢ ἀσβέστῳ ἀναλημφθέν, καὶ πρὸς οἰδήματα καὶ φλεγμονάς. τὸ δὲ ὄνειόν φασιν οὐλάς ὁμόχρους ποιεῖν, χήνειον δᾶ καὶ ὀρνίθειον πρός τε τὰ γυναικεῖα καὶ ἐπιρρήξεις χειλῶν καὶ προσώπων ἐπιμέλειαν καὶ ὠταλγίας ἁρμόζει, τὸ δὲ ἄρκειον δοκεῖ τριχοφυὲς",
+        "citation": "158.1"
+      },
+      {
+        "page": "158",
+        "line": "5",
+        "break_no": false,
+        "raw_text": "εἶναι ἀλωπεκιῶν καὶ χιμετλιῶσιν ἁρμόζει.",
+        "text": "εἶναι ἀλωπεκιῶν καὶ χιμετλιῶσιν ἁρμόζει.",
+        "citation": "158.5"
+      },
+      {
+        "page": "158",
+        "line": "5",
+        "break_no": false,
+        "raw_text": "19 τὸ δὲ τῆς ἀλώπεκος στέαρ ποιεῖ πρὸς ὠταλγίας, τὸ δὲ τῶν ποταμίων ἰχθύων ὀξυδερκὲς ἐγχριόμενον, ἀποτακὲν ἐν ἡλίῳ καὶ μέλιτι μιγέν, τὸ δὲ τῆς ἐχίδνης πρὸς ἀμβλυωπίας, ἔτι δὲ ὑποχύσεις ἐνεργεῖ. μιγὲν κεδρίᾳ καὶ μέλιτι Ἀττικῷ καὶ ἐλαίῳ παλαιῷ ἴσον,",
+        "text": "τὸ δὲ τῆς ἀλώπεκος στέαρ ποιεῖ πρὸς ὠταλγίας, τὸ δὲ τῶν ποταμίων ἰχθύων ὀξυδερκὲς ἐγχριόμενον, ἀποτακὲν ἐν ἡλίῳ καὶ μέλιτι μιγέν, τὸ δὲ τῆς ἐχίδνης πρὸς ἀμβλυωπίας, ἔτι δὲ ὑποχύσεις ἐνεργεῖ. μιγὲν κεδρίᾳ καὶ μέλιτι Ἀττικῷ καὶ ἐλαίῳ παλαιῷ ἴσον,",
+        "citation": "158.5"
+      },
+      {
+        "page": "158",
+        "line": "10",
+        "break_no": false,
+        "raw_text": "ἐκτιλθείσας δὲ τὰς ἐν μασχάλη τρίχας πρὸς ταῖς ῥίζαις καταρισθὲν καθʼ ἑαυτὸ πρόσφατον ἐξιτήλους ποιεῖ.",
+        "text": "ἐκτιλθείσας δὲ τὰς ἐν μασχάλη τρίχας πρὸς ταῖς ῥίζαις καταρισθὲν καθʼ ἑαυτὸ πρόσφατον ἐξιτήλους ποιεῖ.",
+        "citation": "158.10"
+      }
+    ],
+    "edition_key": "wellmann"
+  },
+  "notes": [
+    "Book 2 fats slice split into logical preparation and technique units from chapters 72, 74, and 76.",
+    "Bare Arabic numerals in the raw witness are treated as structural or note noise and removed from display text, except parenthetical cross-references such as (I 68).",
+    "Section markers are stored separately and displayed near sentence boundaries as heuristic navigation aids.",
+    "Conservative split record generated locally because Codex structured-authority generation was rate-limited."
+  ],
+  "alignment_status": "pending",
+  "alignment_confidence": "pending",
+  "alignment_evidence": null,
+  "review_status": "reviewed_structured_authority",
+  "review_provenance": {
+    "authority_source": "reports/entity_review/structured/dioscorides.json",
+    "authority_recipe_id": "dioscorides-2-76-stear-properties-catalogue",
+    "authority_lemma": "δυνάμεις στεάτων",
+    "model": "gpt-5.4",
+    "reasoning_effort": "high",
+    "dataset_key": "dioscorides_book2_fats",
+    "entity_model_version": "1.2",
+    "authority_version": "2026-04-13-qty-alt-v1",
+    "prompt_version": "qty-alt-pass-v1",
+    "build_version": "2026-05-18T15:51:35Z"
+  },
+  "schema_version": "1.2",
+  "build_metadata": {
+    "builder": "scripts/recipes/build_recipe_entities.py",
+    "built_at": "2026-05-18T15:51:35Z",
+    "source_structured_authority": "reports/entity_review/structured/dioscorides.json",
+    "authority_model": "gpt-5.4",
+    "authority_reasoning_effort": "high",
+    "dataset_key": "dioscorides_book2_fats",
+    "entity_model_version": "1.2",
+    "authority_version": "2026-04-13-qty-alt-v1",
+    "prompt_version": "qty-alt-pass-v1",
+    "build_version": "2026-05-18T15:51:35Z"
+  },
+  "recipe_text_excerpt": "δύναμιν δὲ ἔχει τὰ στέατα πάντα θερμαντικήν. τὸ μέντοι ταύρειον στύφει ποσῶς καὶ τὸ βόειον καὶ τὸ μόσχειον, καὶ τὸ",
+  "preparation": {
+    "preparation_id": "dioscorides-2-76-stear-properties-catalogue:preparation:dynameis-steaton",
+    "preparation_urn": "urn:aos:recipe-preparation:dioscorides-2-76-stear-properties-catalogue:preparation:dynameis-steaton",
+    "source_span": "δυνάμεις στεάτων",
+    "surface_form": "δυνάμεις στεάτων",
+    "normalized_label": "δυνάμεις στεάτων",
+    "qualifiers": [],
+    "regimen_notes": [],
+    "certainty": "certain",
+    "notes": [
+      "Conservative split authority generated from exact spans in the previous broad Book 2 fat authority."
+    ],
+    "host_locator": {
+      "book": "2",
+      "chapter": "76",
+      "section": "17-19",
+      "citation": {
+        "start": "157.10",
+        "end": "158.10"
+      }
+    }
+  },
+  "ingredients": [
+    {
+      "ingredient_id": "dioscorides-2-76-stear-properties-catalogue:ingredient:stear-ornitheion-1",
+      "ingredient_urn": "urn:aos:recipe-ingredient:dioscorides-2-76-stear-properties-catalogue:ingredient:stear-ornitheion-1",
+      "source_span": "ὀρνίθειον",
+      "surface_form": "ὀρνίθειον",
+      "base_label": "ὀρνίθειον",
+      "normalized_label": "στέαρ ὀρνίθειον",
+      "alternative_set_id": "alt-1",
+      "certainty": "uncertain",
+      "linked_process_ids": [],
+      "quantities": [],
+      "qualifiers": [],
+      "notes": [
+        "Head noun στέαρ restored from lemma."
+      ],
+      "host_locator": {
+        "book": "2",
+        "chapter": "76",
+        "section": "17-19",
+        "citation": {
+          "start": "157.10",
+          "end": "158.10"
+        }
+      }
+    },
+    {
+      "ingredient_id": "dioscorides-2-76-stear-properties-catalogue:ingredient:stear-arkeion-2",
+      "ingredient_urn": "urn:aos:recipe-ingredient:dioscorides-2-76-stear-properties-catalogue:ingredient:stear-arkeion-2",
+      "source_span": "ἄρκειον",
+      "surface_form": "ἄρκειον",
+      "base_label": "ἄρκειον",
+      "normalized_label": "στέαρ ἄρκειον",
+      "alternative_set_id": null,
+      "certainty": "uncertain",
+      "linked_process_ids": [],
+      "quantities": [],
+      "qualifiers": [],
+      "notes": [
+        "Head noun στέαρ restored from lemma."
+      ],
+      "host_locator": {
+        "book": "2",
+        "chapter": "76",
+        "section": "17-19",
+        "citation": {
+          "start": "157.10",
+          "end": "158.10"
+        }
+      }
+    },
+    {
+      "ingredient_id": "dioscorides-2-76-stear-properties-catalogue:ingredient:stear-trageion-3",
+      "ingredient_urn": "urn:aos:recipe-ingredient:dioscorides-2-76-stear-properties-catalogue:ingredient:stear-trageion-3",
+      "source_span": "τράγειον",
+      "surface_form": "τράγειον",
+      "base_label": "τράγειον",
+      "normalized_label": "στέαρ τράγειον",
+      "alternative_set_id": null,
+      "certainty": "uncertain",
+      "linked_process_ids": [],
+      "quantities": [],
+      "qualifiers": [],
+      "notes": [
+        "Head noun στέαρ restored from lemma."
+      ],
+      "host_locator": {
+        "book": "2",
+        "chapter": "76",
+        "section": "17-19",
+        "citation": {
+          "start": "157.10",
+          "end": "158.10"
+        }
+      }
+    },
+    {
+      "ingredient_id": "dioscorides-2-76-stear-properties-catalogue:ingredient:stear-probateion-4",
+      "ingredient_urn": "urn:aos:recipe-ingredient:dioscorides-2-76-stear-properties-catalogue:ingredient:stear-probateion-4",
+      "source_span": "προβάτειον",
+      "surface_form": "προβάτειον",
+      "base_label": "προβάτειον",
+      "normalized_label": "στέαρ προβάτειον",
+      "alternative_set_id": null,
+      "certainty": "uncertain",
+      "linked_process_ids": [],
+      "quantities": [],
+      "qualifiers": [],
+      "notes": [
+        "Head noun στέαρ restored from lemma."
+      ],
+      "host_locator": {
+        "book": "2",
+        "chapter": "76",
+        "section": "17-19",
+        "citation": {
+          "start": "157.10",
+          "end": "158.10"
+        }
+      }
+    },
+    {
+      "ingredient_id": "dioscorides-2-76-stear-properties-catalogue:ingredient:stear-elapheion-5",
+      "ingredient_urn": "urn:aos:recipe-ingredient:dioscorides-2-76-stear-properties-catalogue:ingredient:stear-elapheion-5",
+      "source_span": "ἐλάφειον",
+      "surface_form": "ἐλάφειον",
+      "base_label": "ἐλάφειον",
+      "normalized_label": "στέαρ ἐλάφειον",
+      "alternative_set_id": null,
+      "certainty": "uncertain",
+      "linked_process_ids": [],
+      "quantities": [],
+      "qualifiers": [],
+      "notes": [
+        "Head noun στέαρ restored from lemma."
+      ],
+      "host_locator": {
+        "book": "2",
+        "chapter": "76",
+        "section": "17-19",
+        "citation": {
+          "start": "157.10",
+          "end": "158.10"
+        }
+      }
+    },
+    {
+      "ingredient_id": "dioscorides-2-76-stear-properties-catalogue:ingredient:stear-moscheion-6",
+      "ingredient_urn": "urn:aos:recipe-ingredient:dioscorides-2-76-stear-properties-catalogue:ingredient:stear-moscheion-6",
+      "source_span": "μόσχειον",
+      "surface_form": "μόσχειον",
+      "base_label": "μόσχειον",
+      "normalized_label": "στέαρ μόσχειον",
+      "alternative_set_id": null,
+      "certainty": "uncertain",
+      "linked_process_ids": [],
+      "quantities": [],
+      "qualifiers": [],
+      "notes": [
+        "Head noun στέαρ restored from lemma."
+      ],
+      "host_locator": {
+        "book": "2",
+        "chapter": "76",
+        "section": "17-19",
+        "citation": {
+          "start": "157.10",
+          "end": "158.10"
+        }
+      }
+    },
+    {
+      "ingredient_id": "dioscorides-2-76-stear-properties-catalogue:ingredient:stear-tayreion-7",
+      "ingredient_urn": "urn:aos:recipe-ingredient:dioscorides-2-76-stear-properties-catalogue:ingredient:stear-tayreion-7",
+      "source_span": "ταύρειον",
+      "surface_form": "ταύρειον",
+      "base_label": "ταύρειον",
+      "normalized_label": "στέαρ ταύρειον",
+      "alternative_set_id": null,
+      "certainty": "uncertain",
+      "linked_process_ids": [],
+      "quantities": [],
+      "qualifiers": [],
+      "notes": [
+        "Head noun στέαρ restored from lemma."
+      ],
+      "host_locator": {
+        "book": "2",
+        "chapter": "76",
+        "section": "17-19",
+        "citation": {
+          "start": "157.10",
+          "end": "158.10"
+        }
+      }
+    },
+    {
+      "ingredient_id": "dioscorides-2-76-stear-properties-catalogue:ingredient:meli-8",
+      "ingredient_urn": "urn:aos:recipe-ingredient:dioscorides-2-76-stear-properties-catalogue:ingredient:meli-8",
+      "source_span": "μέλιτι",
+      "surface_form": "μέλιτι",
+      "base_label": "μέλι",
+      "normalized_label": "μέλι",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [],
+      "quantities": [],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "2",
+        "chapter": "76",
+        "section": "17-19",
+        "citation": {
+          "start": "157.10",
+          "end": "158.10"
+        }
+      }
+    },
+    {
+      "ingredient_id": "dioscorides-2-76-stear-properties-catalogue:ingredient:kedria-9",
+      "ingredient_urn": "urn:aos:recipe-ingredient:dioscorides-2-76-stear-properties-catalogue:ingredient:kedria-9",
+      "source_span": "κεδρίᾳ",
+      "surface_form": "κεδρίᾳ",
+      "base_label": "κεδρία",
+      "normalized_label": "κεδρία",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [],
+      "quantities": [],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "2",
+        "chapter": "76",
+        "section": "17-19",
+        "citation": {
+          "start": "157.10",
+          "end": "158.10"
+        }
+      }
+    },
+    {
+      "ingredient_id": "dioscorides-2-76-stear-properties-catalogue:ingredient:meli-attikon-10",
+      "ingredient_urn": "urn:aos:recipe-ingredient:dioscorides-2-76-stear-properties-catalogue:ingredient:meli-attikon-10",
+      "source_span": "μέλιτι Ἀττικῷ",
+      "surface_form": "μέλιτι Ἀττικῷ",
+      "base_label": "μέλι",
+      "normalized_label": "μέλι Ἀττικόν",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [],
+      "quantities": [],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "2",
+        "chapter": "76",
+        "section": "17-19",
+        "citation": {
+          "start": "157.10",
+          "end": "158.10"
+        }
+      }
+    },
+    {
+      "ingredient_id": "dioscorides-2-76-stear-properties-catalogue:ingredient:elaion-palaion-11",
+      "ingredient_urn": "urn:aos:recipe-ingredient:dioscorides-2-76-stear-properties-catalogue:ingredient:elaion-palaion-11",
+      "source_span": "ἐλαίῳ παλαιῷ",
+      "surface_form": "ἐλαίῳ παλαιῷ",
+      "base_label": "ἔλαιον",
+      "normalized_label": "ἔλαιον παλαιόν",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [],
+      "quantities": [],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "2",
+        "chapter": "76",
+        "section": "17-19",
+        "citation": {
+          "start": "157.10",
+          "end": "158.10"
+        }
+      }
+    },
+    {
+      "ingredient_id": "dioscorides-2-76-stear-properties-catalogue:ingredient:alphiton-12",
+      "ingredient_urn": "urn:aos:recipe-ingredient:dioscorides-2-76-stear-properties-catalogue:ingredient:alphiton-12",
+      "source_span": "ἀλφίτῳ",
+      "surface_form": "ἀλφίτῳ",
+      "base_label": "ἄλφιτον",
+      "normalized_label": "ἄλφιτον",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [],
+      "quantities": [],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "2",
+        "chapter": "76",
+        "section": "17-19",
+        "citation": {
+          "start": "157.10",
+          "end": "158.10"
+        }
+      }
+    },
+    {
+      "ingredient_id": "dioscorides-2-76-stear-properties-catalogue:ingredient:tyros-13",
+      "ingredient_urn": "urn:aos:recipe-ingredient:dioscorides-2-76-stear-properties-catalogue:ingredient:tyros-13",
+      "source_span": "τυρῷ",
+      "surface_form": "τυρῷ",
+      "base_label": "τυρός",
+      "normalized_label": "τυρός",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [],
+      "quantities": [],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "2",
+        "chapter": "76",
+        "section": "17-19",
+        "citation": {
+          "start": "157.10",
+          "end": "158.10"
+        }
+      }
+    },
+    {
+      "ingredient_id": "dioscorides-2-76-stear-properties-catalogue:ingredient:chylos-ptisanes-14",
+      "ingredient_urn": "urn:aos:recipe-ingredient:dioscorides-2-76-stear-properties-catalogue:ingredient:chylos-ptisanes-14",
+      "source_span": "πτισάνης χυλοῦ",
+      "surface_form": "πτισάνης χυλοῦ",
+      "base_label": "χυλός",
+      "normalized_label": "χυλὸς πτισάνης",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [],
+      "quantities": [],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "2",
+        "chapter": "76",
+        "section": "17-19",
+        "citation": {
+          "start": "157.10",
+          "end": "158.10"
+        }
+      }
+    },
+    {
+      "ingredient_id": "dioscorides-2-76-stear-properties-catalogue:ingredient:spyrathoi-aigos-15",
+      "ingredient_urn": "urn:aos:recipe-ingredient:dioscorides-2-76-stear-properties-catalogue:ingredient:spyrathoi-aigos-15",
+      "source_span": "αἰγὸς σπυράθοις",
+      "surface_form": "αἰγὸς σπυράθοις",
+      "base_label": "σπυράθοι",
+      "normalized_label": "σπυράθοι αἰγός",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [],
+      "quantities": [],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "2",
+        "chapter": "76",
+        "section": "17-19",
+        "citation": {
+          "start": "157.10",
+          "end": "158.10"
+        }
+      }
+    },
+    {
+      "ingredient_id": "dioscorides-2-76-stear-properties-catalogue:ingredient:krokos-16",
+      "ingredient_urn": "urn:aos:recipe-ingredient:dioscorides-2-76-stear-properties-catalogue:ingredient:krokos-16",
+      "source_span": "κρόκῳ",
+      "surface_form": "κρόκῳ",
+      "base_label": "κρόκος",
+      "normalized_label": "κρόκος",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [],
+      "quantities": [],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "2",
+        "chapter": "76",
+        "section": "17-19",
+        "citation": {
+          "start": "157.10",
+          "end": "158.10"
+        }
+      }
+    },
+    {
+      "ingredient_id": "dioscorides-2-76-stear-properties-catalogue:ingredient:tephra-17",
+      "ingredient_urn": "urn:aos:recipe-ingredient:dioscorides-2-76-stear-properties-catalogue:ingredient:tephra-17",
+      "source_span": "τέφρᾳ",
+      "surface_form": "τέφρᾳ",
+      "base_label": "τέφρα",
+      "normalized_label": "τέφρα",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [],
+      "quantities": [],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "2",
+        "chapter": "76",
+        "section": "17-19",
+        "citation": {
+          "start": "157.10",
+          "end": "158.10"
+        }
+      }
+    },
+    {
+      "ingredient_id": "dioscorides-2-76-stear-properties-catalogue:ingredient:asbestos-18",
+      "ingredient_urn": "urn:aos:recipe-ingredient:dioscorides-2-76-stear-properties-catalogue:ingredient:asbestos-18",
+      "source_span": "ἀσβέστῳ",
+      "surface_form": "ἀσβέστῳ",
+      "base_label": "ἄσβεστος",
+      "normalized_label": "ἄσβεστος",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [],
+      "quantities": [],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "2",
+        "chapter": "76",
+        "section": "17-19",
+        "citation": {
+          "start": "157.10",
+          "end": "158.10"
+        }
+      }
+    }
+  ],
+  "processes": [],
+  "materials": [],
+  "people": [],
+  "places": [],
+  "uses": [
+    {
+      "use_id": "dioscorides-2-76-stear-properties-catalogue:use:dynamin-de-echei-ta-steata-panta-thermantiken-1",
+      "use_urn": "urn:aos:recipe-use:dioscorides-2-76-stear-properties-catalogue:use:dynamin-de-echei-ta-steata-panta-thermantiken-1",
+      "category": "medical",
+      "source_span": "δύναμιν δὲ ἔχει τὰ στέατα πάντα θερμαντικήν",
+      "snippet": "δύναμιν δὲ ἔχει τὰ στέατα πάντα θερμαντικήν",
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "2",
+        "chapter": "76",
+        "section": "17-19",
+        "citation": {
+          "start": "157.10",
+          "end": "158.10"
+        }
+      }
+    },
+    {
+      "use_id": "dioscorides-2-76-stear-properties-catalogue:use:to-de-aigeion-styptikoteron-othen-dysenterikois-didotai-syn-alphito-kai-tyro-kai-epsomenon-egklyzetai-meta-ptisanes-chyloy-2",
+      "use_urn": "urn:aos:recipe-use:dioscorides-2-76-stear-properties-catalogue:use:to-de-aigeion-styptikoteron-othen-dysenterikois-didotai-syn-alphito-kai-tyro-kai-epsomenon-egklyzetai-meta-ptisanes-chyloy-2",
+      "category": "medical",
+      "source_span": "τὸ δὲ αἴγειον στυπτικώτερον, ὅθεν δυσεντερικοῖς δίδοται σύν ἀλφίτῳ καὶ τυρῷ, καὶ ἑψόμενον ἐγκλύζεται μετὰ πτισάνης χυλοῦ",
+      "snippet": "τὸ δὲ αἴγειον στυπτικώτερον, ὅθεν δυσεντερικοῖς δίδοται σύν ἀλφίτῳ καὶ τυρῷ, καὶ ἑψόμενον ἐγκλύζεται μετὰ πτισάνης χυλοῦ",
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "2",
+        "chapter": "76",
+        "section": "17-19",
+        "citation": {
+          "start": "157.10",
+          "end": "158.10"
+        }
+      }
+    },
+    {
+      "use_id": "dioscorides-2-76-stear-properties-catalogue:use:eythetei-de-kai-phthisikois-en-rophemasin-o-ex-ayton-zomos-kai-tois-kantharidas-pepokosin-ophelimos-didotai-3",
+      "use_urn": "urn:aos:recipe-use:dioscorides-2-76-stear-properties-catalogue:use:eythetei-de-kai-phthisikois-en-rophemasin-o-ex-ayton-zomos-kai-tois-kantharidas-pepokosin-ophelimos-didotai-3",
+      "category": "medical",
+      "source_span": "εὐθετεῖ δὲ καὶ φθισικοῖς ἐν ῥοφήμασιν ὁ ἐξ αὐτῶν ζωμός, καὶ τοῖς κανθαρίδας πεπωκόσιν ὠφελίμως δίδοται",
+      "snippet": "εὐθετεῖ δὲ καὶ φθισικοῖς ἐν ῥοφήμασιν ὁ ἐξ αὐτῶν ζωμός, καὶ τοῖς κανθαρίδας πεπωκόσιν ὠφελίμως δίδοται",
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "2",
+        "chapter": "76",
+        "section": "17-19",
+        "citation": {
+          "start": "157.10",
+          "end": "158.10"
+        }
+      }
+    },
+    {
+      "use_id": "dioscorides-2-76-stear-properties-catalogue:use:yeion-de-tois-peri-ysteran-kai-edran-kai-pyrikaytois-armozei-4",
+      "use_urn": "urn:aos:recipe-use:dioscorides-2-76-stear-properties-catalogue:use:yeion-de-tois-peri-ysteran-kai-edran-kai-pyrikaytois-armozei-4",
+      "category": "medical",
+      "source_span": "ὕειον δὲ τοῖς περὶ ὑστέραν καὶ ἕδραν καὶ πυρικαύτοις ἁρμόζει",
+      "snippet": "ὕειον δὲ τοῖς περὶ ὑστέραν καὶ ἕδραν καὶ πυρικαύτοις ἁρμόζει",
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "2",
+        "chapter": "76",
+        "section": "17-19",
+        "citation": {
+          "start": "157.10",
+          "end": "158.10"
+        }
+      }
+    },
+    {
+      "use_id": "dioscorides-2-76-stear-properties-catalogue:use:to-de-taricheron-yeion-os-oti-palaiotaton-thermainei-malassei-oino-de-plythen-armozei-pleyritikois-syn-tephra-e-asbesto-analemphthen-kai-pros-oidemata-kai-phlegmonas-5",
+      "use_urn": "urn:aos:recipe-use:dioscorides-2-76-stear-properties-catalogue:use:to-de-taricheron-yeion-os-oti-palaiotaton-thermainei-malassei-oino-de-plythen-armozei-pleyritikois-syn-tephra-e-asbesto-analemphthen-kai-pros-oidemata-kai-phlegmonas-5",
+      "category": "medical",
+      "source_span": "τὸ δὲ ταριχηρὸν ὕειον ὡς ὅτι παλαιότατον θερμαίνει, μαλάσσει, οἴνῳ δὲ πλυθὲν ἁρμόζει πλευριτικοῖς, σὺν τέφρᾳ ἢ ἀσβέστῳ ἀναλημφθέν, καὶ πρὸς οἰδήματα καὶ φλεγμονάς",
+      "snippet": "τὸ δὲ ταριχηρὸν ὕειον ὡς ὅτι παλαιότατον θερμαίνει, μαλάσσει, οἴνῳ δὲ πλυθὲν ἁρμόζει πλευριτικοῖς, σὺν τέφρᾳ ἢ ἀσβέστῳ ἀναλημφθέν, καὶ πρὸς οἰδήματα καὶ φλεγμονάς",
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "2",
+        "chapter": "76",
+        "section": "17-19",
+        "citation": {
+          "start": "157.10",
+          "end": "158.10"
+        }
+      }
+    },
+    {
+      "use_id": "dioscorides-2-76-stear-properties-catalogue:use:to-de-oneion-phasin-oylas-omochroys-poiein-6",
+      "use_urn": "urn:aos:recipe-use:dioscorides-2-76-stear-properties-catalogue:use:to-de-oneion-phasin-oylas-omochroys-poiein-6",
+      "category": "cosmetic",
+      "source_span": "τὸ δὲ ὄνειόν φασιν οὐλάς ὁμόχρους ποιεῖν",
+      "snippet": "τὸ δὲ ὄνειόν φασιν οὐλάς ὁμόχρους ποιεῖν",
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "2",
+        "chapter": "76",
+        "section": "17-19",
+        "citation": {
+          "start": "157.10",
+          "end": "158.10"
+        }
+      }
+    },
+    {
+      "use_id": "dioscorides-2-76-stear-properties-catalogue:use:cheneion-da-kai-ornitheion-pros-te-ta-gynaikeia-kai-epirrexeis-cheilon-kai-prosopon-epimeleian-7",
+      "use_urn": "urn:aos:recipe-use:dioscorides-2-76-stear-properties-catalogue:use:cheneion-da-kai-ornitheion-pros-te-ta-gynaikeia-kai-epirrexeis-cheilon-kai-prosopon-epimeleian-7",
+      "category": "cosmetic",
+      "source_span": "χήνειον δᾶ καὶ ὀρνίθειον πρός τε τὰ γυναικεῖα καὶ ἐπιρρήξεις χειλῶν καὶ προσώπων ἐπιμέλειαν",
+      "snippet": "χήνειον δᾶ καὶ ὀρνίθειον πρός τε τὰ γυναικεῖα καὶ ἐπιρρήξεις χειλῶν καὶ προσώπων ἐπιμέλειαν",
+      "certainty": "certain",
+      "notes": [
+        "The snippet combines gynecological and cosmetic application contexts."
+      ],
+      "host_locator": {
+        "book": "2",
+        "chapter": "76",
+        "section": "17-19",
+        "citation": {
+          "start": "157.10",
+          "end": "158.10"
+        }
+      }
+    },
+    {
+      "use_id": "dioscorides-2-76-stear-properties-catalogue:use:kai-otalgias-armozei-8",
+      "use_urn": "urn:aos:recipe-use:dioscorides-2-76-stear-properties-catalogue:use:kai-otalgias-armozei-8",
+      "category": "medical",
+      "source_span": "καὶ ὠταλγίας ἁρμόζει",
+      "snippet": "καὶ ὠταλγίας ἁρμόζει",
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "2",
+        "chapter": "76",
+        "section": "17-19",
+        "citation": {
+          "start": "157.10",
+          "end": "158.10"
+        }
+      }
+    },
+    {
+      "use_id": "dioscorides-2-76-stear-properties-catalogue:use:to-de-arkeion-dokei-trichophyes-einai-alopekion-9",
+      "use_urn": "urn:aos:recipe-use:dioscorides-2-76-stear-properties-catalogue:use:to-de-arkeion-dokei-trichophyes-einai-alopekion-9",
+      "category": "cosmetic",
+      "source_span": "τὸ δὲ ἄρκειον δοκεῖ τριχοφυὲς εἶναι ἀλωπεκιῶν",
+      "snippet": "τὸ δὲ ἄρκειον δοκεῖ τριχοφυὲς εἶναι ἀλωπεκιῶν",
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "2",
+        "chapter": "76",
+        "section": "17-19",
+        "citation": {
+          "start": "157.10",
+          "end": "158.10"
+        }
+      }
+    },
+    {
+      "use_id": "dioscorides-2-76-stear-properties-catalogue:use:to-de-tes-alopekos-stear-poiei-pros-otalgias-10",
+      "use_urn": "urn:aos:recipe-use:dioscorides-2-76-stear-properties-catalogue:use:to-de-tes-alopekos-stear-poiei-pros-otalgias-10",
+      "category": "medical",
+      "source_span": "τὸ δὲ τῆς ἀλώπεκος στέαρ ποιεῖ πρὸς ὠταλγίας",
+      "snippet": "τὸ δὲ τῆς ἀλώπεκος στέαρ ποιεῖ πρὸς ὠταλγίας",
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "2",
+        "chapter": "76",
+        "section": "17-19",
+        "citation": {
+          "start": "157.10",
+          "end": "158.10"
+        }
+      }
+    },
+    {
+      "use_id": "dioscorides-2-76-stear-properties-catalogue:use:to-de-ton-potamion-ichthyon-oxyderkes-egchriomenon-11",
+      "use_urn": "urn:aos:recipe-use:dioscorides-2-76-stear-properties-catalogue:use:to-de-ton-potamion-ichthyon-oxyderkes-egchriomenon-11",
+      "category": "medical",
+      "source_span": "τὸ δὲ τῶν ποταμίων ἰχθύων ὀξυδερκὲς ἐγχριόμενον",
+      "snippet": "τὸ δὲ τῶν ποταμίων ἰχθύων ὀξυδερκὲς ἐγχριόμενον",
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "2",
+        "chapter": "76",
+        "section": "17-19",
+        "citation": {
+          "start": "157.10",
+          "end": "158.10"
+        }
+      }
+    },
+    {
+      "use_id": "dioscorides-2-76-stear-properties-catalogue:use:to-de-tes-echidnes-pros-amblyopias-eti-de-ypochyseis-energei-12",
+      "use_urn": "urn:aos:recipe-use:dioscorides-2-76-stear-properties-catalogue:use:to-de-tes-echidnes-pros-amblyopias-eti-de-ypochyseis-energei-12",
+      "category": "medical",
+      "source_span": "τὸ δὲ τῆς ἐχίδνης πρὸς ἀμβλυωπίας, ἔτι δὲ ὑποχύσεις ἐνεργεῖ",
+      "snippet": "τὸ δὲ τῆς ἐχίδνης πρὸς ἀμβλυωπίας, ἔτι δὲ ὑποχύσεις ἐνεργεῖ",
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "2",
+        "chapter": "76",
+        "section": "17-19",
+        "citation": {
+          "start": "157.10",
+          "end": "158.10"
+        }
+      }
+    },
+    {
+      "use_id": "dioscorides-2-76-stear-properties-catalogue:use:ektiltheisas-de-tas-en-maschale-trichas-pros-tais-rizais-kataristhen-kath-eayto-prosphaton-exiteloys-poiei-13",
+      "use_urn": "urn:aos:recipe-use:dioscorides-2-76-stear-properties-catalogue:use:ektiltheisas-de-tas-en-maschale-trichas-pros-tais-rizais-kataristhen-kath-eayto-prosphaton-exiteloys-poiei-13",
+      "category": "cosmetic",
+      "source_span": "ἐκτιλθείσας δὲ τὰς ἐν μασχάλη τρίχας πρὸς ταῖς ῥίζαις καταρισθὲν καθʼ ἑαυτὸ πρόσφατον ἐξιτήλους ποιεῖ",
+      "snippet": "ἐκτιλθείσας δὲ τὰς ἐν μασχάλη τρίχας πρὸς ταῖς ῥίζαις καταρισθὲν καθʼ ἑαυτὸ πρόσφατον ἐξιτήλους ποιεῖ",
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "2",
+        "chapter": "76",
+        "section": "17-19",
+        "citation": {
+          "start": "157.10",
+          "end": "158.10"
+        }
+      }
+    }
+  ],
+  "preparation_names": [],
+  "other_preparations_mentioned": [],
+  "works_mentioned": [],
+  "entities": [
+    {
+      "entity_urn": "urn:aos:recipe-preparation:dioscorides-2-76-stear-properties-catalogue:preparation:dynameis-steaton",
+      "entity_type": "label",
+      "surface_form": "δυνάμεις στεάτων",
+      "normalized_label": "δυνάμεις στεάτων"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:dioscorides-2-76-stear-properties-catalogue:ingredient:stear-ornitheion-1",
+      "entity_type": "ingredient",
+      "surface_form": "ὀρνίθειον",
+      "normalized_label": "στέαρ ὀρνίθειον"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:dioscorides-2-76-stear-properties-catalogue:ingredient:stear-arkeion-2",
+      "entity_type": "ingredient",
+      "surface_form": "ἄρκειον",
+      "normalized_label": "στέαρ ἄρκειον"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:dioscorides-2-76-stear-properties-catalogue:ingredient:stear-trageion-3",
+      "entity_type": "ingredient",
+      "surface_form": "τράγειον",
+      "normalized_label": "στέαρ τράγειον"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:dioscorides-2-76-stear-properties-catalogue:ingredient:stear-probateion-4",
+      "entity_type": "ingredient",
+      "surface_form": "προβάτειον",
+      "normalized_label": "στέαρ προβάτειον"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:dioscorides-2-76-stear-properties-catalogue:ingredient:stear-elapheion-5",
+      "entity_type": "ingredient",
+      "surface_form": "ἐλάφειον",
+      "normalized_label": "στέαρ ἐλάφειον"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:dioscorides-2-76-stear-properties-catalogue:ingredient:stear-moscheion-6",
+      "entity_type": "ingredient",
+      "surface_form": "μόσχειον",
+      "normalized_label": "στέαρ μόσχειον"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:dioscorides-2-76-stear-properties-catalogue:ingredient:stear-tayreion-7",
+      "entity_type": "ingredient",
+      "surface_form": "ταύρειον",
+      "normalized_label": "στέαρ ταύρειον"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:dioscorides-2-76-stear-properties-catalogue:ingredient:meli-8",
+      "entity_type": "ingredient",
+      "surface_form": "μέλιτι",
+      "normalized_label": "μέλι"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:dioscorides-2-76-stear-properties-catalogue:ingredient:kedria-9",
+      "entity_type": "ingredient",
+      "surface_form": "κεδρίᾳ",
+      "normalized_label": "κεδρία"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:dioscorides-2-76-stear-properties-catalogue:ingredient:meli-attikon-10",
+      "entity_type": "ingredient",
+      "surface_form": "μέλιτι Ἀττικῷ",
+      "normalized_label": "μέλι Ἀττικόν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:dioscorides-2-76-stear-properties-catalogue:ingredient:elaion-palaion-11",
+      "entity_type": "ingredient",
+      "surface_form": "ἐλαίῳ παλαιῷ",
+      "normalized_label": "ἔλαιον παλαιόν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:dioscorides-2-76-stear-properties-catalogue:ingredient:alphiton-12",
+      "entity_type": "ingredient",
+      "surface_form": "ἀλφίτῳ",
+      "normalized_label": "ἄλφιτον"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:dioscorides-2-76-stear-properties-catalogue:ingredient:tyros-13",
+      "entity_type": "ingredient",
+      "surface_form": "τυρῷ",
+      "normalized_label": "τυρός"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:dioscorides-2-76-stear-properties-catalogue:ingredient:chylos-ptisanes-14",
+      "entity_type": "ingredient",
+      "surface_form": "πτισάνης χυλοῦ",
+      "normalized_label": "χυλὸς πτισάνης"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:dioscorides-2-76-stear-properties-catalogue:ingredient:spyrathoi-aigos-15",
+      "entity_type": "ingredient",
+      "surface_form": "αἰγὸς σπυράθοις",
+      "normalized_label": "σπυράθοι αἰγός"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:dioscorides-2-76-stear-properties-catalogue:ingredient:krokos-16",
+      "entity_type": "ingredient",
+      "surface_form": "κρόκῳ",
+      "normalized_label": "κρόκος"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:dioscorides-2-76-stear-properties-catalogue:ingredient:tephra-17",
+      "entity_type": "ingredient",
+      "surface_form": "τέφρᾳ",
+      "normalized_label": "τέφρα"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:dioscorides-2-76-stear-properties-catalogue:ingredient:asbestos-18",
+      "entity_type": "ingredient",
+      "surface_form": "ἀσβέστῳ",
+      "normalized_label": "ἄσβεστος"
+    }
+  ]
+}

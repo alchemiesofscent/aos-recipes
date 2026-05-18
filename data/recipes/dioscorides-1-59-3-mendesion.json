@@ -1,0 +1,492 @@
+{
+  "dataset_key": "dioscorides_book1_perfumes_resins",
+  "source_json": "experiments/dioscorides-book1-perfumes-resins/data/dioscorides_book1_perfumes_resins.json",
+  "host_raw_file": "tei/raw/tlg0656.tlg001.1st1K-grc1.xml",
+  "work_slug": "diosc.b1.recipes",
+  "recipe_id": "dioscorides-1-59-3-mendesion",
+  "recipe_urn": "urn:aos:recipe:dioscorides-1-59-3-mendesion",
+  "record_urn": "urn:aos:recipe-record:dioscorides-1-59-3-mendesion",
+  "author": "Dioscorides",
+  "work": "De materia medica",
+  "book": "1",
+  "chapter": "59",
+  "section": "3",
+  "chapter_name": "μετώπιον",
+  "lemma": "μενδήσιον",
+  "text": "καὶ τὸ Μενδήσιον δὲ λεγόμενον ἔκ τε βαλανίνου ἐλαίου 3 καὶ σμύρνης καὶ κασσίας καὶ ῥητίνης σκευάζεται. ἔνιοι δὲ μετὰ τὸν κατασταθμισμὸν κινάμωμον μικρὸν προσεμβάλλουσιν ἀνωφελῶς· οὐκ ἐκδίδωσι γὰρ τὰ μὴ συνεψηγμένα τὴν δύναμιν. ἐμφερῆ δὲ ἔχει τὴν ἐνέργειαν τῷ μετωπίῳ, ἥττονα μέντοι καὶ οὐχ οὕτως ἐπιτεταμένην.",
+  "original_text": null,
+  "text_source": null,
+  "emendations": [],
+  "emendation_count": 0,
+  "source_kind": "main_text",
+  "entry_kind": "recipe",
+  "citation": {
+    "pages": [
+      "55"
+    ],
+    "start": {
+      "page": "55",
+      "line": "5"
+    },
+    "end": {
+      "page": "55",
+      "line": "10"
+    },
+    "citation": {
+      "start": "55.5",
+      "end": "55.10"
+    },
+    "page_spans": [
+      {
+        "page": "55",
+        "start_line": "5",
+        "end_line": "10"
+      }
+    ],
+    "lines": [
+      {
+        "page": "55",
+        "line": "5",
+        "break_no": false,
+        "text": "καὶ τὸ Μενδήσιον δὲ λεγόμενον ἔκ τε βαλανίνου ἐλαίου 3 καὶ σμύρνης καὶ κασσίας καὶ ῥητίνης σκευάζεται. ἔνιοι δὲ μετὰ τὸν κατασταθμισμὸν κινάμωμον μικρὸν προσεμβάλλουσιν ἀνωφελῶς· οὐκ ἐκδίδωσι γὰρ τὰ μὴ συνεψηγμένα τὴν δύναμιν.",
+        "citation": "55.5"
+      },
+      {
+        "page": "55",
+        "line": "10",
+        "break_no": false,
+        "text": "ἐμφερῆ δὲ ἔχει τὴν ἐνέργειαν τῷ μετωπίῳ, ἥττονα μέντοι καὶ οὐχ οὕτως ἐπιτεταμένην.",
+        "citation": "55.10"
+      }
+    ],
+    "edition_key": "wellmann"
+  },
+  "notes": [
+    "Raw lines 1590-1633 are book 1 chapter 25 in this witness, although the prompt referred to chapter 35.",
+    "The perfume proemium is taken from the later transition at chapter 42 section 2 (raw lines 2306-2342), not from the chapter 25 κῦφι entry.",
+    "The ἰασμέλαιον entry is preserved only in the apparatus as an addition from another recension."
+  ],
+  "alignment_status": "pending",
+  "alignment_confidence": "pending",
+  "alignment_evidence": null,
+  "review_status": "reviewed_structured_authority",
+  "review_provenance": {
+    "authority_source": "reports/entity_review/structured/dioscorides.json",
+    "authority_recipe_id": "dioscorides-1-59-3-mendesion",
+    "authority_lemma": "μενδήσιον",
+    "model": "gpt-5.4",
+    "reasoning_effort": "high",
+    "dataset_key": "dioscorides_book1_perfumes_resins",
+    "entity_model_version": "1.2",
+    "authority_version": "2026-04-13-qty-alt-v1",
+    "prompt_version": "qty-alt-pass-v1",
+    "build_version": "2026-05-18T15:51:35Z"
+  },
+  "schema_version": "1.2",
+  "build_metadata": {
+    "builder": "scripts/recipes/build_recipe_entities.py",
+    "built_at": "2026-05-18T15:51:35Z",
+    "source_structured_authority": "reports/entity_review/structured/dioscorides.json",
+    "authority_model": "gpt-5.4",
+    "authority_reasoning_effort": "high",
+    "dataset_key": "dioscorides_book1_perfumes_resins",
+    "entity_model_version": "1.2",
+    "authority_version": "2026-04-13-qty-alt-v1",
+    "prompt_version": "qty-alt-pass-v1",
+    "build_version": "2026-05-18T15:51:35Z"
+  },
+  "recipe_text_excerpt": "καὶ τὸ Μενδήσιον δὲ λεγόμενον ἔκ τε βαλανίνου ἐλαίου 3 καὶ σμύρνης καὶ κασσίας καὶ ῥητίνης σκευάζεται. ἔνιοι δὲ μετὰ",
+  "preparation": {
+    "preparation_id": "dioscorides-1-59-3-mendesion:preparation:mendesion",
+    "preparation_urn": "urn:aos:recipe-preparation:dioscorides-1-59-3-mendesion:preparation:mendesion",
+    "source_span": "Μενδήσιον",
+    "surface_form": "Μενδήσιον",
+    "normalized_label": "μενδήσιον",
+    "qualifiers": [],
+    "regimen_notes": [],
+    "certainty": "certain",
+    "notes": [],
+    "host_locator": {
+      "book": "1",
+      "chapter": "59",
+      "section": "3",
+      "citation": {
+        "start": "55.5",
+        "end": "55.10"
+      }
+    }
+  },
+  "ingredients": [
+    {
+      "ingredient_id": "dioscorides-1-59-3-mendesion:ingredient:elaion-balaninon-1",
+      "ingredient_urn": "urn:aos:recipe-ingredient:dioscorides-1-59-3-mendesion:ingredient:elaion-balaninon-1",
+      "source_span": "βαλανίνου ἐλαίου 3",
+      "surface_form": "βαλανίνου ἐλαίου 3",
+      "base_label": "ἔλαιον",
+      "normalized_label": "ἔλαιον βαλάνινον",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [
+        "dioscorides-1-59-3-mendesion:process:skeyazein-1"
+      ],
+      "quantities": [
+        {
+          "source_span": "3",
+          "raw_number": "3",
+          "normalized_number": 3,
+          "raw_unit": null,
+          "normalized_unit": "count",
+          "certainty": "uncertain",
+          "notes": [
+            "μονὰς οὐ δηλοῦται"
+          ]
+        }
+      ],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "59",
+        "section": "3",
+        "citation": {
+          "start": "55.5",
+          "end": "55.10"
+        }
+      }
+    },
+    {
+      "ingredient_id": "dioscorides-1-59-3-mendesion:ingredient:smyrna-2",
+      "ingredient_urn": "urn:aos:recipe-ingredient:dioscorides-1-59-3-mendesion:ingredient:smyrna-2",
+      "source_span": "σμύρνης",
+      "surface_form": "σμύρνης",
+      "base_label": "σμύρνα",
+      "normalized_label": "σμύρνα",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [
+        "dioscorides-1-59-3-mendesion:process:skeyazein-1"
+      ],
+      "quantities": [],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "59",
+        "section": "3",
+        "citation": {
+          "start": "55.5",
+          "end": "55.10"
+        }
+      }
+    },
+    {
+      "ingredient_id": "dioscorides-1-59-3-mendesion:ingredient:kassia-3",
+      "ingredient_urn": "urn:aos:recipe-ingredient:dioscorides-1-59-3-mendesion:ingredient:kassia-3",
+      "source_span": "κασσίας",
+      "surface_form": "κασσίας",
+      "base_label": "κασσία",
+      "normalized_label": "κασσία",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [
+        "dioscorides-1-59-3-mendesion:process:skeyazein-1"
+      ],
+      "quantities": [],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "59",
+        "section": "3",
+        "citation": {
+          "start": "55.5",
+          "end": "55.10"
+        }
+      }
+    },
+    {
+      "ingredient_id": "dioscorides-1-59-3-mendesion:ingredient:retine-4",
+      "ingredient_urn": "urn:aos:recipe-ingredient:dioscorides-1-59-3-mendesion:ingredient:retine-4",
+      "source_span": "ῥητίνης",
+      "surface_form": "ῥητίνης",
+      "base_label": "ῥητίνη",
+      "normalized_label": "ῥητίνη",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [
+        "dioscorides-1-59-3-mendesion:process:skeyazein-1"
+      ],
+      "quantities": [],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "59",
+        "section": "3",
+        "citation": {
+          "start": "55.5",
+          "end": "55.10"
+        }
+      }
+    },
+    {
+      "ingredient_id": "dioscorides-1-59-3-mendesion:ingredient:kinamomon-5",
+      "ingredient_urn": "urn:aos:recipe-ingredient:dioscorides-1-59-3-mendesion:ingredient:kinamomon-5",
+      "source_span": "κινάμωμον μικρὸν",
+      "surface_form": "κινάμωμον μικρὸν",
+      "base_label": "κινάμωμον",
+      "normalized_label": "κινάμωμον",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [
+        "dioscorides-1-59-3-mendesion:process:prosemballein-2"
+      ],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "other",
+          "source_span": "μικρὸν",
+          "normalized_value": "μικρόν",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "notes": [
+        "προαιρετικὸν παρ’ ἐνίοις"
+      ],
+      "host_locator": {
+        "book": "1",
+        "chapter": "59",
+        "section": "3",
+        "citation": {
+          "start": "55.5",
+          "end": "55.10"
+        }
+      }
+    }
+  ],
+  "processes": [
+    {
+      "process_id": "dioscorides-1-59-3-mendesion:process:skeyazein-1",
+      "process_urn": "urn:aos:recipe-process:dioscorides-1-59-3-mendesion:process:skeyazein-1",
+      "source_span": "σκευάζεται",
+      "surface_form": "σκευάζεται",
+      "normalized_label": "σκευάζειν",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "59",
+        "section": "3",
+        "citation": {
+          "start": "55.5",
+          "end": "55.10"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-1-59-3-mendesion:process:prosemballein-2",
+      "process_urn": "urn:aos:recipe-process:dioscorides-1-59-3-mendesion:process:prosemballein-2",
+      "source_span": "προσεμβάλλουσιν",
+      "surface_form": "προσεμβάλλουσιν",
+      "normalized_label": "προσεμβάλλειν",
+      "target_type": "ingredient",
+      "target_ids": [
+        "dioscorides-1-59-3-mendesion:ingredient:kinamomon-5"
+      ],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "other",
+          "source_span": "μετὰ τὸν κατασταθμισμὸν",
+          "normalized_value": "μετὰ τὸν κατασταθμισμόν",
+          "certainty": "certain",
+          "notes": []
+        },
+        {
+          "qualifier_type": "manner",
+          "source_span": "ἀνωφελῶς",
+          "normalized_value": "ἀνωφελῶς",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "certainty": "certain",
+      "notes": [
+        "ἔνιοι δὲ"
+      ],
+      "host_locator": {
+        "book": "1",
+        "chapter": "59",
+        "section": "3",
+        "citation": {
+          "start": "55.5",
+          "end": "55.10"
+        }
+      }
+    }
+  ],
+  "materials": [],
+  "people": [],
+  "places": [],
+  "uses": [],
+  "preparation_names": [],
+  "other_preparations_mentioned": [
+    {
+      "reference_id": "dioscorides-1-59-3-mendesion:reference:metopion-1",
+      "reference_urn": "urn:aos:recipe-reference:dioscorides-1-59-3-mendesion:reference:metopion-1",
+      "source_span": "τῷ μετωπίῳ",
+      "surface_form": "τῷ μετωπίῳ",
+      "normalized_label": "μετώπιον",
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "59",
+        "section": "3",
+        "citation": {
+          "start": "55.5",
+          "end": "55.10"
+        }
+      }
+    }
+  ],
+  "works_mentioned": [],
+  "entities": [
+    {
+      "entity_urn": "urn:aos:recipe-preparation:dioscorides-1-59-3-mendesion:preparation:mendesion",
+      "entity_type": "label",
+      "surface_form": "Μενδήσιον",
+      "normalized_label": "μενδήσιον"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:dioscorides-1-59-3-mendesion:ingredient:elaion-balaninon-1",
+      "entity_type": "ingredient",
+      "surface_form": "βαλανίνου ἐλαίου 3",
+      "normalized_label": "ἔλαιον βαλάνινον"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:dioscorides-1-59-3-mendesion:ingredient:smyrna-2",
+      "entity_type": "ingredient",
+      "surface_form": "σμύρνης",
+      "normalized_label": "σμύρνα"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:dioscorides-1-59-3-mendesion:ingredient:kassia-3",
+      "entity_type": "ingredient",
+      "surface_form": "κασσίας",
+      "normalized_label": "κασσία"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:dioscorides-1-59-3-mendesion:ingredient:retine-4",
+      "entity_type": "ingredient",
+      "surface_form": "ῥητίνης",
+      "normalized_label": "ῥητίνη"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:dioscorides-1-59-3-mendesion:ingredient:kinamomon-5",
+      "entity_type": "ingredient",
+      "surface_form": "κινάμωμον μικρὸν",
+      "normalized_label": "κινάμωμον"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-1-59-3-mendesion:process:skeyazein-1",
+      "entity_type": "process",
+      "surface_form": "σκευάζεται",
+      "normalized_label": "σκευάζειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-1-59-3-mendesion:process:prosemballein-2",
+      "entity_type": "process",
+      "surface_form": "προσεμβάλλουσιν",
+      "normalized_label": "προσεμβάλλειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-reference:dioscorides-1-59-3-mendesion:reference:metopion-1",
+      "entity_type": "preparation_reference",
+      "surface_form": "τῷ μετωπίῳ",
+      "normalized_label": "μετώπιον"
+    }
+  ],
+  "canonical_file": "data/recipes/dioscorides-1-59-3-mendesion.json",
+  "source_entry": {
+    "source_id": "dioscorides-1-59-3-mendesion",
+    "derived_recipe_id": "dioscorides-1-59-3-mendesion",
+    "entry_kind": "recipe",
+    "source_kind": "main_text",
+    "source_lines": {
+      "start": 1855,
+      "end": 3167
+    },
+    "section_markers": []
+  },
+  "entity_groups": {
+    "labels": [
+      {
+        "entity_urn": "urn:aos:recipe-preparation:dioscorides-1-59-3-mendesion:preparation:mendesion",
+        "surface_form": "Μενδήσιον",
+        "normalized_label": "μενδήσιον"
+      }
+    ],
+    "ingredients": [
+      {
+        "entity_urn": "urn:aos:recipe-ingredient:dioscorides-1-59-3-mendesion:ingredient:elaion-balaninon-1",
+        "surface_form": "βαλανίνου ἐλαίου 3",
+        "normalized_label": "ἔλαιον βαλάνινον",
+        "quantity_display": "3"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-ingredient:dioscorides-1-59-3-mendesion:ingredient:smyrna-2",
+        "surface_form": "σμύρνης",
+        "normalized_label": "σμύρνα",
+        "quantity_display": ""
+      },
+      {
+        "entity_urn": "urn:aos:recipe-ingredient:dioscorides-1-59-3-mendesion:ingredient:kassia-3",
+        "surface_form": "κασσίας",
+        "normalized_label": "κασσία",
+        "quantity_display": ""
+      },
+      {
+        "entity_urn": "urn:aos:recipe-ingredient:dioscorides-1-59-3-mendesion:ingredient:retine-4",
+        "surface_form": "ῥητίνης",
+        "normalized_label": "ῥητίνη",
+        "quantity_display": ""
+      },
+      {
+        "entity_urn": "urn:aos:recipe-ingredient:dioscorides-1-59-3-mendesion:ingredient:kinamomon-5",
+        "surface_form": "κινάμωμον μικρὸν",
+        "normalized_label": "κινάμωμον",
+        "quantity_display": ""
+      }
+    ],
+    "processes": [
+      {
+        "entity_urn": "urn:aos:recipe-process:dioscorides-1-59-3-mendesion:process:skeyazein-1",
+        "surface_form": "σκευάζεται",
+        "normalized_label": "σκευάζειν"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-process:dioscorides-1-59-3-mendesion:process:prosemballein-2",
+        "surface_form": "προσεμβάλλουσιν",
+        "normalized_label": "προσεμβάλλειν"
+      }
+    ],
+    "tools": [],
+    "other_preparations_mentioned": [
+      {
+        "entity_urn": "urn:aos:recipe-reference:dioscorides-1-59-3-mendesion:reference:metopion-1",
+        "surface_form": "τῷ μετωπίῳ",
+        "normalized_label": "μετώπιον"
+      }
+    ],
+    "people": [],
+    "places": [],
+    "works_mentioned": [],
+    "preparation_names": []
+  }
+}

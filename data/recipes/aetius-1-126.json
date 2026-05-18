@@ -1,0 +1,474 @@
+{
+  "dataset_key": "aetius_book1_oils",
+  "source_json": "experiments/aetius-book1-ch99-136-oils/data/aetius_book1_ch99_136_oils.json",
+  "host_raw_file": "tei/raw/tlg0718001.xml",
+  "work_slug": "aetius.b1.oils",
+  "recipe_id": "aetius-1-126",
+  "recipe_urn": "urn:aos:recipe:aetius-1-126",
+  "record_urn": "urn:aos:recipe-record:aetius-1-126",
+  "author": "Aëtius of Amida",
+  "work": "Libri medicinales",
+  "book": "1",
+  "chapter": "126",
+  "section": "126",
+  "chapter_name": "Μενδήσιον",
+  "lemma": "Μενδήσιον",
+  "text": "Μενδήσιον μαλακτικώτατόν ἐστι καὶ χαλαστικὸν σωμάτων καὶ πυοποιόν· συντίθεται δὲ ἐκ μυροβαλανίνου ἐλαίου καὶ σμύρνης καὶ κασίας καὶ ῥητίνης. ἔνιοι δὲ μετὰ τὸ ἀποστύψαι καὶ κιννάμωμον ἐμπάσσουσι.",
+  "original_text": "Μενδήσιον μαλακτικώτατόν ἐστι καὶ χαλαστικὸν σωμάτων καὶ πυοποιόν· συντίθεται δὲ ἐκ μυροβαλανίνου ἐλαίου καὶ σμύρνης καὶ κασίας καὶ ῥητίνης. ἔνιοι δὲ μετὰ τὸ ἀποστύψαι καὶ κιννάμωμον ἐμπάσσουσι.",
+  "text_source": "olivieri",
+  "emendations": [],
+  "emendation_count": 0,
+  "source_kind": null,
+  "entry_kind": "recipe",
+  "citation": {
+    "pages": [
+      "63"
+    ],
+    "start": {
+      "page": "63",
+      "line": "10",
+      "xml_id": "oliv-63-10"
+    },
+    "end": {
+      "page": "63",
+      "line": "13",
+      "xml_id": "oliv-63-13"
+    },
+    "citation": {
+      "start": "63.10",
+      "end": "63.13"
+    },
+    "page_spans": [
+      {
+        "page": "63",
+        "start_line": "10",
+        "end_line": "13"
+      }
+    ],
+    "lines": [
+      {
+        "page": "63",
+        "line": "10",
+        "xml_id": "oliv-63-10",
+        "break_no": false,
+        "text": "Μενδήσιον μαλακτικώτατόν ἐστι καὶ χαλαστικὸν σωμάτων καὶ",
+        "citation": "63.10"
+      },
+      {
+        "page": "63",
+        "line": "11",
+        "xml_id": "oliv-63-11",
+        "break_no": false,
+        "text": "πυοποιόν· συντίθεται δὲ ἐκ μυροβαλανίνου ἐλαίου καὶ σμύρνης καὶ",
+        "citation": "63.11"
+      },
+      {
+        "page": "63",
+        "line": "12",
+        "xml_id": "oliv-63-12",
+        "break_no": false,
+        "text": "κασίας καὶ ῥητίνης. ἔνιοι δὲ μετὰ τὸ ἀποστύψαι καὶ κιννάμωμον",
+        "citation": "63.12"
+      },
+      {
+        "page": "63",
+        "line": "13",
+        "xml_id": "oliv-63-13",
+        "break_no": false,
+        "text": "ἐμπάσσουσι.",
+        "citation": "63.13"
+      }
+    ],
+    "edition_key": "olivieri"
+  },
+  "notes": [],
+  "alignment_status": "pending",
+  "alignment_confidence": "pending",
+  "alignment_evidence": null,
+  "review_status": "reviewed_structured_authority",
+  "review_provenance": {
+    "authority_source": "reports/entity_review/structured/aetius_book1.json",
+    "authority_recipe_id": "aetius-1-126",
+    "authority_lemma": "Μενδήσιον",
+    "model": "gpt-5.4",
+    "reasoning_effort": "high",
+    "dataset_key": "aetius_book1_oils",
+    "entity_model_version": "1.2",
+    "authority_version": "2026-04-13-qty-alt-v1",
+    "prompt_version": "qty-alt-pass-v1",
+    "build_version": "2026-05-18T15:51:35Z"
+  },
+  "schema_version": "1.2",
+  "build_metadata": {
+    "builder": "scripts/recipes/build_recipe_entities.py",
+    "built_at": "2026-05-18T15:51:35Z",
+    "source_structured_authority": "reports/entity_review/structured/aetius_book1.json",
+    "authority_model": "gpt-5.4",
+    "authority_reasoning_effort": "high",
+    "dataset_key": "aetius_book1_oils",
+    "entity_model_version": "1.2",
+    "authority_version": "2026-04-13-qty-alt-v1",
+    "prompt_version": "qty-alt-pass-v1",
+    "build_version": "2026-05-18T15:51:35Z"
+  },
+  "recipe_text_excerpt": "Μενδήσιον μαλακτικώτατόν ἐστι καὶ χαλαστικὸν σωμάτων καὶ πυοποιόν· συντίθεται δὲ ἐκ μυροβαλανίνου ἐλαίου καὶ σμύρνης καὶ κασίας καὶ ῥητίνης. ἔνιοι",
+  "preparation": {
+    "preparation_id": "aetius-1-126:preparation:mendesion",
+    "preparation_urn": "urn:aos:recipe-preparation:aetius-1-126:preparation:mendesion",
+    "source_span": "Μενδήσιον",
+    "surface_form": "Μενδήσιον",
+    "normalized_label": "Μενδήσιον",
+    "qualifiers": [],
+    "regimen_notes": [],
+    "certainty": "certain",
+    "notes": [],
+    "host_locator": {
+      "book": "1",
+      "chapter": "126",
+      "section": "126",
+      "citation": {
+        "start": "63.10",
+        "end": "63.13"
+      }
+    }
+  },
+  "ingredients": [
+    {
+      "ingredient_id": "aetius-1-126:ingredient:elaion-myrobalaninon-1",
+      "ingredient_urn": "urn:aos:recipe-ingredient:aetius-1-126:ingredient:elaion-myrobalaninon-1",
+      "source_span": "μυροβαλανίνου ἐλαίου",
+      "surface_form": "μυροβαλανίνου ἐλαίου",
+      "base_label": "ἐλαίου",
+      "normalized_label": "ἔλαιον μυροβαλάνινον",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [
+        "aetius-1-126:process:syntithesthai-1"
+      ],
+      "quantities": [],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "126",
+        "section": "126",
+        "citation": {
+          "start": "63.10",
+          "end": "63.13"
+        }
+      }
+    },
+    {
+      "ingredient_id": "aetius-1-126:ingredient:smyrna-2",
+      "ingredient_urn": "urn:aos:recipe-ingredient:aetius-1-126:ingredient:smyrna-2",
+      "source_span": "σμύρνης",
+      "surface_form": "σμύρνης",
+      "base_label": "σμύρνης",
+      "normalized_label": "σμύρνα",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [
+        "aetius-1-126:process:syntithesthai-1"
+      ],
+      "quantities": [],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "126",
+        "section": "126",
+        "citation": {
+          "start": "63.10",
+          "end": "63.13"
+        }
+      }
+    },
+    {
+      "ingredient_id": "aetius-1-126:ingredient:kasia-3",
+      "ingredient_urn": "urn:aos:recipe-ingredient:aetius-1-126:ingredient:kasia-3",
+      "source_span": "κασίας",
+      "surface_form": "κασίας",
+      "base_label": "κασίας",
+      "normalized_label": "κασία",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [
+        "aetius-1-126:process:syntithesthai-1"
+      ],
+      "quantities": [],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "126",
+        "section": "126",
+        "citation": {
+          "start": "63.10",
+          "end": "63.13"
+        }
+      }
+    },
+    {
+      "ingredient_id": "aetius-1-126:ingredient:retine-4",
+      "ingredient_urn": "urn:aos:recipe-ingredient:aetius-1-126:ingredient:retine-4",
+      "source_span": "ῥητίνης",
+      "surface_form": "ῥητίνης",
+      "base_label": "ῥητίνης",
+      "normalized_label": "ῥητίνη",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [
+        "aetius-1-126:process:syntithesthai-1"
+      ],
+      "quantities": [],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "126",
+        "section": "126",
+        "citation": {
+          "start": "63.10",
+          "end": "63.13"
+        }
+      }
+    },
+    {
+      "ingredient_id": "aetius-1-126:ingredient:kinnamomon-5",
+      "ingredient_urn": "urn:aos:recipe-ingredient:aetius-1-126:ingredient:kinnamomon-5",
+      "source_span": "κιννάμωμον",
+      "surface_form": "κιννάμωμον",
+      "base_label": "κιννάμωμον",
+      "normalized_label": "κιννάμωμον",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [
+        "aetius-1-126:process:empassein-3"
+      ],
+      "quantities": [],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "126",
+        "section": "126",
+        "citation": {
+          "start": "63.10",
+          "end": "63.13"
+        }
+      }
+    }
+  ],
+  "processes": [
+    {
+      "process_id": "aetius-1-126:process:syntithesthai-1",
+      "process_urn": "urn:aos:recipe-process:aetius-1-126:process:syntithesthai-1",
+      "source_span": "συντίθεται",
+      "surface_form": "συντίθεται",
+      "normalized_label": "συντίθεσθαι",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "126",
+        "section": "126",
+        "citation": {
+          "start": "63.10",
+          "end": "63.13"
+        }
+      }
+    },
+    {
+      "process_id": "aetius-1-126:process:apostyphein-2",
+      "process_urn": "urn:aos:recipe-process:aetius-1-126:process:apostyphein-2",
+      "source_span": "ἀποστύψαι",
+      "surface_form": "ἀποστύψαι",
+      "normalized_label": "ἀποστύφειν",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "126",
+        "section": "126",
+        "citation": {
+          "start": "63.10",
+          "end": "63.13"
+        }
+      }
+    },
+    {
+      "process_id": "aetius-1-126:process:empassein-3",
+      "process_urn": "urn:aos:recipe-process:aetius-1-126:process:empassein-3",
+      "source_span": "ἐμπάσσουσι",
+      "surface_form": "ἐμπάσσουσι",
+      "normalized_label": "ἐμπάσσειν",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "other",
+          "source_span": "μετὰ τὸ ἀποστύψαι",
+          "normalized_value": "μετὰ τὸ ἀποστύψαι",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "126",
+        "section": "126",
+        "citation": {
+          "start": "63.10",
+          "end": "63.13"
+        }
+      }
+    }
+  ],
+  "materials": [],
+  "people": [],
+  "places": [],
+  "uses": [],
+  "preparation_names": [],
+  "other_preparations_mentioned": [],
+  "works_mentioned": [],
+  "entities": [
+    {
+      "entity_urn": "urn:aos:recipe-preparation:aetius-1-126:preparation:mendesion",
+      "entity_type": "label",
+      "surface_form": "Μενδήσιον",
+      "normalized_label": "Μενδήσιον"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:aetius-1-126:ingredient:elaion-myrobalaninon-1",
+      "entity_type": "ingredient",
+      "surface_form": "μυροβαλανίνου ἐλαίου",
+      "normalized_label": "ἔλαιον μυροβαλάνινον"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:aetius-1-126:ingredient:smyrna-2",
+      "entity_type": "ingredient",
+      "surface_form": "σμύρνης",
+      "normalized_label": "σμύρνα"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:aetius-1-126:ingredient:kasia-3",
+      "entity_type": "ingredient",
+      "surface_form": "κασίας",
+      "normalized_label": "κασία"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:aetius-1-126:ingredient:retine-4",
+      "entity_type": "ingredient",
+      "surface_form": "ῥητίνης",
+      "normalized_label": "ῥητίνη"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:aetius-1-126:ingredient:kinnamomon-5",
+      "entity_type": "ingredient",
+      "surface_form": "κιννάμωμον",
+      "normalized_label": "κιννάμωμον"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:aetius-1-126:process:syntithesthai-1",
+      "entity_type": "process",
+      "surface_form": "συντίθεται",
+      "normalized_label": "συντίθεσθαι"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:aetius-1-126:process:apostyphein-2",
+      "entity_type": "process",
+      "surface_form": "ἀποστύψαι",
+      "normalized_label": "ἀποστύφειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:aetius-1-126:process:empassein-3",
+      "entity_type": "process",
+      "surface_form": "ἐμπάσσουσι",
+      "normalized_label": "ἐμπάσσειν"
+    }
+  ],
+  "canonical_file": "data/recipes/aetius-1-126.json",
+  "source_entry": {
+    "source_id": "aetius-1-126",
+    "derived_recipe_id": "aetius-1-126",
+    "entry_kind": null,
+    "source_kind": null,
+    "source_lines": null,
+    "section_markers": []
+  },
+  "entity_groups": {
+    "labels": [
+      {
+        "entity_urn": "urn:aos:recipe-preparation:aetius-1-126:preparation:mendesion",
+        "surface_form": "Μενδήσιον",
+        "normalized_label": "Μενδήσιον"
+      }
+    ],
+    "ingredients": [
+      {
+        "entity_urn": "urn:aos:recipe-ingredient:aetius-1-126:ingredient:elaion-myrobalaninon-1",
+        "surface_form": "μυροβαλανίνου ἐλαίου",
+        "normalized_label": "ἔλαιον μυροβαλάνινον",
+        "quantity_display": ""
+      },
+      {
+        "entity_urn": "urn:aos:recipe-ingredient:aetius-1-126:ingredient:smyrna-2",
+        "surface_form": "σμύρνης",
+        "normalized_label": "σμύρνα",
+        "quantity_display": ""
+      },
+      {
+        "entity_urn": "urn:aos:recipe-ingredient:aetius-1-126:ingredient:kasia-3",
+        "surface_form": "κασίας",
+        "normalized_label": "κασία",
+        "quantity_display": ""
+      },
+      {
+        "entity_urn": "urn:aos:recipe-ingredient:aetius-1-126:ingredient:retine-4",
+        "surface_form": "ῥητίνης",
+        "normalized_label": "ῥητίνη",
+        "quantity_display": ""
+      },
+      {
+        "entity_urn": "urn:aos:recipe-ingredient:aetius-1-126:ingredient:kinnamomon-5",
+        "surface_form": "κιννάμωμον",
+        "normalized_label": "κιννάμωμον",
+        "quantity_display": ""
+      }
+    ],
+    "processes": [
+      {
+        "entity_urn": "urn:aos:recipe-process:aetius-1-126:process:syntithesthai-1",
+        "surface_form": "συντίθεται",
+        "normalized_label": "συντίθεσθαι"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-process:aetius-1-126:process:apostyphein-2",
+        "surface_form": "ἀποστύψαι",
+        "normalized_label": "ἀποστύφειν"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-process:aetius-1-126:process:empassein-3",
+        "surface_form": "ἐμπάσσουσι",
+        "normalized_label": "ἐμπάσσειν"
+      }
+    ],
+    "tools": [],
+    "other_preparations_mentioned": [],
+    "people": [],
+    "places": [],
+    "works_mentioned": [],
+    "preparation_names": []
+  }
+}

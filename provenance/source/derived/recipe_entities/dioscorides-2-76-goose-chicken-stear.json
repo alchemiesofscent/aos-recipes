@@ -1,0 +1,882 @@
+{
+  "dataset_key": "dioscorides_book2_fats",
+  "source_json": "experiments/dioscorides-book2-fats/data/dioscorides_book2_fats.json",
+  "host_raw_file": "tei/raw/tlg0656.tlg001.1st1K-grc1.xml",
+  "work_slug": "diosc.b2.fats",
+  "recipe_id": "dioscorides-2-76-goose-chicken-stear",
+  "recipe_urn": "urn:aos:recipe:dioscorides-2-76-goose-chicken-stear",
+  "record_urn": "urn:aos:recipe-record:dioscorides-2-76-goose-chicken-stear",
+  "author": "Dioscorides",
+  "work": "De materia medica",
+  "book": "2",
+  "chapter": "76",
+  "section": "1-2",
+  "chapter_name": "στέαρ",
+  "lemma": "στέαρ χήνειον καὶ ὀρνίθειον",
+  "text": "στέαρ πρὸς μὲν τὰ περὶ μήτραν ἁρμόζει τὸ νεαρὸν χήνειον ἢ ὀρνίθειον καὶ δίχα ἁλῶν τεθεραπευμένον, πολέμιον δὲ ὑστέρᾳ τὸ ἡλισμένον καὶ τὸ τῷ χρόνῳ μεταβεβληκὸς εἰς δριμύτητα. πρόσφατον δὲ τούτων λαβών τι καὶ ἐξυμενίσας ἔμβαλε εἰς λοπάδα καινὴν κεραμεᾶν, δὶς τοσοῦτον χωροῦσαν ἢ ὅσον ἐστὶ τὸ μέλλον θεραπεύεσθαι, εἶτα θεὶς εἰς ὀξύτατον ἥλιον τὸ ἀγγεῖον κεκαλυμμένον ἐπιμελῶς, ὑπὸ χεῖρα τὸ ἀποτηκόμενον ἀπήθει εἰς ἕτερον ἀγγεῖον ὀστράκινον, ἕως ἂν ἅπαν δαπανήσῃ τοῦτο δὲ εἰς κατάψυχρον τόπον ἀποτίθεσο καὶ χρῶ. τινὲς δὲ ἀντὶ τοῦ ἡλίου ὑπὲρ ὕδατος θερμοῦ ἐπερείδονται τὴν λοπάδα ἢ ἐπὶ λεπτῆς καὶ μαλακῆς ἀνθρακιᾶς.",
+  "original_text": null,
+  "text_source": null,
+  "emendations": [],
+  "emendation_count": 0,
+  "source_kind": "main_text",
+  "entry_kind": "recipe",
+  "citation": {
+    "pages": [
+      "151",
+      "152"
+    ],
+    "start": {
+      "page": "151",
+      "line": "5"
+    },
+    "end": {
+      "page": "152",
+      "line": "1"
+    },
+    "citation": {
+      "start": "151.5",
+      "end": "152.1"
+    },
+    "page_spans": [
+      {
+        "page": "151",
+        "start_line": "5",
+        "end_line": "20"
+      },
+      {
+        "page": "152",
+        "start_line": "1",
+        "end_line": "1"
+      }
+    ],
+    "lines": [
+      {
+        "page": "151",
+        "line": "5",
+        "break_no": false,
+        "raw_text": "76 στέαρ πρὸς μὲν τὰ περὶ μήτραν ἁρμόζει τὸ νεαρὸν χήνειον ἢ ὀρνίθειον καὶ δίχα ἁλῶν τεθεραπευμένον, πολέμιον",
+        "text": "στέαρ πρὸς μὲν τὰ περὶ μήτραν ἁρμόζει τὸ νεαρὸν χήνειον ἢ ὀρνίθειον καὶ δίχα ἁλῶν τεθεραπευμένον, πολέμιον",
+        "citation": "151.5"
+      },
+      {
+        "page": "151",
+        "line": "10",
+        "break_no": false,
+        "raw_text": "δὲ ὑστέρᾳ τὸ ἡλισμένον καὶ τὸ τῷ χρόνῳ μεταβεβληκὸς εἰς δριμύτητα. πρόσφατον δὲ τούτων λαβών τι καὶ ἐξυμενίσας ἔμβαλε εἰς λοπάδα καινὴν κεραμεᾶν, δὶς τοσοῦτον χωροῦσαν ἢ ὅσον ἐστὶ τὸ μέλλον θεραπεύεσθαι, εἶτα θεὶς εἰς ὀξύτατον ἥλιον τὸ ἀγγεῖον κεκαλυμμένον ἐπιμελῶς, ὑπὸ χεῖρα τὸ ἀποτηκόμενον",
+        "text": "δὲ ὑστέρᾳ τὸ ἡλισμένον καὶ τὸ τῷ χρόνῳ μεταβεβληκὸς εἰς δριμύτητα. πρόσφατον δὲ τούτων λαβών τι καὶ ἐξυμενίσας ἔμβαλε εἰς λοπάδα καινὴν κεραμεᾶν, δὶς τοσοῦτον χωροῦσαν ἢ ὅσον ἐστὶ τὸ μέλλον θεραπεύεσθαι, εἶτα θεὶς εἰς ὀξύτατον ἥλιον τὸ ἀγγεῖον κεκαλυμμένον ἐπιμελῶς, ὑπὸ χεῖρα τὸ ἀποτηκόμενον",
+        "citation": "151.10"
+      },
+      {
+        "page": "151",
+        "line": "15",
+        "break_no": false,
+        "raw_text": "ἀπήθει εἰς ἕτερον ἀγγεῖον ὀστράκινον, ἕως ἂν ἅπαν δαπανήσῃ τοῦτο δὲ εἰς κατάψυχρον τόπον ἀποτίθεσο καὶ χρῶ.",
+        "text": "ἀπήθει εἰς ἕτερον ἀγγεῖον ὀστράκινον, ἕως ἂν ἅπαν δαπανήσῃ τοῦτο δὲ εἰς κατάψυχρον τόπον ἀποτίθεσο καὶ χρῶ.",
+        "citation": "151.15"
+      },
+      {
+        "page": "151",
+        "line": "15",
+        "break_no": false,
+        "raw_text": "τινὲς δὲ 2 ἀντὶ τοῦ ἡλίου ὑπὲρ ὕδατος θερμοῦ ἐπερείδονται τὴν λοπάδα ἢ ἐπὶ λεπτῆς καὶ μαλακῆς ἀνθρακιᾶς. ἐστι δὲ καὶ ἄλλος τρόπος θεραπείας τοιοῦτος μετὰ τὸ ἐξυμενισθῆναι τὸ στέαρ",
+        "text": "τινὲς δὲ ἀντὶ τοῦ ἡλίου ὑπὲρ ὕδατος θερμοῦ ἐπερείδονται τὴν λοπάδα ἢ ἐπὶ λεπτῆς καὶ μαλακῆς ἀνθρακιᾶς. ἐστι δὲ καὶ ἄλλος τρόπος θεραπείας τοιοῦτος μετὰ τὸ ἐξυμενισθῆναι τὸ στέαρ",
+        "citation": "151.15"
+      },
+      {
+        "page": "151",
+        "line": "20",
+        "break_no": false,
+        "raw_text": "λεαίνεται καὶ εἰς λοπάδα ἐμβληθὲν τήκεται, ἁλὸς ὀλίγου καὶ λεπτοῦ προσεμπασθέντος, εἶτα διὰ ῥάκους λινοῦ ὑλισθὲν ἀποτίθεται. ἁρμόζει δὲ τὸ τοιοῦτον εἰς τὰ ἄκοπα. ὔειον δὲ καὶ ἄρκειον θεραπεύεται οὕτως· λαβὼν τὸ πρόσφατον καὶ καταπίμελον, οἷόν ἐστι τὸ νεφριαῖον, ἔμβαλε 8",
+        "text": "λεαίνεται καὶ εἰς λοπάδα ἐμβληθὲν τήκεται, ἁλὸς ὀλίγου καὶ λεπτοῦ προσεμπασθέντος, εἶτα διὰ ῥάκους λινοῦ ὑλισθὲν ἀποτίθεται. ἁρμόζει δὲ τὸ τοιοῦτον εἰς τὰ ἄκοπα. ὔειον δὲ καὶ ἄρκειον θεραπεύεται οὕτως· λαβὼν τὸ πρόσφατον καὶ καταπίμελον, οἷόν ἐστι τὸ νεφριαῖον, ἔμβαλε",
+        "citation": "151.20"
+      },
+      {
+        "page": "152",
+        "line": "1",
+        "break_no": false,
+        "raw_text": "εἰς ὕδωρ δαψιλὲς ὄμβριον ὡς ὅτι ψυχρότατον καὶ ἐξυμένισον καὶ τρῖβε ταῖς χερσὶν ἐπιμελῶς, ἀνατρίβων αὐτὸ καὶ οἱονεὶ ἀποψήχων·",
+        "text": "εἰς ὕδωρ δαψιλὲς ὄμβριον ὡς ὅτι ψυχρότατον καὶ ἐξυμένισον καὶ τρῖβε ταῖς χερσὶν ἐπιμελῶς, ἀνατρίβων αὐτὸ καὶ οἱονεὶ ἀποψήχων·",
+        "citation": "152.1"
+      }
+    ],
+    "edition_key": "wellmann"
+  },
+  "notes": [
+    "Book 2 fats slice split into logical preparation and technique units from chapters 72, 74, and 76.",
+    "Bare Arabic numerals in the raw witness are treated as structural or note noise and removed from display text, except parenthetical cross-references such as (I 68).",
+    "Section markers are stored separately and displayed near sentence boundaries as heuristic navigation aids."
+  ],
+  "alignment_status": "pending",
+  "alignment_confidence": "pending",
+  "alignment_evidence": null,
+  "review_status": "reviewed_structured_authority",
+  "review_provenance": {
+    "authority_source": "reports/entity_review/structured/dioscorides.json",
+    "authority_recipe_id": "dioscorides-2-76-goose-chicken-stear",
+    "authority_lemma": "στέαρ χήνειον καὶ ὀρνίθειον",
+    "model": "gpt-5.4",
+    "reasoning_effort": "high",
+    "dataset_key": "dioscorides_book2_fats",
+    "entity_model_version": "1.2",
+    "authority_version": "2026-04-13-qty-alt-v1",
+    "prompt_version": "qty-alt-pass-v1",
+    "build_version": "2026-05-18T15:51:35Z"
+  },
+  "schema_version": "1.2",
+  "build_metadata": {
+    "builder": "scripts/recipes/build_recipe_entities.py",
+    "built_at": "2026-05-18T15:51:35Z",
+    "source_structured_authority": "reports/entity_review/structured/dioscorides.json",
+    "authority_model": "gpt-5.4",
+    "authority_reasoning_effort": "high",
+    "dataset_key": "dioscorides_book2_fats",
+    "entity_model_version": "1.2",
+    "authority_version": "2026-04-13-qty-alt-v1",
+    "prompt_version": "qty-alt-pass-v1",
+    "build_version": "2026-05-18T15:51:35Z"
+  },
+  "recipe_text_excerpt": "στέαρ πρὸς μὲν τὰ περὶ μήτραν ἁρμόζει τὸ νεαρὸν χήνειον ἢ ὀρνίθειον καὶ δίχα ἁλῶν τεθεραπευμένον, πολέμιον δὲ ὑστέρᾳ τὸ",
+  "preparation": {
+    "preparation_id": "dioscorides-2-76-goose-chicken-stear:preparation:stear-cheneion-kai-ornitheion",
+    "preparation_urn": "urn:aos:recipe-preparation:dioscorides-2-76-goose-chicken-stear:preparation:stear-cheneion-kai-ornitheion",
+    "source_span": "στέαρ χήνειον καὶ ὀρνίθειον",
+    "surface_form": "στέαρ χήνειον καὶ ὀρνίθειον",
+    "normalized_label": "στέαρ χήνειον καὶ ὀρνίθειον",
+    "qualifiers": [],
+    "regimen_notes": [
+      {
+        "source_span": "πολέμιον δὲ ὑστέρᾳ τὸ ἡλισμένον καὶ τὸ τῷ χρόνῳ μεταβεβληκὸς εἰς δριμύτητα",
+        "normalized_note": "τὸ ἡλισμένον καὶ τὸ τῷ χρόνῳ εἰς δριμύτητα μεταβεβληκὸς βλάπτει τὴν ὑστέραν",
+        "certainty": "certain",
+        "notes": []
+      }
+    ],
+    "certainty": "certain",
+    "notes": [],
+    "host_locator": {
+      "book": "2",
+      "chapter": "76",
+      "section": "1-2",
+      "citation": {
+        "start": "151.5",
+        "end": "152.1"
+      }
+    }
+  },
+  "ingredients": [
+    {
+      "ingredient_id": "dioscorides-2-76-goose-chicken-stear:ingredient:stear-cheneion-1",
+      "ingredient_urn": "urn:aos:recipe-ingredient:dioscorides-2-76-goose-chicken-stear:ingredient:stear-cheneion-1",
+      "source_span": "τὸ νεαρὸν χήνειον",
+      "surface_form": "τὸ νεαρὸν χήνειον",
+      "base_label": "χήνειον",
+      "normalized_label": "στέαρ χήνειον",
+      "alternative_set_id": "alt-1",
+      "certainty": "uncertain",
+      "linked_process_ids": [
+        "dioscorides-2-76-goose-chicken-stear:process:therapeyein-1",
+        "dioscorides-2-76-goose-chicken-stear:process:lambanein-2",
+        "dioscorides-2-76-goose-chicken-stear:process:exymenizein-3"
+      ],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "other",
+          "source_span": "νεαρὸν",
+          "normalized_value": "fresh",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "notes": [
+        "Head noun στέαρ restored from lemma."
+      ],
+      "host_locator": {
+        "book": "2",
+        "chapter": "76",
+        "section": "1-2",
+        "citation": {
+          "start": "151.5",
+          "end": "152.1"
+        }
+      }
+    },
+    {
+      "ingredient_id": "dioscorides-2-76-goose-chicken-stear:ingredient:stear-ornitheion-2",
+      "ingredient_urn": "urn:aos:recipe-ingredient:dioscorides-2-76-goose-chicken-stear:ingredient:stear-ornitheion-2",
+      "source_span": "ὀρνίθειον",
+      "surface_form": "ὀρνίθειον",
+      "base_label": "ὀρνίθειον",
+      "normalized_label": "στέαρ ὀρνίθειον",
+      "alternative_set_id": "alt-1",
+      "certainty": "uncertain",
+      "linked_process_ids": [
+        "dioscorides-2-76-goose-chicken-stear:process:therapeyein-1",
+        "dioscorides-2-76-goose-chicken-stear:process:lambanein-2",
+        "dioscorides-2-76-goose-chicken-stear:process:exymenizein-3"
+      ],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "other",
+          "source_span": "νεαρὸν",
+          "normalized_value": "fresh",
+          "certainty": "certain",
+          "notes": [
+            "Freshness modifier is shared across the alternative pair."
+          ]
+        }
+      ],
+      "notes": [
+        "Head noun στέαρ restored from lemma."
+      ],
+      "host_locator": {
+        "book": "2",
+        "chapter": "76",
+        "section": "1-2",
+        "citation": {
+          "start": "151.5",
+          "end": "152.1"
+        }
+      }
+    }
+  ],
+  "processes": [
+    {
+      "process_id": "dioscorides-2-76-goose-chicken-stear:process:therapeyein-1",
+      "process_urn": "urn:aos:recipe-process:dioscorides-2-76-goose-chicken-stear:process:therapeyein-1",
+      "source_span": "τεθεραπευμένον",
+      "surface_form": "τεθεραπευμένον",
+      "normalized_label": "θεραπεύειν",
+      "target_type": "ingredient",
+      "target_ids": [
+        "dioscorides-2-76-goose-chicken-stear:ingredient:stear-cheneion-1",
+        "dioscorides-2-76-goose-chicken-stear:ingredient:stear-ornitheion-2"
+      ],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "other",
+          "source_span": "δίχα ἁλῶν",
+          "normalized_value": "without salt",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "2",
+        "chapter": "76",
+        "section": "1-2",
+        "citation": {
+          "start": "151.5",
+          "end": "152.1"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-2-76-goose-chicken-stear:process:lambanein-2",
+      "process_urn": "urn:aos:recipe-process:dioscorides-2-76-goose-chicken-stear:process:lambanein-2",
+      "source_span": "λαβών",
+      "surface_form": "λαβών",
+      "normalized_label": "λαμβάνειν",
+      "target_type": "ingredient",
+      "target_ids": [
+        "dioscorides-2-76-goose-chicken-stear:ingredient:stear-cheneion-1",
+        "dioscorides-2-76-goose-chicken-stear:ingredient:stear-ornitheion-2"
+      ],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "other",
+          "source_span": "πρόσφατον",
+          "normalized_value": "fresh",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "2",
+        "chapter": "76",
+        "section": "1-2",
+        "citation": {
+          "start": "151.5",
+          "end": "152.1"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-2-76-goose-chicken-stear:process:exymenizein-3",
+      "process_urn": "urn:aos:recipe-process:dioscorides-2-76-goose-chicken-stear:process:exymenizein-3",
+      "source_span": "ἐξυμενίσας",
+      "surface_form": "ἐξυμενίσας",
+      "normalized_label": "ἐξυμενίζειν",
+      "target_type": "ingredient",
+      "target_ids": [
+        "dioscorides-2-76-goose-chicken-stear:ingredient:stear-cheneion-1",
+        "dioscorides-2-76-goose-chicken-stear:ingredient:stear-ornitheion-2"
+      ],
+      "quantities": [],
+      "qualifiers": [],
+      "certainty": "uncertain",
+      "notes": [
+        "Exact infinitive normalization is uncertain."
+      ],
+      "host_locator": {
+        "book": "2",
+        "chapter": "76",
+        "section": "1-2",
+        "citation": {
+          "start": "151.5",
+          "end": "152.1"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-2-76-goose-chicken-stear:process:emballein-4",
+      "process_urn": "urn:aos:recipe-process:dioscorides-2-76-goose-chicken-stear:process:emballein-4",
+      "source_span": "ἔμβαλε",
+      "surface_form": "ἔμβαλε",
+      "normalized_label": "ἐμβάλλειν",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "location",
+          "source_span": "εἰς λοπάδα καινὴν κεραμεᾶν",
+          "normalized_value": "into a new earthen pan",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "2",
+        "chapter": "76",
+        "section": "1-2",
+        "citation": {
+          "start": "151.5",
+          "end": "152.1"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-2-76-goose-chicken-stear:process:tithenai-5",
+      "process_urn": "urn:aos:recipe-process:dioscorides-2-76-goose-chicken-stear:process:tithenai-5",
+      "source_span": "θεὶς",
+      "surface_form": "θεὶς",
+      "normalized_label": "τιθέναι",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "exposure",
+          "source_span": "εἰς ὀξύτατον ἥλιον",
+          "normalized_value": "in very strong sun",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "2",
+        "chapter": "76",
+        "section": "1-2",
+        "citation": {
+          "start": "151.5",
+          "end": "152.1"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-2-76-goose-chicken-stear:process:kalyptein-6",
+      "process_urn": "urn:aos:recipe-process:dioscorides-2-76-goose-chicken-stear:process:kalyptein-6",
+      "source_span": "κεκαλυμμένον",
+      "surface_form": "κεκαλυμμένον",
+      "normalized_label": "καλύπτειν",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "manner",
+          "source_span": "ἐπιμελῶς",
+          "normalized_value": "carefully",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "2",
+        "chapter": "76",
+        "section": "1-2",
+        "citation": {
+          "start": "151.5",
+          "end": "152.1"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-2-76-goose-chicken-stear:process:apoethein-7",
+      "process_urn": "urn:aos:recipe-process:dioscorides-2-76-goose-chicken-stear:process:apoethein-7",
+      "source_span": "ἀπήθει",
+      "surface_form": "ἀπήθει",
+      "normalized_label": "ἀποηθεῖν",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "manner",
+          "source_span": "ὑπὸ χεῖρα",
+          "normalized_value": "as it melts / continually at hand",
+          "certainty": "uncertain",
+          "notes": []
+        },
+        {
+          "qualifier_type": "location",
+          "source_span": "εἰς ἕτερον ἀγγεῖον ὀστράκινον",
+          "normalized_value": "into another earthenware vessel",
+          "certainty": "certain",
+          "notes": []
+        },
+        {
+          "qualifier_type": "duration",
+          "source_span": "ἕως ἂν ἅπαν δαπανήσῃ",
+          "normalized_value": "until all is exhausted",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "certainty": "uncertain",
+      "notes": [
+        "Verb likely means straining or pouring off the melted portion."
+      ],
+      "host_locator": {
+        "book": "2",
+        "chapter": "76",
+        "section": "1-2",
+        "citation": {
+          "start": "151.5",
+          "end": "152.1"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-2-76-goose-chicken-stear:process:apotithesthai-8",
+      "process_urn": "urn:aos:recipe-process:dioscorides-2-76-goose-chicken-stear:process:apotithesthai-8",
+      "source_span": "ἀποτίθεσο",
+      "surface_form": "ἀποτίθεσο",
+      "normalized_label": "ἀποτίθεσθαι",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "location",
+          "source_span": "εἰς κατάψυχρον τόπον",
+          "normalized_value": "in a very cool place",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "2",
+        "chapter": "76",
+        "section": "1-2",
+        "citation": {
+          "start": "151.5",
+          "end": "152.1"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-2-76-goose-chicken-stear:process:chresthai-9",
+      "process_urn": "urn:aos:recipe-process:dioscorides-2-76-goose-chicken-stear:process:chresthai-9",
+      "source_span": "χρῶ",
+      "surface_form": "χρῶ",
+      "normalized_label": "χρῆσθαι",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "2",
+        "chapter": "76",
+        "section": "1-2",
+        "citation": {
+          "start": "151.5",
+          "end": "152.1"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-2-76-goose-chicken-stear:process:epereidein-10",
+      "process_urn": "urn:aos:recipe-process:dioscorides-2-76-goose-chicken-stear:process:epereidein-10",
+      "source_span": "ἐπερείδονται",
+      "surface_form": "ἐπερείδονται",
+      "normalized_label": "ἐπερείδειν",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "other",
+          "source_span": "ἀντὶ τοῦ ἡλίου",
+          "normalized_value": "instead of the sun",
+          "certainty": "certain",
+          "notes": []
+        },
+        {
+          "qualifier_type": "location",
+          "source_span": "ὑπὲρ ὕδατος θερμοῦ",
+          "normalized_value": "over warm water",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "certainty": "certain",
+      "notes": [
+        "Alternative heating method."
+      ],
+      "host_locator": {
+        "book": "2",
+        "chapter": "76",
+        "section": "1-2",
+        "citation": {
+          "start": "151.5",
+          "end": "152.1"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-2-76-goose-chicken-stear:process:epereidein-11",
+      "process_urn": "urn:aos:recipe-process:dioscorides-2-76-goose-chicken-stear:process:epereidein-11",
+      "source_span": "ἐπερείδονται",
+      "surface_form": "ἐπερείδονται",
+      "normalized_label": "ἐπερείδειν",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "other",
+          "source_span": "ἀντὶ τοῦ ἡλίου",
+          "normalized_value": "instead of the sun",
+          "certainty": "certain",
+          "notes": []
+        },
+        {
+          "qualifier_type": "location",
+          "source_span": "ἐπὶ λεπτῆς καὶ μαλακῆς ἀνθρακιᾶς",
+          "normalized_value": "on a thin, gentle charcoal fire",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "certainty": "certain",
+      "notes": [
+        "Alternative heating method."
+      ],
+      "host_locator": {
+        "book": "2",
+        "chapter": "76",
+        "section": "1-2",
+        "citation": {
+          "start": "151.5",
+          "end": "152.1"
+        }
+      }
+    }
+  ],
+  "materials": [
+    {
+      "material_id": "dioscorides-2-76-goose-chicken-stear:material:lopas-1",
+      "material_urn": "urn:aos:recipe-material:dioscorides-2-76-goose-chicken-stear:material:lopas-1",
+      "source_span": "λοπάδα καινὴν κεραμεᾶν",
+      "surface_form": "λοπάδα καινὴν κεραμεᾶν",
+      "normalized_label": "λοπάς",
+      "role": "apparatus",
+      "certainty": "certain",
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "other",
+          "source_span": "καινὴν",
+          "normalized_value": "new",
+          "certainty": "certain",
+          "notes": []
+        },
+        {
+          "qualifier_type": "other",
+          "source_span": "κεραμεᾶν",
+          "normalized_value": "ceramic",
+          "certainty": "certain",
+          "notes": []
+        },
+        {
+          "qualifier_type": "other",
+          "source_span": "δὶς τοσοῦτον χωροῦσαν ἢ ὅσον ἐστὶ τὸ μέλλον θεραπεύεσθαι",
+          "normalized_value": "capacity double the amount to be processed",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "notes": [],
+      "host_locator": {
+        "book": "2",
+        "chapter": "76",
+        "section": "1-2",
+        "citation": {
+          "start": "151.5",
+          "end": "152.1"
+        }
+      }
+    },
+    {
+      "material_id": "dioscorides-2-76-goose-chicken-stear:material:aggeion-2",
+      "material_urn": "urn:aos:recipe-material:dioscorides-2-76-goose-chicken-stear:material:aggeion-2",
+      "source_span": "ἕτερον ἀγγεῖον ὀστράκινον",
+      "surface_form": "ἕτερον ἀγγεῖον ὀστράκινον",
+      "normalized_label": "ἀγγεῖον",
+      "role": "apparatus",
+      "certainty": "certain",
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "other",
+          "source_span": "ἕτερον",
+          "normalized_value": "another",
+          "certainty": "certain",
+          "notes": []
+        },
+        {
+          "qualifier_type": "other",
+          "source_span": "ὀστράκινον",
+          "normalized_value": "earthenware",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "notes": [],
+      "host_locator": {
+        "book": "2",
+        "chapter": "76",
+        "section": "1-2",
+        "citation": {
+          "start": "151.5",
+          "end": "152.1"
+        }
+      }
+    },
+    {
+      "material_id": "dioscorides-2-76-goose-chicken-stear:material:ydor-thermon-3",
+      "material_urn": "urn:aos:recipe-material:dioscorides-2-76-goose-chicken-stear:material:ydor-thermon-3",
+      "source_span": "ὕδατος θερμοῦ",
+      "surface_form": "ὕδατος θερμοῦ",
+      "normalized_label": "ὕδωρ θερμόν",
+      "role": "adjunct_material",
+      "certainty": "certain",
+      "quantities": [],
+      "qualifiers": [],
+      "notes": [
+        "Alternative heating medium."
+      ],
+      "host_locator": {
+        "book": "2",
+        "chapter": "76",
+        "section": "1-2",
+        "citation": {
+          "start": "151.5",
+          "end": "152.1"
+        }
+      }
+    },
+    {
+      "material_id": "dioscorides-2-76-goose-chicken-stear:material:anthrakia-4",
+      "material_urn": "urn:aos:recipe-material:dioscorides-2-76-goose-chicken-stear:material:anthrakia-4",
+      "source_span": "λεπτῆς καὶ μαλακῆς ἀνθρακιᾶς",
+      "surface_form": "λεπτῆς καὶ μαλακῆς ἀνθρακιᾶς",
+      "normalized_label": "ἀνθρακιά",
+      "role": "fuel",
+      "certainty": "certain",
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "other",
+          "source_span": "λεπτῆς",
+          "normalized_value": "thin",
+          "certainty": "certain",
+          "notes": []
+        },
+        {
+          "qualifier_type": "other",
+          "source_span": "μαλακῆς",
+          "normalized_value": "gentle",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "notes": [
+        "Alternative heating medium."
+      ],
+      "host_locator": {
+        "book": "2",
+        "chapter": "76",
+        "section": "1-2",
+        "citation": {
+          "start": "151.5",
+          "end": "152.1"
+        }
+      }
+    }
+  ],
+  "people": [],
+  "places": [],
+  "uses": [
+    {
+      "use_id": "dioscorides-2-76-goose-chicken-stear:use:pros-men-ta-peri-metran-armozei-1",
+      "use_urn": "urn:aos:recipe-use:dioscorides-2-76-goose-chicken-stear:use:pros-men-ta-peri-metran-armozei-1",
+      "category": "medical",
+      "source_span": "πρὸς μὲν τὰ περὶ μήτραν ἁρμόζει",
+      "snippet": "πρὸς μὲν τὰ περὶ μήτραν ἁρμόζει",
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "2",
+        "chapter": "76",
+        "section": "1-2",
+        "citation": {
+          "start": "151.5",
+          "end": "152.1"
+        }
+      }
+    }
+  ],
+  "preparation_names": [],
+  "other_preparations_mentioned": [],
+  "works_mentioned": [],
+  "entities": [
+    {
+      "entity_urn": "urn:aos:recipe-preparation:dioscorides-2-76-goose-chicken-stear:preparation:stear-cheneion-kai-ornitheion",
+      "entity_type": "label",
+      "surface_form": "στέαρ χήνειον καὶ ὀρνίθειον",
+      "normalized_label": "στέαρ χήνειον καὶ ὀρνίθειον"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:dioscorides-2-76-goose-chicken-stear:ingredient:stear-cheneion-1",
+      "entity_type": "ingredient",
+      "surface_form": "τὸ νεαρὸν χήνειον",
+      "normalized_label": "στέαρ χήνειον"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:dioscorides-2-76-goose-chicken-stear:ingredient:stear-ornitheion-2",
+      "entity_type": "ingredient",
+      "surface_form": "ὀρνίθειον",
+      "normalized_label": "στέαρ ὀρνίθειον"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-2-76-goose-chicken-stear:process:therapeyein-1",
+      "entity_type": "process",
+      "surface_form": "τεθεραπευμένον",
+      "normalized_label": "θεραπεύειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-2-76-goose-chicken-stear:process:lambanein-2",
+      "entity_type": "process",
+      "surface_form": "λαβών",
+      "normalized_label": "λαμβάνειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-2-76-goose-chicken-stear:process:exymenizein-3",
+      "entity_type": "process",
+      "surface_form": "ἐξυμενίσας",
+      "normalized_label": "ἐξυμενίζειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-2-76-goose-chicken-stear:process:emballein-4",
+      "entity_type": "process",
+      "surface_form": "ἔμβαλε",
+      "normalized_label": "ἐμβάλλειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-2-76-goose-chicken-stear:process:tithenai-5",
+      "entity_type": "process",
+      "surface_form": "θεὶς",
+      "normalized_label": "τιθέναι"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-2-76-goose-chicken-stear:process:kalyptein-6",
+      "entity_type": "process",
+      "surface_form": "κεκαλυμμένον",
+      "normalized_label": "καλύπτειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-2-76-goose-chicken-stear:process:apoethein-7",
+      "entity_type": "process",
+      "surface_form": "ἀπήθει",
+      "normalized_label": "ἀποηθεῖν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-2-76-goose-chicken-stear:process:apotithesthai-8",
+      "entity_type": "process",
+      "surface_form": "ἀποτίθεσο",
+      "normalized_label": "ἀποτίθεσθαι"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-2-76-goose-chicken-stear:process:chresthai-9",
+      "entity_type": "process",
+      "surface_form": "χρῶ",
+      "normalized_label": "χρῆσθαι"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-2-76-goose-chicken-stear:process:epereidein-10",
+      "entity_type": "process",
+      "surface_form": "ἐπερείδονται",
+      "normalized_label": "ἐπερείδειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-2-76-goose-chicken-stear:process:epereidein-11",
+      "entity_type": "process",
+      "surface_form": "ἐπερείδονται",
+      "normalized_label": "ἐπερείδειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-material:dioscorides-2-76-goose-chicken-stear:material:lopas-1",
+      "entity_type": "material",
+      "surface_form": "λοπάδα καινὴν κεραμεᾶν",
+      "normalized_label": "λοπάς"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-material:dioscorides-2-76-goose-chicken-stear:material:aggeion-2",
+      "entity_type": "material",
+      "surface_form": "ἕτερον ἀγγεῖον ὀστράκινον",
+      "normalized_label": "ἀγγεῖον"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-material:dioscorides-2-76-goose-chicken-stear:material:ydor-thermon-3",
+      "entity_type": "material",
+      "surface_form": "ὕδατος θερμοῦ",
+      "normalized_label": "ὕδωρ θερμόν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-material:dioscorides-2-76-goose-chicken-stear:material:anthrakia-4",
+      "entity_type": "material",
+      "surface_form": "λεπτῆς καὶ μαλακῆς ἀνθρακιᾶς",
+      "normalized_label": "ἀνθρακιά"
+    }
+  ]
+}

@@ -1,0 +1,615 @@
+{
+  "dataset_key": "aetius_book1_oils",
+  "source_json": "experiments/aetius-book1-ch99-136-oils/data/aetius_book1_ch99_136_oils.json",
+  "host_raw_file": "tei/raw/tlg0718001.xml",
+  "work_slug": "aetius.b1.oils",
+  "recipe_id": "aetius-1-110",
+  "recipe_urn": "urn:aos:recipe:aetius-1-110",
+  "record_urn": "urn:aos:recipe-record:aetius-1-110",
+  "author": "Aëtius of Amida",
+  "work": "Libri medicinales",
+  "book": "1",
+  "chapter": "110",
+  "section": "110",
+  "chapter_name": "Σχίνινον",
+  "lemma": "Σχίνινον",
+  "text": "Σχίνινον. Σκευάζεται καὶ τοῦτο ἐκ τοῦ καρποῦ τῆς σχίνου, ὡς εἴρηται ἐπὶ τῶν ἄλλων, σκευάζεται δὲ πάλιν ἄλλως ὥσπερ ἐπὶ τοῦ δαφνίνου προείρηται, μιγνυμένου τοῦ καρποῦ τῆς σχίνου ταῖς ἐλαίαις. χρήσιμον δὲ τὸ ἀμιγὲς καὶ καθαρὸν στόματι ῥευματιζομένῳ καὶ οὔλοις φλεγμαίνουσι θερμὸν ἐν τῷ στόματι διακατεχόμενον καὶ ἐν βαλανείῳ καὶ χωρὶς βαλανείου· ἀποκρουστικὸν γάρ ἐστι καὶ τονωτικὸν μετὰ τοῦ μὴ τραχύνειν. τὸ δὲ μικτὸν μᾶλλον παρηγορεῖ σὺν τῷ φυλάττειν τὸν τόνον, ὅθεν χρησίμως παραλαμβάνεται ἐπὶ ἥπατος καὶ στομάχου καταιονήσει.",
+  "original_text": "Σχίνινον. Σκευάζεται καὶ τοῦτο ἐκ τοῦ καρποῦ τῆς σχίνου, ὡς εἴρηται ἐπὶ τῶν ἄλλων, σκευάζεται δὲ πάλιν ἄλλως ὥσπερ ἐπὶ τοῦ δαφνίνου προείρηται, μιγνυμένου τοῦ καρποῦ τῆς σχίνου ταῖς ἐλαίαις. χρήσιμον δὲ τὸ ἀμιγὲς καὶ καθαρὸν στόματι ῥευματιζομένῳ καὶ οὔλοις φλεγμαίνουσι θερμὸν ἐν τῷ στόματι διακατεχόμενον καὶ ἐν βαλανείῳ καὶ χωρὶς βαλανείου· ἀποκρουστικὸν γάρ ἐστι καὶ τονωτικὸν μετὰ τοῦ μὴ τραχύνειν. τὸ δὲ μικτὸν μᾶλλον παρηγορεῖ σὺν τῷ φυλάττειν τὸν τόνον, ὅθεν χρησίμως παραλαμβάνεται ἐπὶ ἥπατος καὶ στομάχου καταιονήσει.",
+  "text_source": "olivieri",
+  "emendations": [],
+  "emendation_count": 0,
+  "source_kind": null,
+  "entry_kind": "recipe",
+  "citation": {
+    "pages": [
+      "56",
+      "57"
+    ],
+    "start": {
+      "page": "56",
+      "line": "26",
+      "xml_id": "oliv-56-26"
+    },
+    "end": {
+      "page": "57",
+      "line": "6",
+      "xml_id": "oliv-57-6"
+    },
+    "citation": {
+      "start": "56.26",
+      "end": "57.6"
+    },
+    "page_spans": [
+      {
+        "page": "56",
+        "start_line": "26",
+        "end_line": "28"
+      },
+      {
+        "page": "57",
+        "start_line": "1",
+        "end_line": "6"
+      }
+    ],
+    "lines": [
+      {
+        "page": "56",
+        "line": "26",
+        "xml_id": "oliv-56-26",
+        "break_no": false,
+        "text": "Σχίνινον. Σκευάζεται καὶ τοῦτο ἐκ τοῦ καρποῦ τῆς σχίνου, ὡς",
+        "citation": "56.26"
+      },
+      {
+        "page": "56",
+        "line": "27",
+        "xml_id": "oliv-56-27",
+        "break_no": false,
+        "text": "εἴρηται ἐπὶ τῶν ἄλλων, σκευάζεται δὲ πάλιν ἄλλως ὥσπερ ἐπὶ τοῦ",
+        "citation": "56.27"
+      },
+      {
+        "page": "56",
+        "line": "28",
+        "xml_id": "oliv-56-28",
+        "break_no": false,
+        "text": "δαφνίνου προείρηται, μιγνυμένου τοῦ καρποῦ τῆς σχίνου ταῖς ἐλαίαις.",
+        "citation": "56.28"
+      },
+      {
+        "page": "57",
+        "line": "1",
+        "xml_id": "oliv-57-1",
+        "break_no": false,
+        "text": "χρήσιμον δὲ τὸ ἀμιγὲς καὶ καθαρὸν στόματι ῥευματιζομένῳ καὶ οὔλοις",
+        "citation": "57.1"
+      },
+      {
+        "page": "57",
+        "line": "2",
+        "xml_id": "oliv-57-2",
+        "break_no": false,
+        "text": "φλεγμαίνουσι θερμὸν ἐν τῷ στόματι διακατεχόμενον καὶ ἐν βαλανείῳ",
+        "citation": "57.2"
+      },
+      {
+        "page": "57",
+        "line": "3",
+        "xml_id": "oliv-57-3",
+        "break_no": false,
+        "text": "καὶ χωρὶς βαλανείου· ἀποκρουστικὸν γάρ ἐστι καὶ τονωτικὸν μετὰ τοῦ",
+        "citation": "57.3"
+      },
+      {
+        "page": "57",
+        "line": "4",
+        "xml_id": "oliv-57-4",
+        "break_no": false,
+        "text": "μὴ τραχύνειν. τὸ δὲ μικτὸν μᾶλλον παρηγορεῖ σὺν τῷ φυλάττειν τὸν",
+        "citation": "57.4"
+      },
+      {
+        "page": "57",
+        "line": "5",
+        "xml_id": "oliv-57-5",
+        "break_no": false,
+        "text": "τόνον, ὅθεν χρησίμως παραλαμβάνεται ἐπὶ ἥπατος καὶ στομάχου κατ-",
+        "citation": "57.5"
+      },
+      {
+        "page": "57",
+        "line": "6",
+        "xml_id": "oliv-57-6",
+        "break_no": true,
+        "text": "αιονήσει.",
+        "citation": "57.6"
+      }
+    ],
+    "edition_key": "olivieri"
+  },
+  "notes": [],
+  "alignment_status": "pending",
+  "alignment_confidence": "pending",
+  "alignment_evidence": null,
+  "review_status": "reviewed_structured_authority",
+  "review_provenance": {
+    "authority_source": "reports/entity_review/structured/aetius_book1.json",
+    "authority_recipe_id": "aetius-1-110",
+    "authority_lemma": "Σχίνινον",
+    "model": "gpt-5.4",
+    "reasoning_effort": "high",
+    "dataset_key": "aetius_book1_oils",
+    "entity_model_version": "1.2",
+    "authority_version": "2026-04-13-qty-alt-v1",
+    "prompt_version": "qty-alt-pass-v1",
+    "build_version": "2026-05-18T15:51:35Z"
+  },
+  "schema_version": "1.2",
+  "build_metadata": {
+    "builder": "scripts/recipes/build_recipe_entities.py",
+    "built_at": "2026-05-18T15:51:35Z",
+    "source_structured_authority": "reports/entity_review/structured/aetius_book1.json",
+    "authority_model": "gpt-5.4",
+    "authority_reasoning_effort": "high",
+    "dataset_key": "aetius_book1_oils",
+    "entity_model_version": "1.2",
+    "authority_version": "2026-04-13-qty-alt-v1",
+    "prompt_version": "qty-alt-pass-v1",
+    "build_version": "2026-05-18T15:51:35Z"
+  },
+  "recipe_text_excerpt": "Σχίνινον. Σκευάζεται καὶ τοῦτο ἐκ τοῦ καρποῦ τῆς σχίνου, ὡς εἴρηται ἐπὶ τῶν ἄλλων, σκευάζεται δὲ πάλιν ἄλλως ὥσπερ ἐπὶ",
+  "preparation": {
+    "preparation_id": "aetius-1-110:preparation:schininon",
+    "preparation_urn": "urn:aos:recipe-preparation:aetius-1-110:preparation:schininon",
+    "source_span": "Σχίνινον",
+    "surface_form": "Σχίνινον",
+    "normalized_label": "Σχίνινον",
+    "qualifiers": [],
+    "regimen_notes": [],
+    "certainty": "certain",
+    "notes": [],
+    "host_locator": {
+      "book": "1",
+      "chapter": "110",
+      "section": "110",
+      "citation": {
+        "start": "56.26",
+        "end": "57.6"
+      }
+    }
+  },
+  "ingredients": [
+    {
+      "ingredient_id": "aetius-1-110:ingredient:karpos-schinoy-1",
+      "ingredient_urn": "urn:aos:recipe-ingredient:aetius-1-110:ingredient:karpos-schinoy-1",
+      "source_span": "μιγνυμένου τοῦ καρποῦ τῆς σχίνου",
+      "surface_form": "μιγνυμένου τοῦ καρποῦ τῆς σχίνου",
+      "base_label": "καρπός",
+      "normalized_label": "καρπὸς σχίνου",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [
+        "aetius-1-110:process:mignynai-3"
+      ],
+      "quantities": [],
+      "qualifiers": [],
+      "notes": [
+        "Also mentioned in: ἐκ τοῦ καρποῦ τῆς σχίνου"
+      ],
+      "host_locator": {
+        "book": "1",
+        "chapter": "110",
+        "section": "110",
+        "citation": {
+          "start": "56.26",
+          "end": "57.6"
+        }
+      }
+    },
+    {
+      "ingredient_id": "aetius-1-110:ingredient:elaiai-2",
+      "ingredient_urn": "urn:aos:recipe-ingredient:aetius-1-110:ingredient:elaiai-2",
+      "source_span": "ταῖς ἐλαίαις",
+      "surface_form": "ταῖς ἐλαίαις",
+      "base_label": "ἐλαῖαι",
+      "normalized_label": "ἐλαῖαι",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [
+        "aetius-1-110:process:mignynai-3"
+      ],
+      "quantities": [],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "110",
+        "section": "110",
+        "citation": {
+          "start": "56.26",
+          "end": "57.6"
+        }
+      }
+    }
+  ],
+  "processes": [
+    {
+      "process_id": "aetius-1-110:process:skeyazein-1",
+      "process_urn": "urn:aos:recipe-process:aetius-1-110:process:skeyazein-1",
+      "source_span": "Σκευάζεται",
+      "surface_form": "Σκευάζεται",
+      "normalized_label": "σκευάζειν",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "other",
+          "source_span": "ἐκ τοῦ καρποῦ τῆς σχίνου",
+          "normalized_value": "ἐκ τοῦ καρποῦ τῆς σχίνου",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "110",
+        "section": "110",
+        "citation": {
+          "start": "56.26",
+          "end": "57.6"
+        }
+      }
+    },
+    {
+      "process_id": "aetius-1-110:process:skeyazein-2",
+      "process_urn": "urn:aos:recipe-process:aetius-1-110:process:skeyazein-2",
+      "source_span": "σκευάζεται",
+      "surface_form": "σκευάζεται",
+      "normalized_label": "σκευάζειν",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "manner",
+          "source_span": "πάλιν ἄλλως",
+          "normalized_value": "πάλιν ἄλλως",
+          "certainty": "certain",
+          "notes": []
+        },
+        {
+          "qualifier_type": "other",
+          "source_span": "ὥσπερ ἐπὶ τοῦ δαφνίνου προείρηται",
+          "normalized_value": "ὥσπερ ἐπὶ τοῦ δαφνίνου προείρηται",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "110",
+        "section": "110",
+        "citation": {
+          "start": "56.26",
+          "end": "57.6"
+        }
+      }
+    },
+    {
+      "process_id": "aetius-1-110:process:mignynai-3",
+      "process_urn": "urn:aos:recipe-process:aetius-1-110:process:mignynai-3",
+      "source_span": "μιγνυμένου",
+      "surface_form": "μιγνυμένου",
+      "normalized_label": "μιγνύναι",
+      "target_type": "ingredient",
+      "target_ids": [
+        "aetius-1-110:ingredient:karpos-schinoy-1",
+        "aetius-1-110:ingredient:elaiai-2"
+      ],
+      "quantities": [],
+      "qualifiers": [],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "110",
+        "section": "110",
+        "citation": {
+          "start": "56.26",
+          "end": "57.6"
+        }
+      }
+    },
+    {
+      "process_id": "aetius-1-110:process:diakatechein-4",
+      "process_urn": "urn:aos:recipe-process:aetius-1-110:process:diakatechein-4",
+      "source_span": "διακατεχόμενον",
+      "surface_form": "διακατεχόμενον",
+      "normalized_label": "διακατέχειν",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "temperature",
+          "source_span": "θερμὸν",
+          "normalized_value": "θερμόν",
+          "certainty": "certain",
+          "notes": []
+        },
+        {
+          "qualifier_type": "location",
+          "source_span": "ἐν τῷ στόματι",
+          "normalized_value": "ἐν τῷ στόματι",
+          "certainty": "certain",
+          "notes": []
+        },
+        {
+          "qualifier_type": "location",
+          "source_span": "ἐν βαλανείῳ",
+          "normalized_value": "ἐν βαλανείῳ",
+          "certainty": "certain",
+          "notes": []
+        },
+        {
+          "qualifier_type": "location",
+          "source_span": "χωρὶς βαλανείου",
+          "normalized_value": "χωρὶς βαλανείου",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "certainty": "certain",
+      "notes": [
+        "Applies to τὸ ἀμιγὲς καὶ καθαρὸν"
+      ],
+      "host_locator": {
+        "book": "1",
+        "chapter": "110",
+        "section": "110",
+        "citation": {
+          "start": "56.26",
+          "end": "57.6"
+        }
+      }
+    },
+    {
+      "process_id": "aetius-1-110:process:paralambanein-5",
+      "process_urn": "urn:aos:recipe-process:aetius-1-110:process:paralambanein-5",
+      "source_span": "παραλαμβάνεται",
+      "surface_form": "παραλαμβάνεται",
+      "normalized_label": "παραλαμβάνειν",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "manner",
+          "source_span": "χρησίμως",
+          "normalized_value": "χρησίμως",
+          "certainty": "certain",
+          "notes": []
+        },
+        {
+          "qualifier_type": "other",
+          "source_span": "ἐπὶ ἥπατος καὶ στομάχου καταιονήσει",
+          "normalized_value": "ἐπὶ ἥπατος καὶ στομάχου καταιονήσει",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "certainty": "certain",
+      "notes": [
+        "Applies to τὸ δὲ μικτὸν"
+      ],
+      "host_locator": {
+        "book": "1",
+        "chapter": "110",
+        "section": "110",
+        "citation": {
+          "start": "56.26",
+          "end": "57.6"
+        }
+      }
+    }
+  ],
+  "materials": [],
+  "people": [],
+  "places": [],
+  "uses": [
+    {
+      "use_id": "aetius-1-110:use:stomati-reymatizomeno-kai-oylois-phlegmainoysi-1",
+      "use_urn": "urn:aos:recipe-use:aetius-1-110:use:stomati-reymatizomeno-kai-oylois-phlegmainoysi-1",
+      "category": "medical",
+      "source_span": "στόματι ῥευματιζομένῳ καὶ οὔλοις φλεγμαίνουσι",
+      "snippet": "στόματι ῥευματιζομένῳ καὶ οὔλοις φλεγμαίνουσι",
+      "certainty": "certain",
+      "notes": [
+        "Use stated for τὸ ἀμιγὲς καὶ καθαρὸν"
+      ],
+      "host_locator": {
+        "book": "1",
+        "chapter": "110",
+        "section": "110",
+        "citation": {
+          "start": "56.26",
+          "end": "57.6"
+        }
+      }
+    },
+    {
+      "use_id": "aetius-1-110:use:epi-epatos-kai-stomachoy-kataionesei-2",
+      "use_urn": "urn:aos:recipe-use:aetius-1-110:use:epi-epatos-kai-stomachoy-kataionesei-2",
+      "category": "medical",
+      "source_span": "ἐπὶ ἥπατος καὶ στομάχου καταιονήσει",
+      "snippet": "ἐπὶ ἥπατος καὶ στομάχου καταιονήσει",
+      "certainty": "certain",
+      "notes": [
+        "Use stated for τὸ δὲ μικτὸν"
+      ],
+      "host_locator": {
+        "book": "1",
+        "chapter": "110",
+        "section": "110",
+        "citation": {
+          "start": "56.26",
+          "end": "57.6"
+        }
+      }
+    }
+  ],
+  "preparation_names": [],
+  "other_preparations_mentioned": [
+    {
+      "reference_id": "aetius-1-110:reference:daphninon-1",
+      "reference_urn": "urn:aos:recipe-reference:aetius-1-110:reference:daphninon-1",
+      "source_span": "τοῦ δαφνίνου",
+      "surface_form": "τοῦ δαφνίνου",
+      "normalized_label": "Δαφνίνον",
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "110",
+        "section": "110",
+        "citation": {
+          "start": "56.26",
+          "end": "57.6"
+        }
+      }
+    }
+  ],
+  "works_mentioned": [],
+  "entities": [
+    {
+      "entity_urn": "urn:aos:recipe-preparation:aetius-1-110:preparation:schininon",
+      "entity_type": "label",
+      "surface_form": "Σχίνινον",
+      "normalized_label": "Σχίνινον"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:aetius-1-110:ingredient:karpos-schinoy-1",
+      "entity_type": "ingredient",
+      "surface_form": "μιγνυμένου τοῦ καρποῦ τῆς σχίνου",
+      "normalized_label": "καρπὸς σχίνου"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:aetius-1-110:ingredient:elaiai-2",
+      "entity_type": "ingredient",
+      "surface_form": "ταῖς ἐλαίαις",
+      "normalized_label": "ἐλαῖαι"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:aetius-1-110:process:skeyazein-1",
+      "entity_type": "process",
+      "surface_form": "Σκευάζεται",
+      "normalized_label": "σκευάζειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:aetius-1-110:process:skeyazein-2",
+      "entity_type": "process",
+      "surface_form": "σκευάζεται",
+      "normalized_label": "σκευάζειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:aetius-1-110:process:mignynai-3",
+      "entity_type": "process",
+      "surface_form": "μιγνυμένου",
+      "normalized_label": "μιγνύναι"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:aetius-1-110:process:diakatechein-4",
+      "entity_type": "process",
+      "surface_form": "διακατεχόμενον",
+      "normalized_label": "διακατέχειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:aetius-1-110:process:paralambanein-5",
+      "entity_type": "process",
+      "surface_form": "παραλαμβάνεται",
+      "normalized_label": "παραλαμβάνειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-reference:aetius-1-110:reference:daphninon-1",
+      "entity_type": "preparation_reference",
+      "surface_form": "τοῦ δαφνίνου",
+      "normalized_label": "Δαφνίνον"
+    }
+  ],
+  "canonical_file": "data/recipes/aetius-1-110.json",
+  "source_entry": {
+    "source_id": "aetius-1-110",
+    "derived_recipe_id": "aetius-1-110",
+    "entry_kind": null,
+    "source_kind": null,
+    "source_lines": null,
+    "section_markers": []
+  },
+  "entity_groups": {
+    "labels": [
+      {
+        "entity_urn": "urn:aos:recipe-preparation:aetius-1-110:preparation:schininon",
+        "surface_form": "Σχίνινον",
+        "normalized_label": "Σχίνινον"
+      }
+    ],
+    "ingredients": [
+      {
+        "entity_urn": "urn:aos:recipe-ingredient:aetius-1-110:ingredient:karpos-schinoy-1",
+        "surface_form": "μιγνυμένου τοῦ καρποῦ τῆς σχίνου",
+        "normalized_label": "καρπὸς σχίνου",
+        "quantity_display": ""
+      },
+      {
+        "entity_urn": "urn:aos:recipe-ingredient:aetius-1-110:ingredient:elaiai-2",
+        "surface_form": "ταῖς ἐλαίαις",
+        "normalized_label": "ἐλαῖαι",
+        "quantity_display": ""
+      }
+    ],
+    "processes": [
+      {
+        "entity_urn": "urn:aos:recipe-process:aetius-1-110:process:skeyazein-1",
+        "surface_form": "Σκευάζεται",
+        "normalized_label": "σκευάζειν"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-process:aetius-1-110:process:skeyazein-2",
+        "surface_form": "σκευάζεται",
+        "normalized_label": "σκευάζειν"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-process:aetius-1-110:process:mignynai-3",
+        "surface_form": "μιγνυμένου",
+        "normalized_label": "μιγνύναι"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-process:aetius-1-110:process:diakatechein-4",
+        "surface_form": "διακατεχόμενον",
+        "normalized_label": "διακατέχειν"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-process:aetius-1-110:process:paralambanein-5",
+        "surface_form": "παραλαμβάνεται",
+        "normalized_label": "παραλαμβάνειν"
+      }
+    ],
+    "tools": [],
+    "other_preparations_mentioned": [
+      {
+        "entity_urn": "urn:aos:recipe-reference:aetius-1-110:reference:daphninon-1",
+        "surface_form": "τοῦ δαφνίνου",
+        "normalized_label": "Δαφνίνον"
+      }
+    ],
+    "people": [],
+    "places": [],
+    "works_mentioned": [],
+    "preparation_names": []
+  }
+}

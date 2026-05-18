@@ -1,0 +1,996 @@
+{
+  "dataset_key": "aetius_book16_myrepsika",
+  "source_json": "experiments/aetius-book16-ch126-153-myrepsika/data/aetius_book16_ch126_153_myrepsika.json",
+  "host_raw_file": "tei/raw/tlg0718016.xml",
+  "work_slug": "aetius.b16.myrepsika",
+  "recipe_id": "aetius-16-152",
+  "recipe_urn": "urn:aos:recipe:aetius-16-152",
+  "record_urn": "urn:aos:recipe-record:aetius-16-152",
+  "author": "Aëtius of Amida",
+  "work": "Libri medicinales",
+  "book": "16",
+  "chapter": "152",
+  "section": null,
+  "chapter_name": "θυμίαμα μυρεψικὸν ἡ φυκοτύχη",
+  "lemma": "θυμίαμα μυρεψικὸν ἡ φυκοτύχη",
+  "text": "Λιβάνου γοι. μυελοῦ ἐλαφείου, σμύρνης ἀνὰ δραχ. ζ. ψιμμυθίου, ὀπίου ἀνὰ δραχ. δ. μολύβδου κεκαυμένου καὶ πεπλυμένου, καὶ βουτύρου, λίθου αἱματίτου, ὠῶν ὀπτῶν λεκίθων, κηροῦ τυρρηνικοῦ ἀνὰ δραχ. δ. στυπτηρίας σχιστῆς δραχ. β. οἰσύπου ὑγροῦ, πομφόλυγος ἀνὰ δραχ. στ. στέατος χηνείου, ῥοδίνου, ἀνὰ δραχ. ιστ. τὰ ξηρὰ οἴνῳ βρέχε.",
+  "original_text": null,
+  "text_source": null,
+  "emendations": [],
+  "emendation_count": 0,
+  "source_kind": null,
+  "entry_kind": "recipe",
+  "citation": {
+    "pages": [
+      "172"
+    ],
+    "start": {
+      "page": "172",
+      "line": "1",
+      "xml_id": "zerv-172-1"
+    },
+    "end": {
+      "page": "172",
+      "line": "7",
+      "xml_id": "zerv-172-7"
+    },
+    "citation": {
+      "start": "172.1",
+      "end": "172.7"
+    },
+    "page_spans": [
+      {
+        "page": "172",
+        "start_line": "1",
+        "end_line": "7"
+      }
+    ],
+    "lines": [
+      {
+        "page": "172",
+        "line": "1",
+        "xml_id": "zerv-172-1",
+        "citation": "172.1",
+        "text": "ΘΥΜΙΑΜΑ ΜΥΡΕΨΙΚΟΝ Η ΦΥΚΟΤΥΧΗ."
+      },
+      {
+        "page": "172",
+        "line": "2",
+        "xml_id": "zerv-172-2",
+        "citation": "172.2",
+        "text": "Λιβάνου γοι. μυελοῦ ἐλαφείου, σμύρνης ἀνὰ δραχ. ζ. ψιμ-"
+      },
+      {
+        "page": "172",
+        "line": "3",
+        "xml_id": "zerv-172-3",
+        "citation": "172.3",
+        "text": "μυθίου, ὀπίου ἀνὰ δραχ. δ. μολύβδου κεκαυμένου καὶ πεπλυμένου,"
+      },
+      {
+        "page": "172",
+        "line": "4",
+        "xml_id": "zerv-172-4",
+        "citation": "172.4",
+        "text": "καὶ βουτύρου, λίθου αἱματίτου, ὠῶν ὀπτῶν λεκίθων, κηροῦ τυρ-"
+      },
+      {
+        "page": "172",
+        "line": "5",
+        "xml_id": "zerv-172-5",
+        "citation": "172.5",
+        "text": "ρηνικοῦ ἀνὰ δραχ. δ. στυπτηρίας σχιστῆς δραχ. β. οἰσύπου ὑγροῦ,"
+      },
+      {
+        "page": "172",
+        "line": "6",
+        "xml_id": "zerv-172-6",
+        "citation": "172.6",
+        "text": "πομφόλυγος ἀνὰ δραχ. στ. στέατος χηνείου, ῥοδίνου, ἀνὰ δραχ."
+      },
+      {
+        "page": "172",
+        "line": "7",
+        "xml_id": "zerv-172-7",
+        "citation": "172.7",
+        "text": "ιστ. τὰ ξηρὰ οἴνῳ βρέχε."
+      }
+    ],
+    "edition_key": "zervos"
+  },
+  "notes": [
+    "The distributive ἀνὰ governs the shared δραχμή quantities for several coordinated ingredient clusters."
+  ],
+  "alignment_status": "pending",
+  "alignment_confidence": "pending",
+  "alignment_evidence": null,
+  "review_status": "reviewed_structured_authority",
+  "review_provenance": {
+    "authority_source": "reports/entity_review/structured/aetius_book16.json",
+    "authority_recipe_id": "aetius-16-152",
+    "authority_lemma": "θυμίαμα μυρεψικὸν ἡ φυκοτύχη",
+    "model": "gpt-5.4",
+    "reasoning_effort": "high",
+    "dataset_key": "aetius_book16_myrepsika",
+    "entity_model_version": "1.2",
+    "authority_version": "2026-04-13-qty-alt-v1",
+    "prompt_version": "qty-alt-pass-v1",
+    "build_version": "2026-05-18T15:51:35Z"
+  },
+  "schema_version": "1.2",
+  "build_metadata": {
+    "builder": "scripts/recipes/build_recipe_entities.py",
+    "built_at": "2026-05-18T15:51:35Z",
+    "source_structured_authority": "reports/entity_review/structured/aetius_book16.json",
+    "authority_model": "gpt-5.4",
+    "authority_reasoning_effort": "high",
+    "dataset_key": "aetius_book16_myrepsika",
+    "entity_model_version": "1.2",
+    "authority_version": "2026-04-13-qty-alt-v1",
+    "prompt_version": "qty-alt-pass-v1",
+    "build_version": "2026-05-18T15:51:35Z"
+  },
+  "recipe_text_excerpt": "Λιβάνου γοι. μυελοῦ ἐλαφείου, σμύρνης ἀνὰ δραχ. ζ. ψιμμυθίου, ὀπίου ἀνὰ δραχ. δ. μολύβδου κεκαυμένου καὶ πεπλυμένου, καὶ βουτύρου, λίθου",
+  "preparation": {
+    "preparation_id": "aetius-16-152:preparation:thymiama-myrepsikon-e-phykotyche",
+    "preparation_urn": "urn:aos:recipe-preparation:aetius-16-152:preparation:thymiama-myrepsikon-e-phykotyche",
+    "source_span": "θυμίαμα μυρεψικὸν ἡ φυκοτύχη",
+    "surface_form": "θυμίαμα μυρεψικὸν ἡ φυκοτύχη",
+    "normalized_label": "θυμίαμα μυρεψικὸν ἡ φυκοτύχη",
+    "qualifiers": [],
+    "regimen_notes": [],
+    "certainty": "certain",
+    "notes": [],
+    "host_locator": {
+      "book": "16",
+      "chapter": "152",
+      "section": null,
+      "citation": {
+        "start": "172.1",
+        "end": "172.7"
+      }
+    }
+  },
+  "ingredients": [
+    {
+      "ingredient_id": "aetius-16-152:ingredient:libanos-1",
+      "ingredient_urn": "urn:aos:recipe-ingredient:aetius-16-152:ingredient:libanos-1",
+      "source_span": "Λιβάνου",
+      "surface_form": "Λιβάνου",
+      "base_label": "λίβανος",
+      "normalized_label": "λίβανος",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [],
+      "quantities": [
+        {
+          "source_span": "γοι.",
+          "raw_number": null,
+          "normalized_number": null,
+          "raw_unit": "γοι.",
+          "normalized_unit": null,
+          "certainty": "uncertain",
+          "notes": [
+            "The abbreviation is retained as transmitted and not further normalized."
+          ]
+        }
+      ],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "16",
+        "chapter": "152",
+        "section": null,
+        "citation": {
+          "start": "172.1",
+          "end": "172.7"
+        }
+      }
+    },
+    {
+      "ingredient_id": "aetius-16-152:ingredient:myelos-elapheios-2",
+      "ingredient_urn": "urn:aos:recipe-ingredient:aetius-16-152:ingredient:myelos-elapheios-2",
+      "source_span": "μυελοῦ ἐλαφείου",
+      "surface_form": "μυελοῦ ἐλαφείου",
+      "base_label": "μυελός",
+      "normalized_label": "μυελὸς ἐλάφειος",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [],
+      "quantities": [
+        {
+          "source_span": "δραχ. ζ.",
+          "raw_number": "ζ",
+          "normalized_number": 7,
+          "raw_unit": "δραχ.",
+          "normalized_unit": "drachme",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "qualifiers": [
+        {
+          "qualifier_type": "other",
+          "source_span": "ἐλαφείου",
+          "normalized_value": "ἐλάφειος",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "notes": [],
+      "host_locator": {
+        "book": "16",
+        "chapter": "152",
+        "section": null,
+        "citation": {
+          "start": "172.1",
+          "end": "172.7"
+        }
+      }
+    },
+    {
+      "ingredient_id": "aetius-16-152:ingredient:smyrna-3",
+      "ingredient_urn": "urn:aos:recipe-ingredient:aetius-16-152:ingredient:smyrna-3",
+      "source_span": "σμύρνης",
+      "surface_form": "σμύρνης",
+      "base_label": "σμύρνα",
+      "normalized_label": "σμύρνα",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [],
+      "quantities": [
+        {
+          "source_span": "δραχ. ζ.",
+          "raw_number": "ζ",
+          "normalized_number": 7,
+          "raw_unit": "δραχ.",
+          "normalized_unit": "drachme",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "16",
+        "chapter": "152",
+        "section": null,
+        "citation": {
+          "start": "172.1",
+          "end": "172.7"
+        }
+      }
+    },
+    {
+      "ingredient_id": "aetius-16-152:ingredient:psimythion-4",
+      "ingredient_urn": "urn:aos:recipe-ingredient:aetius-16-152:ingredient:psimythion-4",
+      "source_span": "ψιμμυθίου",
+      "surface_form": "ψιμμυθίου",
+      "base_label": "ψιμύθιον",
+      "normalized_label": "ψιμύθιον",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [],
+      "quantities": [
+        {
+          "source_span": "δραχ. δ.",
+          "raw_number": "δ",
+          "normalized_number": 4,
+          "raw_unit": "δραχ.",
+          "normalized_unit": "drachme",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "16",
+        "chapter": "152",
+        "section": null,
+        "citation": {
+          "start": "172.1",
+          "end": "172.7"
+        }
+      }
+    },
+    {
+      "ingredient_id": "aetius-16-152:ingredient:opion-5",
+      "ingredient_urn": "urn:aos:recipe-ingredient:aetius-16-152:ingredient:opion-5",
+      "source_span": "ὀπίου",
+      "surface_form": "ὀπίου",
+      "base_label": "ὄπιον",
+      "normalized_label": "ὄπιον",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [],
+      "quantities": [
+        {
+          "source_span": "δραχ. δ.",
+          "raw_number": "δ",
+          "normalized_number": 4,
+          "raw_unit": "δραχ.",
+          "normalized_unit": "drachme",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "16",
+        "chapter": "152",
+        "section": null,
+        "citation": {
+          "start": "172.1",
+          "end": "172.7"
+        }
+      }
+    },
+    {
+      "ingredient_id": "aetius-16-152:ingredient:molybdos-6",
+      "ingredient_urn": "urn:aos:recipe-ingredient:aetius-16-152:ingredient:molybdos-6",
+      "source_span": "μολύβδου κεκαυμένου καὶ πεπλυμένου",
+      "surface_form": "μολύβδου κεκαυμένου καὶ πεπλυμένου",
+      "base_label": "μόλυβδος",
+      "normalized_label": "μόλυβδος",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [
+        "aetius-16-152:process:kaiein-1",
+        "aetius-16-152:process:plynein-2"
+      ],
+      "quantities": [
+        {
+          "source_span": "δραχ. δ.",
+          "raw_number": "δ",
+          "normalized_number": 4,
+          "raw_unit": "δραχ.",
+          "normalized_unit": "drachme",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "16",
+        "chapter": "152",
+        "section": null,
+        "citation": {
+          "start": "172.1",
+          "end": "172.7"
+        }
+      }
+    },
+    {
+      "ingredient_id": "aetius-16-152:ingredient:boytyron-7",
+      "ingredient_urn": "urn:aos:recipe-ingredient:aetius-16-152:ingredient:boytyron-7",
+      "source_span": "βουτύρου",
+      "surface_form": "βουτύρου",
+      "base_label": "βούτυρον",
+      "normalized_label": "βούτυρον",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [],
+      "quantities": [
+        {
+          "source_span": "δραχ. δ.",
+          "raw_number": "δ",
+          "normalized_number": 4,
+          "raw_unit": "δραχ.",
+          "normalized_unit": "drachme",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "16",
+        "chapter": "152",
+        "section": null,
+        "citation": {
+          "start": "172.1",
+          "end": "172.7"
+        }
+      }
+    },
+    {
+      "ingredient_id": "aetius-16-152:ingredient:lithos-aimatites-8",
+      "ingredient_urn": "urn:aos:recipe-ingredient:aetius-16-152:ingredient:lithos-aimatites-8",
+      "source_span": "λίθου αἱματίτου",
+      "surface_form": "λίθου αἱματίτου",
+      "base_label": "λίθος",
+      "normalized_label": "λίθος αἱματίτης",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [],
+      "quantities": [
+        {
+          "source_span": "δραχ. δ.",
+          "raw_number": "δ",
+          "normalized_number": 4,
+          "raw_unit": "δραχ.",
+          "normalized_unit": "drachme",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "qualifiers": [
+        {
+          "qualifier_type": "other",
+          "source_span": "αἱματίτου",
+          "normalized_value": "αἱματίτης",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "notes": [],
+      "host_locator": {
+        "book": "16",
+        "chapter": "152",
+        "section": null,
+        "citation": {
+          "start": "172.1",
+          "end": "172.7"
+        }
+      }
+    },
+    {
+      "ingredient_id": "aetius-16-152:ingredient:lekithos-ooy-9",
+      "ingredient_urn": "urn:aos:recipe-ingredient:aetius-16-152:ingredient:lekithos-ooy-9",
+      "source_span": "ὠῶν ὀπτῶν λεκίθων",
+      "surface_form": "ὠῶν ὀπτῶν λεκίθων",
+      "base_label": "λέκιθος",
+      "normalized_label": "λέκιθος ᾠοῦ",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [
+        "aetius-16-152:process:optan-3"
+      ],
+      "quantities": [
+        {
+          "source_span": "δραχ. δ.",
+          "raw_number": "δ",
+          "normalized_number": 4,
+          "raw_unit": "δραχ.",
+          "normalized_unit": "drachme",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "16",
+        "chapter": "152",
+        "section": null,
+        "citation": {
+          "start": "172.1",
+          "end": "172.7"
+        }
+      }
+    },
+    {
+      "ingredient_id": "aetius-16-152:ingredient:keros-tyrrenikos-10",
+      "ingredient_urn": "urn:aos:recipe-ingredient:aetius-16-152:ingredient:keros-tyrrenikos-10",
+      "source_span": "κηροῦ τυρρηνικοῦ",
+      "surface_form": "κηροῦ τυρρηνικοῦ",
+      "base_label": "κηρός",
+      "normalized_label": "κηρὸς τυρρηνικός",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [],
+      "quantities": [
+        {
+          "source_span": "δραχ. δ.",
+          "raw_number": "δ",
+          "normalized_number": 4,
+          "raw_unit": "δραχ.",
+          "normalized_unit": "drachme",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "qualifiers": [
+        {
+          "qualifier_type": "other",
+          "source_span": "τυρρηνικοῦ",
+          "normalized_value": "τυρρηνικός",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "notes": [],
+      "host_locator": {
+        "book": "16",
+        "chapter": "152",
+        "section": null,
+        "citation": {
+          "start": "172.1",
+          "end": "172.7"
+        }
+      }
+    },
+    {
+      "ingredient_id": "aetius-16-152:ingredient:stypteria-schiste-11",
+      "ingredient_urn": "urn:aos:recipe-ingredient:aetius-16-152:ingredient:stypteria-schiste-11",
+      "source_span": "στυπτηρίας σχιστῆς",
+      "surface_form": "στυπτηρίας σχιστῆς",
+      "base_label": "στυπτηρία",
+      "normalized_label": "στυπτηρία σχιστή",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [],
+      "quantities": [
+        {
+          "source_span": "δραχ. β.",
+          "raw_number": "β",
+          "normalized_number": 2,
+          "raw_unit": "δραχ.",
+          "normalized_unit": "drachme",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "qualifiers": [
+        {
+          "qualifier_type": "other",
+          "source_span": "σχιστῆς",
+          "normalized_value": "σχιστή",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "notes": [],
+      "host_locator": {
+        "book": "16",
+        "chapter": "152",
+        "section": null,
+        "citation": {
+          "start": "172.1",
+          "end": "172.7"
+        }
+      }
+    },
+    {
+      "ingredient_id": "aetius-16-152:ingredient:oisypos-ygros-12",
+      "ingredient_urn": "urn:aos:recipe-ingredient:aetius-16-152:ingredient:oisypos-ygros-12",
+      "source_span": "οἰσύπου ὑγροῦ",
+      "surface_form": "οἰσύπου ὑγροῦ",
+      "base_label": "οἴσυπος",
+      "normalized_label": "οἴσυπος ὑγρός",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [],
+      "quantities": [
+        {
+          "source_span": "δραχ. στ.",
+          "raw_number": "στ",
+          "normalized_number": 6,
+          "raw_unit": "δραχ.",
+          "normalized_unit": "drachme",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "qualifiers": [
+        {
+          "qualifier_type": "other",
+          "source_span": "ὑγροῦ",
+          "normalized_value": "ὑγρός",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "notes": [],
+      "host_locator": {
+        "book": "16",
+        "chapter": "152",
+        "section": null,
+        "citation": {
+          "start": "172.1",
+          "end": "172.7"
+        }
+      }
+    },
+    {
+      "ingredient_id": "aetius-16-152:ingredient:pompholyx-13",
+      "ingredient_urn": "urn:aos:recipe-ingredient:aetius-16-152:ingredient:pompholyx-13",
+      "source_span": "πομφόλυγος",
+      "surface_form": "πομφόλυγος",
+      "base_label": "πομφόλυξ",
+      "normalized_label": "πομφόλυξ",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [],
+      "quantities": [
+        {
+          "source_span": "δραχ. στ.",
+          "raw_number": "στ",
+          "normalized_number": 6,
+          "raw_unit": "δραχ.",
+          "normalized_unit": "drachme",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "16",
+        "chapter": "152",
+        "section": null,
+        "citation": {
+          "start": "172.1",
+          "end": "172.7"
+        }
+      }
+    },
+    {
+      "ingredient_id": "aetius-16-152:ingredient:stear-cheneion-14",
+      "ingredient_urn": "urn:aos:recipe-ingredient:aetius-16-152:ingredient:stear-cheneion-14",
+      "source_span": "στέατος χηνείου",
+      "surface_form": "στέατος χηνείου",
+      "base_label": "στέαρ",
+      "normalized_label": "στέαρ χήνειον",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [],
+      "quantities": [
+        {
+          "source_span": "δραχ. ιστ.",
+          "raw_number": "ιστ",
+          "normalized_number": 16,
+          "raw_unit": "δραχ.",
+          "normalized_unit": "drachme",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "qualifiers": [
+        {
+          "qualifier_type": "other",
+          "source_span": "χηνείου",
+          "normalized_value": "χήνειον",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "notes": [],
+      "host_locator": {
+        "book": "16",
+        "chapter": "152",
+        "section": null,
+        "citation": {
+          "start": "172.1",
+          "end": "172.7"
+        }
+      }
+    },
+    {
+      "ingredient_id": "aetius-16-152:ingredient:rodinon-15",
+      "ingredient_urn": "urn:aos:recipe-ingredient:aetius-16-152:ingredient:rodinon-15",
+      "source_span": "ῥοδίνου",
+      "surface_form": "ῥοδίνου",
+      "base_label": "ῥόδινον",
+      "normalized_label": "ῥόδινον",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [],
+      "quantities": [
+        {
+          "source_span": "δραχ. ιστ.",
+          "raw_number": "ιστ",
+          "normalized_number": 16,
+          "raw_unit": "δραχ.",
+          "normalized_unit": "drachme",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "16",
+        "chapter": "152",
+        "section": null,
+        "citation": {
+          "start": "172.1",
+          "end": "172.7"
+        }
+      }
+    }
+  ],
+  "processes": [
+    {
+      "process_id": "aetius-16-152:process:kaiein-1",
+      "process_urn": "urn:aos:recipe-process:aetius-16-152:process:kaiein-1",
+      "source_span": "κεκαυμένου",
+      "surface_form": "κεκαυμένου",
+      "normalized_label": "καίειν",
+      "target_type": "ingredient",
+      "target_ids": [
+        "aetius-16-152:ingredient:molybdos-6"
+      ],
+      "quantities": [],
+      "qualifiers": [],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "16",
+        "chapter": "152",
+        "section": null,
+        "citation": {
+          "start": "172.1",
+          "end": "172.7"
+        }
+      }
+    },
+    {
+      "process_id": "aetius-16-152:process:plynein-2",
+      "process_urn": "urn:aos:recipe-process:aetius-16-152:process:plynein-2",
+      "source_span": "πεπλυμένου",
+      "surface_form": "πεπλυμένου",
+      "normalized_label": "πλύνειν",
+      "target_type": "ingredient",
+      "target_ids": [
+        "aetius-16-152:ingredient:molybdos-6"
+      ],
+      "quantities": [],
+      "qualifiers": [],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "16",
+        "chapter": "152",
+        "section": null,
+        "citation": {
+          "start": "172.1",
+          "end": "172.7"
+        }
+      }
+    },
+    {
+      "process_id": "aetius-16-152:process:optan-3",
+      "process_urn": "urn:aos:recipe-process:aetius-16-152:process:optan-3",
+      "source_span": "ὀπτῶν",
+      "surface_form": "ὀπτῶν",
+      "normalized_label": "ὀπτᾶν",
+      "target_type": "ingredient",
+      "target_ids": [
+        "aetius-16-152:ingredient:lekithos-ooy-9"
+      ],
+      "quantities": [],
+      "qualifiers": [],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "16",
+        "chapter": "152",
+        "section": null,
+        "citation": {
+          "start": "172.1",
+          "end": "172.7"
+        }
+      }
+    },
+    {
+      "process_id": "aetius-16-152:process:brechein-4",
+      "process_urn": "urn:aos:recipe-process:aetius-16-152:process:brechein-4",
+      "source_span": "βρέχε",
+      "surface_form": "βρέχε",
+      "normalized_label": "βρέχειν",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "other",
+          "source_span": "τὰ ξηρὰ",
+          "normalized_value": "τὰ ξηρά",
+          "certainty": "certain",
+          "notes": [
+            "Direct object specifying the dry components."
+          ]
+        }
+      ],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "16",
+        "chapter": "152",
+        "section": null,
+        "citation": {
+          "start": "172.1",
+          "end": "172.7"
+        }
+      }
+    }
+  ],
+  "materials": [
+    {
+      "material_id": "aetius-16-152:material:oinos-1",
+      "material_urn": "urn:aos:recipe-material:aetius-16-152:material:oinos-1",
+      "source_span": "οἴνῳ",
+      "surface_form": "οἴνῳ",
+      "normalized_label": "οἶνος",
+      "role": "carrier",
+      "certainty": "certain",
+      "quantities": [],
+      "qualifiers": [],
+      "notes": [
+        "Used in the moistening step."
+      ],
+      "host_locator": {
+        "book": "16",
+        "chapter": "152",
+        "section": null,
+        "citation": {
+          "start": "172.1",
+          "end": "172.7"
+        }
+      }
+    }
+  ],
+  "people": [],
+  "places": [],
+  "uses": [],
+  "preparation_names": [
+    {
+      "preparation_name_id": "aetius-16-152:preparation_name:phykotyche-1",
+      "preparation_name_urn": "urn:aos:recipe-preparation_name:aetius-16-152:preparation_name:phykotyche-1",
+      "source_span": "ἡ φυκοτύχη",
+      "surface_form": "ἡ φυκοτύχη",
+      "normalized_label": "φυκοτύχη",
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "16",
+        "chapter": "152",
+        "section": null,
+        "citation": {
+          "start": "172.1",
+          "end": "172.7"
+        }
+      }
+    }
+  ],
+  "other_preparations_mentioned": [],
+  "works_mentioned": [],
+  "entities": [
+    {
+      "entity_urn": "urn:aos:recipe-preparation:aetius-16-152:preparation:thymiama-myrepsikon-e-phykotyche",
+      "entity_type": "label",
+      "surface_form": "θυμίαμα μυρεψικὸν ἡ φυκοτύχη",
+      "normalized_label": "θυμίαμα μυρεψικὸν ἡ φυκοτύχη"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:aetius-16-152:ingredient:libanos-1",
+      "entity_type": "ingredient",
+      "surface_form": "Λιβάνου",
+      "normalized_label": "λίβανος"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:aetius-16-152:ingredient:myelos-elapheios-2",
+      "entity_type": "ingredient",
+      "surface_form": "μυελοῦ ἐλαφείου",
+      "normalized_label": "μυελὸς ἐλάφειος"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:aetius-16-152:ingredient:smyrna-3",
+      "entity_type": "ingredient",
+      "surface_form": "σμύρνης",
+      "normalized_label": "σμύρνα"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:aetius-16-152:ingredient:psimythion-4",
+      "entity_type": "ingredient",
+      "surface_form": "ψιμμυθίου",
+      "normalized_label": "ψιμύθιον"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:aetius-16-152:ingredient:opion-5",
+      "entity_type": "ingredient",
+      "surface_form": "ὀπίου",
+      "normalized_label": "ὄπιον"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:aetius-16-152:ingredient:molybdos-6",
+      "entity_type": "ingredient",
+      "surface_form": "μολύβδου κεκαυμένου καὶ πεπλυμένου",
+      "normalized_label": "μόλυβδος"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:aetius-16-152:ingredient:boytyron-7",
+      "entity_type": "ingredient",
+      "surface_form": "βουτύρου",
+      "normalized_label": "βούτυρον"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:aetius-16-152:ingredient:lithos-aimatites-8",
+      "entity_type": "ingredient",
+      "surface_form": "λίθου αἱματίτου",
+      "normalized_label": "λίθος αἱματίτης"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:aetius-16-152:ingredient:lekithos-ooy-9",
+      "entity_type": "ingredient",
+      "surface_form": "ὠῶν ὀπτῶν λεκίθων",
+      "normalized_label": "λέκιθος ᾠοῦ"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:aetius-16-152:ingredient:keros-tyrrenikos-10",
+      "entity_type": "ingredient",
+      "surface_form": "κηροῦ τυρρηνικοῦ",
+      "normalized_label": "κηρὸς τυρρηνικός"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:aetius-16-152:ingredient:stypteria-schiste-11",
+      "entity_type": "ingredient",
+      "surface_form": "στυπτηρίας σχιστῆς",
+      "normalized_label": "στυπτηρία σχιστή"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:aetius-16-152:ingredient:oisypos-ygros-12",
+      "entity_type": "ingredient",
+      "surface_form": "οἰσύπου ὑγροῦ",
+      "normalized_label": "οἴσυπος ὑγρός"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:aetius-16-152:ingredient:pompholyx-13",
+      "entity_type": "ingredient",
+      "surface_form": "πομφόλυγος",
+      "normalized_label": "πομφόλυξ"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:aetius-16-152:ingredient:stear-cheneion-14",
+      "entity_type": "ingredient",
+      "surface_form": "στέατος χηνείου",
+      "normalized_label": "στέαρ χήνειον"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:aetius-16-152:ingredient:rodinon-15",
+      "entity_type": "ingredient",
+      "surface_form": "ῥοδίνου",
+      "normalized_label": "ῥόδινον"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:aetius-16-152:process:kaiein-1",
+      "entity_type": "process",
+      "surface_form": "κεκαυμένου",
+      "normalized_label": "καίειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:aetius-16-152:process:plynein-2",
+      "entity_type": "process",
+      "surface_form": "πεπλυμένου",
+      "normalized_label": "πλύνειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:aetius-16-152:process:optan-3",
+      "entity_type": "process",
+      "surface_form": "ὀπτῶν",
+      "normalized_label": "ὀπτᾶν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:aetius-16-152:process:brechein-4",
+      "entity_type": "process",
+      "surface_form": "βρέχε",
+      "normalized_label": "βρέχειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-material:aetius-16-152:material:oinos-1",
+      "entity_type": "material",
+      "surface_form": "οἴνῳ",
+      "normalized_label": "οἶνος"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-preparation_name:aetius-16-152:preparation_name:phykotyche-1",
+      "entity_type": "preparation_name",
+      "surface_form": "ἡ φυκοτύχη",
+      "normalized_label": "φυκοτύχη"
+    }
+  ]
+}

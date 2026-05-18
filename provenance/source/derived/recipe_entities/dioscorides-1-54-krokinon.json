@@ -1,0 +1,1272 @@
+{
+  "dataset_key": "dioscorides_book1_perfumes_resins",
+  "source_json": "experiments/dioscorides-book1-perfumes-resins/data/dioscorides_book1_perfumes_resins.json",
+  "host_raw_file": "tei/raw/tlg0656.tlg001.1st1K-grc1.xml",
+  "work_slug": "diosc.b1.recipes",
+  "recipe_id": "dioscorides-1-54-krokinon",
+  "recipe_urn": "urn:aos:recipe:dioscorides-1-54-krokinon",
+  "record_urn": "urn:aos:recipe-record:dioscorides-1-54-krokinon",
+  "author": "Dioscorides",
+  "work": "De materia medica",
+  "book": "1",
+  "chapter": "54",
+  "section": null,
+  "chapter_name": "κρόκινον",
+  "lemma": "κρόκινον",
+  "text": "54 κρόκινον δὲ σκευάζων προστύψεις τὸ ἔλαιον, ὡς εἴρηται ἐπὶ τοῦ σουσίνου, πλήθει καὶ συσταθμίᾳ τῇ αὐτῇ. λαβὼν δὲ ἐκ τοῦ ἐστυμμένου ἐλαίου εἰς τὸ σούσινον λίτρας τρεῖς ἥμισυ βάλε κρόκου δραχμὰς πεντήκοντα καὶ ἀνακίνει πλεονάκις τῆς ἡμέρας, ποιῶν τοῦτο συνεχῶς ἐπὶ ἡμέρας πέντε. ἀπήθει δὲ τὸ ἔλαιον τῇ ἕκτῃ ἀπὸ τοῦ κρόκου καθαρίως, τῷ δὲ αὐτῷ κρόκῳ ἐπίχει τὸ ἴσον πλῆθος τοῦ ἐλαίου καὶ ἀνακίνει ἡμέρας δέκα, εἶτα ἀποχέας πρόσμειξον σμύρνης κεκομμένης καὶ σεσησμένης δραχμὰς τεσσαράκοντα καὶ κίνει ἐν ὅλμῳ χρηδίμως, εἶτα ἀπόθου. ἔνιοι δὲ τῷ εἰς τὸ κύπρινον ἠρωματισμένῳ ἐλαίῳ καὶ εἰς τὸ κρόκινον χρῶνται. ἔστι δὲ αὐτοῦ κράτιστον τὸ κατακόρως κρόκου πνέον, ὅπερ εἰς τὴν ἰατρικὴν χρῆσιν ἁρμόζει, δεύτερον δὲ τὸ σμύρνης παρεμφαῖνον. 2 δύναμιν δὲ ἔχει θερμαντικήν, ὑπνωτικήν, ὅθεν πολλάκις ἐπὶ τῶν φρενιτικῶν ἥρμοσεν ἐν καταβροχαῖς ἢ ἀποσφρανθὲν καὶ τῶν μυξωτήρων διαχρισθέντων. ἐστι δὲ καὶ πυοποιὸν καὶ ἑλκῶν καθαρτικόν, καὶ πρὸς τὰς ἐν τῇ μήτρᾳ σκληρίας καὶ μύσεις καὶ τὰ ἐν αὐτῇ κακοήθη σὺν κηρῷ καὶ κρόκῳ καὶ μυελῷ καὶ ἐλαίῳ διπλασίονι· συμπέττει γὰρ καὶ μαλάττει καὶ πραύνει καὶ ὑγραίνει· ποιεῖ καὶ πρὸς τὰς ἀπογλαυκώσεις μεθʼ ὕδατος ὑπαλειφόμενον. ἀναλογεῖ δὲ αὐτῷ καὶ τὸ λεγόμενον ὀνύχινον καὶ βουτύρινον καὶ στυράκινον, τοῖς ὀνόμασι μόνον διαφέροντα, τῇ μέντοι σκευασίᾳ καὶ τῇ δυνάμει παρόμοια ὄντα.",
+  "original_text": null,
+  "text_source": null,
+  "emendations": [],
+  "emendation_count": 0,
+  "source_kind": "main_text",
+  "entry_kind": "recipe",
+  "citation": {
+    "pages": [
+      "50"
+    ],
+    "start": {
+      "page": "50",
+      "line": "1"
+    },
+    "end": {
+      "page": "50",
+      "line": "20"
+    },
+    "citation": {
+      "start": "50.1",
+      "end": "50.20"
+    },
+    "page_spans": [
+      {
+        "page": "50",
+        "start_line": "1",
+        "end_line": "20"
+      }
+    ],
+    "lines": [
+      {
+        "page": "50",
+        "line": "1",
+        "break_no": false,
+        "text": "54 κρόκινον δὲ σκευάζων προστύψεις τὸ ἔλαιον, ὡς εἴρηται ἐπὶ τοῦ σουσίνου, πλήθει καὶ συσταθμίᾳ τῇ αὐτῇ. λαβὼν δὲ ἐκ τοῦ ἐστυμμένου ἐλαίου εἰς τὸ σούσινον λίτρας τρεῖς ἥμισυ βάλε κρόκου δραχμὰς πεντήκοντα καὶ ἀνακίνει πλεονάκις τῆς ἡμέρας, ποιῶν τοῦτο συνεχῶς ἐπὶ ἡμέρας πέντε. ἀπήθει δὲ τὸ ἔλαιον",
+        "citation": "50.1"
+      },
+      {
+        "page": "50",
+        "line": "5",
+        "break_no": false,
+        "text": "τῇ ἕκτῃ ἀπὸ τοῦ κρόκου καθαρίως, τῷ δὲ αὐτῷ κρόκῳ ἐπίχει τὸ ἴσον πλῆθος τοῦ ἐλαίου καὶ ἀνακίνει ἡμέρας δέκα, εἶτα ἀποχέας πρόσμειξον σμύρνης κεκομμένης καὶ σεσησμένης δραχμὰς τεσσαράκοντα καὶ κίνει ἐν ὅλμῳ χρηδίμως, εἶτα ἀπόθου. ἔνιοι δὲ τῷ εἰς τὸ κύπρινον ἠρωματισμένῳ ἐλαίῳ καὶ εἰς τὸ κρόκινον χρῶνται.",
+        "citation": "50.5"
+      },
+      {
+        "page": "50",
+        "line": "10",
+        "break_no": false,
+        "text": "ἔστι δὲ αὐτοῦ κράτιστον τὸ κατακόρως κρόκου πνέον, ὅπερ εἰς τὴν ἰατρικὴν χρῆσιν ἁρμόζει, δεύτερον δὲ τὸ σμύρνης παρεμφαῖνον. 2 δύναμιν δὲ ἔχει θερμαντικήν, ὑπνωτικήν, ὅθεν πολλάκις ἐπὶ τῶν φρενιτικῶν ἥρμοσεν ἐν καταβροχαῖς ἢ ἀποσφρανθὲν καὶ τῶν μυξωτήρων διαχρισθέντων. ἐστι δὲ καὶ πυοποιὸν καὶ",
+        "citation": "50.10"
+      },
+      {
+        "page": "50",
+        "line": "15",
+        "break_no": false,
+        "text": "ἑλκῶν καθαρτικόν, καὶ πρὸς τὰς ἐν τῇ μήτρᾳ σκληρίας καὶ μύσεις καὶ τὰ ἐν αὐτῇ κακοήθη σὺν κηρῷ καὶ κρόκῳ καὶ μυελῷ καὶ ἐλαίῳ διπλασίονι· συμπέττει γὰρ καὶ μαλάττει καὶ πραύνει καὶ ὑγραίνει· ποιεῖ καὶ πρὸς τὰς ἀπογλαυκώσεις μεθʼ ὕδατος ὑπαλειφόμενον. ἀναλογεῖ δὲ αὐτῷ καὶ τὸ λεγόμενον ὀνύχινον",
+        "citation": "50.15"
+      },
+      {
+        "page": "50",
+        "line": "20",
+        "break_no": false,
+        "text": "καὶ βουτύρινον καὶ στυράκινον, τοῖς ὀνόμασι μόνον διαφέροντα, τῇ μέντοι σκευασίᾳ καὶ τῇ δυνάμει παρόμοια ὄντα.",
+        "citation": "50.20"
+      }
+    ],
+    "edition_key": "wellmann"
+  },
+  "notes": [
+    "Raw lines 1590-1633 are book 1 chapter 25 in this witness, although the prompt referred to chapter 35.",
+    "The perfume proemium is taken from the later transition at chapter 42 section 2 (raw lines 2306-2342), not from the chapter 25 κῦφι entry.",
+    "The ἰασμέλαιον entry is preserved only in the apparatus as an addition from another recension."
+  ],
+  "alignment_status": "pending",
+  "alignment_confidence": "pending",
+  "alignment_evidence": null,
+  "review_status": "reviewed_structured_authority",
+  "review_provenance": {
+    "authority_source": "reports/entity_review/structured/dioscorides.json",
+    "authority_recipe_id": "dioscorides-1-54-krokinon",
+    "authority_lemma": "κρόκινον",
+    "model": "gpt-5.4",
+    "reasoning_effort": "high",
+    "dataset_key": "dioscorides_book1_perfumes_resins",
+    "entity_model_version": "1.2",
+    "authority_version": "2026-04-13-qty-alt-v1",
+    "prompt_version": "qty-alt-pass-v1",
+    "build_version": "2026-05-18T15:51:35Z"
+  },
+  "schema_version": "1.2",
+  "build_metadata": {
+    "builder": "scripts/recipes/build_recipe_entities.py",
+    "built_at": "2026-05-18T15:51:35Z",
+    "source_structured_authority": "reports/entity_review/structured/dioscorides.json",
+    "authority_model": "gpt-5.4",
+    "authority_reasoning_effort": "high",
+    "dataset_key": "dioscorides_book1_perfumes_resins",
+    "entity_model_version": "1.2",
+    "authority_version": "2026-04-13-qty-alt-v1",
+    "prompt_version": "qty-alt-pass-v1",
+    "build_version": "2026-05-18T15:51:35Z"
+  },
+  "recipe_text_excerpt": "κρόκινον δὲ σκευάζων προστύψεις τὸ ἔλαιον, ὡς εἴρηται ἐπὶ τοῦ σουσίνου, πλήθει καὶ συσταθμίᾳ τῇ αὐτῇ. λαβὼν δὲ ἐκ τοῦ",
+  "preparation": {
+    "preparation_id": "dioscorides-1-54-krokinon:preparation:krokinon",
+    "preparation_urn": "urn:aos:recipe-preparation:dioscorides-1-54-krokinon:preparation:krokinon",
+    "source_span": "κρόκινον",
+    "surface_form": "κρόκινον",
+    "normalized_label": "κρόκινον",
+    "qualifiers": [],
+    "regimen_notes": [],
+    "certainty": "certain",
+    "notes": [],
+    "host_locator": {
+      "book": "1",
+      "chapter": "54",
+      "section": null,
+      "citation": {
+        "start": "50.1",
+        "end": "50.20"
+      }
+    }
+  },
+  "ingredients": [
+    {
+      "ingredient_id": "dioscorides-1-54-krokinon:ingredient:elaion-1",
+      "ingredient_urn": "urn:aos:recipe-ingredient:dioscorides-1-54-krokinon:ingredient:elaion-1",
+      "source_span": "τοῦ ἐστυμμένου ἐλαίου",
+      "surface_form": "τοῦ ἐστυμμένου ἐλαίου",
+      "base_label": "ἐλαίου",
+      "normalized_label": "ἔλαιον",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [
+        "dioscorides-1-54-krokinon:process:stibein-2"
+      ],
+      "quantities": [
+        {
+          "source_span": "λίτρας τρεῖς ἥμισυ",
+          "raw_number": "τρεῖς ἥμισυ",
+          "normalized_number": 3.5,
+          "raw_unit": "λίτρας",
+          "normalized_unit": "litra",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "54",
+        "section": null,
+        "citation": {
+          "start": "50.1",
+          "end": "50.20"
+        }
+      }
+    },
+    {
+      "ingredient_id": "dioscorides-1-54-krokinon:ingredient:krokos-2",
+      "ingredient_urn": "urn:aos:recipe-ingredient:dioscorides-1-54-krokinon:ingredient:krokos-2",
+      "source_span": "κρόκου",
+      "surface_form": "κρόκου",
+      "base_label": "κρόκου",
+      "normalized_label": "κρόκος",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [],
+      "quantities": [
+        {
+          "source_span": "δραχμὰς πεντήκοντα",
+          "raw_number": "πεντήκοντα",
+          "normalized_number": 50,
+          "raw_unit": "δραχμὰς",
+          "normalized_unit": "drachme",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "54",
+        "section": null,
+        "citation": {
+          "start": "50.1",
+          "end": "50.20"
+        }
+      }
+    },
+    {
+      "ingredient_id": "dioscorides-1-54-krokinon:ingredient:elaion-3",
+      "ingredient_urn": "urn:aos:recipe-ingredient:dioscorides-1-54-krokinon:ingredient:elaion-3",
+      "source_span": "τὸ ἴσον πλῆθος τοῦ ἐλαίου",
+      "surface_form": "τὸ ἴσον πλῆθος τοῦ ἐλαίου",
+      "base_label": "ἐλαίου",
+      "normalized_label": "ἔλαιον",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [],
+      "quantities": [
+        {
+          "source_span": "τὸ ἴσον πλῆθος",
+          "raw_number": "ἴσον",
+          "normalized_number": "equal",
+          "raw_unit": "πλῆθος",
+          "normalized_unit": null,
+          "certainty": "certain",
+          "notes": [
+            "Equal to the previous oil amount."
+          ]
+        }
+      ],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "54",
+        "section": null,
+        "citation": {
+          "start": "50.1",
+          "end": "50.20"
+        }
+      }
+    },
+    {
+      "ingredient_id": "dioscorides-1-54-krokinon:ingredient:smyrna-4",
+      "ingredient_urn": "urn:aos:recipe-ingredient:dioscorides-1-54-krokinon:ingredient:smyrna-4",
+      "source_span": "σμύρνης κεκομμένης καὶ σεσησμένης",
+      "surface_form": "σμύρνης κεκομμένης καὶ σεσησμένης",
+      "base_label": "σμύρνης",
+      "normalized_label": "σμύρνα",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [
+        "dioscorides-1-54-krokinon:process:koptein-9",
+        "dioscorides-1-54-krokinon:process:sethein-10"
+      ],
+      "quantities": [
+        {
+          "source_span": "δραχμὰς τεσσαράκοντα",
+          "raw_number": "τεσσαράκοντα",
+          "normalized_number": 40,
+          "raw_unit": "δραχμὰς",
+          "normalized_unit": "drachme",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "54",
+        "section": null,
+        "citation": {
+          "start": "50.1",
+          "end": "50.20"
+        }
+      }
+    },
+    {
+      "ingredient_id": "dioscorides-1-54-krokinon:ingredient:elaion-5",
+      "ingredient_urn": "urn:aos:recipe-ingredient:dioscorides-1-54-krokinon:ingredient:elaion-5",
+      "source_span": "τῷ εἰς τὸ κύπρινον ἠρωματισμένῳ ἐλαίῳ",
+      "surface_form": "τῷ εἰς τὸ κύπρινον ἠρωματισμένῳ ἐλαίῳ",
+      "base_label": "ἐλαίῳ",
+      "normalized_label": "ἔλαιον",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [
+        "dioscorides-1-54-krokinon:process:aromatizein-14"
+      ],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "other",
+          "source_span": "εἰς τὸ κύπρινον",
+          "normalized_value": "εἰς τὸ κύπρινον",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "notes": [
+        "Alternative oil used by some."
+      ],
+      "host_locator": {
+        "book": "1",
+        "chapter": "54",
+        "section": null,
+        "citation": {
+          "start": "50.1",
+          "end": "50.20"
+        }
+      }
+    },
+    {
+      "ingredient_id": "dioscorides-1-54-krokinon:ingredient:keros-6",
+      "ingredient_urn": "urn:aos:recipe-ingredient:dioscorides-1-54-krokinon:ingredient:keros-6",
+      "source_span": "κηρῷ",
+      "surface_form": "κηρῷ",
+      "base_label": "κηρῷ",
+      "normalized_label": "κηρός",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [],
+      "quantities": [],
+      "qualifiers": [],
+      "notes": [
+        "Mentioned in therapeutic combination."
+      ],
+      "host_locator": {
+        "book": "1",
+        "chapter": "54",
+        "section": null,
+        "citation": {
+          "start": "50.1",
+          "end": "50.20"
+        }
+      }
+    },
+    {
+      "ingredient_id": "dioscorides-1-54-krokinon:ingredient:krokos-7",
+      "ingredient_urn": "urn:aos:recipe-ingredient:dioscorides-1-54-krokinon:ingredient:krokos-7",
+      "source_span": "κρόκῳ",
+      "surface_form": "κρόκῳ",
+      "base_label": "κρόκῳ",
+      "normalized_label": "κρόκος",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [],
+      "quantities": [],
+      "qualifiers": [],
+      "notes": [
+        "Mentioned in therapeutic combination."
+      ],
+      "host_locator": {
+        "book": "1",
+        "chapter": "54",
+        "section": null,
+        "citation": {
+          "start": "50.1",
+          "end": "50.20"
+        }
+      }
+    },
+    {
+      "ingredient_id": "dioscorides-1-54-krokinon:ingredient:myelos-8",
+      "ingredient_urn": "urn:aos:recipe-ingredient:dioscorides-1-54-krokinon:ingredient:myelos-8",
+      "source_span": "μυελῷ",
+      "surface_form": "μυελῷ",
+      "base_label": "μυελῷ",
+      "normalized_label": "μυελός",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [],
+      "quantities": [],
+      "qualifiers": [],
+      "notes": [
+        "Mentioned in therapeutic combination."
+      ],
+      "host_locator": {
+        "book": "1",
+        "chapter": "54",
+        "section": null,
+        "citation": {
+          "start": "50.1",
+          "end": "50.20"
+        }
+      }
+    },
+    {
+      "ingredient_id": "dioscorides-1-54-krokinon:ingredient:elaion-9",
+      "ingredient_urn": "urn:aos:recipe-ingredient:dioscorides-1-54-krokinon:ingredient:elaion-9",
+      "source_span": "ἐλαίῳ διπλασίονι",
+      "surface_form": "ἐλαίῳ διπλασίονι",
+      "base_label": "ἐλαίῳ",
+      "normalized_label": "ἔλαιον",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [],
+      "quantities": [
+        {
+          "source_span": "διπλασίονι",
+          "raw_number": "διπλασίονι",
+          "normalized_number": "double",
+          "raw_unit": null,
+          "normalized_unit": null,
+          "certainty": "certain",
+          "notes": [
+            "Relative amount in therapeutic combination."
+          ]
+        }
+      ],
+      "qualifiers": [],
+      "notes": [
+        "Mentioned in therapeutic combination."
+      ],
+      "host_locator": {
+        "book": "1",
+        "chapter": "54",
+        "section": null,
+        "citation": {
+          "start": "50.1",
+          "end": "50.20"
+        }
+      }
+    },
+    {
+      "ingredient_id": "dioscorides-1-54-krokinon:ingredient:ydor-10",
+      "ingredient_urn": "urn:aos:recipe-ingredient:dioscorides-1-54-krokinon:ingredient:ydor-10",
+      "source_span": "ὕδατος",
+      "surface_form": "ὕδατος",
+      "base_label": "ὕδατος",
+      "normalized_label": "ὕδωρ",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [],
+      "quantities": [],
+      "qualifiers": [],
+      "notes": [
+        "Mentioned in application context."
+      ],
+      "host_locator": {
+        "book": "1",
+        "chapter": "54",
+        "section": null,
+        "citation": {
+          "start": "50.1",
+          "end": "50.20"
+        }
+      }
+    }
+  ],
+  "processes": [
+    {
+      "process_id": "dioscorides-1-54-krokinon:process:prostyptein-1",
+      "process_urn": "urn:aos:recipe-process:dioscorides-1-54-krokinon:process:prostyptein-1",
+      "source_span": "προστύψεις",
+      "surface_form": "προστύψεις",
+      "normalized_label": "προστύπτειν",
+      "target_type": "ingredient",
+      "target_ids": [
+        "dioscorides-1-54-krokinon:ingredient:elaion-1",
+        "dioscorides-1-54-krokinon:ingredient:elaion-3",
+        "dioscorides-1-54-krokinon:ingredient:elaion-5",
+        "dioscorides-1-54-krokinon:ingredient:elaion-9"
+      ],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "other",
+          "source_span": "ὡς εἴρηται ἐπὶ τοῦ σουσίνου",
+          "normalized_value": "as in the σούσινον",
+          "certainty": "certain",
+          "notes": []
+        },
+        {
+          "qualifier_type": "other",
+          "source_span": "πλήθει καὶ συσταθμίᾳ τῇ αὐτῇ",
+          "normalized_value": "same quantity and proportion",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "certainty": "uncertain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "54",
+        "section": null,
+        "citation": {
+          "start": "50.1",
+          "end": "50.20"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-1-54-krokinon:process:stibein-2",
+      "process_urn": "urn:aos:recipe-process:dioscorides-1-54-krokinon:process:stibein-2",
+      "source_span": "ἐστυμμένου",
+      "surface_form": "ἐστυμμένου",
+      "normalized_label": "στίβειν",
+      "target_type": "ingredient",
+      "target_ids": [
+        "dioscorides-1-54-krokinon:ingredient:elaion-1",
+        "dioscorides-1-54-krokinon:ingredient:elaion-3",
+        "dioscorides-1-54-krokinon:ingredient:elaion-5",
+        "dioscorides-1-54-krokinon:ingredient:elaion-9"
+      ],
+      "quantities": [],
+      "qualifiers": [],
+      "certainty": "uncertain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "54",
+        "section": null,
+        "citation": {
+          "start": "50.1",
+          "end": "50.20"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-1-54-krokinon:process:ballein-3",
+      "process_urn": "urn:aos:recipe-process:dioscorides-1-54-krokinon:process:ballein-3",
+      "source_span": "βάλε",
+      "surface_form": "βάλε",
+      "normalized_label": "βάλλειν",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "54",
+        "section": null,
+        "citation": {
+          "start": "50.1",
+          "end": "50.20"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-1-54-krokinon:process:anakinein-4",
+      "process_urn": "urn:aos:recipe-process:dioscorides-1-54-krokinon:process:anakinein-4",
+      "source_span": "ἀνακίνει",
+      "surface_form": "ἀνακίνει",
+      "normalized_label": "ἀνακινεῖν",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "manner",
+          "source_span": "πλεονάκις τῆς ἡμέρας",
+          "normalized_value": "frequently during the day",
+          "certainty": "certain",
+          "notes": []
+        },
+        {
+          "qualifier_type": "manner",
+          "source_span": "συνεχῶς",
+          "normalized_value": "continuously",
+          "certainty": "certain",
+          "notes": []
+        },
+        {
+          "qualifier_type": "duration",
+          "source_span": "ἐπὶ ἡμέρας πέντε",
+          "normalized_value": "5 days",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "54",
+        "section": null,
+        "citation": {
+          "start": "50.1",
+          "end": "50.20"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-1-54-krokinon:process:apethein-5",
+      "process_urn": "urn:aos:recipe-process:dioscorides-1-54-krokinon:process:apethein-5",
+      "source_span": "ἀπήθει",
+      "surface_form": "ἀπήθει",
+      "normalized_label": "ἀπηθεῖν",
+      "target_type": "ingredient",
+      "target_ids": [
+        "dioscorides-1-54-krokinon:ingredient:elaion-1",
+        "dioscorides-1-54-krokinon:ingredient:elaion-3",
+        "dioscorides-1-54-krokinon:ingredient:elaion-5",
+        "dioscorides-1-54-krokinon:ingredient:elaion-9"
+      ],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "duration",
+          "source_span": "τῇ ἕκτῃ",
+          "normalized_value": "on the sixth day",
+          "certainty": "certain",
+          "notes": []
+        },
+        {
+          "qualifier_type": "other",
+          "source_span": "ἀπὸ τοῦ κρόκου",
+          "normalized_value": "from the saffron",
+          "certainty": "certain",
+          "notes": []
+        },
+        {
+          "qualifier_type": "manner",
+          "source_span": "καθαρίως",
+          "normalized_value": "cleanly",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "certainty": "uncertain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "54",
+        "section": null,
+        "citation": {
+          "start": "50.1",
+          "end": "50.20"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-1-54-krokinon:process:epicheein-6",
+      "process_urn": "urn:aos:recipe-process:dioscorides-1-54-krokinon:process:epicheein-6",
+      "source_span": "ἐπίχει",
+      "surface_form": "ἐπίχει",
+      "normalized_label": "ἐπιχέειν",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "other",
+          "source_span": "τῷ δὲ αὐτῷ κρόκῳ",
+          "normalized_value": "onto the same saffron",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "54",
+        "section": null,
+        "citation": {
+          "start": "50.1",
+          "end": "50.20"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-1-54-krokinon:process:anakinein-7",
+      "process_urn": "urn:aos:recipe-process:dioscorides-1-54-krokinon:process:anakinein-7",
+      "source_span": "ἀνακίνει",
+      "surface_form": "ἀνακίνει",
+      "normalized_label": "ἀνακινεῖν",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "duration",
+          "source_span": "ἡμέρας δέκα",
+          "normalized_value": "10 days",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "54",
+        "section": null,
+        "citation": {
+          "start": "50.1",
+          "end": "50.20"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-1-54-krokinon:process:apocheein-8",
+      "process_urn": "urn:aos:recipe-process:dioscorides-1-54-krokinon:process:apocheein-8",
+      "source_span": "ἀποχέας",
+      "surface_form": "ἀποχέας",
+      "normalized_label": "ἀποχέειν",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "54",
+        "section": null,
+        "citation": {
+          "start": "50.1",
+          "end": "50.20"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-1-54-krokinon:process:koptein-9",
+      "process_urn": "urn:aos:recipe-process:dioscorides-1-54-krokinon:process:koptein-9",
+      "source_span": "κεκομμένης",
+      "surface_form": "κεκομμένης",
+      "normalized_label": "κόπτειν",
+      "target_type": "ingredient",
+      "target_ids": [
+        "dioscorides-1-54-krokinon:ingredient:smyrna-4"
+      ],
+      "quantities": [],
+      "qualifiers": [],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "54",
+        "section": null,
+        "citation": {
+          "start": "50.1",
+          "end": "50.20"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-1-54-krokinon:process:sethein-10",
+      "process_urn": "urn:aos:recipe-process:dioscorides-1-54-krokinon:process:sethein-10",
+      "source_span": "σεσησμένης",
+      "surface_form": "σεσησμένης",
+      "normalized_label": "σήθειν",
+      "target_type": "ingredient",
+      "target_ids": [
+        "dioscorides-1-54-krokinon:ingredient:smyrna-4"
+      ],
+      "quantities": [],
+      "qualifiers": [],
+      "certainty": "uncertain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "54",
+        "section": null,
+        "citation": {
+          "start": "50.1",
+          "end": "50.20"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-1-54-krokinon:process:prosmeignynai-11",
+      "process_urn": "urn:aos:recipe-process:dioscorides-1-54-krokinon:process:prosmeignynai-11",
+      "source_span": "πρόσμειξον",
+      "surface_form": "πρόσμειξον",
+      "normalized_label": "προσμειγνύναι",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "54",
+        "section": null,
+        "citation": {
+          "start": "50.1",
+          "end": "50.20"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-1-54-krokinon:process:kinein-12",
+      "process_urn": "urn:aos:recipe-process:dioscorides-1-54-krokinon:process:kinein-12",
+      "source_span": "κίνει",
+      "surface_form": "κίνει",
+      "normalized_label": "κινεῖν",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "location",
+          "source_span": "ἐν ὅλμῳ",
+          "normalized_value": "in a mortar",
+          "certainty": "certain",
+          "notes": []
+        },
+        {
+          "qualifier_type": "manner",
+          "source_span": "χρηδίμως",
+          "normalized_value": "carefully",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "54",
+        "section": null,
+        "citation": {
+          "start": "50.1",
+          "end": "50.20"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-1-54-krokinon:process:apotithesthai-13",
+      "process_urn": "urn:aos:recipe-process:dioscorides-1-54-krokinon:process:apotithesthai-13",
+      "source_span": "ἀπόθου",
+      "surface_form": "ἀπόθου",
+      "normalized_label": "ἀποτίθεσθαι",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "54",
+        "section": null,
+        "citation": {
+          "start": "50.1",
+          "end": "50.20"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-1-54-krokinon:process:aromatizein-14",
+      "process_urn": "urn:aos:recipe-process:dioscorides-1-54-krokinon:process:aromatizein-14",
+      "source_span": "ἠρωματισμένῳ",
+      "surface_form": "ἠρωματισμένῳ",
+      "normalized_label": "ἀρωματίζειν",
+      "target_type": "ingredient",
+      "target_ids": [
+        "dioscorides-1-54-krokinon:ingredient:elaion-1",
+        "dioscorides-1-54-krokinon:ingredient:elaion-3",
+        "dioscorides-1-54-krokinon:ingredient:elaion-5",
+        "dioscorides-1-54-krokinon:ingredient:elaion-9"
+      ],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "other",
+          "source_span": "εἰς τὸ κύπρινον",
+          "normalized_value": "for the κύπρινον",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "54",
+        "section": null,
+        "citation": {
+          "start": "50.1",
+          "end": "50.20"
+        }
+      }
+    }
+  ],
+  "materials": [
+    {
+      "material_id": "dioscorides-1-54-krokinon:material:olmos-1",
+      "material_urn": "urn:aos:recipe-material:dioscorides-1-54-krokinon:material:olmos-1",
+      "source_span": "ὅλμῳ",
+      "surface_form": "ὅλμῳ",
+      "normalized_label": "ὅλμος",
+      "role": "tool",
+      "certainty": "certain",
+      "quantities": [],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "54",
+        "section": null,
+        "citation": {
+          "start": "50.1",
+          "end": "50.20"
+        }
+      }
+    }
+  ],
+  "people": [],
+  "places": [],
+  "uses": [
+    {
+      "use_id": "dioscorides-1-54-krokinon:use:eis-ten-iatriken-chresin-armozei-1",
+      "use_urn": "urn:aos:recipe-use:dioscorides-1-54-krokinon:use:eis-ten-iatriken-chresin-armozei-1",
+      "category": "medical",
+      "source_span": "εἰς τὴν ἰατρικὴν χρῆσιν ἁρμόζει",
+      "snippet": "εἰς τὴν ἰατρικὴν χρῆσιν ἁρμόζει",
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "54",
+        "section": null,
+        "citation": {
+          "start": "50.1",
+          "end": "50.20"
+        }
+      }
+    },
+    {
+      "use_id": "dioscorides-1-54-krokinon:use:epi-ton-phrenitikon-ermosen-en-katabrochais-e-aposphranthen-kai-ton-myxoteron-diachristhenton-2",
+      "use_urn": "urn:aos:recipe-use:dioscorides-1-54-krokinon:use:epi-ton-phrenitikon-ermosen-en-katabrochais-e-aposphranthen-kai-ton-myxoteron-diachristhenton-2",
+      "category": "medical",
+      "source_span": "ἐπὶ τῶν φρενιτικῶν ἥρμοσεν ἐν καταβροχαῖς ἢ ἀποσφρανθὲν καὶ τῶν μυξωτήρων διαχρισθέντων",
+      "snippet": "ἐπὶ τῶν φρενιτικῶν ἥρμοσεν ἐν καταβροχαῖς ἢ ἀποσφρανθὲν καὶ τῶν μυξωτήρων διαχρισθέντων",
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "54",
+        "section": null,
+        "citation": {
+          "start": "50.1",
+          "end": "50.20"
+        }
+      }
+    },
+    {
+      "use_id": "dioscorides-1-54-krokinon:use:pros-tas-en-te-metra-sklerias-kai-myseis-kai-ta-en-ayte-kakoethe-syn-kero-kai-kroko-kai-myelo-kai-elaio-diplasioni-3",
+      "use_urn": "urn:aos:recipe-use:dioscorides-1-54-krokinon:use:pros-tas-en-te-metra-sklerias-kai-myseis-kai-ta-en-ayte-kakoethe-syn-kero-kai-kroko-kai-myelo-kai-elaio-diplasioni-3",
+      "category": "medical",
+      "source_span": "πρὸς τὰς ἐν τῇ μήτρᾳ σκληρίας καὶ μύσεις καὶ τὰ ἐν αὐτῇ κακοήθη σὺν κηρῷ καὶ κρόκῳ καὶ μυελῷ καὶ ἐλαίῳ διπλασίονι",
+      "snippet": "πρὸς τὰς ἐν τῇ μήτρᾳ σκληρίας καὶ μύσεις καὶ τὰ ἐν αὐτῇ κακοήθη σὺν κηρῷ καὶ κρόκῳ καὶ μυελῷ καὶ ἐλαίῳ διπλασίονι",
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "54",
+        "section": null,
+        "citation": {
+          "start": "50.1",
+          "end": "50.20"
+        }
+      }
+    },
+    {
+      "use_id": "dioscorides-1-54-krokinon:use:pros-tas-apoglaykoseis-meth-ydatos-ypaleiphomenon-4",
+      "use_urn": "urn:aos:recipe-use:dioscorides-1-54-krokinon:use:pros-tas-apoglaykoseis-meth-ydatos-ypaleiphomenon-4",
+      "category": "medical",
+      "source_span": "πρὸς τὰς ἀπογλαυκώσεις μεθʼ ὕδατος ὑπαλειφόμενον",
+      "snippet": "πρὸς τὰς ἀπογλαυκώσεις μεθʼ ὕδατος ὑπαλειφόμενον",
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "54",
+        "section": null,
+        "citation": {
+          "start": "50.1",
+          "end": "50.20"
+        }
+      }
+    }
+  ],
+  "preparation_names": [],
+  "other_preparations_mentioned": [
+    {
+      "reference_id": "dioscorides-1-54-krokinon:reference:soysinon-1",
+      "reference_urn": "urn:aos:recipe-reference:dioscorides-1-54-krokinon:reference:soysinon-1",
+      "source_span": "σούσινον",
+      "surface_form": "σούσινον",
+      "normalized_label": "σούσινον",
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "54",
+        "section": null,
+        "citation": {
+          "start": "50.1",
+          "end": "50.20"
+        }
+      }
+    },
+    {
+      "reference_id": "dioscorides-1-54-krokinon:reference:kyprinon-2",
+      "reference_urn": "urn:aos:recipe-reference:dioscorides-1-54-krokinon:reference:kyprinon-2",
+      "source_span": "κύπρινον",
+      "surface_form": "κύπρινον",
+      "normalized_label": "κύπρινον",
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "54",
+        "section": null,
+        "citation": {
+          "start": "50.1",
+          "end": "50.20"
+        }
+      }
+    },
+    {
+      "reference_id": "dioscorides-1-54-krokinon:reference:onychinon-3",
+      "reference_urn": "urn:aos:recipe-reference:dioscorides-1-54-krokinon:reference:onychinon-3",
+      "source_span": "ὀνύχινον",
+      "surface_form": "ὀνύχινον",
+      "normalized_label": "ὀνύχινον",
+      "certainty": "uncertain",
+      "notes": [
+        "Mentioned in a cluster said to differ only in names."
+      ],
+      "host_locator": {
+        "book": "1",
+        "chapter": "54",
+        "section": null,
+        "citation": {
+          "start": "50.1",
+          "end": "50.20"
+        }
+      }
+    },
+    {
+      "reference_id": "dioscorides-1-54-krokinon:reference:boytyrinon-4",
+      "reference_urn": "urn:aos:recipe-reference:dioscorides-1-54-krokinon:reference:boytyrinon-4",
+      "source_span": "βουτύρινον",
+      "surface_form": "βουτύρινον",
+      "normalized_label": "βουτύρινον",
+      "certainty": "uncertain",
+      "notes": [
+        "Mentioned in a cluster said to differ only in names."
+      ],
+      "host_locator": {
+        "book": "1",
+        "chapter": "54",
+        "section": null,
+        "citation": {
+          "start": "50.1",
+          "end": "50.20"
+        }
+      }
+    },
+    {
+      "reference_id": "dioscorides-1-54-krokinon:reference:styrakinon-5",
+      "reference_urn": "urn:aos:recipe-reference:dioscorides-1-54-krokinon:reference:styrakinon-5",
+      "source_span": "στυράκινον",
+      "surface_form": "στυράκινον",
+      "normalized_label": "στυράκινον",
+      "certainty": "uncertain",
+      "notes": [
+        "Mentioned in a cluster said to differ only in names."
+      ],
+      "host_locator": {
+        "book": "1",
+        "chapter": "54",
+        "section": null,
+        "citation": {
+          "start": "50.1",
+          "end": "50.20"
+        }
+      }
+    }
+  ],
+  "works_mentioned": [],
+  "entities": [
+    {
+      "entity_urn": "urn:aos:recipe-preparation:dioscorides-1-54-krokinon:preparation:krokinon",
+      "entity_type": "label",
+      "surface_form": "κρόκινον",
+      "normalized_label": "κρόκινον"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:dioscorides-1-54-krokinon:ingredient:elaion-1",
+      "entity_type": "ingredient",
+      "surface_form": "τοῦ ἐστυμμένου ἐλαίου",
+      "normalized_label": "ἔλαιον"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:dioscorides-1-54-krokinon:ingredient:krokos-2",
+      "entity_type": "ingredient",
+      "surface_form": "κρόκου",
+      "normalized_label": "κρόκος"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:dioscorides-1-54-krokinon:ingredient:elaion-3",
+      "entity_type": "ingredient",
+      "surface_form": "τὸ ἴσον πλῆθος τοῦ ἐλαίου",
+      "normalized_label": "ἔλαιον"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:dioscorides-1-54-krokinon:ingredient:smyrna-4",
+      "entity_type": "ingredient",
+      "surface_form": "σμύρνης κεκομμένης καὶ σεσησμένης",
+      "normalized_label": "σμύρνα"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:dioscorides-1-54-krokinon:ingredient:elaion-5",
+      "entity_type": "ingredient",
+      "surface_form": "τῷ εἰς τὸ κύπρινον ἠρωματισμένῳ ἐλαίῳ",
+      "normalized_label": "ἔλαιον"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:dioscorides-1-54-krokinon:ingredient:keros-6",
+      "entity_type": "ingredient",
+      "surface_form": "κηρῷ",
+      "normalized_label": "κηρός"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:dioscorides-1-54-krokinon:ingredient:krokos-7",
+      "entity_type": "ingredient",
+      "surface_form": "κρόκῳ",
+      "normalized_label": "κρόκος"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:dioscorides-1-54-krokinon:ingredient:myelos-8",
+      "entity_type": "ingredient",
+      "surface_form": "μυελῷ",
+      "normalized_label": "μυελός"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:dioscorides-1-54-krokinon:ingredient:elaion-9",
+      "entity_type": "ingredient",
+      "surface_form": "ἐλαίῳ διπλασίονι",
+      "normalized_label": "ἔλαιον"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:dioscorides-1-54-krokinon:ingredient:ydor-10",
+      "entity_type": "ingredient",
+      "surface_form": "ὕδατος",
+      "normalized_label": "ὕδωρ"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-1-54-krokinon:process:prostyptein-1",
+      "entity_type": "process",
+      "surface_form": "προστύψεις",
+      "normalized_label": "προστύπτειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-1-54-krokinon:process:stibein-2",
+      "entity_type": "process",
+      "surface_form": "ἐστυμμένου",
+      "normalized_label": "στίβειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-1-54-krokinon:process:ballein-3",
+      "entity_type": "process",
+      "surface_form": "βάλε",
+      "normalized_label": "βάλλειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-1-54-krokinon:process:anakinein-4",
+      "entity_type": "process",
+      "surface_form": "ἀνακίνει",
+      "normalized_label": "ἀνακινεῖν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-1-54-krokinon:process:apethein-5",
+      "entity_type": "process",
+      "surface_form": "ἀπήθει",
+      "normalized_label": "ἀπηθεῖν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-1-54-krokinon:process:epicheein-6",
+      "entity_type": "process",
+      "surface_form": "ἐπίχει",
+      "normalized_label": "ἐπιχέειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-1-54-krokinon:process:anakinein-7",
+      "entity_type": "process",
+      "surface_form": "ἀνακίνει",
+      "normalized_label": "ἀνακινεῖν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-1-54-krokinon:process:apocheein-8",
+      "entity_type": "process",
+      "surface_form": "ἀποχέας",
+      "normalized_label": "ἀποχέειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-1-54-krokinon:process:koptein-9",
+      "entity_type": "process",
+      "surface_form": "κεκομμένης",
+      "normalized_label": "κόπτειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-1-54-krokinon:process:sethein-10",
+      "entity_type": "process",
+      "surface_form": "σεσησμένης",
+      "normalized_label": "σήθειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-1-54-krokinon:process:prosmeignynai-11",
+      "entity_type": "process",
+      "surface_form": "πρόσμειξον",
+      "normalized_label": "προσμειγνύναι"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-1-54-krokinon:process:kinein-12",
+      "entity_type": "process",
+      "surface_form": "κίνει",
+      "normalized_label": "κινεῖν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-1-54-krokinon:process:apotithesthai-13",
+      "entity_type": "process",
+      "surface_form": "ἀπόθου",
+      "normalized_label": "ἀποτίθεσθαι"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-1-54-krokinon:process:aromatizein-14",
+      "entity_type": "process",
+      "surface_form": "ἠρωματισμένῳ",
+      "normalized_label": "ἀρωματίζειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-material:dioscorides-1-54-krokinon:material:olmos-1",
+      "entity_type": "material",
+      "surface_form": "ὅλμῳ",
+      "normalized_label": "ὅλμος"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-reference:dioscorides-1-54-krokinon:reference:soysinon-1",
+      "entity_type": "preparation_reference",
+      "surface_form": "σούσινον",
+      "normalized_label": "σούσινον"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-reference:dioscorides-1-54-krokinon:reference:kyprinon-2",
+      "entity_type": "preparation_reference",
+      "surface_form": "κύπρινον",
+      "normalized_label": "κύπρινον"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-reference:dioscorides-1-54-krokinon:reference:onychinon-3",
+      "entity_type": "preparation_reference",
+      "surface_form": "ὀνύχινον",
+      "normalized_label": "ὀνύχινον"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-reference:dioscorides-1-54-krokinon:reference:boytyrinon-4",
+      "entity_type": "preparation_reference",
+      "surface_form": "βουτύρινον",
+      "normalized_label": "βουτύρινον"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-reference:dioscorides-1-54-krokinon:reference:styrakinon-5",
+      "entity_type": "preparation_reference",
+      "surface_form": "στυράκινον",
+      "normalized_label": "στυράκινον"
+    }
+  ]
+}

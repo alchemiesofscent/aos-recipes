@@ -1,0 +1,1173 @@
+{
+  "dataset_key": "paul_book7_perfumes",
+  "source_json": "experiments/paul-book7-ch20-perfumes/data/paul_book7_ch20_perfumes.json",
+  "host_raw_file": "tei/raw/tlg0715001.xml",
+  "work_slug": "paul.b7.perfumes",
+  "recipe_id": "paul-7-20-16",
+  "recipe_urn": "urn:aos:recipe:paul-7-20-16",
+  "record_urn": "urn:aos:recipe-record:paul-7-20-16",
+  "author": "Paul of Aegina",
+  "work": "Medical Epitome",
+  "book": "7",
+  "chapter": "20",
+  "section": "16",
+  "chapter_name": "Ἐλαίων καὶ μύρων σκευασίαι διάφοροι.",
+  "lemma": "Ἀμυγδάλινον, ὃ καὶ μετώπιον",
+  "text": "Αἰγύπτιοι τοῦτο τὸ ἔλαιον ἐξευρηκότες μετώπιον αὐτὸ προσηγόρευσαν, ὅτι χαλβάνην λαμβάνει, τὸ δὲ φυτόν, ἐξ οὗ γίνεται ἡ χαλβάνη, μετώπιον καλεῖται. λαμβάνει δὲ ταῦτα· ἐλαίου ὀμφακίνου ξ̸ κ, ἀμυγδάλων πικρῶν λι. β, καρδαμώμου λι. α, σχοίνου ἄνθους, καλάμου ἀρωματικοῦ, καρποβαλσάμου ἀνὰ λι. α, σμύρνης, χαλβάνης ἀνὰ 𐆄 ϛ, τερεβινθίνης λι. β, οἴνου εὐώδους εἰς τὸ ἐμβρέξαι τὰ ξηρὰ ξ̸ δ, μέλιτος Ἀττικοῦ λι. γ· τὴν ῥητίνην καὶ τὴν χαλβάνην λειωθείσας μετὰ μέρους τοῦ ἐλαίου λύσαντες ἐμβαλοῦμεν τοῖς ἄλλοις ἑψηθεῖσιν καὶ τότε τὸ μέλι, μιχθέντα δὲ ἀκριβῶς ἅπαντα καθελόντες, ἕως ἔτι χλιαρόν ἐστι, σειροῦμεν· παχὺ γὰρ γίνεται ψυχόμενον.",
+  "original_text": null,
+  "text_source": null,
+  "emendations": [],
+  "emendation_count": 0,
+  "source_kind": null,
+  "entry_kind": "recipe",
+  "citation": {
+    "pages": [
+      "2.385"
+    ],
+    "start": {
+      "page": "2.385",
+      "line": "1",
+      "xml_id": "heib-2-385-1"
+    },
+    "end": {
+      "page": "2.385",
+      "line": "11",
+      "xml_id": "heib-2-385-11"
+    },
+    "citation": {
+      "start": "2.385.1",
+      "end": "2.385.11"
+    },
+    "page_spans": [
+      {
+        "page": "2.385",
+        "start_line": "1",
+        "end_line": "11"
+      }
+    ],
+    "lines": [
+      {
+        "page": "2.385",
+        "line": "1",
+        "xml_id": "heib-2-385-1",
+        "break_no": false,
+        "text": "Ἀμυγδάλινον, ὃ καὶ μετώπιον.",
+        "citation": "2.385.1"
+      },
+      {
+        "page": "2.385",
+        "line": "2",
+        "xml_id": "heib-2-385-2",
+        "break_no": false,
+        "text": "Αἰγύπτιοι τοῦτο τὸ ἔλαιον ἐξευρηκότες μετώπιον αὐτὸ προσηγό-",
+        "citation": "2.385.2"
+      },
+      {
+        "page": "2.385",
+        "line": "3",
+        "xml_id": "heib-2-385-3",
+        "break_no": true,
+        "text": "ρευσαν, ὅτι χαλβάνην λαμβάνει, τὸ δὲ φυτόν, ἐξ οὗ γίνεται ἡ χαλβάνη,",
+        "citation": "2.385.3"
+      },
+      {
+        "page": "2.385",
+        "line": "4",
+        "xml_id": "heib-2-385-4",
+        "break_no": false,
+        "text": "μετώπιον καλεῖται. λαμβάνει δὲ ταῦτα· ἐλαίου ὀμφακίνου ξ̸ κ, ἀμυγ-",
+        "citation": "2.385.4"
+      },
+      {
+        "page": "2.385",
+        "line": "5",
+        "xml_id": "heib-2-385-5",
+        "break_no": true,
+        "text": "δάλων πικρῶν λι. β, καρδαμώμου λι. α, σχοίνου ἄνθους, καλάμου ἀρω-",
+        "citation": "2.385.5"
+      },
+      {
+        "page": "2.385",
+        "line": "6",
+        "xml_id": "heib-2-385-6",
+        "break_no": true,
+        "text": "ματικοῦ, καρποβαλσάμου ἀνὰ λι. α, σμύρνης, χαλβάνης ἀνὰ 𐆄 ϛ, τερε-",
+        "citation": "2.385.6"
+      },
+      {
+        "page": "2.385",
+        "line": "7",
+        "xml_id": "heib-2-385-7",
+        "break_no": true,
+        "text": "βινθίνης λι. β, οἴνου εὐώδους εἰς τὸ ἐμβρέξαι τὰ ξηρὰ ξ̸ δ, μέλιτος",
+        "citation": "2.385.7"
+      },
+      {
+        "page": "2.385",
+        "line": "8",
+        "xml_id": "heib-2-385-8",
+        "break_no": false,
+        "text": "Ἀττικοῦ λι. γ· τὴν ῥητίνην καὶ τὴν χαλβάνην λειωθείσας μετὰ μέρους",
+        "citation": "2.385.8"
+      },
+      {
+        "page": "2.385",
+        "line": "9",
+        "xml_id": "heib-2-385-9",
+        "break_no": false,
+        "text": "τοῦ ἐλαίου λύσαντες ἐμβαλοῦμεν τοῖς ἄλλοις ἑψηθεῖσιν καὶ τότε τὸ",
+        "citation": "2.385.9"
+      },
+      {
+        "page": "2.385",
+        "line": "10",
+        "xml_id": "heib-2-385-10",
+        "break_no": false,
+        "text": "μέλι, μιχθέντα δὲ ἀκριβῶς ἅπαντα καθελόντες, ἕως ἔτι χλιαρόν ἐστι,",
+        "citation": "2.385.10"
+      },
+      {
+        "page": "2.385",
+        "line": "11",
+        "xml_id": "heib-2-385-11",
+        "break_no": false,
+        "text": "σειροῦμεν· παχὺ γὰρ γίνεται ψυχόμενον.",
+        "citation": "2.385.11"
+      }
+    ],
+    "edition_key": "heiberg"
+  },
+  "notes": [
+    "The distributive ἀνὰ governs the cluster σχοίνου ἄνθους, καλάμου ἀρωματικοῦ, καρποβαλσάμου, each at λι. α.",
+    "The distributive ἀνὰ also governs σμύρνης and χαλβάνης, each at 𐆄 ϛ.",
+    "The procedure's τὴν ῥητίνην may refer to the listed τερεβινθίνη, but the identification is not stated explicitly."
+  ],
+  "alignment_status": "pending",
+  "alignment_confidence": "pending",
+  "alignment_evidence": null,
+  "review_status": "reviewed_structured_authority",
+  "review_provenance": {
+    "authority_source": "reports/entity_review/structured/paul.json",
+    "authority_recipe_id": "paul-7-20-16",
+    "authority_lemma": "Ἀμυγδάλινον",
+    "model": "gpt-5.4",
+    "reasoning_effort": "high",
+    "dataset_key": "paul_book7_perfumes",
+    "entity_model_version": "1.2",
+    "authority_version": "2026-04-13-qty-alt-v1",
+    "prompt_version": "qty-alt-pass-v1",
+    "build_version": "2026-05-18T15:51:35Z"
+  },
+  "schema_version": "1.2",
+  "build_metadata": {
+    "builder": "scripts/recipes/build_recipe_entities.py",
+    "built_at": "2026-05-18T15:51:35Z",
+    "source_structured_authority": "reports/entity_review/structured/paul.json",
+    "authority_model": "gpt-5.4",
+    "authority_reasoning_effort": "high",
+    "dataset_key": "paul_book7_perfumes",
+    "entity_model_version": "1.2",
+    "authority_version": "2026-04-13-qty-alt-v1",
+    "prompt_version": "qty-alt-pass-v1",
+    "build_version": "2026-05-18T15:51:35Z"
+  },
+  "recipe_text_excerpt": "Αἰγύπτιοι τοῦτο τὸ ἔλαιον ἐξευρηκότες μετώπιον αὐτὸ προσηγόρευσαν, ὅτι χαλβάνην λαμβάνει, τὸ δὲ φυτόν, ἐξ οὗ γίνεται ἡ χαλβάνη, μετώπιον",
+  "preparation": {
+    "preparation_id": "paul-7-20-16:preparation:amygdalinon",
+    "preparation_urn": "urn:aos:recipe-preparation:paul-7-20-16:preparation:amygdalinon",
+    "source_span": "Ἀμυγδάλινον, ὃ καὶ μετώπιον",
+    "surface_form": "Ἀμυγδάλινον, ὃ καὶ μετώπιον",
+    "normalized_label": "Ἀμυγδάλινον",
+    "qualifiers": [],
+    "regimen_notes": [],
+    "certainty": "certain",
+    "notes": [
+      "The lemma gives an alternative name, μετώπιον."
+    ],
+    "host_locator": {
+      "book": "7",
+      "chapter": "20",
+      "section": "16",
+      "citation": {
+        "start": "2.385.1",
+        "end": "2.385.11"
+      }
+    }
+  },
+  "ingredients": [
+    {
+      "ingredient_id": "paul-7-20-16:ingredient:elaion-omphakinon-1",
+      "ingredient_urn": "urn:aos:recipe-ingredient:paul-7-20-16:ingredient:elaion-omphakinon-1",
+      "source_span": "ἐλαίου ὀμφακίνου",
+      "surface_form": "ἐλαίου ὀμφακίνου",
+      "base_label": "ἔλαιον",
+      "normalized_label": "ἔλαιον ὀμφάκινον",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [
+        "paul-7-20-16:process:epsein-1",
+        "paul-7-20-16:process:lyein-3",
+        "paul-7-20-16:process:misgein-6"
+      ],
+      "quantities": [
+        {
+          "source_span": "ξ̸ κ",
+          "raw_number": "κ",
+          "normalized_number": 20,
+          "raw_unit": "ξ̸",
+          "normalized_unit": "xestes",
+          "certainty": "uncertain",
+          "notes": [
+            "Abbreviated unit ξ̸ not expanded."
+          ]
+        }
+      ],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "7",
+        "chapter": "20",
+        "section": "16",
+        "citation": {
+          "start": "2.385.1",
+          "end": "2.385.11"
+        }
+      }
+    },
+    {
+      "ingredient_id": "paul-7-20-16:ingredient:amygdala-pikra-2",
+      "ingredient_urn": "urn:aos:recipe-ingredient:paul-7-20-16:ingredient:amygdala-pikra-2",
+      "source_span": "ἀμυγδάλων πικρῶν",
+      "surface_form": "ἀμυγδάλων πικρῶν",
+      "base_label": "ἀμύγδαλα",
+      "normalized_label": "ἀμύγδαλα πικρά",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [
+        "paul-7-20-16:process:epsein-1",
+        "paul-7-20-16:process:misgein-6"
+      ],
+      "quantities": [
+        {
+          "source_span": "λι. β",
+          "raw_number": "β",
+          "normalized_number": 2,
+          "raw_unit": "λι.",
+          "normalized_unit": "litra",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "7",
+        "chapter": "20",
+        "section": "16",
+        "citation": {
+          "start": "2.385.1",
+          "end": "2.385.11"
+        }
+      }
+    },
+    {
+      "ingredient_id": "paul-7-20-16:ingredient:kardamomon-3",
+      "ingredient_urn": "urn:aos:recipe-ingredient:paul-7-20-16:ingredient:kardamomon-3",
+      "source_span": "καρδαμώμου",
+      "surface_form": "καρδαμώμου",
+      "base_label": "κάρδαμωμον",
+      "normalized_label": "κάρδαμωμον",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [
+        "paul-7-20-16:process:epsein-1",
+        "paul-7-20-16:process:misgein-6"
+      ],
+      "quantities": [
+        {
+          "source_span": "λι. α",
+          "raw_number": "α",
+          "normalized_number": 1,
+          "raw_unit": "λι.",
+          "normalized_unit": "litra",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "7",
+        "chapter": "20",
+        "section": "16",
+        "citation": {
+          "start": "2.385.1",
+          "end": "2.385.11"
+        }
+      }
+    },
+    {
+      "ingredient_id": "paul-7-20-16:ingredient:schoinoy-anthos-4",
+      "ingredient_urn": "urn:aos:recipe-ingredient:paul-7-20-16:ingredient:schoinoy-anthos-4",
+      "source_span": "σχοίνου ἄνθους",
+      "surface_form": "σχοίνου ἄνθους",
+      "base_label": "ἄνθος",
+      "normalized_label": "σχοίνου ἄνθος",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [
+        "paul-7-20-16:process:epsein-1",
+        "paul-7-20-16:process:misgein-6"
+      ],
+      "quantities": [
+        {
+          "source_span": "λι. α",
+          "raw_number": "α",
+          "normalized_number": 1,
+          "raw_unit": "λι.",
+          "normalized_unit": "litra",
+          "certainty": "certain",
+          "notes": [
+            "Governed by distributive ἀνὰ."
+          ]
+        }
+      ],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "7",
+        "chapter": "20",
+        "section": "16",
+        "citation": {
+          "start": "2.385.1",
+          "end": "2.385.11"
+        }
+      }
+    },
+    {
+      "ingredient_id": "paul-7-20-16:ingredient:kalamos-aromatikos-5",
+      "ingredient_urn": "urn:aos:recipe-ingredient:paul-7-20-16:ingredient:kalamos-aromatikos-5",
+      "source_span": "καλάμου ἀρωματικοῦ",
+      "surface_form": "καλάμου ἀρωματικοῦ",
+      "base_label": "κάλαμος",
+      "normalized_label": "κάλαμος ἀρωματικός",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [
+        "paul-7-20-16:process:epsein-1",
+        "paul-7-20-16:process:misgein-6"
+      ],
+      "quantities": [
+        {
+          "source_span": "λι. α",
+          "raw_number": "α",
+          "normalized_number": 1,
+          "raw_unit": "λι.",
+          "normalized_unit": "litra",
+          "certainty": "certain",
+          "notes": [
+            "Governed by distributive ἀνὰ."
+          ]
+        }
+      ],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "7",
+        "chapter": "20",
+        "section": "16",
+        "citation": {
+          "start": "2.385.1",
+          "end": "2.385.11"
+        }
+      }
+    },
+    {
+      "ingredient_id": "paul-7-20-16:ingredient:karpobalsamon-6",
+      "ingredient_urn": "urn:aos:recipe-ingredient:paul-7-20-16:ingredient:karpobalsamon-6",
+      "source_span": "καρποβαλσάμου",
+      "surface_form": "καρποβαλσάμου",
+      "base_label": "καρποβάλσαμον",
+      "normalized_label": "καρποβάλσαμον",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [
+        "paul-7-20-16:process:epsein-1",
+        "paul-7-20-16:process:misgein-6"
+      ],
+      "quantities": [
+        {
+          "source_span": "λι. α",
+          "raw_number": "α",
+          "normalized_number": 1,
+          "raw_unit": "λι.",
+          "normalized_unit": "litra",
+          "certainty": "certain",
+          "notes": [
+            "Governed by distributive ἀνὰ."
+          ]
+        }
+      ],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "7",
+        "chapter": "20",
+        "section": "16",
+        "citation": {
+          "start": "2.385.1",
+          "end": "2.385.11"
+        }
+      }
+    },
+    {
+      "ingredient_id": "paul-7-20-16:ingredient:smyrna-7",
+      "ingredient_urn": "urn:aos:recipe-ingredient:paul-7-20-16:ingredient:smyrna-7",
+      "source_span": "σμύρνης",
+      "surface_form": "σμύρνης",
+      "base_label": "σμύρνα",
+      "normalized_label": "σμύρνα",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [
+        "paul-7-20-16:process:epsein-1",
+        "paul-7-20-16:process:misgein-6"
+      ],
+      "quantities": [
+        {
+          "source_span": "𐆄 ϛ",
+          "raw_number": "ϛ",
+          "normalized_number": 6,
+          "raw_unit": "𐆄",
+          "normalized_unit": "uncia",
+          "certainty": "uncertain",
+          "notes": [
+            "Governed by distributive ἀνὰ.",
+            "Unit sign 𐆄 not expanded."
+          ]
+        }
+      ],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "7",
+        "chapter": "20",
+        "section": "16",
+        "citation": {
+          "start": "2.385.1",
+          "end": "2.385.11"
+        }
+      }
+    },
+    {
+      "ingredient_id": "paul-7-20-16:ingredient:chalbane-8",
+      "ingredient_urn": "urn:aos:recipe-ingredient:paul-7-20-16:ingredient:chalbane-8",
+      "source_span": "χαλβάνης",
+      "surface_form": "χαλβάνης",
+      "base_label": "χαλβάνη",
+      "normalized_label": "χαλβάνη",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [
+        "paul-7-20-16:process:leioyn-2",
+        "paul-7-20-16:process:lyein-3",
+        "paul-7-20-16:process:emballein-4",
+        "paul-7-20-16:process:emballein-5",
+        "paul-7-20-16:process:misgein-6"
+      ],
+      "quantities": [
+        {
+          "source_span": "𐆄 ϛ",
+          "raw_number": "ϛ",
+          "normalized_number": 6,
+          "raw_unit": "𐆄",
+          "normalized_unit": "uncia",
+          "certainty": "uncertain",
+          "notes": [
+            "Governed by distributive ἀνὰ.",
+            "Unit sign 𐆄 not expanded."
+          ]
+        }
+      ],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "7",
+        "chapter": "20",
+        "section": "16",
+        "citation": {
+          "start": "2.385.1",
+          "end": "2.385.11"
+        }
+      }
+    },
+    {
+      "ingredient_id": "paul-7-20-16:ingredient:terebinthine-9",
+      "ingredient_urn": "urn:aos:recipe-ingredient:paul-7-20-16:ingredient:terebinthine-9",
+      "source_span": "τερεβινθίνης",
+      "surface_form": "τερεβινθίνης",
+      "base_label": "τερεβινθίνη",
+      "normalized_label": "τερεβινθίνη",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [
+        "paul-7-20-16:process:misgein-6"
+      ],
+      "quantities": [
+        {
+          "source_span": "λι. β",
+          "raw_number": "β",
+          "normalized_number": 2,
+          "raw_unit": "λι.",
+          "normalized_unit": "litra",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "qualifiers": [],
+      "notes": [
+        "The procedure later mentions τὴν ῥητίνην, possibly referring to this ingredient."
+      ],
+      "host_locator": {
+        "book": "7",
+        "chapter": "20",
+        "section": "16",
+        "citation": {
+          "start": "2.385.1",
+          "end": "2.385.11"
+        }
+      }
+    },
+    {
+      "ingredient_id": "paul-7-20-16:ingredient:retine-10",
+      "ingredient_urn": "urn:aos:recipe-ingredient:paul-7-20-16:ingredient:retine-10",
+      "source_span": "τὴν ῥητίνην",
+      "surface_form": "τὴν ῥητίνην",
+      "base_label": "ῥητίνη",
+      "normalized_label": "ῥητίνη",
+      "alternative_set_id": null,
+      "certainty": "uncertain",
+      "linked_process_ids": [
+        "paul-7-20-16:process:leioyn-2",
+        "paul-7-20-16:process:lyein-3",
+        "paul-7-20-16:process:emballein-4",
+        "paul-7-20-16:process:emballein-5",
+        "paul-7-20-16:process:misgein-6"
+      ],
+      "quantities": [],
+      "qualifiers": [],
+      "notes": [
+        "Appears only in the procedure; possibly the same substance as the listed τερεβινθίνη."
+      ],
+      "host_locator": {
+        "book": "7",
+        "chapter": "20",
+        "section": "16",
+        "citation": {
+          "start": "2.385.1",
+          "end": "2.385.11"
+        }
+      }
+    },
+    {
+      "ingredient_id": "paul-7-20-16:ingredient:oinos-eyodes-11",
+      "ingredient_urn": "urn:aos:recipe-ingredient:paul-7-20-16:ingredient:oinos-eyodes-11",
+      "source_span": "οἴνου εὐώδους",
+      "surface_form": "οἴνου εὐώδους",
+      "base_label": "οἶνος",
+      "normalized_label": "οἶνος εὐώδης",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [
+        "paul-7-20-16:process:epsein-1",
+        "paul-7-20-16:process:misgein-6"
+      ],
+      "quantities": [
+        {
+          "source_span": "ξ̸ δ",
+          "raw_number": "δ",
+          "normalized_number": 4,
+          "raw_unit": "ξ̸",
+          "normalized_unit": "xestes",
+          "certainty": "uncertain",
+          "notes": [
+            "Abbreviated unit ξ̸ not expanded."
+          ]
+        }
+      ],
+      "qualifiers": [
+        {
+          "qualifier_type": "other",
+          "source_span": "εἰς τὸ ἐμβρέξαι τὰ ξηρὰ",
+          "normalized_value": "for soaking the dry ingredients",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "notes": [],
+      "host_locator": {
+        "book": "7",
+        "chapter": "20",
+        "section": "16",
+        "citation": {
+          "start": "2.385.1",
+          "end": "2.385.11"
+        }
+      }
+    },
+    {
+      "ingredient_id": "paul-7-20-16:ingredient:meli-attikon-12",
+      "ingredient_urn": "urn:aos:recipe-ingredient:paul-7-20-16:ingredient:meli-attikon-12",
+      "source_span": "μέλιτος Ἀττικοῦ",
+      "surface_form": "μέλιτος Ἀττικοῦ",
+      "base_label": "μέλι",
+      "normalized_label": "μέλι Ἀττικόν",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [
+        "paul-7-20-16:process:emballein-4",
+        "paul-7-20-16:process:emballein-5",
+        "paul-7-20-16:process:misgein-6"
+      ],
+      "quantities": [
+        {
+          "source_span": "λι. γ",
+          "raw_number": "γ",
+          "normalized_number": 3,
+          "raw_unit": "λι.",
+          "normalized_unit": "litra",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "7",
+        "chapter": "20",
+        "section": "16",
+        "citation": {
+          "start": "2.385.1",
+          "end": "2.385.11"
+        }
+      }
+    }
+  ],
+  "processes": [
+    {
+      "process_id": "paul-7-20-16:process:epsein-1",
+      "process_urn": "urn:aos:recipe-process:paul-7-20-16:process:epsein-1",
+      "source_span": "ἑψηθεῖσιν",
+      "surface_form": "ἑψηθεῖσιν",
+      "normalized_label": "ἕψειν",
+      "target_type": "ingredient",
+      "target_ids": [
+        "paul-7-20-16:ingredient:elaion-omphakinon-1",
+        "paul-7-20-16:ingredient:amygdala-pikra-2",
+        "paul-7-20-16:ingredient:kardamomon-3",
+        "paul-7-20-16:ingredient:schoinoy-anthos-4",
+        "paul-7-20-16:ingredient:kalamos-aromatikos-5",
+        "paul-7-20-16:ingredient:karpobalsamon-6",
+        "paul-7-20-16:ingredient:smyrna-7",
+        "paul-7-20-16:ingredient:oinos-eyodes-11"
+      ],
+      "quantities": [],
+      "qualifiers": [],
+      "certainty": "uncertain",
+      "notes": [
+        "The phrase τοῖς ἄλλοις ἑψηθεῖσιν is interpreted as the previously cooked remainder, excluding the separately treated ῥητίνη/χαλβάνη and the later honey."
+      ],
+      "host_locator": {
+        "book": "7",
+        "chapter": "20",
+        "section": "16",
+        "citation": {
+          "start": "2.385.1",
+          "end": "2.385.11"
+        }
+      }
+    },
+    {
+      "process_id": "paul-7-20-16:process:leioyn-2",
+      "process_urn": "urn:aos:recipe-process:paul-7-20-16:process:leioyn-2",
+      "source_span": "λειωθείσας",
+      "surface_form": "λειωθείσας",
+      "normalized_label": "λειοῦν",
+      "target_type": "ingredient",
+      "target_ids": [
+        "paul-7-20-16:ingredient:retine-10",
+        "paul-7-20-16:ingredient:chalbane-8"
+      ],
+      "quantities": [],
+      "qualifiers": [],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "7",
+        "chapter": "20",
+        "section": "16",
+        "citation": {
+          "start": "2.385.1",
+          "end": "2.385.11"
+        }
+      }
+    },
+    {
+      "process_id": "paul-7-20-16:process:lyein-3",
+      "process_urn": "urn:aos:recipe-process:paul-7-20-16:process:lyein-3",
+      "source_span": "λύσαντες",
+      "surface_form": "λύσαντες",
+      "normalized_label": "λύειν",
+      "target_type": "ingredient",
+      "target_ids": [
+        "paul-7-20-16:ingredient:retine-10",
+        "paul-7-20-16:ingredient:chalbane-8"
+      ],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "other",
+          "source_span": "μετὰ μέρους τοῦ ἐλαίου",
+          "normalized_value": "with part of the oil",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "7",
+        "chapter": "20",
+        "section": "16",
+        "citation": {
+          "start": "2.385.1",
+          "end": "2.385.11"
+        }
+      }
+    },
+    {
+      "process_id": "paul-7-20-16:process:emballein-4",
+      "process_urn": "urn:aos:recipe-process:paul-7-20-16:process:emballein-4",
+      "source_span": "ἐμβαλοῦμεν",
+      "surface_form": "ἐμβαλοῦμεν",
+      "normalized_label": "ἐμβάλλειν",
+      "target_type": "ingredient",
+      "target_ids": [
+        "paul-7-20-16:ingredient:retine-10",
+        "paul-7-20-16:ingredient:chalbane-8"
+      ],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "location",
+          "source_span": "τοῖς ἄλλοις ἑψηθεῖσιν",
+          "normalized_value": "into the other ingredients after boiling",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "7",
+        "chapter": "20",
+        "section": "16",
+        "citation": {
+          "start": "2.385.1",
+          "end": "2.385.11"
+        }
+      }
+    },
+    {
+      "process_id": "paul-7-20-16:process:emballein-5",
+      "process_urn": "urn:aos:recipe-process:paul-7-20-16:process:emballein-5",
+      "source_span": "ἐμβαλοῦμεν",
+      "surface_form": "ἐμβαλοῦμεν",
+      "normalized_label": "ἐμβάλλειν",
+      "target_type": "ingredient",
+      "target_ids": [
+        "paul-7-20-16:ingredient:meli-attikon-12"
+      ],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "other",
+          "source_span": "τότε",
+          "normalized_value": "then",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "7",
+        "chapter": "20",
+        "section": "16",
+        "citation": {
+          "start": "2.385.1",
+          "end": "2.385.11"
+        }
+      }
+    },
+    {
+      "process_id": "paul-7-20-16:process:misgein-6",
+      "process_urn": "urn:aos:recipe-process:paul-7-20-16:process:misgein-6",
+      "source_span": "μιχθέντα",
+      "surface_form": "μιχθέντα",
+      "normalized_label": "μίσγειν",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "manner",
+          "source_span": "ἀκριβῶς",
+          "normalized_value": "ἀκριβῶς",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "7",
+        "chapter": "20",
+        "section": "16",
+        "citation": {
+          "start": "2.385.1",
+          "end": "2.385.11"
+        }
+      }
+    },
+    {
+      "process_id": "paul-7-20-16:process:kathairein-7",
+      "process_urn": "urn:aos:recipe-process:paul-7-20-16:process:kathairein-7",
+      "source_span": "καθελόντες",
+      "surface_form": "καθελόντες",
+      "normalized_label": "καθαιρεῖν",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "7",
+        "chapter": "20",
+        "section": "16",
+        "citation": {
+          "start": "2.385.1",
+          "end": "2.385.11"
+        }
+      }
+    },
+    {
+      "process_id": "paul-7-20-16:process:seiroyn-8",
+      "process_urn": "urn:aos:recipe-process:paul-7-20-16:process:seiroyn-8",
+      "source_span": "σειροῦμεν",
+      "surface_form": "σειροῦμεν",
+      "normalized_label": "σειροῦν",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "temperature",
+          "source_span": "χλιαρόν",
+          "normalized_value": "χλιαρόν",
+          "certainty": "certain",
+          "notes": [
+            "From ἕως ἔτι χλιαρόν ἐστι."
+          ]
+        }
+      ],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "7",
+        "chapter": "20",
+        "section": "16",
+        "citation": {
+          "start": "2.385.1",
+          "end": "2.385.11"
+        }
+      }
+    },
+    {
+      "process_id": "paul-7-20-16:process:psychesthai-9",
+      "process_urn": "urn:aos:recipe-process:paul-7-20-16:process:psychesthai-9",
+      "source_span": "ψυχόμενον",
+      "surface_form": "ψυχόμενον",
+      "normalized_label": "ψύχεσθαι",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "7",
+        "chapter": "20",
+        "section": "16",
+        "citation": {
+          "start": "2.385.1",
+          "end": "2.385.11"
+        }
+      }
+    },
+    {
+      "process_id": "paul-7-20-16:process:gignesthai-10",
+      "process_urn": "urn:aos:recipe-process:paul-7-20-16:process:gignesthai-10",
+      "source_span": "γίνεται",
+      "surface_form": "γίνεται",
+      "normalized_label": "γίγνεσθαι",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "manner",
+          "source_span": "παχὺ",
+          "normalized_value": "παχύ",
+          "certainty": "certain",
+          "notes": [
+            "The preparation becomes thick as it cools."
+          ]
+        }
+      ],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "7",
+        "chapter": "20",
+        "section": "16",
+        "citation": {
+          "start": "2.385.1",
+          "end": "2.385.11"
+        }
+      }
+    }
+  ],
+  "materials": [],
+  "people": [
+    {
+      "person_id": "paul-7-20-16:person:aigyptioi-1",
+      "person_urn": "urn:aos:recipe-person:paul-7-20-16:person:aigyptioi-1",
+      "source_span": "Αἰγύπτιοι",
+      "surface_form": "Αἰγύπτιοι",
+      "normalized_label": "Αἰγύπτιοι",
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "7",
+        "chapter": "20",
+        "section": "16",
+        "citation": {
+          "start": "2.385.1",
+          "end": "2.385.11"
+        }
+      }
+    }
+  ],
+  "places": [],
+  "uses": [],
+  "preparation_names": [
+    {
+      "preparation_name_id": "paul-7-20-16:preparation_name:amygdalinon-1",
+      "preparation_name_urn": "urn:aos:recipe-preparation_name:paul-7-20-16:preparation_name:amygdalinon-1",
+      "source_span": "Ἀμυγδάλινον",
+      "surface_form": "Ἀμυγδάλινον",
+      "normalized_label": "Ἀμυγδάλινον",
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "7",
+        "chapter": "20",
+        "section": "16",
+        "citation": {
+          "start": "2.385.1",
+          "end": "2.385.11"
+        }
+      }
+    },
+    {
+      "preparation_name_id": "paul-7-20-16:preparation_name:metopion-2",
+      "preparation_name_urn": "urn:aos:recipe-preparation_name:paul-7-20-16:preparation_name:metopion-2",
+      "source_span": "μετώπιον",
+      "surface_form": "μετώπιον",
+      "normalized_label": "μετώπιον",
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "7",
+        "chapter": "20",
+        "section": "16",
+        "citation": {
+          "start": "2.385.1",
+          "end": "2.385.11"
+        }
+      }
+    }
+  ],
+  "other_preparations_mentioned": [],
+  "works_mentioned": [],
+  "entities": [
+    {
+      "entity_urn": "urn:aos:recipe-preparation:paul-7-20-16:preparation:amygdalinon",
+      "entity_type": "label",
+      "surface_form": "Ἀμυγδάλινον, ὃ καὶ μετώπιον",
+      "normalized_label": "Ἀμυγδάλινον"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:paul-7-20-16:ingredient:elaion-omphakinon-1",
+      "entity_type": "ingredient",
+      "surface_form": "ἐλαίου ὀμφακίνου",
+      "normalized_label": "ἔλαιον ὀμφάκινον"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:paul-7-20-16:ingredient:amygdala-pikra-2",
+      "entity_type": "ingredient",
+      "surface_form": "ἀμυγδάλων πικρῶν",
+      "normalized_label": "ἀμύγδαλα πικρά"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:paul-7-20-16:ingredient:kardamomon-3",
+      "entity_type": "ingredient",
+      "surface_form": "καρδαμώμου",
+      "normalized_label": "κάρδαμωμον"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:paul-7-20-16:ingredient:schoinoy-anthos-4",
+      "entity_type": "ingredient",
+      "surface_form": "σχοίνου ἄνθους",
+      "normalized_label": "σχοίνου ἄνθος"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:paul-7-20-16:ingredient:kalamos-aromatikos-5",
+      "entity_type": "ingredient",
+      "surface_form": "καλάμου ἀρωματικοῦ",
+      "normalized_label": "κάλαμος ἀρωματικός"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:paul-7-20-16:ingredient:karpobalsamon-6",
+      "entity_type": "ingredient",
+      "surface_form": "καρποβαλσάμου",
+      "normalized_label": "καρποβάλσαμον"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:paul-7-20-16:ingredient:smyrna-7",
+      "entity_type": "ingredient",
+      "surface_form": "σμύρνης",
+      "normalized_label": "σμύρνα"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:paul-7-20-16:ingredient:chalbane-8",
+      "entity_type": "ingredient",
+      "surface_form": "χαλβάνης",
+      "normalized_label": "χαλβάνη"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:paul-7-20-16:ingredient:terebinthine-9",
+      "entity_type": "ingredient",
+      "surface_form": "τερεβινθίνης",
+      "normalized_label": "τερεβινθίνη"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:paul-7-20-16:ingredient:retine-10",
+      "entity_type": "ingredient",
+      "surface_form": "τὴν ῥητίνην",
+      "normalized_label": "ῥητίνη"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:paul-7-20-16:ingredient:oinos-eyodes-11",
+      "entity_type": "ingredient",
+      "surface_form": "οἴνου εὐώδους",
+      "normalized_label": "οἶνος εὐώδης"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:paul-7-20-16:ingredient:meli-attikon-12",
+      "entity_type": "ingredient",
+      "surface_form": "μέλιτος Ἀττικοῦ",
+      "normalized_label": "μέλι Ἀττικόν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:paul-7-20-16:process:epsein-1",
+      "entity_type": "process",
+      "surface_form": "ἑψηθεῖσιν",
+      "normalized_label": "ἕψειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:paul-7-20-16:process:leioyn-2",
+      "entity_type": "process",
+      "surface_form": "λειωθείσας",
+      "normalized_label": "λειοῦν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:paul-7-20-16:process:lyein-3",
+      "entity_type": "process",
+      "surface_form": "λύσαντες",
+      "normalized_label": "λύειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:paul-7-20-16:process:emballein-4",
+      "entity_type": "process",
+      "surface_form": "ἐμβαλοῦμεν",
+      "normalized_label": "ἐμβάλλειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:paul-7-20-16:process:emballein-5",
+      "entity_type": "process",
+      "surface_form": "ἐμβαλοῦμεν",
+      "normalized_label": "ἐμβάλλειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:paul-7-20-16:process:misgein-6",
+      "entity_type": "process",
+      "surface_form": "μιχθέντα",
+      "normalized_label": "μίσγειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:paul-7-20-16:process:kathairein-7",
+      "entity_type": "process",
+      "surface_form": "καθελόντες",
+      "normalized_label": "καθαιρεῖν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:paul-7-20-16:process:seiroyn-8",
+      "entity_type": "process",
+      "surface_form": "σειροῦμεν",
+      "normalized_label": "σειροῦν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:paul-7-20-16:process:psychesthai-9",
+      "entity_type": "process",
+      "surface_form": "ψυχόμενον",
+      "normalized_label": "ψύχεσθαι"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:paul-7-20-16:process:gignesthai-10",
+      "entity_type": "process",
+      "surface_form": "γίνεται",
+      "normalized_label": "γίγνεσθαι"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-person:paul-7-20-16:person:aigyptioi-1",
+      "entity_type": "person",
+      "surface_form": "Αἰγύπτιοι",
+      "normalized_label": "Αἰγύπτιοι"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-preparation_name:paul-7-20-16:preparation_name:amygdalinon-1",
+      "entity_type": "preparation_name",
+      "surface_form": "Ἀμυγδάλινον",
+      "normalized_label": "Ἀμυγδάλινον"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-preparation_name:paul-7-20-16:preparation_name:metopion-2",
+      "entity_type": "preparation_name",
+      "surface_form": "μετώπιον",
+      "normalized_label": "μετώπιον"
+    }
+  ]
+}

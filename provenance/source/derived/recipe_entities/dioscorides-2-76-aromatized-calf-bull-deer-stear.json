@@ -1,0 +1,1867 @@
+{
+  "dataset_key": "dioscorides_book2_fats",
+  "source_json": "experiments/dioscorides-book2-fats/data/dioscorides_book2_fats.json",
+  "host_raw_file": "tei/raw/tlg0656.tlg001.1st1K-grc1.xml",
+  "work_slug": "diosc.b2.fats",
+  "recipe_id": "dioscorides-2-76-aromatized-calf-bull-deer-stear",
+  "recipe_urn": "urn:aos:recipe:dioscorides-2-76-aromatized-calf-bull-deer-stear",
+  "record_urn": "urn:aos:recipe-record:dioscorides-2-76-aromatized-calf-bull-deer-stear",
+  "author": "Dioscorides",
+  "work": "De materia medica",
+  "book": "2",
+  "chapter": "76",
+  "section": "8-10",
+  "chapter_name": "στέαρ",
+  "lemma": "στέαρ μόσχειον καὶ ταύρειον καὶ ἐλάφειον ἀρωματιστόν",
+  "text": "ἀρωματιστέο΄ν δὲ στέαρ μόσχειον καὶ ταύρειον, ἔτι δὲ ἐλάφειον καὶ μυελὸν τοῦδε τοῦ ζῴου τὸν τρόπον τοῦτον· ἐξενίσας τὸ μέλλον εὐωδιάζεσθαι καὶ πλύνας, ὡς προείρηται, σύζεσον οἴνῳ ἀθαλάσσῳ τε καὶ εὐώδει, εἶτα ἀνελόμενος καὶ ἐννυκτερεῦσαι ἀφφὶς ἕτερον οἶνον ἀπὸ τοῦ αὐτοῦ γένους ἐπίχεε τῷ πλήθει τοσοῦτον, ὅσον ἦν ὁ ἔμπροσθεν δοθείς, καὶ τήξας ἀποκογχίσας τε ἐπιμελῶς, πρὸς ἐννέα κοτύλας τοῦ στέατος ἔμβολε σχοίνου Ἀραβικῆς ὁλκὰς ἑπτά· ἐὰν δὲ εὐωδέστερον ποιῆσαι θέλῃς, τοῦ ἄνθους ὁλκὰς τεσσαράκοντα, προσαπόδος δὲ καὶ φοίνικος καὶ καλάμου τὰς ἴσας ὁλκάς, ἀσπαλάθου τε καὶ ξυλοβαλσάμου ἀνὰ ὁλκὴν μίαν μεῖξον δὲ καὶ καρδαμώμου καὶ νάρδου καὶ κασσίας καὶ κιναμώμου ἀνὰ οὐγγίαν μίαν — πάντα δὲ ἔστω ὁλοσχερέστερον κεκομμένα — εἶτα ἐπιδούς οἶνον εὐώδη ἀπέρεισαι ἐπ ἀνθράκων πεπωμασμένον τὸ ἀγγεῖον καὶ σύζεσον τρίς, ἄρας τε ἀπὸ τοῦ πυρὸς ἔασον ἐννυκτερεῦσαι αὐτό· τῇ δ᾿ ἐχομένῃ ἀπόχεε τὸν οἶνον καὶ ἄλλον ἐπιδοὺς τοῦ αὐτοῦ γένους σύζεσον ὁμοίως ἔτι τρὶς καὶ ἄφες. πρωὶ δὲ ἀνελόμενος τὸ στέαρ ἀπόχεε τὸν οἶνον, ἐκπλύνας τε τὸ ἀγγεῖον καὶ καθάρας τὸ πρὸς τῳ πυθμένι καὶ τήξας διυλίσας τε αὐτὸ ἀπόθου καὶ χρῶ. ἀρωματίζεται δὲ καὶ τὸ τεθεραπευμένον τὸν αὐτὸν τρόπον.",
+  "original_text": null,
+  "text_source": null,
+  "emendations": [],
+  "emendation_count": 0,
+  "source_kind": "main_text",
+  "entry_kind": "recipe",
+  "citation": {
+    "pages": [
+      "154"
+    ],
+    "start": {
+      "page": "154",
+      "line": "5"
+    },
+    "end": {
+      "page": "154",
+      "line": "15"
+    },
+    "citation": {
+      "start": "154.5",
+      "end": "154.15"
+    },
+    "page_spans": [
+      {
+        "page": "154",
+        "start_line": "5",
+        "end_line": "15"
+      }
+    ],
+    "lines": [
+      {
+        "page": "154",
+        "line": "5",
+        "break_no": false,
+        "raw_text": "τὸ μέλλον εὐωδιάζεσθαι καὶ πλύνας, ὡς προείρηται, σύζεσον οἴνῳ ἀθαλάσσῳ τε καὶ εὐώδει, εἶτα ἀνελόμενος καὶ ἐννυκτερεῦσαι ἀφφὶς ἕτερον οἶνον ἀπὸ τοῦ αὐτοῦ γένους ἐπίχεε τῷ πλήθει τοσοῦτον, ὅσον ἦν ὁ ἔμπροσθεν δοθείς, καὶ τήξας ἀποκογχίσας τε ἐπιμελῶς, πρὸς ἐννέα κοτύλας τοῦ στέατος ἔμβολε",
+        "text": "τὸ μέλλον εὐωδιάζεσθαι καὶ πλύνας, ὡς προείρηται, σύζεσον οἴνῳ ἀθαλάσσῳ τε καὶ εὐώδει, εἶτα ἀνελόμενος καὶ ἐννυκτερεῦσαι ἀφφὶς ἕτερον οἶνον ἀπὸ τοῦ αὐτοῦ γένους ἐπίχεε τῷ πλήθει τοσοῦτον, ὅσον ἦν ὁ ἔμπροσθεν δοθείς, καὶ τήξας ἀποκογχίσας τε ἐπιμελῶς, πρὸς ἐννέα κοτύλας τοῦ στέατος ἔμβολε",
+        "citation": "154.5"
+      },
+      {
+        "page": "154",
+        "line": "10",
+        "break_no": false,
+        "raw_text": "9 σχοίνου Ἀραβικῆς ὁλκὰς ἑπτά· ἐὰν δὲ εὐωδέστερον ποιῆσαι θέλῃς, τοῦ ἄνθους ὁλκὰς τεσσαράκοντα, προσαπόδος δὲ καὶ φοίνικος καὶ καλάμου τὰς ἴσας ὁλκάς, ἀσπαλάθου τε καὶ ξυλοβαλσάμου ἀνὰ ὁλκὴν μίαν μεῖξον δὲ καὶ καρδαμώμου καὶ νάρδου καὶ κασσίας καὶ κιναμώμου ἀνὰ οὐγγίαν μίαν — πάντα",
+        "text": "σχοίνου Ἀραβικῆς ὁλκὰς ἑπτά· ἐὰν δὲ εὐωδέστερον ποιῆσαι θέλῃς, τοῦ ἄνθους ὁλκὰς τεσσαράκοντα, προσαπόδος δὲ καὶ φοίνικος καὶ καλάμου τὰς ἴσας ὁλκάς, ἀσπαλάθου τε καὶ ξυλοβαλσάμου ἀνὰ ὁλκὴν μίαν μεῖξον δὲ καὶ καρδαμώμου καὶ νάρδου καὶ κασσίας καὶ κιναμώμου ἀνὰ οὐγγίαν μίαν — πάντα",
+        "citation": "154.10"
+      },
+      {
+        "page": "154",
+        "line": "15",
+        "break_no": false,
+        "raw_text": "δὲ ἔστω ὁλοσχερέστερον κεκομμένα — εἶτα ἐπιδούς οἶνον εὐώδη ἀπέρεισαι ἐπ ἀνθράκων πεπωμασμένον τὸ ἀγγεῖον καὶ σύζεσον τρίς, ἄρας τε ἀπὸ τοῦ πυρὸς ἔασον ἐννυκτερεῦσαι αὐτό· τῇ δ᾿ ἐχομένῃ ἀπόχεε τὸν οἶνον καὶ ἄλλον ἐπιδοὺς τοῦ αὐτοῦ γένους σύζεσον ὁμοίως ἔτι τρὶς καὶ ἄφες.",
+        "text": "δὲ ἔστω ὁλοσχερέστερον κεκομμένα — εἶτα ἐπιδούς οἶνον εὐώδη ἀπέρεισαι ἐπ ἀνθράκων πεπωμασμένον τὸ ἀγγεῖον καὶ σύζεσον τρίς, ἄρας τε ἀπὸ τοῦ πυρὸς ἔασον ἐννυκτερεῦσαι αὐτό· τῇ δ᾿ ἐχομένῃ ἀπόχεε τὸν οἶνον καὶ ἄλλον ἐπιδοὺς τοῦ αὐτοῦ γένους σύζεσον ὁμοίως ἔτι τρὶς καὶ ἄφες.",
+        "citation": "154.15"
+      },
+      {
+        "page": "154",
+        "line": "15",
+        "break_no": false,
+        "raw_text": "10 πρωὶ δὲ ἀνελόμενος τὸ",
+        "text": "πρωὶ δὲ ἀνελόμενος τὸ",
+        "citation": "154.15"
+      }
+    ],
+    "edition_key": "wellmann"
+  },
+  "notes": [
+    "Book 2 fats slice split into logical preparation and technique units from chapters 72, 74, and 76.",
+    "Bare Arabic numerals in the raw witness are treated as structural or note noise and removed from display text, except parenthetical cross-references such as (I 68).",
+    "Section markers are stored separately and displayed near sentence boundaries as heuristic navigation aids.",
+    "Distributive ἀνὰ governs the quantities for ἀσπαλάθου τε καὶ ξυλοβαλσάμου and for καρδαμώμου καὶ νάρδου καὶ κασσίας καὶ κιναμώμου."
+  ],
+  "alignment_status": "pending",
+  "alignment_confidence": "pending",
+  "alignment_evidence": null,
+  "review_status": "reviewed_structured_authority",
+  "review_provenance": {
+    "authority_source": "reports/entity_review/structured/dioscorides.json",
+    "authority_recipe_id": "dioscorides-2-76-aromatized-calf-bull-deer-stear",
+    "authority_lemma": "στέαρ μόσχειον καὶ ταύρειον καὶ ἐλάφειον ἀρωματιστόν",
+    "model": "gpt-5.4",
+    "reasoning_effort": "high",
+    "dataset_key": "dioscorides_book2_fats",
+    "entity_model_version": "1.2",
+    "authority_version": "2026-04-13-qty-alt-v1",
+    "prompt_version": "qty-alt-pass-v1",
+    "build_version": "2026-05-18T15:51:35Z"
+  },
+  "schema_version": "1.2",
+  "build_metadata": {
+    "builder": "scripts/recipes/build_recipe_entities.py",
+    "built_at": "2026-05-18T15:51:35Z",
+    "source_structured_authority": "reports/entity_review/structured/dioscorides.json",
+    "authority_model": "gpt-5.4",
+    "authority_reasoning_effort": "high",
+    "dataset_key": "dioscorides_book2_fats",
+    "entity_model_version": "1.2",
+    "authority_version": "2026-04-13-qty-alt-v1",
+    "prompt_version": "qty-alt-pass-v1",
+    "build_version": "2026-05-18T15:51:35Z"
+  },
+  "recipe_text_excerpt": "ἀρωματιστέο΄ν δὲ στέαρ μόσχειον καὶ ταύρειον, ἔτι δὲ ἐλάφειον καὶ μυελὸν τοῦδε τοῦ ζῴου τὸν τρόπον τοῦτον· ἐξενίσας τὸ μέλλον",
+  "preparation": {
+    "preparation_id": "dioscorides-2-76-aromatized-calf-bull-deer-stear:preparation:stear-moscheion-kai-tayreion-kai-elapheion-aromatiston",
+    "preparation_urn": "urn:aos:recipe-preparation:dioscorides-2-76-aromatized-calf-bull-deer-stear:preparation:stear-moscheion-kai-tayreion-kai-elapheion-aromatiston",
+    "source_span": "στέαρ μόσχειον καὶ ταύρειον καὶ ἐλάφειον ἀρωματιστόν",
+    "surface_form": "στέαρ μόσχειον καὶ ταύρειον καὶ ἐλάφειον ἀρωματιστόν",
+    "normalized_label": "στέαρ μόσχειον καὶ ταύρειον καὶ ἐλάφειον ἀρωματιστόν",
+    "qualifiers": [
+      {
+        "qualifier_type": "other",
+        "source_span": "ἀρωματιστόν",
+        "normalized_value": "ἀρωματιστόν",
+        "certainty": "certain",
+        "notes": []
+      }
+    ],
+    "regimen_notes": [],
+    "certainty": "certain",
+    "notes": [],
+    "host_locator": {
+      "book": "2",
+      "chapter": "76",
+      "section": "8-10",
+      "citation": {
+        "start": "154.5",
+        "end": "154.15"
+      }
+    }
+  },
+  "ingredients": [
+    {
+      "ingredient_id": "dioscorides-2-76-aromatized-calf-bull-deer-stear:ingredient:stear-moscheion-1",
+      "ingredient_urn": "urn:aos:recipe-ingredient:dioscorides-2-76-aromatized-calf-bull-deer-stear:ingredient:stear-moscheion-1",
+      "source_span": "στέαρ μόσχειον",
+      "surface_form": "στέαρ μόσχειον",
+      "base_label": "στέαρ",
+      "normalized_label": "στέαρ μόσχειον",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [
+        "dioscorides-2-76-aromatized-calf-bull-deer-stear:process:exenizein-1",
+        "dioscorides-2-76-aromatized-calf-bull-deer-stear:process:plynein-2",
+        "dioscorides-2-76-aromatized-calf-bull-deer-stear:process:syzein-3",
+        "dioscorides-2-76-aromatized-calf-bull-deer-stear:process:syzein-15",
+        "dioscorides-2-76-aromatized-calf-bull-deer-stear:process:syzein-20"
+      ],
+      "quantities": [],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "2",
+        "chapter": "76",
+        "section": "8-10",
+        "citation": {
+          "start": "154.5",
+          "end": "154.15"
+        }
+      }
+    },
+    {
+      "ingredient_id": "dioscorides-2-76-aromatized-calf-bull-deer-stear:ingredient:stear-tayreion-2",
+      "ingredient_urn": "urn:aos:recipe-ingredient:dioscorides-2-76-aromatized-calf-bull-deer-stear:ingredient:stear-tayreion-2",
+      "source_span": "ταύρειον",
+      "surface_form": "ταύρειον",
+      "base_label": "στέαρ",
+      "normalized_label": "στέαρ ταύρειον",
+      "alternative_set_id": null,
+      "certainty": "uncertain",
+      "linked_process_ids": [
+        "dioscorides-2-76-aromatized-calf-bull-deer-stear:process:exenizein-1",
+        "dioscorides-2-76-aromatized-calf-bull-deer-stear:process:plynein-2",
+        "dioscorides-2-76-aromatized-calf-bull-deer-stear:process:syzein-3",
+        "dioscorides-2-76-aromatized-calf-bull-deer-stear:process:syzein-15",
+        "dioscorides-2-76-aromatized-calf-bull-deer-stear:process:syzein-20"
+      ],
+      "quantities": [],
+      "qualifiers": [],
+      "notes": [
+        "Head noun στέαρ restored from the coordination."
+      ],
+      "host_locator": {
+        "book": "2",
+        "chapter": "76",
+        "section": "8-10",
+        "citation": {
+          "start": "154.5",
+          "end": "154.15"
+        }
+      }
+    },
+    {
+      "ingredient_id": "dioscorides-2-76-aromatized-calf-bull-deer-stear:ingredient:stear-elapheion-3",
+      "ingredient_urn": "urn:aos:recipe-ingredient:dioscorides-2-76-aromatized-calf-bull-deer-stear:ingredient:stear-elapheion-3",
+      "source_span": "ἐλάφειον",
+      "surface_form": "ἐλάφειον",
+      "base_label": "στέαρ",
+      "normalized_label": "στέαρ ἐλάφειον",
+      "alternative_set_id": null,
+      "certainty": "uncertain",
+      "linked_process_ids": [
+        "dioscorides-2-76-aromatized-calf-bull-deer-stear:process:exenizein-1",
+        "dioscorides-2-76-aromatized-calf-bull-deer-stear:process:plynein-2",
+        "dioscorides-2-76-aromatized-calf-bull-deer-stear:process:syzein-3",
+        "dioscorides-2-76-aromatized-calf-bull-deer-stear:process:syzein-15",
+        "dioscorides-2-76-aromatized-calf-bull-deer-stear:process:syzein-20"
+      ],
+      "quantities": [],
+      "qualifiers": [],
+      "notes": [
+        "Head noun στέαρ restored from the coordination."
+      ],
+      "host_locator": {
+        "book": "2",
+        "chapter": "76",
+        "section": "8-10",
+        "citation": {
+          "start": "154.5",
+          "end": "154.15"
+        }
+      }
+    },
+    {
+      "ingredient_id": "dioscorides-2-76-aromatized-calf-bull-deer-stear:ingredient:myelos-toy-aytoy-zooy-4",
+      "ingredient_urn": "urn:aos:recipe-ingredient:dioscorides-2-76-aromatized-calf-bull-deer-stear:ingredient:myelos-toy-aytoy-zooy-4",
+      "source_span": "μυελὸν τοῦδε τοῦ ζῴου",
+      "surface_form": "μυελὸν τοῦδε τοῦ ζῴου",
+      "base_label": "μυελός",
+      "normalized_label": "μυελός τοῦ αὐτοῦ ζῴου",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [
+        "dioscorides-2-76-aromatized-calf-bull-deer-stear:process:exenizein-1",
+        "dioscorides-2-76-aromatized-calf-bull-deer-stear:process:plynein-2",
+        "dioscorides-2-76-aromatized-calf-bull-deer-stear:process:syzein-3",
+        "dioscorides-2-76-aromatized-calf-bull-deer-stear:process:syzein-15",
+        "dioscorides-2-76-aromatized-calf-bull-deer-stear:process:syzein-20"
+      ],
+      "quantities": [],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "2",
+        "chapter": "76",
+        "section": "8-10",
+        "citation": {
+          "start": "154.5",
+          "end": "154.15"
+        }
+      }
+    },
+    {
+      "ingredient_id": "dioscorides-2-76-aromatized-calf-bull-deer-stear:ingredient:schoinos-arabike-5",
+      "ingredient_urn": "urn:aos:recipe-ingredient:dioscorides-2-76-aromatized-calf-bull-deer-stear:ingredient:schoinos-arabike-5",
+      "source_span": "σχοίνου Ἀραβικῆς",
+      "surface_form": "σχοίνου Ἀραβικῆς",
+      "base_label": "σχοῖνος",
+      "normalized_label": "σχοῖνος Ἀραβική",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [
+        "dioscorides-2-76-aromatized-calf-bull-deer-stear:process:emballein-9",
+        "dioscorides-2-76-aromatized-calf-bull-deer-stear:process:meignynai-11",
+        "dioscorides-2-76-aromatized-calf-bull-deer-stear:process:koptein-12"
+      ],
+      "quantities": [
+        {
+          "source_span": "ὁλκὰς ἑπτά",
+          "raw_number": "ἑπτά",
+          "normalized_number": 7,
+          "raw_unit": "ὁλκάς",
+          "normalized_unit": "holce",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "2",
+        "chapter": "76",
+        "section": "8-10",
+        "citation": {
+          "start": "154.5",
+          "end": "154.15"
+        }
+      }
+    },
+    {
+      "ingredient_id": "dioscorides-2-76-aromatized-calf-bull-deer-stear:ingredient:anthos-6",
+      "ingredient_urn": "urn:aos:recipe-ingredient:dioscorides-2-76-aromatized-calf-bull-deer-stear:ingredient:anthos-6",
+      "source_span": "τοῦ ἄνθους",
+      "surface_form": "τοῦ ἄνθους",
+      "base_label": "ἄνθος",
+      "normalized_label": "ἄνθος",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [
+        "dioscorides-2-76-aromatized-calf-bull-deer-stear:process:prosapodidonai-10",
+        "dioscorides-2-76-aromatized-calf-bull-deer-stear:process:meignynai-11",
+        "dioscorides-2-76-aromatized-calf-bull-deer-stear:process:koptein-12"
+      ],
+      "quantities": [
+        {
+          "source_span": "ὁλκὰς τεσσαράκοντα",
+          "raw_number": "τεσσαράκοντα",
+          "normalized_number": 40,
+          "raw_unit": "ὁλκάς",
+          "normalized_unit": "holce",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "2",
+        "chapter": "76",
+        "section": "8-10",
+        "citation": {
+          "start": "154.5",
+          "end": "154.15"
+        }
+      }
+    },
+    {
+      "ingredient_id": "dioscorides-2-76-aromatized-calf-bull-deer-stear:ingredient:phoinix-7",
+      "ingredient_urn": "urn:aos:recipe-ingredient:dioscorides-2-76-aromatized-calf-bull-deer-stear:ingredient:phoinix-7",
+      "source_span": "φοίνικος",
+      "surface_form": "φοίνικος",
+      "base_label": "φοῖνιξ",
+      "normalized_label": "φοῖνιξ",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [
+        "dioscorides-2-76-aromatized-calf-bull-deer-stear:process:prosapodidonai-10",
+        "dioscorides-2-76-aromatized-calf-bull-deer-stear:process:meignynai-11",
+        "dioscorides-2-76-aromatized-calf-bull-deer-stear:process:koptein-12"
+      ],
+      "quantities": [
+        {
+          "source_span": "τὰς ἴσας ὁλκάς",
+          "raw_number": null,
+          "normalized_number": null,
+          "raw_unit": "ὁλκάς",
+          "normalized_unit": "holce",
+          "certainty": "uncertain",
+          "notes": [
+            "Amount stated as equal to the preceding ὁλκὰς τεσσαράκοντα of ἄνθος."
+          ]
+        }
+      ],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "2",
+        "chapter": "76",
+        "section": "8-10",
+        "citation": {
+          "start": "154.5",
+          "end": "154.15"
+        }
+      }
+    },
+    {
+      "ingredient_id": "dioscorides-2-76-aromatized-calf-bull-deer-stear:ingredient:kalamos-8",
+      "ingredient_urn": "urn:aos:recipe-ingredient:dioscorides-2-76-aromatized-calf-bull-deer-stear:ingredient:kalamos-8",
+      "source_span": "καλάμου",
+      "surface_form": "καλάμου",
+      "base_label": "κάλαμος",
+      "normalized_label": "κάλαμος",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [
+        "dioscorides-2-76-aromatized-calf-bull-deer-stear:process:prosapodidonai-10",
+        "dioscorides-2-76-aromatized-calf-bull-deer-stear:process:meignynai-11",
+        "dioscorides-2-76-aromatized-calf-bull-deer-stear:process:koptein-12"
+      ],
+      "quantities": [
+        {
+          "source_span": "τὰς ἴσας ὁλκάς",
+          "raw_number": null,
+          "normalized_number": null,
+          "raw_unit": "ὁλκάς",
+          "normalized_unit": "holce",
+          "certainty": "uncertain",
+          "notes": [
+            "Amount stated as equal to the preceding ὁλκὰς τεσσαράκοντα of ἄνθος."
+          ]
+        }
+      ],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "2",
+        "chapter": "76",
+        "section": "8-10",
+        "citation": {
+          "start": "154.5",
+          "end": "154.15"
+        }
+      }
+    },
+    {
+      "ingredient_id": "dioscorides-2-76-aromatized-calf-bull-deer-stear:ingredient:aspalathos-9",
+      "ingredient_urn": "urn:aos:recipe-ingredient:dioscorides-2-76-aromatized-calf-bull-deer-stear:ingredient:aspalathos-9",
+      "source_span": "ἀσπαλάθου",
+      "surface_form": "ἀσπαλάθου",
+      "base_label": "ἀσπάλαθος",
+      "normalized_label": "ἀσπάλαθος",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [
+        "dioscorides-2-76-aromatized-calf-bull-deer-stear:process:meignynai-11",
+        "dioscorides-2-76-aromatized-calf-bull-deer-stear:process:koptein-12"
+      ],
+      "quantities": [
+        {
+          "source_span": "ὁλκὴν μίαν",
+          "raw_number": "μίαν",
+          "normalized_number": 1,
+          "raw_unit": "ὁλκήν",
+          "normalized_unit": "holce",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "2",
+        "chapter": "76",
+        "section": "8-10",
+        "citation": {
+          "start": "154.5",
+          "end": "154.15"
+        }
+      }
+    },
+    {
+      "ingredient_id": "dioscorides-2-76-aromatized-calf-bull-deer-stear:ingredient:xylobalsamon-10",
+      "ingredient_urn": "urn:aos:recipe-ingredient:dioscorides-2-76-aromatized-calf-bull-deer-stear:ingredient:xylobalsamon-10",
+      "source_span": "ξυλοβαλσάμου",
+      "surface_form": "ξυλοβαλσάμου",
+      "base_label": "ξυλοβάλσαμον",
+      "normalized_label": "ξυλοβάλσαμον",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [
+        "dioscorides-2-76-aromatized-calf-bull-deer-stear:process:meignynai-11",
+        "dioscorides-2-76-aromatized-calf-bull-deer-stear:process:koptein-12"
+      ],
+      "quantities": [
+        {
+          "source_span": "ὁλκὴν μίαν",
+          "raw_number": "μίαν",
+          "normalized_number": 1,
+          "raw_unit": "ὁλκήν",
+          "normalized_unit": "holce",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "2",
+        "chapter": "76",
+        "section": "8-10",
+        "citation": {
+          "start": "154.5",
+          "end": "154.15"
+        }
+      }
+    },
+    {
+      "ingredient_id": "dioscorides-2-76-aromatized-calf-bull-deer-stear:ingredient:kardamomon-11",
+      "ingredient_urn": "urn:aos:recipe-ingredient:dioscorides-2-76-aromatized-calf-bull-deer-stear:ingredient:kardamomon-11",
+      "source_span": "καρδαμώμου",
+      "surface_form": "καρδαμώμου",
+      "base_label": "καρδάμωμον",
+      "normalized_label": "καρδάμωμον",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [
+        "dioscorides-2-76-aromatized-calf-bull-deer-stear:process:meignynai-11",
+        "dioscorides-2-76-aromatized-calf-bull-deer-stear:process:koptein-12"
+      ],
+      "quantities": [
+        {
+          "source_span": "οὐγγίαν μίαν",
+          "raw_number": "μίαν",
+          "normalized_number": 1,
+          "raw_unit": "οὐγγίαν",
+          "normalized_unit": "uncia",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "2",
+        "chapter": "76",
+        "section": "8-10",
+        "citation": {
+          "start": "154.5",
+          "end": "154.15"
+        }
+      }
+    },
+    {
+      "ingredient_id": "dioscorides-2-76-aromatized-calf-bull-deer-stear:ingredient:nardos-12",
+      "ingredient_urn": "urn:aos:recipe-ingredient:dioscorides-2-76-aromatized-calf-bull-deer-stear:ingredient:nardos-12",
+      "source_span": "νάρδου",
+      "surface_form": "νάρδου",
+      "base_label": "νάρδος",
+      "normalized_label": "νάρδος",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [
+        "dioscorides-2-76-aromatized-calf-bull-deer-stear:process:meignynai-11",
+        "dioscorides-2-76-aromatized-calf-bull-deer-stear:process:koptein-12"
+      ],
+      "quantities": [
+        {
+          "source_span": "οὐγγίαν μίαν",
+          "raw_number": "μίαν",
+          "normalized_number": 1,
+          "raw_unit": "οὐγγίαν",
+          "normalized_unit": "uncia",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "2",
+        "chapter": "76",
+        "section": "8-10",
+        "citation": {
+          "start": "154.5",
+          "end": "154.15"
+        }
+      }
+    },
+    {
+      "ingredient_id": "dioscorides-2-76-aromatized-calf-bull-deer-stear:ingredient:kassia-13",
+      "ingredient_urn": "urn:aos:recipe-ingredient:dioscorides-2-76-aromatized-calf-bull-deer-stear:ingredient:kassia-13",
+      "source_span": "κασσίας",
+      "surface_form": "κασσίας",
+      "base_label": "κασσία",
+      "normalized_label": "κασσία",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [
+        "dioscorides-2-76-aromatized-calf-bull-deer-stear:process:meignynai-11",
+        "dioscorides-2-76-aromatized-calf-bull-deer-stear:process:koptein-12"
+      ],
+      "quantities": [
+        {
+          "source_span": "οὐγγίαν μίαν",
+          "raw_number": "μίαν",
+          "normalized_number": 1,
+          "raw_unit": "οὐγγίαν",
+          "normalized_unit": "uncia",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "2",
+        "chapter": "76",
+        "section": "8-10",
+        "citation": {
+          "start": "154.5",
+          "end": "154.15"
+        }
+      }
+    },
+    {
+      "ingredient_id": "dioscorides-2-76-aromatized-calf-bull-deer-stear:ingredient:kinamomon-14",
+      "ingredient_urn": "urn:aos:recipe-ingredient:dioscorides-2-76-aromatized-calf-bull-deer-stear:ingredient:kinamomon-14",
+      "source_span": "κιναμώμου",
+      "surface_form": "κιναμώμου",
+      "base_label": "κινάμωμον",
+      "normalized_label": "κινάμωμον",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [
+        "dioscorides-2-76-aromatized-calf-bull-deer-stear:process:meignynai-11",
+        "dioscorides-2-76-aromatized-calf-bull-deer-stear:process:koptein-12"
+      ],
+      "quantities": [
+        {
+          "source_span": "οὐγγίαν μίαν",
+          "raw_number": "μίαν",
+          "normalized_number": 1,
+          "raw_unit": "οὐγγίαν",
+          "normalized_unit": "uncia",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "2",
+        "chapter": "76",
+        "section": "8-10",
+        "citation": {
+          "start": "154.5",
+          "end": "154.15"
+        }
+      }
+    }
+  ],
+  "processes": [
+    {
+      "process_id": "dioscorides-2-76-aromatized-calf-bull-deer-stear:process:exenizein-1",
+      "process_urn": "urn:aos:recipe-process:dioscorides-2-76-aromatized-calf-bull-deer-stear:process:exenizein-1",
+      "source_span": "ἐξενίσας",
+      "surface_form": "ἐξενίσας",
+      "normalized_label": "ἐξενίζειν",
+      "target_type": "ingredient",
+      "target_ids": [
+        "dioscorides-2-76-aromatized-calf-bull-deer-stear:ingredient:stear-moscheion-1",
+        "dioscorides-2-76-aromatized-calf-bull-deer-stear:ingredient:stear-tayreion-2",
+        "dioscorides-2-76-aromatized-calf-bull-deer-stear:ingredient:stear-elapheion-3",
+        "dioscorides-2-76-aromatized-calf-bull-deer-stear:ingredient:myelos-toy-aytoy-zooy-4"
+      ],
+      "quantities": [],
+      "qualifiers": [],
+      "certainty": "uncertain",
+      "notes": [
+        "Rare verb; infinitive normalized from the transmitted participle."
+      ],
+      "host_locator": {
+        "book": "2",
+        "chapter": "76",
+        "section": "8-10",
+        "citation": {
+          "start": "154.5",
+          "end": "154.15"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-2-76-aromatized-calf-bull-deer-stear:process:plynein-2",
+      "process_urn": "urn:aos:recipe-process:dioscorides-2-76-aromatized-calf-bull-deer-stear:process:plynein-2",
+      "source_span": "πλύνας",
+      "surface_form": "πλύνας",
+      "normalized_label": "πλύνειν",
+      "target_type": "ingredient",
+      "target_ids": [
+        "dioscorides-2-76-aromatized-calf-bull-deer-stear:ingredient:stear-moscheion-1",
+        "dioscorides-2-76-aromatized-calf-bull-deer-stear:ingredient:stear-tayreion-2",
+        "dioscorides-2-76-aromatized-calf-bull-deer-stear:ingredient:stear-elapheion-3",
+        "dioscorides-2-76-aromatized-calf-bull-deer-stear:ingredient:myelos-toy-aytoy-zooy-4"
+      ],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "manner",
+          "source_span": "ὡς προείρηται",
+          "normalized_value": "ὡς προείρηται",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "2",
+        "chapter": "76",
+        "section": "8-10",
+        "citation": {
+          "start": "154.5",
+          "end": "154.15"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-2-76-aromatized-calf-bull-deer-stear:process:syzein-3",
+      "process_urn": "urn:aos:recipe-process:dioscorides-2-76-aromatized-calf-bull-deer-stear:process:syzein-3",
+      "source_span": "σύζεσον",
+      "surface_form": "σύζεσον",
+      "normalized_label": "συζεῖν",
+      "target_type": "ingredient",
+      "target_ids": [
+        "dioscorides-2-76-aromatized-calf-bull-deer-stear:ingredient:stear-moscheion-1",
+        "dioscorides-2-76-aromatized-calf-bull-deer-stear:ingredient:stear-tayreion-2",
+        "dioscorides-2-76-aromatized-calf-bull-deer-stear:ingredient:stear-elapheion-3",
+        "dioscorides-2-76-aromatized-calf-bull-deer-stear:ingredient:myelos-toy-aytoy-zooy-4"
+      ],
+      "quantities": [],
+      "qualifiers": [],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "2",
+        "chapter": "76",
+        "section": "8-10",
+        "citation": {
+          "start": "154.5",
+          "end": "154.15"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-2-76-aromatized-calf-bull-deer-stear:process:anairein-4",
+      "process_urn": "urn:aos:recipe-process:dioscorides-2-76-aromatized-calf-bull-deer-stear:process:anairein-4",
+      "source_span": "ἀνελόμενος",
+      "surface_form": "ἀνελόμενος",
+      "normalized_label": "ἀναιρεῖν",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "2",
+        "chapter": "76",
+        "section": "8-10",
+        "citation": {
+          "start": "154.5",
+          "end": "154.15"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-2-76-aromatized-calf-bull-deer-stear:process:ennyktereyein-5",
+      "process_urn": "urn:aos:recipe-process:dioscorides-2-76-aromatized-calf-bull-deer-stear:process:ennyktereyein-5",
+      "source_span": "ἐννυκτερεῦσαι",
+      "surface_form": "ἐννυκτερεῦσαι",
+      "normalized_label": "ἐννυκτερεύειν",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "2",
+        "chapter": "76",
+        "section": "8-10",
+        "citation": {
+          "start": "154.5",
+          "end": "154.15"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-2-76-aromatized-calf-bull-deer-stear:process:epicheein-6",
+      "process_urn": "urn:aos:recipe-process:dioscorides-2-76-aromatized-calf-bull-deer-stear:process:epicheein-6",
+      "source_span": "ἐπίχεε",
+      "surface_form": "ἐπίχεε",
+      "normalized_label": "ἐπιχέειν",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "2",
+        "chapter": "76",
+        "section": "8-10",
+        "citation": {
+          "start": "154.5",
+          "end": "154.15"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-2-76-aromatized-calf-bull-deer-stear:process:tekein-7",
+      "process_urn": "urn:aos:recipe-process:dioscorides-2-76-aromatized-calf-bull-deer-stear:process:tekein-7",
+      "source_span": "τήξας",
+      "surface_form": "τήξας",
+      "normalized_label": "τήκειν",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "2",
+        "chapter": "76",
+        "section": "8-10",
+        "citation": {
+          "start": "154.5",
+          "end": "154.15"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-2-76-aromatized-calf-bull-deer-stear:process:apokogchizein-8",
+      "process_urn": "urn:aos:recipe-process:dioscorides-2-76-aromatized-calf-bull-deer-stear:process:apokogchizein-8",
+      "source_span": "ἀποκογχίσας",
+      "surface_form": "ἀποκογχίσας",
+      "normalized_label": "ἀποκογχίζειν",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "manner",
+          "source_span": "ἐπιμελῶς",
+          "normalized_value": "ἐπιμελῶς",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "certainty": "uncertain",
+      "notes": [
+        "Technical verb normalized from the transmitted participle."
+      ],
+      "host_locator": {
+        "book": "2",
+        "chapter": "76",
+        "section": "8-10",
+        "citation": {
+          "start": "154.5",
+          "end": "154.15"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-2-76-aromatized-calf-bull-deer-stear:process:emballein-9",
+      "process_urn": "urn:aos:recipe-process:dioscorides-2-76-aromatized-calf-bull-deer-stear:process:emballein-9",
+      "source_span": "ἔμβολε",
+      "surface_form": "ἔμβολε",
+      "normalized_label": "ἐμβάλλειν",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [
+        {
+          "source_span": "ἐννέα κοτύλας τοῦ στέατος",
+          "raw_number": "ἐννέα",
+          "normalized_number": 9,
+          "raw_unit": "κοτύλας",
+          "normalized_unit": "cotyle",
+          "certainty": "certain",
+          "notes": [
+            "Basis amount of fat for the additive ratio."
+          ]
+        }
+      ],
+      "qualifiers": [],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "2",
+        "chapter": "76",
+        "section": "8-10",
+        "citation": {
+          "start": "154.5",
+          "end": "154.15"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-2-76-aromatized-calf-bull-deer-stear:process:prosapodidonai-10",
+      "process_urn": "urn:aos:recipe-process:dioscorides-2-76-aromatized-calf-bull-deer-stear:process:prosapodidonai-10",
+      "source_span": "προσαπόδος",
+      "surface_form": "προσαπόδος",
+      "normalized_label": "προσαποδιδόναι",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [],
+      "certainty": "uncertain",
+      "notes": [
+        "Infinitive normalized from the imperative."
+      ],
+      "host_locator": {
+        "book": "2",
+        "chapter": "76",
+        "section": "8-10",
+        "citation": {
+          "start": "154.5",
+          "end": "154.15"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-2-76-aromatized-calf-bull-deer-stear:process:meignynai-11",
+      "process_urn": "urn:aos:recipe-process:dioscorides-2-76-aromatized-calf-bull-deer-stear:process:meignynai-11",
+      "source_span": "μεῖξον",
+      "surface_form": "μεῖξον",
+      "normalized_label": "μείγνυναι",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "2",
+        "chapter": "76",
+        "section": "8-10",
+        "citation": {
+          "start": "154.5",
+          "end": "154.15"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-2-76-aromatized-calf-bull-deer-stear:process:koptein-12",
+      "process_urn": "urn:aos:recipe-process:dioscorides-2-76-aromatized-calf-bull-deer-stear:process:koptein-12",
+      "source_span": "κεκομμένα",
+      "surface_form": "κεκομμένα",
+      "normalized_label": "κόπτειν",
+      "target_type": "ingredient",
+      "target_ids": [
+        "dioscorides-2-76-aromatized-calf-bull-deer-stear:ingredient:schoinos-arabike-5",
+        "dioscorides-2-76-aromatized-calf-bull-deer-stear:ingredient:anthos-6",
+        "dioscorides-2-76-aromatized-calf-bull-deer-stear:ingredient:phoinix-7",
+        "dioscorides-2-76-aromatized-calf-bull-deer-stear:ingredient:kalamos-8",
+        "dioscorides-2-76-aromatized-calf-bull-deer-stear:ingredient:aspalathos-9",
+        "dioscorides-2-76-aromatized-calf-bull-deer-stear:ingredient:xylobalsamon-10",
+        "dioscorides-2-76-aromatized-calf-bull-deer-stear:ingredient:kardamomon-11",
+        "dioscorides-2-76-aromatized-calf-bull-deer-stear:ingredient:nardos-12",
+        "dioscorides-2-76-aromatized-calf-bull-deer-stear:ingredient:kassia-13",
+        "dioscorides-2-76-aromatized-calf-bull-deer-stear:ingredient:kinamomon-14"
+      ],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "manner",
+          "source_span": "ὁλοσχερέστερον",
+          "normalized_value": "ὁλοσχερέστερον",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "2",
+        "chapter": "76",
+        "section": "8-10",
+        "citation": {
+          "start": "154.5",
+          "end": "154.15"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-2-76-aromatized-calf-bull-deer-stear:process:epididonai-13",
+      "process_urn": "urn:aos:recipe-process:dioscorides-2-76-aromatized-calf-bull-deer-stear:process:epididonai-13",
+      "source_span": "ἐπιδούς",
+      "surface_form": "ἐπιδούς",
+      "normalized_label": "ἐπιδιδόναι",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "2",
+        "chapter": "76",
+        "section": "8-10",
+        "citation": {
+          "start": "154.5",
+          "end": "154.15"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-2-76-aromatized-calf-bull-deer-stear:process:apereidein-14",
+      "process_urn": "urn:aos:recipe-process:dioscorides-2-76-aromatized-calf-bull-deer-stear:process:apereidein-14",
+      "source_span": "ἀπέρεισαι",
+      "surface_form": "ἀπέρεισαι",
+      "normalized_label": "ἀπερείδειν",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "location",
+          "source_span": "ἐπ ἀνθράκων",
+          "normalized_value": "ἐπ ἀνθράκων",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "certainty": "uncertain",
+      "notes": [
+        "Verb normalization is uncertain; the clause positions the vessel on/over coals."
+      ],
+      "host_locator": {
+        "book": "2",
+        "chapter": "76",
+        "section": "8-10",
+        "citation": {
+          "start": "154.5",
+          "end": "154.15"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-2-76-aromatized-calf-bull-deer-stear:process:syzein-15",
+      "process_urn": "urn:aos:recipe-process:dioscorides-2-76-aromatized-calf-bull-deer-stear:process:syzein-15",
+      "source_span": "σύζεσον",
+      "surface_form": "σύζεσον",
+      "normalized_label": "συζεῖν",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "cycle_count",
+          "source_span": "τρίς",
+          "normalized_value": "3",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "2",
+        "chapter": "76",
+        "section": "8-10",
+        "citation": {
+          "start": "154.5",
+          "end": "154.15"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-2-76-aromatized-calf-bull-deer-stear:process:airein-16",
+      "process_urn": "urn:aos:recipe-process:dioscorides-2-76-aromatized-calf-bull-deer-stear:process:airein-16",
+      "source_span": "ἄρας",
+      "surface_form": "ἄρας",
+      "normalized_label": "αἴρειν",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "location",
+          "source_span": "ἀπὸ τοῦ πυρὸς",
+          "normalized_value": "ἀπὸ τοῦ πυρὸς",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "2",
+        "chapter": "76",
+        "section": "8-10",
+        "citation": {
+          "start": "154.5",
+          "end": "154.15"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-2-76-aromatized-calf-bull-deer-stear:process:ean-17",
+      "process_urn": "urn:aos:recipe-process:dioscorides-2-76-aromatized-calf-bull-deer-stear:process:ean-17",
+      "source_span": "ἔασον",
+      "surface_form": "ἔασον",
+      "normalized_label": "ἐᾶν",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "duration",
+          "source_span": "ἐννυκτερεῦσαι",
+          "normalized_value": "overnight",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "2",
+        "chapter": "76",
+        "section": "8-10",
+        "citation": {
+          "start": "154.5",
+          "end": "154.15"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-2-76-aromatized-calf-bull-deer-stear:process:apocheein-18",
+      "process_urn": "urn:aos:recipe-process:dioscorides-2-76-aromatized-calf-bull-deer-stear:process:apocheein-18",
+      "source_span": "ἀπόχεε",
+      "surface_form": "ἀπόχεε",
+      "normalized_label": "ἀποχέειν",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "2",
+        "chapter": "76",
+        "section": "8-10",
+        "citation": {
+          "start": "154.5",
+          "end": "154.15"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-2-76-aromatized-calf-bull-deer-stear:process:epididonai-19",
+      "process_urn": "urn:aos:recipe-process:dioscorides-2-76-aromatized-calf-bull-deer-stear:process:epididonai-19",
+      "source_span": "ἐπιδοὺς",
+      "surface_form": "ἐπιδοὺς",
+      "normalized_label": "ἐπιδιδόναι",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "2",
+        "chapter": "76",
+        "section": "8-10",
+        "citation": {
+          "start": "154.5",
+          "end": "154.15"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-2-76-aromatized-calf-bull-deer-stear:process:syzein-20",
+      "process_urn": "urn:aos:recipe-process:dioscorides-2-76-aromatized-calf-bull-deer-stear:process:syzein-20",
+      "source_span": "σύζεσον",
+      "surface_form": "σύζεσον",
+      "normalized_label": "συζεῖν",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "cycle_count",
+          "source_span": "ἔτι τρὶς",
+          "normalized_value": "3",
+          "certainty": "certain",
+          "notes": []
+        },
+        {
+          "qualifier_type": "manner",
+          "source_span": "ὁμοίως",
+          "normalized_value": "ὁμοίως",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "2",
+        "chapter": "76",
+        "section": "8-10",
+        "citation": {
+          "start": "154.5",
+          "end": "154.15"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-2-76-aromatized-calf-bull-deer-stear:process:ean-21",
+      "process_urn": "urn:aos:recipe-process:dioscorides-2-76-aromatized-calf-bull-deer-stear:process:ean-21",
+      "source_span": "ἄφες",
+      "surface_form": "ἄφες",
+      "normalized_label": "ἐᾶν",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "2",
+        "chapter": "76",
+        "section": "8-10",
+        "citation": {
+          "start": "154.5",
+          "end": "154.15"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-2-76-aromatized-calf-bull-deer-stear:process:anairein-22",
+      "process_urn": "urn:aos:recipe-process:dioscorides-2-76-aromatized-calf-bull-deer-stear:process:anairein-22",
+      "source_span": "ἀνελόμενος",
+      "surface_form": "ἀνελόμενος",
+      "normalized_label": "ἀναιρεῖν",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "other",
+          "source_span": "πρωὶ",
+          "normalized_value": "πρωὶ",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "2",
+        "chapter": "76",
+        "section": "8-10",
+        "citation": {
+          "start": "154.5",
+          "end": "154.15"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-2-76-aromatized-calf-bull-deer-stear:process:apocheein-23",
+      "process_urn": "urn:aos:recipe-process:dioscorides-2-76-aromatized-calf-bull-deer-stear:process:apocheein-23",
+      "source_span": "ἀπόχεε",
+      "surface_form": "ἀπόχεε",
+      "normalized_label": "ἀποχέειν",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "2",
+        "chapter": "76",
+        "section": "8-10",
+        "citation": {
+          "start": "154.5",
+          "end": "154.15"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-2-76-aromatized-calf-bull-deer-stear:process:ekplynein-24",
+      "process_urn": "urn:aos:recipe-process:dioscorides-2-76-aromatized-calf-bull-deer-stear:process:ekplynein-24",
+      "source_span": "ἐκπλύνας",
+      "surface_form": "ἐκπλύνας",
+      "normalized_label": "ἐκπλύνειν",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [],
+      "certainty": "certain",
+      "notes": [
+        "The direct object is the vessel."
+      ],
+      "host_locator": {
+        "book": "2",
+        "chapter": "76",
+        "section": "8-10",
+        "citation": {
+          "start": "154.5",
+          "end": "154.15"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-2-76-aromatized-calf-bull-deer-stear:process:kathairein-25",
+      "process_urn": "urn:aos:recipe-process:dioscorides-2-76-aromatized-calf-bull-deer-stear:process:kathairein-25",
+      "source_span": "καθάρας",
+      "surface_form": "καθάρας",
+      "normalized_label": "καθαίρειν",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "location",
+          "source_span": "τὸ πρὸς τῳ πυθμένι",
+          "normalized_value": "τὸ πρὸς τῳ πυθμένι",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "2",
+        "chapter": "76",
+        "section": "8-10",
+        "citation": {
+          "start": "154.5",
+          "end": "154.15"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-2-76-aromatized-calf-bull-deer-stear:process:tekein-26",
+      "process_urn": "urn:aos:recipe-process:dioscorides-2-76-aromatized-calf-bull-deer-stear:process:tekein-26",
+      "source_span": "τήξας",
+      "surface_form": "τήξας",
+      "normalized_label": "τήκειν",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "2",
+        "chapter": "76",
+        "section": "8-10",
+        "citation": {
+          "start": "154.5",
+          "end": "154.15"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-2-76-aromatized-calf-bull-deer-stear:process:diylizein-27",
+      "process_urn": "urn:aos:recipe-process:dioscorides-2-76-aromatized-calf-bull-deer-stear:process:diylizein-27",
+      "source_span": "διυλίσας",
+      "surface_form": "διυλίσας",
+      "normalized_label": "διυλίζειν",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "2",
+        "chapter": "76",
+        "section": "8-10",
+        "citation": {
+          "start": "154.5",
+          "end": "154.15"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-2-76-aromatized-calf-bull-deer-stear:process:apotithesthai-28",
+      "process_urn": "urn:aos:recipe-process:dioscorides-2-76-aromatized-calf-bull-deer-stear:process:apotithesthai-28",
+      "source_span": "ἀπόθου",
+      "surface_form": "ἀπόθου",
+      "normalized_label": "ἀποτίθεσθαι",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "2",
+        "chapter": "76",
+        "section": "8-10",
+        "citation": {
+          "start": "154.5",
+          "end": "154.15"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-2-76-aromatized-calf-bull-deer-stear:process:chresthai-29",
+      "process_urn": "urn:aos:recipe-process:dioscorides-2-76-aromatized-calf-bull-deer-stear:process:chresthai-29",
+      "source_span": "χρῶ",
+      "surface_form": "χρῶ",
+      "normalized_label": "χρῆσθαι",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "2",
+        "chapter": "76",
+        "section": "8-10",
+        "citation": {
+          "start": "154.5",
+          "end": "154.15"
+        }
+      }
+    }
+  ],
+  "materials": [
+    {
+      "material_id": "dioscorides-2-76-aromatized-calf-bull-deer-stear:material:oinos-athalassos-kai-eyodes-1",
+      "material_urn": "urn:aos:recipe-material:dioscorides-2-76-aromatized-calf-bull-deer-stear:material:oinos-athalassos-kai-eyodes-1",
+      "source_span": "οἴνῳ ἀθαλάσσῳ τε καὶ εὐώδει",
+      "surface_form": "οἴνῳ ἀθαλάσσῳ τε καὶ εὐώδει",
+      "normalized_label": "οἶνος ἀθάλασσος καὶ εὐώδης",
+      "role": "carrier",
+      "certainty": "certain",
+      "quantities": [],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "2",
+        "chapter": "76",
+        "section": "8-10",
+        "citation": {
+          "start": "154.5",
+          "end": "154.15"
+        }
+      }
+    },
+    {
+      "material_id": "dioscorides-2-76-aromatized-calf-bull-deer-stear:material:oinos-apo-toy-aytoy-genoys-2",
+      "material_urn": "urn:aos:recipe-material:dioscorides-2-76-aromatized-calf-bull-deer-stear:material:oinos-apo-toy-aytoy-genoys-2",
+      "source_span": "ἕτερον οἶνον ἀπὸ τοῦ αὐτοῦ γένους",
+      "surface_form": "ἕτερον οἶνον ἀπὸ τοῦ αὐτοῦ γένους",
+      "normalized_label": "οἶνος ἀπὸ τοῦ αὐτοῦ γένους",
+      "role": "carrier",
+      "certainty": "certain",
+      "quantities": [
+        {
+          "source_span": "τοσοῦτον, ὅσον ἦν ὁ ἔμπροσθεν δοθείς",
+          "raw_number": null,
+          "normalized_number": null,
+          "raw_unit": null,
+          "normalized_unit": null,
+          "certainty": "uncertain",
+          "notes": [
+            "Relative amount equal to the first wine addition."
+          ]
+        }
+      ],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "2",
+        "chapter": "76",
+        "section": "8-10",
+        "citation": {
+          "start": "154.5",
+          "end": "154.15"
+        }
+      }
+    },
+    {
+      "material_id": "dioscorides-2-76-aromatized-calf-bull-deer-stear:material:oinos-eyodes-3",
+      "material_urn": "urn:aos:recipe-material:dioscorides-2-76-aromatized-calf-bull-deer-stear:material:oinos-eyodes-3",
+      "source_span": "οἶνον εὐώδη",
+      "surface_form": "οἶνον εὐώδη",
+      "normalized_label": "οἶνος εὐώδης",
+      "role": "carrier",
+      "certainty": "certain",
+      "quantities": [],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "2",
+        "chapter": "76",
+        "section": "8-10",
+        "citation": {
+          "start": "154.5",
+          "end": "154.15"
+        }
+      }
+    },
+    {
+      "material_id": "dioscorides-2-76-aromatized-calf-bull-deer-stear:material:aggeion-4",
+      "material_urn": "urn:aos:recipe-material:dioscorides-2-76-aromatized-calf-bull-deer-stear:material:aggeion-4",
+      "source_span": "τὸ ἀγγεῖον",
+      "surface_form": "τὸ ἀγγεῖον",
+      "normalized_label": "ἀγγεῖον",
+      "role": "apparatus",
+      "certainty": "certain",
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "other",
+          "source_span": "πεπωμασμένον",
+          "normalized_value": "πεπωμασμένον",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "notes": [],
+      "host_locator": {
+        "book": "2",
+        "chapter": "76",
+        "section": "8-10",
+        "citation": {
+          "start": "154.5",
+          "end": "154.15"
+        }
+      }
+    },
+    {
+      "material_id": "dioscorides-2-76-aromatized-calf-bull-deer-stear:material:anthrakes-5",
+      "material_urn": "urn:aos:recipe-material:dioscorides-2-76-aromatized-calf-bull-deer-stear:material:anthrakes-5",
+      "source_span": "ἀνθράκων",
+      "surface_form": "ἀνθράκων",
+      "normalized_label": "ἄνθρακες",
+      "role": "fuel",
+      "certainty": "certain",
+      "quantities": [],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "2",
+        "chapter": "76",
+        "section": "8-10",
+        "citation": {
+          "start": "154.5",
+          "end": "154.15"
+        }
+      }
+    }
+  ],
+  "people": [],
+  "places": [],
+  "uses": [],
+  "preparation_names": [],
+  "other_preparations_mentioned": [
+    {
+      "reference_id": "dioscorides-2-76-aromatized-calf-bull-deer-stear:reference:stear-tetherapeymenon-1",
+      "reference_urn": "urn:aos:recipe-reference:dioscorides-2-76-aromatized-calf-bull-deer-stear:reference:stear-tetherapeymenon-1",
+      "source_span": "τὸ τεθεραπευμένον",
+      "surface_form": "τὸ τεθεραπευμένον",
+      "normalized_label": "στέαρ τεθεραπευμένον",
+      "certainty": "uncertain",
+      "notes": [
+        "Head noun restored from the surrounding discussion of fat."
+      ],
+      "host_locator": {
+        "book": "2",
+        "chapter": "76",
+        "section": "8-10",
+        "citation": {
+          "start": "154.5",
+          "end": "154.15"
+        }
+      }
+    }
+  ],
+  "works_mentioned": [],
+  "entities": [
+    {
+      "entity_urn": "urn:aos:recipe-preparation:dioscorides-2-76-aromatized-calf-bull-deer-stear:preparation:stear-moscheion-kai-tayreion-kai-elapheion-aromatiston",
+      "entity_type": "label",
+      "surface_form": "στέαρ μόσχειον καὶ ταύρειον καὶ ἐλάφειον ἀρωματιστόν",
+      "normalized_label": "στέαρ μόσχειον καὶ ταύρειον καὶ ἐλάφειον ἀρωματιστόν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:dioscorides-2-76-aromatized-calf-bull-deer-stear:ingredient:stear-moscheion-1",
+      "entity_type": "ingredient",
+      "surface_form": "στέαρ μόσχειον",
+      "normalized_label": "στέαρ μόσχειον"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:dioscorides-2-76-aromatized-calf-bull-deer-stear:ingredient:stear-tayreion-2",
+      "entity_type": "ingredient",
+      "surface_form": "ταύρειον",
+      "normalized_label": "στέαρ ταύρειον"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:dioscorides-2-76-aromatized-calf-bull-deer-stear:ingredient:stear-elapheion-3",
+      "entity_type": "ingredient",
+      "surface_form": "ἐλάφειον",
+      "normalized_label": "στέαρ ἐλάφειον"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:dioscorides-2-76-aromatized-calf-bull-deer-stear:ingredient:myelos-toy-aytoy-zooy-4",
+      "entity_type": "ingredient",
+      "surface_form": "μυελὸν τοῦδε τοῦ ζῴου",
+      "normalized_label": "μυελός τοῦ αὐτοῦ ζῴου"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:dioscorides-2-76-aromatized-calf-bull-deer-stear:ingredient:schoinos-arabike-5",
+      "entity_type": "ingredient",
+      "surface_form": "σχοίνου Ἀραβικῆς",
+      "normalized_label": "σχοῖνος Ἀραβική"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:dioscorides-2-76-aromatized-calf-bull-deer-stear:ingredient:anthos-6",
+      "entity_type": "ingredient",
+      "surface_form": "τοῦ ἄνθους",
+      "normalized_label": "ἄνθος"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:dioscorides-2-76-aromatized-calf-bull-deer-stear:ingredient:phoinix-7",
+      "entity_type": "ingredient",
+      "surface_form": "φοίνικος",
+      "normalized_label": "φοῖνιξ"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:dioscorides-2-76-aromatized-calf-bull-deer-stear:ingredient:kalamos-8",
+      "entity_type": "ingredient",
+      "surface_form": "καλάμου",
+      "normalized_label": "κάλαμος"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:dioscorides-2-76-aromatized-calf-bull-deer-stear:ingredient:aspalathos-9",
+      "entity_type": "ingredient",
+      "surface_form": "ἀσπαλάθου",
+      "normalized_label": "ἀσπάλαθος"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:dioscorides-2-76-aromatized-calf-bull-deer-stear:ingredient:xylobalsamon-10",
+      "entity_type": "ingredient",
+      "surface_form": "ξυλοβαλσάμου",
+      "normalized_label": "ξυλοβάλσαμον"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:dioscorides-2-76-aromatized-calf-bull-deer-stear:ingredient:kardamomon-11",
+      "entity_type": "ingredient",
+      "surface_form": "καρδαμώμου",
+      "normalized_label": "καρδάμωμον"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:dioscorides-2-76-aromatized-calf-bull-deer-stear:ingredient:nardos-12",
+      "entity_type": "ingredient",
+      "surface_form": "νάρδου",
+      "normalized_label": "νάρδος"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:dioscorides-2-76-aromatized-calf-bull-deer-stear:ingredient:kassia-13",
+      "entity_type": "ingredient",
+      "surface_form": "κασσίας",
+      "normalized_label": "κασσία"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:dioscorides-2-76-aromatized-calf-bull-deer-stear:ingredient:kinamomon-14",
+      "entity_type": "ingredient",
+      "surface_form": "κιναμώμου",
+      "normalized_label": "κινάμωμον"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-2-76-aromatized-calf-bull-deer-stear:process:exenizein-1",
+      "entity_type": "process",
+      "surface_form": "ἐξενίσας",
+      "normalized_label": "ἐξενίζειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-2-76-aromatized-calf-bull-deer-stear:process:plynein-2",
+      "entity_type": "process",
+      "surface_form": "πλύνας",
+      "normalized_label": "πλύνειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-2-76-aromatized-calf-bull-deer-stear:process:syzein-3",
+      "entity_type": "process",
+      "surface_form": "σύζεσον",
+      "normalized_label": "συζεῖν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-2-76-aromatized-calf-bull-deer-stear:process:anairein-4",
+      "entity_type": "process",
+      "surface_form": "ἀνελόμενος",
+      "normalized_label": "ἀναιρεῖν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-2-76-aromatized-calf-bull-deer-stear:process:ennyktereyein-5",
+      "entity_type": "process",
+      "surface_form": "ἐννυκτερεῦσαι",
+      "normalized_label": "ἐννυκτερεύειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-2-76-aromatized-calf-bull-deer-stear:process:epicheein-6",
+      "entity_type": "process",
+      "surface_form": "ἐπίχεε",
+      "normalized_label": "ἐπιχέειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-2-76-aromatized-calf-bull-deer-stear:process:tekein-7",
+      "entity_type": "process",
+      "surface_form": "τήξας",
+      "normalized_label": "τήκειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-2-76-aromatized-calf-bull-deer-stear:process:apokogchizein-8",
+      "entity_type": "process",
+      "surface_form": "ἀποκογχίσας",
+      "normalized_label": "ἀποκογχίζειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-2-76-aromatized-calf-bull-deer-stear:process:emballein-9",
+      "entity_type": "process",
+      "surface_form": "ἔμβολε",
+      "normalized_label": "ἐμβάλλειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-2-76-aromatized-calf-bull-deer-stear:process:prosapodidonai-10",
+      "entity_type": "process",
+      "surface_form": "προσαπόδος",
+      "normalized_label": "προσαποδιδόναι"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-2-76-aromatized-calf-bull-deer-stear:process:meignynai-11",
+      "entity_type": "process",
+      "surface_form": "μεῖξον",
+      "normalized_label": "μείγνυναι"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-2-76-aromatized-calf-bull-deer-stear:process:koptein-12",
+      "entity_type": "process",
+      "surface_form": "κεκομμένα",
+      "normalized_label": "κόπτειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-2-76-aromatized-calf-bull-deer-stear:process:epididonai-13",
+      "entity_type": "process",
+      "surface_form": "ἐπιδούς",
+      "normalized_label": "ἐπιδιδόναι"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-2-76-aromatized-calf-bull-deer-stear:process:apereidein-14",
+      "entity_type": "process",
+      "surface_form": "ἀπέρεισαι",
+      "normalized_label": "ἀπερείδειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-2-76-aromatized-calf-bull-deer-stear:process:syzein-15",
+      "entity_type": "process",
+      "surface_form": "σύζεσον",
+      "normalized_label": "συζεῖν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-2-76-aromatized-calf-bull-deer-stear:process:airein-16",
+      "entity_type": "process",
+      "surface_form": "ἄρας",
+      "normalized_label": "αἴρειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-2-76-aromatized-calf-bull-deer-stear:process:ean-17",
+      "entity_type": "process",
+      "surface_form": "ἔασον",
+      "normalized_label": "ἐᾶν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-2-76-aromatized-calf-bull-deer-stear:process:apocheein-18",
+      "entity_type": "process",
+      "surface_form": "ἀπόχεε",
+      "normalized_label": "ἀποχέειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-2-76-aromatized-calf-bull-deer-stear:process:epididonai-19",
+      "entity_type": "process",
+      "surface_form": "ἐπιδοὺς",
+      "normalized_label": "ἐπιδιδόναι"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-2-76-aromatized-calf-bull-deer-stear:process:syzein-20",
+      "entity_type": "process",
+      "surface_form": "σύζεσον",
+      "normalized_label": "συζεῖν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-2-76-aromatized-calf-bull-deer-stear:process:ean-21",
+      "entity_type": "process",
+      "surface_form": "ἄφες",
+      "normalized_label": "ἐᾶν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-2-76-aromatized-calf-bull-deer-stear:process:anairein-22",
+      "entity_type": "process",
+      "surface_form": "ἀνελόμενος",
+      "normalized_label": "ἀναιρεῖν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-2-76-aromatized-calf-bull-deer-stear:process:apocheein-23",
+      "entity_type": "process",
+      "surface_form": "ἀπόχεε",
+      "normalized_label": "ἀποχέειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-2-76-aromatized-calf-bull-deer-stear:process:ekplynein-24",
+      "entity_type": "process",
+      "surface_form": "ἐκπλύνας",
+      "normalized_label": "ἐκπλύνειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-2-76-aromatized-calf-bull-deer-stear:process:kathairein-25",
+      "entity_type": "process",
+      "surface_form": "καθάρας",
+      "normalized_label": "καθαίρειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-2-76-aromatized-calf-bull-deer-stear:process:tekein-26",
+      "entity_type": "process",
+      "surface_form": "τήξας",
+      "normalized_label": "τήκειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-2-76-aromatized-calf-bull-deer-stear:process:diylizein-27",
+      "entity_type": "process",
+      "surface_form": "διυλίσας",
+      "normalized_label": "διυλίζειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-2-76-aromatized-calf-bull-deer-stear:process:apotithesthai-28",
+      "entity_type": "process",
+      "surface_form": "ἀπόθου",
+      "normalized_label": "ἀποτίθεσθαι"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-2-76-aromatized-calf-bull-deer-stear:process:chresthai-29",
+      "entity_type": "process",
+      "surface_form": "χρῶ",
+      "normalized_label": "χρῆσθαι"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-material:dioscorides-2-76-aromatized-calf-bull-deer-stear:material:oinos-athalassos-kai-eyodes-1",
+      "entity_type": "material",
+      "surface_form": "οἴνῳ ἀθαλάσσῳ τε καὶ εὐώδει",
+      "normalized_label": "οἶνος ἀθάλασσος καὶ εὐώδης"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-material:dioscorides-2-76-aromatized-calf-bull-deer-stear:material:oinos-apo-toy-aytoy-genoys-2",
+      "entity_type": "material",
+      "surface_form": "ἕτερον οἶνον ἀπὸ τοῦ αὐτοῦ γένους",
+      "normalized_label": "οἶνος ἀπὸ τοῦ αὐτοῦ γένους"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-material:dioscorides-2-76-aromatized-calf-bull-deer-stear:material:oinos-eyodes-3",
+      "entity_type": "material",
+      "surface_form": "οἶνον εὐώδη",
+      "normalized_label": "οἶνος εὐώδης"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-material:dioscorides-2-76-aromatized-calf-bull-deer-stear:material:aggeion-4",
+      "entity_type": "material",
+      "surface_form": "τὸ ἀγγεῖον",
+      "normalized_label": "ἀγγεῖον"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-material:dioscorides-2-76-aromatized-calf-bull-deer-stear:material:anthrakes-5",
+      "entity_type": "material",
+      "surface_form": "ἀνθράκων",
+      "normalized_label": "ἄνθρακες"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-reference:dioscorides-2-76-aromatized-calf-bull-deer-stear:reference:stear-tetherapeymenon-1",
+      "entity_type": "preparation_reference",
+      "surface_form": "τὸ τεθεραπευμένον",
+      "normalized_label": "στέαρ τεθεραπευμένον"
+    }
+  ]
+}

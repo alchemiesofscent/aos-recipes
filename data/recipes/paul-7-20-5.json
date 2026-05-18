@@ -1,0 +1,569 @@
+{
+  "dataset_key": "paul_book7_perfumes",
+  "source_json": "experiments/paul-book7-ch20-perfumes/data/paul_book7_ch20_perfumes.json",
+  "host_raw_file": "tei/raw/tlg0715001.xml",
+  "work_slug": "paul.b7.perfumes",
+  "recipe_id": "paul-7-20-5",
+  "recipe_urn": "urn:aos:recipe:paul-7-20-5",
+  "record_urn": "urn:aos:recipe-record:paul-7-20-5",
+  "author": "Paul of Aegina",
+  "work": "Medical Epitome",
+  "book": "7",
+  "chapter": "20",
+  "section": "5",
+  "chapter_name": "Ἐλαίων καὶ μύρων σκευασίαι διάφοροι.",
+  "lemma": "Χαμαιμήλινον",
+  "text": "Χαμαιμήλων ἄνθους χωρὶς τῶν λευκῶν πετάλων διεψυγμένου νυχθήμερον α 𐆄 β, ἐλαίου ξ̸ Ἰταλικὸν α· σκεπάσας τὸ ἄγγος ὀθόνῃ ἁπλῇ, ὥστε διαπνεῖσθαι, ἡλίου καὶ τοῦτο ἐπὶ μ ἡμέρας, μεθ' ἃς ἀσφαλῶς πωμάσας ἀπόθου.",
+  "original_text": null,
+  "text_source": null,
+  "emendations": [],
+  "emendation_count": 0,
+  "source_kind": null,
+  "entry_kind": "recipe",
+  "citation": {
+    "pages": [
+      "2.382"
+    ],
+    "start": {
+      "page": "2.382",
+      "line": "16",
+      "xml_id": "heib-2-382-16"
+    },
+    "end": {
+      "page": "2.382",
+      "line": "20",
+      "xml_id": "heib-2-382-20"
+    },
+    "citation": {
+      "start": "2.382.16",
+      "end": "2.382.20"
+    },
+    "page_spans": [
+      {
+        "page": "2.382",
+        "start_line": "16",
+        "end_line": "20"
+      }
+    ],
+    "lines": [
+      {
+        "page": "2.382",
+        "line": "16",
+        "xml_id": "heib-2-382-16",
+        "break_no": false,
+        "text": "Χαμαιμήλινον.",
+        "citation": "2.382.16"
+      },
+      {
+        "page": "2.382",
+        "line": "17",
+        "xml_id": "heib-2-382-17",
+        "break_no": false,
+        "text": "Χαμαιμήλων ἄνθους χωρὶς τῶν λευκῶν πετάλων διεψυγμένου",
+        "citation": "2.382.17"
+      },
+      {
+        "page": "2.382",
+        "line": "18",
+        "xml_id": "heib-2-382-18",
+        "break_no": false,
+        "text": "νυχθήμερον α 𐆄 β, ἐλαίου ξ̸ Ἰταλικὸν α· σκεπάσας τὸ ἄγγος ὀθόνῃ",
+        "citation": "2.382.18"
+      },
+      {
+        "page": "2.382",
+        "line": "19",
+        "xml_id": "heib-2-382-19",
+        "break_no": false,
+        "text": "ἁπλῇ, ὥστε διαπνεῖσθαι, ἡλίου καὶ τοῦτο ἐπὶ μ ἡμέρας, μεθ' ἃς ἀσφα-",
+        "citation": "2.382.19"
+      },
+      {
+        "page": "2.382",
+        "line": "20",
+        "xml_id": "heib-2-382-20",
+        "break_no": true,
+        "text": "λῶς πωμάσας ἀπόθου.",
+        "citation": "2.382.20"
+      }
+    ],
+    "edition_key": "heiberg"
+  },
+  "notes": [],
+  "alignment_status": "pending",
+  "alignment_confidence": "pending",
+  "alignment_evidence": null,
+  "review_status": "reviewed_structured_authority",
+  "review_provenance": {
+    "authority_source": "reports/entity_review/structured/paul.json",
+    "authority_recipe_id": "paul-7-20-5",
+    "authority_lemma": "Χαμαιμήλινον",
+    "model": "gpt-5.4",
+    "reasoning_effort": "high",
+    "dataset_key": "paul_book7_perfumes",
+    "entity_model_version": "1.2",
+    "authority_version": "2026-04-13-qty-alt-v1",
+    "prompt_version": "qty-alt-pass-v1",
+    "build_version": "2026-05-18T15:51:35Z"
+  },
+  "schema_version": "1.2",
+  "build_metadata": {
+    "builder": "scripts/recipes/build_recipe_entities.py",
+    "built_at": "2026-05-18T15:51:35Z",
+    "source_structured_authority": "reports/entity_review/structured/paul.json",
+    "authority_model": "gpt-5.4",
+    "authority_reasoning_effort": "high",
+    "dataset_key": "paul_book7_perfumes",
+    "entity_model_version": "1.2",
+    "authority_version": "2026-04-13-qty-alt-v1",
+    "prompt_version": "qty-alt-pass-v1",
+    "build_version": "2026-05-18T15:51:35Z"
+  },
+  "recipe_text_excerpt": "Χαμαιμήλων ἄνθους χωρὶς τῶν λευκῶν πετάλων διεψυγμένου νυχθήμερον α 𐆄 β, ἐλαίου ξ̸ Ἰταλικὸν α· σκεπάσας τὸ ἄγγος ὀθόνῃ ἁπλῇ,",
+  "preparation": {
+    "preparation_id": "paul-7-20-5:preparation:chamaimelinon",
+    "preparation_urn": "urn:aos:recipe-preparation:paul-7-20-5:preparation:chamaimelinon",
+    "source_span": "Χαμαιμήλινον",
+    "surface_form": "Χαμαιμήλινον",
+    "normalized_label": "Χαμαιμήλινον",
+    "qualifiers": [],
+    "regimen_notes": [],
+    "certainty": "certain",
+    "notes": [
+      "Running text does not restate the preparation name cleanly; lemma used as preparation label."
+    ],
+    "host_locator": {
+      "book": "7",
+      "chapter": "20",
+      "section": "5",
+      "citation": {
+        "start": "2.382.16",
+        "end": "2.382.20"
+      }
+    }
+  },
+  "ingredients": [
+    {
+      "ingredient_id": "paul-7-20-5:ingredient:chamaimelon-anthos-1",
+      "ingredient_urn": "urn:aos:recipe-ingredient:paul-7-20-5:ingredient:chamaimelon-anthos-1",
+      "source_span": "Χαμαιμήλων ἄνθους χωρὶς τῶν λευκῶν πετάλων διεψυγμένου νυχθήμερον α 𐆄 β",
+      "surface_form": "Χαμαιμήλων ἄνθους χωρὶς τῶν λευκῶν πετάλων διεψυγμένου νυχθήμερον α 𐆄 β",
+      "base_label": "Χαμαιμήλων ἄνθους",
+      "normalized_label": "χαμαιμήλων ἄνθος",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [
+        "paul-7-20-5:process:diapsychein-1"
+      ],
+      "quantities": [
+        {
+          "source_span": "α 𐆄 β",
+          "raw_number": "α 𐆄 β",
+          "normalized_number": null,
+          "raw_unit": null,
+          "normalized_unit": "uncia",
+          "certainty": "uncertain",
+          "notes": [
+            "No explicit unit is stated in the text."
+          ]
+        }
+      ],
+      "qualifiers": [
+        {
+          "qualifier_type": "other",
+          "source_span": "χωρὶς τῶν λευκῶν πετάλων",
+          "normalized_value": "χωρὶς λευκῶν πετάλων",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "notes": [],
+      "host_locator": {
+        "book": "7",
+        "chapter": "20",
+        "section": "5",
+        "citation": {
+          "start": "2.382.16",
+          "end": "2.382.20"
+        }
+      }
+    },
+    {
+      "ingredient_id": "paul-7-20-5:ingredient:elaion-italikon-2",
+      "ingredient_urn": "urn:aos:recipe-ingredient:paul-7-20-5:ingredient:elaion-italikon-2",
+      "source_span": "ἐλαίου ξ̸ Ἰταλικὸν α",
+      "surface_form": "ἐλαίου ξ̸ Ἰταλικὸν α",
+      "base_label": "ἐλαίου Ἰταλικὸν",
+      "normalized_label": "ἔλαιον Ἰταλικόν",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [],
+      "quantities": [
+        {
+          "source_span": "ξ̸ Ἰταλικὸν α",
+          "raw_number": "α",
+          "normalized_number": 1,
+          "raw_unit": "ξ̸",
+          "normalized_unit": "xestes",
+          "certainty": "uncertain",
+          "notes": [
+            "The unit expansion is inferred from the abbreviation ξ̸."
+          ]
+        }
+      ],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "7",
+        "chapter": "20",
+        "section": "5",
+        "citation": {
+          "start": "2.382.16",
+          "end": "2.382.20"
+        }
+      }
+    }
+  ],
+  "processes": [
+    {
+      "process_id": "paul-7-20-5:process:diapsychein-1",
+      "process_urn": "urn:aos:recipe-process:paul-7-20-5:process:diapsychein-1",
+      "source_span": "διεψυγμένου",
+      "surface_form": "διεψυγμένου",
+      "normalized_label": "διαψύχειν",
+      "target_type": "ingredient",
+      "target_ids": [
+        "paul-7-20-5:ingredient:chamaimelon-anthos-1"
+      ],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "duration",
+          "source_span": "νυχθήμερον",
+          "normalized_value": "νυχθήμερον",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "7",
+        "chapter": "20",
+        "section": "5",
+        "citation": {
+          "start": "2.382.16",
+          "end": "2.382.20"
+        }
+      }
+    },
+    {
+      "process_id": "paul-7-20-5:process:skepazein-2",
+      "process_urn": "urn:aos:recipe-process:paul-7-20-5:process:skepazein-2",
+      "source_span": "σκεπάσας",
+      "surface_form": "σκεπάσας",
+      "normalized_label": "σκεπάζειν",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "manner",
+          "source_span": "ὀθόνῃ ἁπλῇ",
+          "normalized_value": "ὀθόνῃ ἁπλῇ",
+          "certainty": "certain",
+          "notes": []
+        },
+        {
+          "qualifier_type": "exposure",
+          "source_span": "ἡλίου",
+          "normalized_value": "ἥλιος",
+          "certainty": "certain",
+          "notes": []
+        },
+        {
+          "qualifier_type": "duration",
+          "source_span": "ἐπὶ μ ἡμέρας",
+          "normalized_value": "40 ἡμέραι",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "certainty": "certain",
+      "notes": [
+        "The direct object of the covering action is τὸ ἄγγος."
+      ],
+      "host_locator": {
+        "book": "7",
+        "chapter": "20",
+        "section": "5",
+        "citation": {
+          "start": "2.382.16",
+          "end": "2.382.20"
+        }
+      }
+    },
+    {
+      "process_id": "paul-7-20-5:process:diapneisthai-3",
+      "process_urn": "urn:aos:recipe-process:paul-7-20-5:process:diapneisthai-3",
+      "source_span": "διαπνεῖσθαι",
+      "surface_form": "διαπνεῖσθαι",
+      "normalized_label": "διαπνεῖσθαι",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "7",
+        "chapter": "20",
+        "section": "5",
+        "citation": {
+          "start": "2.382.16",
+          "end": "2.382.20"
+        }
+      }
+    },
+    {
+      "process_id": "paul-7-20-5:process:pomazein-4",
+      "process_urn": "urn:aos:recipe-process:paul-7-20-5:process:pomazein-4",
+      "source_span": "πωμάσας",
+      "surface_form": "πωμάσας",
+      "normalized_label": "πωμάζειν",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "manner",
+          "source_span": "ἀσφαλῶς",
+          "normalized_value": "ἀσφαλῶς",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "7",
+        "chapter": "20",
+        "section": "5",
+        "citation": {
+          "start": "2.382.16",
+          "end": "2.382.20"
+        }
+      }
+    },
+    {
+      "process_id": "paul-7-20-5:process:apotithesthai-5",
+      "process_urn": "urn:aos:recipe-process:paul-7-20-5:process:apotithesthai-5",
+      "source_span": "ἀπόθου",
+      "surface_form": "ἀπόθου",
+      "normalized_label": "ἀποτίθεσθαι",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "7",
+        "chapter": "20",
+        "section": "5",
+        "citation": {
+          "start": "2.382.16",
+          "end": "2.382.20"
+        }
+      }
+    }
+  ],
+  "materials": [
+    {
+      "material_id": "paul-7-20-5:material:aggos-1",
+      "material_urn": "urn:aos:recipe-material:paul-7-20-5:material:aggos-1",
+      "source_span": "τὸ ἄγγος",
+      "surface_form": "τὸ ἄγγος",
+      "normalized_label": "ἄγγος",
+      "role": "apparatus",
+      "certainty": "certain",
+      "quantities": [],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "7",
+        "chapter": "20",
+        "section": "5",
+        "citation": {
+          "start": "2.382.16",
+          "end": "2.382.20"
+        }
+      }
+    },
+    {
+      "material_id": "paul-7-20-5:material:othone-aple-2",
+      "material_urn": "urn:aos:recipe-material:paul-7-20-5:material:othone-aple-2",
+      "source_span": "ὀθόνῃ ἁπλῇ",
+      "surface_form": "ὀθόνῃ ἁπλῇ",
+      "normalized_label": "ὀθόνη ἁπλή",
+      "role": "adjunct_material",
+      "certainty": "certain",
+      "quantities": [],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "7",
+        "chapter": "20",
+        "section": "5",
+        "citation": {
+          "start": "2.382.16",
+          "end": "2.382.20"
+        }
+      }
+    }
+  ],
+  "people": [],
+  "places": [],
+  "uses": [],
+  "preparation_names": [],
+  "other_preparations_mentioned": [],
+  "works_mentioned": [],
+  "entities": [
+    {
+      "entity_urn": "urn:aos:recipe-preparation:paul-7-20-5:preparation:chamaimelinon",
+      "entity_type": "label",
+      "surface_form": "Χαμαιμήλινον",
+      "normalized_label": "Χαμαιμήλινον"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:paul-7-20-5:ingredient:chamaimelon-anthos-1",
+      "entity_type": "ingredient",
+      "surface_form": "Χαμαιμήλων ἄνθους χωρὶς τῶν λευκῶν πετάλων διεψυγμένου νυχθήμερον α 𐆄 β",
+      "normalized_label": "χαμαιμήλων ἄνθος"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:paul-7-20-5:ingredient:elaion-italikon-2",
+      "entity_type": "ingredient",
+      "surface_form": "ἐλαίου ξ̸ Ἰταλικὸν α",
+      "normalized_label": "ἔλαιον Ἰταλικόν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:paul-7-20-5:process:diapsychein-1",
+      "entity_type": "process",
+      "surface_form": "διεψυγμένου",
+      "normalized_label": "διαψύχειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:paul-7-20-5:process:skepazein-2",
+      "entity_type": "process",
+      "surface_form": "σκεπάσας",
+      "normalized_label": "σκεπάζειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:paul-7-20-5:process:diapneisthai-3",
+      "entity_type": "process",
+      "surface_form": "διαπνεῖσθαι",
+      "normalized_label": "διαπνεῖσθαι"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:paul-7-20-5:process:pomazein-4",
+      "entity_type": "process",
+      "surface_form": "πωμάσας",
+      "normalized_label": "πωμάζειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:paul-7-20-5:process:apotithesthai-5",
+      "entity_type": "process",
+      "surface_form": "ἀπόθου",
+      "normalized_label": "ἀποτίθεσθαι"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-material:paul-7-20-5:material:aggos-1",
+      "entity_type": "material",
+      "surface_form": "τὸ ἄγγος",
+      "normalized_label": "ἄγγος"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-material:paul-7-20-5:material:othone-aple-2",
+      "entity_type": "material",
+      "surface_form": "ὀθόνῃ ἁπλῇ",
+      "normalized_label": "ὀθόνη ἁπλή"
+    }
+  ],
+  "canonical_file": "data/recipes/paul-7-20-5.json",
+  "source_entry": {
+    "source_id": "paul-7-20-5",
+    "derived_recipe_id": "paul-7-20-5",
+    "entry_kind": null,
+    "source_kind": null,
+    "source_lines": null,
+    "section_markers": []
+  },
+  "entity_groups": {
+    "labels": [
+      {
+        "entity_urn": "urn:aos:recipe-preparation:paul-7-20-5:preparation:chamaimelinon",
+        "surface_form": "Χαμαιμήλινον",
+        "normalized_label": "Χαμαιμήλινον"
+      }
+    ],
+    "ingredients": [
+      {
+        "entity_urn": "urn:aos:recipe-ingredient:paul-7-20-5:ingredient:chamaimelon-anthos-1",
+        "surface_form": "Χαμαιμήλων ἄνθους χωρὶς τῶν λευκῶν πετάλων διεψυγμένου νυχθήμερον α 𐆄 β",
+        "normalized_label": "χαμαιμήλων ἄνθος",
+        "quantity_display": "α 𐆄 β"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-ingredient:paul-7-20-5:ingredient:elaion-italikon-2",
+        "surface_form": "ἐλαίου ξ̸ Ἰταλικὸν α",
+        "normalized_label": "ἔλαιον Ἰταλικόν",
+        "quantity_display": "ξ̸ Ἰταλικὸν α"
+      }
+    ],
+    "processes": [
+      {
+        "entity_urn": "urn:aos:recipe-process:paul-7-20-5:process:diapsychein-1",
+        "surface_form": "διεψυγμένου",
+        "normalized_label": "διαψύχειν"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-process:paul-7-20-5:process:skepazein-2",
+        "surface_form": "σκεπάσας",
+        "normalized_label": "σκεπάζειν"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-process:paul-7-20-5:process:diapneisthai-3",
+        "surface_form": "διαπνεῖσθαι",
+        "normalized_label": "διαπνεῖσθαι"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-process:paul-7-20-5:process:pomazein-4",
+        "surface_form": "πωμάσας",
+        "normalized_label": "πωμάζειν"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-process:paul-7-20-5:process:apotithesthai-5",
+        "surface_form": "ἀπόθου",
+        "normalized_label": "ἀποτίθεσθαι"
+      }
+    ],
+    "tools": [
+      {
+        "entity_urn": "urn:aos:recipe-material:paul-7-20-5:material:aggos-1",
+        "surface_form": "τὸ ἄγγος",
+        "normalized_label": "ἄγγος"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-material:paul-7-20-5:material:othone-aple-2",
+        "surface_form": "ὀθόνῃ ἁπλῇ",
+        "normalized_label": "ὀθόνη ἁπλή"
+      }
+    ],
+    "other_preparations_mentioned": [],
+    "people": [],
+    "places": [],
+    "works_mentioned": [],
+    "preparation_names": []
+  }
+}

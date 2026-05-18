@@ -1,0 +1,771 @@
+{
+  "dataset_key": "aetius_book1_oils",
+  "source_json": "experiments/aetius-book1-ch99-136-oils/data/aetius_book1_ch99_136_oils.json",
+  "host_raw_file": "tei/raw/tlg0718001.xml",
+  "work_slug": "aetius.b1.oils",
+  "recipe_id": "aetius-1-129-2",
+  "recipe_urn": "urn:aos:recipe:aetius-1-129-2",
+  "record_urn": "urn:aos:recipe-record:aetius-1-129-2",
+  "author": "Aëtius of Amida",
+  "work": "Libri medicinales",
+  "book": "1",
+  "chapter": "129",
+  "section": "129.2",
+  "chapter_name": "Κύπρινον",
+  "lemma": "Κύπρινον",
+  "text": "ὅταν δὲ εὐπορῶμεν τῶν βοτανῶν χλωρῶν, οὕτως σκευάζομεν τὸ κύπρινον· ἐλαίου ξ̸ειε, κυπέρων ἑλενίου ἴρεως ἀνὰ 𐆄 ϛ σαμψύχου ὑσσώπου ἐλελισφάκου ἀνὰ 𐆄 β ἄγνου χλωρῶν φύλλων 𐆄 β κιτροφύλλων χλωρῶν 𐆄 ζ χαμαιλιβάνου χλωροῦ 𐆄 δ δάφνης φύλλων χλωρῶν 𐆄 ε κύπρου ἄνθους 𐆄 ι βαλσάμου ὀποῦ 𐆄 ϛʹ.",
+  "original_text": "ὅταν δὲ εὐπορῶμεν τῶν βοτανῶν χλωρῶν, οὕτως σκευάζομεν τὸ κύπρινον· ἐλαίου ξ̸ειε, κυπέρων ἑλενίου ἴρεως ἀνὰ 𐆄 ϛ σαμψύχου ὑσσώπου ἐλελισφάκου ἀνὰ 𐆄 β ἄγνου χλωρῶν φύλλων 𐆄 β κιτροφύλλων χλωρῶν 𐆄 ζ χαμαιλιβάνου χλωροῦ 𐆄 δ δάφνης φύλλων χλωρῶν 𐆄 ε κύπρου ἄνθους 𐆄 β βαλσάμου ὀποῦ 𐆄 ϛʹ.",
+  "text_source": "emended",
+  "emendations": [
+    {
+      "locus": "[64.20]",
+      "start_citation": "64.20",
+      "end_citation": "64.20",
+      "operation": "replace",
+      "olivieri_text": "β",
+      "adopted_text": "ι",
+      "proposal_author": "Irene Cala",
+      "decision": "accepted",
+      "note": "ι replaces β"
+    }
+  ],
+  "emendation_count": 1,
+  "source_kind": null,
+  "entry_kind": "recipe",
+  "citation": {
+    "pages": [
+      "64"
+    ],
+    "start": {
+      "page": "64",
+      "line": "15",
+      "xml_id": "oliv-64-15"
+    },
+    "end": {
+      "page": "64",
+      "line": "20",
+      "xml_id": "oliv-64-20"
+    },
+    "citation": {
+      "start": "64.15",
+      "end": "64.20"
+    },
+    "page_spans": [
+      {
+        "page": "64",
+        "start_line": "15",
+        "end_line": "20"
+      }
+    ],
+    "lines": [
+      {
+        "page": "64",
+        "line": "15",
+        "xml_id": "oliv-64-15",
+        "break_no": false,
+        "text": "μᾶλλον, καὶ γὰρ λεπτύνει τοὺς ἐν ταύταις παχεῖς χυμούς· ὅταν δὲ",
+        "citation": "64.15"
+      },
+      {
+        "page": "64",
+        "line": "16",
+        "xml_id": "oliv-64-16",
+        "break_no": false,
+        "text": "εὐπορῶμεν τῶν βοτανῶν χλωρῶν, οὕτως σκευάζομεν τὸ κύπρινον·",
+        "citation": "64.16"
+      },
+      {
+        "page": "64",
+        "line": "17",
+        "xml_id": "oliv-64-17",
+        "break_no": false,
+        "text": "ἐλαίου ξ̸ειε, κυπέρων ἑλενίου ἴρεως ἀνὰ 𐆄 ϛ σαμψύχου ὑσσώπου",
+        "citation": "64.17"
+      },
+      {
+        "page": "64",
+        "line": "18",
+        "xml_id": "oliv-64-18",
+        "break_no": false,
+        "text": "ἐλελισφάκου ἀνὰ 𐆄 β ἄγνου χλωρῶν φύλλων 𐆄 β κιτροφύλλων χλω-",
+        "citation": "64.18"
+      },
+      {
+        "page": "64",
+        "line": "19",
+        "xml_id": "oliv-64-19",
+        "break_no": true,
+        "text": "ρῶν 𐆄 ζ χαμαιλιβάνου χλωροῦ 𐆄 δ δάφνης φύλλων χλωρῶν 𐆄 ε",
+        "citation": "64.19"
+      },
+      {
+        "page": "64",
+        "line": "20",
+        "xml_id": "oliv-64-20",
+        "break_no": false,
+        "text": "κύπρου ἄνθους 𐆄 β βαλσάμου ὀποῦ 𐆄 ϛʹ.",
+        "citation": "64.20"
+      }
+    ],
+    "edition_key": "olivieri"
+  },
+  "notes": [
+    "Split from aetius-1-129 as the fresh-herb formulation."
+  ],
+  "alignment_status": "pending",
+  "alignment_confidence": "pending",
+  "alignment_evidence": null,
+  "review_status": "reviewed_structured_authority",
+  "review_provenance": {
+    "authority_source": "reports/entity_review/structured/aetius_book1.json",
+    "authority_recipe_id": "aetius-1-129-2",
+    "authority_lemma": "κύπρινον",
+    "model": "gpt-5.4",
+    "reasoning_effort": "high",
+    "dataset_key": "aetius_book1_oils",
+    "entity_model_version": "1.2",
+    "authority_version": "2026-04-13-qty-alt-v1",
+    "prompt_version": "qty-alt-pass-v1",
+    "build_version": "2026-05-18T15:51:35Z"
+  },
+  "schema_version": "1.2",
+  "build_metadata": {
+    "builder": "scripts/recipes/build_recipe_entities.py",
+    "built_at": "2026-05-18T15:51:35Z",
+    "source_structured_authority": "reports/entity_review/structured/aetius_book1.json",
+    "authority_model": "gpt-5.4",
+    "authority_reasoning_effort": "high",
+    "dataset_key": "aetius_book1_oils",
+    "entity_model_version": "1.2",
+    "authority_version": "2026-04-13-qty-alt-v1",
+    "prompt_version": "qty-alt-pass-v1",
+    "build_version": "2026-05-18T15:51:35Z"
+  },
+  "recipe_text_excerpt": "ὅταν δὲ εὐπορῶμεν τῶν βοτανῶν χλωρῶν, οὕτως σκευάζομεν τὸ κύπρινον· ἐλαίου ξ̸ειε, κυπέρων ἑλενίου ἴρεως ἀνὰ 𐆄 ϛ σαμψύχου ὑσσώπου",
+  "preparation": {
+    "preparation_id": "aetius-1-129-2:preparation:kyprinon",
+    "preparation_urn": "urn:aos:recipe-preparation:aetius-1-129-2:preparation:kyprinon",
+    "source_span": "τὸ κύπρινον",
+    "surface_form": "τὸ κύπρινον",
+    "normalized_label": "κύπρινον",
+    "qualifiers": [
+      {
+        "qualifier_type": "other",
+        "source_span": "ὅταν δὲ εὐπορῶμεν τῶν βοτανῶν χλωρῶν",
+        "normalized_value": "εὐπορία βοτανῶν χλωρῶν",
+        "certainty": "certain",
+        "notes": [
+          "Recipe is conditioned on the availability of fresh herbs."
+        ]
+      }
+    ],
+    "regimen_notes": [],
+    "certainty": "certain",
+    "notes": [],
+    "host_locator": {
+      "book": "1",
+      "chapter": "129",
+      "section": "129.2",
+      "citation": {
+        "start": "64.15",
+        "end": "64.20"
+      }
+    }
+  },
+  "ingredients": [
+    {
+      "ingredient_id": "aetius-1-129-2:ingredient:elaion-1",
+      "ingredient_urn": "urn:aos:recipe-ingredient:aetius-1-129-2:ingredient:elaion-1",
+      "source_span": "ἐλαίου",
+      "surface_form": "ἐλαίου",
+      "base_label": "ἐλαίου",
+      "normalized_label": "ἔλαιον",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [],
+      "quantities": [
+        {
+          "source_span": "ξ̸ειε",
+          "raw_number": "ξ̸ειε",
+          "normalized_number": null,
+          "raw_unit": null,
+          "normalized_unit": "xestes",
+          "certainty": "uncertain",
+          "notes": [
+            "Transmitted numeral expression is unresolved and no explicit unit is stated."
+          ]
+        }
+      ],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "129",
+        "section": "129.2",
+        "citation": {
+          "start": "64.15",
+          "end": "64.20"
+        }
+      }
+    },
+    {
+      "ingredient_id": "aetius-1-129-2:ingredient:kyperon-2",
+      "ingredient_urn": "urn:aos:recipe-ingredient:aetius-1-129-2:ingredient:kyperon-2",
+      "source_span": "κυπέρων",
+      "surface_form": "κυπέρων",
+      "base_label": "κυπέρων",
+      "normalized_label": "κύπερον",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [],
+      "quantities": [
+        {
+          "source_span": "𐆄 ϛ",
+          "raw_number": "ϛ",
+          "normalized_number": 6,
+          "raw_unit": "𐆄",
+          "normalized_unit": "uncia",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "129",
+        "section": "129.2",
+        "citation": {
+          "start": "64.15",
+          "end": "64.20"
+        }
+      }
+    },
+    {
+      "ingredient_id": "aetius-1-129-2:ingredient:elenion-3",
+      "ingredient_urn": "urn:aos:recipe-ingredient:aetius-1-129-2:ingredient:elenion-3",
+      "source_span": "ἑλενίου",
+      "surface_form": "ἑλενίου",
+      "base_label": "ἑλενίου",
+      "normalized_label": "ἑλένιον",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [],
+      "quantities": [
+        {
+          "source_span": "𐆄 ϛ",
+          "raw_number": "ϛ",
+          "normalized_number": 6,
+          "raw_unit": "𐆄",
+          "normalized_unit": "uncia",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "129",
+        "section": "129.2",
+        "citation": {
+          "start": "64.15",
+          "end": "64.20"
+        }
+      }
+    },
+    {
+      "ingredient_id": "aetius-1-129-2:ingredient:iris-4",
+      "ingredient_urn": "urn:aos:recipe-ingredient:aetius-1-129-2:ingredient:iris-4",
+      "source_span": "ἴρεως",
+      "surface_form": "ἴρεως",
+      "base_label": "ἴρεως",
+      "normalized_label": "ἶρις",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [],
+      "quantities": [
+        {
+          "source_span": "𐆄 ϛ",
+          "raw_number": "ϛ",
+          "normalized_number": 6,
+          "raw_unit": "𐆄",
+          "normalized_unit": "uncia",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "129",
+        "section": "129.2",
+        "citation": {
+          "start": "64.15",
+          "end": "64.20"
+        }
+      }
+    },
+    {
+      "ingredient_id": "aetius-1-129-2:ingredient:sampsychon-5",
+      "ingredient_urn": "urn:aos:recipe-ingredient:aetius-1-129-2:ingredient:sampsychon-5",
+      "source_span": "σαμψύχου",
+      "surface_form": "σαμψύχου",
+      "base_label": "σαμψύχου",
+      "normalized_label": "σαμψύχον",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [],
+      "quantities": [
+        {
+          "source_span": "𐆄 β",
+          "raw_number": "β",
+          "normalized_number": 2,
+          "raw_unit": "𐆄",
+          "normalized_unit": "uncia",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "129",
+        "section": "129.2",
+        "citation": {
+          "start": "64.15",
+          "end": "64.20"
+        }
+      }
+    },
+    {
+      "ingredient_id": "aetius-1-129-2:ingredient:yssopos-6",
+      "ingredient_urn": "urn:aos:recipe-ingredient:aetius-1-129-2:ingredient:yssopos-6",
+      "source_span": "ὑσσώπου",
+      "surface_form": "ὑσσώπου",
+      "base_label": "ὑσσώπου",
+      "normalized_label": "ὕσσωπος",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [],
+      "quantities": [
+        {
+          "source_span": "𐆄 β",
+          "raw_number": "β",
+          "normalized_number": 2,
+          "raw_unit": "𐆄",
+          "normalized_unit": "uncia",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "129",
+        "section": "129.2",
+        "citation": {
+          "start": "64.15",
+          "end": "64.20"
+        }
+      }
+    },
+    {
+      "ingredient_id": "aetius-1-129-2:ingredient:elelisphakon-7",
+      "ingredient_urn": "urn:aos:recipe-ingredient:aetius-1-129-2:ingredient:elelisphakon-7",
+      "source_span": "ἐλελισφάκου",
+      "surface_form": "ἐλελισφάκου",
+      "base_label": "ἐλελισφάκου",
+      "normalized_label": "ἐλελίσφακον",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [],
+      "quantities": [
+        {
+          "source_span": "𐆄 β",
+          "raw_number": "β",
+          "normalized_number": 2,
+          "raw_unit": "𐆄",
+          "normalized_unit": "uncia",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "129",
+        "section": "129.2",
+        "citation": {
+          "start": "64.15",
+          "end": "64.20"
+        }
+      }
+    },
+    {
+      "ingredient_id": "aetius-1-129-2:ingredient:phylla-agnoy-chlora-8",
+      "ingredient_urn": "urn:aos:recipe-ingredient:aetius-1-129-2:ingredient:phylla-agnoy-chlora-8",
+      "source_span": "ἄγνου χλωρῶν φύλλων",
+      "surface_form": "ἄγνου χλωρῶν φύλλων",
+      "base_label": "ἄγνου χλωρῶν φύλλων",
+      "normalized_label": "φύλλα ἄγνου χλωρά",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [],
+      "quantities": [
+        {
+          "source_span": "𐆄 β",
+          "raw_number": "β",
+          "normalized_number": 2,
+          "raw_unit": "𐆄",
+          "normalized_unit": "uncia",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "qualifiers": [
+        {
+          "qualifier_type": "color",
+          "source_span": "χλωρῶν",
+          "normalized_value": "χλωρός",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "129",
+        "section": "129.2",
+        "citation": {
+          "start": "64.15",
+          "end": "64.20"
+        }
+      }
+    },
+    {
+      "ingredient_id": "aetius-1-129-2:ingredient:kitrophylla-chlora-9",
+      "ingredient_urn": "urn:aos:recipe-ingredient:aetius-1-129-2:ingredient:kitrophylla-chlora-9",
+      "source_span": "κιτροφύλλων χλωρῶν",
+      "surface_form": "κιτροφύλλων χλωρῶν",
+      "base_label": "κιτροφύλλων χλωρῶν",
+      "normalized_label": "κιτρόφυλλα χλωρά",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [],
+      "quantities": [
+        {
+          "source_span": "𐆄 ζ",
+          "raw_number": "ζ",
+          "normalized_number": 7,
+          "raw_unit": "𐆄",
+          "normalized_unit": "uncia",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "qualifiers": [
+        {
+          "qualifier_type": "color",
+          "source_span": "χλωρῶν",
+          "normalized_value": "χλωρός",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "129",
+        "section": "129.2",
+        "citation": {
+          "start": "64.15",
+          "end": "64.20"
+        }
+      }
+    },
+    {
+      "ingredient_id": "aetius-1-129-2:ingredient:chamailibanon-chloron-10",
+      "ingredient_urn": "urn:aos:recipe-ingredient:aetius-1-129-2:ingredient:chamailibanon-chloron-10",
+      "source_span": "χαμαιλιβάνου χλωροῦ",
+      "surface_form": "χαμαιλιβάνου χλωροῦ",
+      "base_label": "χαμαιλιβάνου χλωροῦ",
+      "normalized_label": "χαμαιλίβανον χλωρόν",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [],
+      "quantities": [
+        {
+          "source_span": "𐆄 δ",
+          "raw_number": "δ",
+          "normalized_number": 4,
+          "raw_unit": "𐆄",
+          "normalized_unit": "uncia",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "qualifiers": [
+        {
+          "qualifier_type": "color",
+          "source_span": "χλωροῦ",
+          "normalized_value": "χλωρός",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "129",
+        "section": "129.2",
+        "citation": {
+          "start": "64.15",
+          "end": "64.20"
+        }
+      }
+    },
+    {
+      "ingredient_id": "aetius-1-129-2:ingredient:phylla-daphnes-chlora-11",
+      "ingredient_urn": "urn:aos:recipe-ingredient:aetius-1-129-2:ingredient:phylla-daphnes-chlora-11",
+      "source_span": "δάφνης φύλλων χλωρῶν",
+      "surface_form": "δάφνης φύλλων χλωρῶν",
+      "base_label": "δάφνης φύλλων χλωρῶν",
+      "normalized_label": "φύλλα δάφνης χλωρά",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [],
+      "quantities": [
+        {
+          "source_span": "𐆄 ε",
+          "raw_number": "ε",
+          "normalized_number": 5,
+          "raw_unit": "𐆄",
+          "normalized_unit": "uncia",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "qualifiers": [
+        {
+          "qualifier_type": "color",
+          "source_span": "χλωρῶν",
+          "normalized_value": "χλωρός",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "129",
+        "section": "129.2",
+        "citation": {
+          "start": "64.15",
+          "end": "64.20"
+        }
+      }
+    },
+    {
+      "ingredient_id": "aetius-1-129-2:ingredient:anthos-kyproy-12",
+      "ingredient_urn": "urn:aos:recipe-ingredient:aetius-1-129-2:ingredient:anthos-kyproy-12",
+      "source_span": "κύπρου ἄνθους",
+      "surface_form": "κύπρου ἄνθους",
+      "base_label": "κύπρου ἄνθους",
+      "normalized_label": "ἄνθος κύπρου",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [],
+      "quantities": [
+        {
+          "source_span": "𐆄 β",
+          "raw_number": "β",
+          "normalized_number": 2,
+          "raw_unit": "𐆄",
+          "normalized_unit": "uncia",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "129",
+        "section": "129.2",
+        "citation": {
+          "start": "64.15",
+          "end": "64.20"
+        }
+      }
+    },
+    {
+      "ingredient_id": "aetius-1-129-2:ingredient:opos-balsamoy-13",
+      "ingredient_urn": "urn:aos:recipe-ingredient:aetius-1-129-2:ingredient:opos-balsamoy-13",
+      "source_span": "βαλσάμου ὀποῦ",
+      "surface_form": "βαλσάμου ὀποῦ",
+      "base_label": "βαλσάμου ὀποῦ",
+      "normalized_label": "ὀπός βαλσάμου",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [],
+      "quantities": [
+        {
+          "source_span": "𐆄 ϛʹ",
+          "raw_number": "ϛʹ",
+          "normalized_number": 6,
+          "raw_unit": "𐆄",
+          "normalized_unit": "uncia",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "129",
+        "section": "129.2",
+        "citation": {
+          "start": "64.15",
+          "end": "64.20"
+        }
+      }
+    }
+  ],
+  "processes": [
+    {
+      "process_id": "aetius-1-129-2:process:skeyazein-1",
+      "process_urn": "urn:aos:recipe-process:aetius-1-129-2:process:skeyazein-1",
+      "source_span": "σκευάζομεν",
+      "surface_form": "σκευάζομεν",
+      "normalized_label": "σκευάζειν",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "manner",
+          "source_span": "οὕτως",
+          "normalized_value": "οὕτως",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "129",
+        "section": "129.2",
+        "citation": {
+          "start": "64.15",
+          "end": "64.20"
+        }
+      }
+    }
+  ],
+  "materials": [],
+  "people": [],
+  "places": [],
+  "uses": [],
+  "preparation_names": [],
+  "other_preparations_mentioned": [],
+  "works_mentioned": [],
+  "entities": [
+    {
+      "entity_urn": "urn:aos:recipe-preparation:aetius-1-129-2:preparation:kyprinon",
+      "entity_type": "label",
+      "surface_form": "τὸ κύπρινον",
+      "normalized_label": "κύπρινον"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:aetius-1-129-2:ingredient:elaion-1",
+      "entity_type": "ingredient",
+      "surface_form": "ἐλαίου",
+      "normalized_label": "ἔλαιον"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:aetius-1-129-2:ingredient:kyperon-2",
+      "entity_type": "ingredient",
+      "surface_form": "κυπέρων",
+      "normalized_label": "κύπερον"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:aetius-1-129-2:ingredient:elenion-3",
+      "entity_type": "ingredient",
+      "surface_form": "ἑλενίου",
+      "normalized_label": "ἑλένιον"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:aetius-1-129-2:ingredient:iris-4",
+      "entity_type": "ingredient",
+      "surface_form": "ἴρεως",
+      "normalized_label": "ἶρις"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:aetius-1-129-2:ingredient:sampsychon-5",
+      "entity_type": "ingredient",
+      "surface_form": "σαμψύχου",
+      "normalized_label": "σαμψύχον"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:aetius-1-129-2:ingredient:yssopos-6",
+      "entity_type": "ingredient",
+      "surface_form": "ὑσσώπου",
+      "normalized_label": "ὕσσωπος"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:aetius-1-129-2:ingredient:elelisphakon-7",
+      "entity_type": "ingredient",
+      "surface_form": "ἐλελισφάκου",
+      "normalized_label": "ἐλελίσφακον"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:aetius-1-129-2:ingredient:phylla-agnoy-chlora-8",
+      "entity_type": "ingredient",
+      "surface_form": "ἄγνου χλωρῶν φύλλων",
+      "normalized_label": "φύλλα ἄγνου χλωρά"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:aetius-1-129-2:ingredient:kitrophylla-chlora-9",
+      "entity_type": "ingredient",
+      "surface_form": "κιτροφύλλων χλωρῶν",
+      "normalized_label": "κιτρόφυλλα χλωρά"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:aetius-1-129-2:ingredient:chamailibanon-chloron-10",
+      "entity_type": "ingredient",
+      "surface_form": "χαμαιλιβάνου χλωροῦ",
+      "normalized_label": "χαμαιλίβανον χλωρόν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:aetius-1-129-2:ingredient:phylla-daphnes-chlora-11",
+      "entity_type": "ingredient",
+      "surface_form": "δάφνης φύλλων χλωρῶν",
+      "normalized_label": "φύλλα δάφνης χλωρά"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:aetius-1-129-2:ingredient:anthos-kyproy-12",
+      "entity_type": "ingredient",
+      "surface_form": "κύπρου ἄνθους",
+      "normalized_label": "ἄνθος κύπρου"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:aetius-1-129-2:ingredient:opos-balsamoy-13",
+      "entity_type": "ingredient",
+      "surface_form": "βαλσάμου ὀποῦ",
+      "normalized_label": "ὀπός βαλσάμου"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:aetius-1-129-2:process:skeyazein-1",
+      "entity_type": "process",
+      "surface_form": "σκευάζομεν",
+      "normalized_label": "σκευάζειν"
+    }
+  ]
+}

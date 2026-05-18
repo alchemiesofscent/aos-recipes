@@ -1,0 +1,873 @@
+{
+  "dataset_key": "aetius_book16_myrepsika",
+  "source_json": "experiments/aetius-book16-ch126-153-myrepsika/data/aetius_book16_ch126_153_myrepsika.json",
+  "host_raw_file": "tei/raw/tlg0718016.xml",
+  "work_slug": "aetius.b16.myrepsika",
+  "recipe_id": "aetius-16-139",
+  "recipe_urn": "urn:aos:recipe:aetius-16-139",
+  "record_urn": "urn:aos:recipe-record:aetius-16-139",
+  "author": "Aëtius of Amida",
+  "work": "Libri medicinales",
+  "book": "16",
+  "chapter": "139",
+  "section": null,
+  "chapter_name": "ῥοδομήλου σκευασία",
+  "lemma": "ῥοδομήλου σκευασία",
+  "text": "Μήλων κεκαθαρμένων τοῦ ἐκτὸς καὶ τῆς ἐντεριώνης γλυκυτάτων τοῦ χυλοῦ ξεβ. ὕδατος ἀποτριτωθέντος ξεδ. χυλοῦ ῥόδων ξεα. μέλιτος ξεαζʹ. ἤτοι ξέστ. α καὶ ἥμισ. ἐν τῷ καιρῷ τῶν μήλων ποιήσας ἐξ αὐτῶν τὸν χυλὸν καὶ διηθήσας διὰ ῥάκους, ἐπίβαλλε τῷ μέλιτι καὶ φύλαττε ἕως τοῦ καιροῦ τῶν ῥόδων· ἐν δὲ τῷ ἔαρι ἀποτριτώσας τὸ ὕδωρ, καὶ ποιήσας τὸν χυλὸν τῶν ῥόδων ἑνώσας ἅμα τὰ πάντα, καὶ ὅταν πεφθῇ χρῶ.",
+  "original_text": null,
+  "text_source": null,
+  "emendations": [],
+  "emendation_count": 0,
+  "source_kind": null,
+  "entry_kind": "recipe",
+  "citation": {
+    "pages": [
+      "167"
+    ],
+    "start": {
+      "page": "167",
+      "line": "18",
+      "xml_id": "zerv-167-18"
+    },
+    "end": {
+      "page": "167",
+      "line": "25",
+      "xml_id": "zerv-167-25"
+    },
+    "citation": {
+      "start": "167.18",
+      "end": "167.25"
+    },
+    "page_spans": [
+      {
+        "page": "167",
+        "start_line": "18",
+        "end_line": "25"
+      }
+    ],
+    "lines": [
+      {
+        "page": "167",
+        "line": "18",
+        "xml_id": "zerv-167-18",
+        "citation": "167.18",
+        "text": "ΡΟΔΟΜΗΛΟΥ ΣΚΕΥΑΣΙΑ."
+      },
+      {
+        "page": "167",
+        "line": "19",
+        "xml_id": "zerv-167-19",
+        "citation": "167.19",
+        "text": "Μήλων κεκαθαρμένων τοῦ ἐκτὸς καὶ τῆς ἐντεριώνης γλυκυ-"
+      },
+      {
+        "page": "167",
+        "line": "20",
+        "xml_id": "zerv-167-20",
+        "citation": "167.20",
+        "text": "τάτων τοῦ χυλοῦ ξεβ. ὕδατος ἀποτριτωθέντος ξεδ. χυλοῦ ῥόδων"
+      },
+      {
+        "page": "167",
+        "line": "21",
+        "xml_id": "zerv-167-21",
+        "citation": "167.21",
+        "text": "ξεα. μέλιτος ξεαζʹ. ἤτοι ξέστ. α καὶ ἥμισ. ἐν τῷ καιρῷ τῶν μήλων"
+      },
+      {
+        "page": "167",
+        "line": "22",
+        "xml_id": "zerv-167-22",
+        "citation": "167.22",
+        "text": "ποιήσας ἐξ αὐτῶν τὸν χυλὸν καὶ διηθήσας διὰ ῥάκους, ἐπίβαλλε"
+      },
+      {
+        "page": "167",
+        "line": "23",
+        "xml_id": "zerv-167-23",
+        "citation": "167.23",
+        "text": "τῷ μέλιτι καὶ φύλαττε ἕως τοῦ καιροῦ τῶν ῥόδων· ἐν δὲ τῷ"
+      },
+      {
+        "page": "167",
+        "line": "24",
+        "xml_id": "zerv-167-24",
+        "citation": "167.24",
+        "text": "ἔαρι ἀποτριτώσας τὸ ὕδωρ, καὶ ποιήσας τὸν χυλὸν τῶν ῥόδων"
+      },
+      {
+        "page": "167",
+        "line": "25",
+        "xml_id": "zerv-167-25",
+        "citation": "167.25",
+        "text": "ἑνώσας ἅμα τὰ πάντα, καὶ ὅταν πεφθῇ χρῶ."
+      }
+    ],
+    "edition_key": "zervos"
+  },
+  "notes": [],
+  "alignment_status": "pending",
+  "alignment_confidence": "pending",
+  "alignment_evidence": null,
+  "review_status": "reviewed_structured_authority",
+  "review_provenance": {
+    "authority_source": "reports/entity_review/structured/aetius_book16.json",
+    "authority_recipe_id": "aetius-16-139",
+    "authority_lemma": "ῥοδομήλου σκευασία",
+    "model": "gpt-5.4",
+    "reasoning_effort": "high",
+    "dataset_key": "aetius_book16_myrepsika",
+    "entity_model_version": "1.2",
+    "authority_version": "2026-04-13-qty-alt-v1",
+    "prompt_version": "qty-alt-pass-v1",
+    "build_version": "2026-05-18T15:51:35Z"
+  },
+  "schema_version": "1.2",
+  "build_metadata": {
+    "builder": "scripts/recipes/build_recipe_entities.py",
+    "built_at": "2026-05-18T15:51:35Z",
+    "source_structured_authority": "reports/entity_review/structured/aetius_book16.json",
+    "authority_model": "gpt-5.4",
+    "authority_reasoning_effort": "high",
+    "dataset_key": "aetius_book16_myrepsika",
+    "entity_model_version": "1.2",
+    "authority_version": "2026-04-13-qty-alt-v1",
+    "prompt_version": "qty-alt-pass-v1",
+    "build_version": "2026-05-18T15:51:35Z"
+  },
+  "recipe_text_excerpt": "Μήλων κεκαθαρμένων τοῦ ἐκτὸς καὶ τῆς ἐντεριώνης γλυκυτάτων τοῦ χυλοῦ ξεβ. ὕδατος ἀποτριτωθέντος ξεδ. χυλοῦ ῥόδων ξεα. μέλιτος ξεαζʹ. ἤτοι",
+  "preparation": {
+    "preparation_id": "aetius-16-139:preparation:rodomeloy-skeyasia",
+    "preparation_urn": "urn:aos:recipe-preparation:aetius-16-139:preparation:rodomeloy-skeyasia",
+    "source_span": "ῥοδομήλου σκευασία",
+    "surface_form": "ῥοδομήλου σκευασία",
+    "normalized_label": "ῥοδομήλου σκευασία",
+    "qualifiers": [],
+    "regimen_notes": [],
+    "certainty": "certain",
+    "notes": [],
+    "host_locator": {
+      "book": "16",
+      "chapter": "139",
+      "section": null,
+      "citation": {
+        "start": "167.18",
+        "end": "167.25"
+      }
+    }
+  },
+  "ingredients": [
+    {
+      "ingredient_id": "aetius-16-139:ingredient:chylos-melon-glykytaton-1",
+      "ingredient_urn": "urn:aos:recipe-ingredient:aetius-16-139:ingredient:chylos-melon-glykytaton-1",
+      "source_span": "Μήλων κεκαθαρμένων τοῦ ἐκτὸς καὶ τῆς ἐντεριώνης γλυκυτάτων τοῦ χυλοῦ",
+      "surface_form": "Μήλων κεκαθαρμένων τοῦ ἐκτὸς καὶ τῆς ἐντεριώνης γλυκυτάτων τοῦ χυλοῦ",
+      "base_label": "χυλοῦ",
+      "normalized_label": "χυλὸς μήλων γλυκυτάτων",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [
+        "aetius-16-139:process:kathairein-1"
+      ],
+      "quantities": [
+        {
+          "source_span": "ξεβ.",
+          "raw_number": "β",
+          "normalized_number": 2,
+          "raw_unit": "ξε",
+          "normalized_unit": "xestes",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "16",
+        "chapter": "139",
+        "section": null,
+        "citation": {
+          "start": "167.18",
+          "end": "167.25"
+        }
+      }
+    },
+    {
+      "ingredient_id": "aetius-16-139:ingredient:ydor-2",
+      "ingredient_urn": "urn:aos:recipe-ingredient:aetius-16-139:ingredient:ydor-2",
+      "source_span": "ὕδατος ἀποτριτωθέντος",
+      "surface_form": "ὕδατος ἀποτριτωθέντος",
+      "base_label": "ὕδατος",
+      "normalized_label": "ὕδωρ",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [
+        "aetius-16-139:process:apotritoyn-2",
+        "aetius-16-139:process:apotritoyn-7"
+      ],
+      "quantities": [
+        {
+          "source_span": "ξεδ.",
+          "raw_number": "δ",
+          "normalized_number": 4,
+          "raw_unit": "ξε",
+          "normalized_unit": "xestes",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "16",
+        "chapter": "139",
+        "section": null,
+        "citation": {
+          "start": "167.18",
+          "end": "167.25"
+        }
+      }
+    },
+    {
+      "ingredient_id": "aetius-16-139:ingredient:chylos-rodon-3",
+      "ingredient_urn": "urn:aos:recipe-ingredient:aetius-16-139:ingredient:chylos-rodon-3",
+      "source_span": "χυλοῦ ῥόδων",
+      "surface_form": "χυλοῦ ῥόδων",
+      "base_label": "χυλοῦ",
+      "normalized_label": "χυλὸς ῥόδων",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [],
+      "quantities": [
+        {
+          "source_span": "ξεα.",
+          "raw_number": "α",
+          "normalized_number": 1,
+          "raw_unit": "ξε",
+          "normalized_unit": "xestes",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "16",
+        "chapter": "139",
+        "section": null,
+        "citation": {
+          "start": "167.18",
+          "end": "167.25"
+        }
+      }
+    },
+    {
+      "ingredient_id": "aetius-16-139:ingredient:meli-4",
+      "ingredient_urn": "urn:aos:recipe-ingredient:aetius-16-139:ingredient:meli-4",
+      "source_span": "μέλιτος",
+      "surface_form": "μέλιτος",
+      "base_label": "μέλιτος",
+      "normalized_label": "μέλι",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [],
+      "quantities": [
+        {
+          "source_span": "ξεαζʹ. ἤτοι ξέστ. α καὶ ἥμισ.",
+          "raw_number": "αζʹ",
+          "normalized_number": 1.5,
+          "raw_unit": "ξε",
+          "normalized_unit": "xestes",
+          "certainty": "certain",
+          "notes": [
+            "ἤτοι ξέστ. α καὶ ἥμισ."
+          ]
+        }
+      ],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "16",
+        "chapter": "139",
+        "section": null,
+        "citation": {
+          "start": "167.18",
+          "end": "167.25"
+        }
+      }
+    }
+  ],
+  "processes": [
+    {
+      "process_id": "aetius-16-139:process:kathairein-1",
+      "process_urn": "urn:aos:recipe-process:aetius-16-139:process:kathairein-1",
+      "source_span": "κεκαθαρμένων",
+      "surface_form": "κεκαθαρμένων",
+      "normalized_label": "καθαίρειν",
+      "target_type": "ingredient",
+      "target_ids": [
+        "aetius-16-139:ingredient:chylos-melon-glykytaton-1"
+      ],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "other",
+          "source_span": "τοῦ ἐκτὸς καὶ τῆς ἐντεριώνης",
+          "normalized_value": "τοῦ ἐκτὸς καὶ τῆς ἐντεριώνης",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "16",
+        "chapter": "139",
+        "section": null,
+        "citation": {
+          "start": "167.18",
+          "end": "167.25"
+        }
+      }
+    },
+    {
+      "process_id": "aetius-16-139:process:apotritoyn-2",
+      "process_urn": "urn:aos:recipe-process:aetius-16-139:process:apotritoyn-2",
+      "source_span": "ἀποτριτωθέντος",
+      "surface_form": "ἀποτριτωθέντος",
+      "normalized_label": "ἀποτριτοῦν",
+      "target_type": "ingredient",
+      "target_ids": [
+        "aetius-16-139:ingredient:ydor-2"
+      ],
+      "quantities": [],
+      "qualifiers": [],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "16",
+        "chapter": "139",
+        "section": null,
+        "citation": {
+          "start": "167.18",
+          "end": "167.25"
+        }
+      }
+    },
+    {
+      "process_id": "aetius-16-139:process:poiein-3",
+      "process_urn": "urn:aos:recipe-process:aetius-16-139:process:poiein-3",
+      "source_span": "ποιήσας",
+      "surface_form": "ποιήσας",
+      "normalized_label": "ποιεῖν",
+      "target_type": "ingredient",
+      "target_ids": [
+        "aetius-16-139:ingredient:chylos-melon-glykytaton-1"
+      ],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "other",
+          "source_span": "ἐν τῷ καιρῷ τῶν μήλων",
+          "normalized_value": "καιρὸς τῶν μήλων",
+          "certainty": "certain",
+          "notes": []
+        },
+        {
+          "qualifier_type": "other",
+          "source_span": "ἐξ αὐτῶν",
+          "normalized_value": "ἐξ αὐτῶν",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "16",
+        "chapter": "139",
+        "section": null,
+        "citation": {
+          "start": "167.18",
+          "end": "167.25"
+        }
+      }
+    },
+    {
+      "process_id": "aetius-16-139:process:diethein-4",
+      "process_urn": "urn:aos:recipe-process:aetius-16-139:process:diethein-4",
+      "source_span": "διηθήσας",
+      "surface_form": "διηθήσας",
+      "normalized_label": "διηθεῖν",
+      "target_type": "ingredient",
+      "target_ids": [
+        "aetius-16-139:ingredient:chylos-melon-glykytaton-1"
+      ],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "manner",
+          "source_span": "διὰ ῥάκους",
+          "normalized_value": "διὰ ῥάκους",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "16",
+        "chapter": "139",
+        "section": null,
+        "citation": {
+          "start": "167.18",
+          "end": "167.25"
+        }
+      }
+    },
+    {
+      "process_id": "aetius-16-139:process:epiballein-5",
+      "process_urn": "urn:aos:recipe-process:aetius-16-139:process:epiballein-5",
+      "source_span": "ἐπίβαλλε",
+      "surface_form": "ἐπίβαλλε",
+      "normalized_label": "ἐπιβάλλειν",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "other",
+          "source_span": "τῷ μέλιτι",
+          "normalized_value": "τῷ μέλιτι",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "16",
+        "chapter": "139",
+        "section": null,
+        "citation": {
+          "start": "167.18",
+          "end": "167.25"
+        }
+      }
+    },
+    {
+      "process_id": "aetius-16-139:process:phylattein-6",
+      "process_urn": "urn:aos:recipe-process:aetius-16-139:process:phylattein-6",
+      "source_span": "φύλαττε",
+      "surface_form": "φύλαττε",
+      "normalized_label": "φυλάττειν",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "duration",
+          "source_span": "ἕως τοῦ καιροῦ τῶν ῥόδων",
+          "normalized_value": "ἕως τοῦ καιροῦ τῶν ῥόδων",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "16",
+        "chapter": "139",
+        "section": null,
+        "citation": {
+          "start": "167.18",
+          "end": "167.25"
+        }
+      }
+    },
+    {
+      "process_id": "aetius-16-139:process:apotritoyn-7",
+      "process_urn": "urn:aos:recipe-process:aetius-16-139:process:apotritoyn-7",
+      "source_span": "ἀποτριτώσας",
+      "surface_form": "ἀποτριτώσας",
+      "normalized_label": "ἀποτριτοῦν",
+      "target_type": "ingredient",
+      "target_ids": [
+        "aetius-16-139:ingredient:ydor-2"
+      ],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "other",
+          "source_span": "ἐν δὲ τῷ ἔαρι",
+          "normalized_value": "ἔαρ",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "16",
+        "chapter": "139",
+        "section": null,
+        "citation": {
+          "start": "167.18",
+          "end": "167.25"
+        }
+      }
+    },
+    {
+      "process_id": "aetius-16-139:process:poiein-8",
+      "process_urn": "urn:aos:recipe-process:aetius-16-139:process:poiein-8",
+      "source_span": "ποιήσας",
+      "surface_form": "ποιήσας",
+      "normalized_label": "ποιεῖν",
+      "target_type": "ingredient",
+      "target_ids": [
+        "aetius-16-139:ingredient:chylos-rodon-3"
+      ],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "other",
+          "source_span": "ἐν δὲ τῷ ἔαρι",
+          "normalized_value": "ἔαρ",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "16",
+        "chapter": "139",
+        "section": null,
+        "citation": {
+          "start": "167.18",
+          "end": "167.25"
+        }
+      }
+    },
+    {
+      "process_id": "aetius-16-139:process:enoyn-9",
+      "process_urn": "urn:aos:recipe-process:aetius-16-139:process:enoyn-9",
+      "source_span": "ἑνώσας",
+      "surface_form": "ἑνώσας",
+      "normalized_label": "ἑνοῦν",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "manner",
+          "source_span": "ἅμα",
+          "normalized_value": "ἅμα",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "16",
+        "chapter": "139",
+        "section": null,
+        "citation": {
+          "start": "167.18",
+          "end": "167.25"
+        }
+      }
+    },
+    {
+      "process_id": "aetius-16-139:process:pettein-10",
+      "process_urn": "urn:aos:recipe-process:aetius-16-139:process:pettein-10",
+      "source_span": "πεφθῇ",
+      "surface_form": "πεφθῇ",
+      "normalized_label": "πέττειν",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "16",
+        "chapter": "139",
+        "section": null,
+        "citation": {
+          "start": "167.18",
+          "end": "167.25"
+        }
+      }
+    },
+    {
+      "process_id": "aetius-16-139:process:chresthai-11",
+      "process_urn": "urn:aos:recipe-process:aetius-16-139:process:chresthai-11",
+      "source_span": "χρῶ",
+      "surface_form": "χρῶ",
+      "normalized_label": "χρῆσθαι",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "16",
+        "chapter": "139",
+        "section": null,
+        "citation": {
+          "start": "167.18",
+          "end": "167.25"
+        }
+      }
+    }
+  ],
+  "materials": [
+    {
+      "material_id": "aetius-16-139:material:rakos-1",
+      "material_urn": "urn:aos:recipe-material:aetius-16-139:material:rakos-1",
+      "source_span": "ῥάκους",
+      "surface_form": "ῥάκους",
+      "normalized_label": "ῥάκος",
+      "role": "tool",
+      "certainty": "certain",
+      "quantities": [],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "16",
+        "chapter": "139",
+        "section": null,
+        "citation": {
+          "start": "167.18",
+          "end": "167.25"
+        }
+      }
+    }
+  ],
+  "people": [],
+  "places": [],
+  "uses": [],
+  "preparation_names": [],
+  "other_preparations_mentioned": [],
+  "works_mentioned": [],
+  "entities": [
+    {
+      "entity_urn": "urn:aos:recipe-preparation:aetius-16-139:preparation:rodomeloy-skeyasia",
+      "entity_type": "label",
+      "surface_form": "ῥοδομήλου σκευασία",
+      "normalized_label": "ῥοδομήλου σκευασία"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:aetius-16-139:ingredient:chylos-melon-glykytaton-1",
+      "entity_type": "ingredient",
+      "surface_form": "Μήλων κεκαθαρμένων τοῦ ἐκτὸς καὶ τῆς ἐντεριώνης γλυκυτάτων τοῦ χυλοῦ",
+      "normalized_label": "χυλὸς μήλων γλυκυτάτων"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:aetius-16-139:ingredient:ydor-2",
+      "entity_type": "ingredient",
+      "surface_form": "ὕδατος ἀποτριτωθέντος",
+      "normalized_label": "ὕδωρ"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:aetius-16-139:ingredient:chylos-rodon-3",
+      "entity_type": "ingredient",
+      "surface_form": "χυλοῦ ῥόδων",
+      "normalized_label": "χυλὸς ῥόδων"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:aetius-16-139:ingredient:meli-4",
+      "entity_type": "ingredient",
+      "surface_form": "μέλιτος",
+      "normalized_label": "μέλι"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:aetius-16-139:process:kathairein-1",
+      "entity_type": "process",
+      "surface_form": "κεκαθαρμένων",
+      "normalized_label": "καθαίρειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:aetius-16-139:process:apotritoyn-2",
+      "entity_type": "process",
+      "surface_form": "ἀποτριτωθέντος",
+      "normalized_label": "ἀποτριτοῦν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:aetius-16-139:process:poiein-3",
+      "entity_type": "process",
+      "surface_form": "ποιήσας",
+      "normalized_label": "ποιεῖν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:aetius-16-139:process:diethein-4",
+      "entity_type": "process",
+      "surface_form": "διηθήσας",
+      "normalized_label": "διηθεῖν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:aetius-16-139:process:epiballein-5",
+      "entity_type": "process",
+      "surface_form": "ἐπίβαλλε",
+      "normalized_label": "ἐπιβάλλειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:aetius-16-139:process:phylattein-6",
+      "entity_type": "process",
+      "surface_form": "φύλαττε",
+      "normalized_label": "φυλάττειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:aetius-16-139:process:apotritoyn-7",
+      "entity_type": "process",
+      "surface_form": "ἀποτριτώσας",
+      "normalized_label": "ἀποτριτοῦν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:aetius-16-139:process:poiein-8",
+      "entity_type": "process",
+      "surface_form": "ποιήσας",
+      "normalized_label": "ποιεῖν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:aetius-16-139:process:enoyn-9",
+      "entity_type": "process",
+      "surface_form": "ἑνώσας",
+      "normalized_label": "ἑνοῦν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:aetius-16-139:process:pettein-10",
+      "entity_type": "process",
+      "surface_form": "πεφθῇ",
+      "normalized_label": "πέττειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:aetius-16-139:process:chresthai-11",
+      "entity_type": "process",
+      "surface_form": "χρῶ",
+      "normalized_label": "χρῆσθαι"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-material:aetius-16-139:material:rakos-1",
+      "entity_type": "material",
+      "surface_form": "ῥάκους",
+      "normalized_label": "ῥάκος"
+    }
+  ],
+  "canonical_file": "data/recipes/aetius-16-139.json",
+  "source_entry": {
+    "source_id": "aetius-16-139",
+    "derived_recipe_id": "aetius-16-139",
+    "entry_kind": null,
+    "source_kind": null,
+    "source_lines": null,
+    "section_markers": []
+  },
+  "entity_groups": {
+    "labels": [
+      {
+        "entity_urn": "urn:aos:recipe-preparation:aetius-16-139:preparation:rodomeloy-skeyasia",
+        "surface_form": "ῥοδομήλου σκευασία",
+        "normalized_label": "ῥοδομήλου σκευασία"
+      }
+    ],
+    "ingredients": [
+      {
+        "entity_urn": "urn:aos:recipe-ingredient:aetius-16-139:ingredient:chylos-melon-glykytaton-1",
+        "surface_form": "Μήλων κεκαθαρμένων τοῦ ἐκτὸς καὶ τῆς ἐντεριώνης γλυκυτάτων τοῦ χυλοῦ",
+        "normalized_label": "χυλὸς μήλων γλυκυτάτων",
+        "quantity_display": "ξεβ."
+      },
+      {
+        "entity_urn": "urn:aos:recipe-ingredient:aetius-16-139:ingredient:ydor-2",
+        "surface_form": "ὕδατος ἀποτριτωθέντος",
+        "normalized_label": "ὕδωρ",
+        "quantity_display": "ξεδ."
+      },
+      {
+        "entity_urn": "urn:aos:recipe-ingredient:aetius-16-139:ingredient:chylos-rodon-3",
+        "surface_form": "χυλοῦ ῥόδων",
+        "normalized_label": "χυλὸς ῥόδων",
+        "quantity_display": "ξεα."
+      },
+      {
+        "entity_urn": "urn:aos:recipe-ingredient:aetius-16-139:ingredient:meli-4",
+        "surface_form": "μέλιτος",
+        "normalized_label": "μέλι",
+        "quantity_display": "ξεαζʹ. ἤτοι ξέστ. α καὶ ἥμισ."
+      }
+    ],
+    "processes": [
+      {
+        "entity_urn": "urn:aos:recipe-process:aetius-16-139:process:kathairein-1",
+        "surface_form": "κεκαθαρμένων",
+        "normalized_label": "καθαίρειν"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-process:aetius-16-139:process:apotritoyn-2",
+        "surface_form": "ἀποτριτωθέντος",
+        "normalized_label": "ἀποτριτοῦν"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-process:aetius-16-139:process:poiein-3",
+        "surface_form": "ποιήσας",
+        "normalized_label": "ποιεῖν"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-process:aetius-16-139:process:diethein-4",
+        "surface_form": "διηθήσας",
+        "normalized_label": "διηθεῖν"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-process:aetius-16-139:process:epiballein-5",
+        "surface_form": "ἐπίβαλλε",
+        "normalized_label": "ἐπιβάλλειν"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-process:aetius-16-139:process:phylattein-6",
+        "surface_form": "φύλαττε",
+        "normalized_label": "φυλάττειν"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-process:aetius-16-139:process:apotritoyn-7",
+        "surface_form": "ἀποτριτώσας",
+        "normalized_label": "ἀποτριτοῦν"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-process:aetius-16-139:process:poiein-8",
+        "surface_form": "ποιήσας",
+        "normalized_label": "ποιεῖν"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-process:aetius-16-139:process:enoyn-9",
+        "surface_form": "ἑνώσας",
+        "normalized_label": "ἑνοῦν"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-process:aetius-16-139:process:pettein-10",
+        "surface_form": "πεφθῇ",
+        "normalized_label": "πέττειν"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-process:aetius-16-139:process:chresthai-11",
+        "surface_form": "χρῶ",
+        "normalized_label": "χρῆσθαι"
+      }
+    ],
+    "tools": [
+      {
+        "entity_urn": "urn:aos:recipe-material:aetius-16-139:material:rakos-1",
+        "surface_form": "ῥάκους",
+        "normalized_label": "ῥάκος"
+      }
+    ],
+    "other_preparations_mentioned": [],
+    "people": [],
+    "places": [],
+    "works_mentioned": [],
+    "preparation_names": []
+  }
+}

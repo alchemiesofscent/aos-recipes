@@ -1,0 +1,370 @@
+{
+  "dataset_key": "dioscorides_book1_perfumes_resins",
+  "source_json": "experiments/dioscorides-book1-perfumes-resins/data/dioscorides_book1_perfumes_resins.json",
+  "host_raw_file": "tei/raw/tlg0656.tlg001.1st1K-grc1.xml",
+  "work_slug": "diosc.b1.recipes",
+  "recipe_id": "dioscorides-1-58-3-megalleion",
+  "recipe_urn": "urn:aos:recipe:dioscorides-1-58-3-megalleion",
+  "record_urn": "urn:aos:recipe-record:dioscorides-1-58-3-megalleion",
+  "author": "Dioscorides",
+  "work": "De materia medica",
+  "book": "1",
+  "chapter": "58",
+  "section": "3",
+  "chapter_name": "ἀμαράκινον",
+  "lemma": "μεγάλλειον",
+  "text": "3 τὸ δὲ μεγάλλειον καλούμενον πάλαι μέν ποτε ἐσκευάζετο, ἐκλέλοιπε δὲ νῦν. πρὸς ἐκπλήρωσιν δὲ τῆς ἱστορίας οὐκ ἐστιν ἄτοπον ἐπιμνησθῆναι καὶ τούτου. δὲ σκευασία ἡ αὐτὴ τῷ ἀμαρακίνῳ, πλεονάζει δὲ τῇ ῥητίνη καὶ ταύτῃ διαφέρει. ἐστι δὲ μαλακτικὸν ἠπίως. ἡ μέντοι ῥητίνη μείγνυται τοῖς μύροις οὔτε φυλακῆς οὔτε ἡδονῆς χάριν, χρώματος δὲ καὶ πάχους ἕνεκα. μείγνυται δὲ ἠ τερεβινθίνη ἀφεψομένη, ἄχρις ὅτου ἄν ἄοσμος γένηται. δηλωθήσεται δὲ ἐν τοῖς περὶ ῥητίνης (I 71) ἡ ἕψησις αὐτοῦ.",
+  "original_text": null,
+  "text_source": null,
+  "emendations": [],
+  "emendation_count": 0,
+  "source_kind": "main_text",
+  "entry_kind": "recipe",
+  "citation": {
+    "pages": [
+      "54"
+    ],
+    "start": {
+      "page": "54",
+      "line": "1"
+    },
+    "end": {
+      "page": "54",
+      "line": "10"
+    },
+    "citation": {
+      "start": "54.1",
+      "end": "54.10"
+    },
+    "page_spans": [
+      {
+        "page": "54",
+        "start_line": "1",
+        "end_line": "10"
+      }
+    ],
+    "lines": [
+      {
+        "page": "54",
+        "line": "1",
+        "break_no": false,
+        "text": "3 τὸ δὲ μεγάλλειον καλούμενον πάλαι μέν ποτε ἐσκευάζετο, ἐκλέλοιπε δὲ νῦν. πρὸς ἐκπλήρωσιν δὲ τῆς ἱστορίας οὐκ ἐστιν ἄτοπον ἐπιμνησθῆναι καὶ τούτου. δὲ σκευασία ἡ αὐτὴ",
+        "citation": "54.1"
+      },
+      {
+        "page": "54",
+        "line": "5",
+        "break_no": false,
+        "text": "τῷ ἀμαρακίνῳ, πλεονάζει δὲ τῇ ῥητίνη καὶ ταύτῃ διαφέρει. ἐστι δὲ μαλακτικὸν ἠπίως. ἡ μέντοι ῥητίνη μείγνυται τοῖς μύροις οὔτε φυλακῆς οὔτε ἡδονῆς χάριν, χρώματος δὲ καὶ πάχους ἕνεκα. μείγνυται δὲ ἠ τερεβινθίνη ἀφεψομένη, ἄχρις ὅτου ἄν ἄοσμος γένηται. δηλωθήσεται δὲ ἐν τοῖς περὶ ῥητίνης (I 71)",
+        "citation": "54.5"
+      },
+      {
+        "page": "54",
+        "line": "10",
+        "break_no": false,
+        "text": "ἡ ἕψησις αὐτοῦ.",
+        "citation": "54.10"
+      }
+    ],
+    "edition_key": "wellmann"
+  },
+  "notes": [
+    "Raw lines 1590-1633 are book 1 chapter 25 in this witness, although the prompt referred to chapter 35.",
+    "The perfume proemium is taken from the later transition at chapter 42 section 2 (raw lines 2306-2342), not from the chapter 25 κῦφι entry.",
+    "The ἰασμέλαιον entry is preserved only in the apparatus as an addition from another recension."
+  ],
+  "alignment_status": "pending",
+  "alignment_confidence": "pending",
+  "alignment_evidence": null,
+  "review_status": "reviewed_structured_authority",
+  "review_provenance": {
+    "authority_source": "reports/entity_review/structured/dioscorides.json",
+    "authority_recipe_id": "dioscorides-1-58-3-megalleion",
+    "authority_lemma": "μεγάλλειον",
+    "model": "gpt-5.4",
+    "reasoning_effort": "high",
+    "dataset_key": "dioscorides_book1_perfumes_resins",
+    "entity_model_version": "1.2",
+    "authority_version": "2026-04-13-qty-alt-v1",
+    "prompt_version": "qty-alt-pass-v1",
+    "build_version": "2026-05-18T15:51:35Z"
+  },
+  "schema_version": "1.2",
+  "build_metadata": {
+    "builder": "scripts/recipes/build_recipe_entities.py",
+    "built_at": "2026-05-18T15:51:35Z",
+    "source_structured_authority": "reports/entity_review/structured/dioscorides.json",
+    "authority_model": "gpt-5.4",
+    "authority_reasoning_effort": "high",
+    "dataset_key": "dioscorides_book1_perfumes_resins",
+    "entity_model_version": "1.2",
+    "authority_version": "2026-04-13-qty-alt-v1",
+    "prompt_version": "qty-alt-pass-v1",
+    "build_version": "2026-05-18T15:51:35Z"
+  },
+  "recipe_text_excerpt": "τὸ δὲ μεγάλλειον καλούμενον πάλαι μέν ποτε ἐσκευάζετο, ἐκλέλοιπε δὲ νῦν. πρὸς ἐκπλήρωσιν δὲ τῆς ἱστορίας οὐκ ἐστιν ἄτοπον ἐπιμνησθῆναι",
+  "preparation": {
+    "preparation_id": "dioscorides-1-58-3-megalleion:preparation:megalleion",
+    "preparation_urn": "urn:aos:recipe-preparation:dioscorides-1-58-3-megalleion:preparation:megalleion",
+    "source_span": "μεγάλλειον",
+    "surface_form": "μεγάλλειον",
+    "normalized_label": "μεγάλλειον",
+    "qualifiers": [],
+    "regimen_notes": [
+      {
+        "source_span": "δὲ σκευασία ἡ αὐτὴ τῷ ἀμαρακίνῳ",
+        "normalized_note": "ἡ αὐτὴ σκευασία τῷ ἀμαρακίνῳ",
+        "certainty": "certain",
+        "notes": []
+      },
+      {
+        "source_span": "πλεονάζει δὲ τῇ ῥητίνη καὶ ταύτῃ διαφέρει",
+        "normalized_note": "πλεονάζει τῇ ῥητίνῃ",
+        "certainty": "certain",
+        "notes": []
+      }
+    ],
+    "certainty": "certain",
+    "notes": [],
+    "host_locator": {
+      "book": "1",
+      "chapter": "58",
+      "section": "3",
+      "citation": {
+        "start": "54.1",
+        "end": "54.10"
+      }
+    }
+  },
+  "ingredients": [
+    {
+      "ingredient_id": "dioscorides-1-58-3-megalleion:ingredient:retine-1",
+      "ingredient_urn": "urn:aos:recipe-ingredient:dioscorides-1-58-3-megalleion:ingredient:retine-1",
+      "source_span": "τῇ ῥητίνη",
+      "surface_form": "τῇ ῥητίνη",
+      "base_label": "ῥητίνη",
+      "normalized_label": "ῥητίνη",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [],
+      "quantities": [],
+      "qualifiers": [],
+      "notes": [
+        "πλεονάζει δὲ τῇ ῥητίνη καὶ ταύτῃ διαφέρει."
+      ],
+      "host_locator": {
+        "book": "1",
+        "chapter": "58",
+        "section": "3",
+        "citation": {
+          "start": "54.1",
+          "end": "54.10"
+        }
+      }
+    },
+    {
+      "ingredient_id": "dioscorides-1-58-3-megalleion:ingredient:terebinthine-2",
+      "ingredient_urn": "urn:aos:recipe-ingredient:dioscorides-1-58-3-megalleion:ingredient:terebinthine-2",
+      "source_span": "ἠ τερεβινθίνη ἀφεψομένη",
+      "surface_form": "ἠ τερεβινθίνη ἀφεψομένη",
+      "base_label": "τερεβινθίνη",
+      "normalized_label": "τερεβινθίνη",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [
+        "dioscorides-1-58-3-megalleion:process:aphepsein-1",
+        "dioscorides-1-58-3-megalleion:process:meignysthai-2"
+      ],
+      "quantities": [],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "58",
+        "section": "3",
+        "citation": {
+          "start": "54.1",
+          "end": "54.10"
+        }
+      }
+    }
+  ],
+  "processes": [
+    {
+      "process_id": "dioscorides-1-58-3-megalleion:process:aphepsein-1",
+      "process_urn": "urn:aos:recipe-process:dioscorides-1-58-3-megalleion:process:aphepsein-1",
+      "source_span": "ἀφεψομένη",
+      "surface_form": "ἀφεψομένη",
+      "normalized_label": "ἀφέψειν",
+      "target_type": "ingredient",
+      "target_ids": [
+        "dioscorides-1-58-3-megalleion:ingredient:terebinthine-2"
+      ],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "other",
+          "source_span": "ἄχρις ὅτου ἄν ἄοσμος γένηται",
+          "normalized_value": "ἄοσμος",
+          "certainty": "certain",
+          "notes": [
+            "endpoint condition"
+          ]
+        }
+      ],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "58",
+        "section": "3",
+        "citation": {
+          "start": "54.1",
+          "end": "54.10"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-1-58-3-megalleion:process:meignysthai-2",
+      "process_urn": "urn:aos:recipe-process:dioscorides-1-58-3-megalleion:process:meignysthai-2",
+      "source_span": "μείγνυται",
+      "surface_form": "μείγνυται",
+      "normalized_label": "μείγνυσθαι",
+      "target_type": "ingredient",
+      "target_ids": [
+        "dioscorides-1-58-3-megalleion:ingredient:terebinthine-2"
+      ],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "other",
+          "source_span": "τοῖς μύροις",
+          "normalized_value": "τοῖς μύροις",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "certainty": "certain",
+      "notes": [
+        "οὔτε φυλακῆς οὔτε ἡδονῆς χάριν, χρώματος δὲ καὶ πάχους ἕνεκα."
+      ],
+      "host_locator": {
+        "book": "1",
+        "chapter": "58",
+        "section": "3",
+        "citation": {
+          "start": "54.1",
+          "end": "54.10"
+        }
+      }
+    }
+  ],
+  "materials": [],
+  "people": [],
+  "places": [],
+  "uses": [
+    {
+      "use_id": "dioscorides-1-58-3-megalleion:use:esti-de-malaktikon-epios-1",
+      "use_urn": "urn:aos:recipe-use:dioscorides-1-58-3-megalleion:use:esti-de-malaktikon-epios-1",
+      "category": "medical",
+      "source_span": "ἐστι δὲ μαλακτικὸν ἠπίως",
+      "snippet": "ἐστι δὲ μαλακτικὸν ἠπίως",
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "58",
+        "section": "3",
+        "citation": {
+          "start": "54.1",
+          "end": "54.10"
+        }
+      }
+    }
+  ],
+  "preparation_names": [],
+  "other_preparations_mentioned": [
+    {
+      "reference_id": "dioscorides-1-58-3-megalleion:reference:amarakinon-1",
+      "reference_urn": "urn:aos:recipe-reference:dioscorides-1-58-3-megalleion:reference:amarakinon-1",
+      "source_span": "ἀμαρακίνῳ",
+      "surface_form": "ἀμαρακίνῳ",
+      "normalized_label": "ἀμαράκινον",
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "58",
+        "section": "3",
+        "citation": {
+          "start": "54.1",
+          "end": "54.10"
+        }
+      }
+    }
+  ],
+  "works_mentioned": [
+    {
+      "work_id": "dioscorides-1-58-3-megalleion:work:peri-retines-1",
+      "work_urn": "urn:aos:recipe-work:dioscorides-1-58-3-megalleion:work:peri-retines-1",
+      "source_span": "ἐν τοῖς περὶ ῥητίνης (I 71)",
+      "surface_form": "ἐν τοῖς περὶ ῥητίνης (I 71)",
+      "normalized_label": "περὶ ῥητίνης",
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "58",
+        "section": "3",
+        "citation": {
+          "start": "54.1",
+          "end": "54.10"
+        }
+      }
+    }
+  ],
+  "entities": [
+    {
+      "entity_urn": "urn:aos:recipe-preparation:dioscorides-1-58-3-megalleion:preparation:megalleion",
+      "entity_type": "label",
+      "surface_form": "μεγάλλειον",
+      "normalized_label": "μεγάλλειον"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:dioscorides-1-58-3-megalleion:ingredient:retine-1",
+      "entity_type": "ingredient",
+      "surface_form": "τῇ ῥητίνη",
+      "normalized_label": "ῥητίνη"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:dioscorides-1-58-3-megalleion:ingredient:terebinthine-2",
+      "entity_type": "ingredient",
+      "surface_form": "ἠ τερεβινθίνη ἀφεψομένη",
+      "normalized_label": "τερεβινθίνη"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-1-58-3-megalleion:process:aphepsein-1",
+      "entity_type": "process",
+      "surface_form": "ἀφεψομένη",
+      "normalized_label": "ἀφέψειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-1-58-3-megalleion:process:meignysthai-2",
+      "entity_type": "process",
+      "surface_form": "μείγνυται",
+      "normalized_label": "μείγνυσθαι"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-reference:dioscorides-1-58-3-megalleion:reference:amarakinon-1",
+      "entity_type": "preparation_reference",
+      "surface_form": "ἀμαρακίνῳ",
+      "normalized_label": "ἀμαράκινον"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-work:dioscorides-1-58-3-megalleion:work:peri-retines-1",
+      "entity_type": "work",
+      "surface_form": "ἐν τοῖς περὶ ῥητίνης (I 71)",
+      "normalized_label": "περὶ ῥητίνης"
+    }
+  ]
+}

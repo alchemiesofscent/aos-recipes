@@ -1,0 +1,935 @@
+{
+  "dataset_key": "paul_book7_perfumes",
+  "source_json": "experiments/paul-book7-ch20-perfumes/data/paul_book7_ch20_perfumes.json",
+  "host_raw_file": "tei/raw/tlg0715001.xml",
+  "work_slug": "paul.b7.perfumes",
+  "recipe_id": "paul-7-20-38",
+  "recipe_urn": "urn:aos:recipe:paul-7-20-38",
+  "record_urn": "urn:aos:recipe-record:paul-7-20-38",
+  "author": "Paul of Aegina",
+  "work": "Medical Epitome",
+  "book": "7",
+  "chapter": "20",
+  "section": "38",
+  "chapter_name": "Ἐλαίων καὶ μύρων σκευασίαι διάφοροι.",
+  "lemma": "Φολεάτον",
+  "text": "Φύλλου 𐆄 γ, ἀμώμου 𐆄 α, κασσίας 𐆄 ϛ, λαδάνου 𐆄 α, πεπέρεως λευκοῦ κόκκους μ, σμύρνης τρωγλίτιδος 𐅻 α· κόψας καὶ σήσας λείου πάλιν ἐν θυίᾳ ἐπιβάλλων ἐλαίου ναρδίνου λι. α, ὑπὲρ δὲ τοῦ μελάντερον γενέσθαι τὸ φάρμακον καρύων λέπη καύσας καὶ τρίψας ἐν θυίᾳ ἐπίβαλλε, εἶτα πρόσμιξον ὀποβαλσάμου κοχλιάρια γ, κηροῦ λι. α 𐅵ʹ.",
+  "original_text": null,
+  "text_source": null,
+  "emendations": [],
+  "emendation_count": 0,
+  "source_kind": null,
+  "entry_kind": "recipe",
+  "citation": {
+    "pages": [
+      "2.391"
+    ],
+    "start": {
+      "page": "2.391",
+      "line": "14",
+      "xml_id": "heib-2-391-14"
+    },
+    "end": {
+      "page": "2.391",
+      "line": "19",
+      "xml_id": "heib-2-391-19"
+    },
+    "citation": {
+      "start": "2.391.14",
+      "end": "2.391.19"
+    },
+    "page_spans": [
+      {
+        "page": "2.391",
+        "start_line": "14",
+        "end_line": "19"
+      }
+    ],
+    "lines": [
+      {
+        "page": "2.391",
+        "line": "14",
+        "xml_id": "heib-2-391-14",
+        "break_no": false,
+        "text": "Φολεάτον.",
+        "citation": "2.391.14"
+      },
+      {
+        "page": "2.391",
+        "line": "15",
+        "xml_id": "heib-2-391-15",
+        "break_no": false,
+        "text": "Φύλλου 𐆄 γ, ἀμώμου 𐆄 α, κασσίας 𐆄 ϛ, λαδάνου 𐆄 α, πεπέρεως λευ-",
+        "citation": "2.391.15"
+      },
+      {
+        "page": "2.391",
+        "line": "16",
+        "xml_id": "heib-2-391-16",
+        "break_no": true,
+        "text": "κοῦ κόκκους μ, σμύρνης τρωγλίτιδος 𐅻 α· κόψας καὶ σήσας λείου πάλιν",
+        "citation": "2.391.16"
+      },
+      {
+        "page": "2.391",
+        "line": "17",
+        "xml_id": "heib-2-391-17",
+        "break_no": false,
+        "text": "ἐν θυίᾳ ἐπιβάλλων ἐλαίου ναρδίνου λι. α, ὑπὲρ δὲ τοῦ μελάντερον",
+        "citation": "2.391.17"
+      },
+      {
+        "page": "2.391",
+        "line": "18",
+        "xml_id": "heib-2-391-18",
+        "break_no": false,
+        "text": "γενέσθαι τὸ φάρμακον καρύων λέπη καύσας καὶ τρίψας ἐν θυίᾳ ἐπί-",
+        "citation": "2.391.18"
+      },
+      {
+        "page": "2.391",
+        "line": "19",
+        "xml_id": "heib-2-391-19",
+        "break_no": true,
+        "text": "βαλλε, εἶτα πρόσμιξον ὀποβαλσάμου κοχλιάρια γ, κηροῦ λι. α 𐅵ʹ.",
+        "citation": "2.391.19"
+      }
+    ],
+    "edition_key": "heiberg"
+  },
+  "notes": [],
+  "alignment_status": "pending",
+  "alignment_confidence": "pending",
+  "alignment_evidence": null,
+  "review_status": "reviewed_structured_authority",
+  "review_provenance": {
+    "authority_source": "reports/entity_review/structured/paul.json",
+    "authority_recipe_id": "paul-7-20-38",
+    "authority_lemma": "Φολεάτον",
+    "model": "gpt-5.4",
+    "reasoning_effort": "high",
+    "dataset_key": "paul_book7_perfumes",
+    "entity_model_version": "1.2",
+    "authority_version": "2026-04-13-qty-alt-v1",
+    "prompt_version": "qty-alt-pass-v1",
+    "build_version": "2026-05-18T15:51:35Z"
+  },
+  "schema_version": "1.2",
+  "build_metadata": {
+    "builder": "scripts/recipes/build_recipe_entities.py",
+    "built_at": "2026-05-18T15:51:35Z",
+    "source_structured_authority": "reports/entity_review/structured/paul.json",
+    "authority_model": "gpt-5.4",
+    "authority_reasoning_effort": "high",
+    "dataset_key": "paul_book7_perfumes",
+    "entity_model_version": "1.2",
+    "authority_version": "2026-04-13-qty-alt-v1",
+    "prompt_version": "qty-alt-pass-v1",
+    "build_version": "2026-05-18T15:51:35Z"
+  },
+  "recipe_text_excerpt": "Φύλλου 𐆄 γ, ἀμώμου 𐆄 α, κασσίας 𐆄 ϛ, λαδάνου 𐆄 α, πεπέρεως λευκοῦ κόκκους μ, σμύρνης τρωγλίτιδος 𐅻 α·",
+  "preparation": {
+    "preparation_id": "paul-7-20-38:preparation:pholeaton",
+    "preparation_urn": "urn:aos:recipe-preparation:paul-7-20-38:preparation:pholeaton",
+    "source_span": "Φολεάτον",
+    "surface_form": "Φολεάτον",
+    "normalized_label": "Φολεάτον",
+    "qualifiers": [],
+    "regimen_notes": [],
+    "certainty": "certain",
+    "notes": [],
+    "host_locator": {
+      "book": "7",
+      "chapter": "20",
+      "section": "38",
+      "citation": {
+        "start": "2.391.14",
+        "end": "2.391.19"
+      }
+    }
+  },
+  "ingredients": [
+    {
+      "ingredient_id": "paul-7-20-38:ingredient:phyllon-1",
+      "ingredient_urn": "urn:aos:recipe-ingredient:paul-7-20-38:ingredient:phyllon-1",
+      "source_span": "Φύλλου",
+      "surface_form": "Φύλλου",
+      "base_label": "φύλλον",
+      "normalized_label": "φύλλον",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [
+        "paul-7-20-38:process:koptein-1",
+        "paul-7-20-38:process:sethein-2",
+        "paul-7-20-38:process:leiein-3"
+      ],
+      "quantities": [
+        {
+          "source_span": "𐆄 γ",
+          "raw_number": "γ",
+          "normalized_number": 3,
+          "raw_unit": "𐆄",
+          "normalized_unit": "uncia",
+          "certainty": "uncertain",
+          "notes": [
+            "Unit sign unresolved."
+          ]
+        }
+      ],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "7",
+        "chapter": "20",
+        "section": "38",
+        "citation": {
+          "start": "2.391.14",
+          "end": "2.391.19"
+        }
+      }
+    },
+    {
+      "ingredient_id": "paul-7-20-38:ingredient:amomon-2",
+      "ingredient_urn": "urn:aos:recipe-ingredient:paul-7-20-38:ingredient:amomon-2",
+      "source_span": "ἀμώμου",
+      "surface_form": "ἀμώμου",
+      "base_label": "ἄμωμον",
+      "normalized_label": "ἄμωμον",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [
+        "paul-7-20-38:process:koptein-1",
+        "paul-7-20-38:process:sethein-2",
+        "paul-7-20-38:process:leiein-3"
+      ],
+      "quantities": [
+        {
+          "source_span": "𐆄 α",
+          "raw_number": "α",
+          "normalized_number": 1,
+          "raw_unit": "𐆄",
+          "normalized_unit": "uncia",
+          "certainty": "uncertain",
+          "notes": [
+            "Unit sign unresolved."
+          ]
+        }
+      ],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "7",
+        "chapter": "20",
+        "section": "38",
+        "citation": {
+          "start": "2.391.14",
+          "end": "2.391.19"
+        }
+      }
+    },
+    {
+      "ingredient_id": "paul-7-20-38:ingredient:kassia-3",
+      "ingredient_urn": "urn:aos:recipe-ingredient:paul-7-20-38:ingredient:kassia-3",
+      "source_span": "κασσίας",
+      "surface_form": "κασσίας",
+      "base_label": "κασσία",
+      "normalized_label": "κασσία",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [
+        "paul-7-20-38:process:koptein-1",
+        "paul-7-20-38:process:sethein-2",
+        "paul-7-20-38:process:leiein-3"
+      ],
+      "quantities": [
+        {
+          "source_span": "𐆄 ϛ",
+          "raw_number": "ϛ",
+          "normalized_number": 6,
+          "raw_unit": "𐆄",
+          "normalized_unit": "uncia",
+          "certainty": "uncertain",
+          "notes": [
+            "Unit sign unresolved."
+          ]
+        }
+      ],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "7",
+        "chapter": "20",
+        "section": "38",
+        "citation": {
+          "start": "2.391.14",
+          "end": "2.391.19"
+        }
+      }
+    },
+    {
+      "ingredient_id": "paul-7-20-38:ingredient:ladanon-4",
+      "ingredient_urn": "urn:aos:recipe-ingredient:paul-7-20-38:ingredient:ladanon-4",
+      "source_span": "λαδάνου",
+      "surface_form": "λαδάνου",
+      "base_label": "λάδανον",
+      "normalized_label": "λάδανον",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [
+        "paul-7-20-38:process:koptein-1",
+        "paul-7-20-38:process:sethein-2",
+        "paul-7-20-38:process:leiein-3"
+      ],
+      "quantities": [
+        {
+          "source_span": "𐆄 α",
+          "raw_number": "α",
+          "normalized_number": 1,
+          "raw_unit": "𐆄",
+          "normalized_unit": "uncia",
+          "certainty": "uncertain",
+          "notes": [
+            "Unit sign unresolved."
+          ]
+        }
+      ],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "7",
+        "chapter": "20",
+        "section": "38",
+        "citation": {
+          "start": "2.391.14",
+          "end": "2.391.19"
+        }
+      }
+    },
+    {
+      "ingredient_id": "paul-7-20-38:ingredient:peperi-leykon-5",
+      "ingredient_urn": "urn:aos:recipe-ingredient:paul-7-20-38:ingredient:peperi-leykon-5",
+      "source_span": "πεπέρεως λευκοῦ",
+      "surface_form": "πεπέρεως λευκοῦ",
+      "base_label": "πέπερι",
+      "normalized_label": "πέπερι λευκόν",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [
+        "paul-7-20-38:process:koptein-1",
+        "paul-7-20-38:process:sethein-2",
+        "paul-7-20-38:process:leiein-3"
+      ],
+      "quantities": [
+        {
+          "source_span": "κόκκους μ",
+          "raw_number": "μ",
+          "normalized_number": 40,
+          "raw_unit": "κόκκους",
+          "normalized_unit": null,
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "qualifiers": [
+        {
+          "qualifier_type": "color",
+          "source_span": "λευκοῦ",
+          "normalized_value": "λευκόν",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "notes": [],
+      "host_locator": {
+        "book": "7",
+        "chapter": "20",
+        "section": "38",
+        "citation": {
+          "start": "2.391.14",
+          "end": "2.391.19"
+        }
+      }
+    },
+    {
+      "ingredient_id": "paul-7-20-38:ingredient:smyrna-troglitis-6",
+      "ingredient_urn": "urn:aos:recipe-ingredient:paul-7-20-38:ingredient:smyrna-troglitis-6",
+      "source_span": "σμύρνης τρωγλίτιδος",
+      "surface_form": "σμύρνης τρωγλίτιδος",
+      "base_label": "σμύρνα",
+      "normalized_label": "σμύρνα τρωγλῖτις",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [
+        "paul-7-20-38:process:koptein-1",
+        "paul-7-20-38:process:sethein-2",
+        "paul-7-20-38:process:leiein-3"
+      ],
+      "quantities": [
+        {
+          "source_span": "𐅻 α",
+          "raw_number": "α",
+          "normalized_number": 1,
+          "raw_unit": "𐅻",
+          "normalized_unit": "drachme",
+          "certainty": "uncertain",
+          "notes": [
+            "Unit sign unresolved."
+          ]
+        }
+      ],
+      "qualifiers": [
+        {
+          "qualifier_type": "other",
+          "source_span": "τρωγλίτιδος",
+          "normalized_value": "τρωγλῖτις",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "notes": [],
+      "host_locator": {
+        "book": "7",
+        "chapter": "20",
+        "section": "38",
+        "citation": {
+          "start": "2.391.14",
+          "end": "2.391.19"
+        }
+      }
+    },
+    {
+      "ingredient_id": "paul-7-20-38:ingredient:elaion-nardinon-7",
+      "ingredient_urn": "urn:aos:recipe-ingredient:paul-7-20-38:ingredient:elaion-nardinon-7",
+      "source_span": "ἐλαίου ναρδίνου",
+      "surface_form": "ἐλαίου ναρδίνου",
+      "base_label": "ἔλαιον",
+      "normalized_label": "ἔλαιον ναρδῖνον",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [
+        "paul-7-20-38:process:epiballein-4",
+        "paul-7-20-38:process:epiballein-7"
+      ],
+      "quantities": [
+        {
+          "source_span": "λι. α",
+          "raw_number": "α",
+          "normalized_number": 1,
+          "raw_unit": "λι.",
+          "normalized_unit": "litra",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "qualifiers": [
+        {
+          "qualifier_type": "other",
+          "source_span": "ναρδίνου",
+          "normalized_value": "ναρδῖνον",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "notes": [],
+      "host_locator": {
+        "book": "7",
+        "chapter": "20",
+        "section": "38",
+        "citation": {
+          "start": "2.391.14",
+          "end": "2.391.19"
+        }
+      }
+    },
+    {
+      "ingredient_id": "paul-7-20-38:ingredient:lepe-karyon-8",
+      "ingredient_urn": "urn:aos:recipe-ingredient:paul-7-20-38:ingredient:lepe-karyon-8",
+      "source_span": "καρύων λέπη",
+      "surface_form": "καρύων λέπη",
+      "base_label": "λέπη",
+      "normalized_label": "λέπη καρύων",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [
+        "paul-7-20-38:process:kaiein-5",
+        "paul-7-20-38:process:tribein-6",
+        "paul-7-20-38:process:epiballein-4",
+        "paul-7-20-38:process:epiballein-7"
+      ],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "other",
+          "source_span": "καρύων",
+          "normalized_value": "κάρυον",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "notes": [],
+      "host_locator": {
+        "book": "7",
+        "chapter": "20",
+        "section": "38",
+        "citation": {
+          "start": "2.391.14",
+          "end": "2.391.19"
+        }
+      }
+    },
+    {
+      "ingredient_id": "paul-7-20-38:ingredient:opobalsamon-9",
+      "ingredient_urn": "urn:aos:recipe-ingredient:paul-7-20-38:ingredient:opobalsamon-9",
+      "source_span": "ὀποβαλσάμου",
+      "surface_form": "ὀποβαλσάμου",
+      "base_label": "ὀποβάλσαμον",
+      "normalized_label": "ὀποβάλσαμον",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [
+        "paul-7-20-38:process:prosmisgein-8"
+      ],
+      "quantities": [
+        {
+          "source_span": "κοχλιάρια γ",
+          "raw_number": "γ",
+          "normalized_number": 3,
+          "raw_unit": "κοχλιάρια",
+          "normalized_unit": "cochlarion",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "7",
+        "chapter": "20",
+        "section": "38",
+        "citation": {
+          "start": "2.391.14",
+          "end": "2.391.19"
+        }
+      }
+    },
+    {
+      "ingredient_id": "paul-7-20-38:ingredient:keros-10",
+      "ingredient_urn": "urn:aos:recipe-ingredient:paul-7-20-38:ingredient:keros-10",
+      "source_span": "κηροῦ",
+      "surface_form": "κηροῦ",
+      "base_label": "κηρός",
+      "normalized_label": "κηρός",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [
+        "paul-7-20-38:process:prosmisgein-8"
+      ],
+      "quantities": [
+        {
+          "source_span": "λι. α 𐅵ʹ",
+          "raw_number": "α 𐅵ʹ",
+          "normalized_number": "1 1/2",
+          "raw_unit": "λι.",
+          "normalized_unit": "litra",
+          "certainty": "uncertain",
+          "notes": [
+            "Fraction sign interpreted approximately."
+          ]
+        }
+      ],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "7",
+        "chapter": "20",
+        "section": "38",
+        "citation": {
+          "start": "2.391.14",
+          "end": "2.391.19"
+        }
+      }
+    }
+  ],
+  "processes": [
+    {
+      "process_id": "paul-7-20-38:process:koptein-1",
+      "process_urn": "urn:aos:recipe-process:paul-7-20-38:process:koptein-1",
+      "source_span": "κόψας",
+      "surface_form": "κόψας",
+      "normalized_label": "κόπτειν",
+      "target_type": "ingredient",
+      "target_ids": [
+        "paul-7-20-38:ingredient:phyllon-1",
+        "paul-7-20-38:ingredient:amomon-2",
+        "paul-7-20-38:ingredient:kassia-3",
+        "paul-7-20-38:ingredient:ladanon-4",
+        "paul-7-20-38:ingredient:peperi-leykon-5",
+        "paul-7-20-38:ingredient:smyrna-troglitis-6"
+      ],
+      "quantities": [],
+      "qualifiers": [],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "7",
+        "chapter": "20",
+        "section": "38",
+        "citation": {
+          "start": "2.391.14",
+          "end": "2.391.19"
+        }
+      }
+    },
+    {
+      "process_id": "paul-7-20-38:process:sethein-2",
+      "process_urn": "urn:aos:recipe-process:paul-7-20-38:process:sethein-2",
+      "source_span": "σήσας",
+      "surface_form": "σήσας",
+      "normalized_label": "σήθειν",
+      "target_type": "ingredient",
+      "target_ids": [
+        "paul-7-20-38:ingredient:phyllon-1",
+        "paul-7-20-38:ingredient:amomon-2",
+        "paul-7-20-38:ingredient:kassia-3",
+        "paul-7-20-38:ingredient:ladanon-4",
+        "paul-7-20-38:ingredient:peperi-leykon-5",
+        "paul-7-20-38:ingredient:smyrna-troglitis-6"
+      ],
+      "quantities": [],
+      "qualifiers": [],
+      "certainty": "uncertain",
+      "notes": [
+        "Verb normalization is uncertain."
+      ],
+      "host_locator": {
+        "book": "7",
+        "chapter": "20",
+        "section": "38",
+        "citation": {
+          "start": "2.391.14",
+          "end": "2.391.19"
+        }
+      }
+    },
+    {
+      "process_id": "paul-7-20-38:process:leiein-3",
+      "process_urn": "urn:aos:recipe-process:paul-7-20-38:process:leiein-3",
+      "source_span": "λείου",
+      "surface_form": "λείου",
+      "normalized_label": "λείειν",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "manner",
+          "source_span": "πάλιν",
+          "normalized_value": "πάλιν",
+          "certainty": "certain",
+          "notes": []
+        },
+        {
+          "qualifier_type": "location",
+          "source_span": "ἐν θυίᾳ",
+          "normalized_value": "ἐν θυίᾳ",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "7",
+        "chapter": "20",
+        "section": "38",
+        "citation": {
+          "start": "2.391.14",
+          "end": "2.391.19"
+        }
+      }
+    },
+    {
+      "process_id": "paul-7-20-38:process:epiballein-4",
+      "process_urn": "urn:aos:recipe-process:paul-7-20-38:process:epiballein-4",
+      "source_span": "ἐπιβάλλων",
+      "surface_form": "ἐπιβάλλων",
+      "normalized_label": "ἐπιβάλλειν",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "7",
+        "chapter": "20",
+        "section": "38",
+        "citation": {
+          "start": "2.391.14",
+          "end": "2.391.19"
+        }
+      }
+    },
+    {
+      "process_id": "paul-7-20-38:process:kaiein-5",
+      "process_urn": "urn:aos:recipe-process:paul-7-20-38:process:kaiein-5",
+      "source_span": "καύσας",
+      "surface_form": "καύσας",
+      "normalized_label": "καίειν",
+      "target_type": "ingredient",
+      "target_ids": [
+        "paul-7-20-38:ingredient:lepe-karyon-8"
+      ],
+      "quantities": [],
+      "qualifiers": [],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "7",
+        "chapter": "20",
+        "section": "38",
+        "citation": {
+          "start": "2.391.14",
+          "end": "2.391.19"
+        }
+      }
+    },
+    {
+      "process_id": "paul-7-20-38:process:tribein-6",
+      "process_urn": "urn:aos:recipe-process:paul-7-20-38:process:tribein-6",
+      "source_span": "τρίψας",
+      "surface_form": "τρίψας",
+      "normalized_label": "τρίβειν",
+      "target_type": "ingredient",
+      "target_ids": [
+        "paul-7-20-38:ingredient:lepe-karyon-8"
+      ],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "location",
+          "source_span": "ἐν θυίᾳ",
+          "normalized_value": "ἐν θυίᾳ",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "7",
+        "chapter": "20",
+        "section": "38",
+        "citation": {
+          "start": "2.391.14",
+          "end": "2.391.19"
+        }
+      }
+    },
+    {
+      "process_id": "paul-7-20-38:process:epiballein-7",
+      "process_urn": "urn:aos:recipe-process:paul-7-20-38:process:epiballein-7",
+      "source_span": "ἐπίβαλλε",
+      "surface_form": "ἐπίβαλλε",
+      "normalized_label": "ἐπιβάλλειν",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "color",
+          "source_span": "ὑπὲρ δὲ τοῦ μελάντερον γενέσθαι τὸ φάρμακον",
+          "normalized_value": "μελάντερον",
+          "certainty": "certain",
+          "notes": [
+            "Purpose clause attached to this addition."
+          ]
+        }
+      ],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "7",
+        "chapter": "20",
+        "section": "38",
+        "citation": {
+          "start": "2.391.14",
+          "end": "2.391.19"
+        }
+      }
+    },
+    {
+      "process_id": "paul-7-20-38:process:prosmisgein-8",
+      "process_urn": "urn:aos:recipe-process:paul-7-20-38:process:prosmisgein-8",
+      "source_span": "πρόσμιξον",
+      "surface_form": "πρόσμιξον",
+      "normalized_label": "προσμίσγειν",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "7",
+        "chapter": "20",
+        "section": "38",
+        "citation": {
+          "start": "2.391.14",
+          "end": "2.391.19"
+        }
+      }
+    }
+  ],
+  "materials": [
+    {
+      "material_id": "paul-7-20-38:material:thyia-1",
+      "material_urn": "urn:aos:recipe-material:paul-7-20-38:material:thyia-1",
+      "source_span": "θυίᾳ",
+      "surface_form": "θυίᾳ",
+      "normalized_label": "θυία",
+      "role": "apparatus",
+      "certainty": "certain",
+      "quantities": [],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "7",
+        "chapter": "20",
+        "section": "38",
+        "citation": {
+          "start": "2.391.14",
+          "end": "2.391.19"
+        }
+      }
+    }
+  ],
+  "people": [],
+  "places": [],
+  "uses": [],
+  "preparation_names": [],
+  "other_preparations_mentioned": [],
+  "works_mentioned": [],
+  "entities": [
+    {
+      "entity_urn": "urn:aos:recipe-preparation:paul-7-20-38:preparation:pholeaton",
+      "entity_type": "label",
+      "surface_form": "Φολεάτον",
+      "normalized_label": "Φολεάτον"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:paul-7-20-38:ingredient:phyllon-1",
+      "entity_type": "ingredient",
+      "surface_form": "Φύλλου",
+      "normalized_label": "φύλλον"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:paul-7-20-38:ingredient:amomon-2",
+      "entity_type": "ingredient",
+      "surface_form": "ἀμώμου",
+      "normalized_label": "ἄμωμον"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:paul-7-20-38:ingredient:kassia-3",
+      "entity_type": "ingredient",
+      "surface_form": "κασσίας",
+      "normalized_label": "κασσία"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:paul-7-20-38:ingredient:ladanon-4",
+      "entity_type": "ingredient",
+      "surface_form": "λαδάνου",
+      "normalized_label": "λάδανον"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:paul-7-20-38:ingredient:peperi-leykon-5",
+      "entity_type": "ingredient",
+      "surface_form": "πεπέρεως λευκοῦ",
+      "normalized_label": "πέπερι λευκόν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:paul-7-20-38:ingredient:smyrna-troglitis-6",
+      "entity_type": "ingredient",
+      "surface_form": "σμύρνης τρωγλίτιδος",
+      "normalized_label": "σμύρνα τρωγλῖτις"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:paul-7-20-38:ingredient:elaion-nardinon-7",
+      "entity_type": "ingredient",
+      "surface_form": "ἐλαίου ναρδίνου",
+      "normalized_label": "ἔλαιον ναρδῖνον"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:paul-7-20-38:ingredient:lepe-karyon-8",
+      "entity_type": "ingredient",
+      "surface_form": "καρύων λέπη",
+      "normalized_label": "λέπη καρύων"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:paul-7-20-38:ingredient:opobalsamon-9",
+      "entity_type": "ingredient",
+      "surface_form": "ὀποβαλσάμου",
+      "normalized_label": "ὀποβάλσαμον"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:paul-7-20-38:ingredient:keros-10",
+      "entity_type": "ingredient",
+      "surface_form": "κηροῦ",
+      "normalized_label": "κηρός"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:paul-7-20-38:process:koptein-1",
+      "entity_type": "process",
+      "surface_form": "κόψας",
+      "normalized_label": "κόπτειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:paul-7-20-38:process:sethein-2",
+      "entity_type": "process",
+      "surface_form": "σήσας",
+      "normalized_label": "σήθειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:paul-7-20-38:process:leiein-3",
+      "entity_type": "process",
+      "surface_form": "λείου",
+      "normalized_label": "λείειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:paul-7-20-38:process:epiballein-4",
+      "entity_type": "process",
+      "surface_form": "ἐπιβάλλων",
+      "normalized_label": "ἐπιβάλλειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:paul-7-20-38:process:kaiein-5",
+      "entity_type": "process",
+      "surface_form": "καύσας",
+      "normalized_label": "καίειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:paul-7-20-38:process:tribein-6",
+      "entity_type": "process",
+      "surface_form": "τρίψας",
+      "normalized_label": "τρίβειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:paul-7-20-38:process:epiballein-7",
+      "entity_type": "process",
+      "surface_form": "ἐπίβαλλε",
+      "normalized_label": "ἐπιβάλλειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:paul-7-20-38:process:prosmisgein-8",
+      "entity_type": "process",
+      "surface_form": "πρόσμιξον",
+      "normalized_label": "προσμίσγειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-material:paul-7-20-38:material:thyia-1",
+      "entity_type": "material",
+      "surface_form": "θυίᾳ",
+      "normalized_label": "θυία"
+    }
+  ]
+}

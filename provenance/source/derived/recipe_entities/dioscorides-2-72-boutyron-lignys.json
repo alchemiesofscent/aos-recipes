@@ -1,0 +1,605 @@
+{
+  "dataset_key": "dioscorides_book2_fats",
+  "source_json": "experiments/dioscorides-book2-fats/data/dioscorides_book2_fats.json",
+  "host_raw_file": "tei/raw/tlg0656.tlg001.1st1K-grc1.xml",
+  "work_slug": "diosc.b2.fats",
+  "recipe_id": "dioscorides-2-72-boutyron-lignys",
+  "recipe_urn": "urn:aos:recipe:dioscorides-2-72-boutyron-lignys",
+  "record_urn": "urn:aos:recipe-record:dioscorides-2-72-boutyron-lignys",
+  "author": "Dioscorides",
+  "work": "De materia medica",
+  "book": "2",
+  "chapter": "72",
+  "section": "3",
+  "chapter_name": "βούτυρον",
+  "lemma": "λιγνὺς ἐκ βουτύρου",
+  "text": "συνάγεται δὲ καὶ λιγνὺς ἐκ τοῦ βουτύρου τὸν τρόπον τοῦτον εἰς λύχνον καινὸν ἐγχέας τὸ βούτυρον ἅψον καὶ πωμάσας ἀγγείῳ κεραμεῷ, σωληνοειδεῖ κατὰ τὰ ἄνωθεν, τρήματα δὲ ἐκ τῶν ὑπὸ πόδας ἔχοντι, ὥσπερ οἱ κλίβανοι, ἔα καίεσθαι. ὅταν δὲ ἀναλωθῇ τὸ πρῶτον βούτυρον, ἄλλο ἐπίχει καὶ ποίει τὸ αὐτό, ἕως ἂν ὅσον πλῆθος βούλει αἰθαλώσῃς, εἶτα ἀπόσυρε πτερῳ καὶ χρῶ. δύναμιν δὲ ἔχει εἰς τὰ ὀφθαλμικὰ ξηραίνειν καὶ ὑποστύφειν· ἐφίστησι δὲ τὰ ῥεύματα καὶ τὰ ἕλκη ταχέως ἀναπληροῖ καὶ ἀπουλοῖ.",
+  "original_text": null,
+  "text_source": null,
+  "emendations": [],
+  "emendation_count": 0,
+  "source_kind": "main_text",
+  "entry_kind": "technique",
+  "citation": {
+    "pages": [
+      "147"
+    ],
+    "start": {
+      "page": "147",
+      "line": "10"
+    },
+    "end": {
+      "page": "147",
+      "line": "20"
+    },
+    "citation": {
+      "start": "147.10",
+      "end": "147.20"
+    },
+    "page_spans": [
+      {
+        "page": "147",
+        "start_line": "10",
+        "end_line": "20"
+      }
+    ],
+    "lines": [
+      {
+        "page": "147",
+        "line": "10",
+        "break_no": false,
+        "raw_text": "συνάγεται δὲ καὶ λιγνὺς ἐκ τοῦ βουτύρου τὸν τρόπον 3 τοῦτον εἰς λύχνον καινὸν ἐγχέας τὸ βούτυρον ἅψον καὶ πωμάσας",
+        "text": "συνάγεται δὲ καὶ λιγνὺς ἐκ τοῦ βουτύρου τὸν τρόπον τοῦτον εἰς λύχνον καινὸν ἐγχέας τὸ βούτυρον ἅψον καὶ πωμάσας",
+        "citation": "147.10"
+      },
+      {
+        "page": "147",
+        "line": "15",
+        "break_no": false,
+        "raw_text": "ἀγγείῳ κεραμεῷ, σωληνοειδεῖ κατὰ τὰ ἄνωθεν, τρήματα δὲ ἐκ τῶν ὑπὸ πόδας ἔχοντι, ὥσπερ οἱ κλίβανοι, ἔα καίεσθαι. ὅταν δὲ ἀναλωθῇ τὸ πρῶτον βούτυρον, ἄλλο ἐπίχει καὶ ποίει τὸ αὐτό, ἕως ἂν ὅσον πλῆθος βούλει αἰθαλώσῃς, εἶτα ἀπόσυρε πτερῳ καὶ χρῶ. δύναμιν δὲ ἔχει εἰς τὰ ὀφθαλμικὰ ξηραίνειν",
+        "text": "ἀγγείῳ κεραμεῷ, σωληνοειδεῖ κατὰ τὰ ἄνωθεν, τρήματα δὲ ἐκ τῶν ὑπὸ πόδας ἔχοντι, ὥσπερ οἱ κλίβανοι, ἔα καίεσθαι. ὅταν δὲ ἀναλωθῇ τὸ πρῶτον βούτυρον, ἄλλο ἐπίχει καὶ ποίει τὸ αὐτό, ἕως ἂν ὅσον πλῆθος βούλει αἰθαλώσῃς, εἶτα ἀπόσυρε πτερῳ καὶ χρῶ. δύναμιν δὲ ἔχει εἰς τὰ ὀφθαλμικὰ ξηραίνειν",
+        "citation": "147.15"
+      },
+      {
+        "page": "147",
+        "line": "20",
+        "break_no": false,
+        "raw_text": "καὶ ὑποστύφειν· ἐφίστησι δὲ τὰ ῥεύματα καὶ τὰ ἕλκη ταχέως ἀναπληροῖ καὶ ἀπουλοῖ .",
+        "text": "καὶ ὑποστύφειν· ἐφίστησι δὲ τὰ ῥεύματα καὶ τὰ ἕλκη ταχέως ἀναπληροῖ καὶ ἀπουλοῖ.",
+        "citation": "147.20"
+      }
+    ],
+    "edition_key": "wellmann"
+  },
+  "notes": [
+    "Book 2 fats slice split into logical preparation and technique units from chapters 72, 74, and 76.",
+    "Bare Arabic numerals in the raw witness are treated as structural or note noise and removed from display text, except parenthetical cross-references such as (I 68).",
+    "Section markers are stored separately and displayed near sentence boundaries as heuristic navigation aids."
+  ],
+  "alignment_status": "pending",
+  "alignment_confidence": "pending",
+  "alignment_evidence": null,
+  "review_status": "reviewed_structured_authority",
+  "review_provenance": {
+    "authority_source": "reports/entity_review/structured/dioscorides.json",
+    "authority_recipe_id": "dioscorides-2-72-boutyron-lignys",
+    "authority_lemma": "λιγνὺς ἐκ βουτύρου",
+    "model": "gpt-5.4",
+    "reasoning_effort": "high",
+    "dataset_key": "dioscorides_book2_fats",
+    "entity_model_version": "1.2",
+    "authority_version": "2026-04-13-qty-alt-v1",
+    "prompt_version": "qty-alt-pass-v1",
+    "build_version": "2026-05-18T15:51:35Z"
+  },
+  "schema_version": "1.2",
+  "build_metadata": {
+    "builder": "scripts/recipes/build_recipe_entities.py",
+    "built_at": "2026-05-18T15:51:35Z",
+    "source_structured_authority": "reports/entity_review/structured/dioscorides.json",
+    "authority_model": "gpt-5.4",
+    "authority_reasoning_effort": "high",
+    "dataset_key": "dioscorides_book2_fats",
+    "entity_model_version": "1.2",
+    "authority_version": "2026-04-13-qty-alt-v1",
+    "prompt_version": "qty-alt-pass-v1",
+    "build_version": "2026-05-18T15:51:35Z"
+  },
+  "recipe_text_excerpt": "συνάγεται δὲ καὶ λιγνὺς ἐκ τοῦ βουτύρου τὸν τρόπον τοῦτον εἰς λύχνον καινὸν ἐγχέας τὸ βούτυρον ἅψον καὶ πωμάσας ἀγγείῳ",
+  "preparation": {
+    "preparation_id": "dioscorides-2-72-boutyron-lignys:preparation:lignys-ek-boytyroy",
+    "preparation_urn": "urn:aos:recipe-preparation:dioscorides-2-72-boutyron-lignys:preparation:lignys-ek-boytyroy",
+    "source_span": "λιγνὺς ἐκ βουτύρου",
+    "surface_form": "λιγνὺς ἐκ βουτύρου",
+    "normalized_label": "λιγνὺς ἐκ βουτύρου",
+    "qualifiers": [],
+    "regimen_notes": [],
+    "certainty": "certain",
+    "notes": [],
+    "host_locator": {
+      "book": "2",
+      "chapter": "72",
+      "section": "3",
+      "citation": {
+        "start": "147.10",
+        "end": "147.20"
+      }
+    }
+  },
+  "ingredients": [
+    {
+      "ingredient_id": "dioscorides-2-72-boutyron-lignys:ingredient:boytyron-1",
+      "ingredient_urn": "urn:aos:recipe-ingredient:dioscorides-2-72-boutyron-lignys:ingredient:boytyron-1",
+      "source_span": "τὸ βούτυρον",
+      "surface_form": "τὸ βούτυρον",
+      "base_label": "βούτυρον",
+      "normalized_label": "βούτυρον",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [
+        "dioscorides-2-72-boutyron-lignys:process:egcheein-1",
+        "dioscorides-2-72-boutyron-lignys:process:aptein-2",
+        "dioscorides-2-72-boutyron-lignys:process:kaiesthai-4",
+        "dioscorides-2-72-boutyron-lignys:process:epicheein-5"
+      ],
+      "quantities": [],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "2",
+        "chapter": "72",
+        "section": "3",
+        "citation": {
+          "start": "147.10",
+          "end": "147.20"
+        }
+      }
+    }
+  ],
+  "processes": [
+    {
+      "process_id": "dioscorides-2-72-boutyron-lignys:process:egcheein-1",
+      "process_urn": "urn:aos:recipe-process:dioscorides-2-72-boutyron-lignys:process:egcheein-1",
+      "source_span": "ἐγχέας",
+      "surface_form": "ἐγχέας",
+      "normalized_label": "ἐγχέειν",
+      "target_type": "ingredient",
+      "target_ids": [
+        "dioscorides-2-72-boutyron-lignys:ingredient:boytyron-1"
+      ],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "location",
+          "source_span": "εἰς λύχνον καινὸν",
+          "normalized_value": "λύχνος",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "2",
+        "chapter": "72",
+        "section": "3",
+        "citation": {
+          "start": "147.10",
+          "end": "147.20"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-2-72-boutyron-lignys:process:aptein-2",
+      "process_urn": "urn:aos:recipe-process:dioscorides-2-72-boutyron-lignys:process:aptein-2",
+      "source_span": "ἅψον",
+      "surface_form": "ἅψον",
+      "normalized_label": "ἅπτειν",
+      "target_type": "ingredient",
+      "target_ids": [
+        "dioscorides-2-72-boutyron-lignys:ingredient:boytyron-1"
+      ],
+      "quantities": [],
+      "qualifiers": [],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "2",
+        "chapter": "72",
+        "section": "3",
+        "citation": {
+          "start": "147.10",
+          "end": "147.20"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-2-72-boutyron-lignys:process:pomazein-3",
+      "process_urn": "urn:aos:recipe-process:dioscorides-2-72-boutyron-lignys:process:pomazein-3",
+      "source_span": "πωμάσας",
+      "surface_form": "πωμάσας",
+      "normalized_label": "πωμάζειν",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "2",
+        "chapter": "72",
+        "section": "3",
+        "citation": {
+          "start": "147.10",
+          "end": "147.20"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-2-72-boutyron-lignys:process:kaiesthai-4",
+      "process_urn": "urn:aos:recipe-process:dioscorides-2-72-boutyron-lignys:process:kaiesthai-4",
+      "source_span": "καίεσθαι",
+      "surface_form": "καίεσθαι",
+      "normalized_label": "καίεσθαι",
+      "target_type": "ingredient",
+      "target_ids": [
+        "dioscorides-2-72-boutyron-lignys:ingredient:boytyron-1"
+      ],
+      "quantities": [],
+      "qualifiers": [],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "2",
+        "chapter": "72",
+        "section": "3",
+        "citation": {
+          "start": "147.10",
+          "end": "147.20"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-2-72-boutyron-lignys:process:epicheein-5",
+      "process_urn": "urn:aos:recipe-process:dioscorides-2-72-boutyron-lignys:process:epicheein-5",
+      "source_span": "ἐπίχει",
+      "surface_form": "ἐπίχει",
+      "normalized_label": "ἐπιχέειν",
+      "target_type": "ingredient",
+      "target_ids": [
+        "dioscorides-2-72-boutyron-lignys:ingredient:boytyron-1"
+      ],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "other",
+          "source_span": "ὅταν δὲ ἀναλωθῇ τὸ πρῶτον βούτυρον",
+          "normalized_value": null,
+          "certainty": "certain",
+          "notes": [
+            "Condition for replenishing the butter."
+          ]
+        }
+      ],
+      "certainty": "certain",
+      "notes": [
+        "The object is elliptical in the source and refers to more butter."
+      ],
+      "host_locator": {
+        "book": "2",
+        "chapter": "72",
+        "section": "3",
+        "citation": {
+          "start": "147.10",
+          "end": "147.20"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-2-72-boutyron-lignys:process:aithaloyn-6",
+      "process_urn": "urn:aos:recipe-process:dioscorides-2-72-boutyron-lignys:process:aithaloyn-6",
+      "source_span": "αἰθαλώσῃς",
+      "surface_form": "αἰθαλώσῃς",
+      "normalized_label": "αἰθαλοῦν",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "other",
+          "source_span": "ἕως ἂν ὅσον πλῆθος βούλει",
+          "normalized_value": null,
+          "certainty": "certain",
+          "notes": [
+            "Marks repetition until the desired amount is obtained."
+          ]
+        }
+      ],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "2",
+        "chapter": "72",
+        "section": "3",
+        "citation": {
+          "start": "147.10",
+          "end": "147.20"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-2-72-boutyron-lignys:process:aposyrein-7",
+      "process_urn": "urn:aos:recipe-process:dioscorides-2-72-boutyron-lignys:process:aposyrein-7",
+      "source_span": "ἀπόσυρε",
+      "surface_form": "ἀπόσυρε",
+      "normalized_label": "ἀποσύρειν",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "manner",
+          "source_span": "πτερῳ",
+          "normalized_value": "πτερόν",
+          "certainty": "certain",
+          "notes": [
+            "Tool used for removing the soot."
+          ]
+        }
+      ],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "2",
+        "chapter": "72",
+        "section": "3",
+        "citation": {
+          "start": "147.10",
+          "end": "147.20"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-2-72-boutyron-lignys:process:chresthai-8",
+      "process_urn": "urn:aos:recipe-process:dioscorides-2-72-boutyron-lignys:process:chresthai-8",
+      "source_span": "χρῶ",
+      "surface_form": "χρῶ",
+      "normalized_label": "χρῆσθαι",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "2",
+        "chapter": "72",
+        "section": "3",
+        "citation": {
+          "start": "147.10",
+          "end": "147.20"
+        }
+      }
+    }
+  ],
+  "materials": [
+    {
+      "material_id": "dioscorides-2-72-boutyron-lignys:material:lychnos-1",
+      "material_urn": "urn:aos:recipe-material:dioscorides-2-72-boutyron-lignys:material:lychnos-1",
+      "source_span": "λύχνον καινὸν",
+      "surface_form": "λύχνον καινὸν",
+      "normalized_label": "λύχνος",
+      "role": "apparatus",
+      "certainty": "certain",
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "other",
+          "source_span": "καινὸν",
+          "normalized_value": "καινός",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "notes": [],
+      "host_locator": {
+        "book": "2",
+        "chapter": "72",
+        "section": "3",
+        "citation": {
+          "start": "147.10",
+          "end": "147.20"
+        }
+      }
+    },
+    {
+      "material_id": "dioscorides-2-72-boutyron-lignys:material:aggeion-kerameon-2",
+      "material_urn": "urn:aos:recipe-material:dioscorides-2-72-boutyron-lignys:material:aggeion-kerameon-2",
+      "source_span": "ἀγγείῳ κεραμεῷ",
+      "surface_form": "ἀγγείῳ κεραμεῷ",
+      "normalized_label": "ἀγγεῖον κεράμεον",
+      "role": "apparatus",
+      "certainty": "certain",
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "other",
+          "source_span": "σωληνοειδεῖ κατὰ τὰ ἄνωθεν",
+          "normalized_value": null,
+          "certainty": "certain",
+          "notes": []
+        },
+        {
+          "qualifier_type": "other",
+          "source_span": "τρήματα δὲ ἐκ τῶν ὑπὸ πόδας ἔχοντι",
+          "normalized_value": null,
+          "certainty": "certain",
+          "notes": []
+        },
+        {
+          "qualifier_type": "other",
+          "source_span": "ὥσπερ οἱ κλίβανοι",
+          "normalized_value": null,
+          "certainty": "certain",
+          "notes": [
+            "Comparative description of the vessel's lower holes."
+          ]
+        }
+      ],
+      "notes": [],
+      "host_locator": {
+        "book": "2",
+        "chapter": "72",
+        "section": "3",
+        "citation": {
+          "start": "147.10",
+          "end": "147.20"
+        }
+      }
+    },
+    {
+      "material_id": "dioscorides-2-72-boutyron-lignys:material:pteron-3",
+      "material_urn": "urn:aos:recipe-material:dioscorides-2-72-boutyron-lignys:material:pteron-3",
+      "source_span": "πτερῳ",
+      "surface_form": "πτερῳ",
+      "normalized_label": "πτερόν",
+      "role": "tool",
+      "certainty": "certain",
+      "quantities": [],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "2",
+        "chapter": "72",
+        "section": "3",
+        "citation": {
+          "start": "147.10",
+          "end": "147.20"
+        }
+      }
+    }
+  ],
+  "people": [],
+  "places": [],
+  "uses": [
+    {
+      "use_id": "dioscorides-2-72-boutyron-lignys:use:eis-ta-ophthalmika-xerainein-kai-ypostyphein-1",
+      "use_urn": "urn:aos:recipe-use:dioscorides-2-72-boutyron-lignys:use:eis-ta-ophthalmika-xerainein-kai-ypostyphein-1",
+      "category": "medical",
+      "source_span": "εἰς τὰ ὀφθαλμικὰ ξηραίνειν καὶ ὑποστύφειν",
+      "snippet": "εἰς τὰ ὀφθαλμικὰ ξηραίνειν καὶ ὑποστύφειν",
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "2",
+        "chapter": "72",
+        "section": "3",
+        "citation": {
+          "start": "147.10",
+          "end": "147.20"
+        }
+      }
+    },
+    {
+      "use_id": "dioscorides-2-72-boutyron-lignys:use:ephistesi-de-ta-reymata-kai-ta-elke-tacheos-anapleroi-kai-apoyloi-2",
+      "use_urn": "urn:aos:recipe-use:dioscorides-2-72-boutyron-lignys:use:ephistesi-de-ta-reymata-kai-ta-elke-tacheos-anapleroi-kai-apoyloi-2",
+      "category": "medical",
+      "source_span": "ἐφίστησι δὲ τὰ ῥεύματα καὶ τὰ ἕλκη ταχέως ἀναπληροῖ καὶ ἀπουλοῖ",
+      "snippet": "ἐφίστησι δὲ τὰ ῥεύματα καὶ τὰ ἕλκη ταχέως ἀναπληροῖ καὶ ἀπουλοῖ",
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "2",
+        "chapter": "72",
+        "section": "3",
+        "citation": {
+          "start": "147.10",
+          "end": "147.20"
+        }
+      }
+    }
+  ],
+  "preparation_names": [],
+  "other_preparations_mentioned": [],
+  "works_mentioned": [],
+  "entities": [
+    {
+      "entity_urn": "urn:aos:recipe-preparation:dioscorides-2-72-boutyron-lignys:preparation:lignys-ek-boytyroy",
+      "entity_type": "label",
+      "surface_form": "λιγνὺς ἐκ βουτύρου",
+      "normalized_label": "λιγνὺς ἐκ βουτύρου"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:dioscorides-2-72-boutyron-lignys:ingredient:boytyron-1",
+      "entity_type": "ingredient",
+      "surface_form": "τὸ βούτυρον",
+      "normalized_label": "βούτυρον"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-2-72-boutyron-lignys:process:egcheein-1",
+      "entity_type": "process",
+      "surface_form": "ἐγχέας",
+      "normalized_label": "ἐγχέειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-2-72-boutyron-lignys:process:aptein-2",
+      "entity_type": "process",
+      "surface_form": "ἅψον",
+      "normalized_label": "ἅπτειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-2-72-boutyron-lignys:process:pomazein-3",
+      "entity_type": "process",
+      "surface_form": "πωμάσας",
+      "normalized_label": "πωμάζειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-2-72-boutyron-lignys:process:kaiesthai-4",
+      "entity_type": "process",
+      "surface_form": "καίεσθαι",
+      "normalized_label": "καίεσθαι"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-2-72-boutyron-lignys:process:epicheein-5",
+      "entity_type": "process",
+      "surface_form": "ἐπίχει",
+      "normalized_label": "ἐπιχέειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-2-72-boutyron-lignys:process:aithaloyn-6",
+      "entity_type": "process",
+      "surface_form": "αἰθαλώσῃς",
+      "normalized_label": "αἰθαλοῦν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-2-72-boutyron-lignys:process:aposyrein-7",
+      "entity_type": "process",
+      "surface_form": "ἀπόσυρε",
+      "normalized_label": "ἀποσύρειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-2-72-boutyron-lignys:process:chresthai-8",
+      "entity_type": "process",
+      "surface_form": "χρῶ",
+      "normalized_label": "χρῆσθαι"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-material:dioscorides-2-72-boutyron-lignys:material:lychnos-1",
+      "entity_type": "material",
+      "surface_form": "λύχνον καινὸν",
+      "normalized_label": "λύχνος"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-material:dioscorides-2-72-boutyron-lignys:material:aggeion-kerameon-2",
+      "entity_type": "material",
+      "surface_form": "ἀγγείῳ κεραμεῷ",
+      "normalized_label": "ἀγγεῖον κεράμεον"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-material:dioscorides-2-72-boutyron-lignys:material:pteron-3",
+      "entity_type": "material",
+      "surface_form": "πτερῳ",
+      "normalized_label": "πτερόν"
+    }
+  ]
+}

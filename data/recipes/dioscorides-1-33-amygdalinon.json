@@ -1,0 +1,1361 @@
+{
+  "dataset_key": "dioscorides_book1_perfumes_resins",
+  "source_json": "experiments/dioscorides-book1-perfumes-resins/data/dioscorides_book1_perfumes_resins.json",
+  "host_raw_file": "tei/raw/tlg0656.tlg001.1st1K-grc1.xml",
+  "work_slug": "diosc.b1.recipes",
+  "recipe_id": "dioscorides-1-33-amygdalinon",
+  "recipe_urn": "urn:aos:recipe:dioscorides-1-33-amygdalinon",
+  "record_urn": "urn:aos:recipe-record:dioscorides-1-33-amygdalinon",
+  "author": "Dioscorides",
+  "work": "De materia medica",
+  "book": "1",
+  "chapter": "33",
+  "section": null,
+  "chapter_name": "ἀμυγδάλινον ἔλαιον",
+  "lemma": "ἀμυγδάλινον",
+  "text": "33 ἀμυγδάλινον ἔλαιον, ὅ τινες μετώπιον καλοῦσι, σκευάζεται οὕτως· ἀμυγδάλων πικρῶν χοίνικας τέσσαρας καθάρας καὶ ξηράνας κόψον ὑπέρῳ ξυλίνῳ ἐν ὅλμῳ κούφως, μέχρι μᾶζα γένηται, ἐπιχέας τε ζεστοῦ ὕδατος κοτύλας δύο ἔασον συμπιεῖν ἡμιώριον, ἀφ᾿ ἧς πάλιν βιαιότερον τρῖβε. εἶτα ἀποθλίβων πρὸς πλάκα ἐξίπου καὶ τὸ ἀπὸ τῶν δακτύλων εἰς μύακα ἀναλάμβανε, εἶτα πάλιν εἰς τὸ ἀποτεθλιμμένον κοτύλην μίαν ὕδατος ἐπιχέας καὶ συμπιεῖν ἐάσας τὸ αὐτὸ ποίει· ἀποδίδωσι δὲ κοτύλην μίαν τὸ τετραχοίνικον. ποιεῖ δὲ πρὸς τὰς ἐν μήτρᾳ ἀλγηδόνας καὶ πνίγας ὑστερικὰς 2 διαστροφάς τε καὶ φλεγμονὰς τῶν αὐτῶν τόπων, ἔτι δὲ κεφαλαλγίας καὶ ὤτων πόνους καὶ ἤχους καὶ συριγμούς· ὠφελεῖ δὲ καὶ νεφριτικοὺς καὶ δυσουριῶντας, λιθιῶντας, ἀσθματικοὺς καὶ σπληνικοὺς. αἴρει δὲ καὶ σπίλους ἐκ προσώπου καὶ ἐφήλεις καὶ ῥυτίδας μέλιτι μειγνύμενον καὶ κρίνου ῥίζῃ καὶ κυπρίνῃ ἢ ῥοδίνῃ κηρωτῇ, καὶ ἀμβλυωπίας δέ ἐστιν ἀνασκευαστικόν. σὺν οἴνῳ δὲ ἀχῶρας καὶ πίτυρα σμήχει.",
+  "original_text": null,
+  "text_source": null,
+  "emendations": [],
+  "emendation_count": 0,
+  "source_kind": "main_text",
+  "entry_kind": "recipe",
+  "citation": {
+    "pages": [
+      "37",
+      "38"
+    ],
+    "start": {
+      "page": "37",
+      "line": "15"
+    },
+    "end": {
+      "page": "38",
+      "line": "5"
+    },
+    "citation": {
+      "start": "37.15",
+      "end": "38.5"
+    },
+    "page_spans": [
+      {
+        "page": "37",
+        "start_line": "15",
+        "end_line": "25"
+      },
+      {
+        "page": "38",
+        "start_line": "1",
+        "end_line": "5"
+      }
+    ],
+    "lines": [
+      {
+        "page": "37",
+        "line": "15",
+        "break_no": false,
+        "text": "33 ἀμυγδάλινον ἔλαιον, ὅ τινες μετώπιον καλοῦσι, σκευάζεται οὕτως· ἀμυγδάλων πικρῶν χοίνικας τέσσαρας καθάρας καὶ ξηράνας κόψον ὑπέρῳ ξυλίνῳ ἐν ὅλμῳ κούφως, μέχρι μᾶζα γένηται, ἐπιχέας τε ζεστοῦ ὕδατος κοτύλας δύο ἔασον συμπιεῖν",
+        "citation": "37.15"
+      },
+      {
+        "page": "37",
+        "line": "20",
+        "break_no": false,
+        "text": "ἡμιώριον, ἀφ᾿ ἧς πάλιν βιαιότερον τρῖβε. εἶτα ἀποθλίβων πρὸς πλάκα ἐξίπου καὶ τὸ ἀπὸ τῶν δακτύλων εἰς μύακα ἀναλάμβανε, εἶτα πάλιν εἰς τὸ ἀποτεθλιμμένον κοτύλην μίαν ὕδατος ἐπιχέας καὶ συμπιεῖν ἐάσας τὸ αὐτὸ ποίει· ἀποδίδωσι δὲ κοτύλην μίαν τὸ τετραχοίνικον.",
+        "citation": "37.20"
+      },
+      {
+        "page": "37",
+        "line": "25",
+        "break_no": false,
+        "text": "ποιεῖ δὲ πρὸς τὰς ἐν μήτρᾳ ἀλγηδόνας καὶ πνίγας ὑστερικὰς 2",
+        "citation": "37.25"
+      },
+      {
+        "page": "38",
+        "line": "1",
+        "break_no": false,
+        "text": "διαστροφάς τε καὶ φλεγμονὰς τῶν αὐτῶν τόπων, ἔτι δὲ κεφαλαλγίας καὶ ὤτων πόνους καὶ ἤχους καὶ συριγμούς· ὠφελεῖ δὲ καὶ νεφριτικοὺς καὶ δυσουριῶντας, λιθιῶντας, ἀσθματικοὺς καὶ σπληνικοὺς. αἴρει δὲ καὶ σπίλους ἐκ προσώπου καὶ ἐφήλεις καὶ ῥυτίδας μέλιτι μειγνύμενον καὶ κρίνου ῥίζῃ καὶ κυπρίνῃ",
+        "citation": "38.1"
+      },
+      {
+        "page": "38",
+        "line": "5",
+        "break_no": false,
+        "text": "ἢ ῥοδίνῃ κηρωτῇ, καὶ ἀμβλυωπίας δέ ἐστιν ἀνασκευαστικόν. σὺν οἴνῳ δὲ ἀχῶρας καὶ πίτυρα σμήχει.",
+        "citation": "38.5"
+      }
+    ],
+    "edition_key": "wellmann"
+  },
+  "notes": [
+    "Raw lines 1590-1633 are book 1 chapter 25 in this witness, although the prompt referred to chapter 35.",
+    "The perfume proemium is taken from the later transition at chapter 42 section 2 (raw lines 2306-2342), not from the chapter 25 κῦφι entry.",
+    "The ἰασμέλαιον entry is preserved only in the apparatus as an addition from another recension."
+  ],
+  "alignment_status": "pending",
+  "alignment_confidence": "pending",
+  "alignment_evidence": null,
+  "review_status": "reviewed_structured_authority",
+  "review_provenance": {
+    "authority_source": "reports/entity_review/structured/dioscorides.json",
+    "authority_recipe_id": "dioscorides-1-33-amygdalinon",
+    "authority_lemma": "ἀμυγδάλινον ἔλαιον",
+    "model": "gpt-5.4",
+    "reasoning_effort": "high",
+    "dataset_key": "dioscorides_book1_perfumes_resins",
+    "entity_model_version": "1.2",
+    "authority_version": "2026-04-13-qty-alt-v1",
+    "prompt_version": "qty-alt-pass-v1",
+    "build_version": "2026-05-18T15:51:35Z"
+  },
+  "schema_version": "1.2",
+  "build_metadata": {
+    "builder": "scripts/recipes/build_recipe_entities.py",
+    "built_at": "2026-05-18T15:51:35Z",
+    "source_structured_authority": "reports/entity_review/structured/dioscorides.json",
+    "authority_model": "gpt-5.4",
+    "authority_reasoning_effort": "high",
+    "dataset_key": "dioscorides_book1_perfumes_resins",
+    "entity_model_version": "1.2",
+    "authority_version": "2026-04-13-qty-alt-v1",
+    "prompt_version": "qty-alt-pass-v1",
+    "build_version": "2026-05-18T15:51:35Z"
+  },
+  "recipe_text_excerpt": "ἀμυγδάλινον ἔλαιον, ὅ τινες μετώπιον καλοῦσι, σκευάζεται οὕτως· ἀμυγδάλων πικρῶν χοίνικας τέσσαρας καθάρας καὶ ξηράνας κόψον ὑπέρῳ ξυλίνῳ ἐν ὅλμῳ",
+  "preparation": {
+    "preparation_id": "dioscorides-1-33-amygdalinon:preparation:amygdalinon-elaion",
+    "preparation_urn": "urn:aos:recipe-preparation:dioscorides-1-33-amygdalinon:preparation:amygdalinon-elaion",
+    "source_span": "ἀμυγδάλινον ἔλαιον",
+    "surface_form": "ἀμυγδάλινον ἔλαιον",
+    "normalized_label": "ἀμυγδάλινον ἔλαιον",
+    "qualifiers": [],
+    "regimen_notes": [
+      {
+        "source_span": "ἀποδίδωσι δὲ κοτύλην μίαν τὸ τετραχοίνικον",
+        "normalized_note": "ἀπόδοσις μιᾶς κοτύλης ἐκ τεσσάρων χοινίκων",
+        "certainty": "certain",
+        "notes": []
+      }
+    ],
+    "certainty": "certain",
+    "notes": [],
+    "host_locator": {
+      "book": "1",
+      "chapter": "33",
+      "section": null,
+      "citation": {
+        "start": "37.15",
+        "end": "38.5"
+      }
+    }
+  },
+  "ingredients": [
+    {
+      "ingredient_id": "dioscorides-1-33-amygdalinon:ingredient:amygdala-pikra-1",
+      "ingredient_urn": "urn:aos:recipe-ingredient:dioscorides-1-33-amygdalinon:ingredient:amygdala-pikra-1",
+      "source_span": "ἀμυγδάλων πικρῶν",
+      "surface_form": "ἀμυγδάλων πικρῶν",
+      "base_label": "ἀμύγδαλα",
+      "normalized_label": "ἀμύγδαλα πικρά",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [
+        "dioscorides-1-33-amygdalinon:process:kathairein-1",
+        "dioscorides-1-33-amygdalinon:process:xerainein-2",
+        "dioscorides-1-33-amygdalinon:process:koptein-3",
+        "dioscorides-1-33-amygdalinon:process:tribein-6",
+        "dioscorides-1-33-amygdalinon:process:apothlibein-7"
+      ],
+      "quantities": [
+        {
+          "source_span": "χοίνικας τέσσαρας",
+          "raw_number": "τέσσαρας",
+          "normalized_number": 4,
+          "raw_unit": "χοίνικας",
+          "normalized_unit": "choinix",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "33",
+        "section": null,
+        "citation": {
+          "start": "37.15",
+          "end": "38.5"
+        }
+      }
+    },
+    {
+      "ingredient_id": "dioscorides-1-33-amygdalinon:ingredient:zeston-ydor-2",
+      "ingredient_urn": "urn:aos:recipe-ingredient:dioscorides-1-33-amygdalinon:ingredient:zeston-ydor-2",
+      "source_span": "ζεστοῦ ὕδατος",
+      "surface_form": "ζεστοῦ ὕδατος",
+      "base_label": "ὕδωρ",
+      "normalized_label": "ζεστὸν ὕδωρ",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [
+        "dioscorides-1-33-amygdalinon:process:epicheein-4",
+        "dioscorides-1-33-amygdalinon:process:epicheein-9"
+      ],
+      "quantities": [
+        {
+          "source_span": "κοτύλας δύο",
+          "raw_number": "δύο",
+          "normalized_number": 2,
+          "raw_unit": "κοτύλας",
+          "normalized_unit": "cotyle",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "qualifiers": [
+        {
+          "qualifier_type": "temperature",
+          "source_span": "ζεστοῦ",
+          "normalized_value": "ζεστόν",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "33",
+        "section": null,
+        "citation": {
+          "start": "37.15",
+          "end": "38.5"
+        }
+      }
+    },
+    {
+      "ingredient_id": "dioscorides-1-33-amygdalinon:ingredient:ydor-3",
+      "ingredient_urn": "urn:aos:recipe-ingredient:dioscorides-1-33-amygdalinon:ingredient:ydor-3",
+      "source_span": "ὕδατος",
+      "surface_form": "ὕδατος",
+      "base_label": "ὕδωρ",
+      "normalized_label": "ὕδωρ",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [
+        "dioscorides-1-33-amygdalinon:process:epicheein-4",
+        "dioscorides-1-33-amygdalinon:process:epicheein-9"
+      ],
+      "quantities": [
+        {
+          "source_span": "κοτύλην μίαν",
+          "raw_number": "μίαν",
+          "normalized_number": 1,
+          "raw_unit": "κοτύλην",
+          "normalized_unit": "cotyle",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "33",
+        "section": null,
+        "citation": {
+          "start": "37.15",
+          "end": "38.5"
+        }
+      }
+    },
+    {
+      "ingredient_id": "dioscorides-1-33-amygdalinon:ingredient:meli-4",
+      "ingredient_urn": "urn:aos:recipe-ingredient:dioscorides-1-33-amygdalinon:ingredient:meli-4",
+      "source_span": "μέλιτι",
+      "surface_form": "μέλιτι",
+      "base_label": "μέλι",
+      "normalized_label": "μέλι",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [
+        "dioscorides-1-33-amygdalinon:process:meignynai-11"
+      ],
+      "quantities": [],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "33",
+        "section": null,
+        "citation": {
+          "start": "37.15",
+          "end": "38.5"
+        }
+      }
+    },
+    {
+      "ingredient_id": "dioscorides-1-33-amygdalinon:ingredient:krinoy-riza-5",
+      "ingredient_urn": "urn:aos:recipe-ingredient:dioscorides-1-33-amygdalinon:ingredient:krinoy-riza-5",
+      "source_span": "κρίνου ῥίζῃ",
+      "surface_form": "κρίνου ῥίζῃ",
+      "base_label": "ῥίζα",
+      "normalized_label": "κρίνου ῥίζα",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [
+        "dioscorides-1-33-amygdalinon:process:meignynai-11"
+      ],
+      "quantities": [],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "33",
+        "section": null,
+        "citation": {
+          "start": "37.15",
+          "end": "38.5"
+        }
+      }
+    },
+    {
+      "ingredient_id": "dioscorides-1-33-amygdalinon:ingredient:kyprine-kerote-6",
+      "ingredient_urn": "urn:aos:recipe-ingredient:dioscorides-1-33-amygdalinon:ingredient:kyprine-kerote-6",
+      "source_span": "κυπρίνῃ",
+      "surface_form": "κυπρίνῃ",
+      "base_label": "κυπρίνη",
+      "normalized_label": "κυπρίνη κηρωτή",
+      "alternative_set_id": "alt1",
+      "certainty": "uncertain",
+      "linked_process_ids": [
+        "dioscorides-1-33-amygdalinon:process:meignynai-11"
+      ],
+      "quantities": [],
+      "qualifiers": [],
+      "notes": [
+        "Head noun κηρωτή restored from the following alternative."
+      ],
+      "host_locator": {
+        "book": "1",
+        "chapter": "33",
+        "section": null,
+        "citation": {
+          "start": "37.15",
+          "end": "38.5"
+        }
+      }
+    },
+    {
+      "ingredient_id": "dioscorides-1-33-amygdalinon:ingredient:rodine-kerote-7",
+      "ingredient_urn": "urn:aos:recipe-ingredient:dioscorides-1-33-amygdalinon:ingredient:rodine-kerote-7",
+      "source_span": "ῥοδίνῃ κηρωτῇ",
+      "surface_form": "ῥοδίνῃ κηρωτῇ",
+      "base_label": "κηρωτή",
+      "normalized_label": "ῥοδίνη κηρωτή",
+      "alternative_set_id": "alt1",
+      "certainty": "certain",
+      "linked_process_ids": [
+        "dioscorides-1-33-amygdalinon:process:meignynai-11"
+      ],
+      "quantities": [],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "33",
+        "section": null,
+        "citation": {
+          "start": "37.15",
+          "end": "38.5"
+        }
+      }
+    },
+    {
+      "ingredient_id": "dioscorides-1-33-amygdalinon:ingredient:oinos-8",
+      "ingredient_urn": "urn:aos:recipe-ingredient:dioscorides-1-33-amygdalinon:ingredient:oinos-8",
+      "source_span": "οἴνῳ",
+      "surface_form": "οἴνῳ",
+      "base_label": "οἶνος",
+      "normalized_label": "οἶνος",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [
+        "dioscorides-1-33-amygdalinon:process:smechein-12"
+      ],
+      "quantities": [],
+      "qualifiers": [],
+      "notes": [
+        "Use-context admixture."
+      ],
+      "host_locator": {
+        "book": "1",
+        "chapter": "33",
+        "section": null,
+        "citation": {
+          "start": "37.15",
+          "end": "38.5"
+        }
+      }
+    }
+  ],
+  "processes": [
+    {
+      "process_id": "dioscorides-1-33-amygdalinon:process:kathairein-1",
+      "process_urn": "urn:aos:recipe-process:dioscorides-1-33-amygdalinon:process:kathairein-1",
+      "source_span": "καθάρας",
+      "surface_form": "καθάρας",
+      "normalized_label": "καθαίρειν",
+      "target_type": "ingredient",
+      "target_ids": [
+        "dioscorides-1-33-amygdalinon:ingredient:amygdala-pikra-1"
+      ],
+      "quantities": [],
+      "qualifiers": [],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "33",
+        "section": null,
+        "citation": {
+          "start": "37.15",
+          "end": "38.5"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-1-33-amygdalinon:process:xerainein-2",
+      "process_urn": "urn:aos:recipe-process:dioscorides-1-33-amygdalinon:process:xerainein-2",
+      "source_span": "ξηράνας",
+      "surface_form": "ξηράνας",
+      "normalized_label": "ξηραίνειν",
+      "target_type": "ingredient",
+      "target_ids": [
+        "dioscorides-1-33-amygdalinon:ingredient:amygdala-pikra-1"
+      ],
+      "quantities": [],
+      "qualifiers": [],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "33",
+        "section": null,
+        "citation": {
+          "start": "37.15",
+          "end": "38.5"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-1-33-amygdalinon:process:koptein-3",
+      "process_urn": "urn:aos:recipe-process:dioscorides-1-33-amygdalinon:process:koptein-3",
+      "source_span": "κόψον",
+      "surface_form": "κόψον",
+      "normalized_label": "κόπτειν",
+      "target_type": "ingredient",
+      "target_ids": [
+        "dioscorides-1-33-amygdalinon:ingredient:amygdala-pikra-1"
+      ],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "manner",
+          "source_span": "κούφως",
+          "normalized_value": "κουφῶς",
+          "certainty": "certain",
+          "notes": []
+        },
+        {
+          "qualifier_type": "location",
+          "source_span": "ἐν ὅλμῳ",
+          "normalized_value": "ἐν ὅλμῳ",
+          "certainty": "certain",
+          "notes": []
+        },
+        {
+          "qualifier_type": "other",
+          "source_span": "μέχρι μᾶζα γένηται",
+          "normalized_value": "μέχρι μᾶζα γένηται",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "33",
+        "section": null,
+        "citation": {
+          "start": "37.15",
+          "end": "38.5"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-1-33-amygdalinon:process:epicheein-4",
+      "process_urn": "urn:aos:recipe-process:dioscorides-1-33-amygdalinon:process:epicheein-4",
+      "source_span": "ἐπιχέας",
+      "surface_form": "ἐπιχέας",
+      "normalized_label": "ἐπιχέειν",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "33",
+        "section": null,
+        "citation": {
+          "start": "37.15",
+          "end": "38.5"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-1-33-amygdalinon:process:sympiezein-5",
+      "process_urn": "urn:aos:recipe-process:dioscorides-1-33-amygdalinon:process:sympiezein-5",
+      "source_span": "συμπιεῖν",
+      "surface_form": "συμπιεῖν",
+      "normalized_label": "συμπιέζειν",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "duration",
+          "source_span": "ἡμιώριον",
+          "normalized_value": "ἡμιώριον",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "certainty": "certain",
+      "notes": [
+        "Governed by ἔασον."
+      ],
+      "host_locator": {
+        "book": "1",
+        "chapter": "33",
+        "section": null,
+        "citation": {
+          "start": "37.15",
+          "end": "38.5"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-1-33-amygdalinon:process:tribein-6",
+      "process_urn": "urn:aos:recipe-process:dioscorides-1-33-amygdalinon:process:tribein-6",
+      "source_span": "τρῖβε",
+      "surface_form": "τρῖβε",
+      "normalized_label": "τρίβειν",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "manner",
+          "source_span": "πάλιν βιαιότερον",
+          "normalized_value": "πάλιν βιαιότερον",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "33",
+        "section": null,
+        "citation": {
+          "start": "37.15",
+          "end": "38.5"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-1-33-amygdalinon:process:apothlibein-7",
+      "process_urn": "urn:aos:recipe-process:dioscorides-1-33-amygdalinon:process:apothlibein-7",
+      "source_span": "ἀποθλίβων",
+      "surface_form": "ἀποθλίβων",
+      "normalized_label": "ἀποθλίβειν",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "location",
+          "source_span": "πρὸς πλάκα ἐξίπου",
+          "normalized_value": "πρὸς πλάκα ἐξίπου",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "33",
+        "section": null,
+        "citation": {
+          "start": "37.15",
+          "end": "38.5"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-1-33-amygdalinon:process:analambanein-8",
+      "process_urn": "urn:aos:recipe-process:dioscorides-1-33-amygdalinon:process:analambanein-8",
+      "source_span": "ἀναλάμβανε",
+      "surface_form": "ἀναλάμβανε",
+      "normalized_label": "ἀναλαμβάνειν",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "location",
+          "source_span": "ἀπὸ τῶν δακτύλων",
+          "normalized_value": "ἀπὸ τῶν δακτύλων",
+          "certainty": "certain",
+          "notes": []
+        },
+        {
+          "qualifier_type": "location",
+          "source_span": "εἰς μύακα",
+          "normalized_value": "εἰς μύακα",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "33",
+        "section": null,
+        "citation": {
+          "start": "37.15",
+          "end": "38.5"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-1-33-amygdalinon:process:epicheein-9",
+      "process_urn": "urn:aos:recipe-process:dioscorides-1-33-amygdalinon:process:epicheein-9",
+      "source_span": "ἐπιχέας",
+      "surface_form": "ἐπιχέας",
+      "normalized_label": "ἐπιχέειν",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "location",
+          "source_span": "εἰς τὸ ἀποτεθλιμμένον",
+          "normalized_value": "εἰς τὸ ἀποτεθλιμμένον",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "33",
+        "section": null,
+        "citation": {
+          "start": "37.15",
+          "end": "38.5"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-1-33-amygdalinon:process:sympiezein-10",
+      "process_urn": "urn:aos:recipe-process:dioscorides-1-33-amygdalinon:process:sympiezein-10",
+      "source_span": "συμπιεῖν",
+      "surface_form": "συμπιεῖν",
+      "normalized_label": "συμπιέζειν",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [],
+      "certainty": "certain",
+      "notes": [
+        "Governed by ἐάσας; τὸ αὐτὸ ποίει indicates repetition of the same operation."
+      ],
+      "host_locator": {
+        "book": "1",
+        "chapter": "33",
+        "section": null,
+        "citation": {
+          "start": "37.15",
+          "end": "38.5"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-1-33-amygdalinon:process:meignynai-11",
+      "process_urn": "urn:aos:recipe-process:dioscorides-1-33-amygdalinon:process:meignynai-11",
+      "source_span": "μειγνύμενον",
+      "surface_form": "μειγνύμενον",
+      "normalized_label": "μειγνύναι",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [],
+      "certainty": "certain",
+      "notes": [
+        "Use-context mixing for facial blemishes and wrinkles."
+      ],
+      "host_locator": {
+        "book": "1",
+        "chapter": "33",
+        "section": null,
+        "citation": {
+          "start": "37.15",
+          "end": "38.5"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-1-33-amygdalinon:process:smechein-12",
+      "process_urn": "urn:aos:recipe-process:dioscorides-1-33-amygdalinon:process:smechein-12",
+      "source_span": "σμήχει",
+      "surface_form": "σμήχει",
+      "normalized_label": "σμήχειν",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [],
+      "certainty": "certain",
+      "notes": [
+        "Use-context application with wine."
+      ],
+      "host_locator": {
+        "book": "1",
+        "chapter": "33",
+        "section": null,
+        "citation": {
+          "start": "37.15",
+          "end": "38.5"
+        }
+      }
+    }
+  ],
+  "materials": [
+    {
+      "material_id": "dioscorides-1-33-amygdalinon:material:yperos-1",
+      "material_urn": "urn:aos:recipe-material:dioscorides-1-33-amygdalinon:material:yperos-1",
+      "source_span": "ὑπέρῳ ξυλίνῳ",
+      "surface_form": "ὑπέρῳ ξυλίνῳ",
+      "normalized_label": "ὕπερος",
+      "role": "tool",
+      "certainty": "certain",
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "other",
+          "source_span": "ξυλίνῳ",
+          "normalized_value": "ξύλινος",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "33",
+        "section": null,
+        "citation": {
+          "start": "37.15",
+          "end": "38.5"
+        }
+      }
+    },
+    {
+      "material_id": "dioscorides-1-33-amygdalinon:material:olmos-2",
+      "material_urn": "urn:aos:recipe-material:dioscorides-1-33-amygdalinon:material:olmos-2",
+      "source_span": "ὅλμῳ",
+      "surface_form": "ὅλμῳ",
+      "normalized_label": "ὅλμος",
+      "role": "apparatus",
+      "certainty": "certain",
+      "quantities": [],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "33",
+        "section": null,
+        "citation": {
+          "start": "37.15",
+          "end": "38.5"
+        }
+      }
+    },
+    {
+      "material_id": "dioscorides-1-33-amygdalinon:material:plax-3",
+      "material_urn": "urn:aos:recipe-material:dioscorides-1-33-amygdalinon:material:plax-3",
+      "source_span": "πλάκα ἐξίπου",
+      "surface_form": "πλάκα ἐξίπου",
+      "normalized_label": "πλάξ",
+      "role": "apparatus",
+      "certainty": "certain",
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "other",
+          "source_span": "ἐξίπου",
+          "normalized_value": "ἐξίπου",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "33",
+        "section": null,
+        "citation": {
+          "start": "37.15",
+          "end": "38.5"
+        }
+      }
+    },
+    {
+      "material_id": "dioscorides-1-33-amygdalinon:material:myax-4",
+      "material_urn": "urn:aos:recipe-material:dioscorides-1-33-amygdalinon:material:myax-4",
+      "source_span": "μύακα",
+      "surface_form": "μύακα",
+      "normalized_label": "μύαξ",
+      "role": "apparatus",
+      "certainty": "uncertain",
+      "quantities": [],
+      "qualifiers": [],
+      "notes": [
+        "Interpretation as a receptacle is uncertain."
+      ],
+      "host_locator": {
+        "book": "1",
+        "chapter": "33",
+        "section": null,
+        "citation": {
+          "start": "37.15",
+          "end": "38.5"
+        }
+      }
+    }
+  ],
+  "people": [],
+  "places": [],
+  "uses": [
+    {
+      "use_id": "dioscorides-1-33-amygdalinon:use:pros-tas-en-metra-algedonas-kai-pnigas-ysterikas-1",
+      "use_urn": "urn:aos:recipe-use:dioscorides-1-33-amygdalinon:use:pros-tas-en-metra-algedonas-kai-pnigas-ysterikas-1",
+      "category": "medical",
+      "source_span": "πρὸς τὰς ἐν μήτρᾳ ἀλγηδόνας καὶ πνίγας ὑστερικὰς",
+      "snippet": "πρὸς τὰς ἐν μήτρᾳ ἀλγηδόνας καὶ πνίγας ὑστερικὰς",
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "33",
+        "section": null,
+        "citation": {
+          "start": "37.15",
+          "end": "38.5"
+        }
+      }
+    },
+    {
+      "use_id": "dioscorides-1-33-amygdalinon:use:diastrophas-te-kai-phlegmonas-ton-ayton-topon-2",
+      "use_urn": "urn:aos:recipe-use:dioscorides-1-33-amygdalinon:use:diastrophas-te-kai-phlegmonas-ton-ayton-topon-2",
+      "category": "medical",
+      "source_span": "διαστροφάς τε καὶ φλεγμονὰς τῶν αὐτῶν τόπων",
+      "snippet": "διαστροφάς τε καὶ φλεγμονὰς τῶν αὐτῶν τόπων",
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "33",
+        "section": null,
+        "citation": {
+          "start": "37.15",
+          "end": "38.5"
+        }
+      }
+    },
+    {
+      "use_id": "dioscorides-1-33-amygdalinon:use:eti-de-kephalalgias-kai-oton-ponoys-kai-echoys-kai-syrigmoys-3",
+      "use_urn": "urn:aos:recipe-use:dioscorides-1-33-amygdalinon:use:eti-de-kephalalgias-kai-oton-ponoys-kai-echoys-kai-syrigmoys-3",
+      "category": "medical",
+      "source_span": "ἔτι δὲ κεφαλαλγίας καὶ ὤτων πόνους καὶ ἤχους καὶ συριγμούς",
+      "snippet": "ἔτι δὲ κεφαλαλγίας καὶ ὤτων πόνους καὶ ἤχους καὶ συριγμούς",
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "33",
+        "section": null,
+        "citation": {
+          "start": "37.15",
+          "end": "38.5"
+        }
+      }
+    },
+    {
+      "use_id": "dioscorides-1-33-amygdalinon:use:ophelei-de-kai-nephritikoys-kai-dysoyriontas-lithiontas-asthmatikoys-kai-splenikoys-4",
+      "use_urn": "urn:aos:recipe-use:dioscorides-1-33-amygdalinon:use:ophelei-de-kai-nephritikoys-kai-dysoyriontas-lithiontas-asthmatikoys-kai-splenikoys-4",
+      "category": "medical",
+      "source_span": "ὠφελεῖ δὲ καὶ νεφριτικοὺς καὶ δυσουριῶντας, λιθιῶντας, ἀσθματικοὺς καὶ σπληνικοὺς",
+      "snippet": "ὠφελεῖ δὲ καὶ νεφριτικοὺς καὶ δυσουριῶντας, λιθιῶντας, ἀσθματικοὺς καὶ σπληνικοὺς",
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "33",
+        "section": null,
+        "citation": {
+          "start": "37.15",
+          "end": "38.5"
+        }
+      }
+    },
+    {
+      "use_id": "dioscorides-1-33-amygdalinon:use:airei-de-kai-spiloys-ek-prosopoy-kai-epheleis-kai-rytidas-5",
+      "use_urn": "urn:aos:recipe-use:dioscorides-1-33-amygdalinon:use:airei-de-kai-spiloys-ek-prosopoy-kai-epheleis-kai-rytidas-5",
+      "category": "cosmetic",
+      "source_span": "αἴρει δὲ καὶ σπίλους ἐκ προσώπου καὶ ἐφήλεις καὶ ῥυτίδας",
+      "snippet": "αἴρει δὲ καὶ σπίλους ἐκ προσώπου καὶ ἐφήλεις καὶ ῥυτίδας",
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "33",
+        "section": null,
+        "citation": {
+          "start": "37.15",
+          "end": "38.5"
+        }
+      }
+    },
+    {
+      "use_id": "dioscorides-1-33-amygdalinon:use:kai-amblyopias-de-estin-anaskeyastikon-6",
+      "use_urn": "urn:aos:recipe-use:dioscorides-1-33-amygdalinon:use:kai-amblyopias-de-estin-anaskeyastikon-6",
+      "category": "medical",
+      "source_span": "καὶ ἀμβλυωπίας δέ ἐστιν ἀνασκευαστικόν",
+      "snippet": "καὶ ἀμβλυωπίας δέ ἐστιν ἀνασκευαστικόν",
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "33",
+        "section": null,
+        "citation": {
+          "start": "37.15",
+          "end": "38.5"
+        }
+      }
+    },
+    {
+      "use_id": "dioscorides-1-33-amygdalinon:use:syn-oino-de-achoras-kai-pityra-smechei-7",
+      "use_urn": "urn:aos:recipe-use:dioscorides-1-33-amygdalinon:use:syn-oino-de-achoras-kai-pityra-smechei-7",
+      "category": "medical",
+      "source_span": "σὺν οἴνῳ δὲ ἀχῶρας καὶ πίτυρα σμήχει",
+      "snippet": "σὺν οἴνῳ δὲ ἀχῶρας καὶ πίτυρα σμήχει",
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "33",
+        "section": null,
+        "citation": {
+          "start": "37.15",
+          "end": "38.5"
+        }
+      }
+    }
+  ],
+  "preparation_names": [
+    {
+      "preparation_name_id": "dioscorides-1-33-amygdalinon:preparation_name:amygdalinon-elaion-1",
+      "preparation_name_urn": "urn:aos:recipe-preparation_name:dioscorides-1-33-amygdalinon:preparation_name:amygdalinon-elaion-1",
+      "source_span": "ἀμυγδάλινον ἔλαιον",
+      "surface_form": "ἀμυγδάλινον ἔλαιον",
+      "normalized_label": "ἀμυγδάλινον ἔλαιον",
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "33",
+        "section": null,
+        "citation": {
+          "start": "37.15",
+          "end": "38.5"
+        }
+      }
+    },
+    {
+      "preparation_name_id": "dioscorides-1-33-amygdalinon:preparation_name:metopion-2",
+      "preparation_name_urn": "urn:aos:recipe-preparation_name:dioscorides-1-33-amygdalinon:preparation_name:metopion-2",
+      "source_span": "μετώπιον",
+      "surface_form": "μετώπιον",
+      "normalized_label": "μετώπιον",
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "33",
+        "section": null,
+        "citation": {
+          "start": "37.15",
+          "end": "38.5"
+        }
+      }
+    }
+  ],
+  "other_preparations_mentioned": [],
+  "works_mentioned": [],
+  "entities": [
+    {
+      "entity_urn": "urn:aos:recipe-preparation:dioscorides-1-33-amygdalinon:preparation:amygdalinon-elaion",
+      "entity_type": "label",
+      "surface_form": "ἀμυγδάλινον ἔλαιον",
+      "normalized_label": "ἀμυγδάλινον ἔλαιον"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:dioscorides-1-33-amygdalinon:ingredient:amygdala-pikra-1",
+      "entity_type": "ingredient",
+      "surface_form": "ἀμυγδάλων πικρῶν",
+      "normalized_label": "ἀμύγδαλα πικρά"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:dioscorides-1-33-amygdalinon:ingredient:zeston-ydor-2",
+      "entity_type": "ingredient",
+      "surface_form": "ζεστοῦ ὕδατος",
+      "normalized_label": "ζεστὸν ὕδωρ"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:dioscorides-1-33-amygdalinon:ingredient:ydor-3",
+      "entity_type": "ingredient",
+      "surface_form": "ὕδατος",
+      "normalized_label": "ὕδωρ"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:dioscorides-1-33-amygdalinon:ingredient:meli-4",
+      "entity_type": "ingredient",
+      "surface_form": "μέλιτι",
+      "normalized_label": "μέλι"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:dioscorides-1-33-amygdalinon:ingredient:krinoy-riza-5",
+      "entity_type": "ingredient",
+      "surface_form": "κρίνου ῥίζῃ",
+      "normalized_label": "κρίνου ῥίζα"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:dioscorides-1-33-amygdalinon:ingredient:kyprine-kerote-6",
+      "entity_type": "ingredient",
+      "surface_form": "κυπρίνῃ",
+      "normalized_label": "κυπρίνη κηρωτή"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:dioscorides-1-33-amygdalinon:ingredient:rodine-kerote-7",
+      "entity_type": "ingredient",
+      "surface_form": "ῥοδίνῃ κηρωτῇ",
+      "normalized_label": "ῥοδίνη κηρωτή"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:dioscorides-1-33-amygdalinon:ingredient:oinos-8",
+      "entity_type": "ingredient",
+      "surface_form": "οἴνῳ",
+      "normalized_label": "οἶνος"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-1-33-amygdalinon:process:kathairein-1",
+      "entity_type": "process",
+      "surface_form": "καθάρας",
+      "normalized_label": "καθαίρειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-1-33-amygdalinon:process:xerainein-2",
+      "entity_type": "process",
+      "surface_form": "ξηράνας",
+      "normalized_label": "ξηραίνειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-1-33-amygdalinon:process:koptein-3",
+      "entity_type": "process",
+      "surface_form": "κόψον",
+      "normalized_label": "κόπτειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-1-33-amygdalinon:process:epicheein-4",
+      "entity_type": "process",
+      "surface_form": "ἐπιχέας",
+      "normalized_label": "ἐπιχέειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-1-33-amygdalinon:process:sympiezein-5",
+      "entity_type": "process",
+      "surface_form": "συμπιεῖν",
+      "normalized_label": "συμπιέζειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-1-33-amygdalinon:process:tribein-6",
+      "entity_type": "process",
+      "surface_form": "τρῖβε",
+      "normalized_label": "τρίβειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-1-33-amygdalinon:process:apothlibein-7",
+      "entity_type": "process",
+      "surface_form": "ἀποθλίβων",
+      "normalized_label": "ἀποθλίβειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-1-33-amygdalinon:process:analambanein-8",
+      "entity_type": "process",
+      "surface_form": "ἀναλάμβανε",
+      "normalized_label": "ἀναλαμβάνειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-1-33-amygdalinon:process:epicheein-9",
+      "entity_type": "process",
+      "surface_form": "ἐπιχέας",
+      "normalized_label": "ἐπιχέειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-1-33-amygdalinon:process:sympiezein-10",
+      "entity_type": "process",
+      "surface_form": "συμπιεῖν",
+      "normalized_label": "συμπιέζειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-1-33-amygdalinon:process:meignynai-11",
+      "entity_type": "process",
+      "surface_form": "μειγνύμενον",
+      "normalized_label": "μειγνύναι"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-1-33-amygdalinon:process:smechein-12",
+      "entity_type": "process",
+      "surface_form": "σμήχει",
+      "normalized_label": "σμήχειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-material:dioscorides-1-33-amygdalinon:material:yperos-1",
+      "entity_type": "material",
+      "surface_form": "ὑπέρῳ ξυλίνῳ",
+      "normalized_label": "ὕπερος"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-material:dioscorides-1-33-amygdalinon:material:olmos-2",
+      "entity_type": "material",
+      "surface_form": "ὅλμῳ",
+      "normalized_label": "ὅλμος"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-material:dioscorides-1-33-amygdalinon:material:plax-3",
+      "entity_type": "material",
+      "surface_form": "πλάκα ἐξίπου",
+      "normalized_label": "πλάξ"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-material:dioscorides-1-33-amygdalinon:material:myax-4",
+      "entity_type": "material",
+      "surface_form": "μύακα",
+      "normalized_label": "μύαξ"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-preparation_name:dioscorides-1-33-amygdalinon:preparation_name:amygdalinon-elaion-1",
+      "entity_type": "preparation_name",
+      "surface_form": "ἀμυγδάλινον ἔλαιον",
+      "normalized_label": "ἀμυγδάλινον ἔλαιον"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-preparation_name:dioscorides-1-33-amygdalinon:preparation_name:metopion-2",
+      "entity_type": "preparation_name",
+      "surface_form": "μετώπιον",
+      "normalized_label": "μετώπιον"
+    }
+  ],
+  "canonical_file": "data/recipes/dioscorides-1-33-amygdalinon.json",
+  "source_entry": {
+    "source_id": "dioscorides-1-33-amygdalinon",
+    "derived_recipe_id": "dioscorides-1-33-amygdalinon",
+    "entry_kind": "recipe",
+    "source_kind": "main_text",
+    "source_lines": {
+      "start": 1855,
+      "end": 3167
+    },
+    "section_markers": []
+  },
+  "entity_groups": {
+    "labels": [
+      {
+        "entity_urn": "urn:aos:recipe-preparation:dioscorides-1-33-amygdalinon:preparation:amygdalinon-elaion",
+        "surface_form": "ἀμυγδάλινον ἔλαιον",
+        "normalized_label": "ἀμυγδάλινον ἔλαιον"
+      }
+    ],
+    "ingredients": [
+      {
+        "entity_urn": "urn:aos:recipe-ingredient:dioscorides-1-33-amygdalinon:ingredient:amygdala-pikra-1",
+        "surface_form": "ἀμυγδάλων πικρῶν",
+        "normalized_label": "ἀμύγδαλα πικρά",
+        "quantity_display": "χοίνικας τέσσαρας"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-ingredient:dioscorides-1-33-amygdalinon:ingredient:zeston-ydor-2",
+        "surface_form": "ζεστοῦ ὕδατος",
+        "normalized_label": "ζεστὸν ὕδωρ",
+        "quantity_display": "κοτύλας δύο"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-ingredient:dioscorides-1-33-amygdalinon:ingredient:ydor-3",
+        "surface_form": "ὕδατος",
+        "normalized_label": "ὕδωρ",
+        "quantity_display": "κοτύλην μίαν"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-ingredient:dioscorides-1-33-amygdalinon:ingredient:meli-4",
+        "surface_form": "μέλιτι",
+        "normalized_label": "μέλι",
+        "quantity_display": ""
+      },
+      {
+        "entity_urn": "urn:aos:recipe-ingredient:dioscorides-1-33-amygdalinon:ingredient:krinoy-riza-5",
+        "surface_form": "κρίνου ῥίζῃ",
+        "normalized_label": "κρίνου ῥίζα",
+        "quantity_display": ""
+      },
+      {
+        "entity_urn": "urn:aos:recipe-ingredient:dioscorides-1-33-amygdalinon:ingredient:kyprine-kerote-6",
+        "surface_form": "κυπρίνῃ",
+        "normalized_label": "κυπρίνη κηρωτή",
+        "quantity_display": ""
+      },
+      {
+        "entity_urn": "urn:aos:recipe-ingredient:dioscorides-1-33-amygdalinon:ingredient:rodine-kerote-7",
+        "surface_form": "ῥοδίνῃ κηρωτῇ",
+        "normalized_label": "ῥοδίνη κηρωτή",
+        "quantity_display": ""
+      },
+      {
+        "entity_urn": "urn:aos:recipe-ingredient:dioscorides-1-33-amygdalinon:ingredient:oinos-8",
+        "surface_form": "οἴνῳ",
+        "normalized_label": "οἶνος",
+        "quantity_display": ""
+      }
+    ],
+    "processes": [
+      {
+        "entity_urn": "urn:aos:recipe-process:dioscorides-1-33-amygdalinon:process:kathairein-1",
+        "surface_form": "καθάρας",
+        "normalized_label": "καθαίρειν"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-process:dioscorides-1-33-amygdalinon:process:xerainein-2",
+        "surface_form": "ξηράνας",
+        "normalized_label": "ξηραίνειν"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-process:dioscorides-1-33-amygdalinon:process:koptein-3",
+        "surface_form": "κόψον",
+        "normalized_label": "κόπτειν"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-process:dioscorides-1-33-amygdalinon:process:epicheein-4",
+        "surface_form": "ἐπιχέας",
+        "normalized_label": "ἐπιχέειν"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-process:dioscorides-1-33-amygdalinon:process:sympiezein-5",
+        "surface_form": "συμπιεῖν",
+        "normalized_label": "συμπιέζειν"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-process:dioscorides-1-33-amygdalinon:process:tribein-6",
+        "surface_form": "τρῖβε",
+        "normalized_label": "τρίβειν"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-process:dioscorides-1-33-amygdalinon:process:apothlibein-7",
+        "surface_form": "ἀποθλίβων",
+        "normalized_label": "ἀποθλίβειν"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-process:dioscorides-1-33-amygdalinon:process:analambanein-8",
+        "surface_form": "ἀναλάμβανε",
+        "normalized_label": "ἀναλαμβάνειν"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-process:dioscorides-1-33-amygdalinon:process:epicheein-9",
+        "surface_form": "ἐπιχέας",
+        "normalized_label": "ἐπιχέειν"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-process:dioscorides-1-33-amygdalinon:process:sympiezein-10",
+        "surface_form": "συμπιεῖν",
+        "normalized_label": "συμπιέζειν"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-process:dioscorides-1-33-amygdalinon:process:meignynai-11",
+        "surface_form": "μειγνύμενον",
+        "normalized_label": "μειγνύναι"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-process:dioscorides-1-33-amygdalinon:process:smechein-12",
+        "surface_form": "σμήχει",
+        "normalized_label": "σμήχειν"
+      }
+    ],
+    "tools": [
+      {
+        "entity_urn": "urn:aos:recipe-material:dioscorides-1-33-amygdalinon:material:yperos-1",
+        "surface_form": "ὑπέρῳ ξυλίνῳ",
+        "normalized_label": "ὕπερος"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-material:dioscorides-1-33-amygdalinon:material:olmos-2",
+        "surface_form": "ὅλμῳ",
+        "normalized_label": "ὅλμος"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-material:dioscorides-1-33-amygdalinon:material:plax-3",
+        "surface_form": "πλάκα ἐξίπου",
+        "normalized_label": "πλάξ"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-material:dioscorides-1-33-amygdalinon:material:myax-4",
+        "surface_form": "μύακα",
+        "normalized_label": "μύαξ"
+      }
+    ],
+    "other_preparations_mentioned": [],
+    "people": [],
+    "places": [],
+    "works_mentioned": [],
+    "preparation_names": [
+      {
+        "entity_urn": "urn:aos:recipe-preparation_name:dioscorides-1-33-amygdalinon:preparation_name:amygdalinon-elaion-1",
+        "surface_form": "ἀμυγδάλινον ἔλαιον",
+        "normalized_label": "ἀμυγδάλινον ἔλαιον"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-preparation_name:dioscorides-1-33-amygdalinon:preparation_name:metopion-2",
+        "surface_form": "μετώπιον",
+        "normalized_label": "μετώπιον"
+      }
+    ]
+  }
+}

@@ -1,0 +1,311 @@
+{
+  "dataset_key": "aetius_book16_myrepsika",
+  "source_json": "experiments/aetius-book16-ch126-153-myrepsika/data/aetius_book16_ch126_153_myrepsika.json",
+  "host_raw_file": "tei/raw/tlg0718016.xml",
+  "work_slug": "aetius.b16.myrepsika",
+  "recipe_id": "aetius-16-138-1",
+  "recipe_urn": "urn:aos:recipe:aetius-16-138-1",
+  "record_urn": "urn:aos:recipe-record:aetius-16-138-1",
+  "author": "Aëtius of Amida",
+  "work": "Libri medicinales",
+  "book": "16",
+  "chapter": "138",
+  "section": "1",
+  "chapter_name": "μαστιχάτου κυμινάτου σκευασία · κιτράτου σκευασία · ἀπιάτου σκευασία",
+  "lemma": "μαστιχάτου κυμινάτου σκευασία",
+  "text": "Κυμίνου γράμματα ιβ. οἴνου ξέστ. ε. μέλιτος ξέστ. α. μαστίχης γοαζʹ. ἤτοι οὐγ. α καὶ ἡμίσ.",
+  "original_text": null,
+  "text_source": null,
+  "emendations": [],
+  "emendation_count": 0,
+  "source_kind": null,
+  "entry_kind": "recipe",
+  "citation": {
+    "pages": [
+      "167"
+    ],
+    "start": {
+      "page": "167",
+      "line": "7",
+      "xml_id": "zerv-167-7"
+    },
+    "end": {
+      "page": "167",
+      "line": "9",
+      "xml_id": "zerv-167-9"
+    },
+    "citation": {
+      "start": "167.7",
+      "end": "167.9"
+    },
+    "page_spans": [
+      {
+        "page": "167",
+        "start_line": "7",
+        "end_line": "9"
+      }
+    ],
+    "lines": [
+      {
+        "page": "167",
+        "line": "7",
+        "xml_id": "zerv-167-7",
+        "citation": "167.7",
+        "text": "ΜΑΣΤΙΧΑΤΟΥ ΚΥΜΙΝΑΤΟΥ ΣΚΕΥΑΣΙΑ."
+      },
+      {
+        "page": "167",
+        "line": "8",
+        "xml_id": "zerv-167-8",
+        "citation": "167.8",
+        "text": "Κυμίνου γράμματα ιβ. οἴνου ξέστ. ε. μέλιτος ξέστ. α. μα-"
+      },
+      {
+        "page": "167",
+        "line": "9",
+        "xml_id": "zerv-167-9",
+        "citation": "167.9",
+        "text": "στίχης γοαζʹ. ἤτοι οὐγ. α καὶ ἡμίσ."
+      }
+    ],
+    "edition_key": "zervos"
+  },
+  "notes": [],
+  "alignment_status": "pending",
+  "alignment_confidence": "pending",
+  "alignment_evidence": null,
+  "review_status": "reviewed_structured_authority",
+  "review_provenance": {
+    "authority_source": "reports/entity_review/structured/aetius_book16.json",
+    "authority_recipe_id": "aetius-16-138-1",
+    "authority_lemma": "μαστιχάτου κυμινάτου σκευασία",
+    "model": "gpt-5.4",
+    "reasoning_effort": "high",
+    "dataset_key": "aetius_book16_myrepsika",
+    "entity_model_version": "1.2",
+    "authority_version": "2026-04-13-qty-alt-v1",
+    "prompt_version": "qty-alt-pass-v1",
+    "build_version": "2026-05-18T15:51:35Z"
+  },
+  "schema_version": "1.2",
+  "build_metadata": {
+    "builder": "scripts/recipes/build_recipe_entities.py",
+    "built_at": "2026-05-18T15:51:35Z",
+    "source_structured_authority": "reports/entity_review/structured/aetius_book16.json",
+    "authority_model": "gpt-5.4",
+    "authority_reasoning_effort": "high",
+    "dataset_key": "aetius_book16_myrepsika",
+    "entity_model_version": "1.2",
+    "authority_version": "2026-04-13-qty-alt-v1",
+    "prompt_version": "qty-alt-pass-v1",
+    "build_version": "2026-05-18T15:51:35Z"
+  },
+  "recipe_text_excerpt": "Κυμίνου γράμματα ιβ. οἴνου ξέστ. ε. μέλιτος ξέστ. α. μαστίχης γοαζʹ. ἤτοι οὐγ. α καὶ ἡμίσ.",
+  "preparation": {
+    "preparation_id": "aetius-16-138-1:preparation:mastichatoy-kyminatoy-skeyasia",
+    "preparation_urn": "urn:aos:recipe-preparation:aetius-16-138-1:preparation:mastichatoy-kyminatoy-skeyasia",
+    "source_span": "μαστιχάτου κυμινάτου σκευασία",
+    "surface_form": "μαστιχάτου κυμινάτου σκευασία",
+    "normalized_label": "μαστιχάτου κυμινάτου σκευασία",
+    "qualifiers": [],
+    "regimen_notes": [],
+    "certainty": "certain",
+    "notes": [
+      "The running text lists ingredients and quantities but does not restate the preparation name, so the lemma is used for the preparation label."
+    ],
+    "host_locator": {
+      "book": "16",
+      "chapter": "138",
+      "section": "1",
+      "citation": {
+        "start": "167.7",
+        "end": "167.9"
+      }
+    }
+  },
+  "ingredients": [
+    {
+      "ingredient_id": "aetius-16-138-1:ingredient:kyminon-1",
+      "ingredient_urn": "urn:aos:recipe-ingredient:aetius-16-138-1:ingredient:kyminon-1",
+      "source_span": "Κυμίνου",
+      "surface_form": "Κυμίνου",
+      "base_label": "κύμινον",
+      "normalized_label": "κύμινον",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [],
+      "quantities": [
+        {
+          "source_span": "γράμματα ιβ.",
+          "raw_number": "ιβ",
+          "normalized_number": 12,
+          "raw_unit": "γράμματα",
+          "normalized_unit": "gramma",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "16",
+        "chapter": "138",
+        "section": "1",
+        "citation": {
+          "start": "167.7",
+          "end": "167.9"
+        }
+      }
+    },
+    {
+      "ingredient_id": "aetius-16-138-1:ingredient:oinos-2",
+      "ingredient_urn": "urn:aos:recipe-ingredient:aetius-16-138-1:ingredient:oinos-2",
+      "source_span": "οἴνου",
+      "surface_form": "οἴνου",
+      "base_label": "οἶνος",
+      "normalized_label": "οἶνος",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [],
+      "quantities": [
+        {
+          "source_span": "ξέστ. ε.",
+          "raw_number": "ε",
+          "normalized_number": 5,
+          "raw_unit": "ξέστ.",
+          "normalized_unit": "xestes",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "16",
+        "chapter": "138",
+        "section": "1",
+        "citation": {
+          "start": "167.7",
+          "end": "167.9"
+        }
+      }
+    },
+    {
+      "ingredient_id": "aetius-16-138-1:ingredient:meli-3",
+      "ingredient_urn": "urn:aos:recipe-ingredient:aetius-16-138-1:ingredient:meli-3",
+      "source_span": "μέλιτος",
+      "surface_form": "μέλιτος",
+      "base_label": "μέλι",
+      "normalized_label": "μέλι",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [],
+      "quantities": [
+        {
+          "source_span": "ξέστ. α.",
+          "raw_number": "α",
+          "normalized_number": 1,
+          "raw_unit": "ξέστ.",
+          "normalized_unit": "xestes",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "16",
+        "chapter": "138",
+        "section": "1",
+        "citation": {
+          "start": "167.7",
+          "end": "167.9"
+        }
+      }
+    },
+    {
+      "ingredient_id": "aetius-16-138-1:ingredient:mastiche-4",
+      "ingredient_urn": "urn:aos:recipe-ingredient:aetius-16-138-1:ingredient:mastiche-4",
+      "source_span": "μαστίχης",
+      "surface_form": "μαστίχης",
+      "base_label": "μαστίχη",
+      "normalized_label": "μαστίχη",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [],
+      "quantities": [
+        {
+          "source_span": "γοαζʹ.",
+          "raw_number": null,
+          "normalized_number": null,
+          "raw_unit": "γοαζʹ",
+          "normalized_unit": null,
+          "certainty": "uncertain",
+          "notes": []
+        },
+        {
+          "source_span": "οὐγ. α καὶ ἡμίσ.",
+          "raw_number": "α καὶ ἡμίσ",
+          "normalized_number": 1.5,
+          "raw_unit": "οὐγ.",
+          "normalized_unit": "uncia",
+          "certainty": "certain",
+          "notes": [
+            "Introduced as an equivalent measure by ἤτοι."
+          ]
+        }
+      ],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "16",
+        "chapter": "138",
+        "section": "1",
+        "citation": {
+          "start": "167.7",
+          "end": "167.9"
+        }
+      }
+    }
+  ],
+  "processes": [],
+  "materials": [],
+  "people": [],
+  "places": [],
+  "uses": [],
+  "preparation_names": [],
+  "other_preparations_mentioned": [],
+  "works_mentioned": [],
+  "entities": [
+    {
+      "entity_urn": "urn:aos:recipe-preparation:aetius-16-138-1:preparation:mastichatoy-kyminatoy-skeyasia",
+      "entity_type": "label",
+      "surface_form": "μαστιχάτου κυμινάτου σκευασία",
+      "normalized_label": "μαστιχάτου κυμινάτου σκευασία"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:aetius-16-138-1:ingredient:kyminon-1",
+      "entity_type": "ingredient",
+      "surface_form": "Κυμίνου",
+      "normalized_label": "κύμινον"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:aetius-16-138-1:ingredient:oinos-2",
+      "entity_type": "ingredient",
+      "surface_form": "οἴνου",
+      "normalized_label": "οἶνος"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:aetius-16-138-1:ingredient:meli-3",
+      "entity_type": "ingredient",
+      "surface_form": "μέλιτος",
+      "normalized_label": "μέλι"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:aetius-16-138-1:ingredient:mastiche-4",
+      "entity_type": "ingredient",
+      "surface_form": "μαστίχης",
+      "normalized_label": "μαστίχη"
+    }
+  ]
+}

@@ -1,0 +1,466 @@
+{
+  "metadata": {
+    "count": 5
+  },
+  "sources": [
+    {
+      "dataset_key": "aetius_book16_myrepsika",
+      "display_name": "Aëtius Book 16 myrepsika",
+      "source_slug": "aetius-book16-ch126-153-myrepsika",
+      "work_slug": "aetius.b16.myrepsika",
+      "recipe_count": 44,
+      "entries_key": "entries",
+      "source_json": "experiments/aetius-book16-ch126-153-myrepsika/data/aetius_book16_ch126_153_myrepsika.json",
+      "host_raw_file": "tei/raw/tlg0718016.xml",
+      "structured_authority": "reports/entity_review/structured/aetius_book16.json",
+      "authority_ledger": "reports/entity_review/pass3_gpt54/aetius_book16.md",
+      "work": {
+        "author": "Aëtius of Amida",
+        "work": "Libri medicinales",
+        "book": "16",
+        "cts": "urn:cts:greekLit:tlg0718.tlg016.aos-grc1:16.126-153",
+        "part_title": "σκευασίαι μύρων, μοσχάτων, κονδίτων, οἰνανθαρίων, θυμιαμάτων καὶ ἑτέρων τινῶν μυρεψικῶν",
+        "part_title_zervos": {
+          "pages": [
+            "161"
+          ],
+          "start": {
+            "page": "161",
+            "line": "7",
+            "xml_id": "zerv-161-7"
+          },
+          "end": {
+            "page": "161",
+            "line": "8",
+            "xml_id": "zerv-161-8"
+          },
+          "citation": {
+            "start": "161.7",
+            "end": "161.8"
+          },
+          "page_spans": [
+            {
+              "page": "161",
+              "start_line": "7",
+              "end_line": "8"
+            }
+          ],
+          "lines": [
+            {
+              "page": "161",
+              "line": "7",
+              "xml_id": "zerv-161-7",
+              "citation": "161.7",
+              "text": "ΣΚΕΥΑΣΙΑΙ ΜΥΡΩΝ, ΜΟΣΧΑΤΩΝ, ΚΟΝΔΙΤΩΝ, ΟΙΝΑΝΘΑΡΙΩΝ,"
+            },
+            {
+              "page": "161",
+              "line": "8",
+              "xml_id": "zerv-161-8",
+              "citation": "161.8",
+              "text": "ΘΥΜΙΑΜΑΤΩΝ ΚΑΙ ΕΤΕΡΩΝ ΤΙΝΩΝ ΜΥΡΕΨΙΚΩΝ."
+            }
+          ]
+        },
+        "page_span": [
+          "161",
+          "162",
+          "163",
+          "164",
+          "165",
+          "166",
+          "167",
+          "168",
+          "169",
+          "170",
+          "171",
+          "172"
+        ]
+      },
+      "source": {
+        "xml_file": "tei/raw/tlg0718016.xml",
+        "xml_line_range": {
+          "start": 4823,
+          "end": 5218
+        },
+        "requested_chapter_range": {
+          "start": "126",
+          "end": "153"
+        },
+        "edition": "Zervos",
+        "citation_basis": "Reconstructed from raw line flow anchored at Zervos 161.7."
+      },
+      "provenance_copy": "provenance/source/experiments/aetius-book16-ch126-153-myrepsika"
+    },
+    {
+      "dataset_key": "aetius_book1_oils",
+      "display_name": "Aëtius Book 1 oils",
+      "source_slug": "aetius-book1-ch99-136-oils",
+      "work_slug": "aetius.b1.oils",
+      "recipe_count": 43,
+      "entries_key": "entries",
+      "source_json": "experiments/aetius-book1-ch99-136-oils/data/aetius_book1_ch99_136_oils.json",
+      "host_raw_file": "tei/raw/tlg0718001.xml",
+      "structured_authority": "reports/entity_review/structured/aetius_book1.json",
+      "authority_ledger": "reports/entity_review/pass3_gpt54/aetius_book1.md",
+      "work": {
+        "author": "Aëtius of Amida",
+        "work": "Libri medicinales",
+        "book": "1",
+        "chapter_range": {
+          "proemium": "100",
+          "entries_start": "101",
+          "entries_end": "136"
+        },
+        "cts": "urn:cts:greekLit:tlg0718.tlg001.aos-grc1:1.100-136",
+        "chapter_name": "Ἔλαιον",
+        "page_span": [
+          "54",
+          "55",
+          "56",
+          "57",
+          "58",
+          "59",
+          "60",
+          "61",
+          "62",
+          "63",
+          "64",
+          "65",
+          "66",
+          "67",
+          "68",
+          "69"
+        ]
+      },
+      "source": {
+        "xml_file": "tei/output/tlg0718.tlg001.aos-grc1.xml",
+        "revised_notes_file": "experiments/revised-aetius-1-99-136.txt",
+        "xml_line_range": {
+          "start": 913,
+          "end": 1103
+        },
+        "requested_chapter_range": {
+          "start": "99",
+          "end": "136"
+        },
+        "effective_chapter_range": {
+          "proemium": "100",
+          "entries_start": "101",
+          "entries_end": "136"
+        },
+        "edition": "Olivieri",
+        "display_text": "emended where revised notes adopt a change; otherwise Olivieri"
+      },
+      "provenance_copy": "provenance/source/experiments/aetius-book1-ch99-136-oils"
+    },
+    {
+      "dataset_key": "dioscorides_book1_perfumes_resins",
+      "display_name": "Dioscorides Book 1 perfumes and resins",
+      "source_slug": "dioscorides-book1-perfumes-resins",
+      "work_slug": "diosc.b1.recipes",
+      "recipe_count": 52,
+      "entries_key": "entries",
+      "source_json": "experiments/dioscorides-book1-perfumes-resins/data/dioscorides_book1_perfumes_resins.json",
+      "host_raw_file": "tei/raw/tlg0656.tlg001.1st1K-grc1.xml",
+      "structured_authority": "reports/entity_review/structured/dioscorides.json",
+      "authority_ledger": "reports/entity_review/pass3_gpt54/dioscorides.md",
+      "work": {
+        "author": "Dioscorides",
+        "work": "De materia medica",
+        "book": "1",
+        "chapter_span": [
+          "25",
+          "30-63",
+          "71"
+        ],
+        "page_span": [
+          "28",
+          "29",
+          "33",
+          "34",
+          "35",
+          "36",
+          "37",
+          "38",
+          "39",
+          "40",
+          "41",
+          "42",
+          "43",
+          "44",
+          "45",
+          "46",
+          "47",
+          "48",
+          "49",
+          "50",
+          "51",
+          "52",
+          "53",
+          "54",
+          "55",
+          "56",
+          "57",
+          "69",
+          "70"
+        ]
+      },
+      "source": {
+        "xml_file": "tei/raw/tlg0656.tlg001.1st1K-grc1.xml",
+        "edition": "Wellmann",
+        "requested_slices": [
+          {
+            "label": "kyphi",
+            "start": 1590,
+            "end": 1633
+          },
+          {
+            "label": "proemium",
+            "start": 2306,
+            "end": 2342
+          },
+          {
+            "label": "perfumes_main",
+            "start": 1855,
+            "end": 3167
+          },
+          {
+            "label": "iasmelaion_apparatus",
+            "start": 3195,
+            "end": 3205
+          },
+          {
+            "label": "resin_techniques",
+            "start": 3695,
+            "end": 3934
+          }
+        ],
+        "notes": [
+          "Raw lines 1590-1633 are book 1 chapter 25 in this witness, although the prompt referred to chapter 35.",
+          "The perfume proemium is taken from the later transition at chapter 42 section 2 (raw lines 2306-2342), not from the chapter 25 κῦφι entry.",
+          "The ἰασμέλαιον entry is preserved only in the apparatus as an addition from another recension."
+        ]
+      },
+      "provenance_copy": "provenance/source/experiments/dioscorides-book1-perfumes-resins"
+    },
+    {
+      "dataset_key": "dioscorides_book2_fats",
+      "display_name": "Dioscorides Book 2 fats",
+      "source_slug": "dioscorides-book2-fats",
+      "work_slug": "diosc.b2.fats",
+      "recipe_count": 18,
+      "entries_key": "entries",
+      "source_json": "experiments/dioscorides-book2-fats/data/dioscorides_book2_fats.json",
+      "host_raw_file": "tei/raw/tlg0656.tlg001.1st1K-grc1.xml",
+      "structured_authority": "reports/entity_review/structured/dioscorides.json",
+      "authority_ledger": "reports/entity_review/pass3_gpt54/dioscorides.md",
+      "work": {
+        "author": "Dioscorides",
+        "work": "De materia medica",
+        "book": "2",
+        "chapter_span": [
+          "72",
+          "74",
+          "76"
+        ],
+        "page_span": [
+          "146",
+          "147",
+          "148",
+          "149",
+          "150",
+          "151",
+          "152",
+          "153",
+          "154",
+          "155",
+          "156",
+          "157",
+          "158"
+        ]
+      },
+      "source": {
+        "xml_file": "tei/raw/tlg0656.tlg001.1st1K-grc1.xml",
+        "edition": "Wellmann",
+        "requested_slices": [
+          {
+            "label": "βούτυρον",
+            "book": "2",
+            "chapter": "72",
+            "section": "1-2",
+            "recipe_id": "dioscorides-2-72-boutyron"
+          },
+          {
+            "label": "λιγνὺς ἐκ βουτύρου",
+            "book": "2",
+            "chapter": "72",
+            "section": "3",
+            "recipe_id": "dioscorides-2-72-boutyron-lignys"
+          },
+          {
+            "label": "οἴσυπος",
+            "book": "2",
+            "chapter": "74",
+            "section": "1-2, 4",
+            "recipe_id": "dioscorides-2-74-oisypos"
+          },
+          {
+            "label": "οἴσυπος ἑψητός",
+            "book": "2",
+            "chapter": "74",
+            "section": "3",
+            "recipe_id": "dioscorides-2-74-oisypos-boiled"
+          },
+          {
+            "label": "οἴσυπος κεκαυμένος καὶ λιγνύς",
+            "book": "2",
+            "chapter": "74",
+            "section": "5",
+            "recipe_id": "dioscorides-2-74-oisypos-burned-lignys"
+          },
+          {
+            "label": "στέαρ χήνειον καὶ ὀρνίθειον",
+            "book": "2",
+            "chapter": "76",
+            "section": "1-2",
+            "recipe_id": "dioscorides-2-76-goose-chicken-stear"
+          },
+          {
+            "label": "στέαρ τεθεραπευμένον μετὰ ἁλός",
+            "book": "2",
+            "chapter": "76",
+            "section": "2",
+            "recipe_id": "dioscorides-2-76-rendered-stear-with-salt"
+          },
+          {
+            "label": "στέαρ ὔειον καὶ ἄρκειον",
+            "book": "2",
+            "chapter": "76",
+            "section": "2-3",
+            "recipe_id": "dioscorides-2-76-pig-bear-stear"
+          },
+          {
+            "label": "στέαρ τράγειον καὶ προβάτειον καὶ ἐλάφειον",
+            "book": "2",
+            "chapter": "76",
+            "section": "4-5",
+            "recipe_id": "dioscorides-2-76-goat-sheep-deer-stear"
+          },
+          {
+            "label": "στέαρ βόειον",
+            "book": "2",
+            "chapter": "76",
+            "section": "5-6",
+            "recipe_id": "dioscorides-2-76-ox-stear"
+          },
+          {
+            "label": "στέαρ ταύρειον",
+            "book": "2",
+            "chapter": "76",
+            "section": "6-8",
+            "recipe_id": "dioscorides-2-76-bull-stear"
+          },
+          {
+            "label": "στέαρ μόσχειον καὶ ταύρειον καὶ ἐλάφειον ἀρωματιστόν",
+            "book": "2",
+            "chapter": "76",
+            "section": "8-10",
+            "recipe_id": "dioscorides-2-76-aromatized-calf-bull-deer-stear"
+          },
+          {
+            "label": "πρόστυψις στεάτων πρὸς ἀρώματα",
+            "book": "2",
+            "chapter": "76",
+            "section": "10",
+            "recipe_id": "dioscorides-2-76-aromatic-pretreatment-basic"
+          },
+          {
+            "label": "πρόστυψις στεάτων διὰ λωτίνου καρποῦ",
+            "book": "2",
+            "chapter": "76",
+            "section": "11-12",
+            "recipe_id": "dioscorides-2-76-aromatic-pretreatment-lotus"
+          },
+          {
+            "label": "στέαρ ὀρνίθειον καὶ χήνειον ἀρωματιστόν",
+            "book": "2",
+            "chapter": "76",
+            "section": "13-14",
+            "recipe_id": "dioscorides-2-76-aromatized-bird-goose-stear"
+          },
+          {
+            "label": "στέαρ σαμψουχιζόμενον",
+            "book": "2",
+            "chapter": "76",
+            "section": "14-15",
+            "recipe_id": "dioscorides-2-76-sampsuchized-stear"
+          },
+          {
+            "label": "στέαρ ἀθεράπευτον ἄσηπτον",
+            "book": "2",
+            "chapter": "76",
+            "section": "16",
+            "recipe_id": "dioscorides-2-76-preserved-untreated-stear"
+          },
+          {
+            "label": "δυνάμεις στεάτων",
+            "book": "2",
+            "chapter": "76",
+            "section": "17-19",
+            "recipe_id": "dioscorides-2-76-stear-properties-catalogue"
+          }
+        ],
+        "notes": [
+          "Book 2 fats slice split into logical preparation and technique units from chapters 72, 74, and 76.",
+          "Bare Arabic numerals in the raw witness are treated as structural or note noise and removed from display text, except parenthetical cross-references such as (I 68).",
+          "Section markers are stored separately and displayed near sentence boundaries as heuristic navigation aids."
+        ]
+      },
+      "provenance_copy": "provenance/source/experiments/dioscorides-book2-fats"
+    },
+    {
+      "dataset_key": "paul_book7_perfumes",
+      "display_name": "Paul 7.20 perfumes",
+      "source_slug": "paul-book7-ch20-perfumes",
+      "work_slug": "paul.b7.perfumes",
+      "recipe_count": 35,
+      "entries_key": "perfumes",
+      "source_json": "experiments/paul-book7-ch20-perfumes/data/paul_book7_ch20_perfumes.json",
+      "host_raw_file": "tei/raw/tlg0715001.xml",
+      "structured_authority": "reports/entity_review/structured/paul.json",
+      "authority_ledger": "reports/entity_review/pass3_gpt54/paul.md",
+      "work": {
+        "author": "Paul of Aegina",
+        "work": "Medical Epitome",
+        "book": "7",
+        "chapter": "20",
+        "cts": "urn:cts:greekLit:tlg0715.tlg001.aos-grc1:7.20",
+        "chapter_name": "Ἐλαίων καὶ μύρων σκευασίαι διάφοροι.",
+        "page_span": [
+          "2.380",
+          "2.381",
+          "2.382",
+          "2.383",
+          "2.384",
+          "2.385",
+          "2.386",
+          "2.387",
+          "2.388",
+          "2.389",
+          "2.390",
+          "2.391"
+        ]
+      },
+      "source": {
+        "xml_file": "tei/output/tlg0715.tlg001.aos-grc1.cmg9_2.xml",
+        "xml_line_range": {
+          "start": 7136,
+          "end": 7481
+        },
+        "edition": "Heiberg"
+      },
+      "provenance_copy": "provenance/source/experiments/paul-book7-ch20-perfumes"
+    }
+  ]
+}

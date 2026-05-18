@@ -1,0 +1,546 @@
+{
+  "dataset_key": "dioscorides_book2_fats",
+  "source_json": "experiments/dioscorides-book2-fats/data/dioscorides_book2_fats.json",
+  "host_raw_file": "tei/raw/tlg0656.tlg001.1st1K-grc1.xml",
+  "work_slug": "diosc.b2.fats",
+  "recipe_id": "dioscorides-2-76-rendered-stear-with-salt",
+  "recipe_urn": "urn:aos:recipe:dioscorides-2-76-rendered-stear-with-salt",
+  "record_urn": "urn:aos:recipe-record:dioscorides-2-76-rendered-stear-with-salt",
+  "author": "Dioscorides",
+  "work": "De materia medica",
+  "book": "2",
+  "chapter": "76",
+  "section": "2",
+  "chapter_name": "στέαρ",
+  "lemma": "στέαρ τεθεραπευμένον μετὰ ἁλός",
+  "text": "ἐστι δὲ καὶ ἄλλος τρόπος θεραπείας τοιοῦτος μετὰ τὸ ἐξυμενισθῆναι τὸ στέαρ λεαίνεται καὶ εἰς λοπάδα ἐμβληθὲν τήκεται, ἁλὸς ὀλίγου καὶ λεπτοῦ προσεμπασθέντος, εἶτα διὰ ῥάκους λινοῦ ὑλισθὲν ἀποτίθεται. ἁρμόζει δὲ τὸ τοιοῦτον εἰς τὰ ἄκοπα.",
+  "original_text": null,
+  "text_source": null,
+  "emendations": [],
+  "emendation_count": 0,
+  "source_kind": "main_text",
+  "entry_kind": "recipe",
+  "citation": {
+    "pages": [
+      "151",
+      "152"
+    ],
+    "start": {
+      "page": "151",
+      "line": "15"
+    },
+    "end": {
+      "page": "152",
+      "line": "1"
+    },
+    "citation": {
+      "start": "151.15",
+      "end": "152.1"
+    },
+    "page_spans": [
+      {
+        "page": "151",
+        "start_line": "15",
+        "end_line": "20"
+      },
+      {
+        "page": "152",
+        "start_line": "1",
+        "end_line": "1"
+      }
+    ],
+    "lines": [
+      {
+        "page": "151",
+        "line": "15",
+        "break_no": false,
+        "raw_text": "τινὲς δὲ 2 ἀντὶ τοῦ ἡλίου ὑπὲρ ὕδατος θερμοῦ ἐπερείδονται τὴν λοπάδα ἢ ἐπὶ λεπτῆς καὶ μαλακῆς ἀνθρακιᾶς. ἐστι δὲ καὶ ἄλλος τρόπος θεραπείας τοιοῦτος μετὰ τὸ ἐξυμενισθῆναι τὸ στέαρ",
+        "text": "τινὲς δὲ ἀντὶ τοῦ ἡλίου ὑπὲρ ὕδατος θερμοῦ ἐπερείδονται τὴν λοπάδα ἢ ἐπὶ λεπτῆς καὶ μαλακῆς ἀνθρακιᾶς. ἐστι δὲ καὶ ἄλλος τρόπος θεραπείας τοιοῦτος μετὰ τὸ ἐξυμενισθῆναι τὸ στέαρ",
+        "citation": "151.15"
+      },
+      {
+        "page": "151",
+        "line": "20",
+        "break_no": false,
+        "raw_text": "λεαίνεται καὶ εἰς λοπάδα ἐμβληθὲν τήκεται, ἁλὸς ὀλίγου καὶ λεπτοῦ προσεμπασθέντος, εἶτα διὰ ῥάκους λινοῦ ὑλισθὲν ἀποτίθεται. ἁρμόζει δὲ τὸ τοιοῦτον εἰς τὰ ἄκοπα. ὔειον δὲ καὶ ἄρκειον θεραπεύεται οὕτως· λαβὼν τὸ πρόσφατον καὶ καταπίμελον, οἷόν ἐστι τὸ νεφριαῖον, ἔμβαλε 8",
+        "text": "λεαίνεται καὶ εἰς λοπάδα ἐμβληθὲν τήκεται, ἁλὸς ὀλίγου καὶ λεπτοῦ προσεμπασθέντος, εἶτα διὰ ῥάκους λινοῦ ὑλισθὲν ἀποτίθεται. ἁρμόζει δὲ τὸ τοιοῦτον εἰς τὰ ἄκοπα. ὔειον δὲ καὶ ἄρκειον θεραπεύεται οὕτως· λαβὼν τὸ πρόσφατον καὶ καταπίμελον, οἷόν ἐστι τὸ νεφριαῖον, ἔμβαλε",
+        "citation": "151.20"
+      },
+      {
+        "page": "152",
+        "line": "1",
+        "break_no": false,
+        "raw_text": "εἰς ὕδωρ δαψιλὲς ὄμβριον ὡς ὅτι ψυχρότατον καὶ ἐξυμένισον καὶ τρῖβε ταῖς χερσὶν ἐπιμελῶς, ἀνατρίβων αὐτὸ καὶ οἱονεὶ ἀποψήχων·",
+        "text": "εἰς ὕδωρ δαψιλὲς ὄμβριον ὡς ὅτι ψυχρότατον καὶ ἐξυμένισον καὶ τρῖβε ταῖς χερσὶν ἐπιμελῶς, ἀνατρίβων αὐτὸ καὶ οἱονεὶ ἀποψήχων·",
+        "citation": "152.1"
+      }
+    ],
+    "edition_key": "wellmann"
+  },
+  "notes": [
+    "Book 2 fats slice split into logical preparation and technique units from chapters 72, 74, and 76.",
+    "Bare Arabic numerals in the raw witness are treated as structural or note noise and removed from display text, except parenthetical cross-references such as (I 68).",
+    "Section markers are stored separately and displayed near sentence boundaries as heuristic navigation aids."
+  ],
+  "alignment_status": "pending",
+  "alignment_confidence": "pending",
+  "alignment_evidence": null,
+  "review_status": "reviewed_structured_authority",
+  "review_provenance": {
+    "authority_source": "reports/entity_review/structured/dioscorides.json",
+    "authority_recipe_id": "dioscorides-2-76-rendered-stear-with-salt",
+    "authority_lemma": "στέαρ τεθεραπευμένον μετὰ ἁλός",
+    "model": "gpt-5.4",
+    "reasoning_effort": "high",
+    "dataset_key": "dioscorides_book2_fats",
+    "entity_model_version": "1.2",
+    "authority_version": "2026-04-13-qty-alt-v1",
+    "prompt_version": "qty-alt-pass-v1",
+    "build_version": "2026-05-18T15:51:35Z"
+  },
+  "schema_version": "1.2",
+  "build_metadata": {
+    "builder": "scripts/recipes/build_recipe_entities.py",
+    "built_at": "2026-05-18T15:51:35Z",
+    "source_structured_authority": "reports/entity_review/structured/dioscorides.json",
+    "authority_model": "gpt-5.4",
+    "authority_reasoning_effort": "high",
+    "dataset_key": "dioscorides_book2_fats",
+    "entity_model_version": "1.2",
+    "authority_version": "2026-04-13-qty-alt-v1",
+    "prompt_version": "qty-alt-pass-v1",
+    "build_version": "2026-05-18T15:51:35Z"
+  },
+  "recipe_text_excerpt": "ἐστι δὲ καὶ ἄλλος τρόπος θεραπείας τοιοῦτος μετὰ τὸ ἐξυμενισθῆναι τὸ στέαρ λεαίνεται καὶ εἰς λοπάδα ἐμβληθὲν τήκεται, ἁλὸς ὀλίγου",
+  "preparation": {
+    "preparation_id": "dioscorides-2-76-rendered-stear-with-salt:preparation:stear-tetherapeymenon-meta-alos",
+    "preparation_urn": "urn:aos:recipe-preparation:dioscorides-2-76-rendered-stear-with-salt:preparation:stear-tetherapeymenon-meta-alos",
+    "source_span": "στέαρ τεθεραπευμένον μετὰ ἁλός",
+    "surface_form": "στέαρ τεθεραπευμένον μετὰ ἁλός",
+    "normalized_label": "στέαρ τεθεραπευμένον μετὰ ἁλός",
+    "qualifiers": [],
+    "regimen_notes": [
+      {
+        "source_span": "ἄλλος τρόπος θεραπείας",
+        "normalized_note": "alternate mode of treatment/preparation",
+        "certainty": "certain",
+        "notes": []
+      }
+    ],
+    "certainty": "certain",
+    "notes": [],
+    "host_locator": {
+      "book": "2",
+      "chapter": "76",
+      "section": "2",
+      "citation": {
+        "start": "151.15",
+        "end": "152.1"
+      }
+    }
+  },
+  "ingredients": [
+    {
+      "ingredient_id": "dioscorides-2-76-rendered-stear-with-salt:ingredient:stear-1",
+      "ingredient_urn": "urn:aos:recipe-ingredient:dioscorides-2-76-rendered-stear-with-salt:ingredient:stear-1",
+      "source_span": "τὸ στέαρ",
+      "surface_form": "τὸ στέαρ",
+      "base_label": "στέαρ",
+      "normalized_label": "στέαρ",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [
+        "dioscorides-2-76-rendered-stear-with-salt:process:exymenisthenai-1",
+        "dioscorides-2-76-rendered-stear-with-salt:process:leiainein-2",
+        "dioscorides-2-76-rendered-stear-with-salt:process:emballein-3",
+        "dioscorides-2-76-rendered-stear-with-salt:process:tekein-4",
+        "dioscorides-2-76-rendered-stear-with-salt:process:prosempasthenai-5"
+      ],
+      "quantities": [],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "2",
+        "chapter": "76",
+        "section": "2",
+        "citation": {
+          "start": "151.15",
+          "end": "152.1"
+        }
+      }
+    },
+    {
+      "ingredient_id": "dioscorides-2-76-rendered-stear-with-salt:ingredient:als-leptos-2",
+      "ingredient_urn": "urn:aos:recipe-ingredient:dioscorides-2-76-rendered-stear-with-salt:ingredient:als-leptos-2",
+      "source_span": "ἁλὸς ὀλίγου καὶ λεπτοῦ",
+      "surface_form": "ἁλὸς ὀλίγου καὶ λεπτοῦ",
+      "base_label": "ἅλς",
+      "normalized_label": "ἅλς λεπτός",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [
+        "dioscorides-2-76-rendered-stear-with-salt:process:prosempasthenai-5"
+      ],
+      "quantities": [
+        {
+          "source_span": "ὀλίγου",
+          "raw_number": null,
+          "normalized_number": null,
+          "raw_unit": null,
+          "normalized_unit": null,
+          "certainty": "certain",
+          "notes": [
+            "indefinite small amount"
+          ]
+        }
+      ],
+      "qualifiers": [
+        {
+          "qualifier_type": "other",
+          "source_span": "λεπτοῦ",
+          "normalized_value": "λεπτός",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "notes": [],
+      "host_locator": {
+        "book": "2",
+        "chapter": "76",
+        "section": "2",
+        "citation": {
+          "start": "151.15",
+          "end": "152.1"
+        }
+      }
+    }
+  ],
+  "processes": [
+    {
+      "process_id": "dioscorides-2-76-rendered-stear-with-salt:process:exymenisthenai-1",
+      "process_urn": "urn:aos:recipe-process:dioscorides-2-76-rendered-stear-with-salt:process:exymenisthenai-1",
+      "source_span": "ἐξυμενισθῆναι",
+      "surface_form": "ἐξυμενισθῆναι",
+      "normalized_label": "ἐξυμενισθῆναι",
+      "target_type": "ingredient",
+      "target_ids": [
+        "dioscorides-2-76-rendered-stear-with-salt:ingredient:stear-1"
+      ],
+      "quantities": [],
+      "qualifiers": [],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "2",
+        "chapter": "76",
+        "section": "2",
+        "citation": {
+          "start": "151.15",
+          "end": "152.1"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-2-76-rendered-stear-with-salt:process:leiainein-2",
+      "process_urn": "urn:aos:recipe-process:dioscorides-2-76-rendered-stear-with-salt:process:leiainein-2",
+      "source_span": "λεαίνεται",
+      "surface_form": "λεαίνεται",
+      "normalized_label": "λειαίνειν",
+      "target_type": "ingredient",
+      "target_ids": [
+        "dioscorides-2-76-rendered-stear-with-salt:ingredient:stear-1"
+      ],
+      "quantities": [],
+      "qualifiers": [],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "2",
+        "chapter": "76",
+        "section": "2",
+        "citation": {
+          "start": "151.15",
+          "end": "152.1"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-2-76-rendered-stear-with-salt:process:emballein-3",
+      "process_urn": "urn:aos:recipe-process:dioscorides-2-76-rendered-stear-with-salt:process:emballein-3",
+      "source_span": "ἐμβληθὲν",
+      "surface_form": "ἐμβληθὲν",
+      "normalized_label": "ἐμβάλλειν",
+      "target_type": "ingredient",
+      "target_ids": [
+        "dioscorides-2-76-rendered-stear-with-salt:ingredient:stear-1"
+      ],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "location",
+          "source_span": "εἰς λοπάδα",
+          "normalized_value": "λοπάς",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "2",
+        "chapter": "76",
+        "section": "2",
+        "citation": {
+          "start": "151.15",
+          "end": "152.1"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-2-76-rendered-stear-with-salt:process:tekein-4",
+      "process_urn": "urn:aos:recipe-process:dioscorides-2-76-rendered-stear-with-salt:process:tekein-4",
+      "source_span": "τήκεται",
+      "surface_form": "τήκεται",
+      "normalized_label": "τήκειν",
+      "target_type": "ingredient",
+      "target_ids": [
+        "dioscorides-2-76-rendered-stear-with-salt:ingredient:stear-1"
+      ],
+      "quantities": [],
+      "qualifiers": [],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "2",
+        "chapter": "76",
+        "section": "2",
+        "citation": {
+          "start": "151.15",
+          "end": "152.1"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-2-76-rendered-stear-with-salt:process:prosempasthenai-5",
+      "process_urn": "urn:aos:recipe-process:dioscorides-2-76-rendered-stear-with-salt:process:prosempasthenai-5",
+      "source_span": "προσεμπασθέντος",
+      "surface_form": "προσεμπασθέντος",
+      "normalized_label": "προσεμπασθῆναι",
+      "target_type": "ingredient",
+      "target_ids": [
+        "dioscorides-2-76-rendered-stear-with-salt:ingredient:stear-1",
+        "dioscorides-2-76-rendered-stear-with-salt:ingredient:als-leptos-2"
+      ],
+      "quantities": [],
+      "qualifiers": [],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "2",
+        "chapter": "76",
+        "section": "2",
+        "citation": {
+          "start": "151.15",
+          "end": "152.1"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-2-76-rendered-stear-with-salt:process:ylisthenai-6",
+      "process_urn": "urn:aos:recipe-process:dioscorides-2-76-rendered-stear-with-salt:process:ylisthenai-6",
+      "source_span": "ὑλισθὲν",
+      "surface_form": "ὑλισθὲν",
+      "normalized_label": "ὑλισθῆναι",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "other",
+          "source_span": "διὰ ῥάκους λινοῦ",
+          "normalized_value": "διὰ ῥάκους λινοῦ",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "certainty": "uncertain",
+      "notes": [
+        "infinitive normalized from the transmitted participle"
+      ],
+      "host_locator": {
+        "book": "2",
+        "chapter": "76",
+        "section": "2",
+        "citation": {
+          "start": "151.15",
+          "end": "152.1"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-2-76-rendered-stear-with-salt:process:apotithesthai-7",
+      "process_urn": "urn:aos:recipe-process:dioscorides-2-76-rendered-stear-with-salt:process:apotithesthai-7",
+      "source_span": "ἀποτίθεται",
+      "surface_form": "ἀποτίθεται",
+      "normalized_label": "ἀποτίθεσθαι",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "2",
+        "chapter": "76",
+        "section": "2",
+        "citation": {
+          "start": "151.15",
+          "end": "152.1"
+        }
+      }
+    }
+  ],
+  "materials": [
+    {
+      "material_id": "dioscorides-2-76-rendered-stear-with-salt:material:lopas-1",
+      "material_urn": "urn:aos:recipe-material:dioscorides-2-76-rendered-stear-with-salt:material:lopas-1",
+      "source_span": "λοπάδα",
+      "surface_form": "λοπάδα",
+      "normalized_label": "λοπάς",
+      "role": "apparatus",
+      "certainty": "certain",
+      "quantities": [],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "2",
+        "chapter": "76",
+        "section": "2",
+        "citation": {
+          "start": "151.15",
+          "end": "152.1"
+        }
+      }
+    },
+    {
+      "material_id": "dioscorides-2-76-rendered-stear-with-salt:material:rakos-linon-2",
+      "material_urn": "urn:aos:recipe-material:dioscorides-2-76-rendered-stear-with-salt:material:rakos-linon-2",
+      "source_span": "ῥάκους λινοῦ",
+      "surface_form": "ῥάκους λινοῦ",
+      "normalized_label": "ῥάκος λινόν",
+      "role": "tool",
+      "certainty": "certain",
+      "quantities": [],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "2",
+        "chapter": "76",
+        "section": "2",
+        "citation": {
+          "start": "151.15",
+          "end": "152.1"
+        }
+      }
+    }
+  ],
+  "people": [],
+  "places": [],
+  "uses": [
+    {
+      "use_id": "dioscorides-2-76-rendered-stear-with-salt:use:armozei-de-to-toioyton-eis-ta-akopa-1",
+      "use_urn": "urn:aos:recipe-use:dioscorides-2-76-rendered-stear-with-salt:use:armozei-de-to-toioyton-eis-ta-akopa-1",
+      "category": "medical",
+      "source_span": "ἁρμόζει δὲ τὸ τοιοῦτον εἰς τὰ ἄκοπα",
+      "snippet": "ἁρμόζει δὲ τὸ τοιοῦτον εἰς τὰ ἄκοπα",
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "2",
+        "chapter": "76",
+        "section": "2",
+        "citation": {
+          "start": "151.15",
+          "end": "152.1"
+        }
+      }
+    }
+  ],
+  "preparation_names": [],
+  "other_preparations_mentioned": [],
+  "works_mentioned": [],
+  "entities": [
+    {
+      "entity_urn": "urn:aos:recipe-preparation:dioscorides-2-76-rendered-stear-with-salt:preparation:stear-tetherapeymenon-meta-alos",
+      "entity_type": "label",
+      "surface_form": "στέαρ τεθεραπευμένον μετὰ ἁλός",
+      "normalized_label": "στέαρ τεθεραπευμένον μετὰ ἁλός"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:dioscorides-2-76-rendered-stear-with-salt:ingredient:stear-1",
+      "entity_type": "ingredient",
+      "surface_form": "τὸ στέαρ",
+      "normalized_label": "στέαρ"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:dioscorides-2-76-rendered-stear-with-salt:ingredient:als-leptos-2",
+      "entity_type": "ingredient",
+      "surface_form": "ἁλὸς ὀλίγου καὶ λεπτοῦ",
+      "normalized_label": "ἅλς λεπτός"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-2-76-rendered-stear-with-salt:process:exymenisthenai-1",
+      "entity_type": "process",
+      "surface_form": "ἐξυμενισθῆναι",
+      "normalized_label": "ἐξυμενισθῆναι"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-2-76-rendered-stear-with-salt:process:leiainein-2",
+      "entity_type": "process",
+      "surface_form": "λεαίνεται",
+      "normalized_label": "λειαίνειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-2-76-rendered-stear-with-salt:process:emballein-3",
+      "entity_type": "process",
+      "surface_form": "ἐμβληθὲν",
+      "normalized_label": "ἐμβάλλειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-2-76-rendered-stear-with-salt:process:tekein-4",
+      "entity_type": "process",
+      "surface_form": "τήκεται",
+      "normalized_label": "τήκειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-2-76-rendered-stear-with-salt:process:prosempasthenai-5",
+      "entity_type": "process",
+      "surface_form": "προσεμπασθέντος",
+      "normalized_label": "προσεμπασθῆναι"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-2-76-rendered-stear-with-salt:process:ylisthenai-6",
+      "entity_type": "process",
+      "surface_form": "ὑλισθὲν",
+      "normalized_label": "ὑλισθῆναι"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-2-76-rendered-stear-with-salt:process:apotithesthai-7",
+      "entity_type": "process",
+      "surface_form": "ἀποτίθεται",
+      "normalized_label": "ἀποτίθεσθαι"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-material:dioscorides-2-76-rendered-stear-with-salt:material:lopas-1",
+      "entity_type": "material",
+      "surface_form": "λοπάδα",
+      "normalized_label": "λοπάς"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-material:dioscorides-2-76-rendered-stear-with-salt:material:rakos-linon-2",
+      "entity_type": "material",
+      "surface_form": "ῥάκους λινοῦ",
+      "normalized_label": "ῥάκος λινόν"
+    }
+  ]
+}

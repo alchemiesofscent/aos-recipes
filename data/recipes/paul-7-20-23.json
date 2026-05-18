@@ -1,0 +1,438 @@
+{
+  "dataset_key": "paul_book7_perfumes",
+  "source_json": "experiments/paul-book7-ch20-perfumes/data/paul_book7_ch20_perfumes.json",
+  "host_raw_file": "tei/raw/tlg0715001.xml",
+  "work_slug": "paul.b7.perfumes",
+  "recipe_id": "paul-7-20-23",
+  "recipe_urn": "urn:aos:recipe:paul-7-20-23",
+  "record_urn": "urn:aos:recipe-record:paul-7-20-23",
+  "author": "Paul of Aegina",
+  "work": "Medical Epitome",
+  "book": "7",
+  "chapter": "20",
+  "section": "23",
+  "chapter_name": "Ἐλαίων καὶ μύρων σκευασίαι διάφοροι.",
+  "lemma": "Σικυώνιον ἁπλοῦν",
+  "text": "Τοῦτο γίνεται τῆς ῥίζης τοῦ ἀγρίου σικύου διαψυγείσης ἐμβαλλομένων 𐆄 β εἰς τὸν Ἰταλικὸν τοῦ ἐλαίου ξ̸ καὶ ἑψομένης ἐν διπλώματι.",
+  "original_text": null,
+  "text_source": null,
+  "emendations": [],
+  "emendation_count": 0,
+  "source_kind": null,
+  "entry_kind": "recipe",
+  "citation": {
+    "pages": [
+      "2.386"
+    ],
+    "start": {
+      "page": "2.386",
+      "line": "12",
+      "xml_id": "heib-2-386-12"
+    },
+    "end": {
+      "page": "2.386",
+      "line": "14",
+      "xml_id": "heib-2-386-14"
+    },
+    "citation": {
+      "start": "2.386.12",
+      "end": "2.386.14"
+    },
+    "page_spans": [
+      {
+        "page": "2.386",
+        "start_line": "12",
+        "end_line": "14"
+      }
+    ],
+    "lines": [
+      {
+        "page": "2.386",
+        "line": "12",
+        "xml_id": "heib-2-386-12",
+        "break_no": false,
+        "text": "Σικυώνιον ἁπλοῦν.",
+        "citation": "2.386.12"
+      },
+      {
+        "page": "2.386",
+        "line": "13",
+        "xml_id": "heib-2-386-13",
+        "break_no": false,
+        "text": "Τοῦτο γίνεται τῆς ῥίζης τοῦ ἀγρίου σικύου διαψυγείσης ἐμβαλλο-",
+        "citation": "2.386.13"
+      },
+      {
+        "page": "2.386",
+        "line": "14",
+        "xml_id": "heib-2-386-14",
+        "break_no": true,
+        "text": "μένων 𐆄 β εἰς τὸν Ἰταλικὸν τοῦ ἐλαίου ξ̸ καὶ ἑψομένης ἐν διπλώματι.",
+        "citation": "2.386.14"
+      }
+    ],
+    "edition_key": "heiberg"
+  },
+  "notes": [],
+  "alignment_status": "pending",
+  "alignment_confidence": "pending",
+  "alignment_evidence": null,
+  "review_status": "reviewed_structured_authority",
+  "review_provenance": {
+    "authority_source": "reports/entity_review/structured/paul.json",
+    "authority_recipe_id": "paul-7-20-23",
+    "authority_lemma": "Σικυώνιον",
+    "model": "gpt-5.4",
+    "reasoning_effort": "high",
+    "dataset_key": "paul_book7_perfumes",
+    "entity_model_version": "1.2",
+    "authority_version": "2026-04-13-qty-alt-v1",
+    "prompt_version": "qty-alt-pass-v1",
+    "build_version": "2026-05-18T15:51:35Z"
+  },
+  "schema_version": "1.2",
+  "build_metadata": {
+    "builder": "scripts/recipes/build_recipe_entities.py",
+    "built_at": "2026-05-18T15:51:35Z",
+    "source_structured_authority": "reports/entity_review/structured/paul.json",
+    "authority_model": "gpt-5.4",
+    "authority_reasoning_effort": "high",
+    "dataset_key": "paul_book7_perfumes",
+    "entity_model_version": "1.2",
+    "authority_version": "2026-04-13-qty-alt-v1",
+    "prompt_version": "qty-alt-pass-v1",
+    "build_version": "2026-05-18T15:51:35Z"
+  },
+  "recipe_text_excerpt": "Τοῦτο γίνεται τῆς ῥίζης τοῦ ἀγρίου σικύου διαψυγείσης ἐμβαλλομένων 𐆄 β εἰς τὸν Ἰταλικὸν τοῦ ἐλαίου ξ̸ καὶ ἑψομένης ἐν",
+  "preparation": {
+    "preparation_id": "paul-7-20-23:preparation:sikyonion",
+    "preparation_urn": "urn:aos:recipe-preparation:paul-7-20-23:preparation:sikyonion",
+    "source_span": "Σικυώνιον ἁπλοῦν",
+    "surface_form": "Σικυώνιον ἁπλοῦν",
+    "normalized_label": "Σικυώνιον",
+    "qualifiers": [
+      {
+        "qualifier_type": "other",
+        "source_span": "ἁπλοῦν",
+        "normalized_value": "ἁπλοῦν",
+        "certainty": "certain",
+        "notes": [
+          "Subtype adjective in the lemma, recorded separately from the lexical preparation name."
+        ]
+      }
+    ],
+    "regimen_notes": [],
+    "certainty": "certain",
+    "notes": [
+      "Running text does not restate the preparation name cleanly; the lemma supplies the preparation authority."
+    ],
+    "host_locator": {
+      "book": "7",
+      "chapter": "20",
+      "section": "23",
+      "citation": {
+        "start": "2.386.12",
+        "end": "2.386.14"
+      }
+    }
+  },
+  "ingredients": [
+    {
+      "ingredient_id": "paul-7-20-23:ingredient:riza-agrioy-sikyoy-1",
+      "ingredient_urn": "urn:aos:recipe-ingredient:paul-7-20-23:ingredient:riza-agrioy-sikyoy-1",
+      "source_span": "τῆς ῥίζης τοῦ ἀγρίου σικύου διαψυγείσης",
+      "surface_form": "τῆς ῥίζης τοῦ ἀγρίου σικύου διαψυγείσης",
+      "base_label": "ῥίζα ἀγρίου σικύου",
+      "normalized_label": "ῥίζα ἀγρίου σικύου",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [
+        "paul-7-20-23:process:diapsychein-1",
+        "paul-7-20-23:process:emballein-2"
+      ],
+      "quantities": [
+        {
+          "source_span": "𐆄 β",
+          "raw_number": "β",
+          "normalized_number": 2,
+          "raw_unit": "𐆄",
+          "normalized_unit": "uncia",
+          "certainty": "uncertain",
+          "notes": [
+            "The unit sign is preserved from the source without expansion."
+          ]
+        }
+      ],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "7",
+        "chapter": "20",
+        "section": "23",
+        "citation": {
+          "start": "2.386.12",
+          "end": "2.386.14"
+        }
+      }
+    },
+    {
+      "ingredient_id": "paul-7-20-23:ingredient:elaion-italikon-2",
+      "ingredient_urn": "urn:aos:recipe-ingredient:paul-7-20-23:ingredient:elaion-italikon-2",
+      "source_span": "τὸν Ἰταλικὸν τοῦ ἐλαίου",
+      "surface_form": "τὸν Ἰταλικὸν τοῦ ἐλαίου",
+      "base_label": "ἔλαιον Ἰταλικόν",
+      "normalized_label": "ἔλαιον Ἰταλικόν",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [],
+      "quantities": [
+        {
+          "source_span": "ξ̸",
+          "raw_number": "ξ̸",
+          "normalized_number": 60,
+          "raw_unit": null,
+          "normalized_unit": "xestes",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "7",
+        "chapter": "20",
+        "section": "23",
+        "citation": {
+          "start": "2.386.12",
+          "end": "2.386.14"
+        }
+      }
+    }
+  ],
+  "processes": [
+    {
+      "process_id": "paul-7-20-23:process:diapsychein-1",
+      "process_urn": "urn:aos:recipe-process:paul-7-20-23:process:diapsychein-1",
+      "source_span": "διαψυγείσης",
+      "surface_form": "διαψυγείσης",
+      "normalized_label": "διαψύχειν",
+      "target_type": "ingredient",
+      "target_ids": [
+        "paul-7-20-23:ingredient:riza-agrioy-sikyoy-1"
+      ],
+      "quantities": [],
+      "qualifiers": [],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "7",
+        "chapter": "20",
+        "section": "23",
+        "citation": {
+          "start": "2.386.12",
+          "end": "2.386.14"
+        }
+      }
+    },
+    {
+      "process_id": "paul-7-20-23:process:emballein-2",
+      "process_urn": "urn:aos:recipe-process:paul-7-20-23:process:emballein-2",
+      "source_span": "ἐμβαλλομένων",
+      "surface_form": "ἐμβαλλομένων",
+      "normalized_label": "ἐμβάλλειν",
+      "target_type": "ingredient",
+      "target_ids": [
+        "paul-7-20-23:ingredient:riza-agrioy-sikyoy-1"
+      ],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "location",
+          "source_span": "εἰς τὸν Ἰταλικὸν τοῦ ἐλαίου",
+          "normalized_value": "εἰς ἔλαιον Ἰταλικόν",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "7",
+        "chapter": "20",
+        "section": "23",
+        "citation": {
+          "start": "2.386.12",
+          "end": "2.386.14"
+        }
+      }
+    },
+    {
+      "process_id": "paul-7-20-23:process:epsein-3",
+      "process_urn": "urn:aos:recipe-process:paul-7-20-23:process:epsein-3",
+      "source_span": "ἑψομένης",
+      "surface_form": "ἑψομένης",
+      "normalized_label": "ἕψειν",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "location",
+          "source_span": "ἐν διπλώματι",
+          "normalized_value": "ἐν διπλώματι",
+          "certainty": "uncertain",
+          "notes": [
+            "The phrase identifies the boiling setting/apparatus without further specification."
+          ]
+        }
+      ],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "7",
+        "chapter": "20",
+        "section": "23",
+        "citation": {
+          "start": "2.386.12",
+          "end": "2.386.14"
+        }
+      }
+    }
+  ],
+  "materials": [
+    {
+      "material_id": "paul-7-20-23:material:diploma-1",
+      "material_urn": "urn:aos:recipe-material:paul-7-20-23:material:diploma-1",
+      "source_span": "διπλώματι",
+      "surface_form": "διπλώματι",
+      "normalized_label": "δίπλωμα",
+      "role": "apparatus",
+      "certainty": "uncertain",
+      "quantities": [],
+      "qualifiers": [],
+      "notes": [
+        "Mentioned as the vessel or setting for boiling."
+      ],
+      "host_locator": {
+        "book": "7",
+        "chapter": "20",
+        "section": "23",
+        "citation": {
+          "start": "2.386.12",
+          "end": "2.386.14"
+        }
+      }
+    }
+  ],
+  "people": [],
+  "places": [],
+  "uses": [],
+  "preparation_names": [],
+  "other_preparations_mentioned": [],
+  "works_mentioned": [],
+  "entities": [
+    {
+      "entity_urn": "urn:aos:recipe-preparation:paul-7-20-23:preparation:sikyonion",
+      "entity_type": "label",
+      "surface_form": "Σικυώνιον ἁπλοῦν",
+      "normalized_label": "Σικυώνιον"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:paul-7-20-23:ingredient:riza-agrioy-sikyoy-1",
+      "entity_type": "ingredient",
+      "surface_form": "τῆς ῥίζης τοῦ ἀγρίου σικύου διαψυγείσης",
+      "normalized_label": "ῥίζα ἀγρίου σικύου"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:paul-7-20-23:ingredient:elaion-italikon-2",
+      "entity_type": "ingredient",
+      "surface_form": "τὸν Ἰταλικὸν τοῦ ἐλαίου",
+      "normalized_label": "ἔλαιον Ἰταλικόν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:paul-7-20-23:process:diapsychein-1",
+      "entity_type": "process",
+      "surface_form": "διαψυγείσης",
+      "normalized_label": "διαψύχειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:paul-7-20-23:process:emballein-2",
+      "entity_type": "process",
+      "surface_form": "ἐμβαλλομένων",
+      "normalized_label": "ἐμβάλλειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:paul-7-20-23:process:epsein-3",
+      "entity_type": "process",
+      "surface_form": "ἑψομένης",
+      "normalized_label": "ἕψειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-material:paul-7-20-23:material:diploma-1",
+      "entity_type": "material",
+      "surface_form": "διπλώματι",
+      "normalized_label": "δίπλωμα"
+    }
+  ],
+  "canonical_file": "data/recipes/paul-7-20-23.json",
+  "source_entry": {
+    "source_id": "paul-7-20-23",
+    "derived_recipe_id": "paul-7-20-23",
+    "entry_kind": null,
+    "source_kind": null,
+    "source_lines": null,
+    "section_markers": []
+  },
+  "entity_groups": {
+    "labels": [
+      {
+        "entity_urn": "urn:aos:recipe-preparation:paul-7-20-23:preparation:sikyonion",
+        "surface_form": "Σικυώνιον ἁπλοῦν",
+        "normalized_label": "Σικυώνιον"
+      }
+    ],
+    "ingredients": [
+      {
+        "entity_urn": "urn:aos:recipe-ingredient:paul-7-20-23:ingredient:riza-agrioy-sikyoy-1",
+        "surface_form": "τῆς ῥίζης τοῦ ἀγρίου σικύου διαψυγείσης",
+        "normalized_label": "ῥίζα ἀγρίου σικύου",
+        "quantity_display": "𐆄 β"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-ingredient:paul-7-20-23:ingredient:elaion-italikon-2",
+        "surface_form": "τὸν Ἰταλικὸν τοῦ ἐλαίου",
+        "normalized_label": "ἔλαιον Ἰταλικόν",
+        "quantity_display": "ξ̸"
+      }
+    ],
+    "processes": [
+      {
+        "entity_urn": "urn:aos:recipe-process:paul-7-20-23:process:diapsychein-1",
+        "surface_form": "διαψυγείσης",
+        "normalized_label": "διαψύχειν"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-process:paul-7-20-23:process:emballein-2",
+        "surface_form": "ἐμβαλλομένων",
+        "normalized_label": "ἐμβάλλειν"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-process:paul-7-20-23:process:epsein-3",
+        "surface_form": "ἑψομένης",
+        "normalized_label": "ἕψειν"
+      }
+    ],
+    "tools": [
+      {
+        "entity_urn": "urn:aos:recipe-material:paul-7-20-23:material:diploma-1",
+        "surface_form": "διπλώματι",
+        "normalized_label": "δίπλωμα"
+      }
+    ],
+    "other_preparations_mentioned": [],
+    "people": [],
+    "places": [],
+    "works_mentioned": [],
+    "preparation_names": []
+  }
+}

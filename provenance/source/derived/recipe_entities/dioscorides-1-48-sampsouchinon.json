@@ -1,0 +1,917 @@
+{
+  "dataset_key": "dioscorides_book1_perfumes_resins",
+  "source_json": "experiments/dioscorides-book1-perfumes-resins/data/dioscorides_book1_perfumes_resins.json",
+  "host_raw_file": "tei/raw/tlg0656.tlg001.1st1K-grc1.xml",
+  "work_slug": "diosc.b1.recipes",
+  "recipe_id": "dioscorides-1-48-sampsouchinon",
+  "recipe_urn": "urn:aos:recipe:dioscorides-1-48-sampsouchinon",
+  "record_urn": "urn:aos:recipe-record:dioscorides-1-48-sampsouchinon",
+  "author": "Dioscorides",
+  "work": "De materia medica",
+  "book": "1",
+  "chapter": "48",
+  "section": null,
+  "chapter_name": "σαμψουχῖνον",
+  "lemma": "σαμψουχῖνον",
+  "text": "48 σαμψουχίνου σκευασία· ἑρπύλλου, κασσίας, ἁβροτόνου, σισυμβρίου ἄνθους, μυρσίνης πετάλων, σαμψούχου, ἑκάστου αὐτῶν λαμβάνων στοχασμῷ πρὸς τὴν ἑκάστου αὐτῶν δύναμιν ἀποβλέπων, κόπτε ἐν τῷ αὐτῷ πάντα καὶ ἐπίχεε ἐλαίου ὀμφακίνου τοσοῦτον, ὥστε μὴ κατακρατεῖσθαι τὴν δύναμιν τῶν ἐν αὐτῷ βρεχομένων, καὶ ἔασον ἡμέρας τέσσαρας καὶ ἔκθλιβε, καὶ πάλιν τὸ αὐτὸ πλῆθος τῶν αὐτῶν προσφάτων ἀπόβρεχε τὸν ἴσον χρόνον καὶ ἐξίπου ἔστι γὰρ εὐτονώτερον. ἐκλέγου δὲ τὸ μελάγχλωρον τῇ χρόᾳ, σαμψούχου πολλῆς ὄζον, μετρίως δριμύ. 2 δύναμιν δὲ ἔχει θερμαντικήν, λεπτυντικήν, δριμεῖαν. ποιεῖ δὲ πρὸς μύσιν καὶ διαστροφὴν ὑστέρας καὶ ἔμμηνα καὶ δεύτερα ἐπισπᾶται καὶ πνίγας ὑστερικὰς ἀνακτᾶται ὀσφύων τε καὶ βουβώνων ἀλγήματα πραύνει. σὺν μέλιτι δὲ αὐτῷ χρῆσθαι βέλτιον, ἐπειδὴ τῇ σφοδρᾷ στύψει σκληρύνει τοὺς τόπους· λύει καὶ κόπους συγχριόμενον, εἴς τε τὰ ἐπὶ τῶν ὀπισθοτονικῶν καταπλάσματα ἐπιτηδείως μείγνυται καὶ τῶν ἄλλως σπωμένων.",
+  "original_text": null,
+  "text_source": null,
+  "emendations": [],
+  "emendation_count": 0,
+  "source_kind": "main_text",
+  "entry_kind": "recipe",
+  "citation": {
+    "pages": [
+      "45",
+      "46"
+    ],
+    "start": {
+      "page": "45",
+      "line": "20"
+    },
+    "end": {
+      "page": "46",
+      "line": "10"
+    },
+    "citation": {
+      "start": "45.20",
+      "end": "46.10"
+    },
+    "page_spans": [
+      {
+        "page": "45",
+        "start_line": "20",
+        "end_line": "20"
+      },
+      {
+        "page": "46",
+        "start_line": "1",
+        "end_line": "10"
+      }
+    ],
+    "lines": [
+      {
+        "page": "45",
+        "line": "20",
+        "break_no": false,
+        "text": "48 σαμψουχίνου σκευασία· ἑρπύλλου, κασσίας, ἁβροτόνου, σισυμβρίου ἄνθους, μυρσίνης πετάλων, σαμψούχου, ἑκάστου αὐτῶν λαμβάνων στοχασμῷ πρὸς τὴν ἑκάστου αὐτῶν δύναμιν",
+        "citation": "45.20"
+      },
+      {
+        "page": "46",
+        "line": "1",
+        "break_no": false,
+        "text": "ἀποβλέπων, κόπτε ἐν τῷ αὐτῷ πάντα καὶ ἐπίχεε ἐλαίου ὀμφακίνου τοσοῦτον, ὥστε μὴ κατακρατεῖσθαι τὴν δύναμιν τῶν ἐν αὐτῷ βρεχομένων, καὶ ἔασον ἡμέρας τέσσαρας καὶ ἔκθλιβε, καὶ πάλιν τὸ αὐτὸ πλῆθος τῶν αὐτῶν προσφάτων ἀπόβρεχε τὸν ἴσον χρόνον καὶ ἐξίπου ἔστι γὰρ εὐτονώτερον. ἐκλέγου δὲ",
+        "citation": "46.1"
+      },
+      {
+        "page": "46",
+        "line": "5",
+        "break_no": false,
+        "text": "τὸ μελάγχλωρον τῇ χρόᾳ, σαμψούχου πολλῆς ὄζον, μετρίως δριμύ. 2 δύναμιν δὲ ἔχει θερμαντικήν, λεπτυντικήν, δριμεῖαν. ποιεῖ δὲ πρὸς μύσιν καὶ διαστροφὴν ὑστέρας καὶ ἔμμηνα καὶ δεύτερα ἐπισπᾶται καὶ πνίγας ὑστερικὰς ἀνακτᾶται ὀσφύων τε καὶ βουβώνων ἀλγήματα πραύνει. σὺν μέλιτι δὲ αὐτῷ χρῆσθαι βέλτιον,",
+        "citation": "46.5"
+      },
+      {
+        "page": "46",
+        "line": "10",
+        "break_no": false,
+        "text": "ἐπειδὴ τῇ σφοδρᾷ στύψει σκληρύνει τοὺς τόπους· λύει καὶ κόπους συγχριόμενον, εἴς τε τὰ ἐπὶ τῶν ὀπισθοτονικῶν καταπλάσματα ἐπιτηδείως μείγνυται καὶ τῶν ἄλλως σπωμένων.",
+        "citation": "46.10"
+      }
+    ],
+    "edition_key": "wellmann"
+  },
+  "notes": [
+    "Raw lines 1590-1633 are book 1 chapter 25 in this witness, although the prompt referred to chapter 35.",
+    "The perfume proemium is taken from the later transition at chapter 42 section 2 (raw lines 2306-2342), not from the chapter 25 κῦφι entry.",
+    "The ἰασμέλαιον entry is preserved only in the apparatus as an addition from another recension.",
+    "δύναμιν δὲ ἔχει θερμαντικήν, λεπτυντικήν, δριμεῖαν.",
+    "Τὸ ῥηματικὸν εἶδος «ἐξίπου» δὲν ἐξηγέρθη μετὰ βεβαιότητος καὶ δὲν ἐχωρίσθη ὡς αὐτοτελὴς διαδικασία."
+  ],
+  "alignment_status": "pending",
+  "alignment_confidence": "pending",
+  "alignment_evidence": null,
+  "review_status": "reviewed_structured_authority",
+  "review_provenance": {
+    "authority_source": "reports/entity_review/structured/dioscorides.json",
+    "authority_recipe_id": "dioscorides-1-48-sampsouchinon",
+    "authority_lemma": "σαμψουχῖνον",
+    "model": "gpt-5.4",
+    "reasoning_effort": "high",
+    "dataset_key": "dioscorides_book1_perfumes_resins",
+    "entity_model_version": "1.2",
+    "authority_version": "2026-04-13-qty-alt-v1",
+    "prompt_version": "qty-alt-pass-v1",
+    "build_version": "2026-05-18T15:51:35Z"
+  },
+  "schema_version": "1.2",
+  "build_metadata": {
+    "builder": "scripts/recipes/build_recipe_entities.py",
+    "built_at": "2026-05-18T15:51:35Z",
+    "source_structured_authority": "reports/entity_review/structured/dioscorides.json",
+    "authority_model": "gpt-5.4",
+    "authority_reasoning_effort": "high",
+    "dataset_key": "dioscorides_book1_perfumes_resins",
+    "entity_model_version": "1.2",
+    "authority_version": "2026-04-13-qty-alt-v1",
+    "prompt_version": "qty-alt-pass-v1",
+    "build_version": "2026-05-18T15:51:35Z"
+  },
+  "recipe_text_excerpt": "σαμψουχίνου σκευασία· ἑρπύλλου, κασσίας, ἁβροτόνου, σισυμβρίου ἄνθους, μυρσίνης πετάλων, σαμψούχου, ἑκάστου αὐτῶν λαμβάνων στοχασμῷ πρὸς τὴν ἑκάστου αὐτῶν δύναμιν ἀποβλέπων,",
+  "preparation": {
+    "preparation_id": "dioscorides-1-48-sampsouchinon:preparation:sampsoychinon",
+    "preparation_urn": "urn:aos:recipe-preparation:dioscorides-1-48-sampsouchinon:preparation:sampsoychinon",
+    "source_span": "σαμψουχῖνον",
+    "surface_form": "σαμψουχῖνον",
+    "normalized_label": "σαμψουχῖνον",
+    "qualifiers": [
+      {
+        "qualifier_type": "cycle_count",
+        "source_span": "καὶ πάλιν τὸ αὐτὸ πλῆθος τῶν αὐτῶν προσφάτων ἀπόβρεχε τὸν ἴσον χρόνον καὶ ἐξίπου",
+        "normalized_value": "repeated soaking and expression with a fresh second batch",
+        "certainty": "certain",
+        "notes": []
+      }
+    ],
+    "regimen_notes": [
+      {
+        "source_span": "ἔστι γὰρ εὐτονώτερον",
+        "normalized_note": "the repeated cycle makes the preparation stronger",
+        "certainty": "certain",
+        "notes": []
+      }
+    ],
+    "certainty": "certain",
+    "notes": [
+      "Used lemma because the running text gives the heading as «σαμψουχίνου σκευασία» rather than a clean lexical restatement of the preparation name."
+    ],
+    "host_locator": {
+      "book": "1",
+      "chapter": "48",
+      "section": null,
+      "citation": {
+        "start": "45.20",
+        "end": "46.10"
+      }
+    }
+  },
+  "ingredients": [
+    {
+      "ingredient_id": "dioscorides-1-48-sampsouchinon:ingredient:erpyllon-1",
+      "ingredient_urn": "urn:aos:recipe-ingredient:dioscorides-1-48-sampsouchinon:ingredient:erpyllon-1",
+      "source_span": "ἑρπύλλου",
+      "surface_form": "ἑρπύλλου",
+      "base_label": "ἑρπύλλου",
+      "normalized_label": "ἕρπυλλον",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [
+        "dioscorides-1-48-sampsouchinon:process:lambanein-1",
+        "dioscorides-1-48-sampsouchinon:process:koptein-2",
+        "dioscorides-1-48-sampsouchinon:process:apobrechein-6"
+      ],
+      "quantities": [],
+      "qualifiers": [],
+      "notes": [
+        "λαμβάνεται κατὰ στοχασμὸν πρὸς τὴν δύναμιν."
+      ],
+      "host_locator": {
+        "book": "1",
+        "chapter": "48",
+        "section": null,
+        "citation": {
+          "start": "45.20",
+          "end": "46.10"
+        }
+      }
+    },
+    {
+      "ingredient_id": "dioscorides-1-48-sampsouchinon:ingredient:kassia-2",
+      "ingredient_urn": "urn:aos:recipe-ingredient:dioscorides-1-48-sampsouchinon:ingredient:kassia-2",
+      "source_span": "κασσίας",
+      "surface_form": "κασσίας",
+      "base_label": "κασσίας",
+      "normalized_label": "κασσία",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [
+        "dioscorides-1-48-sampsouchinon:process:lambanein-1",
+        "dioscorides-1-48-sampsouchinon:process:koptein-2",
+        "dioscorides-1-48-sampsouchinon:process:apobrechein-6"
+      ],
+      "quantities": [],
+      "qualifiers": [],
+      "notes": [
+        "λαμβάνεται κατὰ στοχασμὸν πρὸς τὴν δύναμιν."
+      ],
+      "host_locator": {
+        "book": "1",
+        "chapter": "48",
+        "section": null,
+        "citation": {
+          "start": "45.20",
+          "end": "46.10"
+        }
+      }
+    },
+    {
+      "ingredient_id": "dioscorides-1-48-sampsouchinon:ingredient:abrotonon-3",
+      "ingredient_urn": "urn:aos:recipe-ingredient:dioscorides-1-48-sampsouchinon:ingredient:abrotonon-3",
+      "source_span": "ἁβροτόνου",
+      "surface_form": "ἁβροτόνου",
+      "base_label": "ἁβροτόνου",
+      "normalized_label": "ἁβρότονον",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [
+        "dioscorides-1-48-sampsouchinon:process:lambanein-1",
+        "dioscorides-1-48-sampsouchinon:process:koptein-2",
+        "dioscorides-1-48-sampsouchinon:process:apobrechein-6"
+      ],
+      "quantities": [],
+      "qualifiers": [],
+      "notes": [
+        "λαμβάνεται κατὰ στοχασμὸν πρὸς τὴν δύναμιν."
+      ],
+      "host_locator": {
+        "book": "1",
+        "chapter": "48",
+        "section": null,
+        "citation": {
+          "start": "45.20",
+          "end": "46.10"
+        }
+      }
+    },
+    {
+      "ingredient_id": "dioscorides-1-48-sampsouchinon:ingredient:anthos-sisymbrioy-4",
+      "ingredient_urn": "urn:aos:recipe-ingredient:dioscorides-1-48-sampsouchinon:ingredient:anthos-sisymbrioy-4",
+      "source_span": "σισυμβρίου ἄνθους",
+      "surface_form": "σισυμβρίου ἄνθους",
+      "base_label": "ἄνθους",
+      "normalized_label": "ἄνθος σισυμβρίου",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [
+        "dioscorides-1-48-sampsouchinon:process:lambanein-1",
+        "dioscorides-1-48-sampsouchinon:process:koptein-2",
+        "dioscorides-1-48-sampsouchinon:process:apobrechein-6"
+      ],
+      "quantities": [],
+      "qualifiers": [],
+      "notes": [
+        "λαμβάνεται κατὰ στοχασμὸν πρὸς τὴν δύναμιν."
+      ],
+      "host_locator": {
+        "book": "1",
+        "chapter": "48",
+        "section": null,
+        "citation": {
+          "start": "45.20",
+          "end": "46.10"
+        }
+      }
+    },
+    {
+      "ingredient_id": "dioscorides-1-48-sampsouchinon:ingredient:petala-myrsines-5",
+      "ingredient_urn": "urn:aos:recipe-ingredient:dioscorides-1-48-sampsouchinon:ingredient:petala-myrsines-5",
+      "source_span": "μυρσίνης πετάλων",
+      "surface_form": "μυρσίνης πετάλων",
+      "base_label": "πετάλων",
+      "normalized_label": "πέταλα μυρσίνης",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [
+        "dioscorides-1-48-sampsouchinon:process:lambanein-1",
+        "dioscorides-1-48-sampsouchinon:process:koptein-2",
+        "dioscorides-1-48-sampsouchinon:process:apobrechein-6"
+      ],
+      "quantities": [],
+      "qualifiers": [],
+      "notes": [
+        "λαμβάνεται κατὰ στοχασμὸν πρὸς τὴν δύναμιν."
+      ],
+      "host_locator": {
+        "book": "1",
+        "chapter": "48",
+        "section": null,
+        "citation": {
+          "start": "45.20",
+          "end": "46.10"
+        }
+      }
+    },
+    {
+      "ingredient_id": "dioscorides-1-48-sampsouchinon:ingredient:sampsoychon-6",
+      "ingredient_urn": "urn:aos:recipe-ingredient:dioscorides-1-48-sampsouchinon:ingredient:sampsoychon-6",
+      "source_span": "σαμψούχου",
+      "surface_form": "σαμψούχου",
+      "base_label": "σαμψούχου",
+      "normalized_label": "σαμψοῦχον",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [
+        "dioscorides-1-48-sampsouchinon:process:lambanein-1",
+        "dioscorides-1-48-sampsouchinon:process:koptein-2",
+        "dioscorides-1-48-sampsouchinon:process:apobrechein-6"
+      ],
+      "quantities": [],
+      "qualifiers": [],
+      "notes": [
+        "λαμβάνεται κατὰ στοχασμὸν πρὸς τὴν δύναμιν."
+      ],
+      "host_locator": {
+        "book": "1",
+        "chapter": "48",
+        "section": null,
+        "citation": {
+          "start": "45.20",
+          "end": "46.10"
+        }
+      }
+    }
+  ],
+  "processes": [
+    {
+      "process_id": "dioscorides-1-48-sampsouchinon:process:lambanein-1",
+      "process_urn": "urn:aos:recipe-process:dioscorides-1-48-sampsouchinon:process:lambanein-1",
+      "source_span": "λαμβάνων",
+      "surface_form": "λαμβάνων",
+      "normalized_label": "λαμβάνειν",
+      "target_type": "ingredient",
+      "target_ids": [
+        "dioscorides-1-48-sampsouchinon:ingredient:erpyllon-1",
+        "dioscorides-1-48-sampsouchinon:ingredient:kassia-2",
+        "dioscorides-1-48-sampsouchinon:ingredient:abrotonon-3",
+        "dioscorides-1-48-sampsouchinon:ingredient:anthos-sisymbrioy-4",
+        "dioscorides-1-48-sampsouchinon:ingredient:petala-myrsines-5",
+        "dioscorides-1-48-sampsouchinon:ingredient:sampsoychon-6"
+      ],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "manner",
+          "source_span": "στοχασμῷ",
+          "normalized_value": "στοχασμῷ",
+          "certainty": "certain",
+          "notes": []
+        },
+        {
+          "qualifier_type": "other",
+          "source_span": "πρὸς τὴν ἑκάστου αὐτῶν δύναμιν ἀποβλέπων",
+          "normalized_value": "πρὸς τὴν ἑκάστου δύναμιν",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "48",
+        "section": null,
+        "citation": {
+          "start": "45.20",
+          "end": "46.10"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-1-48-sampsouchinon:process:koptein-2",
+      "process_urn": "urn:aos:recipe-process:dioscorides-1-48-sampsouchinon:process:koptein-2",
+      "source_span": "κόπτε",
+      "surface_form": "κόπτε",
+      "normalized_label": "κόπτειν",
+      "target_type": "ingredient",
+      "target_ids": [
+        "dioscorides-1-48-sampsouchinon:ingredient:erpyllon-1",
+        "dioscorides-1-48-sampsouchinon:ingredient:kassia-2",
+        "dioscorides-1-48-sampsouchinon:ingredient:abrotonon-3",
+        "dioscorides-1-48-sampsouchinon:ingredient:anthos-sisymbrioy-4",
+        "dioscorides-1-48-sampsouchinon:ingredient:petala-myrsines-5",
+        "dioscorides-1-48-sampsouchinon:ingredient:sampsoychon-6"
+      ],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "location",
+          "source_span": "ἐν τῷ αὐτῷ",
+          "normalized_value": null,
+          "certainty": "uncertain",
+          "notes": [
+            "Τὸ ἀναφερόμενον δοχεῖον ἢ σκεῦος δὲν ὀνομάζεται."
+          ]
+        }
+      ],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "48",
+        "section": null,
+        "citation": {
+          "start": "45.20",
+          "end": "46.10"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-1-48-sampsouchinon:process:epicheein-3",
+      "process_urn": "urn:aos:recipe-process:dioscorides-1-48-sampsouchinon:process:epicheein-3",
+      "source_span": "ἐπίχεε",
+      "surface_form": "ἐπίχεε",
+      "normalized_label": "ἐπιχέειν",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [
+        {
+          "source_span": "τοσοῦτον",
+          "raw_number": null,
+          "normalized_number": null,
+          "raw_unit": null,
+          "normalized_unit": null,
+          "certainty": "uncertain",
+          "notes": [
+            "Ἀόριστον ποσόν, ὅσον ἀρκεῖ πρὸς τὴν βροχήν."
+          ]
+        }
+      ],
+      "qualifiers": [
+        {
+          "qualifier_type": "other",
+          "source_span": "ὥστε μὴ κατακρατεῖσθαι τὴν δύναμιν τῶν ἐν αὐτῷ βρεχομένων",
+          "normalized_value": "μὴ κατακρατεῖσθαι τὴν δύναμιν τῶν βρεχομένων",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "48",
+        "section": null,
+        "citation": {
+          "start": "45.20",
+          "end": "46.10"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-1-48-sampsouchinon:process:ean-4",
+      "process_urn": "urn:aos:recipe-process:dioscorides-1-48-sampsouchinon:process:ean-4",
+      "source_span": "ἔασον",
+      "surface_form": "ἔασον",
+      "normalized_label": "ἐᾶν",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "duration",
+          "source_span": "ἡμέρας τέσσαρας",
+          "normalized_value": "4 ἡμέραι",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "48",
+        "section": null,
+        "citation": {
+          "start": "45.20",
+          "end": "46.10"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-1-48-sampsouchinon:process:ekthlibein-5",
+      "process_urn": "urn:aos:recipe-process:dioscorides-1-48-sampsouchinon:process:ekthlibein-5",
+      "source_span": "ἔκθλιβε",
+      "surface_form": "ἔκθλιβε",
+      "normalized_label": "ἐκθλίβειν",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "48",
+        "section": null,
+        "citation": {
+          "start": "45.20",
+          "end": "46.10"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-1-48-sampsouchinon:process:apobrechein-6",
+      "process_urn": "urn:aos:recipe-process:dioscorides-1-48-sampsouchinon:process:apobrechein-6",
+      "source_span": "ἀπόβρεχε",
+      "surface_form": "ἀπόβρεχε",
+      "normalized_label": "ἀποβρέχειν",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [
+        {
+          "source_span": "τὸ αὐτὸ πλῆθος",
+          "raw_number": null,
+          "normalized_number": "same",
+          "raw_unit": "πλῆθος",
+          "normalized_unit": null,
+          "certainty": "uncertain",
+          "notes": [
+            "Τὸ ποσὸν τῶν προσφάτων ἴσον τῷ προτέρῳ."
+          ]
+        }
+      ],
+      "qualifiers": [
+        {
+          "qualifier_type": "manner",
+          "source_span": "πάλιν",
+          "normalized_value": "πάλιν",
+          "certainty": "certain",
+          "notes": []
+        },
+        {
+          "qualifier_type": "other",
+          "source_span": "τῶν αὐτῶν προσφάτων",
+          "normalized_value": "τὰ αὐτὰ πρόσφατα",
+          "certainty": "certain",
+          "notes": []
+        },
+        {
+          "qualifier_type": "duration",
+          "source_span": "τὸν ἴσον χρόνον",
+          "normalized_value": "ἴσος χρόνος",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "48",
+        "section": null,
+        "citation": {
+          "start": "45.20",
+          "end": "46.10"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-1-48-sampsouchinon:process:eklegein-7",
+      "process_urn": "urn:aos:recipe-process:dioscorides-1-48-sampsouchinon:process:eklegein-7",
+      "source_span": "ἐκλέγου",
+      "surface_form": "ἐκλέγου",
+      "normalized_label": "ἐκλέγειν",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "color",
+          "source_span": "τὸ μελάγχλωρον τῇ χρόᾳ",
+          "normalized_value": "μελάγχλωρον",
+          "certainty": "certain",
+          "notes": []
+        },
+        {
+          "qualifier_type": "other",
+          "source_span": "σαμψούχου πολλῆς ὄζον",
+          "normalized_value": "σαμψούχου πολλῆς ὄζον",
+          "certainty": "certain",
+          "notes": []
+        },
+        {
+          "qualifier_type": "other",
+          "source_span": "μετρίως δριμύ",
+          "normalized_value": "μετρίως δριμύ",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "48",
+        "section": null,
+        "citation": {
+          "start": "45.20",
+          "end": "46.10"
+        }
+      }
+    }
+  ],
+  "materials": [
+    {
+      "material_id": "dioscorides-1-48-sampsouchinon:material:elaion-omphakinon-1",
+      "material_urn": "urn:aos:recipe-material:dioscorides-1-48-sampsouchinon:material:elaion-omphakinon-1",
+      "source_span": "ἐλαίου ὀμφακίνου",
+      "surface_form": "ἐλαίου ὀμφακίνου",
+      "normalized_label": "ἔλαιον ὀμφάκινον",
+      "role": "carrier",
+      "certainty": "certain",
+      "quantities": [],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "48",
+        "section": null,
+        "citation": {
+          "start": "45.20",
+          "end": "46.10"
+        }
+      }
+    },
+    {
+      "material_id": "dioscorides-1-48-sampsouchinon:material:meli-2",
+      "material_urn": "urn:aos:recipe-material:dioscorides-1-48-sampsouchinon:material:meli-2",
+      "source_span": "μέλιτι",
+      "surface_form": "μέλιτι",
+      "normalized_label": "μέλι",
+      "role": "adjunct_material",
+      "certainty": "certain",
+      "quantities": [],
+      "qualifiers": [],
+      "notes": [
+        "Συνοδεύει τὴν χρῆσιν, οὐ τὴν παρασκευήν."
+      ],
+      "host_locator": {
+        "book": "1",
+        "chapter": "48",
+        "section": null,
+        "citation": {
+          "start": "45.20",
+          "end": "46.10"
+        }
+      }
+    }
+  ],
+  "people": [],
+  "places": [],
+  "uses": [
+    {
+      "use_id": "dioscorides-1-48-sampsouchinon:use:poiei-de-pros-mysin-kai-diastrophen-ysteras-1",
+      "use_urn": "urn:aos:recipe-use:dioscorides-1-48-sampsouchinon:use:poiei-de-pros-mysin-kai-diastrophen-ysteras-1",
+      "category": "medical",
+      "source_span": "ποιεῖ δὲ πρὸς μύσιν καὶ διαστροφὴν ὑστέρας",
+      "snippet": "ποιεῖ δὲ πρὸς μύσιν καὶ διαστροφὴν ὑστέρας",
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "48",
+        "section": null,
+        "citation": {
+          "start": "45.20",
+          "end": "46.10"
+        }
+      }
+    },
+    {
+      "use_id": "dioscorides-1-48-sampsouchinon:use:emmena-kai-deytera-epispatai-2",
+      "use_urn": "urn:aos:recipe-use:dioscorides-1-48-sampsouchinon:use:emmena-kai-deytera-epispatai-2",
+      "category": "medical",
+      "source_span": "ἔμμηνα καὶ δεύτερα ἐπισπᾶται",
+      "snippet": "ἔμμηνα καὶ δεύτερα ἐπισπᾶται",
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "48",
+        "section": null,
+        "citation": {
+          "start": "45.20",
+          "end": "46.10"
+        }
+      }
+    },
+    {
+      "use_id": "dioscorides-1-48-sampsouchinon:use:pnigas-ysterikas-anaktatai-3",
+      "use_urn": "urn:aos:recipe-use:dioscorides-1-48-sampsouchinon:use:pnigas-ysterikas-anaktatai-3",
+      "category": "medical",
+      "source_span": "πνίγας ὑστερικὰς ἀνακτᾶται",
+      "snippet": "πνίγας ὑστερικὰς ἀνακτᾶται",
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "48",
+        "section": null,
+        "citation": {
+          "start": "45.20",
+          "end": "46.10"
+        }
+      }
+    },
+    {
+      "use_id": "dioscorides-1-48-sampsouchinon:use:osphyon-te-kai-boybonon-algemata-praynei-4",
+      "use_urn": "urn:aos:recipe-use:dioscorides-1-48-sampsouchinon:use:osphyon-te-kai-boybonon-algemata-praynei-4",
+      "category": "medical",
+      "source_span": "ὀσφύων τε καὶ βουβώνων ἀλγήματα πραύνει",
+      "snippet": "ὀσφύων τε καὶ βουβώνων ἀλγήματα πραύνει",
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "48",
+        "section": null,
+        "citation": {
+          "start": "45.20",
+          "end": "46.10"
+        }
+      }
+    },
+    {
+      "use_id": "dioscorides-1-48-sampsouchinon:use:syn-meliti-de-ayto-chresthai-beltion-5",
+      "use_urn": "urn:aos:recipe-use:dioscorides-1-48-sampsouchinon:use:syn-meliti-de-ayto-chresthai-beltion-5",
+      "category": "medical",
+      "source_span": "σὺν μέλιτι δὲ αὐτῷ χρῆσθαι βέλτιον",
+      "snippet": "σὺν μέλιτι δὲ αὐτῷ χρῆσθαι βέλτιον",
+      "certainty": "certain",
+      "notes": [
+        "Σύστασις τρόπου χρήσεως."
+      ],
+      "host_locator": {
+        "book": "1",
+        "chapter": "48",
+        "section": null,
+        "citation": {
+          "start": "45.20",
+          "end": "46.10"
+        }
+      }
+    },
+    {
+      "use_id": "dioscorides-1-48-sampsouchinon:use:lyei-kai-kopoys-sygchriomenon-6",
+      "use_urn": "urn:aos:recipe-use:dioscorides-1-48-sampsouchinon:use:lyei-kai-kopoys-sygchriomenon-6",
+      "category": "medical",
+      "source_span": "λύει καὶ κόπους συγχριόμενον",
+      "snippet": "λύει καὶ κόπους συγχριόμενον",
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "48",
+        "section": null,
+        "citation": {
+          "start": "45.20",
+          "end": "46.10"
+        }
+      }
+    },
+    {
+      "use_id": "dioscorides-1-48-sampsouchinon:use:eis-te-ta-epi-ton-opisthotonikon-kataplasmata-epitedeios-meignytai-kai-ton-allos-spomenon-7",
+      "use_urn": "urn:aos:recipe-use:dioscorides-1-48-sampsouchinon:use:eis-te-ta-epi-ton-opisthotonikon-kataplasmata-epitedeios-meignytai-kai-ton-allos-spomenon-7",
+      "category": "medical",
+      "source_span": "εἴς τε τὰ ἐπὶ τῶν ὀπισθοτονικῶν καταπλάσματα ἐπιτηδείως μείγνυται καὶ τῶν ἄλλως σπωμένων",
+      "snippet": "εἴς τε τὰ ἐπὶ τῶν ὀπισθοτονικῶν καταπλάσματα ἐπιτηδείως μείγνυται καὶ τῶν ἄλλως σπωμένων",
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "48",
+        "section": null,
+        "citation": {
+          "start": "45.20",
+          "end": "46.10"
+        }
+      }
+    }
+  ],
+  "preparation_names": [],
+  "other_preparations_mentioned": [
+    {
+      "reference_id": "dioscorides-1-48-sampsouchinon:reference:kataplasma-1",
+      "reference_urn": "urn:aos:recipe-reference:dioscorides-1-48-sampsouchinon:reference:kataplasma-1",
+      "source_span": "καταπλάσματα",
+      "surface_form": "καταπλάσματα",
+      "normalized_label": "κατάπλασμα",
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "48",
+        "section": null,
+        "citation": {
+          "start": "45.20",
+          "end": "46.10"
+        }
+      }
+    }
+  ],
+  "works_mentioned": [],
+  "entities": [
+    {
+      "entity_urn": "urn:aos:recipe-preparation:dioscorides-1-48-sampsouchinon:preparation:sampsoychinon",
+      "entity_type": "label",
+      "surface_form": "σαμψουχῖνον",
+      "normalized_label": "σαμψουχῖνον"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:dioscorides-1-48-sampsouchinon:ingredient:erpyllon-1",
+      "entity_type": "ingredient",
+      "surface_form": "ἑρπύλλου",
+      "normalized_label": "ἕρπυλλον"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:dioscorides-1-48-sampsouchinon:ingredient:kassia-2",
+      "entity_type": "ingredient",
+      "surface_form": "κασσίας",
+      "normalized_label": "κασσία"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:dioscorides-1-48-sampsouchinon:ingredient:abrotonon-3",
+      "entity_type": "ingredient",
+      "surface_form": "ἁβροτόνου",
+      "normalized_label": "ἁβρότονον"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:dioscorides-1-48-sampsouchinon:ingredient:anthos-sisymbrioy-4",
+      "entity_type": "ingredient",
+      "surface_form": "σισυμβρίου ἄνθους",
+      "normalized_label": "ἄνθος σισυμβρίου"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:dioscorides-1-48-sampsouchinon:ingredient:petala-myrsines-5",
+      "entity_type": "ingredient",
+      "surface_form": "μυρσίνης πετάλων",
+      "normalized_label": "πέταλα μυρσίνης"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:dioscorides-1-48-sampsouchinon:ingredient:sampsoychon-6",
+      "entity_type": "ingredient",
+      "surface_form": "σαμψούχου",
+      "normalized_label": "σαμψοῦχον"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-1-48-sampsouchinon:process:lambanein-1",
+      "entity_type": "process",
+      "surface_form": "λαμβάνων",
+      "normalized_label": "λαμβάνειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-1-48-sampsouchinon:process:koptein-2",
+      "entity_type": "process",
+      "surface_form": "κόπτε",
+      "normalized_label": "κόπτειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-1-48-sampsouchinon:process:epicheein-3",
+      "entity_type": "process",
+      "surface_form": "ἐπίχεε",
+      "normalized_label": "ἐπιχέειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-1-48-sampsouchinon:process:ean-4",
+      "entity_type": "process",
+      "surface_form": "ἔασον",
+      "normalized_label": "ἐᾶν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-1-48-sampsouchinon:process:ekthlibein-5",
+      "entity_type": "process",
+      "surface_form": "ἔκθλιβε",
+      "normalized_label": "ἐκθλίβειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-1-48-sampsouchinon:process:apobrechein-6",
+      "entity_type": "process",
+      "surface_form": "ἀπόβρεχε",
+      "normalized_label": "ἀποβρέχειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-1-48-sampsouchinon:process:eklegein-7",
+      "entity_type": "process",
+      "surface_form": "ἐκλέγου",
+      "normalized_label": "ἐκλέγειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-material:dioscorides-1-48-sampsouchinon:material:elaion-omphakinon-1",
+      "entity_type": "material",
+      "surface_form": "ἐλαίου ὀμφακίνου",
+      "normalized_label": "ἔλαιον ὀμφάκινον"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-material:dioscorides-1-48-sampsouchinon:material:meli-2",
+      "entity_type": "material",
+      "surface_form": "μέλιτι",
+      "normalized_label": "μέλι"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-reference:dioscorides-1-48-sampsouchinon:reference:kataplasma-1",
+      "entity_type": "preparation_reference",
+      "surface_form": "καταπλάσματα",
+      "normalized_label": "κατάπλασμα"
+    }
+  ]
+}

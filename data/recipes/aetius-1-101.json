@@ -1,0 +1,598 @@
+{
+  "dataset_key": "aetius_book1_oils",
+  "source_json": "experiments/aetius-book1-ch99-136-oils/data/aetius_book1_ch99_136_oils.json",
+  "host_raw_file": "tei/raw/tlg0718001.xml",
+  "work_slug": "aetius.b1.oils",
+  "recipe_id": "aetius-1-101",
+  "recipe_urn": "urn:aos:recipe:aetius-1-101",
+  "record_urn": "urn:aos:recipe-record:aetius-1-101",
+  "author": "Aëtius of Amida",
+  "work": "Libri medicinales",
+  "book": "1",
+  "chapter": "101",
+  "section": "101",
+  "chapter_name": "Ἔλαιον κίκινον",
+  "lemma": "Ἔλαιον κίκινον",
+  "text": "Ἔλαιον κίκινον. Τὸ δὲ κίκινον κατ' Αἴγυπτον γίγνεται, τοῦ σπέρματος τῆς κίκεως, ὃ καλεῖται κρότωνες, κοπτομένου ἢ θλιβομένου ἢ δι' ὕδατος θερμοῦ ἀναλεγομένου. ἐστὶ δὲ λεπτομερὲς καὶ διαφορητικὸν ὡς τὸ παλαιὸν ἔλαιον. σμήχει δὲ ἀλφοὺς ἐφήλεις φακοὺς συνεχῶς χριόμενον. παραπλήσιον δὲ τῷ ῥαφανίνῳ ἐστί, διὸ χρηστέον αὐτῷ, μὴ παρόντος κικίνου, ἢ τῷ παλαιῷ.",
+  "original_text": "Ἔλαιον κίκινον. Τὸ δὲ κίκινον κατ' Αἴγυπτον γίγνεται, τοῦ σπέρματος τῆς κίκεως, ὃ καλεῖται κρότωνες, κοπτομένου ἢ θλιβομένου ἢ δι' ὕδατος θερμοῦ ἀναλεγομένου. ἐστὶ δὲ λεπτομερὲς καὶ διαφορητικὸν ὡς τὸ παλαιὸν ἔλαιον. σμήχει δὲ ἀλφοὺς ἐφήλεις φακοὺς συνεχῶς χριόμενον. παραπλήσιον δὲ τῷ ῥαφανίνῳ ἐστί, διὸ χρηστέον αὐτῷ, μὴ παρόντος κικίνου, ἢ τῷ παλαιῷ.",
+  "text_source": "olivieri",
+  "emendations": [],
+  "emendation_count": 0,
+  "source_kind": null,
+  "entry_kind": "recipe",
+  "citation": {
+    "pages": [
+      "54",
+      "55"
+    ],
+    "start": {
+      "page": "54",
+      "line": "24",
+      "xml_id": "oliv-54-24"
+    },
+    "end": {
+      "page": "55",
+      "line": "2",
+      "xml_id": "oliv-55-2"
+    },
+    "citation": {
+      "start": "54.24",
+      "end": "55.2"
+    },
+    "page_spans": [
+      {
+        "page": "54",
+        "start_line": "24",
+        "end_line": "27"
+      },
+      {
+        "page": "55",
+        "start_line": "1",
+        "end_line": "2"
+      }
+    ],
+    "lines": [
+      {
+        "page": "54",
+        "line": "24",
+        "xml_id": "oliv-54-24",
+        "break_no": false,
+        "text": "Ἔλαιον κίκινον. Τὸ δὲ κίκινον κατ' Αἴγυπτον γίγνεται, τοῦ σπέρ-",
+        "citation": "54.24"
+      },
+      {
+        "page": "54",
+        "line": "25",
+        "xml_id": "oliv-54-25",
+        "break_no": true,
+        "text": "ματος τῆς κίκεως, ὃ καλεῖται κρότωνες, κοπτομένου ἢ θλιβομένου ἢ",
+        "citation": "54.25"
+      },
+      {
+        "page": "54",
+        "line": "26",
+        "xml_id": "oliv-54-26",
+        "break_no": false,
+        "text": "δι' ὕδατος θερμοῦ ἀναλεγομένου. ἐστὶ δὲ λεπτομερὲς καὶ διαφορητικὸν",
+        "citation": "54.26"
+      },
+      {
+        "page": "54",
+        "line": "27",
+        "xml_id": "oliv-54-27",
+        "break_no": false,
+        "text": "ὡς τὸ παλαιὸν ἔλαιον. σμήχει δὲ ἀλφοὺς ἐφήλεις φακοὺς συνεχῶς",
+        "citation": "54.27"
+      },
+      {
+        "page": "55",
+        "line": "1",
+        "xml_id": "oliv-55-1",
+        "break_no": false,
+        "text": "χριόμενον. παραπλήσιον δὲ τῷ ῥαφανίνῳ ἐστί, διὸ χρηστέον αὐτῷ, μὴ",
+        "citation": "55.1"
+      },
+      {
+        "page": "55",
+        "line": "2",
+        "xml_id": "oliv-55-2",
+        "break_no": false,
+        "text": "παρόντος κικίνου, ἢ τῷ παλαιῷ.",
+        "citation": "55.2"
+      }
+    ],
+    "edition_key": "olivieri"
+  },
+  "notes": [],
+  "alignment_status": "pending",
+  "alignment_confidence": "pending",
+  "alignment_evidence": null,
+  "review_status": "reviewed_structured_authority",
+  "review_provenance": {
+    "authority_source": "reports/entity_review/structured/aetius_book1.json",
+    "authority_recipe_id": "aetius-1-101",
+    "authority_lemma": "ἔλαιον κίκινον",
+    "model": "gpt-5.4",
+    "reasoning_effort": "high",
+    "dataset_key": "aetius_book1_oils",
+    "entity_model_version": "1.2",
+    "authority_version": "2026-04-13-qty-alt-v1",
+    "prompt_version": "qty-alt-pass-v1",
+    "build_version": "2026-05-18T15:51:35Z"
+  },
+  "schema_version": "1.2",
+  "build_metadata": {
+    "builder": "scripts/recipes/build_recipe_entities.py",
+    "built_at": "2026-05-18T15:51:35Z",
+    "source_structured_authority": "reports/entity_review/structured/aetius_book1.json",
+    "authority_model": "gpt-5.4",
+    "authority_reasoning_effort": "high",
+    "dataset_key": "aetius_book1_oils",
+    "entity_model_version": "1.2",
+    "authority_version": "2026-04-13-qty-alt-v1",
+    "prompt_version": "qty-alt-pass-v1",
+    "build_version": "2026-05-18T15:51:35Z"
+  },
+  "recipe_text_excerpt": "Ἔλαιον κίκινον. Τὸ δὲ κίκινον κατ' Αἴγυπτον γίγνεται, τοῦ σπέρματος τῆς κίκεως, ὃ καλεῖται κρότωνες, κοπτομένου ἢ θλιβομένου ἢ δι'",
+  "preparation": {
+    "preparation_id": "aetius-1-101:preparation:elaion-kikinon",
+    "preparation_urn": "urn:aos:recipe-preparation:aetius-1-101:preparation:elaion-kikinon",
+    "source_span": "Ἔλαιον κίκινον",
+    "surface_form": "Ἔλαιον κίκινον",
+    "normalized_label": "ἔλαιον κίκινον",
+    "qualifiers": [],
+    "regimen_notes": [],
+    "certainty": "certain",
+    "notes": [],
+    "host_locator": {
+      "book": "1",
+      "chapter": "101",
+      "section": "101",
+      "citation": {
+        "start": "54.24",
+        "end": "55.2"
+      }
+    }
+  },
+  "ingredients": [
+    {
+      "ingredient_id": "aetius-1-101:ingredient:sperma-kikeos-1",
+      "ingredient_urn": "urn:aos:recipe-ingredient:aetius-1-101:ingredient:sperma-kikeos-1",
+      "source_span": "τοῦ σπέρματος τῆς κίκεως",
+      "surface_form": "τοῦ σπέρματος τῆς κίκεως",
+      "base_label": "σπέρμα",
+      "normalized_label": "σπέρμα κίκεως",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [
+        "aetius-1-101:process:koptein-1",
+        "aetius-1-101:process:thlibein-2",
+        "aetius-1-101:process:analegein-3"
+      ],
+      "quantities": [],
+      "qualifiers": [],
+      "notes": [
+        "ὃ καλεῖται κρότωνες"
+      ],
+      "host_locator": {
+        "book": "1",
+        "chapter": "101",
+        "section": "101",
+        "citation": {
+          "start": "54.24",
+          "end": "55.2"
+        }
+      }
+    }
+  ],
+  "processes": [
+    {
+      "process_id": "aetius-1-101:process:koptein-1",
+      "process_urn": "urn:aos:recipe-process:aetius-1-101:process:koptein-1",
+      "source_span": "κοπτομένου",
+      "surface_form": "κοπτομένου",
+      "normalized_label": "κόπτειν",
+      "target_type": "ingredient",
+      "target_ids": [
+        "aetius-1-101:ingredient:sperma-kikeos-1"
+      ],
+      "quantities": [
+        {
+          "source_span": "𐆄 β",
+          "raw_number": "β",
+          "normalized_number": 2,
+          "raw_unit": "𐆄",
+          "normalized_unit": "uncia",
+          "certainty": "uncertain",
+          "notes": [
+            "The ounce count is attached to the white violet flowers; the sesame oil is separately measured by the Italian xestes."
+          ]
+        }
+      ],
+      "qualifiers": [],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "101",
+        "section": "101",
+        "citation": {
+          "start": "54.24",
+          "end": "55.2"
+        }
+      }
+    },
+    {
+      "process_id": "aetius-1-101:process:thlibein-2",
+      "process_urn": "urn:aos:recipe-process:aetius-1-101:process:thlibein-2",
+      "source_span": "θλιβομένου",
+      "surface_form": "θλιβομένου",
+      "normalized_label": "θλίβειν",
+      "target_type": "ingredient",
+      "target_ids": [
+        "aetius-1-101:ingredient:sperma-kikeos-1"
+      ],
+      "quantities": [],
+      "qualifiers": [],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "101",
+        "section": "101",
+        "citation": {
+          "start": "54.24",
+          "end": "55.2"
+        }
+      }
+    },
+    {
+      "process_id": "aetius-1-101:process:analegein-3",
+      "process_urn": "urn:aos:recipe-process:aetius-1-101:process:analegein-3",
+      "source_span": "ἀναλεγομένου",
+      "surface_form": "ἀναλεγομένου",
+      "normalized_label": "ἀναλέγειν",
+      "target_type": "ingredient",
+      "target_ids": [
+        "aetius-1-101:ingredient:sperma-kikeos-1"
+      ],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "manner",
+          "source_span": "δι' ὕδατος θερμοῦ",
+          "normalized_value": "διὰ ὕδατος θερμοῦ",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "101",
+        "section": "101",
+        "citation": {
+          "start": "54.24",
+          "end": "55.2"
+        }
+      }
+    },
+    {
+      "process_id": "aetius-1-101:process:chriein-4",
+      "process_urn": "urn:aos:recipe-process:aetius-1-101:process:chriein-4",
+      "source_span": "χριόμενον",
+      "surface_form": "χριόμενον",
+      "normalized_label": "χρίειν",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "manner",
+          "source_span": "συνεχῶς",
+          "normalized_value": "συνεχῶς",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "101",
+        "section": "101",
+        "citation": {
+          "start": "54.24",
+          "end": "55.2"
+        }
+      }
+    }
+  ],
+  "materials": [
+    {
+      "material_id": "aetius-1-101:material:ydor-thermon-1",
+      "material_urn": "urn:aos:recipe-material:aetius-1-101:material:ydor-thermon-1",
+      "source_span": "ὕδατος θερμοῦ",
+      "surface_form": "ὕδατος θερμοῦ",
+      "normalized_label": "ὕδωρ θερμόν",
+      "role": "carrier",
+      "certainty": "certain",
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "temperature",
+          "source_span": "θερμοῦ",
+          "normalized_value": "θερμόν",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "101",
+        "section": "101",
+        "citation": {
+          "start": "54.24",
+          "end": "55.2"
+        }
+      }
+    }
+  ],
+  "people": [],
+  "places": [
+    {
+      "place_id": "aetius-1-101:place:aigyptos-1",
+      "place_urn": "urn:aos:recipe-place:aetius-1-101:place:aigyptos-1",
+      "source_span": "κατ' Αἴγυπτον",
+      "surface_form": "κατ' Αἴγυπτον",
+      "normalized_label": "Αἴγυπτος",
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "101",
+        "section": "101",
+        "citation": {
+          "start": "54.24",
+          "end": "55.2"
+        }
+      }
+    }
+  ],
+  "uses": [
+    {
+      "use_id": "aetius-1-101:use:smechei-de-alphoys-epheleis-phakoys-synechos-chriomenon-1",
+      "use_urn": "urn:aos:recipe-use:aetius-1-101:use:smechei-de-alphoys-epheleis-phakoys-synechos-chriomenon-1",
+      "category": "cosmetic",
+      "source_span": "σμήχει δὲ ἀλφοὺς ἐφήλεις φακοὺς συνεχῶς χριόμενον",
+      "snippet": "σμήχει δὲ ἀλφοὺς ἐφήλεις φακοὺς συνεχῶς χριόμενον",
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "101",
+        "section": "101",
+        "citation": {
+          "start": "54.24",
+          "end": "55.2"
+        }
+      }
+    }
+  ],
+  "preparation_names": [
+    {
+      "preparation_name_id": "aetius-1-101:preparation_name:kikinon-1",
+      "preparation_name_urn": "urn:aos:recipe-preparation_name:aetius-1-101:preparation_name:kikinon-1",
+      "source_span": "κίκινον",
+      "surface_form": "κίκινον",
+      "normalized_label": "κίκινον",
+      "certainty": "certain",
+      "notes": [
+        "Abbreviated restatement of the preparation name in the running text."
+      ],
+      "host_locator": {
+        "book": "1",
+        "chapter": "101",
+        "section": "101",
+        "citation": {
+          "start": "54.24",
+          "end": "55.2"
+        }
+      }
+    }
+  ],
+  "other_preparations_mentioned": [
+    {
+      "reference_id": "aetius-1-101:reference:palaion-elaion-1",
+      "reference_urn": "urn:aos:recipe-reference:aetius-1-101:reference:palaion-elaion-1",
+      "source_span": "τὸ παλαιὸν ἔλαιον",
+      "surface_form": "τὸ παλαιὸν ἔλαιον",
+      "normalized_label": "παλαιὸν ἔλαιον",
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "101",
+        "section": "101",
+        "citation": {
+          "start": "54.24",
+          "end": "55.2"
+        }
+      }
+    },
+    {
+      "reference_id": "aetius-1-101:reference:raphaninon-2",
+      "reference_urn": "urn:aos:recipe-reference:aetius-1-101:reference:raphaninon-2",
+      "source_span": "τῷ ῥαφανίνῳ",
+      "surface_form": "τῷ ῥαφανίνῳ",
+      "normalized_label": "ῥαφανίνον",
+      "certainty": "uncertain",
+      "notes": [
+        "Distinct comparator/substitute preparation; the head noun is omitted in the passage."
+      ],
+      "host_locator": {
+        "book": "1",
+        "chapter": "101",
+        "section": "101",
+        "citation": {
+          "start": "54.24",
+          "end": "55.2"
+        }
+      }
+    }
+  ],
+  "works_mentioned": [],
+  "entities": [
+    {
+      "entity_urn": "urn:aos:recipe-preparation:aetius-1-101:preparation:elaion-kikinon",
+      "entity_type": "label",
+      "surface_form": "Ἔλαιον κίκινον",
+      "normalized_label": "ἔλαιον κίκινον"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:aetius-1-101:ingredient:sperma-kikeos-1",
+      "entity_type": "ingredient",
+      "surface_form": "τοῦ σπέρματος τῆς κίκεως",
+      "normalized_label": "σπέρμα κίκεως"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:aetius-1-101:process:koptein-1",
+      "entity_type": "process",
+      "surface_form": "κοπτομένου",
+      "normalized_label": "κόπτειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:aetius-1-101:process:thlibein-2",
+      "entity_type": "process",
+      "surface_form": "θλιβομένου",
+      "normalized_label": "θλίβειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:aetius-1-101:process:analegein-3",
+      "entity_type": "process",
+      "surface_form": "ἀναλεγομένου",
+      "normalized_label": "ἀναλέγειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:aetius-1-101:process:chriein-4",
+      "entity_type": "process",
+      "surface_form": "χριόμενον",
+      "normalized_label": "χρίειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-material:aetius-1-101:material:ydor-thermon-1",
+      "entity_type": "material",
+      "surface_form": "ὕδατος θερμοῦ",
+      "normalized_label": "ὕδωρ θερμόν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-place:aetius-1-101:place:aigyptos-1",
+      "entity_type": "place",
+      "surface_form": "κατ' Αἴγυπτον",
+      "normalized_label": "Αἴγυπτος"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-preparation_name:aetius-1-101:preparation_name:kikinon-1",
+      "entity_type": "preparation_name",
+      "surface_form": "κίκινον",
+      "normalized_label": "κίκινον"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-reference:aetius-1-101:reference:palaion-elaion-1",
+      "entity_type": "preparation_reference",
+      "surface_form": "τὸ παλαιὸν ἔλαιον",
+      "normalized_label": "παλαιὸν ἔλαιον"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-reference:aetius-1-101:reference:raphaninon-2",
+      "entity_type": "preparation_reference",
+      "surface_form": "τῷ ῥαφανίνῳ",
+      "normalized_label": "ῥαφανίνον"
+    }
+  ],
+  "canonical_file": "data/recipes/aetius-1-101.json",
+  "source_entry": {
+    "source_id": "aetius-1-101",
+    "derived_recipe_id": "aetius-1-101",
+    "entry_kind": null,
+    "source_kind": null,
+    "source_lines": null,
+    "section_markers": []
+  },
+  "entity_groups": {
+    "labels": [
+      {
+        "entity_urn": "urn:aos:recipe-preparation:aetius-1-101:preparation:elaion-kikinon",
+        "surface_form": "Ἔλαιον κίκινον",
+        "normalized_label": "ἔλαιον κίκινον"
+      }
+    ],
+    "ingredients": [
+      {
+        "entity_urn": "urn:aos:recipe-ingredient:aetius-1-101:ingredient:sperma-kikeos-1",
+        "surface_form": "τοῦ σπέρματος τῆς κίκεως",
+        "normalized_label": "σπέρμα κίκεως",
+        "quantity_display": ""
+      }
+    ],
+    "processes": [
+      {
+        "entity_urn": "urn:aos:recipe-process:aetius-1-101:process:koptein-1",
+        "surface_form": "κοπτομένου",
+        "normalized_label": "κόπτειν"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-process:aetius-1-101:process:thlibein-2",
+        "surface_form": "θλιβομένου",
+        "normalized_label": "θλίβειν"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-process:aetius-1-101:process:analegein-3",
+        "surface_form": "ἀναλεγομένου",
+        "normalized_label": "ἀναλέγειν"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-process:aetius-1-101:process:chriein-4",
+        "surface_form": "χριόμενον",
+        "normalized_label": "χρίειν"
+      }
+    ],
+    "tools": [
+      {
+        "entity_urn": "urn:aos:recipe-material:aetius-1-101:material:ydor-thermon-1",
+        "surface_form": "ὕδατος θερμοῦ",
+        "normalized_label": "ὕδωρ θερμόν"
+      }
+    ],
+    "other_preparations_mentioned": [
+      {
+        "entity_urn": "urn:aos:recipe-reference:aetius-1-101:reference:palaion-elaion-1",
+        "surface_form": "τὸ παλαιὸν ἔλαιον",
+        "normalized_label": "παλαιὸν ἔλαιον"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-reference:aetius-1-101:reference:raphaninon-2",
+        "surface_form": "τῷ ῥαφανίνῳ",
+        "normalized_label": "ῥαφανίνον"
+      }
+    ],
+    "people": [],
+    "places": [
+      {
+        "entity_urn": "urn:aos:recipe-place:aetius-1-101:place:aigyptos-1",
+        "surface_form": "κατ' Αἴγυπτον",
+        "normalized_label": "Αἴγυπτος"
+      }
+    ],
+    "works_mentioned": [],
+    "preparation_names": [
+      {
+        "entity_urn": "urn:aos:recipe-preparation_name:aetius-1-101:preparation_name:kikinon-1",
+        "surface_form": "κίκινον",
+        "normalized_label": "κίκινον"
+      }
+    ]
+  }
+}

@@ -1,0 +1,965 @@
+{
+  "dataset_key": "aetius_book1_oils",
+  "source_json": "experiments/aetius-book1-ch99-136-oils/data/aetius_book1_ch99_136_oils.json",
+  "host_raw_file": "tei/raw/tlg0718001.xml",
+  "work_slug": "aetius.b1.oils",
+  "recipe_id": "aetius-1-134",
+  "recipe_urn": "urn:aos:recipe:aetius-1-134",
+  "record_urn": "urn:aos:recipe-record:aetius-1-134",
+  "author": "Aëtius of Amida",
+  "work": "Libri medicinales",
+  "book": "1",
+  "chapter": "134",
+  "section": "134",
+  "chapter_name": "Τίσιν",
+  "lemma": "Τίσιν",
+  "text": "Τίσιν ἁρμόδια τὰ εὐώδη μύρα. Τὰ δὲ εὐώδη τῶν μύρων ταῖς ψυχροτέραις τῶν κεφαλῶν μᾶλλον ἁρμόδια ἢ ταῖς μέσως θερμαῖς ἐν χειμῶνι, ταῖς γὰρ θερμοτέραις οὐκ ἐπιτήδεια. εἰ δέ τις διὰ τὸ εὐῶδες βούληται χρῆσθαι τοῖς τοιούτοις, προσμιγνύτω ῥόδινον ἶσον ἴσῳ· οὕτως γὰρ κερασθὲν οὐκέτι βλαβερὸν γίγνεται. ἐπεὶ δὲ πολλαὶ τῶν γυναικῶν τοιαύτας θερμὰς ἔχουσι τὰς κεφαλάς, ὥστε μηδενὸς ἀνέχεσθαι τῶν θερμαινόντων ἐλαίων, ὀμφακίνῳ μόνῳ χράσθωσαν, ἔσθ' ὅτε δὲ καὶ ῥοδίνῳ. τινὲς γὰρ ἐξ αὐτῶν οὐδόλως χρῶνται ἐλαίῳ, διὰ τὸ ταχέως ὑγραίνεσθαι τὰς κεφαλὰς καὶ κατάρρῳ περιπίπτειν, ἃς οὐ χρὴ καταναγκάζειν ἀλείφεσθαι. δέονται γὰρ τοῦ ξηραίνειν τὰς κεφαλὰς τοῖς ἐπικαίροις ἐμπάσμασι ξηροῖς, οὐ τοῦ ὑγραίνειν τῷ ἐλαίῳ.",
+  "original_text": "Τίσιν ἁρμόδια τὰ εὐώδη μύρα. Τὰ δὲ εὐώδη τῶν μύρων ταῖς ψυχροτέραις τῶν κεφαλῶν μᾶλλον ἁρμόδια ἢ ταῖς μέσως θερμαῖς ἐν χειμῶνι, ταῖς γὰρ θερμοτέραις οὐκ ἐπιτήδεια. εἰ δέ τις διὰ τὸ εὐῶδες βούληται χρῆσθαι τοῖς τοιούτοις, προσμιγνύτω ῥόδινον ἶσον ἴσῳ· οὕτως γὰρ κερασθὲν οὐκέτι βλαβερὸν γίγνεται. ἐπεὶ δὲ πολλαὶ τῶν γυναικῶν τοιαύτας θερμὰς ἔχουσι τὰς κεφαλάς, ὥστε μηδενὸς ἀνέχεσθαι τῶν θερμαινόντων ἐλαίων, ὀμφακίνῳ μόνῳ χράσθωσαν, ἔσθ' ὅτε δὲ καὶ ῥοδίνῳ. τινὲς γὰρ ἐξ αὐτῶν οὐδόλως χρῶνται ἐλαίῳ, διὰ τὸ ταχέως ὑγραίνεσθαι τὰς κεφαλὰς καὶ κατάρρῳ περιπίπτειν, ἃς οὐ χρὴ καταναγκάζειν ἀλείφεσθαι. δέονται γὰρ τοῦ ξηραίνειν τὰς κεφαλὰς τοῖς ἐπικαίροις ἐμπάσμασι ξηροῖς, οὐ τοῦ ὑγραίνειν τῷ ἐλαίῳ.",
+  "text_source": "olivieri",
+  "emendations": [],
+  "emendation_count": 0,
+  "source_kind": null,
+  "entry_kind": "recipe",
+  "citation": {
+    "pages": [
+      "68"
+    ],
+    "start": {
+      "page": "68",
+      "line": "4",
+      "xml_id": "oliv-68-4"
+    },
+    "end": {
+      "page": "68",
+      "line": "14",
+      "xml_id": "oliv-68-14"
+    },
+    "citation": {
+      "start": "68.4",
+      "end": "68.14"
+    },
+    "page_spans": [
+      {
+        "page": "68",
+        "start_line": "4",
+        "end_line": "14"
+      }
+    ],
+    "lines": [
+      {
+        "page": "68",
+        "line": "4",
+        "xml_id": "oliv-68-4",
+        "break_no": false,
+        "text": "Τίσιν ἁρμόδια τὰ εὐώδη μύρα. Τὰ δὲ εὐώδη τῶν μύρων ταῖς",
+        "citation": "68.4"
+      },
+      {
+        "page": "68",
+        "line": "5",
+        "xml_id": "oliv-68-5",
+        "break_no": false,
+        "text": "ψυχροτέραις τῶν κεφαλῶν μᾶλλον ἁρμόδια ἢ ταῖς μέσως θερμαῖς ἐν",
+        "citation": "68.5"
+      },
+      {
+        "page": "68",
+        "line": "6",
+        "xml_id": "oliv-68-6",
+        "break_no": false,
+        "text": "χειμῶνι, ταῖς γὰρ θερμοτέραις οὐκ ἐπιτήδεια. εἰ δέ τις διὰ τὸ εὐῶδες",
+        "citation": "68.6"
+      },
+      {
+        "page": "68",
+        "line": "7",
+        "xml_id": "oliv-68-7",
+        "break_no": false,
+        "text": "βούληται χρῆσθαι τοῖς τοιούτοις, προσμιγνύτω ῥόδινον ἶσον ἴσῳ· οὕτως",
+        "citation": "68.7"
+      },
+      {
+        "page": "68",
+        "line": "8",
+        "xml_id": "oliv-68-8",
+        "break_no": false,
+        "text": "γὰρ κερασθὲν οὐκέτι βλαβερὸν γίγνεται. ἐπεὶ δὲ πολλαὶ τῶν γυναικῶν",
+        "citation": "68.8"
+      },
+      {
+        "page": "68",
+        "line": "9",
+        "xml_id": "oliv-68-9",
+        "break_no": false,
+        "text": "τοιαύτας θερμὰς ἔχουσι τὰς κεφαλάς, ὥστε μηδενὸς ἀνέχεσθαι τῶν",
+        "citation": "68.9"
+      },
+      {
+        "page": "68",
+        "line": "10",
+        "xml_id": "oliv-68-10",
+        "break_no": false,
+        "text": "θερμαινόντων ἐλαίων, ὀμφακίνῳ μόνῳ χράσθωσαν, ἔσθ' ὅτε δὲ καὶ",
+        "citation": "68.10"
+      },
+      {
+        "page": "68",
+        "line": "11",
+        "xml_id": "oliv-68-11",
+        "break_no": false,
+        "text": "ῥοδίνῳ. τινὲς γὰρ ἐξ αὐτῶν οὐδόλως χρῶνται ἐλαίῳ, διὰ τὸ ταχέως",
+        "citation": "68.11"
+      },
+      {
+        "page": "68",
+        "line": "12",
+        "xml_id": "oliv-68-12",
+        "break_no": false,
+        "text": "ὑγραίνεσθαι τὰς κεφαλὰς καὶ κατάρρῳ περιπίπτειν, ἃς οὐ χρὴ κατα-",
+        "citation": "68.12"
+      },
+      {
+        "page": "68",
+        "line": "13",
+        "xml_id": "oliv-68-13",
+        "break_no": true,
+        "text": "ναγκάζειν ἀλείφεσθαι. δέονται γὰρ τοῦ ξηραίνειν τὰς κεφαλὰς τοῖς",
+        "citation": "68.13"
+      },
+      {
+        "page": "68",
+        "line": "14",
+        "xml_id": "oliv-68-14",
+        "break_no": false,
+        "text": "ἐπικαίροις ἐμπάσμασι ξηροῖς, οὐ τοῦ ὑγραίνειν τῷ ἐλαίῳ.",
+        "citation": "68.14"
+      }
+    ],
+    "edition_key": "olivieri"
+  },
+  "notes": [
+    "The passage is primarily prescriptive guidance about suitability and application rather than a full compound recipe."
+  ],
+  "alignment_status": "pending",
+  "alignment_confidence": "pending",
+  "alignment_evidence": null,
+  "review_status": "reviewed_structured_authority",
+  "review_provenance": {
+    "authority_source": "reports/entity_review/structured/aetius_book1.json",
+    "authority_recipe_id": "aetius-1-134",
+    "authority_lemma": "εὐώδη μύρα",
+    "model": "gpt-5.4",
+    "reasoning_effort": "high",
+    "dataset_key": "aetius_book1_oils",
+    "entity_model_version": "1.2",
+    "authority_version": "2026-04-13-qty-alt-v1",
+    "prompt_version": "qty-alt-pass-v1",
+    "build_version": "2026-05-18T15:51:35Z"
+  },
+  "schema_version": "1.2",
+  "build_metadata": {
+    "builder": "scripts/recipes/build_recipe_entities.py",
+    "built_at": "2026-05-18T15:51:35Z",
+    "source_structured_authority": "reports/entity_review/structured/aetius_book1.json",
+    "authority_model": "gpt-5.4",
+    "authority_reasoning_effort": "high",
+    "dataset_key": "aetius_book1_oils",
+    "entity_model_version": "1.2",
+    "authority_version": "2026-04-13-qty-alt-v1",
+    "prompt_version": "qty-alt-pass-v1",
+    "build_version": "2026-05-18T15:51:35Z"
+  },
+  "recipe_text_excerpt": "Τίσιν ἁρμόδια τὰ εὐώδη μύρα. Τὰ δὲ εὐώδη τῶν μύρων ταῖς ψυχροτέραις τῶν κεφαλῶν μᾶλλον ἁρμόδια ἢ ταῖς μέσως θερμαῖς",
+  "preparation": {
+    "preparation_id": "aetius-1-134:preparation:eyode-myra",
+    "preparation_urn": "urn:aos:recipe-preparation:aetius-1-134:preparation:eyode-myra",
+    "source_span": "τὰ εὐώδη μύρα",
+    "surface_form": "τὰ εὐώδη μύρα",
+    "normalized_label": "εὐώδη μύρα",
+    "qualifiers": [],
+    "regimen_notes": [],
+    "certainty": "certain",
+    "notes": [],
+    "host_locator": {
+      "book": "1",
+      "chapter": "134",
+      "section": "134",
+      "citation": {
+        "start": "68.4",
+        "end": "68.14"
+      }
+    }
+  },
+  "ingredients": [
+    {
+      "ingredient_id": "aetius-1-134:ingredient:eyode-myra-1",
+      "ingredient_urn": "urn:aos:recipe-ingredient:aetius-1-134:ingredient:eyode-myra-1",
+      "source_span": "τὰ εὐώδη μύρα",
+      "surface_form": "τὰ εὐώδη μύρα",
+      "base_label": "μύρα",
+      "normalized_label": "εὐώδη μύρα",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [
+        "aetius-1-134:process:prosmignynai-1",
+        "aetius-1-134:process:chresthai-2",
+        "aetius-1-134:process:chresthai-3"
+      ],
+      "quantities": [],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "134",
+        "section": "134",
+        "citation": {
+          "start": "68.4",
+          "end": "68.14"
+        }
+      }
+    },
+    {
+      "ingredient_id": "aetius-1-134:ingredient:rodinon-2",
+      "ingredient_urn": "urn:aos:recipe-ingredient:aetius-1-134:ingredient:rodinon-2",
+      "source_span": "ῥόδινον",
+      "surface_form": "ῥόδινον",
+      "base_label": "ῥόδινον",
+      "normalized_label": "ῥόδινον",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [
+        "aetius-1-134:process:prosmignynai-1"
+      ],
+      "quantities": [
+        {
+          "source_span": "ἶσον ἴσῳ",
+          "raw_number": null,
+          "normalized_number": "1:1",
+          "raw_unit": null,
+          "normalized_unit": null,
+          "certainty": "certain",
+          "notes": [
+            "Equal-part ratio relative to the aromatic unguent."
+          ]
+        }
+      ],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "134",
+        "section": "134",
+        "citation": {
+          "start": "68.4",
+          "end": "68.14"
+        }
+      }
+    },
+    {
+      "ingredient_id": "aetius-1-134:ingredient:omphakinon-3",
+      "ingredient_urn": "urn:aos:recipe-ingredient:aetius-1-134:ingredient:omphakinon-3",
+      "source_span": "ὀμφακίνῳ μόνῳ",
+      "surface_form": "ὀμφακίνῳ μόνῳ",
+      "base_label": "ὀμφακίνον",
+      "normalized_label": "ὀμφακίνον",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [
+        "aetius-1-134:process:chresthai-2",
+        "aetius-1-134:process:chresthai-3"
+      ],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "manner",
+          "source_span": "μόνῳ",
+          "normalized_value": "μόνον",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "134",
+        "section": "134",
+        "citation": {
+          "start": "68.4",
+          "end": "68.14"
+        }
+      }
+    },
+    {
+      "ingredient_id": "aetius-1-134:ingredient:rodinon-4",
+      "ingredient_urn": "urn:aos:recipe-ingredient:aetius-1-134:ingredient:rodinon-4",
+      "source_span": "ῥοδίνῳ",
+      "surface_form": "ῥοδίνῳ",
+      "base_label": "ῥόδινον",
+      "normalized_label": "ῥόδινον",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [
+        "aetius-1-134:process:chresthai-2",
+        "aetius-1-134:process:chresthai-3"
+      ],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "duration",
+          "source_span": "ἔσθ' ὅτε",
+          "normalized_value": "sometimes",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "134",
+        "section": "134",
+        "citation": {
+          "start": "68.4",
+          "end": "68.14"
+        }
+      }
+    },
+    {
+      "ingredient_id": "aetius-1-134:ingredient:thermainonta-elaia-5",
+      "ingredient_urn": "urn:aos:recipe-ingredient:aetius-1-134:ingredient:thermainonta-elaia-5",
+      "source_span": "τῶν θερμαινόντων ἐλαίων",
+      "surface_form": "τῶν θερμαινόντων ἐλαίων",
+      "base_label": "ἔλαιον",
+      "normalized_label": "θερμαίνοντα ἔλαια",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [
+        "aetius-1-134:process:chresthai-2",
+        "aetius-1-134:process:chresthai-3"
+      ],
+      "quantities": [],
+      "qualifiers": [],
+      "notes": [
+        "Mentioned as unsuitable for women with hot heads."
+      ],
+      "host_locator": {
+        "book": "1",
+        "chapter": "134",
+        "section": "134",
+        "citation": {
+          "start": "68.4",
+          "end": "68.14"
+        }
+      }
+    },
+    {
+      "ingredient_id": "aetius-1-134:ingredient:elaion-6",
+      "ingredient_urn": "urn:aos:recipe-ingredient:aetius-1-134:ingredient:elaion-6",
+      "source_span": "τῷ ἐλαίῳ",
+      "surface_form": "τῷ ἐλαίῳ",
+      "base_label": "ἔλαιον",
+      "normalized_label": "ἔλαιον",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [
+        "aetius-1-134:process:ygrainein-5"
+      ],
+      "quantities": [],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "134",
+        "section": "134",
+        "citation": {
+          "start": "68.4",
+          "end": "68.14"
+        }
+      }
+    },
+    {
+      "ingredient_id": "aetius-1-134:ingredient:empasmata-xera-7",
+      "ingredient_urn": "urn:aos:recipe-ingredient:aetius-1-134:ingredient:empasmata-xera-7",
+      "source_span": "τοῖς ἐπικαίροις ἐμπάσμασι ξηροῖς",
+      "surface_form": "τοῖς ἐπικαίροις ἐμπάσμασι ξηροῖς",
+      "base_label": "ἐμπάσματα",
+      "normalized_label": "ἐμπάσματα ξηρά",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [
+        "aetius-1-134:process:xerainein-4"
+      ],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "other",
+          "source_span": "ἐπικαίροις",
+          "normalized_value": "ἐπίκαιρα",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "134",
+        "section": "134",
+        "citation": {
+          "start": "68.4",
+          "end": "68.14"
+        }
+      }
+    }
+  ],
+  "processes": [
+    {
+      "process_id": "aetius-1-134:process:prosmignynai-1",
+      "process_urn": "urn:aos:recipe-process:aetius-1-134:process:prosmignynai-1",
+      "source_span": "προσμιγνύτω",
+      "surface_form": "προσμιγνύτω",
+      "normalized_label": "προσμιγνύναι",
+      "target_type": "ingredient",
+      "target_ids": [
+        "aetius-1-134:ingredient:eyode-myra-1",
+        "aetius-1-134:ingredient:rodinon-2",
+        "aetius-1-134:ingredient:rodinon-4"
+      ],
+      "quantities": [],
+      "qualifiers": [],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "134",
+        "section": "134",
+        "citation": {
+          "start": "68.4",
+          "end": "68.14"
+        }
+      }
+    },
+    {
+      "process_id": "aetius-1-134:process:chresthai-2",
+      "process_urn": "urn:aos:recipe-process:aetius-1-134:process:chresthai-2",
+      "source_span": "χρῆσθαι",
+      "surface_form": "χρῆσθαι",
+      "normalized_label": "χρῆσθαι",
+      "target_type": "ingredient",
+      "target_ids": [
+        "aetius-1-134:ingredient:eyode-myra-1"
+      ],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "other",
+          "source_span": "διὰ τὸ εὐῶδες",
+          "normalized_value": "for fragrance",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "134",
+        "section": "134",
+        "citation": {
+          "start": "68.4",
+          "end": "68.14"
+        }
+      }
+    },
+    {
+      "process_id": "aetius-1-134:process:chresthai-3",
+      "process_urn": "urn:aos:recipe-process:aetius-1-134:process:chresthai-3",
+      "source_span": "χράσθωσαν",
+      "surface_form": "χράσθωσαν",
+      "normalized_label": "χρῆσθαι",
+      "target_type": "ingredient",
+      "target_ids": [
+        "aetius-1-134:ingredient:omphakinon-3",
+        "aetius-1-134:ingredient:rodinon-2",
+        "aetius-1-134:ingredient:rodinon-4"
+      ],
+      "quantities": [],
+      "qualifiers": [],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "134",
+        "section": "134",
+        "citation": {
+          "start": "68.4",
+          "end": "68.14"
+        }
+      }
+    },
+    {
+      "process_id": "aetius-1-134:process:xerainein-4",
+      "process_urn": "urn:aos:recipe-process:aetius-1-134:process:xerainein-4",
+      "source_span": "ξηραίνειν",
+      "surface_form": "ξηραίνειν",
+      "normalized_label": "ξηραίνειν",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "location",
+          "source_span": "τὰς κεφαλὰς",
+          "normalized_value": "κεφαλαί",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "134",
+        "section": "134",
+        "citation": {
+          "start": "68.4",
+          "end": "68.14"
+        }
+      }
+    },
+    {
+      "process_id": "aetius-1-134:process:ygrainein-5",
+      "process_urn": "urn:aos:recipe-process:aetius-1-134:process:ygrainein-5",
+      "source_span": "ὑγραίνειν",
+      "surface_form": "ὑγραίνειν",
+      "normalized_label": "ὑγραίνειν",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "location",
+          "source_span": "τὰς κεφαλὰς",
+          "normalized_value": "κεφαλαί",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "certainty": "certain",
+      "notes": [
+        "Rejected in the text in favor of drying."
+      ],
+      "host_locator": {
+        "book": "1",
+        "chapter": "134",
+        "section": "134",
+        "citation": {
+          "start": "68.4",
+          "end": "68.14"
+        }
+      }
+    }
+  ],
+  "materials": [],
+  "people": [
+    {
+      "person_id": "aetius-1-134:person:gynaikes-1",
+      "person_urn": "urn:aos:recipe-person:aetius-1-134:person:gynaikes-1",
+      "source_span": "πολλαὶ τῶν γυναικῶν",
+      "surface_form": "πολλαὶ τῶν γυναικῶν",
+      "normalized_label": "γυναῖκες",
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "134",
+        "section": "134",
+        "citation": {
+          "start": "68.4",
+          "end": "68.14"
+        }
+      }
+    },
+    {
+      "person_id": "aetius-1-134:person:tines-2",
+      "person_urn": "urn:aos:recipe-person:aetius-1-134:person:tines-2",
+      "source_span": "τινὲς γὰρ ἐξ αὐτῶν",
+      "surface_form": "τινὲς γὰρ ἐξ αὐτῶν",
+      "normalized_label": "τινές",
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "134",
+        "section": "134",
+        "citation": {
+          "start": "68.4",
+          "end": "68.14"
+        }
+      }
+    }
+  ],
+  "places": [],
+  "uses": [
+    {
+      "use_id": "aetius-1-134:use:tais-psychroterais-ton-kephalon-mallon-armodia-e-tais-mesos-thermais-en-cheimoni-1",
+      "use_urn": "urn:aos:recipe-use:aetius-1-134:use:tais-psychroterais-ton-kephalon-mallon-armodia-e-tais-mesos-thermais-en-cheimoni-1",
+      "category": "medical",
+      "source_span": "ταῖς ψυχροτέραις τῶν κεφαλῶν μᾶλλον ἁρμόδια ἢ ταῖς μέσως θερμαῖς ἐν χειμῶνι",
+      "snippet": "Fragrant unguents are said to suit colder heads more than moderately warm ones in winter.",
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "134",
+        "section": "134",
+        "citation": {
+          "start": "68.4",
+          "end": "68.14"
+        }
+      }
+    },
+    {
+      "use_id": "aetius-1-134:use:tais-gar-thermoterais-oyk-epitedeia-2",
+      "use_urn": "urn:aos:recipe-use:aetius-1-134:use:tais-gar-thermoterais-oyk-epitedeia-2",
+      "category": "medical",
+      "source_span": "ταῖς γὰρ θερμοτέραις οὐκ ἐπιτήδεια",
+      "snippet": "They are explicitly unsuitable for hotter heads.",
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "134",
+        "section": "134",
+        "citation": {
+          "start": "68.4",
+          "end": "68.14"
+        }
+      }
+    },
+    {
+      "use_id": "aetius-1-134:use:omphakino-mono-chrasthosan-esth-ote-de-kai-rodino-3",
+      "use_urn": "urn:aos:recipe-use:aetius-1-134:use:omphakino-mono-chrasthosan-esth-ote-de-kai-rodino-3",
+      "category": "medical",
+      "source_span": "ὀμφακίνῳ μόνῳ χράσθωσαν, ἔσθ' ὅτε δὲ καὶ ῥοδίνῳ",
+      "snippet": "Women with hot heads are directed to use only omphacine, and sometimes rose oil.",
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "134",
+        "section": "134",
+        "citation": {
+          "start": "68.4",
+          "end": "68.14"
+        }
+      }
+    },
+    {
+      "use_id": "aetius-1-134:use:deontai-gar-toy-xerainein-tas-kephalas-tois-epikairois-empasmasi-xerois-oy-toy-ygrainein-to-elaio-4",
+      "use_urn": "urn:aos:recipe-use:aetius-1-134:use:deontai-gar-toy-xerainein-tas-kephalas-tois-epikairois-empasmasi-xerois-oy-toy-ygrainein-to-elaio-4",
+      "category": "medical",
+      "source_span": "δέονται γὰρ τοῦ ξηραίνειν τὰς κεφαλὰς τοῖς ἐπικαίροις ἐμπάσμασι ξηροῖς, οὐ τοῦ ὑγραίνειν τῷ ἐλαίῳ",
+      "snippet": "Heads prone to moisture and catarrh should be dried with seasonable dry powders rather than moistened with oil.",
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "134",
+        "section": "134",
+        "citation": {
+          "start": "68.4",
+          "end": "68.14"
+        }
+      }
+    }
+  ],
+  "preparation_names": [],
+  "other_preparations_mentioned": [
+    {
+      "reference_id": "aetius-1-134:reference:rodinon-1",
+      "reference_urn": "urn:aos:recipe-reference:aetius-1-134:reference:rodinon-1",
+      "source_span": "ῥόδινον",
+      "surface_form": "ῥόδινον",
+      "normalized_label": "ῥόδινον",
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "134",
+        "section": "134",
+        "citation": {
+          "start": "68.4",
+          "end": "68.14"
+        }
+      }
+    },
+    {
+      "reference_id": "aetius-1-134:reference:omphakinon-2",
+      "reference_urn": "urn:aos:recipe-reference:aetius-1-134:reference:omphakinon-2",
+      "source_span": "ὀμφακίνῳ",
+      "surface_form": "ὀμφακίνῳ",
+      "normalized_label": "ὀμφακῖνον",
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "134",
+        "section": "134",
+        "citation": {
+          "start": "68.4",
+          "end": "68.14"
+        }
+      }
+    },
+    {
+      "reference_id": "aetius-1-134:reference:xera-empasmata-3",
+      "reference_urn": "urn:aos:recipe-reference:aetius-1-134:reference:xera-empasmata-3",
+      "source_span": "ἐμπάσμασι ξηροῖς",
+      "surface_form": "ἐμπάσμασι ξηροῖς",
+      "normalized_label": "ξηρὰ ἐμπάσματα",
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "134",
+        "section": "134",
+        "citation": {
+          "start": "68.4",
+          "end": "68.14"
+        }
+      }
+    }
+  ],
+  "works_mentioned": [],
+  "entities": [
+    {
+      "entity_urn": "urn:aos:recipe-preparation:aetius-1-134:preparation:eyode-myra",
+      "entity_type": "label",
+      "surface_form": "τὰ εὐώδη μύρα",
+      "normalized_label": "εὐώδη μύρα"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:aetius-1-134:ingredient:eyode-myra-1",
+      "entity_type": "ingredient",
+      "surface_form": "τὰ εὐώδη μύρα",
+      "normalized_label": "εὐώδη μύρα"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:aetius-1-134:ingredient:rodinon-2",
+      "entity_type": "ingredient",
+      "surface_form": "ῥόδινον",
+      "normalized_label": "ῥόδινον"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:aetius-1-134:ingredient:omphakinon-3",
+      "entity_type": "ingredient",
+      "surface_form": "ὀμφακίνῳ μόνῳ",
+      "normalized_label": "ὀμφακίνον"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:aetius-1-134:ingredient:rodinon-4",
+      "entity_type": "ingredient",
+      "surface_form": "ῥοδίνῳ",
+      "normalized_label": "ῥόδινον"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:aetius-1-134:ingredient:thermainonta-elaia-5",
+      "entity_type": "ingredient",
+      "surface_form": "τῶν θερμαινόντων ἐλαίων",
+      "normalized_label": "θερμαίνοντα ἔλαια"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:aetius-1-134:ingredient:elaion-6",
+      "entity_type": "ingredient",
+      "surface_form": "τῷ ἐλαίῳ",
+      "normalized_label": "ἔλαιον"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:aetius-1-134:ingredient:empasmata-xera-7",
+      "entity_type": "ingredient",
+      "surface_form": "τοῖς ἐπικαίροις ἐμπάσμασι ξηροῖς",
+      "normalized_label": "ἐμπάσματα ξηρά"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:aetius-1-134:process:prosmignynai-1",
+      "entity_type": "process",
+      "surface_form": "προσμιγνύτω",
+      "normalized_label": "προσμιγνύναι"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:aetius-1-134:process:chresthai-2",
+      "entity_type": "process",
+      "surface_form": "χρῆσθαι",
+      "normalized_label": "χρῆσθαι"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:aetius-1-134:process:chresthai-3",
+      "entity_type": "process",
+      "surface_form": "χράσθωσαν",
+      "normalized_label": "χρῆσθαι"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:aetius-1-134:process:xerainein-4",
+      "entity_type": "process",
+      "surface_form": "ξηραίνειν",
+      "normalized_label": "ξηραίνειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:aetius-1-134:process:ygrainein-5",
+      "entity_type": "process",
+      "surface_form": "ὑγραίνειν",
+      "normalized_label": "ὑγραίνειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-person:aetius-1-134:person:gynaikes-1",
+      "entity_type": "person",
+      "surface_form": "πολλαὶ τῶν γυναικῶν",
+      "normalized_label": "γυναῖκες"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-person:aetius-1-134:person:tines-2",
+      "entity_type": "person",
+      "surface_form": "τινὲς γὰρ ἐξ αὐτῶν",
+      "normalized_label": "τινές"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-reference:aetius-1-134:reference:rodinon-1",
+      "entity_type": "preparation_reference",
+      "surface_form": "ῥόδινον",
+      "normalized_label": "ῥόδινον"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-reference:aetius-1-134:reference:omphakinon-2",
+      "entity_type": "preparation_reference",
+      "surface_form": "ὀμφακίνῳ",
+      "normalized_label": "ὀμφακῖνον"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-reference:aetius-1-134:reference:xera-empasmata-3",
+      "entity_type": "preparation_reference",
+      "surface_form": "ἐμπάσμασι ξηροῖς",
+      "normalized_label": "ξηρὰ ἐμπάσματα"
+    }
+  ],
+  "canonical_file": "data/recipes/aetius-1-134.json",
+  "source_entry": {
+    "source_id": "aetius-1-134",
+    "derived_recipe_id": "aetius-1-134",
+    "entry_kind": null,
+    "source_kind": null,
+    "source_lines": null,
+    "section_markers": []
+  },
+  "entity_groups": {
+    "labels": [
+      {
+        "entity_urn": "urn:aos:recipe-preparation:aetius-1-134:preparation:eyode-myra",
+        "surface_form": "τὰ εὐώδη μύρα",
+        "normalized_label": "εὐώδη μύρα"
+      }
+    ],
+    "ingredients": [
+      {
+        "entity_urn": "urn:aos:recipe-ingredient:aetius-1-134:ingredient:eyode-myra-1",
+        "surface_form": "τὰ εὐώδη μύρα",
+        "normalized_label": "εὐώδη μύρα",
+        "quantity_display": ""
+      },
+      {
+        "entity_urn": "urn:aos:recipe-ingredient:aetius-1-134:ingredient:rodinon-2",
+        "surface_form": "ῥόδινον",
+        "normalized_label": "ῥόδινον",
+        "quantity_display": "ἶσον ἴσῳ"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-ingredient:aetius-1-134:ingredient:omphakinon-3",
+        "surface_form": "ὀμφακίνῳ μόνῳ",
+        "normalized_label": "ὀμφακίνον",
+        "quantity_display": ""
+      },
+      {
+        "entity_urn": "urn:aos:recipe-ingredient:aetius-1-134:ingredient:rodinon-4",
+        "surface_form": "ῥοδίνῳ",
+        "normalized_label": "ῥόδινον",
+        "quantity_display": ""
+      },
+      {
+        "entity_urn": "urn:aos:recipe-ingredient:aetius-1-134:ingredient:thermainonta-elaia-5",
+        "surface_form": "τῶν θερμαινόντων ἐλαίων",
+        "normalized_label": "θερμαίνοντα ἔλαια",
+        "quantity_display": ""
+      },
+      {
+        "entity_urn": "urn:aos:recipe-ingredient:aetius-1-134:ingredient:elaion-6",
+        "surface_form": "τῷ ἐλαίῳ",
+        "normalized_label": "ἔλαιον",
+        "quantity_display": ""
+      },
+      {
+        "entity_urn": "urn:aos:recipe-ingredient:aetius-1-134:ingredient:empasmata-xera-7",
+        "surface_form": "τοῖς ἐπικαίροις ἐμπάσμασι ξηροῖς",
+        "normalized_label": "ἐμπάσματα ξηρά",
+        "quantity_display": ""
+      }
+    ],
+    "processes": [
+      {
+        "entity_urn": "urn:aos:recipe-process:aetius-1-134:process:prosmignynai-1",
+        "surface_form": "προσμιγνύτω",
+        "normalized_label": "προσμιγνύναι"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-process:aetius-1-134:process:chresthai-2",
+        "surface_form": "χρῆσθαι",
+        "normalized_label": "χρῆσθαι"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-process:aetius-1-134:process:chresthai-3",
+        "surface_form": "χράσθωσαν",
+        "normalized_label": "χρῆσθαι"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-process:aetius-1-134:process:xerainein-4",
+        "surface_form": "ξηραίνειν",
+        "normalized_label": "ξηραίνειν"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-process:aetius-1-134:process:ygrainein-5",
+        "surface_form": "ὑγραίνειν",
+        "normalized_label": "ὑγραίνειν"
+      }
+    ],
+    "tools": [],
+    "other_preparations_mentioned": [
+      {
+        "entity_urn": "urn:aos:recipe-reference:aetius-1-134:reference:rodinon-1",
+        "surface_form": "ῥόδινον",
+        "normalized_label": "ῥόδινον"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-reference:aetius-1-134:reference:omphakinon-2",
+        "surface_form": "ὀμφακίνῳ",
+        "normalized_label": "ὀμφακῖνον"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-reference:aetius-1-134:reference:xera-empasmata-3",
+        "surface_form": "ἐμπάσμασι ξηροῖς",
+        "normalized_label": "ξηρὰ ἐμπάσματα"
+      }
+    ],
+    "people": [
+      {
+        "entity_urn": "urn:aos:recipe-person:aetius-1-134:person:gynaikes-1",
+        "surface_form": "πολλαὶ τῶν γυναικῶν",
+        "normalized_label": "γυναῖκες"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-person:aetius-1-134:person:tines-2",
+        "surface_form": "τινὲς γὰρ ἐξ αὐτῶν",
+        "normalized_label": "τινές"
+      }
+    ],
+    "places": [],
+    "works_mentioned": [],
+    "preparation_names": []
+  }
+}

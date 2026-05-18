@@ -1,0 +1,82 @@
+* { box-sizing: border-box; }
+body {
+  margin: 0;
+  font-family: ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  color: #24211c;
+  background: #f7f4ed;
+}
+header {
+  min-height: 88px;
+  padding: 20px 28px;
+  background: #27343a;
+  color: #f8f4ea;
+  display: flex;
+  align-items: end;
+  justify-content: space-between;
+  gap: 16px;
+}
+h1 { margin: 0; font-size: 30px; font-weight: 700; }
+#counts { font-size: 14px; color: #d9e1dd; }
+main {
+  display: grid;
+  grid-template-columns: minmax(280px, 360px) 1fr;
+  min-height: calc(100vh - 88px);
+}
+aside {
+  border-right: 1px solid #d7d0c0;
+  background: #fffdfa;
+  padding: 16px;
+  overflow: auto;
+}
+label { display: grid; gap: 6px; margin-bottom: 12px; font-size: 13px; color: #5d5549; }
+select, input {
+  width: 100%;
+  min-height: 38px;
+  border: 1px solid #bdb5a6;
+  border-radius: 6px;
+  background: white;
+  color: #24211c;
+  padding: 7px 9px;
+  font: inherit;
+}
+#recipeList { display: grid; gap: 8px; }
+.recipe-button {
+  width: 100%;
+  border: 1px solid #d8d1c3;
+  border-radius: 6px;
+  background: #f8f5ef;
+  color: #24211c;
+  text-align: left;
+  padding: 10px;
+  cursor: pointer;
+}
+.recipe-button.active { border-color: #7b4e31; background: #efe2d2; }
+.recipe-button strong { display: block; font-size: 14px; margin-bottom: 3px; }
+.recipe-button span { display: block; color: #665f55; font-size: 12px; }
+#detail { padding: 24px 32px; max-width: 1100px; }
+.meta { color: #675e52; font-size: 14px; margin-bottom: 14px; }
+.greek {
+  font-family: "New Athena Unicode", "Noto Serif", Georgia, serif;
+  font-size: 20px;
+  line-height: 1.55;
+  background: #fffdfa;
+  border: 1px solid #ded6c7;
+  border-radius: 8px;
+  padding: 18px;
+}
+.section { margin-top: 22px; }
+.section h3 { margin: 0 0 8px; font-size: 15px; }
+.chips { display: flex; flex-wrap: wrap; gap: 8px; }
+.chip {
+  border: 1px solid #ccc3b4;
+  background: #fffdfa;
+  border-radius: 999px;
+  padding: 5px 9px;
+  font-size: 13px;
+}
+@media (max-width: 760px) {
+  header { align-items: start; flex-direction: column; }
+  main { grid-template-columns: 1fr; }
+  aside { border-right: 0; border-bottom: 1px solid #d7d0c0; max-height: 45vh; }
+  #detail { padding: 18px; }
+}

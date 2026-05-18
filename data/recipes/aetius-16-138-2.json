@@ -1,0 +1,574 @@
+{
+  "dataset_key": "aetius_book16_myrepsika",
+  "source_json": "experiments/aetius-book16-ch126-153-myrepsika/data/aetius_book16_ch126_153_myrepsika.json",
+  "host_raw_file": "tei/raw/tlg0718016.xml",
+  "work_slug": "aetius.b16.myrepsika",
+  "recipe_id": "aetius-16-138-2",
+  "recipe_urn": "urn:aos:recipe:aetius-16-138-2",
+  "record_urn": "urn:aos:recipe-record:aetius-16-138-2",
+  "author": "Aëtius of Amida",
+  "work": "Libri medicinales",
+  "book": "16",
+  "chapter": "138",
+  "section": "2",
+  "chapter_name": "μαστιχάτου κυμινάτου σκευασία · κιτράτου σκευασία · ἀπιάτου σκευασία",
+  "lemma": "κιτράτου σκευασία",
+  "text": "Κιτρίου καλοῦ τοῦ φλοιοῦ ἢ τῶν φύλλων γοη. οἴνου ξέστ. β. μέλιτος ξεα. βρέχε τὸν φλοιὸν ἢ τὰ φύλλα ἐν τῷ οἴνῳ ἐπὶ ἡμέρας ζ. εἶτα διηθήσας τὸν οἶνον, λειώσας τῷ μέλιτι καὶ ἑνώσας χρῶ.",
+  "original_text": null,
+  "text_source": null,
+  "emendations": [],
+  "emendation_count": 0,
+  "source_kind": null,
+  "entry_kind": "recipe",
+  "citation": {
+    "pages": [
+      "167"
+    ],
+    "start": {
+      "page": "167",
+      "line": "10",
+      "xml_id": "zerv-167-10"
+    },
+    "end": {
+      "page": "167",
+      "line": "13",
+      "xml_id": "zerv-167-13"
+    },
+    "citation": {
+      "start": "167.10",
+      "end": "167.13"
+    },
+    "page_spans": [
+      {
+        "page": "167",
+        "start_line": "10",
+        "end_line": "13"
+      }
+    ],
+    "lines": [
+      {
+        "page": "167",
+        "line": "10",
+        "xml_id": "zerv-167-10",
+        "citation": "167.10",
+        "text": "Κιτράτου σκευασία."
+      },
+      {
+        "page": "167",
+        "line": "11",
+        "xml_id": "zerv-167-11",
+        "citation": "167.11",
+        "text": "Κιτρίου καλοῦ τοῦ φλοιοῦ ἢ τῶν φύλλων γοη. οἴνου ξέστ. β."
+      },
+      {
+        "page": "167",
+        "line": "12",
+        "xml_id": "zerv-167-12",
+        "citation": "167.12",
+        "text": "μέλιτος ξεα. βρέχε τὸν φλοιὸν ἢ τὰ φύλλα ἐν τῷ οἴνῳ ἐπὶ ἡμέρας"
+      },
+      {
+        "page": "167",
+        "line": "13",
+        "xml_id": "zerv-167-13",
+        "citation": "167.13",
+        "text": "ζ. εἶτα διηθήσας τὸν οἶνον, λειώσας τῷ μέλιτι καὶ ἑνώσας χρῶ."
+      }
+    ],
+    "edition_key": "zervos"
+  },
+  "notes": [],
+  "alignment_status": "pending",
+  "alignment_confidence": "pending",
+  "alignment_evidence": null,
+  "review_status": "reviewed_structured_authority",
+  "review_provenance": {
+    "authority_source": "reports/entity_review/structured/aetius_book16.json",
+    "authority_recipe_id": "aetius-16-138-2",
+    "authority_lemma": "κιτράτου σκευασία",
+    "model": "gpt-5.4",
+    "reasoning_effort": "high",
+    "dataset_key": "aetius_book16_myrepsika",
+    "entity_model_version": "1.2",
+    "authority_version": "2026-04-13-qty-alt-v1",
+    "prompt_version": "qty-alt-pass-v1",
+    "build_version": "2026-05-18T15:51:35Z"
+  },
+  "schema_version": "1.2",
+  "build_metadata": {
+    "builder": "scripts/recipes/build_recipe_entities.py",
+    "built_at": "2026-05-18T15:51:35Z",
+    "source_structured_authority": "reports/entity_review/structured/aetius_book16.json",
+    "authority_model": "gpt-5.4",
+    "authority_reasoning_effort": "high",
+    "dataset_key": "aetius_book16_myrepsika",
+    "entity_model_version": "1.2",
+    "authority_version": "2026-04-13-qty-alt-v1",
+    "prompt_version": "qty-alt-pass-v1",
+    "build_version": "2026-05-18T15:51:35Z"
+  },
+  "recipe_text_excerpt": "Κιτρίου καλοῦ τοῦ φλοιοῦ ἢ τῶν φύλλων γοη. οἴνου ξέστ. β. μέλιτος ξεα. βρέχε τὸν φλοιὸν ἢ τὰ φύλλα ἐν",
+  "preparation": {
+    "preparation_id": "aetius-16-138-2:preparation:kitratoy-skeyasia",
+    "preparation_urn": "urn:aos:recipe-preparation:aetius-16-138-2:preparation:kitratoy-skeyasia",
+    "source_span": "κιτράτου σκευασία",
+    "surface_form": "κιτράτου σκευασία",
+    "normalized_label": "κιτράτου σκευασία",
+    "qualifiers": [],
+    "regimen_notes": [],
+    "certainty": "certain",
+    "notes": [
+      "The preparation name is taken from the lemma; the procedure text does not restate it."
+    ],
+    "host_locator": {
+      "book": "16",
+      "chapter": "138",
+      "section": "2",
+      "citation": {
+        "start": "167.10",
+        "end": "167.13"
+      }
+    }
+  },
+  "ingredients": [
+    {
+      "ingredient_id": "aetius-16-138-2:ingredient:kalos-phloios-kitrioy-1",
+      "ingredient_urn": "urn:aos:recipe-ingredient:aetius-16-138-2:ingredient:kalos-phloios-kitrioy-1",
+      "source_span": "Κιτρίου καλοῦ τοῦ φλοιοῦ",
+      "surface_form": "Κιτρίου καλοῦ τοῦ φλοιοῦ",
+      "base_label": "φλοιός",
+      "normalized_label": "καλὸς φλοιὸς κιτρίου",
+      "alternative_set_id": "alt1",
+      "certainty": "certain",
+      "linked_process_ids": [
+        "aetius-16-138-2:process:brechein-1",
+        "aetius-16-138-2:process:leioyn-3"
+      ],
+      "quantities": [
+        {
+          "source_span": "γοη.",
+          "raw_number": null,
+          "normalized_number": null,
+          "raw_unit": null,
+          "normalized_unit": null,
+          "certainty": "uncertain",
+          "notes": [
+            "Unresolved abbreviated quantity expression shared by the alternative citron ingredient."
+          ]
+        }
+      ],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "16",
+        "chapter": "138",
+        "section": "2",
+        "citation": {
+          "start": "167.10",
+          "end": "167.13"
+        }
+      }
+    },
+    {
+      "ingredient_id": "aetius-16-138-2:ingredient:kala-phylla-kitrioy-2",
+      "ingredient_urn": "urn:aos:recipe-ingredient:aetius-16-138-2:ingredient:kala-phylla-kitrioy-2",
+      "source_span": "τῶν φύλλων",
+      "surface_form": "τῶν φύλλων",
+      "base_label": "φύλλον",
+      "normalized_label": "καλὰ φύλλα κιτρίου",
+      "alternative_set_id": "alt1",
+      "certainty": "uncertain",
+      "linked_process_ids": [
+        "aetius-16-138-2:process:brechein-1",
+        "aetius-16-138-2:process:leioyn-3"
+      ],
+      "quantities": [
+        {
+          "source_span": "γοη.",
+          "raw_number": null,
+          "normalized_number": null,
+          "raw_unit": null,
+          "normalized_unit": null,
+          "certainty": "uncertain",
+          "notes": [
+            "Unresolved abbreviated quantity expression shared by the alternative citron ingredient."
+          ]
+        }
+      ],
+      "qualifiers": [],
+      "notes": [
+        "The modifier and governing citron descriptor are restored from the coordinated phrase."
+      ],
+      "host_locator": {
+        "book": "16",
+        "chapter": "138",
+        "section": "2",
+        "citation": {
+          "start": "167.10",
+          "end": "167.13"
+        }
+      }
+    },
+    {
+      "ingredient_id": "aetius-16-138-2:ingredient:oinos-3",
+      "ingredient_urn": "urn:aos:recipe-ingredient:aetius-16-138-2:ingredient:oinos-3",
+      "source_span": "οἴνου",
+      "surface_form": "οἴνου",
+      "base_label": "οἶνος",
+      "normalized_label": "οἶνος",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [
+        "aetius-16-138-2:process:diethein-2"
+      ],
+      "quantities": [
+        {
+          "source_span": "ξέστ. β.",
+          "raw_number": "β",
+          "normalized_number": 2,
+          "raw_unit": "ξέστ.",
+          "normalized_unit": "xestes",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "16",
+        "chapter": "138",
+        "section": "2",
+        "citation": {
+          "start": "167.10",
+          "end": "167.13"
+        }
+      }
+    },
+    {
+      "ingredient_id": "aetius-16-138-2:ingredient:meli-4",
+      "ingredient_urn": "urn:aos:recipe-ingredient:aetius-16-138-2:ingredient:meli-4",
+      "source_span": "μέλιτος",
+      "surface_form": "μέλιτος",
+      "base_label": "μέλι",
+      "normalized_label": "μέλι",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [],
+      "quantities": [
+        {
+          "source_span": "ξεα.",
+          "raw_number": null,
+          "normalized_number": null,
+          "raw_unit": null,
+          "normalized_unit": null,
+          "certainty": "uncertain",
+          "notes": [
+            "Unresolved abbreviated quantity expression."
+          ]
+        }
+      ],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "16",
+        "chapter": "138",
+        "section": "2",
+        "citation": {
+          "start": "167.10",
+          "end": "167.13"
+        }
+      }
+    }
+  ],
+  "processes": [
+    {
+      "process_id": "aetius-16-138-2:process:brechein-1",
+      "process_urn": "urn:aos:recipe-process:aetius-16-138-2:process:brechein-1",
+      "source_span": "βρέχε",
+      "surface_form": "βρέχε",
+      "normalized_label": "βρέχειν",
+      "target_type": "ingredient",
+      "target_ids": [
+        "aetius-16-138-2:ingredient:kalos-phloios-kitrioy-1",
+        "aetius-16-138-2:ingredient:kala-phylla-kitrioy-2"
+      ],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "location",
+          "source_span": "ἐν τῷ οἴνῳ",
+          "normalized_value": "ἐν οἴνῳ",
+          "certainty": "certain",
+          "notes": []
+        },
+        {
+          "qualifier_type": "duration",
+          "source_span": "ἐπὶ ἡμέρας ζ.",
+          "normalized_value": "7 ἡμέραι",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "16",
+        "chapter": "138",
+        "section": "2",
+        "citation": {
+          "start": "167.10",
+          "end": "167.13"
+        }
+      }
+    },
+    {
+      "process_id": "aetius-16-138-2:process:diethein-2",
+      "process_urn": "urn:aos:recipe-process:aetius-16-138-2:process:diethein-2",
+      "source_span": "διηθήσας",
+      "surface_form": "διηθήσας",
+      "normalized_label": "διηθεῖν",
+      "target_type": "ingredient",
+      "target_ids": [
+        "aetius-16-138-2:ingredient:oinos-3"
+      ],
+      "quantities": [],
+      "qualifiers": [],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "16",
+        "chapter": "138",
+        "section": "2",
+        "citation": {
+          "start": "167.10",
+          "end": "167.13"
+        }
+      }
+    },
+    {
+      "process_id": "aetius-16-138-2:process:leioyn-3",
+      "process_urn": "urn:aos:recipe-process:aetius-16-138-2:process:leioyn-3",
+      "source_span": "λειώσας",
+      "surface_form": "λειώσας",
+      "normalized_label": "λειοῦν",
+      "target_type": "ingredient",
+      "target_ids": [
+        "aetius-16-138-2:ingredient:kalos-phloios-kitrioy-1",
+        "aetius-16-138-2:ingredient:kala-phylla-kitrioy-2"
+      ],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "other",
+          "source_span": "τῷ μέλιτι",
+          "normalized_value": "μετὰ μέλιτος",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "certainty": "certain",
+      "notes": [
+        "The direct object is omitted and inferred from the preceding citron ingredient alternative."
+      ],
+      "host_locator": {
+        "book": "16",
+        "chapter": "138",
+        "section": "2",
+        "citation": {
+          "start": "167.10",
+          "end": "167.13"
+        }
+      }
+    },
+    {
+      "process_id": "aetius-16-138-2:process:enoyn-4",
+      "process_urn": "urn:aos:recipe-process:aetius-16-138-2:process:enoyn-4",
+      "source_span": "ἑνώσας",
+      "surface_form": "ἑνώσας",
+      "normalized_label": "ἑνοῦν",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "16",
+        "chapter": "138",
+        "section": "2",
+        "citation": {
+          "start": "167.10",
+          "end": "167.13"
+        }
+      }
+    },
+    {
+      "process_id": "aetius-16-138-2:process:chresthai-5",
+      "process_urn": "urn:aos:recipe-process:aetius-16-138-2:process:chresthai-5",
+      "source_span": "χρῶ",
+      "surface_form": "χρῶ",
+      "normalized_label": "χρῆσθαι",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "16",
+        "chapter": "138",
+        "section": "2",
+        "citation": {
+          "start": "167.10",
+          "end": "167.13"
+        }
+      }
+    }
+  ],
+  "materials": [],
+  "people": [],
+  "places": [],
+  "uses": [],
+  "preparation_names": [],
+  "other_preparations_mentioned": [],
+  "works_mentioned": [],
+  "entities": [
+    {
+      "entity_urn": "urn:aos:recipe-preparation:aetius-16-138-2:preparation:kitratoy-skeyasia",
+      "entity_type": "label",
+      "surface_form": "κιτράτου σκευασία",
+      "normalized_label": "κιτράτου σκευασία"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:aetius-16-138-2:ingredient:kalos-phloios-kitrioy-1",
+      "entity_type": "ingredient",
+      "surface_form": "Κιτρίου καλοῦ τοῦ φλοιοῦ",
+      "normalized_label": "καλὸς φλοιὸς κιτρίου"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:aetius-16-138-2:ingredient:kala-phylla-kitrioy-2",
+      "entity_type": "ingredient",
+      "surface_form": "τῶν φύλλων",
+      "normalized_label": "καλὰ φύλλα κιτρίου"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:aetius-16-138-2:ingredient:oinos-3",
+      "entity_type": "ingredient",
+      "surface_form": "οἴνου",
+      "normalized_label": "οἶνος"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:aetius-16-138-2:ingredient:meli-4",
+      "entity_type": "ingredient",
+      "surface_form": "μέλιτος",
+      "normalized_label": "μέλι"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:aetius-16-138-2:process:brechein-1",
+      "entity_type": "process",
+      "surface_form": "βρέχε",
+      "normalized_label": "βρέχειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:aetius-16-138-2:process:diethein-2",
+      "entity_type": "process",
+      "surface_form": "διηθήσας",
+      "normalized_label": "διηθεῖν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:aetius-16-138-2:process:leioyn-3",
+      "entity_type": "process",
+      "surface_form": "λειώσας",
+      "normalized_label": "λειοῦν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:aetius-16-138-2:process:enoyn-4",
+      "entity_type": "process",
+      "surface_form": "ἑνώσας",
+      "normalized_label": "ἑνοῦν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:aetius-16-138-2:process:chresthai-5",
+      "entity_type": "process",
+      "surface_form": "χρῶ",
+      "normalized_label": "χρῆσθαι"
+    }
+  ],
+  "canonical_file": "data/recipes/aetius-16-138-2.json",
+  "source_entry": {
+    "source_id": "aetius-16-138-2",
+    "derived_recipe_id": "aetius-16-138-2",
+    "entry_kind": null,
+    "source_kind": null,
+    "source_lines": null,
+    "section_markers": []
+  },
+  "entity_groups": {
+    "labels": [
+      {
+        "entity_urn": "urn:aos:recipe-preparation:aetius-16-138-2:preparation:kitratoy-skeyasia",
+        "surface_form": "κιτράτου σκευασία",
+        "normalized_label": "κιτράτου σκευασία"
+      }
+    ],
+    "ingredients": [
+      {
+        "entity_urn": "urn:aos:recipe-ingredient:aetius-16-138-2:ingredient:kalos-phloios-kitrioy-1",
+        "surface_form": "Κιτρίου καλοῦ τοῦ φλοιοῦ",
+        "normalized_label": "καλὸς φλοιὸς κιτρίου",
+        "quantity_display": "γοη."
+      },
+      {
+        "entity_urn": "urn:aos:recipe-ingredient:aetius-16-138-2:ingredient:kala-phylla-kitrioy-2",
+        "surface_form": "τῶν φύλλων",
+        "normalized_label": "καλὰ φύλλα κιτρίου",
+        "quantity_display": "γοη."
+      },
+      {
+        "entity_urn": "urn:aos:recipe-ingredient:aetius-16-138-2:ingredient:oinos-3",
+        "surface_form": "οἴνου",
+        "normalized_label": "οἶνος",
+        "quantity_display": "ξέστ. β."
+      },
+      {
+        "entity_urn": "urn:aos:recipe-ingredient:aetius-16-138-2:ingredient:meli-4",
+        "surface_form": "μέλιτος",
+        "normalized_label": "μέλι",
+        "quantity_display": "ξεα."
+      }
+    ],
+    "processes": [
+      {
+        "entity_urn": "urn:aos:recipe-process:aetius-16-138-2:process:brechein-1",
+        "surface_form": "βρέχε",
+        "normalized_label": "βρέχειν"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-process:aetius-16-138-2:process:diethein-2",
+        "surface_form": "διηθήσας",
+        "normalized_label": "διηθεῖν"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-process:aetius-16-138-2:process:leioyn-3",
+        "surface_form": "λειώσας",
+        "normalized_label": "λειοῦν"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-process:aetius-16-138-2:process:enoyn-4",
+        "surface_form": "ἑνώσας",
+        "normalized_label": "ἑνοῦν"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-process:aetius-16-138-2:process:chresthai-5",
+        "surface_form": "χρῶ",
+        "normalized_label": "χρῆσθαι"
+      }
+    ],
+    "tools": [],
+    "other_preparations_mentioned": [],
+    "people": [],
+    "places": [],
+    "works_mentioned": [],
+    "preparation_names": []
+  }
+}

@@ -1,0 +1,693 @@
+{
+  "dataset_key": "aetius_book16_myrepsika",
+  "source_json": "experiments/aetius-book16-ch126-153-myrepsika/data/aetius_book16_ch126_153_myrepsika.json",
+  "host_raw_file": "tei/raw/tlg0718016.xml",
+  "work_slug": "aetius.b16.myrepsika",
+  "recipe_id": "aetius-16-129",
+  "recipe_urn": "urn:aos:recipe:aetius-16-129",
+  "record_urn": "urn:aos:recipe-record:aetius-16-129",
+  "author": "Aëtius of Amida",
+  "work": "Libri medicinales",
+  "book": "16",
+  "chapter": "129",
+  "section": null,
+  "chapter_name": "ὑγρομύρου σκευασία ᾧ χρῶνται εἰς τὰ ὦτα γυναῖκες",
+  "lemma": "ὑγρομύρου σκευασία ᾧ χρῶνται εἰς τὰ ὦτα γυναῖκες",
+  "text": "Φύλλου, ναρδοστάχυος χυλοῦ, μαστίχης, καρυοφύλλου ἀνὰ γοα γράμματα ιβ. στύρακος λιπαροῦ, ὀποβαλσάμου ἀνὰ γοβ. κρόκου γράμματα στ. μόσχου γράμμα α. ἐλαίου σαλκᾶ πρωτείου γοδ.",
+  "original_text": null,
+  "text_source": null,
+  "emendations": [],
+  "emendation_count": 0,
+  "source_kind": null,
+  "entry_kind": "recipe",
+  "citation": {
+    "pages": [
+      "162"
+    ],
+    "start": {
+      "page": "162",
+      "line": "14",
+      "xml_id": "zerv-162-14"
+    },
+    "end": {
+      "page": "162",
+      "line": "17",
+      "xml_id": "zerv-162-17"
+    },
+    "citation": {
+      "start": "162.14",
+      "end": "162.17"
+    },
+    "page_spans": [
+      {
+        "page": "162",
+        "start_line": "14",
+        "end_line": "17"
+      }
+    ],
+    "lines": [
+      {
+        "page": "162",
+        "line": "14",
+        "xml_id": "zerv-162-14",
+        "citation": "162.14",
+        "text": "ΥΓΡΟΜΥΡΟΥ ΣΚΕΥΑΣΙΑ Ω ΧΡΩΝΤΑΙ ΕΙΣ ΤΑ ΩΤΑ ΓΥΝΑΙΚΕΣ."
+      },
+      {
+        "page": "162",
+        "line": "15",
+        "xml_id": "zerv-162-15",
+        "citation": "162.15",
+        "text": "Φύλλου, ναρδοστάχυος χυλοῦ, μαστίχης, καρυοφύλλου ἀνὰ γοα"
+      },
+      {
+        "page": "162",
+        "line": "16",
+        "xml_id": "zerv-162-16",
+        "citation": "162.16",
+        "text": "γράμματα ιβ. στύρακος λιπαροῦ, ὀποβαλσάμου ἀνὰ γοβ. κρόκου"
+      },
+      {
+        "page": "162",
+        "line": "17",
+        "xml_id": "zerv-162-17",
+        "citation": "162.17",
+        "text": "γράμματα στ. μόσχου γράμμα α. ἐλαίου σαλκᾶ πρωτείου γοδ."
+      }
+    ],
+    "edition_key": "zervos"
+  },
+  "notes": [
+    "Distributive ἀνὰ governs Φύλλου, ναρδοστάχυος χυλοῦ, μαστίχης, καρυοφύλλου with γοα and γράμματα ιβ, and στύρακος λιπαροῦ, ὀποβαλσάμου with γοβ."
+  ],
+  "alignment_status": "pending",
+  "alignment_confidence": "pending",
+  "alignment_evidence": null,
+  "review_status": "reviewed_structured_authority",
+  "review_provenance": {
+    "authority_source": "reports/entity_review/structured/aetius_book16.json",
+    "authority_recipe_id": "aetius-16-129",
+    "authority_lemma": "ὑγρομύρου σκευασία ᾧ χρῶνται εἰς τὰ ὦτα γυναῖκες",
+    "model": "gpt-5.4",
+    "reasoning_effort": "high",
+    "dataset_key": "aetius_book16_myrepsika",
+    "entity_model_version": "1.2",
+    "authority_version": "2026-04-13-qty-alt-v1",
+    "prompt_version": "qty-alt-pass-v1",
+    "build_version": "2026-05-18T15:51:35Z"
+  },
+  "schema_version": "1.2",
+  "build_metadata": {
+    "builder": "scripts/recipes/build_recipe_entities.py",
+    "built_at": "2026-05-18T15:51:35Z",
+    "source_structured_authority": "reports/entity_review/structured/aetius_book16.json",
+    "authority_model": "gpt-5.4",
+    "authority_reasoning_effort": "high",
+    "dataset_key": "aetius_book16_myrepsika",
+    "entity_model_version": "1.2",
+    "authority_version": "2026-04-13-qty-alt-v1",
+    "prompt_version": "qty-alt-pass-v1",
+    "build_version": "2026-05-18T15:51:35Z"
+  },
+  "recipe_text_excerpt": "Φύλλου, ναρδοστάχυος χυλοῦ, μαστίχης, καρυοφύλλου ἀνὰ γοα γράμματα ιβ. στύρακος λιπαροῦ, ὀποβαλσάμου ἀνὰ γοβ. κρόκου γράμματα στ. μόσχου γράμμα α.",
+  "preparation": {
+    "preparation_id": "aetius-16-129:preparation:ygromyroy-skeyasia-o-chrontai-eis-ta-ota-gynaikes",
+    "preparation_urn": "urn:aos:recipe-preparation:aetius-16-129:preparation:ygromyroy-skeyasia-o-chrontai-eis-ta-ota-gynaikes",
+    "source_span": "ὑγρομύρου σκευασία ᾧ χρῶνται εἰς τὰ ὦτα γυναῖκες",
+    "surface_form": "ὑγρομύρου σκευασία ᾧ χρῶνται εἰς τὰ ὦτα γυναῖκες",
+    "normalized_label": "ὑγρομύρου σκευασία ᾧ χρῶνται εἰς τὰ ὦτα γυναῖκες",
+    "qualifiers": [
+      {
+        "qualifier_type": "other",
+        "source_span": "ὑγρομύρου",
+        "normalized_value": "ὑγρόμυρον",
+        "certainty": "certain",
+        "notes": []
+      }
+    ],
+    "regimen_notes": [],
+    "certainty": "certain",
+    "notes": [],
+    "host_locator": {
+      "book": "16",
+      "chapter": "129",
+      "section": null,
+      "citation": {
+        "start": "162.14",
+        "end": "162.17"
+      }
+    }
+  },
+  "ingredients": [
+    {
+      "ingredient_id": "aetius-16-129:ingredient:phyllon-1",
+      "ingredient_urn": "urn:aos:recipe-ingredient:aetius-16-129:ingredient:phyllon-1",
+      "source_span": "Φύλλου",
+      "surface_form": "Φύλλου",
+      "base_label": "φύλλον",
+      "normalized_label": "φύλλον",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [],
+      "quantities": [
+        {
+          "source_span": "γοα",
+          "raw_number": "α",
+          "normalized_number": 1,
+          "raw_unit": "γο",
+          "normalized_unit": null,
+          "certainty": "uncertain",
+          "notes": [
+            "Unit abbreviation γο left unresolved."
+          ]
+        },
+        {
+          "source_span": "γράμματα ιβ",
+          "raw_number": "ιβ",
+          "normalized_number": 12,
+          "raw_unit": "γράμματα",
+          "normalized_unit": "gramma",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "16",
+        "chapter": "129",
+        "section": null,
+        "citation": {
+          "start": "162.14",
+          "end": "162.17"
+        }
+      }
+    },
+    {
+      "ingredient_id": "aetius-16-129:ingredient:chylos-nardostachyos-2",
+      "ingredient_urn": "urn:aos:recipe-ingredient:aetius-16-129:ingredient:chylos-nardostachyos-2",
+      "source_span": "ναρδοστάχυος χυλοῦ",
+      "surface_form": "ναρδοστάχυος χυλοῦ",
+      "base_label": "χυλός",
+      "normalized_label": "χυλὸς ναρδοστάχυος",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [],
+      "quantities": [
+        {
+          "source_span": "γοα",
+          "raw_number": "α",
+          "normalized_number": 1,
+          "raw_unit": "γο",
+          "normalized_unit": null,
+          "certainty": "uncertain",
+          "notes": [
+            "Unit abbreviation γο left unresolved."
+          ]
+        },
+        {
+          "source_span": "γράμματα ιβ",
+          "raw_number": "ιβ",
+          "normalized_number": 12,
+          "raw_unit": "γράμματα",
+          "normalized_unit": "gramma",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "16",
+        "chapter": "129",
+        "section": null,
+        "citation": {
+          "start": "162.14",
+          "end": "162.17"
+        }
+      }
+    },
+    {
+      "ingredient_id": "aetius-16-129:ingredient:mastiche-3",
+      "ingredient_urn": "urn:aos:recipe-ingredient:aetius-16-129:ingredient:mastiche-3",
+      "source_span": "μαστίχης",
+      "surface_form": "μαστίχης",
+      "base_label": "μαστίχη",
+      "normalized_label": "μαστίχη",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [],
+      "quantities": [
+        {
+          "source_span": "γοα",
+          "raw_number": "α",
+          "normalized_number": 1,
+          "raw_unit": "γο",
+          "normalized_unit": null,
+          "certainty": "uncertain",
+          "notes": [
+            "Unit abbreviation γο left unresolved."
+          ]
+        },
+        {
+          "source_span": "γράμματα ιβ",
+          "raw_number": "ιβ",
+          "normalized_number": 12,
+          "raw_unit": "γράμματα",
+          "normalized_unit": "gramma",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "16",
+        "chapter": "129",
+        "section": null,
+        "citation": {
+          "start": "162.14",
+          "end": "162.17"
+        }
+      }
+    },
+    {
+      "ingredient_id": "aetius-16-129:ingredient:karyophyllon-4",
+      "ingredient_urn": "urn:aos:recipe-ingredient:aetius-16-129:ingredient:karyophyllon-4",
+      "source_span": "καρυοφύλλου",
+      "surface_form": "καρυοφύλλου",
+      "base_label": "καρυόφυλλον",
+      "normalized_label": "καρυόφυλλον",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [],
+      "quantities": [
+        {
+          "source_span": "γοα",
+          "raw_number": "α",
+          "normalized_number": 1,
+          "raw_unit": "γο",
+          "normalized_unit": null,
+          "certainty": "uncertain",
+          "notes": [
+            "Unit abbreviation γο left unresolved."
+          ]
+        },
+        {
+          "source_span": "γράμματα ιβ",
+          "raw_number": "ιβ",
+          "normalized_number": 12,
+          "raw_unit": "γράμματα",
+          "normalized_unit": "gramma",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "16",
+        "chapter": "129",
+        "section": null,
+        "citation": {
+          "start": "162.14",
+          "end": "162.17"
+        }
+      }
+    },
+    {
+      "ingredient_id": "aetius-16-129:ingredient:styrax-liparos-5",
+      "ingredient_urn": "urn:aos:recipe-ingredient:aetius-16-129:ingredient:styrax-liparos-5",
+      "source_span": "στύρακος λιπαροῦ",
+      "surface_form": "στύρακος λιπαροῦ",
+      "base_label": "στύραξ",
+      "normalized_label": "στύραξ λιπαρός",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [],
+      "quantities": [
+        {
+          "source_span": "γοβ",
+          "raw_number": "β",
+          "normalized_number": 2,
+          "raw_unit": "γο",
+          "normalized_unit": null,
+          "certainty": "uncertain",
+          "notes": [
+            "Unit abbreviation γο left unresolved."
+          ]
+        }
+      ],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "16",
+        "chapter": "129",
+        "section": null,
+        "citation": {
+          "start": "162.14",
+          "end": "162.17"
+        }
+      }
+    },
+    {
+      "ingredient_id": "aetius-16-129:ingredient:opobalsamon-6",
+      "ingredient_urn": "urn:aos:recipe-ingredient:aetius-16-129:ingredient:opobalsamon-6",
+      "source_span": "ὀποβαλσάμου",
+      "surface_form": "ὀποβαλσάμου",
+      "base_label": "ὀποβάλσαμον",
+      "normalized_label": "ὀποβάλσαμον",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [],
+      "quantities": [
+        {
+          "source_span": "γοβ",
+          "raw_number": "β",
+          "normalized_number": 2,
+          "raw_unit": "γο",
+          "normalized_unit": null,
+          "certainty": "uncertain",
+          "notes": [
+            "Unit abbreviation γο left unresolved."
+          ]
+        }
+      ],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "16",
+        "chapter": "129",
+        "section": null,
+        "citation": {
+          "start": "162.14",
+          "end": "162.17"
+        }
+      }
+    },
+    {
+      "ingredient_id": "aetius-16-129:ingredient:krokos-7",
+      "ingredient_urn": "urn:aos:recipe-ingredient:aetius-16-129:ingredient:krokos-7",
+      "source_span": "κρόκου",
+      "surface_form": "κρόκου",
+      "base_label": "κρόκος",
+      "normalized_label": "κρόκος",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [],
+      "quantities": [
+        {
+          "source_span": "γράμματα στ",
+          "raw_number": "στ",
+          "normalized_number": 6,
+          "raw_unit": "γράμματα",
+          "normalized_unit": "gramma",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "16",
+        "chapter": "129",
+        "section": null,
+        "citation": {
+          "start": "162.14",
+          "end": "162.17"
+        }
+      }
+    },
+    {
+      "ingredient_id": "aetius-16-129:ingredient:moschos-8",
+      "ingredient_urn": "urn:aos:recipe-ingredient:aetius-16-129:ingredient:moschos-8",
+      "source_span": "μόσχου",
+      "surface_form": "μόσχου",
+      "base_label": "μόσχος",
+      "normalized_label": "μόσχος",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [],
+      "quantities": [
+        {
+          "source_span": "γράμμα α",
+          "raw_number": "α",
+          "normalized_number": 1,
+          "raw_unit": "γράμμα",
+          "normalized_unit": "gramma",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "16",
+        "chapter": "129",
+        "section": null,
+        "citation": {
+          "start": "162.14",
+          "end": "162.17"
+        }
+      }
+    },
+    {
+      "ingredient_id": "aetius-16-129:ingredient:elaion-salka-proteion-9",
+      "ingredient_urn": "urn:aos:recipe-ingredient:aetius-16-129:ingredient:elaion-salka-proteion-9",
+      "source_span": "ἐλαίου σαλκᾶ πρωτείου",
+      "surface_form": "ἐλαίου σαλκᾶ πρωτείου",
+      "base_label": "ἔλαιον",
+      "normalized_label": "ἔλαιον σαλκᾶ πρωτεῖον",
+      "alternative_set_id": null,
+      "certainty": "uncertain",
+      "linked_process_ids": [],
+      "quantities": [
+        {
+          "source_span": "γοδ",
+          "raw_number": "δ",
+          "normalized_number": 4,
+          "raw_unit": "γο",
+          "normalized_unit": null,
+          "certainty": "uncertain",
+          "notes": [
+            "Unit abbreviation γο left unresolved."
+          ]
+        }
+      ],
+      "qualifiers": [],
+      "notes": [
+        "Normalized conservatively from the transmitted phrase."
+      ],
+      "host_locator": {
+        "book": "16",
+        "chapter": "129",
+        "section": null,
+        "citation": {
+          "start": "162.14",
+          "end": "162.17"
+        }
+      }
+    }
+  ],
+  "processes": [],
+  "materials": [],
+  "people": [],
+  "places": [],
+  "uses": [
+    {
+      "use_id": "aetius-16-129:use:o-chrontai-eis-ta-ota-gynaikes-1",
+      "use_urn": "urn:aos:recipe-use:aetius-16-129:use:o-chrontai-eis-ta-ota-gynaikes-1",
+      "category": "cosmetic",
+      "source_span": "ᾧ χρῶνται εἰς τὰ ὦτα γυναῖκες",
+      "snippet": "ᾧ χρῶνται εἰς τὰ ὦτα γυναῖκες",
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "16",
+        "chapter": "129",
+        "section": null,
+        "citation": {
+          "start": "162.14",
+          "end": "162.17"
+        }
+      }
+    }
+  ],
+  "preparation_names": [
+    {
+      "preparation_name_id": "aetius-16-129:preparation_name:ygromyroy-skeyasia-1",
+      "preparation_name_urn": "urn:aos:recipe-preparation_name:aetius-16-129:preparation_name:ygromyroy-skeyasia-1",
+      "source_span": "ὑγρομύρου σκευασία",
+      "surface_form": "ὑγρομύρου σκευασία",
+      "normalized_label": "ὑγρομύρου σκευασία",
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "16",
+        "chapter": "129",
+        "section": null,
+        "citation": {
+          "start": "162.14",
+          "end": "162.17"
+        }
+      }
+    }
+  ],
+  "other_preparations_mentioned": [],
+  "works_mentioned": [],
+  "entities": [
+    {
+      "entity_urn": "urn:aos:recipe-preparation:aetius-16-129:preparation:ygromyroy-skeyasia-o-chrontai-eis-ta-ota-gynaikes",
+      "entity_type": "label",
+      "surface_form": "ὑγρομύρου σκευασία ᾧ χρῶνται εἰς τὰ ὦτα γυναῖκες",
+      "normalized_label": "ὑγρομύρου σκευασία ᾧ χρῶνται εἰς τὰ ὦτα γυναῖκες"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:aetius-16-129:ingredient:phyllon-1",
+      "entity_type": "ingredient",
+      "surface_form": "Φύλλου",
+      "normalized_label": "φύλλον"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:aetius-16-129:ingredient:chylos-nardostachyos-2",
+      "entity_type": "ingredient",
+      "surface_form": "ναρδοστάχυος χυλοῦ",
+      "normalized_label": "χυλὸς ναρδοστάχυος"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:aetius-16-129:ingredient:mastiche-3",
+      "entity_type": "ingredient",
+      "surface_form": "μαστίχης",
+      "normalized_label": "μαστίχη"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:aetius-16-129:ingredient:karyophyllon-4",
+      "entity_type": "ingredient",
+      "surface_form": "καρυοφύλλου",
+      "normalized_label": "καρυόφυλλον"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:aetius-16-129:ingredient:styrax-liparos-5",
+      "entity_type": "ingredient",
+      "surface_form": "στύρακος λιπαροῦ",
+      "normalized_label": "στύραξ λιπαρός"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:aetius-16-129:ingredient:opobalsamon-6",
+      "entity_type": "ingredient",
+      "surface_form": "ὀποβαλσάμου",
+      "normalized_label": "ὀποβάλσαμον"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:aetius-16-129:ingredient:krokos-7",
+      "entity_type": "ingredient",
+      "surface_form": "κρόκου",
+      "normalized_label": "κρόκος"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:aetius-16-129:ingredient:moschos-8",
+      "entity_type": "ingredient",
+      "surface_form": "μόσχου",
+      "normalized_label": "μόσχος"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:aetius-16-129:ingredient:elaion-salka-proteion-9",
+      "entity_type": "ingredient",
+      "surface_form": "ἐλαίου σαλκᾶ πρωτείου",
+      "normalized_label": "ἔλαιον σαλκᾶ πρωτεῖον"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-preparation_name:aetius-16-129:preparation_name:ygromyroy-skeyasia-1",
+      "entity_type": "preparation_name",
+      "surface_form": "ὑγρομύρου σκευασία",
+      "normalized_label": "ὑγρομύρου σκευασία"
+    }
+  ],
+  "canonical_file": "data/recipes/aetius-16-129.json",
+  "source_entry": {
+    "source_id": "aetius-16-129",
+    "derived_recipe_id": "aetius-16-129",
+    "entry_kind": null,
+    "source_kind": null,
+    "source_lines": null,
+    "section_markers": []
+  },
+  "entity_groups": {
+    "labels": [
+      {
+        "entity_urn": "urn:aos:recipe-preparation:aetius-16-129:preparation:ygromyroy-skeyasia-o-chrontai-eis-ta-ota-gynaikes",
+        "surface_form": "ὑγρομύρου σκευασία ᾧ χρῶνται εἰς τὰ ὦτα γυναῖκες",
+        "normalized_label": "ὑγρομύρου σκευασία ᾧ χρῶνται εἰς τὰ ὦτα γυναῖκες"
+      }
+    ],
+    "ingredients": [
+      {
+        "entity_urn": "urn:aos:recipe-ingredient:aetius-16-129:ingredient:phyllon-1",
+        "surface_form": "Φύλλου",
+        "normalized_label": "φύλλον",
+        "quantity_display": "γοα · γράμματα ιβ"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-ingredient:aetius-16-129:ingredient:chylos-nardostachyos-2",
+        "surface_form": "ναρδοστάχυος χυλοῦ",
+        "normalized_label": "χυλὸς ναρδοστάχυος",
+        "quantity_display": "γοα · γράμματα ιβ"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-ingredient:aetius-16-129:ingredient:mastiche-3",
+        "surface_form": "μαστίχης",
+        "normalized_label": "μαστίχη",
+        "quantity_display": "γοα · γράμματα ιβ"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-ingredient:aetius-16-129:ingredient:karyophyllon-4",
+        "surface_form": "καρυοφύλλου",
+        "normalized_label": "καρυόφυλλον",
+        "quantity_display": "γοα · γράμματα ιβ"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-ingredient:aetius-16-129:ingredient:styrax-liparos-5",
+        "surface_form": "στύρακος λιπαροῦ",
+        "normalized_label": "στύραξ λιπαρός",
+        "quantity_display": "γοβ"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-ingredient:aetius-16-129:ingredient:opobalsamon-6",
+        "surface_form": "ὀποβαλσάμου",
+        "normalized_label": "ὀποβάλσαμον",
+        "quantity_display": "γοβ"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-ingredient:aetius-16-129:ingredient:krokos-7",
+        "surface_form": "κρόκου",
+        "normalized_label": "κρόκος",
+        "quantity_display": "γράμματα στ"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-ingredient:aetius-16-129:ingredient:moschos-8",
+        "surface_form": "μόσχου",
+        "normalized_label": "μόσχος",
+        "quantity_display": "γράμμα α"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-ingredient:aetius-16-129:ingredient:elaion-salka-proteion-9",
+        "surface_form": "ἐλαίου σαλκᾶ πρωτείου",
+        "normalized_label": "ἔλαιον σαλκᾶ πρωτεῖον",
+        "quantity_display": "γοδ"
+      }
+    ],
+    "processes": [],
+    "tools": [],
+    "other_preparations_mentioned": [],
+    "people": [],
+    "places": [],
+    "works_mentioned": [],
+    "preparation_names": [
+      {
+        "entity_urn": "urn:aos:recipe-preparation_name:aetius-16-129:preparation_name:ygromyroy-skeyasia-1",
+        "surface_form": "ὑγρομύρου σκευασία",
+        "normalized_label": "ὑγρομύρου σκευασία"
+      }
+    ]
+  }
+}

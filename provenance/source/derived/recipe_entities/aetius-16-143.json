@@ -1,0 +1,644 @@
+{
+  "dataset_key": "aetius_book16_myrepsika",
+  "source_json": "experiments/aetius-book16-ch126-153-myrepsika/data/aetius_book16_ch126_153_myrepsika.json",
+  "host_raw_file": "tei/raw/tlg0718016.xml",
+  "work_slug": "aetius.b16.myrepsika",
+  "recipe_id": "aetius-16-143",
+  "recipe_urn": "urn:aos:recipe:aetius-16-143",
+  "record_urn": "urn:aos:recipe-record:aetius-16-143",
+  "author": "Aëtius of Amida",
+  "work": "Libri medicinales",
+  "book": "16",
+  "chapter": "143",
+  "section": null,
+  "chapter_name": "θυμιάματος τοῦ βασιλικοῦ σκευασία",
+  "lemma": "θυμιάματος τοῦ βασιλικοῦ σκευασία",
+  "text": "Στύρακος καλαμίτου λίτρ. α. ἀλόης γοστ. ἄμβαρος γοα. μόσχου γράμματα δ. τινὲς δὲ τοῦτο οὕτω σκευάζουσι· στύρακος καλαμίτου λίτρ. α. ἀλόης γοδ. ἄμβαρος γοα. μόσχου γράμματα δ. προστιθέασι δὲ καὶ χυλοῦ ῥόδων τὸ ἀρκοῦν.",
+  "original_text": null,
+  "text_source": null,
+  "emendations": [],
+  "emendation_count": 0,
+  "source_kind": null,
+  "entry_kind": "recipe",
+  "citation": {
+    "pages": [
+      "169"
+    ],
+    "start": {
+      "page": "169",
+      "line": "3",
+      "xml_id": "zerv-169-3"
+    },
+    "end": {
+      "page": "169",
+      "line": "7",
+      "xml_id": "zerv-169-7"
+    },
+    "citation": {
+      "start": "169.3",
+      "end": "169.7"
+    },
+    "page_spans": [
+      {
+        "page": "169",
+        "start_line": "3",
+        "end_line": "7"
+      }
+    ],
+    "lines": [
+      {
+        "page": "169",
+        "line": "3",
+        "xml_id": "zerv-169-3",
+        "citation": "169.3",
+        "text": "ΘΥΜΙΑΜΑΤΟΣ ΤΟΥ ΒΑΣΙΛΙΚΟΥ ΣΚΕΥΑΣΙΑ."
+      },
+      {
+        "page": "169",
+        "line": "4",
+        "xml_id": "zerv-169-4",
+        "citation": "169.4",
+        "text": "Στύρακος καλαμίτου λίτρ. α. ἀλόης γοστ. ἄμβαρος γοα."
+      },
+      {
+        "page": "169",
+        "line": "5",
+        "xml_id": "zerv-169-5",
+        "citation": "169.5",
+        "text": "μόσχου γράμματα δ. τινὲς δὲ τοῦτο οὕτω σκευάζουσι· στύρακος"
+      },
+      {
+        "page": "169",
+        "line": "6",
+        "xml_id": "zerv-169-6",
+        "citation": "169.6",
+        "text": "καλαμίτου λίτρ. α. ἀλόης γοδ. ἄμβαρος γοα. μόσχου γράμματα δ."
+      },
+      {
+        "page": "169",
+        "line": "7",
+        "xml_id": "zerv-169-7",
+        "citation": "169.7",
+        "text": "προστιθέασι δὲ καὶ χυλοῦ ῥόδων τὸ ἀρκοῦν."
+      }
+    ],
+    "edition_key": "zervos"
+  },
+  "notes": [],
+  "alignment_status": "pending",
+  "alignment_confidence": "pending",
+  "alignment_evidence": null,
+  "review_status": "reviewed_structured_authority",
+  "review_provenance": {
+    "authority_source": "reports/entity_review/structured/aetius_book16.json",
+    "authority_recipe_id": "aetius-16-143",
+    "authority_lemma": "θυμιάματος τοῦ βασιλικοῦ σκευασία",
+    "model": "gpt-5.4",
+    "reasoning_effort": "high",
+    "dataset_key": "aetius_book16_myrepsika",
+    "entity_model_version": "1.2",
+    "authority_version": "2026-04-13-qty-alt-v1",
+    "prompt_version": "qty-alt-pass-v1",
+    "build_version": "2026-05-18T15:51:35Z"
+  },
+  "schema_version": "1.2",
+  "build_metadata": {
+    "builder": "scripts/recipes/build_recipe_entities.py",
+    "built_at": "2026-05-18T15:51:35Z",
+    "source_structured_authority": "reports/entity_review/structured/aetius_book16.json",
+    "authority_model": "gpt-5.4",
+    "authority_reasoning_effort": "high",
+    "dataset_key": "aetius_book16_myrepsika",
+    "entity_model_version": "1.2",
+    "authority_version": "2026-04-13-qty-alt-v1",
+    "prompt_version": "qty-alt-pass-v1",
+    "build_version": "2026-05-18T15:51:35Z"
+  },
+  "recipe_text_excerpt": "Στύρακος καλαμίτου λίτρ. α. ἀλόης γοστ. ἄμβαρος γοα. μόσχου γράμματα δ. τινὲς δὲ τοῦτο οὕτω σκευάζουσι· στύρακος καλαμίτου λίτρ. α.",
+  "preparation": {
+    "preparation_id": "aetius-16-143:preparation:thymiamatos-toy-basilikoy-skeyasia",
+    "preparation_urn": "urn:aos:recipe-preparation:aetius-16-143:preparation:thymiamatos-toy-basilikoy-skeyasia",
+    "source_span": "θυμιάματος τοῦ βασιλικοῦ σκευασία",
+    "surface_form": "θυμιάματος τοῦ βασιλικοῦ σκευασία",
+    "normalized_label": "θυμιάματος τοῦ βασιλικοῦ σκευασία",
+    "qualifiers": [],
+    "regimen_notes": [
+      {
+        "source_span": "τινὲς δὲ τοῦτο οὕτω σκευάζουσι",
+        "normalized_note": "alternative preparation attested",
+        "certainty": "certain",
+        "notes": [
+          "This introduces a variant way of preparing the same recipe, not a distinct named preparation."
+        ]
+      }
+    ],
+    "certainty": "certain",
+    "notes": [
+      "The running text does not restate the preparation name cleanly; the lemma supplies the preparation label."
+    ],
+    "host_locator": {
+      "book": "16",
+      "chapter": "143",
+      "section": null,
+      "citation": {
+        "start": "169.3",
+        "end": "169.7"
+      }
+    }
+  },
+  "ingredients": [
+    {
+      "ingredient_id": "aetius-16-143:ingredient:styrax-kalamites-1",
+      "ingredient_urn": "urn:aos:recipe-ingredient:aetius-16-143:ingredient:styrax-kalamites-1",
+      "source_span": "Στύρακος καλαμίτου",
+      "surface_form": "Στύρακος καλαμίτου",
+      "base_label": "στύραξ",
+      "normalized_label": "στύραξ καλαμίτης",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [],
+      "quantities": [
+        {
+          "source_span": "λίτρ. α.",
+          "raw_number": "α",
+          "normalized_number": 1,
+          "raw_unit": "λίτρ.",
+          "normalized_unit": "litra",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "qualifiers": [],
+      "notes": [
+        "first formulation"
+      ],
+      "host_locator": {
+        "book": "16",
+        "chapter": "143",
+        "section": null,
+        "citation": {
+          "start": "169.3",
+          "end": "169.7"
+        }
+      }
+    },
+    {
+      "ingredient_id": "aetius-16-143:ingredient:aloe-2",
+      "ingredient_urn": "urn:aos:recipe-ingredient:aetius-16-143:ingredient:aloe-2",
+      "source_span": "ἀλόης",
+      "surface_form": "ἀλόης",
+      "base_label": "ἀλόη",
+      "normalized_label": "ἀλόη",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [],
+      "quantities": [
+        {
+          "source_span": "γοστ.",
+          "raw_number": "στ",
+          "normalized_number": 6,
+          "raw_unit": "γο",
+          "normalized_unit": null,
+          "certainty": "uncertain",
+          "notes": [
+            "unit abbreviation unresolved safely"
+          ]
+        }
+      ],
+      "qualifiers": [],
+      "notes": [
+        "first formulation"
+      ],
+      "host_locator": {
+        "book": "16",
+        "chapter": "143",
+        "section": null,
+        "citation": {
+          "start": "169.3",
+          "end": "169.7"
+        }
+      }
+    },
+    {
+      "ingredient_id": "aetius-16-143:ingredient:ambaros-3",
+      "ingredient_urn": "urn:aos:recipe-ingredient:aetius-16-143:ingredient:ambaros-3",
+      "source_span": "ἄμβαρος",
+      "surface_form": "ἄμβαρος",
+      "base_label": "ἄμβαρος",
+      "normalized_label": "ἄμβαρος",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [],
+      "quantities": [
+        {
+          "source_span": "γοα.",
+          "raw_number": "α",
+          "normalized_number": 1,
+          "raw_unit": "γο",
+          "normalized_unit": null,
+          "certainty": "uncertain",
+          "notes": [
+            "unit abbreviation unresolved safely"
+          ]
+        }
+      ],
+      "qualifiers": [],
+      "notes": [
+        "first formulation"
+      ],
+      "host_locator": {
+        "book": "16",
+        "chapter": "143",
+        "section": null,
+        "citation": {
+          "start": "169.3",
+          "end": "169.7"
+        }
+      }
+    },
+    {
+      "ingredient_id": "aetius-16-143:ingredient:moschos-4",
+      "ingredient_urn": "urn:aos:recipe-ingredient:aetius-16-143:ingredient:moschos-4",
+      "source_span": "μόσχου",
+      "surface_form": "μόσχου",
+      "base_label": "μόσχος",
+      "normalized_label": "μόσχος",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [],
+      "quantities": [
+        {
+          "source_span": "γράμματα δ.",
+          "raw_number": "δ",
+          "normalized_number": 4,
+          "raw_unit": "γράμματα",
+          "normalized_unit": "gramma",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "qualifiers": [],
+      "notes": [
+        "first formulation"
+      ],
+      "host_locator": {
+        "book": "16",
+        "chapter": "143",
+        "section": null,
+        "citation": {
+          "start": "169.3",
+          "end": "169.7"
+        }
+      }
+    },
+    {
+      "ingredient_id": "aetius-16-143:ingredient:styrax-kalamites-5",
+      "ingredient_urn": "urn:aos:recipe-ingredient:aetius-16-143:ingredient:styrax-kalamites-5",
+      "source_span": "στύρακος καλαμίτου",
+      "surface_form": "στύρακος καλαμίτου",
+      "base_label": "στύραξ",
+      "normalized_label": "στύραξ καλαμίτης",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [],
+      "quantities": [
+        {
+          "source_span": "λίτρ. α.",
+          "raw_number": "α",
+          "normalized_number": 1,
+          "raw_unit": "λίτρ.",
+          "normalized_unit": "litra",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "qualifiers": [],
+      "notes": [
+        "alternative formulation introduced by 'τινὲς δὲ τοῦτο οὕτω σκευάζουσι'"
+      ],
+      "host_locator": {
+        "book": "16",
+        "chapter": "143",
+        "section": null,
+        "citation": {
+          "start": "169.3",
+          "end": "169.7"
+        }
+      }
+    },
+    {
+      "ingredient_id": "aetius-16-143:ingredient:aloe-6",
+      "ingredient_urn": "urn:aos:recipe-ingredient:aetius-16-143:ingredient:aloe-6",
+      "source_span": "ἀλόης",
+      "surface_form": "ἀλόης",
+      "base_label": "ἀλόη",
+      "normalized_label": "ἀλόη",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [],
+      "quantities": [
+        {
+          "source_span": "γοδ.",
+          "raw_number": "δ",
+          "normalized_number": 4,
+          "raw_unit": "γο",
+          "normalized_unit": null,
+          "certainty": "uncertain",
+          "notes": [
+            "unit abbreviation unresolved safely"
+          ]
+        }
+      ],
+      "qualifiers": [],
+      "notes": [
+        "alternative formulation introduced by 'τινὲς δὲ τοῦτο οὕτω σκευάζουσι'"
+      ],
+      "host_locator": {
+        "book": "16",
+        "chapter": "143",
+        "section": null,
+        "citation": {
+          "start": "169.3",
+          "end": "169.7"
+        }
+      }
+    },
+    {
+      "ingredient_id": "aetius-16-143:ingredient:ambaros-7",
+      "ingredient_urn": "urn:aos:recipe-ingredient:aetius-16-143:ingredient:ambaros-7",
+      "source_span": "ἄμβαρος",
+      "surface_form": "ἄμβαρος",
+      "base_label": "ἄμβαρος",
+      "normalized_label": "ἄμβαρος",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [],
+      "quantities": [
+        {
+          "source_span": "γοα.",
+          "raw_number": "α",
+          "normalized_number": 1,
+          "raw_unit": "γο",
+          "normalized_unit": null,
+          "certainty": "uncertain",
+          "notes": [
+            "unit abbreviation unresolved safely"
+          ]
+        }
+      ],
+      "qualifiers": [],
+      "notes": [
+        "alternative formulation introduced by 'τινὲς δὲ τοῦτο οὕτω σκευάζουσι'"
+      ],
+      "host_locator": {
+        "book": "16",
+        "chapter": "143",
+        "section": null,
+        "citation": {
+          "start": "169.3",
+          "end": "169.7"
+        }
+      }
+    },
+    {
+      "ingredient_id": "aetius-16-143:ingredient:moschos-8",
+      "ingredient_urn": "urn:aos:recipe-ingredient:aetius-16-143:ingredient:moschos-8",
+      "source_span": "μόσχου",
+      "surface_form": "μόσχου",
+      "base_label": "μόσχος",
+      "normalized_label": "μόσχος",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [],
+      "quantities": [
+        {
+          "source_span": "γράμματα δ.",
+          "raw_number": "δ",
+          "normalized_number": 4,
+          "raw_unit": "γράμματα",
+          "normalized_unit": "gramma",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "qualifiers": [],
+      "notes": [
+        "alternative formulation introduced by 'τινὲς δὲ τοῦτο οὕτω σκευάζουσι'"
+      ],
+      "host_locator": {
+        "book": "16",
+        "chapter": "143",
+        "section": null,
+        "citation": {
+          "start": "169.3",
+          "end": "169.7"
+        }
+      }
+    },
+    {
+      "ingredient_id": "aetius-16-143:ingredient:chylos-rodon-9",
+      "ingredient_urn": "urn:aos:recipe-ingredient:aetius-16-143:ingredient:chylos-rodon-9",
+      "source_span": "χυλοῦ ῥόδων",
+      "surface_form": "χυλοῦ ῥόδων",
+      "base_label": "χυλός",
+      "normalized_label": "χυλὸς ῥόδων",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [
+        "aetius-16-143:process:prostithenai-2"
+      ],
+      "quantities": [
+        {
+          "source_span": "τὸ ἀρκοῦν",
+          "raw_number": null,
+          "normalized_number": null,
+          "raw_unit": null,
+          "normalized_unit": null,
+          "certainty": "uncertain",
+          "notes": [
+            "sufficient amount"
+          ]
+        }
+      ],
+      "qualifiers": [],
+      "notes": [
+        "alternative formulation only"
+      ],
+      "host_locator": {
+        "book": "16",
+        "chapter": "143",
+        "section": null,
+        "citation": {
+          "start": "169.3",
+          "end": "169.7"
+        }
+      }
+    }
+  ],
+  "processes": [
+    {
+      "process_id": "aetius-16-143:process:skeyazein-1",
+      "process_urn": "urn:aos:recipe-process:aetius-16-143:process:skeyazein-1",
+      "source_span": "σκευάζουσι",
+      "surface_form": "σκευάζουσι",
+      "normalized_label": "σκευάζειν",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "manner",
+          "source_span": "οὕτω",
+          "normalized_value": "οὕτως",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "certainty": "certain",
+      "notes": [
+        "introduces an alternative formulation"
+      ],
+      "host_locator": {
+        "book": "16",
+        "chapter": "143",
+        "section": null,
+        "citation": {
+          "start": "169.3",
+          "end": "169.7"
+        }
+      }
+    },
+    {
+      "process_id": "aetius-16-143:process:prostithenai-2",
+      "process_urn": "urn:aos:recipe-process:aetius-16-143:process:prostithenai-2",
+      "source_span": "προστιθέασι",
+      "surface_form": "προστιθέασι",
+      "normalized_label": "προστιθέναι",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [],
+      "certainty": "certain",
+      "notes": [
+        "applies to the alternative formulation"
+      ],
+      "host_locator": {
+        "book": "16",
+        "chapter": "143",
+        "section": null,
+        "citation": {
+          "start": "169.3",
+          "end": "169.7"
+        }
+      }
+    }
+  ],
+  "materials": [],
+  "people": [],
+  "places": [],
+  "uses": [],
+  "preparation_names": [],
+  "other_preparations_mentioned": [
+    {
+      "reference_id": "aetius-16-143:reference:chylos-rodon-1",
+      "reference_urn": "urn:aos:recipe-reference:aetius-16-143:reference:chylos-rodon-1",
+      "source_span": "χυλοῦ ῥόδων",
+      "surface_form": "χυλοῦ ῥόδων",
+      "normalized_label": "χυλὸς ῥόδων",
+      "certainty": "certain",
+      "notes": [
+        "Mentioned as an added ingredient preparation."
+      ],
+      "host_locator": {
+        "book": "16",
+        "chapter": "143",
+        "section": null,
+        "citation": {
+          "start": "169.3",
+          "end": "169.7"
+        }
+      }
+    }
+  ],
+  "works_mentioned": [],
+  "entities": [
+    {
+      "entity_urn": "urn:aos:recipe-preparation:aetius-16-143:preparation:thymiamatos-toy-basilikoy-skeyasia",
+      "entity_type": "label",
+      "surface_form": "θυμιάματος τοῦ βασιλικοῦ σκευασία",
+      "normalized_label": "θυμιάματος τοῦ βασιλικοῦ σκευασία"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:aetius-16-143:ingredient:styrax-kalamites-1",
+      "entity_type": "ingredient",
+      "surface_form": "Στύρακος καλαμίτου",
+      "normalized_label": "στύραξ καλαμίτης"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:aetius-16-143:ingredient:aloe-2",
+      "entity_type": "ingredient",
+      "surface_form": "ἀλόης",
+      "normalized_label": "ἀλόη"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:aetius-16-143:ingredient:ambaros-3",
+      "entity_type": "ingredient",
+      "surface_form": "ἄμβαρος",
+      "normalized_label": "ἄμβαρος"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:aetius-16-143:ingredient:moschos-4",
+      "entity_type": "ingredient",
+      "surface_form": "μόσχου",
+      "normalized_label": "μόσχος"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:aetius-16-143:ingredient:styrax-kalamites-5",
+      "entity_type": "ingredient",
+      "surface_form": "στύρακος καλαμίτου",
+      "normalized_label": "στύραξ καλαμίτης"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:aetius-16-143:ingredient:aloe-6",
+      "entity_type": "ingredient",
+      "surface_form": "ἀλόης",
+      "normalized_label": "ἀλόη"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:aetius-16-143:ingredient:ambaros-7",
+      "entity_type": "ingredient",
+      "surface_form": "ἄμβαρος",
+      "normalized_label": "ἄμβαρος"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:aetius-16-143:ingredient:moschos-8",
+      "entity_type": "ingredient",
+      "surface_form": "μόσχου",
+      "normalized_label": "μόσχος"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:aetius-16-143:ingredient:chylos-rodon-9",
+      "entity_type": "ingredient",
+      "surface_form": "χυλοῦ ῥόδων",
+      "normalized_label": "χυλὸς ῥόδων"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:aetius-16-143:process:skeyazein-1",
+      "entity_type": "process",
+      "surface_form": "σκευάζουσι",
+      "normalized_label": "σκευάζειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:aetius-16-143:process:prostithenai-2",
+      "entity_type": "process",
+      "surface_form": "προστιθέασι",
+      "normalized_label": "προστιθέναι"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-reference:aetius-16-143:reference:chylos-rodon-1",
+      "entity_type": "preparation_reference",
+      "surface_form": "χυλοῦ ῥόδων",
+      "normalized_label": "χυλὸς ῥόδων"
+    }
+  ]
+}

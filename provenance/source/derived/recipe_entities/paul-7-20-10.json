@@ -1,0 +1,457 @@
+{
+  "dataset_key": "paul_book7_perfumes",
+  "source_json": "experiments/paul-book7-ch20-perfumes/data/paul_book7_ch20_perfumes.json",
+  "host_raw_file": "tei/raw/tlg0715001.xml",
+  "work_slug": "paul.b7.perfumes",
+  "recipe_id": "paul-7-20-10",
+  "recipe_urn": "urn:aos:recipe:paul-7-20-10",
+  "record_urn": "urn:aos:recipe-record:paul-7-20-10",
+  "author": "Paul of Aegina",
+  "work": "Medical Epitome",
+  "book": "7",
+  "chapter": "20",
+  "section": "10",
+  "chapter_name": "Ἐλαίων καὶ μύρων σκευασίαι διάφοροι.",
+  "lemma": "Μήλινον",
+  "text": "Τοῦτο γίνεται τῶν Κυδωνίων μήλων ἔξωθεν ῥάκει καταμαγέντων καὶ τεμαχισθέντων ἅμα τοῖς λέπεσιν, εἶτα ἐμβληθεισῶν αὐτῶν 𐆄 γ εἰς ξ̸ ι Ἰταλικοὺς ἐλαίου ὀμφακίνου, καὶ ἡλιωθέντων ἐπὶ μ ἡμέρας.",
+  "original_text": null,
+  "text_source": null,
+  "emendations": [],
+  "emendation_count": 0,
+  "source_kind": null,
+  "entry_kind": "recipe",
+  "citation": {
+    "pages": [
+      "2.384"
+    ],
+    "start": {
+      "page": "2.384",
+      "line": "3",
+      "xml_id": "heib-2-384-3"
+    },
+    "end": {
+      "page": "2.384",
+      "line": "6",
+      "xml_id": "heib-2-384-6"
+    },
+    "citation": {
+      "start": "2.384.3",
+      "end": "2.384.6"
+    },
+    "page_spans": [
+      {
+        "page": "2.384",
+        "start_line": "3",
+        "end_line": "6"
+      }
+    ],
+    "lines": [
+      {
+        "page": "2.384",
+        "line": "3",
+        "xml_id": "heib-2-384-3",
+        "break_no": false,
+        "text": "Μήλινον.",
+        "citation": "2.384.3"
+      },
+      {
+        "page": "2.384",
+        "line": "4",
+        "xml_id": "heib-2-384-4",
+        "break_no": false,
+        "text": "Τοῦτο γίνεται τῶν Κυδωνίων μήλων ἔξωθεν ῥάκει καταμαγέντων",
+        "citation": "2.384.4"
+      },
+      {
+        "page": "2.384",
+        "line": "5",
+        "xml_id": "heib-2-384-5",
+        "break_no": false,
+        "text": "καὶ τεμαχισθέντων ἅμα τοῖς λέπεσιν, εἶτα ἐμβληθεισῶν αὐτῶν 𐆄 γ εἰς",
+        "citation": "2.384.5"
+      },
+      {
+        "page": "2.384",
+        "line": "6",
+        "xml_id": "heib-2-384-6",
+        "break_no": false,
+        "text": "ξ̸ ι Ἰταλικοὺς ἐλαίου ὀμφακίνου, καὶ ἡλιωθέντων ἐπὶ μ ἡμέρας.",
+        "citation": "2.384.6"
+      }
+    ],
+    "edition_key": "heiberg"
+  },
+  "notes": [],
+  "alignment_status": "pending",
+  "alignment_confidence": "pending",
+  "alignment_evidence": null,
+  "review_status": "reviewed_structured_authority",
+  "review_provenance": {
+    "authority_source": "reports/entity_review/structured/paul.json",
+    "authority_recipe_id": "paul-7-20-10",
+    "authority_lemma": "Μήλινον",
+    "model": "gpt-5.4",
+    "reasoning_effort": "high",
+    "dataset_key": "paul_book7_perfumes",
+    "entity_model_version": "1.2",
+    "authority_version": "2026-04-13-qty-alt-v1",
+    "prompt_version": "qty-alt-pass-v1",
+    "build_version": "2026-05-18T15:51:35Z"
+  },
+  "schema_version": "1.2",
+  "build_metadata": {
+    "builder": "scripts/recipes/build_recipe_entities.py",
+    "built_at": "2026-05-18T15:51:35Z",
+    "source_structured_authority": "reports/entity_review/structured/paul.json",
+    "authority_model": "gpt-5.4",
+    "authority_reasoning_effort": "high",
+    "dataset_key": "paul_book7_perfumes",
+    "entity_model_version": "1.2",
+    "authority_version": "2026-04-13-qty-alt-v1",
+    "prompt_version": "qty-alt-pass-v1",
+    "build_version": "2026-05-18T15:51:35Z"
+  },
+  "recipe_text_excerpt": "Τοῦτο γίνεται τῶν Κυδωνίων μήλων ἔξωθεν ῥάκει καταμαγέντων καὶ τεμαχισθέντων ἅμα τοῖς λέπεσιν, εἶτα ἐμβληθεισῶν αὐτῶν 𐆄 γ εἰς ξ̸",
+  "preparation": {
+    "preparation_id": "paul-7-20-10:preparation:melinon",
+    "preparation_urn": "urn:aos:recipe-preparation:paul-7-20-10:preparation:melinon",
+    "source_span": "Μήλινον",
+    "surface_form": "Μήλινον",
+    "normalized_label": "Μήλινον",
+    "qualifiers": [],
+    "regimen_notes": [],
+    "certainty": "certain",
+    "notes": [
+      "Used lemma because the running text does not restate the preparation name cleanly."
+    ],
+    "host_locator": {
+      "book": "7",
+      "chapter": "20",
+      "section": "10",
+      "citation": {
+        "start": "2.384.3",
+        "end": "2.384.6"
+      }
+    }
+  },
+  "ingredients": [
+    {
+      "ingredient_id": "paul-7-20-10:ingredient:kydonia-mela-1",
+      "ingredient_urn": "urn:aos:recipe-ingredient:paul-7-20-10:ingredient:kydonia-mela-1",
+      "source_span": "τῶν Κυδωνίων μήλων ἔξωθεν ῥάκει καταμαγέντων καὶ τεμαχισθέντων ἅμα τοῖς λέπεσιν",
+      "surface_form": "τῶν Κυδωνίων μήλων ἔξωθεν ῥάκει καταμαγέντων καὶ τεμαχισθέντων ἅμα τοῖς λέπεσιν",
+      "base_label": "Κυδωνίων μήλων",
+      "normalized_label": "Κυδώνια μῆλα",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [
+        "paul-7-20-10:process:katamassein-1",
+        "paul-7-20-10:process:temachizein-2",
+        "paul-7-20-10:process:emballein-3"
+      ],
+      "quantities": [
+        {
+          "source_span": "𐆄 γ",
+          "raw_number": "γ",
+          "normalized_number": 3,
+          "raw_unit": "𐆄",
+          "normalized_unit": "uncia",
+          "certainty": "uncertain",
+          "notes": [
+            "The unit sign 𐆄 is left unresolved."
+          ]
+        }
+      ],
+      "qualifiers": [
+        {
+          "qualifier_type": "other",
+          "source_span": "ἅμα τοῖς λέπεσιν",
+          "normalized_value": "σὺν τοῖς λέπεσιν",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "notes": [],
+      "host_locator": {
+        "book": "7",
+        "chapter": "20",
+        "section": "10",
+        "citation": {
+          "start": "2.384.3",
+          "end": "2.384.6"
+        }
+      }
+    },
+    {
+      "ingredient_id": "paul-7-20-10:ingredient:elaion-omphakinon-2",
+      "ingredient_urn": "urn:aos:recipe-ingredient:paul-7-20-10:ingredient:elaion-omphakinon-2",
+      "source_span": "ἐλαίου ὀμφακίνου",
+      "surface_form": "ἐλαίου ὀμφακίνου",
+      "base_label": "ἐλαίου ὀμφακίνου",
+      "normalized_label": "ἔλαιον ὀμφάκινον",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [
+        "paul-7-20-10:process:emballein-3"
+      ],
+      "quantities": [
+        {
+          "source_span": "ξ̸ ι Ἰταλικοὺς",
+          "raw_number": "ι",
+          "normalized_number": 10,
+          "raw_unit": "ξ̸ Ἰταλικοὺς",
+          "normalized_unit": "xestes",
+          "certainty": "uncertain",
+          "notes": [
+            "The abbreviation ξ̸ is treated as an unresolved unit sign; Ἰταλικοὺς qualifies the measure."
+          ]
+        }
+      ],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "7",
+        "chapter": "20",
+        "section": "10",
+        "citation": {
+          "start": "2.384.3",
+          "end": "2.384.6"
+        }
+      }
+    }
+  ],
+  "processes": [
+    {
+      "process_id": "paul-7-20-10:process:katamassein-1",
+      "process_urn": "urn:aos:recipe-process:paul-7-20-10:process:katamassein-1",
+      "source_span": "καταμαγέντων",
+      "surface_form": "καταμαγέντων",
+      "normalized_label": "καταμάσσειν",
+      "target_type": "ingredient",
+      "target_ids": [
+        "paul-7-20-10:ingredient:kydonia-mela-1"
+      ],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "location",
+          "source_span": "ἔξωθεν",
+          "normalized_value": "ἔξωθεν",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "7",
+        "chapter": "20",
+        "section": "10",
+        "citation": {
+          "start": "2.384.3",
+          "end": "2.384.6"
+        }
+      }
+    },
+    {
+      "process_id": "paul-7-20-10:process:temachizein-2",
+      "process_urn": "urn:aos:recipe-process:paul-7-20-10:process:temachizein-2",
+      "source_span": "τεμαχισθέντων",
+      "surface_form": "τεμαχισθέντων",
+      "normalized_label": "τεμαχίζειν",
+      "target_type": "ingredient",
+      "target_ids": [
+        "paul-7-20-10:ingredient:kydonia-mela-1"
+      ],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "other",
+          "source_span": "ἅμα τοῖς λέπεσιν",
+          "normalized_value": "σὺν τοῖς λέπεσιν",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "7",
+        "chapter": "20",
+        "section": "10",
+        "citation": {
+          "start": "2.384.3",
+          "end": "2.384.6"
+        }
+      }
+    },
+    {
+      "process_id": "paul-7-20-10:process:emballein-3",
+      "process_urn": "urn:aos:recipe-process:paul-7-20-10:process:emballein-3",
+      "source_span": "ἐμβληθεισῶν",
+      "surface_form": "ἐμβληθεισῶν",
+      "normalized_label": "ἐμβάλλειν",
+      "target_type": "ingredient",
+      "target_ids": [
+        "paul-7-20-10:ingredient:kydonia-mela-1"
+      ],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "location",
+          "source_span": "εἰς ξ̸ ι Ἰταλικοὺς ἐλαίου ὀμφακίνου",
+          "normalized_value": "εἰς ἔλαιον ὀμφάκινον",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "7",
+        "chapter": "20",
+        "section": "10",
+        "citation": {
+          "start": "2.384.3",
+          "end": "2.384.6"
+        }
+      }
+    },
+    {
+      "process_id": "paul-7-20-10:process:elioyn-4",
+      "process_urn": "urn:aos:recipe-process:paul-7-20-10:process:elioyn-4",
+      "source_span": "ἡλιωθέντων",
+      "surface_form": "ἡλιωθέντων",
+      "normalized_label": "ἡλιοῦν",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "duration",
+          "source_span": "ἐπὶ μ ἡμέρας",
+          "normalized_value": "40 ἡμέραι",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "7",
+        "chapter": "20",
+        "section": "10",
+        "citation": {
+          "start": "2.384.3",
+          "end": "2.384.6"
+        }
+      }
+    }
+  ],
+  "materials": [
+    {
+      "material_id": "paul-7-20-10:material:rakos-1",
+      "material_urn": "urn:aos:recipe-material:paul-7-20-10:material:rakos-1",
+      "source_span": "ῥάκει",
+      "surface_form": "ῥάκει",
+      "normalized_label": "ῥάκος",
+      "role": "tool",
+      "certainty": "certain",
+      "quantities": [],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "7",
+        "chapter": "20",
+        "section": "10",
+        "citation": {
+          "start": "2.384.3",
+          "end": "2.384.6"
+        }
+      }
+    }
+  ],
+  "people": [],
+  "places": [],
+  "uses": [],
+  "preparation_names": [],
+  "other_preparations_mentioned": [
+    {
+      "reference_id": "paul-7-20-10:reference:elaion-omphakinon-1",
+      "reference_urn": "urn:aos:recipe-reference:paul-7-20-10:reference:elaion-omphakinon-1",
+      "source_span": "ἐλαίου ὀμφακίνου",
+      "surface_form": "ἐλαίου ὀμφακίνου",
+      "normalized_label": "ἔλαιον ὀμφακῖνον",
+      "certainty": "certain",
+      "notes": [
+        "Distinct preparation mentioned as an ingredient."
+      ],
+      "host_locator": {
+        "book": "7",
+        "chapter": "20",
+        "section": "10",
+        "citation": {
+          "start": "2.384.3",
+          "end": "2.384.6"
+        }
+      }
+    }
+  ],
+  "works_mentioned": [],
+  "entities": [
+    {
+      "entity_urn": "urn:aos:recipe-preparation:paul-7-20-10:preparation:melinon",
+      "entity_type": "label",
+      "surface_form": "Μήλινον",
+      "normalized_label": "Μήλινον"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:paul-7-20-10:ingredient:kydonia-mela-1",
+      "entity_type": "ingredient",
+      "surface_form": "τῶν Κυδωνίων μήλων ἔξωθεν ῥάκει καταμαγέντων καὶ τεμαχισθέντων ἅμα τοῖς λέπεσιν",
+      "normalized_label": "Κυδώνια μῆλα"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:paul-7-20-10:ingredient:elaion-omphakinon-2",
+      "entity_type": "ingredient",
+      "surface_form": "ἐλαίου ὀμφακίνου",
+      "normalized_label": "ἔλαιον ὀμφάκινον"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:paul-7-20-10:process:katamassein-1",
+      "entity_type": "process",
+      "surface_form": "καταμαγέντων",
+      "normalized_label": "καταμάσσειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:paul-7-20-10:process:temachizein-2",
+      "entity_type": "process",
+      "surface_form": "τεμαχισθέντων",
+      "normalized_label": "τεμαχίζειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:paul-7-20-10:process:emballein-3",
+      "entity_type": "process",
+      "surface_form": "ἐμβληθεισῶν",
+      "normalized_label": "ἐμβάλλειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:paul-7-20-10:process:elioyn-4",
+      "entity_type": "process",
+      "surface_form": "ἡλιωθέντων",
+      "normalized_label": "ἡλιοῦν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-material:paul-7-20-10:material:rakos-1",
+      "entity_type": "material",
+      "surface_form": "ῥάκει",
+      "normalized_label": "ῥάκος"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-reference:paul-7-20-10:reference:elaion-omphakinon-1",
+      "entity_type": "preparation_reference",
+      "surface_form": "ἐλαίου ὀμφακίνου",
+      "normalized_label": "ἔλαιον ὀμφακῖνον"
+    }
+  ]
+}

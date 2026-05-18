@@ -1,0 +1,806 @@
+{
+  "dataset_key": "dioscorides_book1_perfumes_resins",
+  "source_json": "experiments/dioscorides-book1-perfumes-resins/data/dioscorides_book1_perfumes_resins.json",
+  "host_raw_file": "tei/raw/tlg0656.tlg001.1st1K-grc1.xml",
+  "work_slug": "diosc.b1.recipes",
+  "recipe_id": "dioscorides-1-32-2-kikinon-aigyption",
+  "recipe_urn": "urn:aos:recipe:dioscorides-1-32-2-kikinon-aigyption",
+  "record_urn": "urn:aos:recipe-record:dioscorides-1-32-2-kikinon-aigyption",
+  "author": "Dioscorides",
+  "work": "De materia medica",
+  "book": "1",
+  "chapter": "32",
+  "section": "2",
+  "chapter_name": "κίκινον ἔλαιον",
+  "lemma": "κίκινον αἰγυπτίων",
+  "text": "οἱ δὲ Αἰγύπτιοι διὰ τὸ δαψιλοῦς 2 χρῄζειν ἑτέρως αὐτὸ σκευάζουσι· μετὰ γὰρ τὸ καθᾶραι εἰς μύλην ἀποδόντες τοὺς κρότωνας ἀλήθουσιν ἐπιμελῶς, εἰς τὰς σφυρίδας δὲ ἐμβαλόντες τὸ ἀληλεσμένον δι᾿ ὀργάνου ἐκθλίβουσιν. ὥριμοι δέ εἰσιν οἱ κρότωνες, ὅταν ὑπὸ τῶν περιεχόντων αὐτοὺς σφαιρίων ἀπολύωνται. ποιεῖ δὲ τὸ κίκινον πρὸς ψώρας καὶ ἀχῶρας καὶ τὰς ἐν ἕδρᾳ φλεγμονάς, πρός τε ὑστέρας μύσεις καὶ διαστροφάς, ἔτι δὲ οὐλὰς ἀπρεπεῖς καὶ ὠταλγίας, ἐμπλάστροις τε μιγὲν ἐμπρακτοτέρας αὐτὰς ἐργάζεται. ἄγει δὲ καὶ κατὰ κοιλίαν ὑδατῶδες ποθέν, ἐκκρίνει δὲ καὶ ἕλμινθας.",
+  "original_text": null,
+  "text_source": null,
+  "emendations": [],
+  "emendation_count": 0,
+  "source_kind": "main_text",
+  "entry_kind": "recipe",
+  "citation": {
+    "pages": [
+      "37"
+    ],
+    "start": {
+      "page": "37",
+      "line": "5"
+    },
+    "end": {
+      "page": "37",
+      "line": "15"
+    },
+    "citation": {
+      "start": "37.5",
+      "end": "37.15"
+    },
+    "page_spans": [
+      {
+        "page": "37",
+        "start_line": "5",
+        "end_line": "15"
+      }
+    ],
+    "lines": [
+      {
+        "page": "37",
+        "line": "5",
+        "break_no": false,
+        "text": "οἱ δὲ Αἰγύπτιοι διὰ τὸ δαψιλοῦς 2 χρῄζειν ἑτέρως αὐτὸ σκευάζουσι· μετὰ γὰρ τὸ καθᾶραι εἰς μύλην ἀποδόντες τοὺς κρότωνας ἀλήθουσιν ἐπιμελῶς, εἰς τὰς σφυρίδας δὲ ἐμβαλόντες τὸ ἀληλεσμένον δι᾿ ὀργάνου ἐκθλίβουσιν. ὥριμοι δέ εἰσιν οἱ κρότωνες, ὅταν ὑπὸ τῶν περιεχόντων",
+        "citation": "37.5"
+      },
+      {
+        "page": "37",
+        "line": "10",
+        "break_no": false,
+        "text": "αὐτοὺς σφαιρίων ἀπολύωνται. ποιεῖ δὲ τὸ κίκινον πρὸς ψώρας καὶ ἀχῶρας καὶ τὰς ἐν ἕδρᾳ φλεγμονάς, πρός τε ὑστέρας μύσεις καὶ διαστροφάς, ἔτι δὲ οὐλὰς ἀπρεπεῖς καὶ ὠταλγίας, ἐμπλάστροις τε μιγὲν ἐμπρακτοτέρας αὐτὰς ἐργάζεται. ἄγει δὲ καὶ κατὰ κοιλίαν ὑδατῶδες",
+        "citation": "37.10"
+      },
+      {
+        "page": "37",
+        "line": "15",
+        "break_no": false,
+        "text": "ποθέν, ἐκκρίνει δὲ καὶ ἕλμινθας.",
+        "citation": "37.15"
+      }
+    ],
+    "edition_key": "wellmann"
+  },
+  "notes": [
+    "Raw lines 1590-1633 are book 1 chapter 25 in this witness, although the prompt referred to chapter 35.",
+    "The perfume proemium is taken from the later transition at chapter 42 section 2 (raw lines 2306-2342), not from the chapter 25 κῦφι entry.",
+    "The ἰασμέλαιον entry is preserved only in the apparatus as an addition from another recension."
+  ],
+  "alignment_status": "pending",
+  "alignment_confidence": "pending",
+  "alignment_evidence": null,
+  "review_status": "reviewed_structured_authority",
+  "review_provenance": {
+    "authority_source": "reports/entity_review/structured/dioscorides.json",
+    "authority_recipe_id": "dioscorides-1-32-2-kikinon-aigyption",
+    "authority_lemma": "κίκινον",
+    "model": "gpt-5.4",
+    "reasoning_effort": "high",
+    "dataset_key": "dioscorides_book1_perfumes_resins",
+    "entity_model_version": "1.2",
+    "authority_version": "2026-04-13-qty-alt-v1",
+    "prompt_version": "qty-alt-pass-v1",
+    "build_version": "2026-05-18T15:51:35Z"
+  },
+  "schema_version": "1.2",
+  "build_metadata": {
+    "builder": "scripts/recipes/build_recipe_entities.py",
+    "built_at": "2026-05-18T15:51:35Z",
+    "source_structured_authority": "reports/entity_review/structured/dioscorides.json",
+    "authority_model": "gpt-5.4",
+    "authority_reasoning_effort": "high",
+    "dataset_key": "dioscorides_book1_perfumes_resins",
+    "entity_model_version": "1.2",
+    "authority_version": "2026-04-13-qty-alt-v1",
+    "prompt_version": "qty-alt-pass-v1",
+    "build_version": "2026-05-18T15:51:35Z"
+  },
+  "recipe_text_excerpt": "οἱ δὲ Αἰγύπτιοι διὰ τὸ δαψιλοῦς 2 χρῄζειν ἑτέρως αὐτὸ σκευάζουσι· μετὰ γὰρ τὸ καθᾶραι εἰς μύλην ἀποδόντες τοὺς κρότωνας",
+  "preparation": {
+    "preparation_id": "dioscorides-1-32-2-kikinon-aigyption:preparation:kikinon",
+    "preparation_urn": "urn:aos:recipe-preparation:dioscorides-1-32-2-kikinon-aigyption:preparation:kikinon",
+    "source_span": "κίκινον αἰγυπτίων",
+    "surface_form": "κίκινον αἰγυπτίων",
+    "normalized_label": "κίκινον",
+    "qualifiers": [
+      {
+        "qualifier_type": "location",
+        "source_span": "αἰγυπτίων",
+        "normalized_value": "Αἴγυπτος",
+        "certainty": "certain",
+        "notes": []
+      },
+      {
+        "qualifier_type": "manner",
+        "source_span": "ἑτέρως",
+        "normalized_value": "ἑτέρως",
+        "certainty": "certain",
+        "notes": []
+      }
+    ],
+    "regimen_notes": [],
+    "certainty": "certain",
+    "notes": [],
+    "host_locator": {
+      "book": "1",
+      "chapter": "32",
+      "section": "2",
+      "citation": {
+        "start": "37.5",
+        "end": "37.15"
+      }
+    }
+  },
+  "ingredients": [
+    {
+      "ingredient_id": "dioscorides-1-32-2-kikinon-aigyption:ingredient:krotones-1",
+      "ingredient_urn": "urn:aos:recipe-ingredient:dioscorides-1-32-2-kikinon-aigyption:ingredient:krotones-1",
+      "source_span": "τοὺς κρότωνας",
+      "surface_form": "τοὺς κρότωνας",
+      "base_label": "κρότωνες",
+      "normalized_label": "κρότωνες",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [
+        "dioscorides-1-32-2-kikinon-aigyption:process:kathairein-1",
+        "dioscorides-1-32-2-kikinon-aigyption:process:apodidonai-2",
+        "dioscorides-1-32-2-kikinon-aigyption:process:alethein-3"
+      ],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "other",
+          "source_span": "ὥριμοι",
+          "normalized_value": "ὥριμος",
+          "certainty": "certain",
+          "notes": []
+        },
+        {
+          "qualifier_type": "other",
+          "source_span": "ὅταν ὑπὸ τῶν περιεχόντων αὐτοὺς σφαιρίων ἀπολύωνται",
+          "normalized_value": null,
+          "certainty": "certain",
+          "notes": [
+            "κριτήριον ὡριμότητος"
+          ]
+        }
+      ],
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "32",
+        "section": "2",
+        "citation": {
+          "start": "37.5",
+          "end": "37.15"
+        }
+      }
+    },
+    {
+      "ingredient_id": "dioscorides-1-32-2-kikinon-aigyption:ingredient:alelesmenon-2",
+      "ingredient_urn": "urn:aos:recipe-ingredient:dioscorides-1-32-2-kikinon-aigyption:ingredient:alelesmenon-2",
+      "source_span": "τὸ ἀληλεσμένον",
+      "surface_form": "τὸ ἀληλεσμένον",
+      "base_label": "ἀληλεσμένον",
+      "normalized_label": "ἀληλεσμένον",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [
+        "dioscorides-1-32-2-kikinon-aigyption:process:alethein-3",
+        "dioscorides-1-32-2-kikinon-aigyption:process:emballein-4",
+        "dioscorides-1-32-2-kikinon-aigyption:process:ekthlibein-5"
+      ],
+      "quantities": [],
+      "qualifiers": [],
+      "notes": [
+        "ἐνδιάμεσον προϊόν ἐκ τῶν κροτώνων"
+      ],
+      "host_locator": {
+        "book": "1",
+        "chapter": "32",
+        "section": "2",
+        "citation": {
+          "start": "37.5",
+          "end": "37.15"
+        }
+      }
+    }
+  ],
+  "processes": [
+    {
+      "process_id": "dioscorides-1-32-2-kikinon-aigyption:process:kathairein-1",
+      "process_urn": "urn:aos:recipe-process:dioscorides-1-32-2-kikinon-aigyption:process:kathairein-1",
+      "source_span": "καθᾶραι",
+      "surface_form": "καθᾶραι",
+      "normalized_label": "καθαίρειν",
+      "target_type": "ingredient",
+      "target_ids": [
+        "dioscorides-1-32-2-kikinon-aigyption:ingredient:krotones-1"
+      ],
+      "quantities": [],
+      "qualifiers": [],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "32",
+        "section": "2",
+        "citation": {
+          "start": "37.5",
+          "end": "37.15"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-1-32-2-kikinon-aigyption:process:apodidonai-2",
+      "process_urn": "urn:aos:recipe-process:dioscorides-1-32-2-kikinon-aigyption:process:apodidonai-2",
+      "source_span": "ἀποδόντες",
+      "surface_form": "ἀποδόντες",
+      "normalized_label": "ἀποδιδόναι",
+      "target_type": "ingredient",
+      "target_ids": [
+        "dioscorides-1-32-2-kikinon-aigyption:ingredient:krotones-1"
+      ],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "location",
+          "source_span": "εἰς μύλην",
+          "normalized_value": "εἰς μύλην",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "32",
+        "section": "2",
+        "citation": {
+          "start": "37.5",
+          "end": "37.15"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-1-32-2-kikinon-aigyption:process:alethein-3",
+      "process_urn": "urn:aos:recipe-process:dioscorides-1-32-2-kikinon-aigyption:process:alethein-3",
+      "source_span": "ἀλήθουσιν",
+      "surface_form": "ἀλήθουσιν",
+      "normalized_label": "ἀλήθειν",
+      "target_type": "ingredient",
+      "target_ids": [
+        "dioscorides-1-32-2-kikinon-aigyption:ingredient:krotones-1"
+      ],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "manner",
+          "source_span": "ἐπιμελῶς",
+          "normalized_value": "ἐπιμελῶς",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "32",
+        "section": "2",
+        "citation": {
+          "start": "37.5",
+          "end": "37.15"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-1-32-2-kikinon-aigyption:process:emballein-4",
+      "process_urn": "urn:aos:recipe-process:dioscorides-1-32-2-kikinon-aigyption:process:emballein-4",
+      "source_span": "ἐμβαλόντες",
+      "surface_form": "ἐμβαλόντες",
+      "normalized_label": "ἐμβάλλειν",
+      "target_type": "ingredient",
+      "target_ids": [
+        "dioscorides-1-32-2-kikinon-aigyption:ingredient:alelesmenon-2"
+      ],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "location",
+          "source_span": "εἰς τὰς σφυρίδας",
+          "normalized_value": "εἰς τὰς σφυρίδας",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "32",
+        "section": "2",
+        "citation": {
+          "start": "37.5",
+          "end": "37.15"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-1-32-2-kikinon-aigyption:process:ekthlibein-5",
+      "process_urn": "urn:aos:recipe-process:dioscorides-1-32-2-kikinon-aigyption:process:ekthlibein-5",
+      "source_span": "ἐκθλίβουσιν",
+      "surface_form": "ἐκθλίβουσιν",
+      "normalized_label": "ἐκθλίβειν",
+      "target_type": "ingredient",
+      "target_ids": [
+        "dioscorides-1-32-2-kikinon-aigyption:ingredient:alelesmenon-2"
+      ],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "other",
+          "source_span": "δι᾿ ὀργάνου",
+          "normalized_value": null,
+          "certainty": "certain",
+          "notes": [
+            "δηλοῖ μέσον ἢ ὄργανον"
+          ]
+        }
+      ],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "32",
+        "section": "2",
+        "citation": {
+          "start": "37.5",
+          "end": "37.15"
+        }
+      }
+    }
+  ],
+  "materials": [
+    {
+      "material_id": "dioscorides-1-32-2-kikinon-aigyption:material:myle-1",
+      "material_urn": "urn:aos:recipe-material:dioscorides-1-32-2-kikinon-aigyption:material:myle-1",
+      "source_span": "μύλην",
+      "surface_form": "μύλην",
+      "normalized_label": "μύλη",
+      "role": "apparatus",
+      "certainty": "certain",
+      "quantities": [],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "32",
+        "section": "2",
+        "citation": {
+          "start": "37.5",
+          "end": "37.15"
+        }
+      }
+    },
+    {
+      "material_id": "dioscorides-1-32-2-kikinon-aigyption:material:sphyrides-2",
+      "material_urn": "urn:aos:recipe-material:dioscorides-1-32-2-kikinon-aigyption:material:sphyrides-2",
+      "source_span": "τὰς σφυρίδας",
+      "surface_form": "τὰς σφυρίδας",
+      "normalized_label": "σφυρίδες",
+      "role": "carrier",
+      "certainty": "uncertain",
+      "quantities": [],
+      "qualifiers": [],
+      "notes": [
+        "ὁ ἀκριβὴς ρόλος τοῦ σκεύους οὐ πλήρως σαφής"
+      ],
+      "host_locator": {
+        "book": "1",
+        "chapter": "32",
+        "section": "2",
+        "citation": {
+          "start": "37.5",
+          "end": "37.15"
+        }
+      }
+    },
+    {
+      "material_id": "dioscorides-1-32-2-kikinon-aigyption:material:organon-3",
+      "material_urn": "urn:aos:recipe-material:dioscorides-1-32-2-kikinon-aigyption:material:organon-3",
+      "source_span": "ὀργάνου",
+      "surface_form": "ὀργάνου",
+      "normalized_label": "ὄργανον",
+      "role": "tool",
+      "certainty": "certain",
+      "quantities": [],
+      "qualifiers": [],
+      "notes": [
+        "ἀκατονόμαστον γενικὸν ἐργαλεῖον"
+      ],
+      "host_locator": {
+        "book": "1",
+        "chapter": "32",
+        "section": "2",
+        "citation": {
+          "start": "37.5",
+          "end": "37.15"
+        }
+      }
+    }
+  ],
+  "people": [
+    {
+      "person_id": "dioscorides-1-32-2-kikinon-aigyption:person:aigyptioi-1",
+      "person_urn": "urn:aos:recipe-person:dioscorides-1-32-2-kikinon-aigyption:person:aigyptioi-1",
+      "source_span": "οἱ δὲ Αἰγύπτιοι",
+      "surface_form": "οἱ δὲ Αἰγύπτιοι",
+      "normalized_label": "Αἰγύπτιοι",
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "32",
+        "section": "2",
+        "citation": {
+          "start": "37.5",
+          "end": "37.15"
+        }
+      }
+    }
+  ],
+  "places": [],
+  "uses": [
+    {
+      "use_id": "dioscorides-1-32-2-kikinon-aigyption:use:pros-psoras-kai-achoras-1",
+      "use_urn": "urn:aos:recipe-use:dioscorides-1-32-2-kikinon-aigyption:use:pros-psoras-kai-achoras-1",
+      "category": "medical",
+      "source_span": "πρὸς ψώρας καὶ ἀχῶρας",
+      "snippet": "πρὸς ψώρας καὶ ἀχῶρας",
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "32",
+        "section": "2",
+        "citation": {
+          "start": "37.5",
+          "end": "37.15"
+        }
+      }
+    },
+    {
+      "use_id": "dioscorides-1-32-2-kikinon-aigyption:use:kai-tas-en-edra-phlegmonas-2",
+      "use_urn": "urn:aos:recipe-use:dioscorides-1-32-2-kikinon-aigyption:use:kai-tas-en-edra-phlegmonas-2",
+      "category": "medical",
+      "source_span": "καὶ τὰς ἐν ἕδρᾳ φλεγμονάς",
+      "snippet": "καὶ τὰς ἐν ἕδρᾳ φλεγμονάς",
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "32",
+        "section": "2",
+        "citation": {
+          "start": "37.5",
+          "end": "37.15"
+        }
+      }
+    },
+    {
+      "use_id": "dioscorides-1-32-2-kikinon-aigyption:use:pros-te-ysteras-myseis-kai-diastrophas-3",
+      "use_urn": "urn:aos:recipe-use:dioscorides-1-32-2-kikinon-aigyption:use:pros-te-ysteras-myseis-kai-diastrophas-3",
+      "category": "medical",
+      "source_span": "πρός τε ὑστέρας μύσεις καὶ διαστροφάς",
+      "snippet": "πρός τε ὑστέρας μύσεις καὶ διαστροφάς",
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "32",
+        "section": "2",
+        "citation": {
+          "start": "37.5",
+          "end": "37.15"
+        }
+      }
+    },
+    {
+      "use_id": "dioscorides-1-32-2-kikinon-aigyption:use:eti-de-oylas-aprepeis-4",
+      "use_urn": "urn:aos:recipe-use:dioscorides-1-32-2-kikinon-aigyption:use:eti-de-oylas-aprepeis-4",
+      "category": "cosmetic",
+      "source_span": "ἔτι δὲ οὐλὰς ἀπρεπεῖς",
+      "snippet": "ἔτι δὲ οὐλὰς ἀπρεπεῖς",
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "32",
+        "section": "2",
+        "citation": {
+          "start": "37.5",
+          "end": "37.15"
+        }
+      }
+    },
+    {
+      "use_id": "dioscorides-1-32-2-kikinon-aigyption:use:kai-otalgias-5",
+      "use_urn": "urn:aos:recipe-use:dioscorides-1-32-2-kikinon-aigyption:use:kai-otalgias-5",
+      "category": "medical",
+      "source_span": "καὶ ὠταλγίας",
+      "snippet": "καὶ ὠταλγίας",
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "32",
+        "section": "2",
+        "citation": {
+          "start": "37.5",
+          "end": "37.15"
+        }
+      }
+    },
+    {
+      "use_id": "dioscorides-1-32-2-kikinon-aigyption:use:emplastrois-te-migen-empraktoteras-aytas-ergazetai-6",
+      "use_urn": "urn:aos:recipe-use:dioscorides-1-32-2-kikinon-aigyption:use:emplastrois-te-migen-empraktoteras-aytas-ergazetai-6",
+      "category": "medical",
+      "source_span": "ἐμπλάστροις τε μιγὲν ἐμπρακτοτέρας αὐτὰς ἐργάζεται",
+      "snippet": "ἐμπλάστροις τε μιγὲν ἐμπρακτοτέρας αὐτὰς ἐργάζεται",
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "32",
+        "section": "2",
+        "citation": {
+          "start": "37.5",
+          "end": "37.15"
+        }
+      }
+    },
+    {
+      "use_id": "dioscorides-1-32-2-kikinon-aigyption:use:agei-de-kai-kata-koilian-ydatodes-pothen-7",
+      "use_urn": "urn:aos:recipe-use:dioscorides-1-32-2-kikinon-aigyption:use:agei-de-kai-kata-koilian-ydatodes-pothen-7",
+      "category": "medical",
+      "source_span": "ἄγει δὲ καὶ κατὰ κοιλίαν ὑδατῶδες ποθέν",
+      "snippet": "ἄγει δὲ καὶ κατὰ κοιλίαν ὑδατῶδες ποθέν",
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "32",
+        "section": "2",
+        "citation": {
+          "start": "37.5",
+          "end": "37.15"
+        }
+      }
+    },
+    {
+      "use_id": "dioscorides-1-32-2-kikinon-aigyption:use:ekkrinei-de-kai-elminthas-8",
+      "use_urn": "urn:aos:recipe-use:dioscorides-1-32-2-kikinon-aigyption:use:ekkrinei-de-kai-elminthas-8",
+      "category": "medical",
+      "source_span": "ἐκκρίνει δὲ καὶ ἕλμινθας",
+      "snippet": "ἐκκρίνει δὲ καὶ ἕλμινθας",
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "32",
+        "section": "2",
+        "citation": {
+          "start": "37.5",
+          "end": "37.15"
+        }
+      }
+    }
+  ],
+  "preparation_names": [],
+  "other_preparations_mentioned": [
+    {
+      "reference_id": "dioscorides-1-32-2-kikinon-aigyption:reference:emplastron-1",
+      "reference_urn": "urn:aos:recipe-reference:dioscorides-1-32-2-kikinon-aigyption:reference:emplastron-1",
+      "source_span": "ἐμπλάστροις",
+      "surface_form": "ἐμπλάστροις",
+      "normalized_label": "ἔμπλαστρον",
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "32",
+        "section": "2",
+        "citation": {
+          "start": "37.5",
+          "end": "37.15"
+        }
+      }
+    }
+  ],
+  "works_mentioned": [],
+  "entities": [
+    {
+      "entity_urn": "urn:aos:recipe-preparation:dioscorides-1-32-2-kikinon-aigyption:preparation:kikinon",
+      "entity_type": "label",
+      "surface_form": "κίκινον αἰγυπτίων",
+      "normalized_label": "κίκινον"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:dioscorides-1-32-2-kikinon-aigyption:ingredient:krotones-1",
+      "entity_type": "ingredient",
+      "surface_form": "τοὺς κρότωνας",
+      "normalized_label": "κρότωνες"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:dioscorides-1-32-2-kikinon-aigyption:ingredient:alelesmenon-2",
+      "entity_type": "ingredient",
+      "surface_form": "τὸ ἀληλεσμένον",
+      "normalized_label": "ἀληλεσμένον"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-1-32-2-kikinon-aigyption:process:kathairein-1",
+      "entity_type": "process",
+      "surface_form": "καθᾶραι",
+      "normalized_label": "καθαίρειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-1-32-2-kikinon-aigyption:process:apodidonai-2",
+      "entity_type": "process",
+      "surface_form": "ἀποδόντες",
+      "normalized_label": "ἀποδιδόναι"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-1-32-2-kikinon-aigyption:process:alethein-3",
+      "entity_type": "process",
+      "surface_form": "ἀλήθουσιν",
+      "normalized_label": "ἀλήθειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-1-32-2-kikinon-aigyption:process:emballein-4",
+      "entity_type": "process",
+      "surface_form": "ἐμβαλόντες",
+      "normalized_label": "ἐμβάλλειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-1-32-2-kikinon-aigyption:process:ekthlibein-5",
+      "entity_type": "process",
+      "surface_form": "ἐκθλίβουσιν",
+      "normalized_label": "ἐκθλίβειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-material:dioscorides-1-32-2-kikinon-aigyption:material:myle-1",
+      "entity_type": "material",
+      "surface_form": "μύλην",
+      "normalized_label": "μύλη"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-material:dioscorides-1-32-2-kikinon-aigyption:material:sphyrides-2",
+      "entity_type": "material",
+      "surface_form": "τὰς σφυρίδας",
+      "normalized_label": "σφυρίδες"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-material:dioscorides-1-32-2-kikinon-aigyption:material:organon-3",
+      "entity_type": "material",
+      "surface_form": "ὀργάνου",
+      "normalized_label": "ὄργανον"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-person:dioscorides-1-32-2-kikinon-aigyption:person:aigyptioi-1",
+      "entity_type": "person",
+      "surface_form": "οἱ δὲ Αἰγύπτιοι",
+      "normalized_label": "Αἰγύπτιοι"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-reference:dioscorides-1-32-2-kikinon-aigyption:reference:emplastron-1",
+      "entity_type": "preparation_reference",
+      "surface_form": "ἐμπλάστροις",
+      "normalized_label": "ἔμπλαστρον"
+    }
+  ],
+  "canonical_file": "data/recipes/dioscorides-1-32-2-kikinon-aigyption.json",
+  "source_entry": {
+    "source_id": "dioscorides-1-32-2-kikinon-aigyption",
+    "derived_recipe_id": "dioscorides-1-32-2-kikinon-aigyption",
+    "entry_kind": "recipe",
+    "source_kind": "main_text",
+    "source_lines": {
+      "start": 1855,
+      "end": 3167
+    },
+    "section_markers": []
+  },
+  "entity_groups": {
+    "labels": [
+      {
+        "entity_urn": "urn:aos:recipe-preparation:dioscorides-1-32-2-kikinon-aigyption:preparation:kikinon",
+        "surface_form": "κίκινον αἰγυπτίων",
+        "normalized_label": "κίκινον"
+      }
+    ],
+    "ingredients": [
+      {
+        "entity_urn": "urn:aos:recipe-ingredient:dioscorides-1-32-2-kikinon-aigyption:ingredient:krotones-1",
+        "surface_form": "τοὺς κρότωνας",
+        "normalized_label": "κρότωνες",
+        "quantity_display": ""
+      },
+      {
+        "entity_urn": "urn:aos:recipe-ingredient:dioscorides-1-32-2-kikinon-aigyption:ingredient:alelesmenon-2",
+        "surface_form": "τὸ ἀληλεσμένον",
+        "normalized_label": "ἀληλεσμένον",
+        "quantity_display": ""
+      }
+    ],
+    "processes": [
+      {
+        "entity_urn": "urn:aos:recipe-process:dioscorides-1-32-2-kikinon-aigyption:process:kathairein-1",
+        "surface_form": "καθᾶραι",
+        "normalized_label": "καθαίρειν"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-process:dioscorides-1-32-2-kikinon-aigyption:process:apodidonai-2",
+        "surface_form": "ἀποδόντες",
+        "normalized_label": "ἀποδιδόναι"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-process:dioscorides-1-32-2-kikinon-aigyption:process:alethein-3",
+        "surface_form": "ἀλήθουσιν",
+        "normalized_label": "ἀλήθειν"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-process:dioscorides-1-32-2-kikinon-aigyption:process:emballein-4",
+        "surface_form": "ἐμβαλόντες",
+        "normalized_label": "ἐμβάλλειν"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-process:dioscorides-1-32-2-kikinon-aigyption:process:ekthlibein-5",
+        "surface_form": "ἐκθλίβουσιν",
+        "normalized_label": "ἐκθλίβειν"
+      }
+    ],
+    "tools": [
+      {
+        "entity_urn": "urn:aos:recipe-material:dioscorides-1-32-2-kikinon-aigyption:material:myle-1",
+        "surface_form": "μύλην",
+        "normalized_label": "μύλη"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-material:dioscorides-1-32-2-kikinon-aigyption:material:sphyrides-2",
+        "surface_form": "τὰς σφυρίδας",
+        "normalized_label": "σφυρίδες"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-material:dioscorides-1-32-2-kikinon-aigyption:material:organon-3",
+        "surface_form": "ὀργάνου",
+        "normalized_label": "ὄργανον"
+      }
+    ],
+    "other_preparations_mentioned": [
+      {
+        "entity_urn": "urn:aos:recipe-reference:dioscorides-1-32-2-kikinon-aigyption:reference:emplastron-1",
+        "surface_form": "ἐμπλάστροις",
+        "normalized_label": "ἔμπλαστρον"
+      }
+    ],
+    "people": [
+      {
+        "entity_urn": "urn:aos:recipe-person:dioscorides-1-32-2-kikinon-aigyption:person:aigyptioi-1",
+        "surface_form": "οἱ δὲ Αἰγύπτιοι",
+        "normalized_label": "Αἰγύπτιοι"
+      }
+    ],
+    "places": [],
+    "works_mentioned": [],
+    "preparation_names": []
+  }
+}

@@ -1,0 +1,1462 @@
+{
+  "dataset_key": "dioscorides_book1_perfumes_resins",
+  "source_json": "experiments/dioscorides-book1-perfumes-resins/data/dioscorides_book1_perfumes_resins.json",
+  "host_raw_file": "tei/raw/tlg0656.tlg001.1st1K-grc1.xml",
+  "work_slug": "diosc.b1.recipes",
+  "recipe_id": "dioscorides-1-25-kyphi",
+  "recipe_urn": "urn:aos:recipe:dioscorides-1-25-kyphi",
+  "record_urn": "urn:aos:recipe-record:dioscorides-1-25-kyphi",
+  "author": "Dioscorides",
+  "work": "De materia medica",
+  "book": "1",
+  "chapter": "25",
+  "section": "1-2",
+  "chapter_name": "κῦφι",
+  "lemma": "κῦφι",
+  "text": "25 κῦφι θυμιάματός ἐστι σκευασία κεχαρισμένη θεοῖς· χρῶνται δὲ αὐτῷ κατακόρως οἱ ἐν Αἰγύπτῳ ἱερεῖς. μείγνυται δὲ καὶ ἀντιδότοις, καὶ ἀσθματικοῖς δίδοται ἐν ποτήμασι. σκευασίαι δὲ αὐτοῦ ἐμφέρονται πλείονες, ἐν αἷς ἐστι καὶ αὕτη· κυπέρου ἡμίξεστον, ἀρκευθίδος ἁδρᾶς τὸ αὐτό, σταφίδος λιπαρᾶς ἐκγεγιγαρτισμένης μνᾶς δεκαδύο, ῥητίνης ἀποκεκαθαρμένης μνᾶς πέντε, καλάμου ἀρωματίτου, ἀσπαλάθου, σχοίνου, ἑκάστου μνᾶν μίαν, σμύρνης δραχμὰς δεκαδύο, οἴνου παλαιοῦ ξέστας ἐννέα, μέλιτος μνᾶς δύο. ἐκγιγαρτίσας τὴν σταφίδα 2 κόψον καὶ λέανον μετὰ τοῦ οἴνου καὶ τῆς σμύρνης καὶ τὰ ἄλλα κόψας καὶ σήσας μεῖξον τούτοις ἔασόν τε συμπιεῖν ἡμέραν μίαν· εἶτα ἑψήσας τὸ μέλι ἄχρι κολλώδους συστάσεως μεῖξον ἐπιμελῶς τὴν ῥητίνην τετηκυῖαν, εἶτα τὰ λοιπὰ συνανατρίψας ἐπιμελῶς ἀποτίθεσο εἰς ἀγγεῖον ὀστράκινον.",
+  "original_text": null,
+  "text_source": null,
+  "emendations": [],
+  "emendation_count": 0,
+  "source_kind": "main_text",
+  "entry_kind": "recipe",
+  "citation": {
+    "pages": [
+      "28",
+      "29"
+    ],
+    "start": {
+      "page": "28",
+      "line": "15"
+    },
+    "end": {
+      "page": "29",
+      "line": "5"
+    },
+    "citation": {
+      "start": "28.15",
+      "end": "29.5"
+    },
+    "page_spans": [
+      {
+        "page": "28",
+        "start_line": "15",
+        "end_line": "20"
+      },
+      {
+        "page": "29",
+        "start_line": "1",
+        "end_line": "5"
+      }
+    ],
+    "lines": [
+      {
+        "page": "28",
+        "line": "15",
+        "break_no": false,
+        "text": "25 κῦφι θυμιάματός ἐστι σκευασία κεχαρισμένη θεοῖς· χρῶνται δὲ αὐτῷ κατακόρως οἱ ἐν Αἰγύπτῳ ἱερεῖς. μείγνυται δὲ καὶ ἀντιδότοις, καὶ ἀσθματικοῖς δίδοται ἐν ποτήμασι. σκευασίαι",
+        "citation": "28.15"
+      },
+      {
+        "page": "28",
+        "line": "20",
+        "break_no": false,
+        "text": "δὲ αὐτοῦ ἐμφέρονται πλείονες, ἐν αἷς ἐστι καὶ αὕτη· κυπέρου ἡμίξεστον, ἀρκευθίδος ἁδρᾶς τὸ αὐτό, σταφίδος λιπαρᾶς ἐκγεγιγαρτισμένης μνᾶς δεκαδύο, ῥητίνης ἀποκεκαθαρμένης",
+        "citation": "28.20"
+      },
+      {
+        "page": "29",
+        "line": "1",
+        "break_no": false,
+        "text": "μνᾶς πέντε, καλάμου ἀρωματίτου, ἀσπαλάθου, σχοίνου, ἑκάστου μνᾶν μίαν, σμύρνης δραχμὰς δεκαδύο, οἴνου παλαιοῦ ξέστας ἐννέα, μέλιτος μνᾶς δύο. ἐκγιγαρτίσας τὴν σταφίδα 2 κόψον καὶ λέανον μετὰ τοῦ οἴνου καὶ τῆς σμύρνης καὶ τὰ ἄλλα",
+        "citation": "29.1"
+      },
+      {
+        "page": "29",
+        "line": "5",
+        "break_no": false,
+        "text": "κόψας καὶ σήσας μεῖξον τούτοις ἔασόν τε συμπιεῖν ἡμέραν μίαν· εἶτα ἑψήσας τὸ μέλι ἄχρι κολλώδους συστάσεως μεῖξον ἐπιμελῶς τὴν ῥητίνην τετηκυῖαν, εἶτα τὰ λοιπὰ συνανατρίψας ἐπιμελῶς ἀποτίθεσο εἰς ἀγγεῖον ὀστράκινον.",
+        "citation": "29.5"
+      }
+    ],
+    "edition_key": "wellmann"
+  },
+  "notes": [
+    "Raw lines 1590-1633 are book 1 chapter 25 in this witness, although the prompt referred to chapter 35.",
+    "The perfume proemium is taken from the later transition at chapter 42 section 2 (raw lines 2306-2342), not from the chapter 25 κῦφι entry.",
+    "The ἰασμέλαιον entry is preserved only in the apparatus as an addition from another recension.",
+    "The standalone numeral 2 after τὴν σταφίδα is treated as an editorial marker, not as recipe content."
+  ],
+  "alignment_status": "pending",
+  "alignment_confidence": "pending",
+  "alignment_evidence": null,
+  "review_status": "reviewed_structured_authority",
+  "review_provenance": {
+    "authority_source": "reports/entity_review/structured/dioscorides.json",
+    "authority_recipe_id": "dioscorides-1-25-kyphi",
+    "authority_lemma": "κῦφι",
+    "model": "gpt-5.4",
+    "reasoning_effort": "high",
+    "dataset_key": "dioscorides_book1_perfumes_resins",
+    "entity_model_version": "1.2",
+    "authority_version": "2026-04-13-qty-alt-v1",
+    "prompt_version": "qty-alt-pass-v1",
+    "build_version": "2026-05-18T15:51:35Z"
+  },
+  "schema_version": "1.2",
+  "build_metadata": {
+    "builder": "scripts/recipes/build_recipe_entities.py",
+    "built_at": "2026-05-18T15:51:35Z",
+    "source_structured_authority": "reports/entity_review/structured/dioscorides.json",
+    "authority_model": "gpt-5.4",
+    "authority_reasoning_effort": "high",
+    "dataset_key": "dioscorides_book1_perfumes_resins",
+    "entity_model_version": "1.2",
+    "authority_version": "2026-04-13-qty-alt-v1",
+    "prompt_version": "qty-alt-pass-v1",
+    "build_version": "2026-05-18T15:51:35Z"
+  },
+  "recipe_text_excerpt": "κῦφι θυμιάματός ἐστι σκευασία κεχαρισμένη θεοῖς· χρῶνται δὲ αὐτῷ κατακόρως οἱ ἐν Αἰγύπτῳ ἱερεῖς. μείγνυται δὲ καὶ ἀντιδότοις, καὶ ἀσθματικοῖς",
+  "preparation": {
+    "preparation_id": "dioscorides-1-25-kyphi:preparation:kyphi",
+    "preparation_urn": "urn:aos:recipe-preparation:dioscorides-1-25-kyphi:preparation:kyphi",
+    "source_span": "κῦφι",
+    "surface_form": "κῦφι",
+    "normalized_label": "κῦφι",
+    "qualifiers": [
+      {
+        "qualifier_type": "other",
+        "source_span": "θυμιάματός ἐστι σκευασία",
+        "normalized_value": "θυμίαμα",
+        "certainty": "certain",
+        "notes": []
+      }
+    ],
+    "regimen_notes": [],
+    "certainty": "certain",
+    "notes": [],
+    "host_locator": {
+      "book": "1",
+      "chapter": "25",
+      "section": "1-2",
+      "citation": {
+        "start": "28.15",
+        "end": "29.5"
+      }
+    }
+  },
+  "ingredients": [
+    {
+      "ingredient_id": "dioscorides-1-25-kyphi:ingredient:kyperos-1",
+      "ingredient_urn": "urn:aos:recipe-ingredient:dioscorides-1-25-kyphi:ingredient:kyperos-1",
+      "source_span": "κυπέρου",
+      "surface_form": "κυπέρου",
+      "base_label": "κύπερος",
+      "normalized_label": "κύπερος",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [],
+      "quantities": [
+        {
+          "source_span": "ἡμίξεστον",
+          "raw_number": "ἡμί",
+          "normalized_number": 0.5,
+          "raw_unit": "ξεστον",
+          "normalized_unit": "xestes",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "25",
+        "section": "1-2",
+        "citation": {
+          "start": "28.15",
+          "end": "29.5"
+        }
+      }
+    },
+    {
+      "ingredient_id": "dioscorides-1-25-kyphi:ingredient:arkeythis-2",
+      "ingredient_urn": "urn:aos:recipe-ingredient:dioscorides-1-25-kyphi:ingredient:arkeythis-2",
+      "source_span": "ἀρκευθίδος ἁδρᾶς",
+      "surface_form": "ἀρκευθίδος ἁδρᾶς",
+      "base_label": "ἀρκευθίς",
+      "normalized_label": "ἀρκευθίς",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [],
+      "quantities": [
+        {
+          "source_span": "τὸ αὐτό",
+          "raw_number": null,
+          "normalized_number": 0.5,
+          "raw_unit": null,
+          "normalized_unit": "xestes",
+          "certainty": "certain",
+          "notes": [
+            "Same quantity as the immediately preceding κυπέρου ἡμίξεστον."
+          ]
+        }
+      ],
+      "qualifiers": [
+        {
+          "qualifier_type": "other",
+          "source_span": "ἁδρᾶς",
+          "normalized_value": "ἁδρά",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "25",
+        "section": "1-2",
+        "citation": {
+          "start": "28.15",
+          "end": "29.5"
+        }
+      }
+    },
+    {
+      "ingredient_id": "dioscorides-1-25-kyphi:ingredient:staphis-lipara-3",
+      "ingredient_urn": "urn:aos:recipe-ingredient:dioscorides-1-25-kyphi:ingredient:staphis-lipara-3",
+      "source_span": "σταφίδος λιπαρᾶς ἐκγεγιγαρτισμένης",
+      "surface_form": "σταφίδος λιπαρᾶς ἐκγεγιγαρτισμένης",
+      "base_label": "σταφίς",
+      "normalized_label": "σταφίς λιπαρά",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [
+        "dioscorides-1-25-kyphi:process:ekgigartizein-1",
+        "dioscorides-1-25-kyphi:process:ekgigartizein-3",
+        "dioscorides-1-25-kyphi:process:koptein-4",
+        "dioscorides-1-25-kyphi:process:koptein-6",
+        "dioscorides-1-25-kyphi:process:leainein-5"
+      ],
+      "quantities": [
+        {
+          "source_span": "μνᾶς δεκαδύο",
+          "raw_number": "δεκαδύο",
+          "normalized_number": 12,
+          "raw_unit": "μνᾶς",
+          "normalized_unit": "mna",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "25",
+        "section": "1-2",
+        "citation": {
+          "start": "28.15",
+          "end": "29.5"
+        }
+      }
+    },
+    {
+      "ingredient_id": "dioscorides-1-25-kyphi:ingredient:retine-4",
+      "ingredient_urn": "urn:aos:recipe-ingredient:dioscorides-1-25-kyphi:ingredient:retine-4",
+      "source_span": "ῥητίνης ἀποκεκαθαρμένης",
+      "surface_form": "ῥητίνης ἀποκεκαθαρμένης",
+      "base_label": "ῥητίνη",
+      "normalized_label": "ῥητίνη",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [
+        "dioscorides-1-25-kyphi:process:apokathairein-2",
+        "dioscorides-1-25-kyphi:process:tekein-11",
+        "dioscorides-1-25-kyphi:process:mignynai-8",
+        "dioscorides-1-25-kyphi:process:mignynai-12"
+      ],
+      "quantities": [
+        {
+          "source_span": "μνᾶς πέντε",
+          "raw_number": "πέντε",
+          "normalized_number": 5,
+          "raw_unit": "μνᾶς",
+          "normalized_unit": "mna",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "25",
+        "section": "1-2",
+        "citation": {
+          "start": "28.15",
+          "end": "29.5"
+        }
+      }
+    },
+    {
+      "ingredient_id": "dioscorides-1-25-kyphi:ingredient:kalamos-aromatites-5",
+      "ingredient_urn": "urn:aos:recipe-ingredient:dioscorides-1-25-kyphi:ingredient:kalamos-aromatites-5",
+      "source_span": "καλάμου ἀρωματίτου",
+      "surface_form": "καλάμου ἀρωματίτου",
+      "base_label": "κάλαμος",
+      "normalized_label": "κάλαμος ἀρωματίτης",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [],
+      "quantities": [
+        {
+          "source_span": "ἑκάστου μνᾶν μίαν",
+          "raw_number": "μίαν",
+          "normalized_number": 1,
+          "raw_unit": "μνᾶν",
+          "normalized_unit": "mna",
+          "certainty": "certain",
+          "notes": [
+            "Shared each-quantity over καλάμου ἀρωματίτου, ἀσπαλάθου, σχοίνου."
+          ]
+        }
+      ],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "25",
+        "section": "1-2",
+        "citation": {
+          "start": "28.15",
+          "end": "29.5"
+        }
+      }
+    },
+    {
+      "ingredient_id": "dioscorides-1-25-kyphi:ingredient:aspalathos-6",
+      "ingredient_urn": "urn:aos:recipe-ingredient:dioscorides-1-25-kyphi:ingredient:aspalathos-6",
+      "source_span": "ἀσπαλάθου",
+      "surface_form": "ἀσπαλάθου",
+      "base_label": "ἀσπάλαθος",
+      "normalized_label": "ἀσπάλαθος",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [],
+      "quantities": [
+        {
+          "source_span": "ἑκάστου μνᾶν μίαν",
+          "raw_number": "μίαν",
+          "normalized_number": 1,
+          "raw_unit": "μνᾶν",
+          "normalized_unit": "mna",
+          "certainty": "certain",
+          "notes": [
+            "Shared each-quantity over καλάμου ἀρωματίτου, ἀσπαλάθου, σχοίνου."
+          ]
+        }
+      ],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "25",
+        "section": "1-2",
+        "citation": {
+          "start": "28.15",
+          "end": "29.5"
+        }
+      }
+    },
+    {
+      "ingredient_id": "dioscorides-1-25-kyphi:ingredient:schoinos-7",
+      "ingredient_urn": "urn:aos:recipe-ingredient:dioscorides-1-25-kyphi:ingredient:schoinos-7",
+      "source_span": "σχοίνου",
+      "surface_form": "σχοίνου",
+      "base_label": "σχοῖνος",
+      "normalized_label": "σχοῖνος",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [],
+      "quantities": [
+        {
+          "source_span": "ἑκάστου μνᾶν μίαν",
+          "raw_number": "μίαν",
+          "normalized_number": 1,
+          "raw_unit": "μνᾶν",
+          "normalized_unit": "mna",
+          "certainty": "certain",
+          "notes": [
+            "Shared each-quantity over καλάμου ἀρωματίτου, ἀσπαλάθου, σχοίνου."
+          ]
+        }
+      ],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "25",
+        "section": "1-2",
+        "citation": {
+          "start": "28.15",
+          "end": "29.5"
+        }
+      }
+    },
+    {
+      "ingredient_id": "dioscorides-1-25-kyphi:ingredient:smyrna-8",
+      "ingredient_urn": "urn:aos:recipe-ingredient:dioscorides-1-25-kyphi:ingredient:smyrna-8",
+      "source_span": "σμύρνης",
+      "surface_form": "σμύρνης",
+      "base_label": "σμύρνα",
+      "normalized_label": "σμύρνα",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [
+        "dioscorides-1-25-kyphi:process:leainein-5"
+      ],
+      "quantities": [
+        {
+          "source_span": "δραχμὰς δεκαδύο",
+          "raw_number": "δεκαδύο",
+          "normalized_number": 12,
+          "raw_unit": "δραχμὰς",
+          "normalized_unit": "drachme",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "25",
+        "section": "1-2",
+        "citation": {
+          "start": "28.15",
+          "end": "29.5"
+        }
+      }
+    },
+    {
+      "ingredient_id": "dioscorides-1-25-kyphi:ingredient:oinos-9",
+      "ingredient_urn": "urn:aos:recipe-ingredient:dioscorides-1-25-kyphi:ingredient:oinos-9",
+      "source_span": "οἴνου παλαιοῦ",
+      "surface_form": "οἴνου παλαιοῦ",
+      "base_label": "οἶνος",
+      "normalized_label": "οἶνος",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [
+        "dioscorides-1-25-kyphi:process:leainein-5"
+      ],
+      "quantities": [
+        {
+          "source_span": "ξέστας ἐννέα",
+          "raw_number": "ἐννέα",
+          "normalized_number": 9,
+          "raw_unit": "ξέστας",
+          "normalized_unit": "xestes",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "qualifiers": [
+        {
+          "qualifier_type": "other",
+          "source_span": "παλαιοῦ",
+          "normalized_value": "παλαιός",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "25",
+        "section": "1-2",
+        "citation": {
+          "start": "28.15",
+          "end": "29.5"
+        }
+      }
+    },
+    {
+      "ingredient_id": "dioscorides-1-25-kyphi:ingredient:meli-10",
+      "ingredient_urn": "urn:aos:recipe-ingredient:dioscorides-1-25-kyphi:ingredient:meli-10",
+      "source_span": "μέλιτος",
+      "surface_form": "μέλιτος",
+      "base_label": "μέλι",
+      "normalized_label": "μέλι",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [
+        "dioscorides-1-25-kyphi:process:epsein-10"
+      ],
+      "quantities": [
+        {
+          "source_span": "μνᾶς δύο",
+          "raw_number": "δύο",
+          "normalized_number": 2,
+          "raw_unit": "μνᾶς",
+          "normalized_unit": "mna",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "25",
+        "section": "1-2",
+        "citation": {
+          "start": "28.15",
+          "end": "29.5"
+        }
+      }
+    }
+  ],
+  "processes": [
+    {
+      "process_id": "dioscorides-1-25-kyphi:process:ekgigartizein-1",
+      "process_urn": "urn:aos:recipe-process:dioscorides-1-25-kyphi:process:ekgigartizein-1",
+      "source_span": "ἐκγεγιγαρτισμένης",
+      "surface_form": "ἐκγεγιγαρτισμένης",
+      "normalized_label": "ἐκγιγαρτίζειν",
+      "target_type": "ingredient",
+      "target_ids": [
+        "dioscorides-1-25-kyphi:ingredient:staphis-lipara-3"
+      ],
+      "quantities": [],
+      "qualifiers": [],
+      "certainty": "certain",
+      "notes": [
+        "Participial process embedded in the ingredient phrase."
+      ],
+      "host_locator": {
+        "book": "1",
+        "chapter": "25",
+        "section": "1-2",
+        "citation": {
+          "start": "28.15",
+          "end": "29.5"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-1-25-kyphi:process:apokathairein-2",
+      "process_urn": "urn:aos:recipe-process:dioscorides-1-25-kyphi:process:apokathairein-2",
+      "source_span": "ἀποκεκαθαρμένης",
+      "surface_form": "ἀποκεκαθαρμένης",
+      "normalized_label": "ἀποκαθαίρειν",
+      "target_type": "ingredient",
+      "target_ids": [
+        "dioscorides-1-25-kyphi:ingredient:retine-4"
+      ],
+      "quantities": [],
+      "qualifiers": [],
+      "certainty": "certain",
+      "notes": [
+        "Participial process embedded in the ingredient phrase."
+      ],
+      "host_locator": {
+        "book": "1",
+        "chapter": "25",
+        "section": "1-2",
+        "citation": {
+          "start": "28.15",
+          "end": "29.5"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-1-25-kyphi:process:ekgigartizein-3",
+      "process_urn": "urn:aos:recipe-process:dioscorides-1-25-kyphi:process:ekgigartizein-3",
+      "source_span": "ἐκγιγαρτίσας",
+      "surface_form": "ἐκγιγαρτίσας",
+      "normalized_label": "ἐκγιγαρτίζειν",
+      "target_type": "ingredient",
+      "target_ids": [
+        "dioscorides-1-25-kyphi:ingredient:staphis-lipara-3"
+      ],
+      "quantities": [],
+      "qualifiers": [],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "25",
+        "section": "1-2",
+        "citation": {
+          "start": "28.15",
+          "end": "29.5"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-1-25-kyphi:process:koptein-4",
+      "process_urn": "urn:aos:recipe-process:dioscorides-1-25-kyphi:process:koptein-4",
+      "source_span": "κόψον",
+      "surface_form": "κόψον",
+      "normalized_label": "κόπτειν",
+      "target_type": "ingredient",
+      "target_ids": [
+        "dioscorides-1-25-kyphi:ingredient:staphis-lipara-3"
+      ],
+      "quantities": [],
+      "qualifiers": [],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "25",
+        "section": "1-2",
+        "citation": {
+          "start": "28.15",
+          "end": "29.5"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-1-25-kyphi:process:leainein-5",
+      "process_urn": "urn:aos:recipe-process:dioscorides-1-25-kyphi:process:leainein-5",
+      "source_span": "λέανον",
+      "surface_form": "λέανον",
+      "normalized_label": "λεαίνειν",
+      "target_type": "ingredient",
+      "target_ids": [
+        "dioscorides-1-25-kyphi:ingredient:staphis-lipara-3",
+        "dioscorides-1-25-kyphi:ingredient:oinos-9",
+        "dioscorides-1-25-kyphi:ingredient:smyrna-8"
+      ],
+      "quantities": [],
+      "qualifiers": [],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "25",
+        "section": "1-2",
+        "citation": {
+          "start": "28.15",
+          "end": "29.5"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-1-25-kyphi:process:koptein-6",
+      "process_urn": "urn:aos:recipe-process:dioscorides-1-25-kyphi:process:koptein-6",
+      "source_span": "κόψας",
+      "surface_form": "κόψας",
+      "normalized_label": "κόπτειν",
+      "target_type": "ingredient",
+      "target_ids": [
+        "dioscorides-1-25-kyphi:ingredient:kyperos-1",
+        "dioscorides-1-25-kyphi:ingredient:arkeythis-2",
+        "dioscorides-1-25-kyphi:ingredient:kalamos-aromatites-5",
+        "dioscorides-1-25-kyphi:ingredient:aspalathos-6",
+        "dioscorides-1-25-kyphi:ingredient:schoinos-7"
+      ],
+      "quantities": [],
+      "qualifiers": [],
+      "certainty": "uncertain",
+      "notes": [
+        "τὰ ἄλλα is interpreted as the remaining solid aromatics before the later honey and resin steps."
+      ],
+      "host_locator": {
+        "book": "1",
+        "chapter": "25",
+        "section": "1-2",
+        "citation": {
+          "start": "28.15",
+          "end": "29.5"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-1-25-kyphi:process:sethein-7",
+      "process_urn": "urn:aos:recipe-process:dioscorides-1-25-kyphi:process:sethein-7",
+      "source_span": "σήσας",
+      "surface_form": "σήσας",
+      "normalized_label": "σήθειν",
+      "target_type": "ingredient",
+      "target_ids": [
+        "dioscorides-1-25-kyphi:ingredient:kyperos-1",
+        "dioscorides-1-25-kyphi:ingredient:arkeythis-2",
+        "dioscorides-1-25-kyphi:ingredient:kalamos-aromatites-5",
+        "dioscorides-1-25-kyphi:ingredient:aspalathos-6",
+        "dioscorides-1-25-kyphi:ingredient:schoinos-7"
+      ],
+      "quantities": [],
+      "qualifiers": [],
+      "certainty": "uncertain",
+      "notes": [
+        "τὰ ἄλλα is interpreted as the remaining solid aromatics before the later honey and resin steps."
+      ],
+      "host_locator": {
+        "book": "1",
+        "chapter": "25",
+        "section": "1-2",
+        "citation": {
+          "start": "28.15",
+          "end": "29.5"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-1-25-kyphi:process:mignynai-8",
+      "process_urn": "urn:aos:recipe-process:dioscorides-1-25-kyphi:process:mignynai-8",
+      "source_span": "μεῖξον",
+      "surface_form": "μεῖξον",
+      "normalized_label": "μιγνύναι",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [],
+      "certainty": "certain",
+      "notes": [
+        "First mixing stage: the processed remaining ingredients are added to the raisin-wine-myrrh mixture."
+      ],
+      "host_locator": {
+        "book": "1",
+        "chapter": "25",
+        "section": "1-2",
+        "citation": {
+          "start": "28.15",
+          "end": "29.5"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-1-25-kyphi:process:sympiezein-9",
+      "process_urn": "urn:aos:recipe-process:dioscorides-1-25-kyphi:process:sympiezein-9",
+      "source_span": "συμπιεῖν",
+      "surface_form": "συμπιεῖν",
+      "normalized_label": "συμπιέζειν",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "duration",
+          "source_span": "ἡμέραν μίαν",
+          "normalized_value": "1 day",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "25",
+        "section": "1-2",
+        "citation": {
+          "start": "28.15",
+          "end": "29.5"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-1-25-kyphi:process:epsein-10",
+      "process_urn": "urn:aos:recipe-process:dioscorides-1-25-kyphi:process:epsein-10",
+      "source_span": "ἑψήσας",
+      "surface_form": "ἑψήσας",
+      "normalized_label": "ἕψειν",
+      "target_type": "ingredient",
+      "target_ids": [
+        "dioscorides-1-25-kyphi:ingredient:meli-10"
+      ],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "other",
+          "source_span": "ἄχρι κολλώδους συστάσεως",
+          "normalized_value": "κολλώδης σύστασις",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "25",
+        "section": "1-2",
+        "citation": {
+          "start": "28.15",
+          "end": "29.5"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-1-25-kyphi:process:tekein-11",
+      "process_urn": "urn:aos:recipe-process:dioscorides-1-25-kyphi:process:tekein-11",
+      "source_span": "τετηκυῖαν",
+      "surface_form": "τετηκυῖαν",
+      "normalized_label": "τήκειν",
+      "target_type": "ingredient",
+      "target_ids": [
+        "dioscorides-1-25-kyphi:ingredient:retine-4"
+      ],
+      "quantities": [],
+      "qualifiers": [],
+      "certainty": "certain",
+      "notes": [
+        "Participial state specified for the resin at the second mixing stage."
+      ],
+      "host_locator": {
+        "book": "1",
+        "chapter": "25",
+        "section": "1-2",
+        "citation": {
+          "start": "28.15",
+          "end": "29.5"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-1-25-kyphi:process:mignynai-12",
+      "process_urn": "urn:aos:recipe-process:dioscorides-1-25-kyphi:process:mignynai-12",
+      "source_span": "μεῖξον",
+      "surface_form": "μεῖξον",
+      "normalized_label": "μιγνύναι",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "manner",
+          "source_span": "ἐπιμελῶς",
+          "normalized_value": "ἐπιμελῶς",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "certainty": "certain",
+      "notes": [
+        "Second mixing stage: the melted resin is added."
+      ],
+      "host_locator": {
+        "book": "1",
+        "chapter": "25",
+        "section": "1-2",
+        "citation": {
+          "start": "28.15",
+          "end": "29.5"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-1-25-kyphi:process:synanatribein-13",
+      "process_urn": "urn:aos:recipe-process:dioscorides-1-25-kyphi:process:synanatribein-13",
+      "source_span": "συνανατρίψας",
+      "surface_form": "συνανατρίψας",
+      "normalized_label": "συνανατρίβειν",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "manner",
+          "source_span": "ἐπιμελῶς",
+          "normalized_value": "ἐπιμελῶς",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "25",
+        "section": "1-2",
+        "citation": {
+          "start": "28.15",
+          "end": "29.5"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-1-25-kyphi:process:apotithesthai-14",
+      "process_urn": "urn:aos:recipe-process:dioscorides-1-25-kyphi:process:apotithesthai-14",
+      "source_span": "ἀποτίθεσο",
+      "surface_form": "ἀποτίθεσο",
+      "normalized_label": "ἀποτίθεσθαι",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "location",
+          "source_span": "εἰς ἀγγεῖον ὀστράκινον",
+          "normalized_value": "ἀγγεῖον ὀστράκινον",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "25",
+        "section": "1-2",
+        "citation": {
+          "start": "28.15",
+          "end": "29.5"
+        }
+      }
+    }
+  ],
+  "materials": [
+    {
+      "material_id": "dioscorides-1-25-kyphi:material:aggeion-ostrakinon-1",
+      "material_urn": "urn:aos:recipe-material:dioscorides-1-25-kyphi:material:aggeion-ostrakinon-1",
+      "source_span": "ἀγγεῖον ὀστράκινον",
+      "surface_form": "ἀγγεῖον ὀστράκινον",
+      "normalized_label": "ἀγγεῖον ὀστράκινον",
+      "role": "apparatus",
+      "certainty": "certain",
+      "quantities": [],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "25",
+        "section": "1-2",
+        "citation": {
+          "start": "28.15",
+          "end": "29.5"
+        }
+      }
+    }
+  ],
+  "people": [
+    {
+      "person_id": "dioscorides-1-25-kyphi:person:iereys-1",
+      "person_urn": "urn:aos:recipe-person:dioscorides-1-25-kyphi:person:iereys-1",
+      "source_span": "οἱ ἐν Αἰγύπτῳ ἱερεῖς",
+      "surface_form": "οἱ ἐν Αἰγύπτῳ ἱερεῖς",
+      "normalized_label": "ἱερεύς",
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "25",
+        "section": "1-2",
+        "citation": {
+          "start": "28.15",
+          "end": "29.5"
+        }
+      }
+    }
+  ],
+  "places": [
+    {
+      "place_id": "dioscorides-1-25-kyphi:place:aigyptos-1",
+      "place_urn": "urn:aos:recipe-place:dioscorides-1-25-kyphi:place:aigyptos-1",
+      "source_span": "Αἰγύπτῳ",
+      "surface_form": "Αἰγύπτῳ",
+      "normalized_label": "Αἴγυπτος",
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "25",
+        "section": "1-2",
+        "citation": {
+          "start": "28.15",
+          "end": "29.5"
+        }
+      }
+    }
+  ],
+  "uses": [
+    {
+      "use_id": "dioscorides-1-25-kyphi:use:thymiamatos-esti-skeyasia-kecharismene-theois-1",
+      "use_urn": "urn:aos:recipe-use:dioscorides-1-25-kyphi:use:thymiamatos-esti-skeyasia-kecharismene-theois-1",
+      "category": "ritual",
+      "source_span": "θυμιάματός ἐστι σκευασία κεχαρισμένη θεοῖς",
+      "snippet": "θυμιάματός ἐστι σκευασία κεχαρισμένη θεοῖς",
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "25",
+        "section": "1-2",
+        "citation": {
+          "start": "28.15",
+          "end": "29.5"
+        }
+      }
+    },
+    {
+      "use_id": "dioscorides-1-25-kyphi:use:chrontai-de-ayto-katakoros-oi-en-aigypto-iereis-2",
+      "use_urn": "urn:aos:recipe-use:dioscorides-1-25-kyphi:use:chrontai-de-ayto-katakoros-oi-en-aigypto-iereis-2",
+      "category": "ritual",
+      "source_span": "χρῶνται δὲ αὐτῷ κατακόρως οἱ ἐν Αἰγύπτῳ ἱερεῖς",
+      "snippet": "χρῶνται δὲ αὐτῷ κατακόρως οἱ ἐν Αἰγύπτῳ ἱερεῖς",
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "25",
+        "section": "1-2",
+        "citation": {
+          "start": "28.15",
+          "end": "29.5"
+        }
+      }
+    },
+    {
+      "use_id": "dioscorides-1-25-kyphi:use:meignytai-de-kai-antidotois-3",
+      "use_urn": "urn:aos:recipe-use:dioscorides-1-25-kyphi:use:meignytai-de-kai-antidotois-3",
+      "category": "medical",
+      "source_span": "μείγνυται δὲ καὶ ἀντιδότοις",
+      "snippet": "μείγνυται δὲ καὶ ἀντιδότοις",
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "25",
+        "section": "1-2",
+        "citation": {
+          "start": "28.15",
+          "end": "29.5"
+        }
+      }
+    },
+    {
+      "use_id": "dioscorides-1-25-kyphi:use:asthmatikois-didotai-en-potemasi-4",
+      "use_urn": "urn:aos:recipe-use:dioscorides-1-25-kyphi:use:asthmatikois-didotai-en-potemasi-4",
+      "category": "medical",
+      "source_span": "ἀσθματικοῖς δίδοται ἐν ποτήμασι",
+      "snippet": "ἀσθματικοῖς δίδοται ἐν ποτήμασι",
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "25",
+        "section": "1-2",
+        "citation": {
+          "start": "28.15",
+          "end": "29.5"
+        }
+      }
+    }
+  ],
+  "preparation_names": [],
+  "other_preparations_mentioned": [
+    {
+      "reference_id": "dioscorides-1-25-kyphi:reference:antidotos-1",
+      "reference_urn": "urn:aos:recipe-reference:dioscorides-1-25-kyphi:reference:antidotos-1",
+      "source_span": "ἀντιδότοις",
+      "surface_form": "ἀντιδότοις",
+      "normalized_label": "ἀντίδοτος",
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "25",
+        "section": "1-2",
+        "citation": {
+          "start": "28.15",
+          "end": "29.5"
+        }
+      }
+    },
+    {
+      "reference_id": "dioscorides-1-25-kyphi:reference:potema-2",
+      "reference_urn": "urn:aos:recipe-reference:dioscorides-1-25-kyphi:reference:potema-2",
+      "source_span": "ποτήμασι",
+      "surface_form": "ποτήμασι",
+      "normalized_label": "πότημα",
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "25",
+        "section": "1-2",
+        "citation": {
+          "start": "28.15",
+          "end": "29.5"
+        }
+      }
+    }
+  ],
+  "works_mentioned": [],
+  "entities": [
+    {
+      "entity_urn": "urn:aos:recipe-preparation:dioscorides-1-25-kyphi:preparation:kyphi",
+      "entity_type": "label",
+      "surface_form": "κῦφι",
+      "normalized_label": "κῦφι"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:dioscorides-1-25-kyphi:ingredient:kyperos-1",
+      "entity_type": "ingredient",
+      "surface_form": "κυπέρου",
+      "normalized_label": "κύπερος"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:dioscorides-1-25-kyphi:ingredient:arkeythis-2",
+      "entity_type": "ingredient",
+      "surface_form": "ἀρκευθίδος ἁδρᾶς",
+      "normalized_label": "ἀρκευθίς"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:dioscorides-1-25-kyphi:ingredient:staphis-lipara-3",
+      "entity_type": "ingredient",
+      "surface_form": "σταφίδος λιπαρᾶς ἐκγεγιγαρτισμένης",
+      "normalized_label": "σταφίς λιπαρά"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:dioscorides-1-25-kyphi:ingredient:retine-4",
+      "entity_type": "ingredient",
+      "surface_form": "ῥητίνης ἀποκεκαθαρμένης",
+      "normalized_label": "ῥητίνη"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:dioscorides-1-25-kyphi:ingredient:kalamos-aromatites-5",
+      "entity_type": "ingredient",
+      "surface_form": "καλάμου ἀρωματίτου",
+      "normalized_label": "κάλαμος ἀρωματίτης"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:dioscorides-1-25-kyphi:ingredient:aspalathos-6",
+      "entity_type": "ingredient",
+      "surface_form": "ἀσπαλάθου",
+      "normalized_label": "ἀσπάλαθος"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:dioscorides-1-25-kyphi:ingredient:schoinos-7",
+      "entity_type": "ingredient",
+      "surface_form": "σχοίνου",
+      "normalized_label": "σχοῖνος"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:dioscorides-1-25-kyphi:ingredient:smyrna-8",
+      "entity_type": "ingredient",
+      "surface_form": "σμύρνης",
+      "normalized_label": "σμύρνα"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:dioscorides-1-25-kyphi:ingredient:oinos-9",
+      "entity_type": "ingredient",
+      "surface_form": "οἴνου παλαιοῦ",
+      "normalized_label": "οἶνος"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:dioscorides-1-25-kyphi:ingredient:meli-10",
+      "entity_type": "ingredient",
+      "surface_form": "μέλιτος",
+      "normalized_label": "μέλι"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-1-25-kyphi:process:ekgigartizein-1",
+      "entity_type": "process",
+      "surface_form": "ἐκγεγιγαρτισμένης",
+      "normalized_label": "ἐκγιγαρτίζειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-1-25-kyphi:process:apokathairein-2",
+      "entity_type": "process",
+      "surface_form": "ἀποκεκαθαρμένης",
+      "normalized_label": "ἀποκαθαίρειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-1-25-kyphi:process:ekgigartizein-3",
+      "entity_type": "process",
+      "surface_form": "ἐκγιγαρτίσας",
+      "normalized_label": "ἐκγιγαρτίζειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-1-25-kyphi:process:koptein-4",
+      "entity_type": "process",
+      "surface_form": "κόψον",
+      "normalized_label": "κόπτειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-1-25-kyphi:process:leainein-5",
+      "entity_type": "process",
+      "surface_form": "λέανον",
+      "normalized_label": "λεαίνειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-1-25-kyphi:process:koptein-6",
+      "entity_type": "process",
+      "surface_form": "κόψας",
+      "normalized_label": "κόπτειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-1-25-kyphi:process:sethein-7",
+      "entity_type": "process",
+      "surface_form": "σήσας",
+      "normalized_label": "σήθειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-1-25-kyphi:process:mignynai-8",
+      "entity_type": "process",
+      "surface_form": "μεῖξον",
+      "normalized_label": "μιγνύναι"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-1-25-kyphi:process:sympiezein-9",
+      "entity_type": "process",
+      "surface_form": "συμπιεῖν",
+      "normalized_label": "συμπιέζειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-1-25-kyphi:process:epsein-10",
+      "entity_type": "process",
+      "surface_form": "ἑψήσας",
+      "normalized_label": "ἕψειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-1-25-kyphi:process:tekein-11",
+      "entity_type": "process",
+      "surface_form": "τετηκυῖαν",
+      "normalized_label": "τήκειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-1-25-kyphi:process:mignynai-12",
+      "entity_type": "process",
+      "surface_form": "μεῖξον",
+      "normalized_label": "μιγνύναι"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-1-25-kyphi:process:synanatribein-13",
+      "entity_type": "process",
+      "surface_form": "συνανατρίψας",
+      "normalized_label": "συνανατρίβειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-1-25-kyphi:process:apotithesthai-14",
+      "entity_type": "process",
+      "surface_form": "ἀποτίθεσο",
+      "normalized_label": "ἀποτίθεσθαι"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-material:dioscorides-1-25-kyphi:material:aggeion-ostrakinon-1",
+      "entity_type": "material",
+      "surface_form": "ἀγγεῖον ὀστράκινον",
+      "normalized_label": "ἀγγεῖον ὀστράκινον"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-person:dioscorides-1-25-kyphi:person:iereys-1",
+      "entity_type": "person",
+      "surface_form": "οἱ ἐν Αἰγύπτῳ ἱερεῖς",
+      "normalized_label": "ἱερεύς"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-place:dioscorides-1-25-kyphi:place:aigyptos-1",
+      "entity_type": "place",
+      "surface_form": "Αἰγύπτῳ",
+      "normalized_label": "Αἴγυπτος"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-reference:dioscorides-1-25-kyphi:reference:antidotos-1",
+      "entity_type": "preparation_reference",
+      "surface_form": "ἀντιδότοις",
+      "normalized_label": "ἀντίδοτος"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-reference:dioscorides-1-25-kyphi:reference:potema-2",
+      "entity_type": "preparation_reference",
+      "surface_form": "ποτήμασι",
+      "normalized_label": "πότημα"
+    }
+  ],
+  "canonical_file": "data/recipes/dioscorides-1-25-kyphi.json",
+  "source_entry": {
+    "source_id": "dioscorides-1-25-kyphi",
+    "derived_recipe_id": "dioscorides-1-25-kyphi",
+    "entry_kind": "recipe",
+    "source_kind": "main_text",
+    "source_lines": {
+      "start": 1590,
+      "end": 1633
+    },
+    "section_markers": []
+  },
+  "entity_groups": {
+    "labels": [
+      {
+        "entity_urn": "urn:aos:recipe-preparation:dioscorides-1-25-kyphi:preparation:kyphi",
+        "surface_form": "κῦφι",
+        "normalized_label": "κῦφι"
+      }
+    ],
+    "ingredients": [
+      {
+        "entity_urn": "urn:aos:recipe-ingredient:dioscorides-1-25-kyphi:ingredient:kyperos-1",
+        "surface_form": "κυπέρου",
+        "normalized_label": "κύπερος",
+        "quantity_display": "ἡμίξεστον"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-ingredient:dioscorides-1-25-kyphi:ingredient:arkeythis-2",
+        "surface_form": "ἀρκευθίδος ἁδρᾶς",
+        "normalized_label": "ἀρκευθίς",
+        "quantity_display": "τὸ αὐτό"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-ingredient:dioscorides-1-25-kyphi:ingredient:staphis-lipara-3",
+        "surface_form": "σταφίδος λιπαρᾶς ἐκγεγιγαρτισμένης",
+        "normalized_label": "σταφίς λιπαρά",
+        "quantity_display": "μνᾶς δεκαδύο"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-ingredient:dioscorides-1-25-kyphi:ingredient:retine-4",
+        "surface_form": "ῥητίνης ἀποκεκαθαρμένης",
+        "normalized_label": "ῥητίνη",
+        "quantity_display": "μνᾶς πέντε"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-ingredient:dioscorides-1-25-kyphi:ingredient:kalamos-aromatites-5",
+        "surface_form": "καλάμου ἀρωματίτου",
+        "normalized_label": "κάλαμος ἀρωματίτης",
+        "quantity_display": "ἑκάστου μνᾶν μίαν"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-ingredient:dioscorides-1-25-kyphi:ingredient:aspalathos-6",
+        "surface_form": "ἀσπαλάθου",
+        "normalized_label": "ἀσπάλαθος",
+        "quantity_display": "ἑκάστου μνᾶν μίαν"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-ingredient:dioscorides-1-25-kyphi:ingredient:schoinos-7",
+        "surface_form": "σχοίνου",
+        "normalized_label": "σχοῖνος",
+        "quantity_display": "ἑκάστου μνᾶν μίαν"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-ingredient:dioscorides-1-25-kyphi:ingredient:smyrna-8",
+        "surface_form": "σμύρνης",
+        "normalized_label": "σμύρνα",
+        "quantity_display": "δραχμὰς δεκαδύο"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-ingredient:dioscorides-1-25-kyphi:ingredient:oinos-9",
+        "surface_form": "οἴνου παλαιοῦ",
+        "normalized_label": "οἶνος",
+        "quantity_display": "ξέστας ἐννέα"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-ingredient:dioscorides-1-25-kyphi:ingredient:meli-10",
+        "surface_form": "μέλιτος",
+        "normalized_label": "μέλι",
+        "quantity_display": "μνᾶς δύο"
+      }
+    ],
+    "processes": [
+      {
+        "entity_urn": "urn:aos:recipe-process:dioscorides-1-25-kyphi:process:ekgigartizein-1",
+        "surface_form": "ἐκγεγιγαρτισμένης",
+        "normalized_label": "ἐκγιγαρτίζειν"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-process:dioscorides-1-25-kyphi:process:apokathairein-2",
+        "surface_form": "ἀποκεκαθαρμένης",
+        "normalized_label": "ἀποκαθαίρειν"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-process:dioscorides-1-25-kyphi:process:ekgigartizein-3",
+        "surface_form": "ἐκγιγαρτίσας",
+        "normalized_label": "ἐκγιγαρτίζειν"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-process:dioscorides-1-25-kyphi:process:koptein-4",
+        "surface_form": "κόψον",
+        "normalized_label": "κόπτειν"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-process:dioscorides-1-25-kyphi:process:leainein-5",
+        "surface_form": "λέανον",
+        "normalized_label": "λεαίνειν"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-process:dioscorides-1-25-kyphi:process:koptein-6",
+        "surface_form": "κόψας",
+        "normalized_label": "κόπτειν"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-process:dioscorides-1-25-kyphi:process:sethein-7",
+        "surface_form": "σήσας",
+        "normalized_label": "σήθειν"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-process:dioscorides-1-25-kyphi:process:mignynai-8",
+        "surface_form": "μεῖξον",
+        "normalized_label": "μιγνύναι"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-process:dioscorides-1-25-kyphi:process:sympiezein-9",
+        "surface_form": "συμπιεῖν",
+        "normalized_label": "συμπιέζειν"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-process:dioscorides-1-25-kyphi:process:epsein-10",
+        "surface_form": "ἑψήσας",
+        "normalized_label": "ἕψειν"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-process:dioscorides-1-25-kyphi:process:tekein-11",
+        "surface_form": "τετηκυῖαν",
+        "normalized_label": "τήκειν"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-process:dioscorides-1-25-kyphi:process:mignynai-12",
+        "surface_form": "μεῖξον",
+        "normalized_label": "μιγνύναι"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-process:dioscorides-1-25-kyphi:process:synanatribein-13",
+        "surface_form": "συνανατρίψας",
+        "normalized_label": "συνανατρίβειν"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-process:dioscorides-1-25-kyphi:process:apotithesthai-14",
+        "surface_form": "ἀποτίθεσο",
+        "normalized_label": "ἀποτίθεσθαι"
+      }
+    ],
+    "tools": [
+      {
+        "entity_urn": "urn:aos:recipe-material:dioscorides-1-25-kyphi:material:aggeion-ostrakinon-1",
+        "surface_form": "ἀγγεῖον ὀστράκινον",
+        "normalized_label": "ἀγγεῖον ὀστράκινον"
+      }
+    ],
+    "other_preparations_mentioned": [
+      {
+        "entity_urn": "urn:aos:recipe-reference:dioscorides-1-25-kyphi:reference:antidotos-1",
+        "surface_form": "ἀντιδότοις",
+        "normalized_label": "ἀντίδοτος"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-reference:dioscorides-1-25-kyphi:reference:potema-2",
+        "surface_form": "ποτήμασι",
+        "normalized_label": "πότημα"
+      }
+    ],
+    "people": [
+      {
+        "entity_urn": "urn:aos:recipe-person:dioscorides-1-25-kyphi:person:iereys-1",
+        "surface_form": "οἱ ἐν Αἰγύπτῳ ἱερεῖς",
+        "normalized_label": "ἱερεύς"
+      }
+    ],
+    "places": [
+      {
+        "entity_urn": "urn:aos:recipe-place:dioscorides-1-25-kyphi:place:aigyptos-1",
+        "surface_form": "Αἰγύπτῳ",
+        "normalized_label": "Αἴγυπτος"
+      }
+    ],
+    "works_mentioned": [],
+    "preparation_names": []
+  }
+}

@@ -1,0 +1,848 @@
+{
+  "dataset_key": "dioscorides_book1_perfumes_resins",
+  "source_json": "experiments/dioscorides-book1-perfumes-resins/data/dioscorides_book1_perfumes_resins.json",
+  "host_raw_file": "tei/raw/tlg0656.tlg001.1st1K-grc1.xml",
+  "work_slug": "diosc.b1.recipes",
+  "recipe_id": "dioscorides-1-62-nardinon",
+  "recipe_urn": "urn:aos:recipe:dioscorides-1-62-nardinon",
+  "record_urn": "urn:aos:recipe-record:dioscorides-1-62-nardinon",
+  "author": "Dioscorides",
+  "work": "De materia medica",
+  "book": "1",
+  "chapter": "62",
+  "section": null,
+  "chapter_name": "νάρδινον",
+  "lemma": "νάρδινον",
+  "text": "62 νάρδινον δὲ μύρον ποικίλως σκευάζεται διὰ τοῦ μαλαβαθρίνου φύλλου καὶ δίχα τούτου. ὡς τὸ πολὺ δὲ μείγνυται τῷ βαλανίνῳ ἐλαίῳ ἢ ὀμφακίνῳ, πρὸς μὲν τὴν στύψιν τοῦ ἐλαίου σχοῖνος, πρὸς δὲ τὴν εὐωδίαν βάλλεται κόστος, ἄμωμον, νάρδος, σμύρνα, βάλσαμον. ἐστι δὲ χρηστὴ ἡ λεπτή, μὴ δριμεῖα, ἔχουσα τὴν εὐωδίαν τῆς ξηρᾶς νάρδου ἢ ἀμώμου. δύναμις δὲ αὐτῆς λεπτυντική, δριμεῖα, σμηκτική, θερμαντική. ὑγρὰ δέ ἐστι καὶ οὐ γλοιώδης, ἐὰν μὴ ῥητίνην ἔχῃ. σκευάζεται δὲ καὶ λιτὴ δι᾿ ὀμφακίνου ἐλαίου καὶ σχοίνου καὶ καλάμου καὶ κόστου καὶ νάρδου.",
+  "original_text": null,
+  "text_source": null,
+  "emendations": [],
+  "emendation_count": 0,
+  "source_kind": "main_text",
+  "entry_kind": "recipe",
+  "citation": {
+    "pages": [
+      "56",
+      "57"
+    ],
+    "start": {
+      "page": "56",
+      "line": "15"
+    },
+    "end": {
+      "page": "57",
+      "line": "1"
+    },
+    "citation": {
+      "start": "56.15",
+      "end": "57.1"
+    },
+    "page_spans": [
+      {
+        "page": "56",
+        "start_line": "15",
+        "end_line": "25"
+      },
+      {
+        "page": "57",
+        "start_line": "1",
+        "end_line": "1"
+      }
+    ],
+    "lines": [
+      {
+        "page": "56",
+        "line": "15",
+        "break_no": false,
+        "text": "62 νάρδινον δὲ μύρον ποικίλως σκευάζεται διὰ τοῦ μαλαβαθρίνου φύλλου καὶ δίχα τούτου. ὡς τὸ πολὺ δὲ μείγνυται τῷ",
+        "citation": "56.15"
+      },
+      {
+        "page": "56",
+        "line": "20",
+        "break_no": false,
+        "text": "βαλανίνῳ ἐλαίῳ ἢ ὀμφακίνῳ, πρὸς μὲν τὴν στύψιν τοῦ ἐλαίου σχοῖνος, πρὸς δὲ τὴν εὐωδίαν βάλλεται κόστος, ἄμωμον, νάρδος, σμύρνα, βάλσαμον. ἐστι δὲ χρηστὴ ἡ λεπτή, μὴ δριμεῖα, ἔχουσα τὴν εὐωδίαν τῆς ξηρᾶς νάρδου ἢ ἀμώμου. δύναμις δὲ αὐτῆς λεπτυντική, δριμεῖα, σμηκτική, θερμαντική.",
+        "citation": "56.20"
+      },
+      {
+        "page": "56",
+        "line": "25",
+        "break_no": false,
+        "text": "ὑγρὰ δέ ἐστι καὶ οὐ γλοιώδης, ἐὰν μὴ ῥητίνην ἔχῃ. σκευάζεται",
+        "citation": "56.25"
+      },
+      {
+        "page": "57",
+        "line": "1",
+        "break_no": false,
+        "text": "δὲ καὶ λιτὴ δι᾿ ὀμφακίνου ἐλαίου καὶ σχοίνου καὶ καλάμου καὶ κόστου καὶ νάρδου.",
+        "citation": "57.1"
+      }
+    ],
+    "edition_key": "wellmann"
+  },
+  "notes": [
+    "Raw lines 1590-1633 are book 1 chapter 25 in this witness, although the prompt referred to chapter 35.",
+    "The perfume proemium is taken from the later transition at chapter 42 section 2 (raw lines 2306-2342), not from the chapter 25 κῦφι entry.",
+    "The ἰασμέλαιον entry is preserved only in the apparatus as an addition from another recension."
+  ],
+  "alignment_status": "pending",
+  "alignment_confidence": "pending",
+  "alignment_evidence": null,
+  "review_status": "reviewed_structured_authority",
+  "review_provenance": {
+    "authority_source": "reports/entity_review/structured/dioscorides.json",
+    "authority_recipe_id": "dioscorides-1-62-nardinon",
+    "authority_lemma": "νάρδινον",
+    "model": "gpt-5.4",
+    "reasoning_effort": "high",
+    "dataset_key": "dioscorides_book1_perfumes_resins",
+    "entity_model_version": "1.2",
+    "authority_version": "2026-04-13-qty-alt-v1",
+    "prompt_version": "qty-alt-pass-v1",
+    "build_version": "2026-05-18T15:51:35Z"
+  },
+  "schema_version": "1.2",
+  "build_metadata": {
+    "builder": "scripts/recipes/build_recipe_entities.py",
+    "built_at": "2026-05-18T15:51:35Z",
+    "source_structured_authority": "reports/entity_review/structured/dioscorides.json",
+    "authority_model": "gpt-5.4",
+    "authority_reasoning_effort": "high",
+    "dataset_key": "dioscorides_book1_perfumes_resins",
+    "entity_model_version": "1.2",
+    "authority_version": "2026-04-13-qty-alt-v1",
+    "prompt_version": "qty-alt-pass-v1",
+    "build_version": "2026-05-18T15:51:35Z"
+  },
+  "recipe_text_excerpt": "νάρδινον δὲ μύρον ποικίλως σκευάζεται διὰ τοῦ μαλαβαθρίνου φύλλου καὶ δίχα τούτου. ὡς τὸ πολὺ δὲ μείγνυται τῷ βαλανίνῳ ἐλαίῳ",
+  "preparation": {
+    "preparation_id": "dioscorides-1-62-nardinon:preparation:nardinon",
+    "preparation_urn": "urn:aos:recipe-preparation:dioscorides-1-62-nardinon:preparation:nardinon",
+    "source_span": "νάρδινον",
+    "surface_form": "νάρδινον",
+    "normalized_label": "νάρδινον",
+    "qualifiers": [
+      {
+        "qualifier_type": "other",
+        "source_span": "λιτὴ",
+        "normalized_value": "λιτή",
+        "certainty": "certain",
+        "notes": []
+      }
+    ],
+    "regimen_notes": [
+      {
+        "source_span": "ποικίλως σκευάζεται διὰ τοῦ μαλαβαθρίνου φύλλου καὶ δίχα τούτου",
+        "normalized_note": "prepared in multiple ways, with malabathrum leaf or without it",
+        "certainty": "certain",
+        "notes": []
+      },
+      {
+        "source_span": "ὡς τὸ πολὺ δὲ μείγνυται τῷ βαλανίνῳ ἐλαίῳ ἢ ὀμφακίνῳ",
+        "normalized_note": "usually compounded with balanine oil or omphacine oil",
+        "certainty": "certain",
+        "notes": []
+      }
+    ],
+    "certainty": "certain",
+    "notes": [],
+    "host_locator": {
+      "book": "1",
+      "chapter": "62",
+      "section": null,
+      "citation": {
+        "start": "56.15",
+        "end": "57.1"
+      }
+    }
+  },
+  "ingredients": [
+    {
+      "ingredient_id": "dioscorides-1-62-nardinon:ingredient:malabathrinon-phyllon-1",
+      "ingredient_urn": "urn:aos:recipe-ingredient:dioscorides-1-62-nardinon:ingredient:malabathrinon-phyllon-1",
+      "source_span": "τοῦ μαλαβαθρίνου φύλλου",
+      "surface_form": "τοῦ μαλαβαθρίνου φύλλου",
+      "base_label": "φύλλον",
+      "normalized_label": "μαλαβαθρῖνον φύλλον",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [
+        "dioscorides-1-62-nardinon:process:skeyazesthai-1",
+        "dioscorides-1-62-nardinon:process:skeyazesthai-4"
+      ],
+      "quantities": [],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "62",
+        "section": null,
+        "citation": {
+          "start": "56.15",
+          "end": "57.1"
+        }
+      }
+    },
+    {
+      "ingredient_id": "dioscorides-1-62-nardinon:ingredient:balaninon-elaion-2",
+      "ingredient_urn": "urn:aos:recipe-ingredient:dioscorides-1-62-nardinon:ingredient:balaninon-elaion-2",
+      "source_span": "τῷ βαλανίνῳ ἐλαίῳ",
+      "surface_form": "τῷ βαλανίνῳ ἐλαίῳ",
+      "base_label": "ἔλαιον",
+      "normalized_label": "βαλάνινον ἔλαιον",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [
+        "dioscorides-1-62-nardinon:process:meignysthai-2"
+      ],
+      "quantities": [],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "62",
+        "section": null,
+        "citation": {
+          "start": "56.15",
+          "end": "57.1"
+        }
+      }
+    },
+    {
+      "ingredient_id": "dioscorides-1-62-nardinon:ingredient:omphakinon-elaion-3",
+      "ingredient_urn": "urn:aos:recipe-ingredient:dioscorides-1-62-nardinon:ingredient:omphakinon-elaion-3",
+      "source_span": "ὀμφακίνου ἐλαίου",
+      "surface_form": "ὀμφακίνου ἐλαίου",
+      "base_label": "ἔλαιον",
+      "normalized_label": "ὀμφάκινον ἔλαιον",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [
+        "dioscorides-1-62-nardinon:process:meignysthai-2",
+        "dioscorides-1-62-nardinon:process:skeyazesthai-1",
+        "dioscorides-1-62-nardinon:process:skeyazesthai-4"
+      ],
+      "quantities": [],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "62",
+        "section": null,
+        "citation": {
+          "start": "56.15",
+          "end": "57.1"
+        }
+      }
+    },
+    {
+      "ingredient_id": "dioscorides-1-62-nardinon:ingredient:schoinos-4",
+      "ingredient_urn": "urn:aos:recipe-ingredient:dioscorides-1-62-nardinon:ingredient:schoinos-4",
+      "source_span": "σχοῖνος",
+      "surface_form": "σχοῖνος",
+      "base_label": "σχοῖνος",
+      "normalized_label": "σχοῖνος",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [
+        "dioscorides-1-62-nardinon:process:skeyazesthai-1",
+        "dioscorides-1-62-nardinon:process:skeyazesthai-4"
+      ],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "other",
+          "source_span": "πρὸς μὲν τὴν στύψιν τοῦ ἐλαίου",
+          "normalized_value": "στύψις τοῦ ἐλαίου",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "62",
+        "section": null,
+        "citation": {
+          "start": "56.15",
+          "end": "57.1"
+        }
+      }
+    },
+    {
+      "ingredient_id": "dioscorides-1-62-nardinon:ingredient:kostos-5",
+      "ingredient_urn": "urn:aos:recipe-ingredient:dioscorides-1-62-nardinon:ingredient:kostos-5",
+      "source_span": "κόστος",
+      "surface_form": "κόστος",
+      "base_label": "κόστος",
+      "normalized_label": "κόστος",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [
+        "dioscorides-1-62-nardinon:process:ballein-3",
+        "dioscorides-1-62-nardinon:process:skeyazesthai-1",
+        "dioscorides-1-62-nardinon:process:skeyazesthai-4"
+      ],
+      "quantities": [],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "62",
+        "section": null,
+        "citation": {
+          "start": "56.15",
+          "end": "57.1"
+        }
+      }
+    },
+    {
+      "ingredient_id": "dioscorides-1-62-nardinon:ingredient:amomon-6",
+      "ingredient_urn": "urn:aos:recipe-ingredient:dioscorides-1-62-nardinon:ingredient:amomon-6",
+      "source_span": "ἄμωμον",
+      "surface_form": "ἄμωμον",
+      "base_label": "ἄμωμον",
+      "normalized_label": "ἄμωμον",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [
+        "dioscorides-1-62-nardinon:process:ballein-3"
+      ],
+      "quantities": [],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "62",
+        "section": null,
+        "citation": {
+          "start": "56.15",
+          "end": "57.1"
+        }
+      }
+    },
+    {
+      "ingredient_id": "dioscorides-1-62-nardinon:ingredient:nardos-7",
+      "ingredient_urn": "urn:aos:recipe-ingredient:dioscorides-1-62-nardinon:ingredient:nardos-7",
+      "source_span": "νάρδος",
+      "surface_form": "νάρδος",
+      "base_label": "νάρδος",
+      "normalized_label": "νάρδος",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [
+        "dioscorides-1-62-nardinon:process:ballein-3",
+        "dioscorides-1-62-nardinon:process:skeyazesthai-1",
+        "dioscorides-1-62-nardinon:process:skeyazesthai-4"
+      ],
+      "quantities": [],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "62",
+        "section": null,
+        "citation": {
+          "start": "56.15",
+          "end": "57.1"
+        }
+      }
+    },
+    {
+      "ingredient_id": "dioscorides-1-62-nardinon:ingredient:smyrna-8",
+      "ingredient_urn": "urn:aos:recipe-ingredient:dioscorides-1-62-nardinon:ingredient:smyrna-8",
+      "source_span": "σμύρνα",
+      "surface_form": "σμύρνα",
+      "base_label": "σμύρνα",
+      "normalized_label": "σμύρνα",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [
+        "dioscorides-1-62-nardinon:process:ballein-3"
+      ],
+      "quantities": [],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "62",
+        "section": null,
+        "citation": {
+          "start": "56.15",
+          "end": "57.1"
+        }
+      }
+    },
+    {
+      "ingredient_id": "dioscorides-1-62-nardinon:ingredient:balsamon-9",
+      "ingredient_urn": "urn:aos:recipe-ingredient:dioscorides-1-62-nardinon:ingredient:balsamon-9",
+      "source_span": "βάλσαμον",
+      "surface_form": "βάλσαμον",
+      "base_label": "βάλσαμον",
+      "normalized_label": "βάλσαμον",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [
+        "dioscorides-1-62-nardinon:process:ballein-3"
+      ],
+      "quantities": [],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "62",
+        "section": null,
+        "citation": {
+          "start": "56.15",
+          "end": "57.1"
+        }
+      }
+    },
+    {
+      "ingredient_id": "dioscorides-1-62-nardinon:ingredient:kalamos-10",
+      "ingredient_urn": "urn:aos:recipe-ingredient:dioscorides-1-62-nardinon:ingredient:kalamos-10",
+      "source_span": "καλάμου",
+      "surface_form": "καλάμου",
+      "base_label": "κάλαμος",
+      "normalized_label": "κάλαμος",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [
+        "dioscorides-1-62-nardinon:process:skeyazesthai-1",
+        "dioscorides-1-62-nardinon:process:skeyazesthai-4"
+      ],
+      "quantities": [],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "62",
+        "section": null,
+        "citation": {
+          "start": "56.15",
+          "end": "57.1"
+        }
+      }
+    }
+  ],
+  "processes": [
+    {
+      "process_id": "dioscorides-1-62-nardinon:process:skeyazesthai-1",
+      "process_urn": "urn:aos:recipe-process:dioscorides-1-62-nardinon:process:skeyazesthai-1",
+      "source_span": "σκευάζεται",
+      "surface_form": "σκευάζεται",
+      "normalized_label": "σκευάζεσθαι",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "manner",
+          "source_span": "ποικίλως",
+          "normalized_value": "ποικίλως",
+          "certainty": "certain",
+          "notes": []
+        },
+        {
+          "qualifier_type": "other",
+          "source_span": "διὰ τοῦ μαλαβαθρίνου φύλλου",
+          "normalized_value": "διὰ μαλαβαθρίνου φύλλου",
+          "certainty": "certain",
+          "notes": []
+        },
+        {
+          "qualifier_type": "other",
+          "source_span": "δίχα τούτου",
+          "normalized_value": null,
+          "certainty": "uncertain",
+          "notes": [
+            "τοῦτο likely refers to τοῦ μαλαβαθρίνου φύλλου."
+          ]
+        }
+      ],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "62",
+        "section": null,
+        "citation": {
+          "start": "56.15",
+          "end": "57.1"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-1-62-nardinon:process:meignysthai-2",
+      "process_urn": "urn:aos:recipe-process:dioscorides-1-62-nardinon:process:meignysthai-2",
+      "source_span": "μείγνυται",
+      "surface_form": "μείγνυται",
+      "normalized_label": "μείγνυσθαι",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "manner",
+          "source_span": "ὡς τὸ πολὺ",
+          "normalized_value": "ὡς τὸ πολύ",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "62",
+        "section": null,
+        "citation": {
+          "start": "56.15",
+          "end": "57.1"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-1-62-nardinon:process:ballein-3",
+      "process_urn": "urn:aos:recipe-process:dioscorides-1-62-nardinon:process:ballein-3",
+      "source_span": "βάλλεται",
+      "surface_form": "βάλλεται",
+      "normalized_label": "βάλλειν",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "other",
+          "source_span": "πρὸς δὲ τὴν εὐωδίαν",
+          "normalized_value": "εὐωδία",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "62",
+        "section": null,
+        "citation": {
+          "start": "56.15",
+          "end": "57.1"
+        }
+      }
+    },
+    {
+      "process_id": "dioscorides-1-62-nardinon:process:skeyazesthai-4",
+      "process_urn": "urn:aos:recipe-process:dioscorides-1-62-nardinon:process:skeyazesthai-4",
+      "source_span": "σκευάζεται",
+      "surface_form": "σκευάζεται",
+      "normalized_label": "σκευάζεσθαι",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "other",
+          "source_span": "λιτὴ",
+          "normalized_value": "λιτή",
+          "certainty": "certain",
+          "notes": []
+        },
+        {
+          "qualifier_type": "other",
+          "source_span": "δι᾿ ὀμφακίνου ἐλαίου καὶ σχοίνου καὶ καλάμου καὶ κόστου καὶ νάρδου",
+          "normalized_value": "δι᾿ ὀμφακίνου ἐλαίου καὶ σχοίνου καὶ καλάμου καὶ κόστου καὶ νάρδου",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "certainty": "certain",
+      "notes": [
+        "Simple variant of the preparation."
+      ],
+      "host_locator": {
+        "book": "1",
+        "chapter": "62",
+        "section": null,
+        "citation": {
+          "start": "56.15",
+          "end": "57.1"
+        }
+      }
+    }
+  ],
+  "materials": [],
+  "people": [],
+  "places": [],
+  "uses": [],
+  "preparation_names": [],
+  "other_preparations_mentioned": [
+    {
+      "reference_id": "dioscorides-1-62-nardinon:reference:balaninon-elaion-1",
+      "reference_urn": "urn:aos:recipe-reference:dioscorides-1-62-nardinon:reference:balaninon-elaion-1",
+      "source_span": "βαλανίνῳ ἐλαίῳ",
+      "surface_form": "βαλανίνῳ ἐλαίῳ",
+      "normalized_label": "βαλάνινον ἔλαιον",
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "1",
+        "chapter": "62",
+        "section": null,
+        "citation": {
+          "start": "56.15",
+          "end": "57.1"
+        }
+      }
+    },
+    {
+      "reference_id": "dioscorides-1-62-nardinon:reference:omphakinon-elaion-2",
+      "reference_urn": "urn:aos:recipe-reference:dioscorides-1-62-nardinon:reference:omphakinon-elaion-2",
+      "source_span": "ὀμφακίνῳ",
+      "surface_form": "ὀμφακίνῳ",
+      "normalized_label": "ὀμφακῖνον ἔλαιον",
+      "certainty": "uncertain",
+      "notes": [
+        "Head noun ἐλαίῳ is understood from the coordinated phrase."
+      ],
+      "host_locator": {
+        "book": "1",
+        "chapter": "62",
+        "section": null,
+        "citation": {
+          "start": "56.15",
+          "end": "57.1"
+        }
+      }
+    }
+  ],
+  "works_mentioned": [],
+  "entities": [
+    {
+      "entity_urn": "urn:aos:recipe-preparation:dioscorides-1-62-nardinon:preparation:nardinon",
+      "entity_type": "label",
+      "surface_form": "νάρδινον",
+      "normalized_label": "νάρδινον"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:dioscorides-1-62-nardinon:ingredient:malabathrinon-phyllon-1",
+      "entity_type": "ingredient",
+      "surface_form": "τοῦ μαλαβαθρίνου φύλλου",
+      "normalized_label": "μαλαβαθρῖνον φύλλον"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:dioscorides-1-62-nardinon:ingredient:balaninon-elaion-2",
+      "entity_type": "ingredient",
+      "surface_form": "τῷ βαλανίνῳ ἐλαίῳ",
+      "normalized_label": "βαλάνινον ἔλαιον"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:dioscorides-1-62-nardinon:ingredient:omphakinon-elaion-3",
+      "entity_type": "ingredient",
+      "surface_form": "ὀμφακίνου ἐλαίου",
+      "normalized_label": "ὀμφάκινον ἔλαιον"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:dioscorides-1-62-nardinon:ingredient:schoinos-4",
+      "entity_type": "ingredient",
+      "surface_form": "σχοῖνος",
+      "normalized_label": "σχοῖνος"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:dioscorides-1-62-nardinon:ingredient:kostos-5",
+      "entity_type": "ingredient",
+      "surface_form": "κόστος",
+      "normalized_label": "κόστος"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:dioscorides-1-62-nardinon:ingredient:amomon-6",
+      "entity_type": "ingredient",
+      "surface_form": "ἄμωμον",
+      "normalized_label": "ἄμωμον"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:dioscorides-1-62-nardinon:ingredient:nardos-7",
+      "entity_type": "ingredient",
+      "surface_form": "νάρδος",
+      "normalized_label": "νάρδος"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:dioscorides-1-62-nardinon:ingredient:smyrna-8",
+      "entity_type": "ingredient",
+      "surface_form": "σμύρνα",
+      "normalized_label": "σμύρνα"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:dioscorides-1-62-nardinon:ingredient:balsamon-9",
+      "entity_type": "ingredient",
+      "surface_form": "βάλσαμον",
+      "normalized_label": "βάλσαμον"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:dioscorides-1-62-nardinon:ingredient:kalamos-10",
+      "entity_type": "ingredient",
+      "surface_form": "καλάμου",
+      "normalized_label": "κάλαμος"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-1-62-nardinon:process:skeyazesthai-1",
+      "entity_type": "process",
+      "surface_form": "σκευάζεται",
+      "normalized_label": "σκευάζεσθαι"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-1-62-nardinon:process:meignysthai-2",
+      "entity_type": "process",
+      "surface_form": "μείγνυται",
+      "normalized_label": "μείγνυσθαι"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-1-62-nardinon:process:ballein-3",
+      "entity_type": "process",
+      "surface_form": "βάλλεται",
+      "normalized_label": "βάλλειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:dioscorides-1-62-nardinon:process:skeyazesthai-4",
+      "entity_type": "process",
+      "surface_form": "σκευάζεται",
+      "normalized_label": "σκευάζεσθαι"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-reference:dioscorides-1-62-nardinon:reference:balaninon-elaion-1",
+      "entity_type": "preparation_reference",
+      "surface_form": "βαλανίνῳ ἐλαίῳ",
+      "normalized_label": "βαλάνινον ἔλαιον"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-reference:dioscorides-1-62-nardinon:reference:omphakinon-elaion-2",
+      "entity_type": "preparation_reference",
+      "surface_form": "ὀμφακίνῳ",
+      "normalized_label": "ὀμφακῖνον ἔλαιον"
+    }
+  ],
+  "canonical_file": "data/recipes/dioscorides-1-62-nardinon.json",
+  "source_entry": {
+    "source_id": "dioscorides-1-62-nardinon",
+    "derived_recipe_id": "dioscorides-1-62-nardinon",
+    "entry_kind": "recipe",
+    "source_kind": "main_text",
+    "source_lines": {
+      "start": 1855,
+      "end": 3167
+    },
+    "section_markers": []
+  },
+  "entity_groups": {
+    "labels": [
+      {
+        "entity_urn": "urn:aos:recipe-preparation:dioscorides-1-62-nardinon:preparation:nardinon",
+        "surface_form": "νάρδινον",
+        "normalized_label": "νάρδινον"
+      }
+    ],
+    "ingredients": [
+      {
+        "entity_urn": "urn:aos:recipe-ingredient:dioscorides-1-62-nardinon:ingredient:malabathrinon-phyllon-1",
+        "surface_form": "τοῦ μαλαβαθρίνου φύλλου",
+        "normalized_label": "μαλαβαθρῖνον φύλλον",
+        "quantity_display": ""
+      },
+      {
+        "entity_urn": "urn:aos:recipe-ingredient:dioscorides-1-62-nardinon:ingredient:balaninon-elaion-2",
+        "surface_form": "τῷ βαλανίνῳ ἐλαίῳ",
+        "normalized_label": "βαλάνινον ἔλαιον",
+        "quantity_display": ""
+      },
+      {
+        "entity_urn": "urn:aos:recipe-ingredient:dioscorides-1-62-nardinon:ingredient:omphakinon-elaion-3",
+        "surface_form": "ὀμφακίνου ἐλαίου",
+        "normalized_label": "ὀμφάκινον ἔλαιον",
+        "quantity_display": ""
+      },
+      {
+        "entity_urn": "urn:aos:recipe-ingredient:dioscorides-1-62-nardinon:ingredient:schoinos-4",
+        "surface_form": "σχοῖνος",
+        "normalized_label": "σχοῖνος",
+        "quantity_display": ""
+      },
+      {
+        "entity_urn": "urn:aos:recipe-ingredient:dioscorides-1-62-nardinon:ingredient:kostos-5",
+        "surface_form": "κόστος",
+        "normalized_label": "κόστος",
+        "quantity_display": ""
+      },
+      {
+        "entity_urn": "urn:aos:recipe-ingredient:dioscorides-1-62-nardinon:ingredient:amomon-6",
+        "surface_form": "ἄμωμον",
+        "normalized_label": "ἄμωμον",
+        "quantity_display": ""
+      },
+      {
+        "entity_urn": "urn:aos:recipe-ingredient:dioscorides-1-62-nardinon:ingredient:nardos-7",
+        "surface_form": "νάρδος",
+        "normalized_label": "νάρδος",
+        "quantity_display": ""
+      },
+      {
+        "entity_urn": "urn:aos:recipe-ingredient:dioscorides-1-62-nardinon:ingredient:smyrna-8",
+        "surface_form": "σμύρνα",
+        "normalized_label": "σμύρνα",
+        "quantity_display": ""
+      },
+      {
+        "entity_urn": "urn:aos:recipe-ingredient:dioscorides-1-62-nardinon:ingredient:balsamon-9",
+        "surface_form": "βάλσαμον",
+        "normalized_label": "βάλσαμον",
+        "quantity_display": ""
+      },
+      {
+        "entity_urn": "urn:aos:recipe-ingredient:dioscorides-1-62-nardinon:ingredient:kalamos-10",
+        "surface_form": "καλάμου",
+        "normalized_label": "κάλαμος",
+        "quantity_display": ""
+      }
+    ],
+    "processes": [
+      {
+        "entity_urn": "urn:aos:recipe-process:dioscorides-1-62-nardinon:process:skeyazesthai-1",
+        "surface_form": "σκευάζεται",
+        "normalized_label": "σκευάζεσθαι"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-process:dioscorides-1-62-nardinon:process:meignysthai-2",
+        "surface_form": "μείγνυται",
+        "normalized_label": "μείγνυσθαι"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-process:dioscorides-1-62-nardinon:process:ballein-3",
+        "surface_form": "βάλλεται",
+        "normalized_label": "βάλλειν"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-process:dioscorides-1-62-nardinon:process:skeyazesthai-4",
+        "surface_form": "σκευάζεται",
+        "normalized_label": "σκευάζεσθαι"
+      }
+    ],
+    "tools": [],
+    "other_preparations_mentioned": [
+      {
+        "entity_urn": "urn:aos:recipe-reference:dioscorides-1-62-nardinon:reference:balaninon-elaion-1",
+        "surface_form": "βαλανίνῳ ἐλαίῳ",
+        "normalized_label": "βαλάνινον ἔλαιον"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-reference:dioscorides-1-62-nardinon:reference:omphakinon-elaion-2",
+        "surface_form": "ὀμφακίνῳ",
+        "normalized_label": "ὀμφακῖνον ἔλαιον"
+      }
+    ],
+    "people": [],
+    "places": [],
+    "works_mentioned": [],
+    "preparation_names": []
+  }
+}

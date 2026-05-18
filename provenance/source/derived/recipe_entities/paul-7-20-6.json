@@ -1,0 +1,477 @@
+{
+  "dataset_key": "paul_book7_perfumes",
+  "source_json": "experiments/paul-book7-ch20-perfumes/data/paul_book7_ch20_perfumes.json",
+  "host_raw_file": "tei/raw/tlg0715001.xml",
+  "work_slug": "paul.b7.perfumes",
+  "recipe_id": "paul-7-20-6",
+  "recipe_urn": "urn:aos:recipe:paul-7-20-6",
+  "record_urn": "urn:aos:recipe-record:paul-7-20-6",
+  "author": "Paul of Aegina",
+  "work": "Medical Epitome",
+  "book": "7",
+  "chapter": "20",
+  "section": "6",
+  "chapter_name": "Ἐλαίων καὶ μύρων σκευασίαι διάφοροι.",
+  "lemma": "Ἀνήθινον",
+  "text": "Ἀνήθου χλωροῦ τῆς κόμης διεψυγμένης 𐆄 α, ἐλαίου γλυκέος ξ̸ Ἰταλικὸν α· ὁμοίως ἡλίου. γένοιτο δ' ἂν καὶ πρὸς καιρὸν ἀνήθινον μὴ παρόντος τοῦ ἡλιαστοῦ· ξηροῦ γὰρ ἀνήθου τὴν κόμην ἕψοντες μετ' ἐλαίου ἐν διπλώματι χρῶνται, καὶ χαμαιμήλινον ὡσαύτως· ἀσθενέστερα δὲ ταῦτα τῶν ἀπὸ τῶν χλωρῶν εἰσι, καὶ μάλιστα τῶν ἡλιουμένων.",
+  "original_text": null,
+  "text_source": null,
+  "emendations": [],
+  "emendation_count": 0,
+  "source_kind": null,
+  "entry_kind": "recipe",
+  "citation": {
+    "pages": [
+      "2.382"
+    ],
+    "start": {
+      "page": "2.382",
+      "line": "21",
+      "xml_id": "heib-2-382-21"
+    },
+    "end": {
+      "page": "2.382",
+      "line": "27",
+      "xml_id": "heib-2-382-27"
+    },
+    "citation": {
+      "start": "2.382.21",
+      "end": "2.382.27"
+    },
+    "page_spans": [
+      {
+        "page": "2.382",
+        "start_line": "21",
+        "end_line": "27"
+      }
+    ],
+    "lines": [
+      {
+        "page": "2.382",
+        "line": "21",
+        "xml_id": "heib-2-382-21",
+        "break_no": false,
+        "text": "Ἀνήθινον.",
+        "citation": "2.382.21"
+      },
+      {
+        "page": "2.382",
+        "line": "22",
+        "xml_id": "heib-2-382-22",
+        "break_no": false,
+        "text": "Ἀνήθου χλωροῦ τῆς κόμης διεψυγμένης 𐆄 α, ἐλαίου γλυκέος ξ̸",
+        "citation": "2.382.22"
+      },
+      {
+        "page": "2.382",
+        "line": "23",
+        "xml_id": "heib-2-382-23",
+        "break_no": false,
+        "text": "Ἰταλικὸν α· ὁμοίως ἡλίου. γένοιτο δ' ἂν καὶ πρὸς καιρὸν ἀνήθινον",
+        "citation": "2.382.23"
+      },
+      {
+        "page": "2.382",
+        "line": "24",
+        "xml_id": "heib-2-382-24",
+        "break_no": false,
+        "text": "μὴ παρόντος τοῦ ἡλιαστοῦ· ξηροῦ γὰρ ἀνήθου τὴν κόμην ἕψοντες",
+        "citation": "2.382.24"
+      },
+      {
+        "page": "2.382",
+        "line": "25",
+        "xml_id": "heib-2-382-25",
+        "break_no": false,
+        "text": "μετ' ἐλαίου ἐν διπλώματι χρῶνται, καὶ χαμαιμήλινον ὡσαύτως· ἀσθε-",
+        "citation": "2.382.25"
+      },
+      {
+        "page": "2.382",
+        "line": "26",
+        "xml_id": "heib-2-382-26",
+        "break_no": true,
+        "text": "νέστερα δὲ ταῦτα τῶν ἀπὸ τῶν χλωρῶν εἰσι, καὶ μάλιστα τῶν ἡλιου-",
+        "citation": "2.382.26"
+      },
+      {
+        "page": "2.382",
+        "line": "27",
+        "xml_id": "heib-2-382-27",
+        "break_no": true,
+        "text": "μένων.",
+        "citation": "2.382.27"
+      }
+    ],
+    "edition_key": "heiberg"
+  },
+  "notes": [
+    "The phrase \"ὁμοίως ἡλίου\" is ambiguous in isolation and has not been separately normalized."
+  ],
+  "alignment_status": "pending",
+  "alignment_confidence": "pending",
+  "alignment_evidence": null,
+  "review_status": "reviewed_structured_authority",
+  "review_provenance": {
+    "authority_source": "reports/entity_review/structured/paul.json",
+    "authority_recipe_id": "paul-7-20-6",
+    "authority_lemma": "Ἀνήθινον",
+    "model": "gpt-5.4",
+    "reasoning_effort": "high",
+    "dataset_key": "paul_book7_perfumes",
+    "entity_model_version": "1.2",
+    "authority_version": "2026-04-13-qty-alt-v1",
+    "prompt_version": "qty-alt-pass-v1",
+    "build_version": "2026-05-18T15:51:35Z"
+  },
+  "schema_version": "1.2",
+  "build_metadata": {
+    "builder": "scripts/recipes/build_recipe_entities.py",
+    "built_at": "2026-05-18T15:51:35Z",
+    "source_structured_authority": "reports/entity_review/structured/paul.json",
+    "authority_model": "gpt-5.4",
+    "authority_reasoning_effort": "high",
+    "dataset_key": "paul_book7_perfumes",
+    "entity_model_version": "1.2",
+    "authority_version": "2026-04-13-qty-alt-v1",
+    "prompt_version": "qty-alt-pass-v1",
+    "build_version": "2026-05-18T15:51:35Z"
+  },
+  "recipe_text_excerpt": "Ἀνήθου χλωροῦ τῆς κόμης διεψυγμένης 𐆄 α, ἐλαίου γλυκέος ξ̸ Ἰταλικὸν α· ὁμοίως ἡλίου. γένοιτο δ' ἂν καὶ πρὸς καιρὸν",
+  "preparation": {
+    "preparation_id": "paul-7-20-6:preparation:anethinon",
+    "preparation_urn": "urn:aos:recipe-preparation:paul-7-20-6:preparation:anethinon",
+    "source_span": "ἀνήθινον",
+    "surface_form": "ἀνήθινον",
+    "normalized_label": "Ἀνήθινον",
+    "qualifiers": [],
+    "regimen_notes": [
+      {
+        "source_span": "γένοιτο δ' ἂν καὶ πρὸς καιρὸν ἀνήθινον μὴ παρόντος τοῦ ἡλιαστοῦ",
+        "normalized_note": "seasonal fallback exists when the sun-prepared version is unavailable",
+        "certainty": "certain",
+        "notes": []
+      },
+      {
+        "source_span": "ἀσθενέστερα δὲ ταῦτα τῶν ἀπὸ τῶν χλωρῶν εἰσι, καὶ μάλιστα τῶν ἡλιουμένων",
+        "normalized_note": "dry-herb versions are weaker than those from fresh material, especially the sun-prepared ones",
+        "certainty": "certain",
+        "notes": []
+      }
+    ],
+    "certainty": "certain",
+    "notes": [],
+    "host_locator": {
+      "book": "7",
+      "chapter": "20",
+      "section": "6",
+      "citation": {
+        "start": "2.382.21",
+        "end": "2.382.27"
+      }
+    }
+  },
+  "ingredients": [
+    {
+      "ingredient_id": "paul-7-20-6:ingredient:kome-anethoy-chlora-1",
+      "ingredient_urn": "urn:aos:recipe-ingredient:paul-7-20-6:ingredient:kome-anethoy-chlora-1",
+      "source_span": "Ἀνήθου χλωροῦ τῆς κόμης διεψυγμένης",
+      "surface_form": "Ἀνήθου χλωροῦ τῆς κόμης διεψυγμένης",
+      "base_label": "κόμη ἀνήθου",
+      "normalized_label": "κόμη ἀνήθου χλωρά",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [
+        "paul-7-20-6:process:diapsychein-1"
+      ],
+      "quantities": [
+        {
+          "source_span": "𐆄 α",
+          "raw_number": "α",
+          "normalized_number": 1,
+          "raw_unit": "𐆄",
+          "normalized_unit": "uncia",
+          "certainty": "uncertain",
+          "notes": [
+            "Unit symbol not resolved safely from the excerpt alone."
+          ]
+        }
+      ],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "7",
+        "chapter": "20",
+        "section": "6",
+        "citation": {
+          "start": "2.382.21",
+          "end": "2.382.27"
+        }
+      }
+    },
+    {
+      "ingredient_id": "paul-7-20-6:ingredient:elaion-glyky-2",
+      "ingredient_urn": "urn:aos:recipe-ingredient:paul-7-20-6:ingredient:elaion-glyky-2",
+      "source_span": "ἐλαίου γλυκέος",
+      "surface_form": "ἐλαίου γλυκέος",
+      "base_label": "ἔλαιον",
+      "normalized_label": "ἔλαιον γλυκύ",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [],
+      "quantities": [
+        {
+          "source_span": "ξ̸ Ἰταλικὸν α",
+          "raw_number": "α",
+          "normalized_number": 1,
+          "raw_unit": "ξ̸ Ἰταλικὸν",
+          "normalized_unit": "xestes",
+          "certainty": "uncertain",
+          "notes": [
+            "Unit expression not resolved safely from the excerpt alone."
+          ]
+        }
+      ],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "7",
+        "chapter": "20",
+        "section": "6",
+        "citation": {
+          "start": "2.382.21",
+          "end": "2.382.27"
+        }
+      }
+    },
+    {
+      "ingredient_id": "paul-7-20-6:ingredient:kome-anethoy-xera-3",
+      "ingredient_urn": "urn:aos:recipe-ingredient:paul-7-20-6:ingredient:kome-anethoy-xera-3",
+      "source_span": "ξηροῦ γὰρ ἀνήθου τὴν κόμην",
+      "surface_form": "ξηροῦ γὰρ ἀνήθου τὴν κόμην",
+      "base_label": "κόμη ἀνήθου",
+      "normalized_label": "κόμη ἀνήθου ξηρά",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [
+        "paul-7-20-6:process:epsein-2"
+      ],
+      "quantities": [],
+      "qualifiers": [],
+      "notes": [
+        "The particle γὰρ interrupts the ingredient phrase in the source text."
+      ],
+      "host_locator": {
+        "book": "7",
+        "chapter": "20",
+        "section": "6",
+        "citation": {
+          "start": "2.382.21",
+          "end": "2.382.27"
+        }
+      }
+    },
+    {
+      "ingredient_id": "paul-7-20-6:ingredient:elaion-4",
+      "ingredient_urn": "urn:aos:recipe-ingredient:paul-7-20-6:ingredient:elaion-4",
+      "source_span": "ἐλαίου",
+      "surface_form": "ἐλαίου",
+      "base_label": "ἔλαιον",
+      "normalized_label": "ἔλαιον",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [
+        "paul-7-20-6:process:epsein-2"
+      ],
+      "quantities": [],
+      "qualifiers": [],
+      "notes": [],
+      "host_locator": {
+        "book": "7",
+        "chapter": "20",
+        "section": "6",
+        "citation": {
+          "start": "2.382.21",
+          "end": "2.382.27"
+        }
+      }
+    }
+  ],
+  "processes": [
+    {
+      "process_id": "paul-7-20-6:process:diapsychein-1",
+      "process_urn": "urn:aos:recipe-process:paul-7-20-6:process:diapsychein-1",
+      "source_span": "διεψυγμένης",
+      "surface_form": "διεψυγμένης",
+      "normalized_label": "διαψύχειν",
+      "target_type": "ingredient",
+      "target_ids": [
+        "paul-7-20-6:ingredient:kome-anethoy-chlora-1"
+      ],
+      "quantities": [],
+      "qualifiers": [],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "7",
+        "chapter": "20",
+        "section": "6",
+        "citation": {
+          "start": "2.382.21",
+          "end": "2.382.27"
+        }
+      }
+    },
+    {
+      "process_id": "paul-7-20-6:process:epsein-2",
+      "process_urn": "urn:aos:recipe-process:paul-7-20-6:process:epsein-2",
+      "source_span": "ἕψοντες",
+      "surface_form": "ἕψοντες",
+      "normalized_label": "ἕψειν",
+      "target_type": "ingredient",
+      "target_ids": [
+        "paul-7-20-6:ingredient:kome-anethoy-xera-3",
+        "paul-7-20-6:ingredient:elaion-glyky-2",
+        "paul-7-20-6:ingredient:elaion-4"
+      ],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "location",
+          "source_span": "ἐν διπλώματι",
+          "normalized_value": "δίπλωμα",
+          "certainty": "uncertain",
+          "notes": [
+            "Likely names the vessel or apparatus used for boiling."
+          ]
+        },
+        {
+          "qualifier_type": "other",
+          "source_span": "μὴ παρόντος τοῦ ἡλιαστοῦ",
+          "normalized_value": null,
+          "certainty": "certain",
+          "notes": [
+            "Condition for using this substitute method."
+          ]
+        }
+      ],
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "7",
+        "chapter": "20",
+        "section": "6",
+        "citation": {
+          "start": "2.382.21",
+          "end": "2.382.27"
+        }
+      }
+    }
+  ],
+  "materials": [
+    {
+      "material_id": "paul-7-20-6:material:diploma-1",
+      "material_urn": "urn:aos:recipe-material:paul-7-20-6:material:diploma-1",
+      "source_span": "διπλώματι",
+      "surface_form": "διπλώματι",
+      "normalized_label": "δίπλωμα",
+      "role": "apparatus",
+      "certainty": "uncertain",
+      "quantities": [],
+      "qualifiers": [],
+      "notes": [
+        "Probably a double vessel or bain-marie style apparatus."
+      ],
+      "host_locator": {
+        "book": "7",
+        "chapter": "20",
+        "section": "6",
+        "citation": {
+          "start": "2.382.21",
+          "end": "2.382.27"
+        }
+      }
+    }
+  ],
+  "people": [],
+  "places": [],
+  "uses": [],
+  "preparation_names": [],
+  "other_preparations_mentioned": [
+    {
+      "reference_id": "paul-7-20-6:reference:chamaimelinon-1",
+      "reference_urn": "urn:aos:recipe-reference:paul-7-20-6:reference:chamaimelinon-1",
+      "source_span": "χαμαιμήλινον",
+      "surface_form": "χαμαιμήλινον",
+      "normalized_label": "χαμαιμήλινον",
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "7",
+        "chapter": "20",
+        "section": "6",
+        "citation": {
+          "start": "2.382.21",
+          "end": "2.382.27"
+        }
+      }
+    }
+  ],
+  "works_mentioned": [],
+  "entities": [
+    {
+      "entity_urn": "urn:aos:recipe-preparation:paul-7-20-6:preparation:anethinon",
+      "entity_type": "label",
+      "surface_form": "ἀνήθινον",
+      "normalized_label": "Ἀνήθινον"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:paul-7-20-6:ingredient:kome-anethoy-chlora-1",
+      "entity_type": "ingredient",
+      "surface_form": "Ἀνήθου χλωροῦ τῆς κόμης διεψυγμένης",
+      "normalized_label": "κόμη ἀνήθου χλωρά"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:paul-7-20-6:ingredient:elaion-glyky-2",
+      "entity_type": "ingredient",
+      "surface_form": "ἐλαίου γλυκέος",
+      "normalized_label": "ἔλαιον γλυκύ"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:paul-7-20-6:ingredient:kome-anethoy-xera-3",
+      "entity_type": "ingredient",
+      "surface_form": "ξηροῦ γὰρ ἀνήθου τὴν κόμην",
+      "normalized_label": "κόμη ἀνήθου ξηρά"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:paul-7-20-6:ingredient:elaion-4",
+      "entity_type": "ingredient",
+      "surface_form": "ἐλαίου",
+      "normalized_label": "ἔλαιον"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:paul-7-20-6:process:diapsychein-1",
+      "entity_type": "process",
+      "surface_form": "διεψυγμένης",
+      "normalized_label": "διαψύχειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:paul-7-20-6:process:epsein-2",
+      "entity_type": "process",
+      "surface_form": "ἕψοντες",
+      "normalized_label": "ἕψειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-material:paul-7-20-6:material:diploma-1",
+      "entity_type": "material",
+      "surface_form": "διπλώματι",
+      "normalized_label": "δίπλωμα"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-reference:paul-7-20-6:reference:chamaimelinon-1",
+      "entity_type": "preparation_reference",
+      "surface_form": "χαμαιμήλινον",
+      "normalized_label": "χαμαιμήλινον"
+    }
+  ]
+}
