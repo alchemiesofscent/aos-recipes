@@ -8,22 +8,30 @@
 </head>
 <body>
   <header>
-    <h1>AOS Recipes</h1>
-    <div id="counts"></div>
+    <div class="header-titles">
+      <h1>AOS Recipes</h1>
+    </div>
+    <div class="header-meta">
+      <div id="counts" aria-live="polite"></div>
+      <button id="themeToggle" type="button" aria-label="Toggle color theme" title="Theme: auto">Theme: auto</button>
+    </div>
   </header>
   <main>
-    <aside>
+    <aside role="navigation" aria-label="Recipe list">
       <label>
         <span>Source</span>
         <select id="sourceFilter"></select>
       </label>
       <label>
         <span>Search</span>
-        <input id="searchInput" type="search" autocomplete="off">
+        <span class="search-wrap">
+          <input id="searchInput" type="search" autocomplete="off" placeholder="Search recipes…" aria-label="Search recipes">
+          <button type="button" id="searchClear" aria-label="Clear search" hidden>×</button>
+        </span>
       </label>
-      <div id="recipeList"></div>
+      <div id="recipeList" role="listbox" aria-label="Recipes" tabindex="0"></div>
     </aside>
-    <section id="detail"></section>
+    <section id="detail" tabindex="-1" aria-live="polite"></section>
   </main>
   <script src="app.js"></script>
 </body>

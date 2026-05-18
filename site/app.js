@@ -1,10 +1,19 @@
-const state = { recipes: [], sources: [], selected: null };
+const state = {
+  recipes: [],
+  sources: [],
+  selected: null,
+  filtered: [],
+};
 
 const sourceFilter = document.querySelector("#sourceFilter");
 const searchInput = document.querySelector("#searchInput");
+const searchClear = document.querySelector("#searchClear");
 const recipeList = document.querySelector("#recipeList");
 const detail = document.querySelector("#detail");
 const counts = document.querySelector("#counts");
+const themeToggle = document.querySelector("#themeToggle");
+
+const THEME_CYCLE = ["auto", "light", "dark"];
 
 function labelFor(recipe) {
   return recipe.lemma || recipe.chapter_name || recipe.recipe_id;
@@ -13,6 +22,16 @@ function labelFor(recipe) {
 function sourceName(key) {
   const source = state.sources.find((item) => item.dataset_key === key);
   return source ? source.display_name : key;
+}
+
+function escapeHtml(value) {
+  if (value === null || value === undefined) return "";
+  return String(value)
+    .replace(/&/g, "&amp;")
+    .replace(/</g, "&lt;")
+    .replace(/>/g, "&gt;")
+    .replace(/"/g, "&quot;")
+    .replace(/'/g, "&#39;");
 }
 
 function filteredRecipes() {
@@ -28,26 +47,41 @@ function filteredRecipes() {
   });
 }
 
+function selectRecipe(recipe, { updateHash = true, scrollIntoView = false } = {}) {
+  state.selected = recipe;
+  if (updateHash && recipe) {
+    const next = "#" + recipe.recipe_id;
+    if (location.hash !== next) {
+      history.replaceState(null, "", next);
+    }
+  }
+  renderList();
+  renderDetail();
+  if (scrollIntoView && recipe) {
+    const active = recipeList.querySelector(".recipe-button.active");
+    if (active) active.scrollIntoView({ block: "nearest" });
+  }
+}
+
 function renderList() {
-  const recipes = filteredRecipes();
+  state.filtered = filteredRecipes();
   recipeList.innerHTML = "";
-  for (const recipe of recipes) {
+  for (const recipe of state.filtered) {
+    const isActive = state.selected?.recipe_id === recipe.recipe_id;
     const button = document.createElement("button");
-    button.className = "recipe-button" + (state.selected?.recipe_id === recipe.recipe_id ? " active" : "");
-    button.innerHTML = `<strong>${labelFor(recipe)}</strong><span>${sourceName(recipe.dataset_key)} · ${recipe.recipe_id}</span>`;
+    button.className = "recipe-button" + (isActive ? " active" : "");
+    button.setAttribute("role", "option");
+    button.setAttribute("aria-selected", isActive ? "true" : "false");
+    button.tabIndex = isActive ? 0 : -1;
+    button.dataset.recipeId = recipe.recipe_id;
+    button.innerHTML = `<strong>${escapeHtml(labelFor(recipe))}</strong><span>${escapeHtml(sourceName(recipe.dataset_key))} · ${escapeHtml(recipe.recipe_id)}</span>`;
     button.addEventListener("click", () => {
-      state.selected = recipe;
-      renderList();
-      renderDetail();
+      selectRecipe(recipe);
     });
     recipeList.append(button);
   }
-  counts.textContent = `${recipes.length} shown · ${state.recipes.length} recipes`;
-  if (!state.selected && recipes.length) {
-    state.selected = recipes[0];
-    renderList();
-    renderDetail();
-  }
+  counts.textContent = `${state.filtered.length} shown · ${state.recipes.length} recipes`;
+  searchClear.hidden = searchInput.value.length === 0;
 }
 
 function chipItems(items) {
@@ -55,8 +89,29 @@ function chipItems(items) {
     .map((item) => item.normalized_label || item.base_label || item.surface_form || item.source_span)
     .filter(Boolean)
     .slice(0, 80)
-    .map((text) => `<span class="chip">${text}</span>`)
+    .map((text) => `<span class="chip">${escapeHtml(text)}</span>`)
     .join("");
+}
+
+function citationPagesText(citation) {
+  if (!citation) return "";
+  const pages = Array.isArray(citation.pages) ? citation.pages.filter(Boolean) : [];
+  if (pages.length === 0) return "";
+  if (pages.length === 1) return `p. ${pages[0]}`;
+  return `pp. ${pages[0]}–${pages[pages.length - 1]}`;
+}
+
+function locatorText(recipe) {
+  const parts = [];
+  if (recipe.book) parts.push(`Book ${recipe.book}`);
+  if (recipe.chapter) parts.push(`ch. ${recipe.chapter}`);
+  if (recipe.section && recipe.section !== recipe.chapter) parts.push(`§${recipe.section}`);
+  return parts.join(", ");
+}
+
+function metaRow(label, valueHtml) {
+  if (!valueHtml) return "";
+  return `<dt>${escapeHtml(label)}</dt><dd>${valueHtml}</dd>`;
 }
 
 function renderDetail() {
@@ -65,35 +120,192 @@ function renderDetail() {
     detail.innerHTML = "";
     return;
   }
+  const authorWork = [recipe.author, recipe.work].filter(Boolean).join(" — ");
+  const locator = locatorText(recipe);
+  const pages = citationPagesText(recipe.citation);
+  const chipSections = [
+    ["Ingredients", chipItems(recipe.ingredients)],
+    ["Processes", chipItems(recipe.processes)],
+    ["Materials", chipItems(recipe.materials)],
+    ["Places and people", chipItems([...(recipe.places || []), ...(recipe.people || [])])],
+    ["Uses", chipItems(recipe.uses)],
+  ];
+  const sectionsHtml = chipSections
+    .map(([title, html]) => `<div class="section${html ? "" : " empty"}"><h3>${escapeHtml(title)}</h3><div class="chips">${html}</div></div>`)
+    .join("");
+
   detail.innerHTML = `
-    <h2>${labelFor(recipe)}</h2>
-    <div class="meta">${sourceName(recipe.dataset_key)} · ${recipe.recipe_id} · ${recipe.recipe_urn}</div>
-    <div class="greek">${recipe.text || ""}</div>
-    <div class="section"><h3>Ingredients</h3><div class="chips">${chipItems(recipe.ingredients)}</div></div>
-    <div class="section"><h3>Processes</h3><div class="chips">${chipItems(recipe.processes)}</div></div>
-    <div class="section"><h3>Places And People</h3><div class="chips">${chipItems([...(recipe.places || []), ...(recipe.people || [])])}</div></div>
+    <header class="detail-header">
+      <h2>${escapeHtml(labelFor(recipe))}</h2>
+      <dl class="detail-meta">
+        ${metaRow("Source", escapeHtml(sourceName(recipe.dataset_key)))}
+        ${metaRow("Author", escapeHtml(authorWork))}
+        ${metaRow("Locator", escapeHtml(locator))}
+        ${metaRow("Pages", escapeHtml(pages))}
+        ${metaRow("Recipe ID", escapeHtml(recipe.recipe_id))}
+        ${metaRow("URN", `<code>${escapeHtml(recipe.recipe_urn || "")}</code>`)}
+      </dl>
+    </header>
+    <div class="detail-inner">
+      <div class="greek">${escapeHtml(recipe.text || "")}</div>
+      ${sectionsHtml}
+    </div>
   `;
+  detail.scrollTop = 0;
+}
+
+function moveSelection(direction) {
+  if (!state.filtered.length) return;
+  const currentIndex = state.selected
+    ? state.filtered.findIndex((r) => r.recipe_id === state.selected.recipe_id)
+    : -1;
+  let nextIndex;
+  if (currentIndex === -1) {
+    nextIndex = direction > 0 ? 0 : state.filtered.length - 1;
+  } else {
+    nextIndex = currentIndex + direction;
+    if (nextIndex < 0) nextIndex = 0;
+    if (nextIndex >= state.filtered.length) nextIndex = state.filtered.length - 1;
+  }
+  selectRecipe(state.filtered[nextIndex], { scrollIntoView: true });
+}
+
+function isTypingTarget(el) {
+  if (!el) return false;
+  const tag = el.tagName;
+  if (tag === "INPUT" || tag === "TEXTAREA" || tag === "SELECT") return true;
+  if (el.isContentEditable) return true;
+  return false;
+}
+
+function attachKeyboardNav() {
+  document.addEventListener("keydown", (event) => {
+    if (event.metaKey || event.ctrlKey || event.altKey) return;
+
+    if (event.key === "/" && !isTypingTarget(event.target)) {
+      event.preventDefault();
+      searchInput.focus();
+      searchInput.select();
+      return;
+    }
+
+    if (event.key === "Escape" && event.target === searchInput) {
+      if (searchInput.value.length > 0) {
+        searchInput.value = "";
+        onSearchChange();
+      } else {
+        searchInput.blur();
+      }
+      return;
+    }
+
+    if (event.key === "ArrowDown" || event.key === "ArrowUp") {
+      if (event.target === sourceFilter) return;
+      event.preventDefault();
+      moveSelection(event.key === "ArrowDown" ? 1 : -1);
+    }
+  });
+}
+
+let searchDebounce;
+function onSearchChange() {
+  clearTimeout(searchDebounce);
+  searchDebounce = setTimeout(() => {
+    state.selected = null;
+    renderList();
+    if (!state.selected && state.filtered.length) {
+      selectRecipe(state.filtered[0]);
+    } else if (!state.filtered.length) {
+      renderDetail();
+    }
+  }, 120);
+  searchClear.hidden = searchInput.value.length === 0;
+}
+
+function applyTheme(theme) {
+  const root = document.documentElement;
+  if (theme === "auto") {
+    root.removeAttribute("data-theme");
+  } else {
+    root.setAttribute("data-theme", theme);
+  }
+  themeToggle.textContent = `Theme: ${theme}`;
+  themeToggle.title = `Theme: ${theme} (click to cycle)`;
+}
+
+function initTheme() {
+  const saved = localStorage.getItem("aos.theme");
+  const theme = THEME_CYCLE.includes(saved) ? saved : "auto";
+  applyTheme(theme);
+  themeToggle.addEventListener("click", () => {
+    const current = localStorage.getItem("aos.theme") || "auto";
+    const idx = THEME_CYCLE.indexOf(current);
+    const next = THEME_CYCLE[(idx + 1) % THEME_CYCLE.length];
+    localStorage.setItem("aos.theme", next);
+    applyTheme(next);
+  });
+}
+
+function recipeFromHash() {
+  const id = location.hash.slice(1);
+  if (!id) return null;
+  return state.recipes.find((r) => r.recipe_id === id) || null;
 }
 
 async function init() {
+  initTheme();
+
   const [recipePayload, sourcePayload] = await Promise.all([
     fetch("../data/recipes.json").then((response) => response.json()),
     fetch("../data/sources.json").then((response) => response.json()),
   ]);
   state.recipes = recipePayload.recipes;
   state.sources = sourcePayload.sources;
+
   sourceFilter.innerHTML = `<option value="all">All sources</option>` + state.sources
-    .map((source) => `<option value="${source.dataset_key}">${source.display_name}</option>`)
+    .map((source) => `<option value="${escapeHtml(source.dataset_key)}">${escapeHtml(source.display_name)}</option>`)
     .join("");
+
   sourceFilter.addEventListener("change", () => {
     state.selected = null;
     renderList();
+    if (state.filtered.length) {
+      selectRecipe(state.filtered[0]);
+    } else {
+      renderDetail();
+    }
   });
-  searchInput.addEventListener("input", () => {
-    state.selected = null;
+
+  searchInput.addEventListener("input", onSearchChange);
+
+  searchClear.addEventListener("click", () => {
+    searchInput.value = "";
+    onSearchChange();
+    searchInput.focus();
+  });
+
+  window.addEventListener("hashchange", () => {
+    const target = recipeFromHash();
+    if (target && target.recipe_id !== state.selected?.recipe_id) {
+      selectRecipe(target, { updateHash: false, scrollIntoView: true });
+    }
+  });
+
+  attachKeyboardNav();
+
+  const initial = recipeFromHash();
+  if (initial) {
+    state.selected = initial;
     renderList();
-  });
-  renderList();
+    renderDetail();
+    const active = recipeList.querySelector(".recipe-button.active");
+    if (active) active.scrollIntoView({ block: "center" });
+  } else {
+    renderList();
+    if (state.filtered.length) {
+      selectRecipe(state.filtered[0]);
+    }
+  }
 }
 
 init().catch((error) => {
