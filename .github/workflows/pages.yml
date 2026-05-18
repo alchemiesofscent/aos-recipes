@@ -26,10 +26,15 @@ jobs:
         uses: actions/checkout@v4
       - name: Configure Pages
         uses: actions/configure-pages@v5
+      - name: Build Pages artifact
+        run: |
+          mkdir -p _site/data
+          cp site/index.html site/app.js site/style.css _site/
+          cp data/recipes.json data/sources.json _site/data/
       - name: Upload static site
         uses: actions/upload-pages-artifact@v3
         with:
-          path: site
+          path: _site
       - name: Deploy
         id: deployment
         uses: actions/deploy-pages@v4

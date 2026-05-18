@@ -256,8 +256,8 @@ async function init() {
   initTheme();
 
   const [recipePayload, sourcePayload] = await Promise.all([
-    fetch("../data/recipes.json").then((response) => response.json()),
-    fetch("../data/sources.json").then((response) => response.json()),
+    fetch("data/recipes.json").then((response) => response.json()),
+    fetch("data/sources.json").then((response) => response.json()),
   ]);
   state.recipes = recipePayload.recipes;
   state.sources = sourcePayload.sources;
