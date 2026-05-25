@@ -544,7 +544,8 @@
           "certainty": "uncertain",
           "notes": [
             "Indicates a sufficient amount rather than a fixed measure."
-          ]
+          ],
+          "descriptor_family": "as_much_as"
         }
       ],
       "qualifiers": [],

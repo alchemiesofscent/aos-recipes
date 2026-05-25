@@ -325,7 +325,7 @@
           "raw_number": "μ",
           "normalized_number": 40,
           "raw_unit": "κόκκους",
-          "normalized_unit": null,
+          "normalized_unit": "kokkos",
           "certainty": "certain",
           "notes": []
         }
@@ -415,7 +415,7 @@
           "source_span": "λι. α",
           "raw_number": "α",
           "normalized_number": 1,
-          "raw_unit": "λι.",
+          "raw_unit": "λι",
           "normalized_unit": "litra",
           "certainty": "certain",
           "notes": []
@@ -529,7 +529,7 @@
           "source_span": "λι. α 𐅵ʹ",
           "raw_number": "α 𐅵ʹ",
           "normalized_number": "1 1/2",
-          "raw_unit": "λι.",
+          "raw_unit": "λι",
           "normalized_unit": "litra",
           "certainty": "uncertain",
           "notes": [

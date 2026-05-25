@@ -1,57 +1,54 @@
 # Quantity normalization pass — 2026-05-18
 
-Run by `scripts/normalize_quantities.py`. Deterministic post-processing; no LLM calls.
+Run by `scripts/normalize_quantities.py`. Deterministic post-processing; no LLM calls. Idempotent.
 
-## Rules applied
+## Rules
 
-1. **γο → uncia.** Any quantity whose `raw_unit` is `γο` (or `γο`+Greek-numeral suffix, or whose `source_span` matches that shape when `raw_unit` is null) gets `normalized_unit: "uncia"`. The existing `normalized_number` is preserved. The note `"The abbreviated unit γο is unresolved."` is removed.
-2. **Descriptor tagging.** Non-numeric quantifiers (exact match on `source_span` or `raw_unit`) get `normalized_unit: "descriptor"`. Phrases covered: `πλῆθος`, `πολλοὺς`, `σταθμόν`, `σταθμὸν`, `τὸ αὐτό`, `τὸ ἀρκοῦν`, `τὸ ἴσον πλῆθος`, `τὸ ἴσον`, `τὸν ἴσον σταθμὸν`, `τῷ σταθμῷ`, `ἴσον τῷ σταθμῷ`, `ὀλίγου`.
-3. **Durations onto processes.** Quantities with `raw_unit` in `ἡμέρας` (→ `day`), `ὥρας` (→ `hour`), `ἡμέρας καὶ νύκτας` (→ `day_and_night`) are removed from `processes[i].quantities` and appended to a new `processes[i].durations` array (with the mapped `normalized_unit`).
+1. **γο → uncia.** `raw_unit` or `source_span` matching `γο` + Greek numeral suffix.
+1b. **ξε → xestes.** Same shape, e.g. *ξεα.* = xestes·1.
+1c. **λι → litra.** Per user rule, *λιστ.* = λι + στ = litra·6. Where existing entries had read *ιστ* as the numeral (=16), they are corrected to *στ* (=6) with a note recording the prior value.
+2. **Descriptors → `normalized_unit: "descriptor"` + `descriptor_family`.** Families: `same_as`, `more_than`, `less_than` (reserved); `as_much_as`, `a_little`, `many`; `fraction:half`, `fraction:third`, `fraction:fourth`, `part`; `multiple:two`, `multiple:three`; `relative_to`; `quantity_unspecified`.
+3. **Durations** (*ἡμέρας / ὥρας / ἡμέρας καὶ νύκτας*) moved out of `processes[i].quantities` into `processes[i].durations` with `day / hour / day_and_night`.
+4. **Discrete units** → Greek-transliteration names: *κέγχρους* → `kenchros`, *κόκκους* → `kokkos`, *δακτύλους* → `daktylos`.
+5. **By-weight indicators** (*σταθμόν / σταθμὸν / τῷ σταθμῷ*) moved from `quantities[]` into `qualifiers[]` with `qualifier_type: "measurement_mode"`, `normalized_value: "by_weight"`. The *ἴσον τῷ σταθμῷ* variants stay in `quantities[]` as `descriptor_family: "same_as"`.
+6. **ἐμβολάς (infusion)** moved from `quantities[]` into `qualifiers[]` with `qualifier_type: "application_form"`, `normalized_value: "infusion"`, `count: <n>`. Per user: infusion is not a unit.
 
 ## Counts
 
-- Rule 1 (γο → uncia): **0** entries.
-- Rule 2 (descriptor): **0** entries.
-- Rule 3 (durations moved): **0** entries.
+- Rule 1 γο → uncia: filled **0**, corrected **0** entries.
+- Rule 1b ξε → xestes: filled **0**, corrected **0** entries.
+- Rule 1c λι → litra: filled **0**, corrected **0** entries.
+- Rule 8 manual count overrides: **0** entries; explanatory note added: **0** entries.
+- Cleanup (stale whitespace-only notes removed): **0** entries.
+- Rule 2 descriptor tagged: **0** entries (family newly set: **0**).
+- Rule 3 durations moved: **0** entries.
+- Rule 4 discrete units resolved: **0** entries.
+- Rule 5 by-weight moved to qualifiers: **0** entries.
+- Rule 6 infusion moved to qualifiers: **0** entries.
+- Rule 7 relative-to tagged: **0** entries.
 - Canonical files rewritten: **0**.
 - Provenance mirrors rewritten: **0**.
 
+## Descriptor family distribution (post-pass)
+
+| family | count |
+|--------|------:|
+| `as_much_as` | 19 |
+| `same_as` | 14 |
+| `fraction:third` | 4 |
+| `a_little` | 3 |
+| `multiple:two` | 3 |
+| `many` | 2 |
+| `fraction:fourth` | 1 |
+| `fraction:half` | 1 |
+| `more_than` | 1 |
+| `multiple:three` | 1 |
+| `part` | 1 |
+| `quantity_unspecified` | 1 |
+| `relative_to` | 1 |
+
 ## Residual unresolved quantities
 
-| count | raw_unit | source_span |
-|------:|----------|-------------|
-| 1 | `<null>` | `β` |
-| 1 | `<null>` | `γ.` |
-| 1 | `<null>` | `δίς` |
-| 1 | `<null>` | `διπλασίονι` |
-| 1 | `<null>` | `λιστ.` |
-| 1 | `<null>` | `ν.` |
-| 1 | `<null>` | `ξεα.` |
-| 1 | `<null>` | `πλεῖον` |
-| 1 | `<null>` | `τοσοῦτον` |
-| 1 | `<null>` | `τοσοῦτον, ὅσον ἦν ὁ ἔμπροσθεν δοθείς` |
-| 1 | `<null>` | `τρὶς` |
-| 1 | `<null>` | `τὸ διπλοῦν` |
-| 1 | `<null>` | `τὸ τελευταῖον τρίτον` |
-| 1 | `<null>` | `τὸ τέταρτον` |
-| 1 | `<null>` | `τὸ ἄλλο τρίτον` |
-| 1 | `<null>` | `τὸ ἱκανόν` |
-| 1 | `<null>` | `τὸ ἱκανὸν` |
-| 1 | `<null>` | `τῷ τρίτῳ τοῦ ἐλαίου` |
-| 1 | `<null>` | `ἴσον δὲ τῷ χυλῷ` |
-| 1 | `<null>` | `ἴσῳ` |
-| 1 | `<null>` | `ἶσον ἴσῳ` |
-| 1 | `<null>` | `ὀλίγα` |
-| 1 | `<null>` | `ὅσον ἂν δόξῃ` |
-| 1 | `δακτύλους` | `δακτύλους ὀκτώ` |
-| 1 | `κέγχρους` | `κέγχρους γ.` |
-| 1 | `κόκκους` | `κόκκους μ` |
-| 1 | `κόκκους` | `κόκκους μ.` |
-| 1 | `μέρος` | `μέρος ἓν ἥμισυ` |
-| 1 | `μέρος` | `μέρος ἕν` |
-| 1 | `μέρος` | `τὸ τρίτον μέρος` |
-| 1 | `παράὰ τὸ κινάμωμον` | `τετραπλασίονος παράὰ τὸ κινάμωμον` |
-| 1 | `ἐμβολὰς` | `τρεῖς ἐμβολὰς` |
-| 1 | `ἡμέρας` | `ἐπὶ ἡμέρας δέκα` |
-| 1 | `ἡμέρας` | `ἡμέρας μ.` |
-| 1 | `𐅵` | `𐅵 κ` |
+| count | raw_unit | source_span | notes |
+|------:|----------|-------------|-------|
+| 1 | `𐅵` | `𐅵 κ` | fractional half symbol 𐅵 (U+10175) — needs human review |

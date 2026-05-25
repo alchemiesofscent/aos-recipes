@@ -494,11 +494,12 @@
           "raw_number": "τρίτῳ",
           "normalized_number": "1/3",
           "raw_unit": null,
-          "normalized_unit": null,
+          "normalized_unit": "descriptor",
           "certainty": "certain",
           "notes": [
             "Fraction of the oil used for this mixing step."
-          ]
+          ],
+          "descriptor_family": "fraction:third"
         }
       ],
       "qualifiers": [],

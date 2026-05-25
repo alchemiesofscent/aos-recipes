@@ -320,7 +320,8 @@
           "certainty": "uncertain",
           "notes": [
             "Anaphoric quantity copied from the preceding φύλλων entry."
-          ]
+          ],
+          "descriptor_family": "same_as"
         }
       ],
       "qualifiers": [],
@@ -348,13 +349,14 @@
       "quantities": [
         {
           "source_span": "γοιδ",
-          "raw_number": "γοιδ",
-          "normalized_number": null,
-          "raw_unit": null,
+          "raw_number": "ιδ",
+          "normalized_number": 14,
+          "raw_unit": "γο",
           "normalized_unit": "uncia",
           "certainty": "uncertain",
           "notes": [
-            "Abbreviated quantity unresolved in transmission."
+            "Abbreviated quantity unresolved in transmission.",
+            "Corrected by normalize_quantities.py (rule γο+numeral): raw_number 'γοιδ'→'ιδ', normalized_number None→14."
           ]
         },
         {
@@ -429,12 +431,14 @@
       "quantities": [
         {
           "source_span": "λιτρ. γ.",
-          "raw_number": "γ",
-          "normalized_number": 3,
-          "raw_unit": "λιτρ.",
+          "raw_number": "τρ",
+          "normalized_number": 400,
+          "raw_unit": "λι",
           "normalized_unit": "litra",
           "certainty": "certain",
-          "notes": []
+          "notes": [
+            "Corrected by normalize_quantities.py (rule λι+numeral): raw_number 'γ'→'τρ', normalized_number 3→400."
+          ]
         }
       ],
       "qualifiers": [],
@@ -464,13 +468,14 @@
       "quantities": [
         {
           "source_span": "γοι.",
-          "raw_number": "γοι.",
-          "normalized_number": null,
-          "raw_unit": null,
+          "raw_number": "ι",
+          "normalized_number": 10,
+          "raw_unit": "γο",
           "normalized_unit": "uncia",
           "certainty": "uncertain",
           "notes": [
-            "Abbreviated quantity unresolved in transmission."
+            "Abbreviated quantity unresolved in transmission.",
+            "Corrected by normalize_quantities.py (rule γο+numeral): raw_number 'γοι.'→'ι', normalized_number None→10."
           ]
         }
       ],
@@ -499,13 +504,14 @@
       "quantities": [
         {
           "source_span": "γοβ.",
-          "raw_number": "γοβ.",
-          "normalized_number": null,
-          "raw_unit": null,
+          "raw_number": "β",
+          "normalized_number": 2,
+          "raw_unit": "γο",
           "normalized_unit": "uncia",
           "certainty": "uncertain",
           "notes": [
-            "Abbreviated quantity unresolved in transmission."
+            "Abbreviated quantity unresolved in transmission.",
+            "Corrected by normalize_quantities.py (rule γο+numeral): raw_number 'γοβ.'→'β', normalized_number None→2."
           ]
         }
       ],
@@ -534,13 +540,14 @@
       "quantities": [
         {
           "source_span": "γοβ.",
-          "raw_number": "γοβ.",
-          "normalized_number": null,
-          "raw_unit": null,
+          "raw_number": "β",
+          "normalized_number": 2,
+          "raw_unit": "γο",
           "normalized_unit": "uncia",
           "certainty": "uncertain",
           "notes": [
-            "Abbreviated quantity unresolved in transmission."
+            "Abbreviated quantity unresolved in transmission.",
+            "Corrected by normalize_quantities.py (rule γο+numeral): raw_number 'γοβ.'→'β', normalized_number None→2."
           ]
         }
       ],
@@ -569,13 +576,14 @@
       "quantities": [
         {
           "source_span": "γογ.",
-          "raw_number": "γογ.",
-          "normalized_number": null,
-          "raw_unit": null,
+          "raw_number": "γ",
+          "normalized_number": 3,
+          "raw_unit": "γο",
           "normalized_unit": "uncia",
           "certainty": "uncertain",
           "notes": [
-            "Abbreviated quantity unresolved in transmission."
+            "Abbreviated quantity unresolved in transmission.",
+            "Corrected by normalize_quantities.py (rule γο+numeral): raw_number 'γογ.'→'γ', normalized_number None→3."
           ]
         }
       ],
@@ -606,13 +614,14 @@
       "quantities": [
         {
           "source_span": "γοα.",
-          "raw_number": "γοα.",
-          "normalized_number": null,
-          "raw_unit": null,
+          "raw_number": "α",
+          "normalized_number": 1,
+          "raw_unit": "γο",
           "normalized_unit": "uncia",
           "certainty": "uncertain",
           "notes": [
-            "Abbreviated quantity unresolved in transmission."
+            "Abbreviated quantity unresolved in transmission.",
+            "Corrected by normalize_quantities.py (rule γο+numeral): raw_number 'γοα.'→'α', normalized_number None→1."
           ]
         }
       ],
@@ -650,7 +659,8 @@
           "certainty": "uncertain",
           "notes": [
             "Anaphoric quantity identical to the preceding ναρδοστάχυος quantity, which itself is unresolved."
-          ]
+          ],
+          "descriptor_family": "same_as"
         }
       ],
       "qualifiers": [],
@@ -682,7 +692,7 @@
           "source_span": "γογζʹ",
           "raw_number": "γογζʹ",
           "normalized_number": null,
-          "raw_unit": null,
+          "raw_unit": "γο",
           "normalized_unit": "uncia",
           "certainty": "uncertain",
           "notes": [
@@ -730,7 +740,7 @@
           "source_span": "γοζʹ",
           "raw_number": "γοζʹ",
           "normalized_number": null,
-          "raw_unit": null,
+          "raw_unit": "γο",
           "normalized_unit": "uncia",
           "certainty": "uncertain",
           "notes": [
@@ -776,13 +786,14 @@
       "quantities": [
         {
           "source_span": "γοβ.",
-          "raw_number": "γοβ.",
-          "normalized_number": null,
-          "raw_unit": null,
+          "raw_number": "β",
+          "normalized_number": 2,
+          "raw_unit": "γο",
           "normalized_unit": "uncia",
           "certainty": "uncertain",
           "notes": [
-            "Abbreviated quantity unresolved in transmission."
+            "Abbreviated quantity unresolved in transmission.",
+            "Corrected by normalize_quantities.py (rule γο+numeral): raw_number 'γοβ.'→'β', normalized_number None→2."
           ]
         }
       ],
@@ -814,13 +825,14 @@
       "quantities": [
         {
           "source_span": "γοβ.",
-          "raw_number": "γοβ.",
-          "normalized_number": null,
-          "raw_unit": null,
+          "raw_number": "β",
+          "normalized_number": 2,
+          "raw_unit": "γο",
           "normalized_unit": "uncia",
           "certainty": "uncertain",
           "notes": [
-            "Abbreviated quantity unresolved in transmission."
+            "Abbreviated quantity unresolved in transmission.",
+            "Corrected by normalize_quantities.py (rule γο+numeral): raw_number 'γοβ.'→'β', normalized_number None→2."
           ]
         }
       ],
@@ -851,13 +863,14 @@
       "quantities": [
         {
           "source_span": "γοε.",
-          "raw_number": "γοε.",
-          "normalized_number": null,
-          "raw_unit": null,
+          "raw_number": "ε",
+          "normalized_number": 5,
+          "raw_unit": "γο",
           "normalized_unit": "uncia",
           "certainty": "uncertain",
           "notes": [
-            "Abbreviated quantity unresolved in transmission."
+            "Abbreviated quantity unresolved in transmission.",
+            "Corrected by normalize_quantities.py (rule γο+numeral): raw_number 'γοε.'→'ε', normalized_number None→5."
           ]
         }
       ],

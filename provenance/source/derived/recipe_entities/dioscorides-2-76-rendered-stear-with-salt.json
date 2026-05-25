@@ -191,7 +191,8 @@
           "certainty": "certain",
           "notes": [
             "indefinite small amount"
-          ]
+          ],
+          "descriptor_family": "a_little"
         }
       ],
       "qualifiers": [

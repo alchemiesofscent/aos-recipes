@@ -599,7 +599,7 @@
           "raw_number": "β",
           "normalized_number": 2,
           "raw_unit": null,
-          "normalized_unit": null,
+          "normalized_unit": "count",
           "certainty": "certain",
           "notes": []
         }

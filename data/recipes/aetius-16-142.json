@@ -671,7 +671,7 @@
           "raw_number": "γ",
           "normalized_number": 3,
           "raw_unit": null,
-          "normalized_unit": null,
+          "normalized_unit": "count",
           "certainty": "uncertain",
           "notes": [
             "Count is implied but no explicit unit is stated."

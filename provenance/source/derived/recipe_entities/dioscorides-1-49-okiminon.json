@@ -280,7 +280,8 @@
           "certainty": "uncertain",
           "notes": [
             "Relative to the earlier quantity of ὠκίμου."
-          ]
+          ],
+          "descriptor_family": "same_as"
         }
       ],
       "qualifiers": [],
@@ -495,7 +496,8 @@
           "certainty": "uncertain",
           "notes": [
             "Relative to the initial oil quantity."
-          ]
+          ],
+          "descriptor_family": "same_as"
         }
       ],
       "qualifiers": [

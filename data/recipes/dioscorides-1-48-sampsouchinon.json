@@ -429,11 +429,12 @@
           "raw_number": null,
           "normalized_number": null,
           "raw_unit": null,
-          "normalized_unit": null,
+          "normalized_unit": "descriptor",
           "certainty": "uncertain",
           "notes": [
             "Ἀόριστον ποσόν, ὅσον ἀρκεῖ πρὸς τὴν βροχήν."
-          ]
+          ],
+          "descriptor_family": "as_much_as"
         }
       ],
       "qualifiers": [
@@ -527,7 +528,8 @@
           "certainty": "uncertain",
           "notes": [
             "Τὸ ποσὸν τῶν προσφάτων ἴσον τῷ προτέρῳ."
-          ]
+          ],
+          "descriptor_family": "quantity_unspecified"
         }
       ],
       "qualifiers": [

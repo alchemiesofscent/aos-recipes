@@ -217,13 +217,14 @@
       "quantities": [
         {
           "source_span": "λια.",
-          "raw_number": "ια",
-          "normalized_number": 11,
+          "raw_number": "α",
+          "normalized_number": 1,
           "raw_unit": "λι",
           "normalized_unit": "litra",
           "certainty": "uncertain",
           "notes": [
-            "Greek numeral letters read as 11; unit abbreviation `λι` unresolved."
+            "Greek numeral letters read as 11; unit abbreviation `λι` unresolved.",
+            "Corrected by normalize_quantities.py: raw_number 'ια'→'α', normalized_number 11→1 (rule λιστ.=λι+στ, στ=6)."
           ]
         }
       ],

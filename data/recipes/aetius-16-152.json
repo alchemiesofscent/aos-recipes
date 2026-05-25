@@ -165,9 +165,9 @@
       "quantities": [
         {
           "source_span": "γοι.",
-          "raw_number": null,
-          "normalized_number": null,
-          "raw_unit": "γοι.",
+          "raw_number": "ι",
+          "normalized_number": 10,
+          "raw_unit": "γο",
           "normalized_unit": "uncia",
           "certainty": "uncertain",
           "notes": [

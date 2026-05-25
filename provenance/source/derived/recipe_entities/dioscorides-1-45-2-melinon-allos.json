@@ -191,17 +191,7 @@
       "target_ids": [
         "dioscorides-1-45-2-melinon-allos:ingredient:melon-1"
       ],
-      "quantities": [
-        {
-          "source_span": "ἐπὶ ἡμέρας δέκα",
-          "raw_number": "δέκα",
-          "normalized_number": 10,
-          "raw_unit": "ἡμέρας",
-          "normalized_unit": null,
-          "certainty": "certain",
-          "notes": []
-        }
-      ],
+      "quantities": [],
       "qualifiers": [
         {
           "qualifier_type": "other",
@@ -223,7 +213,18 @@
           "start": "44.5",
           "end": "44.15"
         }
-      }
+      },
+      "durations": [
+        {
+          "source_span": "ἐπὶ ἡμέρας δέκα",
+          "raw_number": "δέκα",
+          "normalized_number": 10,
+          "raw_unit": "ἡμέρας",
+          "normalized_unit": "day",
+          "certainty": "certain",
+          "notes": []
+        }
+      ]
     },
     {
       "process_id": "dioscorides-1-45-2-melinon-allos:process:apobrechein-2",

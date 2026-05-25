@@ -145,9 +145,9 @@
       "quantities": [
         {
           "source_span": "γοι.",
-          "raw_number": null,
-          "normalized_number": null,
-          "raw_unit": "γοι.",
+          "raw_number": "ι",
+          "normalized_number": 10,
+          "raw_unit": "γο",
           "normalized_unit": "uncia",
           "certainty": "uncertain",
           "notes": [
@@ -180,9 +180,9 @@
       "quantities": [
         {
           "source_span": "γοα.",
-          "raw_number": null,
-          "normalized_number": null,
-          "raw_unit": "γοα.",
+          "raw_number": "α",
+          "normalized_number": 1,
+          "raw_unit": "γο",
           "normalized_unit": "uncia",
           "certainty": "uncertain",
           "notes": [
@@ -215,9 +215,9 @@
       "quantities": [
         {
           "source_span": "γοα.",
-          "raw_number": null,
-          "normalized_number": null,
-          "raw_unit": "γοα.",
+          "raw_number": "α",
+          "normalized_number": 1,
+          "raw_unit": "γο",
           "normalized_unit": "uncia",
           "certainty": "uncertain",
           "notes": [
@@ -250,9 +250,9 @@
       "quantities": [
         {
           "source_span": "γοα.",
-          "raw_number": null,
-          "normalized_number": null,
-          "raw_unit": "γοα.",
+          "raw_number": "α",
+          "normalized_number": 1,
+          "raw_unit": "γο",
           "normalized_unit": "uncia",
           "certainty": "uncertain",
           "notes": [
@@ -285,9 +285,9 @@
       "quantities": [
         {
           "source_span": "γοα.",
-          "raw_number": null,
-          "normalized_number": null,
-          "raw_unit": "γοα.",
+          "raw_number": "α",
+          "normalized_number": 1,
+          "raw_unit": "γο",
           "normalized_unit": "uncia",
           "certainty": "uncertain",
           "notes": [
@@ -320,9 +320,9 @@
       "quantities": [
         {
           "source_span": "γοα.",
-          "raw_number": null,
-          "normalized_number": null,
-          "raw_unit": "γοα.",
+          "raw_number": "α",
+          "normalized_number": 1,
+          "raw_unit": "γο",
           "normalized_unit": "uncia",
           "certainty": "uncertain",
           "notes": [
@@ -430,11 +430,12 @@
           "raw_number": null,
           "normalized_number": null,
           "raw_unit": null,
-          "normalized_unit": null,
+          "normalized_unit": "descriptor",
           "certainty": "certain",
           "notes": [
             "Indefinite sufficient quantity."
-          ]
+          ],
+          "descriptor_family": "as_much_as"
         }
       ],
       "qualifiers": [],

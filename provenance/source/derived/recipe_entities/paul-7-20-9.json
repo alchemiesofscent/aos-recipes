@@ -535,11 +535,12 @@
           "raw_number": null,
           "normalized_number": "few",
           "raw_unit": null,
-          "normalized_unit": null,
+          "normalized_unit": "descriptor",
           "certainty": "certain",
           "notes": [
             "An indefinite small quantity is stated, but the floral object is not restated in this clause."
-          ]
+          ],
+          "descriptor_family": "a_little"
         }
       ],
       "qualifiers": [

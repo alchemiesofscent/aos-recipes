@@ -323,11 +323,12 @@
           "raw_number": "τετραπλασίονος",
           "normalized_number": 4,
           "raw_unit": "παράὰ τὸ κινάμωμον",
-          "normalized_unit": null,
+          "normalized_unit": "descriptor",
           "certainty": "certain",
           "notes": [
             "The amount of myrrh is given as fourfold relative to cinnamon."
-          ]
+          ],
+          "descriptor_family": "relative_to"
         }
       ],
       "qualifiers": [],

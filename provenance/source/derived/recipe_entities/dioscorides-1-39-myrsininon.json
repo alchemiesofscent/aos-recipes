@@ -270,11 +270,12 @@
           "raw_number": "ἴσον",
           "normalized_number": "equal",
           "raw_unit": null,
-          "normalized_unit": null,
+          "normalized_unit": "descriptor",
           "certainty": "certain",
           "notes": [
             "Relative amount to the juice."
-          ]
+          ],
+          "descriptor_family": "same_as"
         }
       ],
       "qualifiers": [],

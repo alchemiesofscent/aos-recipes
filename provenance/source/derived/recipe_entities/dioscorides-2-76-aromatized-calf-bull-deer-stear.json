@@ -1444,11 +1444,12 @@
           "raw_number": null,
           "normalized_number": null,
           "raw_unit": null,
-          "normalized_unit": null,
+          "normalized_unit": "descriptor",
           "certainty": "uncertain",
           "notes": [
             "Relative amount equal to the first wine addition."
-          ]
+          ],
+          "descriptor_family": "as_much_as"
         }
       ],
       "qualifiers": [],

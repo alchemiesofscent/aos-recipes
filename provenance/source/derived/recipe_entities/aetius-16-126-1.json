@@ -375,7 +375,7 @@
       "quantities": [
         {
           "source_span": "γοστ.",
-          "raw_number": "στ.",
+          "raw_number": "στ",
           "normalized_number": 6,
           "raw_unit": "γο",
           "normalized_unit": "uncia",

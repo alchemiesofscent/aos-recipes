@@ -57,12 +57,20 @@ def main() -> int:
     if source_keys != set(EXPECTED_COUNTS):
         fail(f"sources mismatch: {sorted(source_keys)}")
 
-    GO_PREFIX_UNITS = {"γο"}
+    ABBREV_UNIT_PREFIX = {"γο": "uncia", "ξε": "xestes", "λι": "litra"}
     DESCRIPTOR_SPANS = {
         "τὸ ἀρκοῦν", "τὸ ἴσον", "τὸ αὐτό", "τὸ ἴσον πλῆθος",
         "ὀλίγου", "πολλοὺς", "ἴσον τῷ σταθμῷ", "τὸν ἴσον σταθμὸν",
+        "τὸ ἱκανὸν", "τὸ ἱκανόν", "ὅσον ἂν δόξῃ", "ὀλίγα", "ἴσον δὲ τῷ χυλῷ",
+        "ἴσον", "ἴσῳ", "ἶσον ἴσῳ", "πλεῖον", "τοσοῦτον", "δίς", "τρὶς",
+        "διπλασίονι", "τὸ διπλοῦν", "τὸ τέταρτον", "τὸ τρίτον μέρος",
+        "τὸ ἄλλο τρίτον", "τὸ τελευταῖον τρίτον", "τῷ τρίτῳ τοῦ ἐλαίου",
+        "μέρος ἕν", "μέρος ἓν ἥμισυ", "τοσοῦτον, ὅσον ἦν ὁ ἔμπροσθεν δοθείς",
     }
-    DESCRIPTOR_RAW_UNITS = {"πλῆθος", "σταθμόν", "σταθμὸν", "τῷ σταθμῷ"}
+    DESCRIPTOR_RAW_UNITS = {"πλῆθος", "μέρος"}
+    WEIGHT_INDICATOR_RAW_UNITS = {"σταθμόν", "σταθμὸν", "τῷ σταθμῷ"}
+    INFUSION_RAW_UNITS = {"ἐμβολὰς", "ἐμβολάς", "ἐμβολή"}
+    DISCRETE_UNITS = {"κέγχρους": "kenchros", "κόκκους": "kokkos", "δακτύλους": "daktylos", "δάκτυλος": "daktylos", "δάκτυλον": "daktylos"}
     DURATION_UNITS = {"ἡμέρας", "ὥρας", "ἡμέρας καὶ νύκτας"}
 
     def check_quantity_invariants(file_payload, recipe_id):
@@ -72,12 +80,21 @@ def main() -> int:
                     raw_unit = q.get("raw_unit") or ""
                     source_span = q.get("source_span") or ""
                     norm = q.get("normalized_unit")
-                    if raw_unit.startswith("γο") and norm != "uncia":
-                        fail(f"{recipe_id}: γο-prefixed unit not normalized to uncia: {q}")
+                    for prefix, expected_unit in ABBREV_UNIT_PREFIX.items():
+                        if raw_unit.startswith(prefix) and norm != expected_unit:
+                            fail(f"{recipe_id}: {prefix}-prefixed unit not normalized to {expected_unit}: {q}")
                     if (source_span in DESCRIPTOR_SPANS or raw_unit in DESCRIPTOR_RAW_UNITS) and norm != "descriptor":
                         fail(f"{recipe_id}: descriptor quantifier not tagged: {q}")
+                    if norm == "descriptor" and not q.get("descriptor_family"):
+                        fail(f"{recipe_id}: descriptor entry missing descriptor_family: {q}")
                     if raw_unit in DURATION_UNITS and host == "processes":
                         fail(f"{recipe_id}: duration entry still in processes.quantities (should be in durations): {q}")
+                    if raw_unit in WEIGHT_INDICATOR_RAW_UNITS and source_span not in DESCRIPTOR_SPANS:
+                        fail(f"{recipe_id}: by-weight indicator still in quantities (should be in qualifiers): {q}")
+                    if raw_unit in INFUSION_RAW_UNITS:
+                        fail(f"{recipe_id}: infusion still in quantities (should be in qualifiers): {q}")
+                    if raw_unit in DISCRETE_UNITS and norm != DISCRETE_UNITS[raw_unit]:
+                        fail(f"{recipe_id}: discrete unit {raw_unit!r} not normalized to {DISCRETE_UNITS[raw_unit]!r}: {q}")
 
     def check_mirror_parity(file_payload, mirror_payload, recipe_id):
         def quantity_view(payload):

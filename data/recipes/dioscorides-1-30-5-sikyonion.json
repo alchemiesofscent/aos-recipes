@@ -345,11 +345,12 @@
           "raw_number": "δίς",
           "normalized_number": 2,
           "raw_unit": null,
-          "normalized_unit": null,
+          "normalized_unit": "descriptor",
           "certainty": "certain",
           "notes": [
             "Repetition count for the boiling-up event."
-          ]
+          ],
+          "descriptor_family": "multiple:two"
         }
       ],
       "qualifiers": [],

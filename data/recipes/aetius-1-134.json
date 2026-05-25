@@ -236,11 +236,12 @@
           "raw_number": null,
           "normalized_number": "1:1",
           "raw_unit": null,
-          "normalized_unit": null,
+          "normalized_unit": "descriptor",
           "certainty": "certain",
           "notes": [
             "Equal-part ratio relative to the aromatic unguent."
-          ]
+          ],
+          "descriptor_family": "same_as"
         }
       ],
       "qualifiers": [],

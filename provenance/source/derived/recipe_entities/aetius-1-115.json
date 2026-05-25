@@ -478,17 +478,7 @@
       "normalized_label": "ἡλιοῦν",
       "target_type": "recipe",
       "target_ids": [],
-      "quantities": [
-        {
-          "source_span": "ἡμέρας μ.",
-          "raw_number": "μ.",
-          "normalized_number": 40,
-          "raw_unit": "ἡμέρας",
-          "normalized_unit": null,
-          "certainty": "certain",
-          "notes": []
-        }
-      ],
+      "quantities": [],
       "qualifiers": [],
       "certainty": "certain",
       "notes": [],
@@ -500,7 +490,18 @@
           "start": "59.21",
           "end": "59.30"
         }
-      }
+      },
+      "durations": [
+        {
+          "source_span": "ἡμέρας μ.",
+          "raw_number": "μ.",
+          "normalized_number": 40,
+          "raw_unit": "ἡμέρας",
+          "normalized_unit": "day",
+          "certainty": "certain",
+          "notes": []
+        }
+      ]
     }
   ],
   "materials": [

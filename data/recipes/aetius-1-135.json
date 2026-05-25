@@ -1377,7 +1377,8 @@
           "certainty": "certain",
           "notes": [
             "Indefinite sufficient amount."
-          ]
+          ],
+          "descriptor_family": "as_much_as"
         }
       ],
       "qualifiers": [],
@@ -1556,7 +1557,8 @@
           "certainty": "certain",
           "notes": [
             "Indefinite plural quantity."
-          ]
+          ],
+          "descriptor_family": "many"
         }
       ],
       "qualifiers": [],

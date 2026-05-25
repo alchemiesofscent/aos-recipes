@@ -528,7 +528,8 @@
           "certainty": "certain",
           "notes": [
             "Shared sufficiency expression across the coordinated pair οἴνου εὐώδους παλαιοῦ καὶ μέλιτος."
-          ]
+          ],
+          "descriptor_family": "as_much_as"
         }
       ],
       "qualifiers": [
@@ -578,7 +579,8 @@
           "certainty": "certain",
           "notes": [
             "Shared sufficiency expression across the coordinated pair οἴνου εὐώδους παλαιοῦ καὶ μέλιτος."
-          ]
+          ],
+          "descriptor_family": "as_much_as"
         }
       ],
       "qualifiers": [],

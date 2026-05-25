@@ -184,9 +184,9 @@
       "quantities": [
         {
           "source_span": "γοβ.",
-          "raw_number": null,
-          "normalized_number": null,
-          "raw_unit": "γοβ.",
+          "raw_number": "β",
+          "normalized_number": 2,
+          "raw_unit": "γο",
           "normalized_unit": "uncia",
           "certainty": "uncertain",
           "notes": [
@@ -226,9 +226,9 @@
       "quantities": [
         {
           "source_span": "γοβ.",
-          "raw_number": null,
-          "normalized_number": null,
-          "raw_unit": "γοβ.",
+          "raw_number": "β",
+          "normalized_number": 2,
+          "raw_unit": "γο",
           "normalized_unit": "uncia",
           "certainty": "uncertain",
           "notes": [
@@ -266,9 +266,9 @@
       "quantities": [
         {
           "source_span": "γοβ.",
-          "raw_number": null,
-          "normalized_number": null,
-          "raw_unit": "γοβ.",
+          "raw_number": "β",
+          "normalized_number": 2,
+          "raw_unit": "γο",
           "normalized_unit": "uncia",
           "certainty": "uncertain",
           "notes": [
@@ -380,9 +380,9 @@
       "quantities": [
         {
           "source_span": "γοα.",
-          "raw_number": null,
-          "normalized_number": null,
-          "raw_unit": "γοα.",
+          "raw_number": "α",
+          "normalized_number": 1,
+          "raw_unit": "γο",
           "normalized_unit": "uncia",
           "certainty": "uncertain",
           "notes": [
@@ -419,9 +419,9 @@
       "quantities": [
         {
           "source_span": "γοα.",
-          "raw_number": null,
-          "normalized_number": null,
-          "raw_unit": "γοα.",
+          "raw_number": "α",
+          "normalized_number": 1,
+          "raw_unit": "γο",
           "normalized_unit": "uncia",
           "certainty": "uncertain",
           "notes": [
@@ -458,9 +458,9 @@
       "quantities": [
         {
           "source_span": "γοβ.",
-          "raw_number": null,
-          "normalized_number": null,
-          "raw_unit": "γοβ.",
+          "raw_number": "β",
+          "normalized_number": 2,
+          "raw_unit": "γο",
           "normalized_unit": "uncia",
           "certainty": "uncertain",
           "notes": [

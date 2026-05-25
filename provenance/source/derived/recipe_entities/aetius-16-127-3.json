@@ -145,12 +145,14 @@
       "quantities": [
         {
           "source_span": "λιτ. γ.",
-          "raw_number": "γ",
-          "normalized_number": 3,
-          "raw_unit": "λιτ.",
+          "raw_number": "τ",
+          "normalized_number": 300,
+          "raw_unit": "λι",
           "normalized_unit": "litra",
           "certainty": "certain",
-          "notes": []
+          "notes": [
+            "Corrected by normalize_quantities.py (rule λι+numeral): raw_number 'γ'→'τ', normalized_number 3→300."
+          ]
         }
       ],
       "qualifiers": [],

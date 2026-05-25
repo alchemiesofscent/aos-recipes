@@ -199,9 +199,10 @@
           "raw_number": "ἕν",
           "normalized_number": 1,
           "raw_unit": "μέρος",
-          "normalized_unit": null,
+          "normalized_unit": "descriptor",
           "certainty": "certain",
-          "notes": []
+          "notes": [],
+          "descriptor_family": "part"
         }
       ],
       "qualifiers": [],
@@ -234,9 +235,10 @@
           "raw_number": "ἓν ἥμισυ",
           "normalized_number": 1.5,
           "raw_unit": "μέρος",
-          "normalized_unit": null,
+          "normalized_unit": "descriptor",
           "certainty": "certain",
-          "notes": []
+          "notes": [],
+          "descriptor_family": "fraction:half"
         }
       ],
       "qualifiers": [],
@@ -519,7 +521,8 @@
           "certainty": "uncertain",
           "notes": [
             "The equal amount is relative to the immediately preceding quantity of ἄνθους κύπρου."
-          ]
+          ],
+          "descriptor_family": "same_as"
         }
       ],
       "qualifiers": [],

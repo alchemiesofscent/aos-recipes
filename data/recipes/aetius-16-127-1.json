@@ -180,9 +180,9 @@
       "quantities": [
         {
           "source_span": "γοβ.",
-          "raw_number": null,
-          "normalized_number": null,
-          "raw_unit": "γοβ.",
+          "raw_number": "β",
+          "normalized_number": 2,
+          "raw_unit": "γο",
           "normalized_unit": "uncia",
           "certainty": "uncertain",
           "notes": [
@@ -216,9 +216,9 @@
       "quantities": [
         {
           "source_span": "γοβ.",
-          "raw_number": null,
-          "normalized_number": null,
-          "raw_unit": "γοβ.",
+          "raw_number": "β",
+          "normalized_number": 2,
+          "raw_unit": "γο",
           "normalized_unit": "uncia",
           "certainty": "uncertain",
           "notes": [
@@ -252,9 +252,9 @@
       "quantities": [
         {
           "source_span": "γοβ.",
-          "raw_number": null,
-          "normalized_number": null,
-          "raw_unit": "γοβ.",
+          "raw_number": "β",
+          "normalized_number": 2,
+          "raw_unit": "γο",
           "normalized_unit": "uncia",
           "certainty": "uncertain",
           "notes": [
@@ -288,9 +288,9 @@
       "quantities": [
         {
           "source_span": "γοβ.",
-          "raw_number": null,
-          "normalized_number": null,
-          "raw_unit": "γοβ.",
+          "raw_number": "β",
+          "normalized_number": 2,
+          "raw_unit": "γο",
           "normalized_unit": "uncia",
           "certainty": "uncertain",
           "notes": [
@@ -324,9 +324,9 @@
       "quantities": [
         {
           "source_span": "γοβ.",
-          "raw_number": null,
-          "normalized_number": null,
-          "raw_unit": "γοβ.",
+          "raw_number": "β",
+          "normalized_number": 2,
+          "raw_unit": "γο",
           "normalized_unit": "uncia",
           "certainty": "uncertain",
           "notes": [
@@ -360,9 +360,9 @@
       "quantities": [
         {
           "source_span": "γοβ.",
-          "raw_number": null,
-          "normalized_number": null,
-          "raw_unit": "γοβ.",
+          "raw_number": "β",
+          "normalized_number": 2,
+          "raw_unit": "γο",
           "normalized_unit": "uncia",
           "certainty": "uncertain",
           "notes": [
@@ -396,9 +396,9 @@
       "quantities": [
         {
           "source_span": "γοβ.",
-          "raw_number": null,
-          "normalized_number": null,
-          "raw_unit": "γοβ.",
+          "raw_number": "β",
+          "normalized_number": 2,
+          "raw_unit": "γο",
           "normalized_unit": "uncia",
           "certainty": "uncertain",
           "notes": [

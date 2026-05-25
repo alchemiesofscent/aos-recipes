@@ -226,7 +226,8 @@
           "certainty": "certain",
           "notes": [
             "Equal to the previous oil amount."
-          ]
+          ],
+          "descriptor_family": "same_as"
         }
       ],
       "qualifiers": [],
@@ -403,11 +404,12 @@
           "raw_number": "διπλασίονι",
           "normalized_number": "double",
           "raw_unit": null,
-          "normalized_unit": null,
+          "normalized_unit": "descriptor",
           "certainty": "certain",
           "notes": [
             "Relative amount in therapeutic combination."
-          ]
+          ],
+          "descriptor_family": "multiple:two"
         }
       ],
       "qualifiers": [],

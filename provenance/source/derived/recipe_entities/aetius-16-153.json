@@ -137,14 +137,15 @@
       "quantities": [
         {
           "source_span": "λια.",
-          "raw_number": null,
-          "normalized_number": null,
-          "raw_unit": "λια.",
+          "raw_number": "α",
+          "normalized_number": 1,
+          "raw_unit": "λι",
           "normalized_unit": "litra",
           "certainty": "uncertain",
           "notes": [
             "Distributive ἀνὰ governs the first coordinated ingredient cluster.",
-            "The abbreviation is not safely separable into unit and number from the inline evidence alone."
+            "The abbreviation is not safely separable into unit and number from the inline evidence alone.",
+            "Corrected by normalize_quantities.py: raw_number None→'α', normalized_number None→1 (rule λιστ.=λι+στ, στ=6)."
           ]
         }
       ],
@@ -173,14 +174,15 @@
       "quantities": [
         {
           "source_span": "λια.",
-          "raw_number": null,
-          "normalized_number": null,
-          "raw_unit": "λια.",
+          "raw_number": "α",
+          "normalized_number": 1,
+          "raw_unit": "λι",
           "normalized_unit": "litra",
           "certainty": "uncertain",
           "notes": [
             "Distributive ἀνὰ governs the first coordinated ingredient cluster.",
-            "The abbreviation is not safely separable into unit and number from the inline evidence alone."
+            "The abbreviation is not safely separable into unit and number from the inline evidence alone.",
+            "Corrected by normalize_quantities.py: raw_number None→'α', normalized_number None→1 (rule λιστ.=λι+στ, στ=6)."
           ]
         }
       ],
@@ -209,14 +211,15 @@
       "quantities": [
         {
           "source_span": "λια.",
-          "raw_number": null,
-          "normalized_number": null,
-          "raw_unit": "λια.",
+          "raw_number": "α",
+          "normalized_number": 1,
+          "raw_unit": "λι",
           "normalized_unit": "litra",
           "certainty": "uncertain",
           "notes": [
             "Distributive ἀνὰ governs the first coordinated ingredient cluster.",
-            "The abbreviation is not safely separable into unit and number from the inline evidence alone."
+            "The abbreviation is not safely separable into unit and number from the inline evidence alone.",
+            "Corrected by normalize_quantities.py: raw_number None→'α', normalized_number None→1 (rule λιστ.=λι+στ, στ=6)."
           ]
         }
       ],
@@ -245,13 +248,14 @@
       "quantities": [
         {
           "source_span": "λιβ.",
-          "raw_number": null,
-          "normalized_number": null,
-          "raw_unit": "λιβ.",
+          "raw_number": "β",
+          "normalized_number": 2,
+          "raw_unit": "λι",
           "normalized_unit": "litra",
           "certainty": "uncertain",
           "notes": [
-            "The abbreviation is not safely separable into unit and number from the inline evidence alone."
+            "The abbreviation is not safely separable into unit and number from the inline evidence alone.",
+            "Corrected by normalize_quantities.py: raw_number None→'β', normalized_number None→2 (rule λιστ.=λι+στ, στ=6)."
           ]
         }
       ],
@@ -282,7 +286,7 @@
           "source_span": "λιαζʹ.",
           "raw_number": null,
           "normalized_number": null,
-          "raw_unit": "λιαζʹ.",
+          "raw_unit": "λι",
           "normalized_unit": "litra",
           "certainty": "uncertain",
           "notes": [
@@ -315,13 +319,14 @@
       "quantities": [
         {
           "source_span": "λιστ.",
-          "raw_number": null,
-          "normalized_number": null,
-          "raw_unit": "λιστ.",
+          "raw_number": "στ",
+          "normalized_number": 6,
+          "raw_unit": "λι",
           "normalized_unit": "litra",
           "certainty": "uncertain",
           "notes": [
-            "The abbreviation is not safely separable into unit and number from the inline evidence alone."
+            "The abbreviation is not safely separable into unit and number from the inline evidence alone.",
+            "Corrected by normalize_quantities.py: raw_number None→'στ', normalized_number None→6 (rule λιστ.=λι+στ, στ=6)."
           ]
         }
       ],

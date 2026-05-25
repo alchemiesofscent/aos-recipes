@@ -146,12 +146,14 @@
       "quantities": [
         {
           "source_span": "λιτ. α.",
-          "raw_number": "α",
-          "normalized_number": 1,
-          "raw_unit": "λιτ.",
+          "raw_number": "τ",
+          "normalized_number": 300,
+          "raw_unit": "λι",
           "normalized_unit": "litra",
           "certainty": "certain",
-          "notes": []
+          "notes": [
+            "Corrected by normalize_quantities.py (rule λι+numeral): raw_number 'α'→'τ', normalized_number 1→300."
+          ]
         }
       ],
       "qualifiers": [],
@@ -314,7 +316,7 @@
           "raw_number": "γ",
           "normalized_number": 3,
           "raw_unit": "κέγχρους",
-          "normalized_unit": null,
+          "normalized_unit": "kenchros",
           "certainty": "certain",
           "notes": []
         }

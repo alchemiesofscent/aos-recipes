@@ -171,11 +171,12 @@
           "raw_number": null,
           "normalized_number": "equal",
           "raw_unit": null,
-          "normalized_unit": null,
+          "normalized_unit": "descriptor",
           "certainty": "certain",
           "notes": [
             "Equal in amount to the oil dose."
-          ]
+          ],
+          "descriptor_family": "same_as"
         }
       ],
       "qualifiers": [],

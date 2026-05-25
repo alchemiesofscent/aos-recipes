@@ -808,7 +808,8 @@
           "normalized_unit": null,
           "certainty": "uncertain",
           "notes": [
-            "The unit sign 𐅵 is left unresolved."
+            "The unit sign 𐅵 is left unresolved.",
+            "Wellmann notes a variant reading with ξεστ- here. The printed glyph 𐅵 (U+10175 GREEK ONE HALF SIGN) is unclear in the source; kept as printed pending better glyph evidence."
           ]
         }
       ],
@@ -844,7 +845,8 @@
           "certainty": "certain",
           "notes": [
             "Indefinite quantity: as much as suffices."
-          ]
+          ],
+          "descriptor_family": "as_much_as"
         }
       ],
       "qualifiers": [

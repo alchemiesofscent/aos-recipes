@@ -457,7 +457,8 @@
           "certainty": "uncertain",
           "notes": [
             "sufficient amount"
-          ]
+          ],
+          "descriptor_family": "as_much_as"
         }
       ],
       "qualifiers": [],

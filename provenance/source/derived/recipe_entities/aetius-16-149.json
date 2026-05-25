@@ -147,13 +147,14 @@
       "quantities": [
         {
           "source_span": "λιβ.",
-          "raw_number": null,
-          "normalized_number": null,
-          "raw_unit": "λιβ.",
+          "raw_number": "β",
+          "normalized_number": 2,
+          "raw_unit": "λι",
           "normalized_unit": "litra",
           "certainty": "uncertain",
           "notes": [
-            "Unit is explicit, but no numeral is stated."
+            "Unit is explicit, but no numeral is stated.",
+            "Corrected by normalize_quantities.py: raw_number None→'β', normalized_number None→2 (rule λιστ.=λι+στ, στ=6)."
           ]
         }
       ],

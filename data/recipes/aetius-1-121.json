@@ -353,11 +353,12 @@
           "raw_number": "τέταρτον",
           "normalized_number": "1/4",
           "raw_unit": null,
-          "normalized_unit": null,
+          "normalized_unit": "descriptor",
           "certainty": "certain",
           "notes": [
             "Fraction of the preceding measure is implied, but the base unit is not restated."
-          ]
+          ],
+          "descriptor_family": "fraction:fourth"
         }
       ],
       "qualifiers": [],

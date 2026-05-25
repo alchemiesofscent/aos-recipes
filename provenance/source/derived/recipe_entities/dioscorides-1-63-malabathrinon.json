@@ -134,11 +134,12 @@
           "raw_number": "πλεῖον",
           "normalized_number": null,
           "raw_unit": null,
-          "normalized_unit": null,
+          "normalized_unit": "descriptor",
           "certainty": "uncertain",
           "notes": [
             "Comparative amount only; no absolute quantity is stated."
-          ]
+          ],
+          "descriptor_family": "more_than"
         }
       ],
       "qualifiers": [],

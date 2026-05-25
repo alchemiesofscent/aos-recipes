@@ -670,7 +670,8 @@
           "certainty": "uncertain",
           "notes": [
             "Indicates the same quantity as the immediately preceding ingredient, likely κόστου γοαζʹ."
-          ]
+          ],
+          "descriptor_family": "same_as"
         }
       ],
       "qualifiers": [],
@@ -809,10 +810,10 @@
       "quantities": [
         {
           "source_span": "λιστ.",
-          "raw_number": null,
-          "normalized_number": null,
-          "raw_unit": null,
-          "normalized_unit": null,
+          "raw_number": "στ",
+          "normalized_number": 6,
+          "raw_unit": "λι",
+          "normalized_unit": "litra",
           "certainty": "uncertain",
           "notes": [
             "Abbreviated quantity could not be resolved securely."
@@ -948,7 +949,8 @@
           "raw_unit": null,
           "normalized_unit": "descriptor",
           "certainty": "certain",
-          "notes": []
+          "notes": [],
+          "descriptor_family": "as_much_as"
         }
       ],
       "qualifiers": [],

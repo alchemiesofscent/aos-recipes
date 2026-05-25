@@ -401,7 +401,8 @@
           "raw_unit": "τῷ σταθμῷ",
           "normalized_unit": "descriptor",
           "certainty": "certain",
-          "notes": []
+          "notes": [],
+          "descriptor_family": "same_as"
         }
       ],
       "qualifiers": [],
@@ -774,7 +775,8 @@
           "raw_unit": "σταθμὸν",
           "normalized_unit": "descriptor",
           "certainty": "certain",
-          "notes": []
+          "notes": [],
+          "descriptor_family": "same_as"
         }
       ],
       "qualifiers": [

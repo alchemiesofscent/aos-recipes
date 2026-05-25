@@ -212,13 +212,14 @@
       "quantities": [
         {
           "source_span": "λια.",
-          "raw_number": "ια",
-          "normalized_number": 11,
+          "raw_number": "α",
+          "normalized_number": 1,
           "raw_unit": "λι",
           "normalized_unit": "litra",
           "certainty": "uncertain",
           "notes": [
-            "Greek numeral parsed as 11; unit abbreviation unresolved."
+            "Greek numeral parsed as 11; unit abbreviation unresolved.",
+            "Corrected by normalize_quantities.py: raw_number 'ια'→'α', normalized_number 11→1 (rule λιστ.=λι+στ, στ=6)."
           ]
         }
       ],
@@ -492,13 +493,14 @@
       "quantities": [
         {
           "source_span": "λιγ.",
-          "raw_number": "ιγ",
-          "normalized_number": 13,
+          "raw_number": "γ",
+          "normalized_number": 3,
           "raw_unit": "λι",
           "normalized_unit": "litra",
           "certainty": "uncertain",
           "notes": [
-            "Greek numeral parsed as 13; unit abbreviation unresolved."
+            "Greek numeral parsed as 13; unit abbreviation unresolved.",
+            "Corrected by normalize_quantities.py: raw_number 'ιγ'→'γ', normalized_number 13→3 (rule λιστ.=λι+στ, στ=6)."
           ]
         }
       ],
@@ -527,13 +529,14 @@
       "quantities": [
         {
           "source_span": "λιστ.",
-          "raw_number": "ιστ",
-          "normalized_number": 16,
+          "raw_number": "στ",
+          "normalized_number": 6,
           "raw_unit": "λι",
           "normalized_unit": "litra",
           "certainty": "uncertain",
           "notes": [
-            "Greek numeral parsed as 16; unit abbreviation unresolved."
+            "Greek numeral parsed as 16; unit abbreviation unresolved.",
+            "Corrected by normalize_quantities.py: raw_number 'ιστ'→'στ', normalized_number 16→6 (rule λιστ.=λι+στ, στ=6)."
           ]
         }
       ],
@@ -599,13 +602,14 @@
       "quantities": [
         {
           "source_span": "λιβ.",
-          "raw_number": "ιβ",
-          "normalized_number": 12,
+          "raw_number": "β",
+          "normalized_number": 2,
           "raw_unit": "λι",
           "normalized_unit": "litra",
           "certainty": "uncertain",
           "notes": [
-            "Greek numeral parsed as 12; unit abbreviation unresolved."
+            "Greek numeral parsed as 12; unit abbreviation unresolved.",
+            "Corrected by normalize_quantities.py: raw_number 'ιβ'→'β', normalized_number 12→2 (rule λιστ.=λι+στ, στ=6)."
           ]
         }
       ],
@@ -638,13 +642,14 @@
       "quantities": [
         {
           "source_span": "λιδ.",
-          "raw_number": "ιδ",
-          "normalized_number": 14,
+          "raw_number": "δ",
+          "normalized_number": 4,
           "raw_unit": "λι",
           "normalized_unit": "litra",
           "certainty": "uncertain",
           "notes": [
-            "Greek numeral parsed as 14; unit abbreviation unresolved."
+            "Greek numeral parsed as 14; unit abbreviation unresolved.",
+            "Corrected by normalize_quantities.py: raw_number 'ιδ'→'δ', normalized_number 14→4 (rule λιστ.=λι+στ, στ=6)."
           ]
         }
       ],

@@ -226,7 +226,8 @@
           "certainty": "certain",
           "notes": [
             "Equal amount relative to the preceding seed quantity."
-          ]
+          ],
+          "descriptor_family": "same_as"
         }
       ],
       "qualifiers": [],

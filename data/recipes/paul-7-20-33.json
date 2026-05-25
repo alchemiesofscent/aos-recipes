@@ -673,7 +673,7 @@
           "source_span": "λι. ι",
           "raw_number": "ι",
           "normalized_number": 10,
-          "raw_unit": "λι.",
+          "raw_unit": "λι",
           "normalized_unit": "litra",
           "certainty": "certain",
           "notes": []
@@ -1125,7 +1125,8 @@
           "raw_unit": null,
           "normalized_unit": "descriptor",
           "certainty": "certain",
-          "notes": []
+          "notes": [],
+          "descriptor_family": "as_much_as"
         }
       ],
       "qualifiers": [
@@ -1437,7 +1438,8 @@
           "raw_unit": null,
           "normalized_unit": "descriptor",
           "certainty": "certain",
-          "notes": []
+          "notes": [],
+          "descriptor_family": "as_much_as"
         }
       ],
       "qualifiers": [],
@@ -1669,9 +1671,10 @@
           "raw_number": "τρὶς",
           "normalized_number": 3,
           "raw_unit": null,
-          "normalized_unit": null,
+          "normalized_unit": "descriptor",
           "certainty": "certain",
-          "notes": []
+          "notes": [],
+          "descriptor_family": "multiple:three"
         }
       ],
       "qualifiers": [

@@ -527,7 +527,8 @@
           "raw_unit": null,
           "normalized_unit": "descriptor",
           "certainty": "certain",
-          "notes": []
+          "notes": [],
+          "descriptor_family": "many"
         }
       ],
       "qualifiers": [],

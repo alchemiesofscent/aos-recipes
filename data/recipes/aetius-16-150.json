@@ -170,9 +170,9 @@
       "quantities": [
         {
           "source_span": "γογ.",
-          "raw_number": null,
-          "normalized_number": null,
-          "raw_unit": "γογ.",
+          "raw_number": "γ",
+          "normalized_number": 3,
+          "raw_unit": "γο",
           "normalized_unit": "uncia",
           "certainty": "uncertain",
           "notes": [
@@ -205,9 +205,9 @@
       "quantities": [
         {
           "source_span": "γογ.",
-          "raw_number": null,
-          "normalized_number": null,
-          "raw_unit": "γογ.",
+          "raw_number": "γ",
+          "normalized_number": 3,
+          "raw_unit": "γο",
           "normalized_unit": "uncia",
           "certainty": "uncertain",
           "notes": [
@@ -240,9 +240,9 @@
       "quantities": [
         {
           "source_span": "γογ.",
-          "raw_number": null,
-          "normalized_number": null,
-          "raw_unit": "γογ.",
+          "raw_number": "γ",
+          "normalized_number": 3,
+          "raw_unit": "γο",
           "normalized_unit": "uncia",
           "certainty": "uncertain",
           "notes": [
@@ -275,9 +275,9 @@
       "quantities": [
         {
           "source_span": "γογ.",
-          "raw_number": null,
-          "normalized_number": null,
-          "raw_unit": "γογ.",
+          "raw_number": "γ",
+          "normalized_number": 3,
+          "raw_unit": "γο",
           "normalized_unit": "uncia",
           "certainty": "uncertain",
           "notes": [
@@ -310,9 +310,9 @@
       "quantities": [
         {
           "source_span": "γογ.",
-          "raw_number": null,
-          "normalized_number": null,
-          "raw_unit": "γογ.",
+          "raw_number": "γ",
+          "normalized_number": 3,
+          "raw_unit": "γο",
           "normalized_unit": "uncia",
           "certainty": "uncertain",
           "notes": [
@@ -345,9 +345,9 @@
       "quantities": [
         {
           "source_span": "γογ.",
-          "raw_number": null,
-          "normalized_number": null,
-          "raw_unit": "γογ.",
+          "raw_number": "γ",
+          "normalized_number": 3,
+          "raw_unit": "γο",
           "normalized_unit": "uncia",
           "certainty": "uncertain",
           "notes": [
@@ -380,9 +380,9 @@
       "quantities": [
         {
           "source_span": "γογ.",
-          "raw_number": null,
-          "normalized_number": null,
-          "raw_unit": "γογ.",
+          "raw_number": "γ",
+          "normalized_number": 3,
+          "raw_unit": "γο",
           "normalized_unit": "uncia",
           "certainty": "uncertain",
           "notes": [
@@ -415,9 +415,9 @@
       "quantities": [
         {
           "source_span": "γογ.",
-          "raw_number": null,
-          "normalized_number": null,
-          "raw_unit": "γογ.",
+          "raw_number": "γ",
+          "normalized_number": 3,
+          "raw_unit": "γο",
           "normalized_unit": "uncia",
           "certainty": "uncertain",
           "notes": [
@@ -450,9 +450,9 @@
       "quantities": [
         {
           "source_span": "γογ.",
-          "raw_number": null,
-          "normalized_number": null,
-          "raw_unit": "γογ.",
+          "raw_number": "γ",
+          "normalized_number": 3,
+          "raw_unit": "γο",
           "normalized_unit": "uncia",
           "certainty": "uncertain",
           "notes": [
@@ -485,9 +485,9 @@
       "quantities": [
         {
           "source_span": "γογ.",
-          "raw_number": null,
-          "normalized_number": null,
-          "raw_unit": "γογ.",
+          "raw_number": "γ",
+          "normalized_number": 3,
+          "raw_unit": "γο",
           "normalized_unit": "uncia",
           "certainty": "uncertain",
           "notes": [
@@ -520,9 +520,9 @@
       "quantities": [
         {
           "source_span": "γοδ.",
-          "raw_number": null,
-          "normalized_number": null,
-          "raw_unit": "γοδ.",
+          "raw_number": "δ",
+          "normalized_number": 4,
+          "raw_unit": "γο",
           "normalized_unit": "uncia",
           "certainty": "uncertain",
           "notes": [
@@ -555,9 +555,9 @@
       "quantities": [
         {
           "source_span": "γοδ.",
-          "raw_number": null,
-          "normalized_number": null,
-          "raw_unit": "γοδ.",
+          "raw_number": "δ",
+          "normalized_number": 4,
+          "raw_unit": "γο",
           "normalized_unit": "uncia",
           "certainty": "uncertain",
           "notes": [
@@ -590,9 +590,9 @@
       "quantities": [
         {
           "source_span": "γοδ.",
-          "raw_number": null,
-          "normalized_number": null,
-          "raw_unit": "γοδ.",
+          "raw_number": "δ",
+          "normalized_number": 4,
+          "raw_unit": "γο",
           "normalized_unit": "uncia",
           "certainty": "uncertain",
           "notes": [
@@ -625,9 +625,9 @@
       "quantities": [
         {
           "source_span": "γοβ.",
-          "raw_number": null,
-          "normalized_number": null,
-          "raw_unit": "γοβ.",
+          "raw_number": "β",
+          "normalized_number": 2,
+          "raw_unit": "γο",
           "normalized_unit": "uncia",
           "certainty": "uncertain",
           "notes": [
@@ -660,9 +660,9 @@
       "quantities": [
         {
           "source_span": "γοστ.",
-          "raw_number": null,
-          "normalized_number": null,
-          "raw_unit": "γοστ.",
+          "raw_number": "στ",
+          "normalized_number": 6,
+          "raw_unit": "γο",
           "normalized_unit": "uncia",
           "certainty": "uncertain",
           "notes": [
@@ -695,9 +695,9 @@
       "quantities": [
         {
           "source_span": "γοστ.",
-          "raw_number": null,
-          "normalized_number": null,
-          "raw_unit": "γοστ.",
+          "raw_number": "στ",
+          "normalized_number": 6,
+          "raw_unit": "γο",
           "normalized_unit": "uncia",
           "certainty": "uncertain",
           "notes": [
@@ -730,13 +730,14 @@
       "quantities": [
         {
           "source_span": "λια.",
-          "raw_number": null,
-          "normalized_number": null,
-          "raw_unit": "λια.",
+          "raw_number": "α",
+          "normalized_number": 1,
+          "raw_unit": "λι",
           "normalized_unit": "litra",
           "certainty": "uncertain",
           "notes": [
-            "Abbreviated quantity not expanded."
+            "Abbreviated quantity not expanded.",
+            "Corrected by normalize_quantities.py: raw_number None→'α', normalized_number None→1 (rule λιστ.=λι+στ, στ=6)."
           ]
         }
       ],
@@ -765,13 +766,14 @@
       "quantities": [
         {
           "source_span": "λια.",
-          "raw_number": null,
-          "normalized_number": null,
-          "raw_unit": "λια.",
+          "raw_number": "α",
+          "normalized_number": 1,
+          "raw_unit": "λι",
           "normalized_unit": "litra",
           "certainty": "uncertain",
           "notes": [
-            "Abbreviated quantity not expanded."
+            "Abbreviated quantity not expanded.",
+            "Corrected by normalize_quantities.py: raw_number None→'α', normalized_number None→1 (rule λιστ.=λι+στ, στ=6)."
           ]
         }
       ],
@@ -800,13 +802,14 @@
       "quantities": [
         {
           "source_span": "λιβ.",
-          "raw_number": null,
-          "normalized_number": null,
-          "raw_unit": "λιβ.",
+          "raw_number": "β",
+          "normalized_number": 2,
+          "raw_unit": "λι",
           "normalized_unit": "litra",
           "certainty": "uncertain",
           "notes": [
-            "Abbreviated quantity not expanded."
+            "Abbreviated quantity not expanded.",
+            "Corrected by normalize_quantities.py: raw_number None→'β', normalized_number None→2 (rule λιστ.=λι+στ, στ=6)."
           ]
         }
       ],
@@ -842,7 +845,8 @@
           "certainty": "certain",
           "notes": [
             "Shared sufficiency phrase with the paired liquid ingredient."
-          ]
+          ],
+          "descriptor_family": "as_much_as"
         }
       ],
       "qualifiers": [],
@@ -877,7 +881,8 @@
           "certainty": "certain",
           "notes": [
             "Shared sufficiency phrase with the paired liquid ingredient."
-          ]
+          ],
+          "descriptor_family": "as_much_as"
         }
       ],
       "qualifiers": [],

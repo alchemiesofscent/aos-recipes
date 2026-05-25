@@ -224,7 +224,7 @@
           "source_span": "λι. ε",
           "raw_number": "ε",
           "normalized_number": 5,
-          "raw_unit": "λι.",
+          "raw_unit": "λι",
           "normalized_unit": "litra",
           "certainty": "certain",
           "notes": []
@@ -261,7 +261,7 @@
           "source_span": "λι. ι",
           "raw_number": "ι",
           "normalized_number": 10,
-          "raw_unit": "λι.",
+          "raw_unit": "λι",
           "normalized_unit": "litra",
           "certainty": "certain",
           "notes": []
@@ -298,7 +298,7 @@
           "source_span": "λι. ε",
           "raw_number": "ε",
           "normalized_number": 5,
-          "raw_unit": "λι.",
+          "raw_unit": "λι",
           "normalized_unit": "litra",
           "certainty": "certain",
           "notes": []
@@ -335,7 +335,7 @@
           "source_span": "λι. ζ",
           "raw_number": "ζ",
           "normalized_number": 7,
-          "raw_unit": "λι.",
+          "raw_unit": "λι",
           "normalized_unit": "litra",
           "certainty": "certain",
           "notes": []
@@ -370,7 +370,7 @@
           "source_span": "λι. ε",
           "raw_number": "ε",
           "normalized_number": 5,
-          "raw_unit": "λι.",
+          "raw_unit": "λι",
           "normalized_unit": "litra",
           "certainty": "certain",
           "notes": []
@@ -407,7 +407,7 @@
           "source_span": "λι. η",
           "raw_number": "η",
           "normalized_number": 8,
-          "raw_unit": "λι.",
+          "raw_unit": "λι",
           "normalized_unit": "litra",
           "certainty": "certain",
           "notes": []
@@ -442,7 +442,7 @@
           "source_span": "λι. γ",
           "raw_number": "γ",
           "normalized_number": 3,
-          "raw_unit": "λι.",
+          "raw_unit": "λι",
           "normalized_unit": "litra",
           "certainty": "certain",
           "notes": []
@@ -479,7 +479,7 @@
           "source_span": "λι. α",
           "raw_number": "α",
           "normalized_number": 1,
-          "raw_unit": "λι.",
+          "raw_unit": "λι",
           "normalized_unit": "litra",
           "certainty": "certain",
           "notes": []

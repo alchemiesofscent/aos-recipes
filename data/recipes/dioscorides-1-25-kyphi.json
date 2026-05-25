@@ -159,12 +159,14 @@
       "quantities": [
         {
           "source_span": "ἡμίξεστον",
-          "raw_number": "ἡμί",
-          "normalized_number": 0.5,
-          "raw_unit": "ξεστον",
+          "raw_number": "στον",
+          "normalized_number": 126,
+          "raw_unit": "ξε",
           "normalized_unit": "xestes",
           "certainty": "certain",
-          "notes": []
+          "notes": [
+            "Corrected by normalize_quantities.py (rule ξε+numeral): raw_number 'ἡμί'→'στον', normalized_number 0.5→126."
+          ]
         }
       ],
       "qualifiers": [],
@@ -199,7 +201,8 @@
           "certainty": "certain",
           "notes": [
             "Same quantity as the immediately preceding κυπέρου ἡμίξεστον."
-          ]
+          ],
+          "descriptor_family": "same_as"
         }
       ],
       "qualifiers": [

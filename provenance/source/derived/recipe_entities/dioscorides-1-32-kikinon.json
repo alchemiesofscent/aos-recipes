@@ -146,11 +146,12 @@
           "raw_number": null,
           "normalized_number": null,
           "raw_unit": null,
-          "normalized_unit": null,
+          "normalized_unit": "descriptor",
           "certainty": "uncertain",
           "notes": [
             "indefinite amount"
-          ]
+          ],
+          "descriptor_family": "as_much_as"
         }
       ],
       "qualifiers": [],

@@ -183,7 +183,8 @@
           "certainty": "certain",
           "notes": [
             "Qualitative amount."
-          ]
+          ],
+          "descriptor_family": "a_little"
         }
       ],
       "qualifiers": [],

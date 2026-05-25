@@ -147,9 +147,9 @@
       "quantities": [
         {
           "source_span": "γοη.",
-          "raw_number": null,
-          "normalized_number": null,
-          "raw_unit": null,
+          "raw_number": "η",
+          "normalized_number": 8,
+          "raw_unit": "γο",
           "normalized_unit": "uncia",
           "certainty": "uncertain",
           "notes": [
@@ -185,9 +185,9 @@
       "quantities": [
         {
           "source_span": "γοη.",
-          "raw_number": null,
-          "normalized_number": null,
-          "raw_unit": null,
+          "raw_number": "η",
+          "normalized_number": 8,
+          "raw_unit": "γο",
           "normalized_unit": "uncia",
           "certainty": "uncertain",
           "notes": [
@@ -257,10 +257,10 @@
       "quantities": [
         {
           "source_span": "ξεα.",
-          "raw_number": null,
-          "normalized_number": null,
-          "raw_unit": null,
-          "normalized_unit": null,
+          "raw_number": "α",
+          "normalized_number": 1,
+          "raw_unit": "ξε",
+          "normalized_unit": "xestes",
           "certainty": "uncertain",
           "notes": [
             "Unresolved abbreviated quantity expression."

@@ -290,7 +290,7 @@
           "source_span": "λι. ε",
           "raw_number": "ε",
           "normalized_number": 5,
-          "raw_unit": "λι.",
+          "raw_unit": "λι",
           "normalized_unit": "litra",
           "certainty": "certain",
           "notes": []
@@ -358,7 +358,7 @@
           "source_span": "λι. γ",
           "raw_number": "γ",
           "normalized_number": 3,
-          "raw_unit": "λι.",
+          "raw_unit": "λι",
           "normalized_unit": "litra",
           "certainty": "certain",
           "notes": []
@@ -394,7 +394,7 @@
           "source_span": "λι. ι",
           "raw_number": "ι",
           "normalized_number": 10,
-          "raw_unit": "λι.",
+          "raw_unit": "λι",
           "normalized_unit": "litra",
           "certainty": "certain",
           "notes": []
@@ -535,11 +535,12 @@
           "raw_number": "τὸ διπλοῦν",
           "normalized_number": "2x",
           "raw_unit": null,
-          "normalized_unit": null,
+          "normalized_unit": "descriptor",
           "certainty": "uncertain",
           "notes": [
             "Relative substitute amount in place of κινάμωμον."
-          ]
+          ],
+          "descriptor_family": "multiple:two"
         }
       ],
       "qualifiers": [],
@@ -639,18 +640,17 @@
       "normalized_label": "διαιρεῖν",
       "target_type": "recipe",
       "target_ids": [],
-      "quantities": [
+      "quantities": [],
+      "qualifiers": [
         {
+          "qualifier_type": "application_form",
           "source_span": "τρεῖς ἐμβολὰς",
-          "raw_number": "τρεῖς",
-          "normalized_number": 3,
-          "raw_unit": "ἐμβολὰς",
-          "normalized_unit": null,
+          "normalized_value": "infusion",
+          "count": 3,
           "certainty": "certain",
           "notes": []
         }
       ],
-      "qualifiers": [],
       "certainty": "certain",
       "notes": [],
       "host_locator": {
@@ -936,9 +936,10 @@
           "raw_number": "τρίτον",
           "normalized_number": "1/3",
           "raw_unit": "μέρος",
-          "normalized_unit": null,
+          "normalized_unit": "descriptor",
           "certainty": "certain",
-          "notes": []
+          "notes": [],
+          "descriptor_family": "fraction:third"
         }
       ],
       "qualifiers": [],
@@ -1002,11 +1003,12 @@
           "raw_number": "τρίτον",
           "normalized_number": "1/3",
           "raw_unit": null,
-          "normalized_unit": null,
+          "normalized_unit": "descriptor",
           "certainty": "uncertain",
           "notes": [
             "Implied partitive unit carried over from τὸ τρίτον μέρος."
-          ]
+          ],
+          "descriptor_family": "fraction:third"
         }
       ],
       "qualifiers": [],
@@ -1129,11 +1131,12 @@
           "raw_number": "τρίτον",
           "normalized_number": "1/3",
           "raw_unit": null,
-          "normalized_unit": null,
+          "normalized_unit": "descriptor",
           "certainty": "uncertain",
           "notes": [
             "Implied partitive unit carried over from τὸ τρίτον μέρος."
-          ]
+          ],
+          "descriptor_family": "fraction:third"
         }
       ],
       "qualifiers": [

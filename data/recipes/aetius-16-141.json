@@ -307,7 +307,7 @@
           "raw_number": "ν",
           "normalized_number": 50,
           "raw_unit": null,
-          "normalized_unit": null,
+          "normalized_unit": "count",
           "certainty": "certain",
           "notes": [
             "A standalone numeral gives the count of the figs."

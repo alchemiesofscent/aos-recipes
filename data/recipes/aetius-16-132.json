@@ -494,7 +494,8 @@
           "certainty": "certain",
           "notes": [
             "Sufficiency quantity."
-          ]
+          ],
+          "descriptor_family": "as_much_as"
         }
       ],
       "qualifiers": [],

@@ -423,7 +423,7 @@
           "source_span": "λι. α",
           "raw_number": "α",
           "normalized_number": 1,
-          "raw_unit": "λι.",
+          "raw_unit": "λι",
           "normalized_unit": "litra",
           "certainty": "certain",
           "notes": []
@@ -456,7 +456,7 @@
           "source_span": "λι. γ",
           "raw_number": "γ",
           "normalized_number": 3,
-          "raw_unit": "λι.",
+          "raw_unit": "λι",
           "normalized_unit": "litra",
           "certainty": "certain",
           "notes": []

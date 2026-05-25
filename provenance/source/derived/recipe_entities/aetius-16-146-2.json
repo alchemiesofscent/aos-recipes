@@ -168,7 +168,7 @@
           "source_span": "λιαζʹ",
           "raw_number": null,
           "normalized_number": null,
-          "raw_unit": "λιαζʹ",
+          "raw_unit": "λι",
           "normalized_unit": "litra",
           "certainty": "uncertain",
           "notes": [
@@ -212,14 +212,15 @@
       "quantities": [
         {
           "source_span": "λια.",
-          "raw_number": null,
-          "normalized_number": null,
-          "raw_unit": "λια.",
+          "raw_number": "α",
+          "normalized_number": 1,
+          "raw_unit": "λι",
           "normalized_unit": "litra",
           "certainty": "uncertain",
           "notes": [
             "Shared distributive measure under ἀνὰ.",
-            "Abbreviated measure left unresolved."
+            "Abbreviated measure left unresolved.",
+            "Corrected by normalize_quantities.py: raw_number None→'α', normalized_number None→1 (rule λιστ.=λι+στ, στ=6)."
           ]
         }
       ],
@@ -248,14 +249,15 @@
       "quantities": [
         {
           "source_span": "λια.",
-          "raw_number": null,
-          "normalized_number": null,
-          "raw_unit": "λια.",
+          "raw_number": "α",
+          "normalized_number": 1,
+          "raw_unit": "λι",
           "normalized_unit": "litra",
           "certainty": "uncertain",
           "notes": [
             "Shared distributive measure under ἀνὰ.",
-            "Abbreviated measure left unresolved."
+            "Abbreviated measure left unresolved.",
+            "Corrected by normalize_quantities.py: raw_number None→'α', normalized_number None→1 (rule λιστ.=λι+στ, στ=6)."
           ]
         }
       ],
@@ -292,14 +294,15 @@
       "quantities": [
         {
           "source_span": "λια.",
-          "raw_number": null,
-          "normalized_number": null,
-          "raw_unit": "λια.",
+          "raw_number": "α",
+          "normalized_number": 1,
+          "raw_unit": "λι",
           "normalized_unit": "litra",
           "certainty": "uncertain",
           "notes": [
             "Shared distributive measure under ἀνὰ.",
-            "Abbreviated measure left unresolved."
+            "Abbreviated measure left unresolved.",
+            "Corrected by normalize_quantities.py: raw_number None→'α', normalized_number None→1 (rule λιστ.=λι+στ, στ=6)."
           ]
         }
       ],
@@ -328,14 +331,15 @@
       "quantities": [
         {
           "source_span": "λιβ.",
-          "raw_number": null,
-          "normalized_number": null,
-          "raw_unit": "λιβ.",
+          "raw_number": "β",
+          "normalized_number": 2,
+          "raw_unit": "λι",
           "normalized_unit": "litra",
           "certainty": "uncertain",
           "notes": [
             "Shared distributive measure under ἀνὰ.",
-            "Unit expansion is probable but abbreviated."
+            "Unit expansion is probable but abbreviated.",
+            "Corrected by normalize_quantities.py: raw_number None→'β', normalized_number None→2 (rule λιστ.=λι+στ, στ=6)."
           ]
         }
       ],
@@ -364,14 +368,15 @@
       "quantities": [
         {
           "source_span": "λιβ.",
-          "raw_number": null,
-          "normalized_number": null,
-          "raw_unit": "λιβ.",
+          "raw_number": "β",
+          "normalized_number": 2,
+          "raw_unit": "λι",
           "normalized_unit": "litra",
           "certainty": "uncertain",
           "notes": [
             "Shared distributive measure under ἀνὰ.",
-            "Unit expansion is probable but abbreviated."
+            "Unit expansion is probable but abbreviated.",
+            "Corrected by normalize_quantities.py: raw_number None→'β', normalized_number None→2 (rule λιστ.=λι+στ, στ=6)."
           ]
         }
       ],
@@ -402,7 +407,7 @@
           "source_span": "λιαζʹ",
           "raw_number": null,
           "normalized_number": null,
-          "raw_unit": "λιαζʹ",
+          "raw_unit": "λι",
           "normalized_unit": "litra",
           "certainty": "uncertain",
           "notes": [
@@ -435,14 +440,15 @@
       "quantities": [
         {
           "source_span": "λιδ.",
-          "raw_number": null,
-          "normalized_number": null,
-          "raw_unit": "λιδ.",
+          "raw_number": "δ",
+          "normalized_number": 4,
+          "raw_unit": "λι",
           "normalized_unit": "litra",
           "certainty": "uncertain",
           "notes": [
             "Shared distributive measure under ἀνὰ.",
-            "Abbreviated measure left unresolved."
+            "Abbreviated measure left unresolved.",
+            "Corrected by normalize_quantities.py: raw_number None→'δ', normalized_number None→4 (rule λιστ.=λι+στ, στ=6)."
           ]
         }
       ],
@@ -473,14 +479,15 @@
       "quantities": [
         {
           "source_span": "λιδ.",
-          "raw_number": null,
-          "normalized_number": null,
-          "raw_unit": "λιδ.",
+          "raw_number": "δ",
+          "normalized_number": 4,
+          "raw_unit": "λι",
           "normalized_unit": "litra",
           "certainty": "uncertain",
           "notes": [
             "Shared distributive measure under ἀνὰ.",
-            "Abbreviated measure left unresolved."
+            "Abbreviated measure left unresolved.",
+            "Corrected by normalize_quantities.py: raw_number None→'δ', normalized_number None→4 (rule λιστ.=λι+στ, στ=6)."
           ]
         }
       ],
@@ -509,13 +516,14 @@
       "quantities": [
         {
           "source_span": "λια.",
-          "raw_number": null,
-          "normalized_number": null,
-          "raw_unit": "λια.",
+          "raw_number": "α",
+          "normalized_number": 1,
+          "raw_unit": "λι",
           "normalized_unit": "litra",
           "certainty": "uncertain",
           "notes": [
-            "Abbreviated measure left unresolved."
+            "Abbreviated measure left unresolved.",
+            "Corrected by normalize_quantities.py: raw_number None→'α', normalized_number None→1 (rule λιστ.=λι+στ, στ=6)."
           ]
         }
       ],
@@ -544,9 +552,9 @@
       "quantities": [
         {
           "source_span": "γοη.",
-          "raw_number": null,
-          "normalized_number": null,
-          "raw_unit": "γοη.",
+          "raw_number": "η",
+          "normalized_number": 8,
+          "raw_unit": "γο",
           "normalized_unit": "uncia",
           "certainty": "uncertain",
           "notes": [
@@ -579,9 +587,9 @@
       "quantities": [
         {
           "source_span": "γοστ.",
-          "raw_number": null,
-          "normalized_number": null,
-          "raw_unit": "γοστ.",
+          "raw_number": "στ",
+          "normalized_number": 6,
+          "raw_unit": "γο",
           "normalized_unit": "uncia",
           "certainty": "uncertain",
           "notes": [
@@ -614,9 +622,9 @@
       "quantities": [
         {
           "source_span": "γοστ.",
-          "raw_number": null,
-          "normalized_number": null,
-          "raw_unit": "γοστ.",
+          "raw_number": "στ",
+          "normalized_number": 6,
+          "raw_unit": "γο",
           "normalized_unit": "uncia",
           "certainty": "uncertain",
           "notes": [
@@ -649,13 +657,14 @@
       "quantities": [
         {
           "source_span": "λιβ.",
-          "raw_number": null,
-          "normalized_number": null,
-          "raw_unit": "λιβ.",
+          "raw_number": "β",
+          "normalized_number": 2,
+          "raw_unit": "λι",
           "normalized_unit": "litra",
           "certainty": "uncertain",
           "notes": [
-            "Unit expansion is probable but abbreviated."
+            "Unit expansion is probable but abbreviated.",
+            "Corrected by normalize_quantities.py: raw_number None→'β', normalized_number None→2 (rule λιστ.=λι+στ, στ=6)."
           ]
         }
       ],
@@ -684,13 +693,14 @@
       "quantities": [
         {
           "source_span": "λιε.",
-          "raw_number": null,
-          "normalized_number": null,
-          "raw_unit": "λιε.",
+          "raw_number": "ε",
+          "normalized_number": 5,
+          "raw_unit": "λι",
           "normalized_unit": "litra",
           "certainty": "uncertain",
           "notes": [
-            "Abbreviated measure left unresolved."
+            "Abbreviated measure left unresolved.",
+            "Corrected by normalize_quantities.py: raw_number None→'ε', normalized_number None→5 (rule λιστ.=λι+στ, στ=6)."
           ]
         }
       ],
@@ -719,13 +729,14 @@
       "quantities": [
         {
           "source_span": "λιβ.",
-          "raw_number": null,
-          "normalized_number": null,
-          "raw_unit": "λιβ.",
+          "raw_number": "β",
+          "normalized_number": 2,
+          "raw_unit": "λι",
           "normalized_unit": "litra",
           "certainty": "uncertain",
           "notes": [
-            "Unit expansion is probable but abbreviated."
+            "Unit expansion is probable but abbreviated.",
+            "Corrected by normalize_quantities.py: raw_number None→'β', normalized_number None→2 (rule λιστ.=λι+στ, στ=6)."
           ]
         }
       ],
@@ -754,9 +765,9 @@
       "quantities": [
         {
           "source_span": "γοδ.",
-          "raw_number": null,
-          "normalized_number": null,
-          "raw_unit": "γοδ.",
+          "raw_number": "δ",
+          "normalized_number": 4,
+          "raw_unit": "γο",
           "normalized_unit": "uncia",
           "certainty": "uncertain",
           "notes": [
@@ -792,9 +803,9 @@
       "quantities": [
         {
           "source_span": "γοδ.",
-          "raw_number": null,
-          "normalized_number": null,
-          "raw_unit": "γοδ.",
+          "raw_number": "δ",
+          "normalized_number": 4,
+          "raw_unit": "γο",
           "normalized_unit": "uncia",
           "certainty": "uncertain",
           "notes": [
