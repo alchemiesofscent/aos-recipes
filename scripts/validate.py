@@ -15,6 +15,41 @@ EXPECTED_COUNTS = {
     "paul_book7_perfumes": 35,
 }
 FORBIDDEN = ("parallel-viewer", "experiments/.codex", "__pycache__")
+CONCRETE_PROCESS_RAW_UNIT_HINTS = (
+    "𐆄",
+    "οὐγγ",
+    "κοτύλ",
+    "κυάθ",
+    "λίτρ",
+    "ξέστ",
+    "ξέστ",
+    "xestes",
+    "cotyle",
+    "cyathos",
+    "litra",
+    "uncia",
+)
+
+
+def quantity_haystack(payload: dict) -> str:
+    return " ".join(value for value in (payload.get("text"), payload.get("original_text")) if value)
+
+
+def quantity_source_anchored(payload: dict, quantity: dict) -> bool:
+    source_span = quantity.get("source_span") or ""
+    return bool(source_span) and source_span in quantity_haystack(payload)
+
+
+def concrete_process_quantity(quantity: dict) -> bool:
+    normalized_unit = quantity.get("normalized_unit")
+    if normalized_unit and normalized_unit != "descriptor":
+        return True
+    raw = " ".join(
+        value
+        for value in (quantity.get("raw_unit"), quantity.get("source_span"))
+        if value
+    )
+    return any(hint in raw for hint in CONCRETE_PROCESS_RAW_UNIT_HINTS)
 
 
 def load(path: Path):
@@ -80,6 +115,10 @@ def main() -> int:
                     raw_unit = q.get("raw_unit") or ""
                     source_span = q.get("source_span") or ""
                     norm = q.get("normalized_unit")
+                    if not quantity_source_anchored(file_payload, q):
+                        fail(f"{recipe_id}: quantity source_span not found in text/original_text: {q}")
+                    if host == "processes" and item.get("target_type") == "ingredient" and concrete_process_quantity(q):
+                        fail(f"{recipe_id}: ingredient-targeted process quantity should be on ingredient: {q}")
                     for prefix, expected_unit in ABBREV_UNIT_PREFIX.items():
                         if raw_unit.startswith(prefix) and norm != expected_unit:
                             fail(f"{recipe_id}: {prefix}-prefixed unit not normalized to {expected_unit}: {q}")

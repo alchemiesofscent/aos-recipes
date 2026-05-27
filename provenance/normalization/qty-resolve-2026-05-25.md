@@ -1,4 +1,4 @@
-# Quantity normalization pass — 2026-05-18
+# Quantity normalization pass — 2026-05-25
 
 Run by `scripts/normalize_quantities.py`. Deterministic post-processing; no LLM calls. Idempotent.
 
@@ -15,19 +15,19 @@ Run by `scripts/normalize_quantities.py`. Deterministic post-processing; no LLM 
 
 ## Counts
 
-- Rule 1 γο → uncia: filled **0**, corrected **0** entries.
-- Rule 1b ξε → xestes: filled **0**, corrected **0** entries.
-- Rule 1c λι → litra: filled **0**, corrected **0** entries.
-- Rule 8 manual count overrides: **0** entries; explanatory note added: **0** entries.
+- Rule 1 γο → uncia: filled **90**, corrected **9** entries.
+- Rule 1b ξε → xestes: filled **1**, corrected **1** entries.
+- Rule 1c λι → litra: filled **69**, corrected **10** entries.
+- Rule 8 manual count overrides: **3** entries; explanatory note added: **1** entries.
 - Cleanup (stale whitespace-only notes removed): **0** entries.
-- Rule 2 descriptor tagged: **0** entries (family newly set: **0**).
-- Rule 3 durations moved: **0** entries.
-- Rule 4 discrete units resolved: **0** entries.
+- Rule 2 descriptor tagged: **51** entries (family newly set: **51**).
+- Rule 3 durations moved: **8** entries.
+- Rule 4 discrete units resolved: **4** entries.
 - Rule 5 by-weight moved to qualifiers: **0** entries.
-- Rule 6 infusion moved to qualifiers: **0** entries.
-- Rule 7 relative-to tagged: **0** entries.
-- Canonical files rewritten: **0**.
-- Provenance mirrors rewritten: **0**.
+- Rule 6 infusion moved to qualifiers: **1** entries.
+- Rule 7 relative-to tagged: **1** entries.
+- Canonical files rewritten: **78**.
+- Provenance mirrors rewritten: **73**.
 
 ## Descriptor family distribution (post-pass)
 

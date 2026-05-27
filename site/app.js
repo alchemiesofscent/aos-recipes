@@ -81,7 +81,7 @@ function renderList() {
     recipeList.append(button);
   }
   counts.textContent = `${state.filtered.length} shown · ${state.recipes.length} recipes`;
-  searchClear.hidden = searchInput.value.length === 0;
+  if (searchClear) searchClear.hidden = searchInput.value.length === 0;
 }
 
 function chipItems(items) {
@@ -91,6 +91,104 @@ function chipItems(items) {
     .slice(0, 80)
     .map((text) => `<span class="chip">${escapeHtml(text)}</span>`)
     .join("");
+}
+
+const DESCRIPTOR_FAMILY_LABELS = {
+  same_as: "the same",
+  more_than: "more than",
+  less_than: "less than",
+  as_much_as: "as much as needed",
+  a_little: "a little",
+  many: "many",
+  "fraction:half": "½",
+  "fraction:third": "⅓",
+  "fraction:fourth": "¼",
+  part: "part(s)",
+  "multiple:two": "double",
+  "multiple:three": "triple",
+  relative_to: "relative to (preceding)",
+  quantity_unspecified: "(unspecified)",
+  unspecified: "—",
+};
+
+function unitDisplayName(unit) {
+  if (!unit) return "";
+  if (unit === "descriptor") return "";
+  return unit;
+}
+
+function descriptorFamilyLabel(family) {
+  if (!family) return "";
+  return DESCRIPTOR_FAMILY_LABELS[family] || family;
+}
+
+function entityLabel(item) {
+  return item.normalized_label || item.base_label || item.surface_form || item.source_span || "";
+}
+
+function formatQuantity(q) {
+  if (!q) return { qty: "", unit: "", source: "" };
+  const isDescriptor = q.normalized_unit === "descriptor";
+  const num = q.normalized_number;
+  let qty = "";
+  if (num !== null && num !== undefined && num !== "") qty = String(num);
+  if (isDescriptor) qty = qty || "";
+  if (q.certainty === "uncertain" && qty) {
+    qty = `${qty}<sup class="uncertainty-mark" title="Uncertain reading">?</sup>`;
+  }
+  const unit = isDescriptor ? descriptorFamilyLabel(q.descriptor_family) : unitDisplayName(q.normalized_unit);
+  const source = q.source_span || "";
+  return { qty, unit, source };
+}
+
+function formattedQuantityInline(q) {
+  const f = formatQuantity(q);
+  const left = [f.qty, f.unit].filter(Boolean).join(" ");
+  if (f.source && f.source !== left) return `${left} (${f.source})`.trim();
+  return left;
+}
+
+function renderEntityTable(items, { label = "Ingredient", showDuration = false } = {}) {
+  if (!items || !items.length) return "";
+  const headerCols = [label, "Qty", "Unit", "Source"];
+  if (showDuration) headerCols.push("Duration");
+  const headRow = headerCols.map((c) => `<th>${escapeHtml(c)}</th>`).join("");
+
+  const rows = items.map((item) => {
+    const name = entityLabel(item);
+    const qs = Array.isArray(item.quantities) ? item.quantities : [];
+    const primary = qs[0];
+    const f = primary ? formatQuantity(primary) : { qty: "", unit: "", source: "" };
+    let variantHtml = "";
+    if (qs.length > 1) {
+      const alts = qs.slice(1).map(formattedQuantityInline).filter(Boolean);
+      if (alts.length) {
+        variantHtml = `<small class="qty-variant">alt: ${escapeHtml(alts.join(" · "))}</small>`;
+      }
+    }
+    const cells = [
+      `<td class="col-name">${escapeHtml(name)}</td>`,
+      `<td class="col-qty">${f.qty}</td>`,
+      `<td class="col-unit">${escapeHtml(f.unit)}</td>`,
+      `<td class="col-source">${escapeHtml(f.source)}${variantHtml}</td>`,
+    ];
+    if (showDuration) {
+      const durations = Array.isArray(item.durations) ? item.durations : [];
+      const durText = durations.map(formattedQuantityInline).filter(Boolean).join(" · ");
+      cells.push(`<td class="col-duration">${escapeHtml(durText)}</td>`);
+    }
+    return `<tr>${cells.join("")}</tr>`;
+  }).join("");
+
+  return `<table class="entity-table"><thead><tr>${headRow}</tr></thead><tbody>${rows}</tbody></table>`;
+}
+
+function entitySection(title, html) {
+  return `<div class="section${html ? "" : " empty"}"><h3>${escapeHtml(title)}</h3>${html}</div>`;
+}
+
+function chipSection(title, html) {
+  return `<div class="section${html ? "" : " empty"}"><h3>${escapeHtml(title)}</h3><div class="chips">${html}</div></div>`;
 }
 
 function citationPagesText(citation) {
@@ -123,16 +221,18 @@ function renderDetail() {
   const authorWork = [recipe.author, recipe.work].filter(Boolean).join(" — ");
   const locator = locatorText(recipe);
   const pages = citationPagesText(recipe.citation);
-  const chipSections = [
-    ["Ingredients", chipItems(recipe.ingredients)],
-    ["Processes", chipItems(recipe.processes)],
-    ["Materials", chipItems(recipe.materials)],
-    ["Places and people", chipItems([...(recipe.places || []), ...(recipe.people || [])])],
-    ["Uses", chipItems(recipe.uses)],
-  ];
-  const sectionsHtml = chipSections
-    .map(([title, html]) => `<div class="section${html ? "" : " empty"}"><h3>${escapeHtml(title)}</h3><div class="chips">${html}</div></div>`)
-    .join("");
+  const ingredientsHtml = renderEntityTable(recipe.ingredients, { label: "Ingredient" });
+  const materialsHtml = renderEntityTable(recipe.materials, { label: "Material" });
+  const processesHtml = renderEntityTable(recipe.processes, { label: "Process", showDuration: true });
+  const placesPeopleChips = chipItems([...(recipe.places || []), ...(recipe.people || [])]);
+  const usesChips = chipItems(recipe.uses);
+  const sectionsHtml = [
+    entitySection("Ingredients", ingredientsHtml),
+    entitySection("Materials", materialsHtml),
+    entitySection("Processes", processesHtml),
+    chipSection("Places and people", placesPeopleChips),
+    chipSection("Uses", usesChips),
+  ].join("");
 
   detail.innerHTML = `
     <header class="detail-header">
@@ -219,7 +319,7 @@ function onSearchChange() {
       renderDetail();
     }
   }, 120);
-  searchClear.hidden = searchInput.value.length === 0;
+  if (searchClear) searchClear.hidden = searchInput.value.length === 0;
 }
 
 function applyTheme(theme) {
@@ -229,14 +329,17 @@ function applyTheme(theme) {
   } else {
     root.setAttribute("data-theme", theme);
   }
-  themeToggle.textContent = `Theme: ${theme}`;
-  themeToggle.title = `Theme: ${theme} (click to cycle)`;
+  if (themeToggle) {
+    themeToggle.textContent = `Theme: ${theme}`;
+    themeToggle.title = `Theme: ${theme} (click to cycle)`;
+  }
 }
 
 function initTheme() {
   const saved = localStorage.getItem("aos.theme");
   const theme = THEME_CYCLE.includes(saved) ? saved : "auto";
   applyTheme(theme);
+  if (!themeToggle) return;
   themeToggle.addEventListener("click", () => {
     const current = localStorage.getItem("aos.theme") || "auto";
     const idx = THEME_CYCLE.indexOf(current);
@@ -278,11 +381,13 @@ async function init() {
 
   searchInput.addEventListener("input", onSearchChange);
 
-  searchClear.addEventListener("click", () => {
-    searchInput.value = "";
-    onSearchChange();
-    searchInput.focus();
-  });
+  if (searchClear) {
+    searchClear.addEventListener("click", () => {
+      searchInput.value = "";
+      onSearchChange();
+      searchInput.focus();
+    });
+  }
 
   window.addEventListener("hashchange", () => {
     const target = recipeFromHash();

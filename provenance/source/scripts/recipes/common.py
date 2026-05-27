@@ -259,7 +259,9 @@ def infer_normalized_unit(*, raw_unit: str | None, source_span: str | None) -> s
         return "count"
     if not raw and span.isdigit():
         return "count"
-    if any("𐆄" in token for token in haystacks) or any(token.startswith("ουγ") for token in haystacks):
+    if any("𐆄" in token for token in haystacks) or any(
+        token.startswith("ουγ") or token.startswith("γο") for token in haystacks
+    ):
         return "uncia"
     if any("𐅻" in token for token in haystacks) or any(token.startswith("δραχμ") for token in haystacks):
         return "drachme"
@@ -270,7 +272,7 @@ def infer_normalized_unit(*, raw_unit: str | None, source_span: str | None) -> s
     if "ξ̸" in raw_original or "ξ̸" in span_original:
         return "xestes"
     if any("𐆅" in token for token in haystacks) or any(
-        "ξ̸" in token or "ξεστ" in token or token.startswith("ξστ") or token.startswith("ξστα")
+        "ξ̸" in token or "ξεστ" in token or token.startswith("ξστ") or token.startswith("ξστα") or token.startswith("ξε")
         for token in haystacks
     ):
         return "xestes"

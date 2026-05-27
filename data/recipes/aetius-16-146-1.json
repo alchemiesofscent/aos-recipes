@@ -143,12 +143,12 @@
     "entity_model_version": "1.2",
     "authority_version": "2026-04-13-qty-alt-v1",
     "prompt_version": "qty-alt-pass-v1",
-    "build_version": "2026-05-18T15:51:35Z"
+    "build_version": "2026-05-25T18:36:46Z"
   },
   "schema_version": "1.2",
   "build_metadata": {
     "builder": "scripts/recipes/build_recipe_entities.py",
-    "built_at": "2026-05-18T15:51:35Z",
+    "built_at": "2026-05-25T18:36:46Z",
     "source_structured_authority": "reports/entity_review/structured/aetius_book16.json",
     "authority_model": "gpt-5.4",
     "authority_reasoning_effort": "high",
@@ -156,7 +156,7 @@
     "entity_model_version": "1.2",
     "authority_version": "2026-04-13-qty-alt-v1",
     "prompt_version": "qty-alt-pass-v1",
-    "build_version": "2026-05-18T15:51:35Z"
+    "build_version": "2026-05-25T18:36:46Z"
   },
   "recipe_text_excerpt": "Κόστου λίτρ. δ ἤτοι δ. καὶ ἡμίσ. καρυοφύλλων λίτρ. θ. φύλλων λίτ. α καὶ ἡμίσ. ναρδοστάχυος τὸ αὐτό. κασάμου γοιδ",
   "preparation": {
@@ -1356,7 +1356,7 @@
         "entity_urn": "urn:aos:recipe-ingredient:aetius-16-146-1:ingredient:kasamon-5",
         "surface_form": "κασάμου",
         "normalized_label": "κάσαμον",
-        "quantity_display": "14 uncia"
+        "quantity_display": "14 uncia · 14 uncia"
       },
       {
         "entity_urn": "urn:aos:recipe-ingredient:aetius-16-146-1:ingredient:styrax-chymatios-6",
@@ -1374,31 +1374,31 @@
         "entity_urn": "urn:aos:recipe-ingredient:aetius-16-146-1:ingredient:krokos-trichinos-8",
         "surface_form": "κρόκου τριχίνου",
         "normalized_label": "κρόκος τριχῖνος",
-        "quantity_display": ""
+        "quantity_display": "10 uncia"
       },
       {
         "entity_urn": "urn:aos:recipe-ingredient:aetius-16-146-1:ingredient:ambaros-9",
         "surface_form": "ἄμβαρος",
         "normalized_label": "ἄμβαρος",
-        "quantity_display": ""
+        "quantity_display": "2 uncia"
       },
       {
         "entity_urn": "urn:aos:recipe-ingredient:aetius-16-146-1:ingredient:moschos-10",
         "surface_form": "μόσχου",
         "normalized_label": "μόσχος",
-        "quantity_display": ""
+        "quantity_display": "2 uncia"
       },
       {
         "entity_urn": "urn:aos:recipe-ingredient:aetius-16-146-1:ingredient:kostos-11",
         "surface_form": "κόστου",
         "normalized_label": "κόστος",
-        "quantity_display": ""
+        "quantity_display": "3 uncia"
       },
       {
         "entity_urn": "urn:aos:recipe-ingredient:aetius-16-146-1:ingredient:nardostachys-12",
         "surface_form": "ναρδοστάχυος",
         "normalized_label": "ναρδόσταχυς",
-        "quantity_display": ""
+        "quantity_display": "1 uncia"
       },
       {
         "entity_urn": "urn:aos:recipe-ingredient:aetius-16-146-1:ingredient:phyllon-13",
@@ -1422,19 +1422,19 @@
         "entity_urn": "urn:aos:recipe-ingredient:aetius-16-146-1:ingredient:aspron-16",
         "surface_form": "ἄσπρου",
         "normalized_label": "ἄσπρον",
-        "quantity_display": ""
+        "quantity_display": "2 uncia"
       },
       {
         "entity_urn": "urn:aos:recipe-ingredient:aetius-16-146-1:ingredient:styrax-17",
         "surface_form": "στύρακος",
         "normalized_label": "στύραξ",
-        "quantity_display": ""
+        "quantity_display": "2 uncia"
       },
       {
         "entity_urn": "urn:aos:recipe-ingredient:aetius-16-146-1:ingredient:chymation-proteion-18",
         "surface_form": "χυματίου πρωτείου",
         "normalized_label": "χυμάτιον πρωτεῖον",
-        "quantity_display": ""
+        "quantity_display": "5 uncia"
       },
       {
         "entity_urn": "urn:aos:recipe-ingredient:aetius-16-146-1:ingredient:krokos-trichinos-19",

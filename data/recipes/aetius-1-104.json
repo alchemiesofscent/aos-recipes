@@ -114,12 +114,12 @@
     "entity_model_version": "1.2",
     "authority_version": "2026-04-13-qty-alt-v1",
     "prompt_version": "qty-alt-pass-v1",
-    "build_version": "2026-05-18T15:51:35Z"
+    "build_version": "2026-05-25T18:36:46Z"
   },
   "schema_version": "1.2",
   "build_metadata": {
     "builder": "scripts/recipes/build_recipe_entities.py",
-    "built_at": "2026-05-18T15:51:35Z",
+    "built_at": "2026-05-25T18:36:46Z",
     "source_structured_authority": "reports/entity_review/structured/aetius_book1.json",
     "authority_model": "gpt-5.4",
     "authority_reasoning_effort": "high",
@@ -127,7 +127,7 @@
     "entity_model_version": "1.2",
     "authority_version": "2026-04-13-qty-alt-v1",
     "prompt_version": "qty-alt-pass-v1",
-    "build_version": "2026-05-18T15:51:35Z"
+    "build_version": "2026-05-25T18:36:46Z"
   },
   "recipe_text_excerpt": "Αἰγείρινον. Τὸ δὲ αἰγείρινον σκευάζεται ἐν τῷ ἔαρι, ὅτε πολλὴ περὶ τὸ σπερμάτιόν ἐστι ῥητίνη. λαβόντες γὰρ τοὺς κόκκους ἐνθλῶσιν",
   "preparation": {
@@ -166,7 +166,19 @@
         "aetius-1-104:process:istanai-4",
         "aetius-1-104:process:emballein-5"
       ],
-      "quantities": [],
+      "quantities": [
+        {
+          "source_span": "οὐγγίας δ",
+          "raw_number": "δ",
+          "normalized_number": 4,
+          "raw_unit": "οὐγγίας",
+          "normalized_unit": "uncia",
+          "certainty": "certain",
+          "notes": [
+            "Amount weighed refers to the previously mentioned grains."
+          ]
+        }
+      ],
       "qualifiers": [],
       "notes": [],
       "host_locator": {
@@ -324,19 +336,7 @@
       "target_ids": [
         "aetius-1-104:ingredient:kokkos-1"
       ],
-      "quantities": [
-        {
-          "source_span": "οὐγγίας δ",
-          "raw_number": "δ",
-          "normalized_number": 4,
-          "raw_unit": "οὐγγίας",
-          "normalized_unit": "uncia",
-          "certainty": "certain",
-          "notes": [
-            "Amount weighed refers to the previously mentioned grains."
-          ]
-        }
-      ],
+      "quantities": [],
       "qualifiers": [],
       "certainty": "uncertain",
       "notes": [

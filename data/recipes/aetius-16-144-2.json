@@ -102,12 +102,12 @@
     "entity_model_version": "1.2",
     "authority_version": "2026-04-13-qty-alt-v1",
     "prompt_version": "qty-alt-pass-v1",
-    "build_version": "2026-05-18T15:51:35Z"
+    "build_version": "2026-05-25T18:36:46Z"
   },
   "schema_version": "1.2",
   "build_metadata": {
     "builder": "scripts/recipes/build_recipe_entities.py",
-    "built_at": "2026-05-18T15:51:35Z",
+    "built_at": "2026-05-25T18:36:46Z",
     "source_structured_authority": "reports/entity_review/structured/aetius_book16.json",
     "authority_model": "gpt-5.4",
     "authority_reasoning_effort": "high",
@@ -115,7 +115,7 @@
     "entity_model_version": "1.2",
     "authority_version": "2026-04-13-qty-alt-v1",
     "prompt_version": "qty-alt-pass-v1",
-    "build_version": "2026-05-18T15:51:35Z"
+    "build_version": "2026-05-25T18:36:46Z"
   },
   "recipe_text_excerpt": "Φύλλου, κόστου, βρύου ἤτοι ὕπνου, ῥόδων ξηρῶν, ναρδοστάχυος, ἀνὰ γοα. κρόκου, ὀνύχων, καρυοφύλλου, ἀμώμου, κασίας ἀνὰ γράμματα ιβ. καρποβαλσάμου, βδελλίου",
   "preparation": {
@@ -827,37 +827,37 @@
         "entity_urn": "urn:aos:recipe-ingredient:aetius-16-144-2:ingredient:phyllon-1",
         "surface_form": "Φύλλου",
         "normalized_label": "φύλλον",
-        "quantity_display": ""
+        "quantity_display": "1 uncia"
       },
       {
         "entity_urn": "urn:aos:recipe-ingredient:aetius-16-144-2:ingredient:kostos-2",
         "surface_form": "κόστου",
         "normalized_label": "κόστος",
-        "quantity_display": ""
+        "quantity_display": "1 uncia"
       },
       {
         "entity_urn": "urn:aos:recipe-ingredient:aetius-16-144-2:ingredient:bryon-3",
         "surface_form": "βρύου",
         "normalized_label": "βρύον",
-        "quantity_display": ""
+        "quantity_display": "1 uncia"
       },
       {
         "entity_urn": "urn:aos:recipe-ingredient:aetius-16-144-2:ingredient:ypnos-4",
         "surface_form": "ὕπνου",
         "normalized_label": "ὕπνος",
-        "quantity_display": ""
+        "quantity_display": "1 uncia"
       },
       {
         "entity_urn": "urn:aos:recipe-ingredient:aetius-16-144-2:ingredient:roda-xera-5",
         "surface_form": "ῥόδων ξηρῶν",
         "normalized_label": "ῥόδα ξηρά",
-        "quantity_display": ""
+        "quantity_display": "1 uncia"
       },
       {
         "entity_urn": "urn:aos:recipe-ingredient:aetius-16-144-2:ingredient:nardostachys-6",
         "surface_form": "ναρδοστάχυος",
         "normalized_label": "ναρδόσταχυς",
-        "quantity_display": ""
+        "quantity_display": "1 uncia"
       },
       {
         "entity_urn": "urn:aos:recipe-ingredient:aetius-16-144-2:ingredient:krokos-7",

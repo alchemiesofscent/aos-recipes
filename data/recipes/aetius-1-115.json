@@ -144,12 +144,12 @@
     "entity_model_version": "1.2",
     "authority_version": "2026-04-13-qty-alt-v1",
     "prompt_version": "qty-alt-pass-v1",
-    "build_version": "2026-05-18T15:51:35Z"
+    "build_version": "2026-05-25T18:36:46Z"
   },
   "schema_version": "1.2",
   "build_metadata": {
     "builder": "scripts/recipes/build_recipe_entities.py",
-    "built_at": "2026-05-18T15:51:35Z",
+    "built_at": "2026-05-25T18:36:46Z",
     "source_structured_authority": "reports/entity_review/structured/aetius_book1.json",
     "authority_model": "gpt-5.4",
     "authority_reasoning_effort": "high",
@@ -157,7 +157,7 @@
     "entity_model_version": "1.2",
     "authority_version": "2026-04-13-qty-alt-v1",
     "prompt_version": "qty-alt-pass-v1",
-    "build_version": "2026-05-18T15:51:35Z"
+    "build_version": "2026-05-25T18:36:46Z"
   },
   "recipe_text_excerpt": "Ἀνήθινον γίνεται ἐκ τῆς κόμης τοῦ ἀνήθου χλωρᾶς ἔτι οὔσης, πρὶν ἢ τὸ σπερμάτιον στερεὸν γένηται καὶ δριμύ, ἀσύμφορον γὰρ",
   "preparation": {
@@ -241,7 +241,19 @@
         "aetius-1-115:process:apotemnein-2",
         "aetius-1-115:process:stesai-3"
       ],
-      "quantities": [],
+      "quantities": [
+        {
+          "source_span": "𐆄 α",
+          "raw_number": "α",
+          "normalized_number": 1,
+          "raw_unit": "𐆄",
+          "normalized_unit": "uncia",
+          "certainty": "uncertain",
+          "notes": [
+            "The symbol 𐆄 is interpreted as an ounce sign."
+          ]
+        }
+      ],
       "qualifiers": [
         {
           "qualifier_type": "other",
@@ -383,19 +395,7 @@
       "target_ids": [
         "aetius-1-115:ingredient:kalathiskoi-blaston-2"
       ],
-      "quantities": [
-        {
-          "source_span": "𐆄 α",
-          "raw_number": "α",
-          "normalized_number": 1,
-          "raw_unit": "𐆄",
-          "normalized_unit": "uncia",
-          "certainty": "uncertain",
-          "notes": [
-            "The symbol 𐆄 is interpreted as an ounce sign."
-          ]
-        }
-      ],
+      "quantities": [],
       "qualifiers": [],
       "certainty": "uncertain",
       "notes": [

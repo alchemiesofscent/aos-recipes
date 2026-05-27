@@ -743,6 +743,33 @@ def _source_anchored(span: str, *, lemma: str, text: str, source_haystack: str) 
     return bool(span) and (span in {lemma, text} or span in source_haystack)
 
 
+def _quantity_source_haystack(recipe_source: dict[str, Any]) -> str:
+    return " ".join(
+        value
+        for value in (recipe_source.get("text"), recipe_source.get("original_text"))
+        if value
+    )
+
+
+def _quantity_source_anchored(quantity: dict[str, Any], recipe_source: dict[str, Any]) -> bool:
+    span = quantity.get("source_span") or ""
+    return bool(span) and span in _quantity_source_haystack(recipe_source)
+
+
+def _concrete_process_quantity(quantity: dict[str, Any]) -> bool:
+    normalized_unit = quantity.get("normalized_unit")
+    inferred_unit = infer_normalized_unit(
+        raw_unit=quantity.get("raw_unit"),
+        source_span=quantity.get("source_span"),
+    )
+    unit = normalized_unit or inferred_unit
+    return bool(unit and unit != "descriptor")
+
+
+def _misplaced_ingredient_process_quantity(process: dict[str, Any], quantity: dict[str, Any]) -> bool:
+    return process.get("target_type") == "ingredient" and _concrete_process_quantity(quantity)
+
+
 def _label_contains_alias_formula(label: str) -> bool:
     lowered = label.lower()
     return any(
@@ -856,8 +883,10 @@ def _validate_record(recipe_source: dict[str, str], payload: dict[str, Any]) -> 
             errors.append(f"ingredient alternative missing alternative_set_id: {span}")
         ingredient_labels.extend([base, label, span])
         for quantity in item.get("quantities", []):
-            if quantity.get("source_span") and quantity["source_span"] not in source_haystack:
-                errors.append(f"ingredient quantity span not found in lemma/text: {quantity['source_span']}")
+            if not _quantity_source_anchored(quantity, recipe_source):
+                errors.append(
+                    f"ingredient quantity source_span not found in text/original_text: {quantity.get('source_span')}"
+                )
             if "ἀνὰ" in (quantity.get("source_span") or ""):
                 errors.append(f"ingredient quantity span must exclude distributive ἀνὰ: {quantity['source_span']}")
             normalized_unit = quantity.get("normalized_unit")
@@ -902,8 +931,10 @@ def _validate_record(recipe_source: dict[str, str], payload: dict[str, Any]) -> 
                 if target not in ingredient_labels:
                     errors.append(f"process target label not found in ingredients: {target}")
         for quantity in item.get("quantities", []):
-            if quantity.get("source_span") and quantity["source_span"] not in source_haystack:
-                errors.append(f"process quantity span not found in lemma/text: {quantity['source_span']}")
+            if not _quantity_source_anchored(quantity, recipe_source):
+                errors.append(
+                    f"process quantity source_span not found in text/original_text: {quantity.get('source_span')}"
+                )
             if "ἀνὰ" in (quantity.get("source_span") or ""):
                 errors.append(f"process quantity span must exclude distributive ἀνὰ: {quantity['source_span']}")
             normalized_unit = quantity.get("normalized_unit")
@@ -921,6 +952,10 @@ def _validate_record(recipe_source: dict[str, str], payload: dict[str, Any]) -> 
                 errors.append(
                     f"process quantity normalized_unit mismatch: expected {inferred_unit}, found {normalized_unit}"
                 )
+            if _misplaced_ingredient_process_quantity(item, quantity):
+                errors.append(
+                    f"ingredient-targeted process quantity should be on the ingredient: {quantity.get('source_span')}"
+                )
         for qualifier in item.get("qualifiers", []):
             if qualifier.get("source_span") and qualifier["source_span"] not in source_haystack:
                 errors.append(f"process qualifier span not found in lemma/text: {qualifier['source_span']}")
@@ -937,8 +972,10 @@ def _validate_record(recipe_source: dict[str, str], payload: dict[str, Any]) -> 
         elif not _shares_stem(span, label) and item.get("certainty") != "uncertain":
             errors.append(f"material normalized_label appears inferred rather than text-anchored: {label} <- {span}")
         for quantity in item.get("quantities", []):
-            if quantity.get("source_span") and quantity["source_span"] not in source_haystack:
-                errors.append(f"material quantity span not found in lemma/text: {quantity['source_span']}")
+            if not _quantity_source_anchored(quantity, recipe_source):
+                errors.append(
+                    f"material quantity source_span not found in text/original_text: {quantity.get('source_span')}"
+                )
             if "ἀνὰ" in (quantity.get("source_span") or ""):
                 errors.append(f"material quantity span must exclude distributive ἀνὰ: {quantity['source_span']}")
             normalized_unit = quantity.get("normalized_unit")
@@ -1007,6 +1044,9 @@ def _collect_quantity_unit_issues(
     use_allowlist: bool,
 ) -> tuple[list[dict[str, Any]], list[dict[str, Any]]]:
     allowed_units = normalized_unit_vocabulary()
+    quantity_haystack = " ".join(
+        value for value in (payload.get("text"), payload.get("original_text")) if value
+    )
     failures: list[dict[str, Any]] = []
     allowlisted: list[dict[str, Any]] = []
     for section in ("ingredients", "processes", "materials"):
@@ -1017,6 +1057,30 @@ def _collect_quantity_unit_issues(
                 raw_unit = quantity.get("raw_unit")
                 normalized_unit = quantity.get("normalized_unit")
                 inferred = infer_normalized_unit(raw_unit=raw_unit, source_span=quantity_span)
+                if not quantity_span or quantity_span not in quantity_haystack:
+                    failures.append(
+                        {
+                            "section": section,
+                            "item_source_span": item_span,
+                            "quantity_source_span": quantity_span,
+                            "raw_unit": raw_unit,
+                            "normalized_unit": normalized_unit,
+                            "issue": "unanchored_quantity_source_span",
+                            "expected": "text_or_original_text",
+                        }
+                    )
+                if section == "processes" and _misplaced_ingredient_process_quantity(item, quantity):
+                    failures.append(
+                        {
+                            "section": section,
+                            "item_source_span": item_span,
+                            "quantity_source_span": quantity_span,
+                            "raw_unit": raw_unit,
+                            "normalized_unit": normalized_unit,
+                            "issue": "ingredient_target_process_quantity",
+                            "expected": "ingredient.quantities",
+                        }
+                    )
                 if normalized_unit and normalized_unit not in allowed_units:
                     failures.append(
                         {
@@ -1119,6 +1183,7 @@ def _run_codex_recipe_generic(
         "recipe_id": recipe.recipe_id,
         "lemma": recipe.lemma or recipe.recipe_id,
         "text": recipe.text,
+        "original_text": recipe.original_text or "",
     }
     output_path = temp_output_dir / f"{recipe.recipe_id}.json"
     if output_path.exists():
@@ -1361,6 +1426,7 @@ def load_structured_authority_from_temp(
             "recipe_id": record.recipe_id,
             "lemma": record.lemma or record.recipe_id,
             "text": record.text,
+            "original_text": record.original_text or "",
         }
         errors = validator(recipe_source, payload)
         if errors:

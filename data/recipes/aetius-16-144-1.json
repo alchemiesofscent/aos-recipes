@@ -95,12 +95,12 @@
     "entity_model_version": "1.2",
     "authority_version": "2026-04-13-qty-alt-v1",
     "prompt_version": "qty-alt-pass-v1",
-    "build_version": "2026-05-18T15:51:35Z"
+    "build_version": "2026-05-25T18:36:46Z"
   },
   "schema_version": "1.2",
   "build_metadata": {
     "builder": "scripts/recipes/build_recipe_entities.py",
-    "built_at": "2026-05-18T15:51:35Z",
+    "built_at": "2026-05-25T18:36:46Z",
     "source_structured_authority": "reports/entity_review/structured/aetius_book16.json",
     "authority_model": "gpt-5.4",
     "authority_reasoning_effort": "high",
@@ -108,7 +108,7 @@
     "entity_model_version": "1.2",
     "authority_version": "2026-04-13-qty-alt-v1",
     "prompt_version": "qty-alt-pass-v1",
-    "build_version": "2026-05-18T15:51:35Z"
+    "build_version": "2026-05-25T18:36:46Z"
   },
   "recipe_text_excerpt": "Στύρακος λιπαροῦ γοι. καρυοφύλλου, κρόκου, ῥόδων ξηρῶν, φύλλου, μαστίχης, ἀνὰ γοα. μόσχου κεράτια δ. Ἐγὼ δὲ φησὶ, μόσχου γράμματα δ",
   "preparation": {
@@ -605,37 +605,37 @@
         "entity_urn": "urn:aos:recipe-ingredient:aetius-16-144-1:ingredient:styrax-liparos-1",
         "surface_form": "Στύρακος λιπαροῦ",
         "normalized_label": "στύραξ λιπαρός",
-        "quantity_display": ""
+        "quantity_display": "10 uncia"
       },
       {
         "entity_urn": "urn:aos:recipe-ingredient:aetius-16-144-1:ingredient:karyophyllon-2",
         "surface_form": "καρυοφύλλου",
         "normalized_label": "καρυόφυλλον",
-        "quantity_display": ""
+        "quantity_display": "1 uncia"
       },
       {
         "entity_urn": "urn:aos:recipe-ingredient:aetius-16-144-1:ingredient:krokos-3",
         "surface_form": "κρόκου",
         "normalized_label": "κρόκος",
-        "quantity_display": ""
+        "quantity_display": "1 uncia"
       },
       {
         "entity_urn": "urn:aos:recipe-ingredient:aetius-16-144-1:ingredient:roda-xera-4",
         "surface_form": "ῥόδων ξηρῶν",
         "normalized_label": "ῥόδα ξηρά",
-        "quantity_display": ""
+        "quantity_display": "1 uncia"
       },
       {
         "entity_urn": "urn:aos:recipe-ingredient:aetius-16-144-1:ingredient:phyllon-5",
         "surface_form": "φύλλου",
         "normalized_label": "φύλλον",
-        "quantity_display": ""
+        "quantity_display": "1 uncia"
       },
       {
         "entity_urn": "urn:aos:recipe-ingredient:aetius-16-144-1:ingredient:mastiche-6",
         "surface_form": "μαστίχης",
         "normalized_label": "μαστίχη",
-        "quantity_display": ""
+        "quantity_display": "1 uncia"
       },
       {
         "entity_urn": "urn:aos:recipe-ingredient:aetius-16-144-1:ingredient:moschos-7",

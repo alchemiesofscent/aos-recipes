@@ -130,12 +130,12 @@
     "entity_model_version": "1.2",
     "authority_version": "2026-04-13-qty-alt-v1",
     "prompt_version": "qty-alt-pass-v1",
-    "build_version": "2026-05-18T15:51:35Z"
+    "build_version": "2026-05-25T18:36:46Z"
   },
   "schema_version": "1.2",
   "build_metadata": {
     "builder": "scripts/recipes/build_recipe_entities.py",
-    "built_at": "2026-05-18T15:51:35Z",
+    "built_at": "2026-05-25T18:36:46Z",
     "source_structured_authority": "reports/entity_review/structured/aetius_book16.json",
     "authority_model": "gpt-5.4",
     "authority_reasoning_effort": "high",
@@ -143,7 +143,7 @@
     "entity_model_version": "1.2",
     "authority_version": "2026-04-13-qty-alt-v1",
     "prompt_version": "qty-alt-pass-v1",
-    "build_version": "2026-05-18T15:51:35Z"
+    "build_version": "2026-05-25T18:36:46Z"
   },
   "recipe_text_excerpt": "Μασσουαφίου, καρυοφύλλων, κόστου, ἀνὰ γοβ. φύλλων ναρδοστάχυος, ῥόδων χυλοῦ, ἀνὰ γράμματα ιβ. ἀμώμου, στύρακος, ἀνὰ γοα. κόμμεως γοβ. κόψας καὶ",
   "preparation": {
@@ -1000,19 +1000,19 @@
         "entity_urn": "urn:aos:recipe-ingredient:aetius-16-126-3:ingredient:massoyaphion-1",
         "surface_form": "Μασσουαφίου",
         "normalized_label": "μασσουάφιον",
-        "quantity_display": ""
+        "quantity_display": "2 uncia"
       },
       {
         "entity_urn": "urn:aos:recipe-ingredient:aetius-16-126-3:ingredient:karyophyllon-2",
         "surface_form": "καρυοφύλλων",
         "normalized_label": "καρυόφυλλον",
-        "quantity_display": ""
+        "quantity_display": "2 uncia"
       },
       {
         "entity_urn": "urn:aos:recipe-ingredient:aetius-16-126-3:ingredient:kostos-3",
         "surface_form": "κόστου",
         "normalized_label": "κόστος",
-        "quantity_display": ""
+        "quantity_display": "2 uncia"
       },
       {
         "entity_urn": "urn:aos:recipe-ingredient:aetius-16-126-3:ingredient:phylla-nardostachyos-4",
@@ -1030,19 +1030,19 @@
         "entity_urn": "urn:aos:recipe-ingredient:aetius-16-126-3:ingredient:amomon-6",
         "surface_form": "ἀμώμου",
         "normalized_label": "ἄμωμον",
-        "quantity_display": ""
+        "quantity_display": "1 uncia"
       },
       {
         "entity_urn": "urn:aos:recipe-ingredient:aetius-16-126-3:ingredient:styrax-7",
         "surface_form": "στύρακος",
         "normalized_label": "στύραξ",
-        "quantity_display": ""
+        "quantity_display": "1 uncia"
       },
       {
         "entity_urn": "urn:aos:recipe-ingredient:aetius-16-126-3:ingredient:kommi-8",
         "surface_form": "κόμμεως",
         "normalized_label": "κόμμι",
-        "quantity_display": ""
+        "quantity_display": "2 uncia"
       }
     ],
     "processes": [

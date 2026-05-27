@@ -254,6 +254,52 @@ select, input {
 .section h3 { margin: 0 0 8px; font-size: 15px; }
 .section.empty { display: none; }
 
+.entity-table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 14px;
+  margin-top: 6px;
+}
+.entity-table th, .entity-table td {
+  text-align: left;
+  padding: 6px 10px;
+  border-bottom: 1px solid var(--border);
+  vertical-align: top;
+}
+.entity-table thead th {
+  font-size: 11px;
+  font-weight: 600;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  color: var(--muted);
+  border-bottom: 1px solid var(--border-strong);
+  background: var(--surface);
+}
+.entity-table tbody tr:hover { background: var(--surface-alt); }
+.entity-table td.col-name { color: var(--text); }
+.entity-table td.col-qty { font-variant-numeric: tabular-nums; text-align: right; width: 4em; white-space: nowrap; }
+.entity-table td.col-unit { width: 9em; color: var(--muted-soft); }
+.entity-table td.col-source {
+  font-family: "New Athena Unicode", "Noto Serif", Georgia, serif;
+  color: var(--text);
+  font-size: 15px;
+}
+.entity-table td.col-duration { white-space: nowrap; color: var(--muted-soft); width: 8em; }
+.entity-table td:empty::after { content: "—"; color: var(--border-strong); }
+.entity-table .qty-variant {
+  display: block;
+  font-size: 12px;
+  color: var(--muted-soft);
+  margin-top: 2px;
+  font-family: ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+}
+.entity-table sup.uncertainty-mark { color: var(--muted); font-size: 0.7em; }
+
+@media (max-width: 760px) {
+  .entity-table { font-size: 13px; }
+  .entity-table td.col-unit, .entity-table td.col-source, .entity-table td.col-duration { width: auto; }
+}
+
 .chips { display: flex; flex-wrap: wrap; gap: 8px; }
 .chip {
   border: 1px solid var(--chip-border);

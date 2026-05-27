@@ -115,12 +115,12 @@
     "entity_model_version": "1.2",
     "authority_version": "2026-04-13-qty-alt-v1",
     "prompt_version": "qty-alt-pass-v1",
-    "build_version": "2026-05-18T15:51:35Z"
+    "build_version": "2026-05-25T18:36:46Z"
   },
   "schema_version": "1.2",
   "build_metadata": {
     "builder": "scripts/recipes/build_recipe_entities.py",
-    "built_at": "2026-05-18T15:51:35Z",
+    "built_at": "2026-05-25T18:36:46Z",
     "source_structured_authority": "reports/entity_review/structured/aetius_book16.json",
     "authority_model": "gpt-5.4",
     "authority_reasoning_effort": "high",
@@ -128,7 +128,7 @@
     "entity_model_version": "1.2",
     "authority_version": "2026-04-13-qty-alt-v1",
     "prompt_version": "qty-alt-pass-v1",
-    "build_version": "2026-05-18T15:51:35Z"
+    "build_version": "2026-05-25T18:36:46Z"
   },
   "recipe_text_excerpt": "Λιβάνου γοι. μυελοῦ ἐλαφείου, σμύρνης ἀνὰ δραχ. ζ. ψιμμυθίου, ὀπίου ἀνὰ δραχ. δ. μολύβδου κεκαυμένου καὶ πεπλυμένου, καὶ βουτύρου, λίθου",
   "preparation": {
@@ -1015,7 +1015,7 @@
         "entity_urn": "urn:aos:recipe-ingredient:aetius-16-152:ingredient:libanos-1",
         "surface_form": "Λιβάνου",
         "normalized_label": "λίβανος",
-        "quantity_display": ""
+        "quantity_display": "10 uncia"
       },
       {
         "entity_urn": "urn:aos:recipe-ingredient:aetius-16-152:ingredient:myelos-elapheios-2",

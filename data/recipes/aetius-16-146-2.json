@@ -116,12 +116,12 @@
     "entity_model_version": "1.2",
     "authority_version": "2026-04-13-qty-alt-v1",
     "prompt_version": "qty-alt-pass-v1",
-    "build_version": "2026-05-18T15:51:35Z"
+    "build_version": "2026-05-25T18:36:46Z"
   },
   "schema_version": "1.2",
   "build_metadata": {
     "builder": "scripts/recipes/build_recipe_entities.py",
-    "built_at": "2026-05-18T15:51:35Z",
+    "built_at": "2026-05-25T18:36:46Z",
     "source_structured_authority": "reports/entity_review/structured/aetius_book16.json",
     "authority_model": "gpt-5.4",
     "authority_reasoning_effort": "high",
@@ -129,7 +129,7 @@
     "entity_model_version": "1.2",
     "authority_version": "2026-04-13-qty-alt-v1",
     "prompt_version": "qty-alt-pass-v1",
-    "build_version": "2026-05-18T15:51:35Z"
+    "build_version": "2026-05-25T18:36:46Z"
   },
   "recipe_text_excerpt": "Κόστου λιαζʹ. ἤτοι λίτρ. α καὶ ἡμίσ. ἑλενίου, ῥόδων ξηρῶν, μελανίου, ἀνὰ λια. καρποβαλσάμου, ἀσπαλάθου ἀνὰ λιβ. σμύρνης λιαζʹ. τάρου,",
   "preparation": {
@@ -219,8 +219,7 @@
           "certainty": "uncertain",
           "notes": [
             "Shared distributive measure under ἀνὰ.",
-            "Abbreviated measure left unresolved.",
-            "Corrected by normalize_quantities.py: raw_number None→'α', normalized_number None→1 (rule λιστ.=λι+στ, στ=6)."
+            "Abbreviated measure left unresolved."
           ]
         }
       ],
@@ -256,8 +255,7 @@
           "certainty": "uncertain",
           "notes": [
             "Shared distributive measure under ἀνὰ.",
-            "Abbreviated measure left unresolved.",
-            "Corrected by normalize_quantities.py: raw_number None→'α', normalized_number None→1 (rule λιστ.=λι+στ, στ=6)."
+            "Abbreviated measure left unresolved."
           ]
         }
       ],
@@ -301,8 +299,7 @@
           "certainty": "uncertain",
           "notes": [
             "Shared distributive measure under ἀνὰ.",
-            "Abbreviated measure left unresolved.",
-            "Corrected by normalize_quantities.py: raw_number None→'α', normalized_number None→1 (rule λιστ.=λι+στ, στ=6)."
+            "Abbreviated measure left unresolved."
           ]
         }
       ],
@@ -338,8 +335,7 @@
           "certainty": "uncertain",
           "notes": [
             "Shared distributive measure under ἀνὰ.",
-            "Unit expansion is probable but abbreviated.",
-            "Corrected by normalize_quantities.py: raw_number None→'β', normalized_number None→2 (rule λιστ.=λι+στ, στ=6)."
+            "Unit expansion is probable but abbreviated."
           ]
         }
       ],
@@ -375,8 +371,7 @@
           "certainty": "uncertain",
           "notes": [
             "Shared distributive measure under ἀνὰ.",
-            "Unit expansion is probable but abbreviated.",
-            "Corrected by normalize_quantities.py: raw_number None→'β', normalized_number None→2 (rule λιστ.=λι+στ, στ=6)."
+            "Unit expansion is probable but abbreviated."
           ]
         }
       ],
@@ -447,8 +442,7 @@
           "certainty": "uncertain",
           "notes": [
             "Shared distributive measure under ἀνὰ.",
-            "Abbreviated measure left unresolved.",
-            "Corrected by normalize_quantities.py: raw_number None→'δ', normalized_number None→4 (rule λιστ.=λι+στ, στ=6)."
+            "Abbreviated measure left unresolved."
           ]
         }
       ],
@@ -486,8 +480,7 @@
           "certainty": "uncertain",
           "notes": [
             "Shared distributive measure under ἀνὰ.",
-            "Abbreviated measure left unresolved.",
-            "Corrected by normalize_quantities.py: raw_number None→'δ', normalized_number None→4 (rule λιστ.=λι+στ, στ=6)."
+            "Abbreviated measure left unresolved."
           ]
         }
       ],
@@ -522,8 +515,7 @@
           "normalized_unit": "litra",
           "certainty": "uncertain",
           "notes": [
-            "Abbreviated measure left unresolved.",
-            "Corrected by normalize_quantities.py: raw_number None→'α', normalized_number None→1 (rule λιστ.=λι+στ, στ=6)."
+            "Abbreviated measure left unresolved."
           ]
         }
       ],
@@ -663,8 +655,7 @@
           "normalized_unit": "litra",
           "certainty": "uncertain",
           "notes": [
-            "Unit expansion is probable but abbreviated.",
-            "Corrected by normalize_quantities.py: raw_number None→'β', normalized_number None→2 (rule λιστ.=λι+στ, στ=6)."
+            "Unit expansion is probable but abbreviated."
           ]
         }
       ],
@@ -699,8 +690,7 @@
           "normalized_unit": "litra",
           "certainty": "uncertain",
           "notes": [
-            "Abbreviated measure left unresolved.",
-            "Corrected by normalize_quantities.py: raw_number None→'ε', normalized_number None→5 (rule λιστ.=λι+στ, στ=6)."
+            "Abbreviated measure left unresolved."
           ]
         }
       ],
@@ -735,8 +725,7 @@
           "normalized_unit": "litra",
           "certainty": "uncertain",
           "notes": [
-            "Unit expansion is probable but abbreviated.",
-            "Corrected by normalize_quantities.py: raw_number None→'β', normalized_number None→2 (rule λιστ.=λι+στ, στ=6)."
+            "Unit expansion is probable but abbreviated."
           ]
         }
       ],
@@ -1068,19 +1057,19 @@
         "entity_urn": "urn:aos:recipe-ingredient:aetius-16-146-2:ingredient:mastiche-11",
         "surface_form": "μαστίχης",
         "normalized_label": "μαστίχη",
-        "quantity_display": ""
+        "quantity_display": "8 uncia"
       },
       {
         "entity_urn": "urn:aos:recipe-ingredient:aetius-16-146-2:ingredient:xylokaryophyllon-12",
         "surface_form": "ξυλοκαρυοφύλλων",
         "normalized_label": "ξυλοκαρυόφυλλον",
-        "quantity_display": ""
+        "quantity_display": "6 uncia"
       },
       {
         "entity_urn": "urn:aos:recipe-ingredient:aetius-16-146-2:ingredient:phylla-skylmatos-13",
         "surface_form": "σκύλματος φύλλων",
         "normalized_label": "φύλλα σκύλματος",
-        "quantity_display": ""
+        "quantity_display": "6 uncia"
       },
       {
         "entity_urn": "urn:aos:recipe-ingredient:aetius-16-146-2:ingredient:bryon-14",
@@ -1104,13 +1093,13 @@
         "entity_urn": "urn:aos:recipe-ingredient:aetius-16-146-2:ingredient:onyx-17",
         "surface_form": "ὀνύχων",
         "normalized_label": "ὄνυξ",
-        "quantity_display": ""
+        "quantity_display": "4 uncia"
       },
       {
         "entity_urn": "urn:aos:recipe-ingredient:aetius-16-146-2:ingredient:krokos-18",
         "surface_form": "κρόκου τριχιςθέντος",
         "normalized_label": "κρόκος",
-        "quantity_display": ""
+        "quantity_display": "4 uncia"
       }
     ],
     "processes": [

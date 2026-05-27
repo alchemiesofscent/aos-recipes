@@ -11,5 +11,3 @@ python3 scripts/validate.py
 ```
 
 The exporter reads the dataset registrations in `scripts/recipes/common.py`, so slice membership should be changed there first.
-
-The copied files under `provenance/source/scripts/recipes/` and each canonical `provenance/source/experiments/<slice>/` directory are historical snapshots of the source-side extraction apparatus. Regenerate them from `/home/seanm/github/aetius` when refreshing the exported provenance bundle.

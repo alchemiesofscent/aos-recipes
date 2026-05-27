@@ -28,14 +28,10 @@ The primary artifacts are JSON data and documentation. The `site/` folder is a n
 From the repo root:
 
 ```bash
-rm -rf /tmp/aos-recipes-site
-mkdir -p /tmp/aos-recipes-site/data
-cp site/index.html site/app.js site/style.css /tmp/aos-recipes-site/
-cp data/recipes.json data/sources.json /tmp/aos-recipes-site/data/
-python3 -m http.server 8000 --directory /tmp/aos-recipes-site
+python3 -m http.server 8000
 ```
 
-Then open `http://127.0.0.1:8000/`. This mirrors the GitHub Pages artifact layout.
+Then open `http://127.0.0.1:8000/site/`.
 
 ## Validate
 

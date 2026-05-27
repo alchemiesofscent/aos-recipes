@@ -843,7 +843,7 @@
         "entity_id": "aetius-16-130-2:ingredient:ambaros-9",
         "entity_urn": "urn:aos:recipe-ingredient:aetius-16-130-2:ingredient:ambaros-9",
         "surface_form": "ἄμβαρος",
-        "normalized_label": "ἄμβαρ",
+        "normalized_label": "ἄμβαρος",
         "certainty": "certain"
       },
       {
@@ -2337,7 +2337,7 @@
         "entity_id": "aetius-16-143:ingredient:ambaros-3",
         "entity_urn": "urn:aos:recipe-ingredient:aetius-16-143:ingredient:ambaros-3",
         "surface_form": "ἄμβαρος",
-        "normalized_label": "ἄμβαρ",
+        "normalized_label": "ἄμβαρος",
         "certainty": "certain"
       },
       {
@@ -2373,7 +2373,7 @@
         "entity_id": "aetius-16-143:ingredient:ambaros-7",
         "entity_urn": "urn:aos:recipe-ingredient:aetius-16-143:ingredient:ambaros-7",
         "surface_form": "ἄμβαρος",
-        "normalized_label": "ἄμβαρ",
+        "normalized_label": "ἄμβαρος",
         "certainty": "certain"
       },
       {
@@ -2805,7 +2805,7 @@
         "entity_id": "aetius-16-146-1:ingredient:ambaros-9",
         "entity_urn": "urn:aos:recipe-ingredient:aetius-16-146-1:ingredient:ambaros-9",
         "surface_form": "ἄμβαρος",
-        "normalized_label": "ἄμβαρ",
+        "normalized_label": "ἄμβαρος",
         "certainty": "certain"
       },
       {
@@ -2913,7 +2913,7 @@
         "entity_id": "aetius-16-146-1:ingredient:ambaros-21",
         "entity_urn": "urn:aos:recipe-ingredient:aetius-16-146-1:ingredient:ambaros-21",
         "surface_form": "ἄμβαρος",
-        "normalized_label": "ἄμβαρ",
+        "normalized_label": "ἄμβαρος",
         "certainty": "certain"
       },
       {
@@ -3354,7 +3354,7 @@
         "entity_id": "aetius-16-149:ingredient:ambaros-8",
         "entity_urn": "urn:aos:recipe-ingredient:aetius-16-149:ingredient:ambaros-8",
         "surface_form": "ἄμβαρος",
-        "normalized_label": "ἄμβαρ",
+        "normalized_label": "ἄμβαρος",
         "certainty": "certain"
       },
       {
