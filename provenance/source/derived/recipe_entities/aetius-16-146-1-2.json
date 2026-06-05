@@ -144,12 +144,12 @@
     "entity_model_version": "1.2",
     "authority_version": "2026-04-13-qty-alt-v1",
     "prompt_version": "qty-alt-pass-v1",
-    "build_version": "2026-06-04T18:29:05Z"
+    "build_version": "2026-06-05T15:09:42Z"
   },
   "schema_version": "1.2",
   "build_metadata": {
     "builder": "scripts/recipes/build_recipe_entities.py",
-    "built_at": "2026-06-04T18:29:05Z",
+    "built_at": "2026-06-05T15:09:42Z",
     "source_structured_authority": "reports/entity_review/structured/aetius_book16.json",
     "authority_model": "gpt-5.4",
     "authority_reasoning_effort": "high",
@@ -157,7 +157,7 @@
     "entity_model_version": "1.2",
     "authority_version": "2026-04-13-qty-alt-v1",
     "prompt_version": "qty-alt-pass-v1",
-    "build_version": "2026-06-04T18:29:05Z"
+    "build_version": "2026-06-05T15:09:42Z"
   },
   "recipe_text_excerpt": "ὁ ἄρχων δὲ τῆς Ἀνατολῆς σκευάζει οὕτως. κόστου γογ. ναρδοστάχυος γοα. φύλλων τὸ αὐτό. καρυοφύλλων γογζʹ. ἤτοι οὐγ. γ καὶ",
   "preparation": {
@@ -377,13 +377,14 @@
       "quantities": [
         {
           "source_span": "γοζʹ",
-          "raw_number": "γοζʹ",
-          "normalized_number": null,
+          "raw_number": "ζʹ",
+          "normalized_number": 7,
           "raw_unit": "γο",
           "normalized_unit": "uncia",
           "certainty": "uncertain",
           "notes": [
-            "Abbreviated quantity unresolved in transmission."
+            "Abbreviated quantity unresolved in transmission.",
+            "Corrected by normalize_quantities.py (rule γο+numeral): raw_number 'γοζʹ'→'ζʹ', normalized_number None→7."
           ],
           "measure_group_id": "aetius-16-146-1-2:ingredients:5:measure:m1",
           "measure_relation": "equivalent_notation"

@@ -78,10 +78,9 @@ and mirrored here** via the export commands. This policy document itself lives i
 | F19 | **Vocabulary drift / unresolved units.** Ad-hoc `qualifier_type` values appear inline (`exposure`=ἡλίου, `color`=λευκή); symbolic units (𐆄, ξ̸, γρ=gramma, 𐅻=drachme) often left `uncertain`. | governance, normalization |
 
 **Coverage reality.** The gold pipeline has produced **1 reviewed recipe of 193**
-(`dioscorides-1-25-kyphi`). The overlay still reports a `174` denominator from a run that
-predates the Book 2 fats slice and the later Aëtius Book 16 split; the current corpus is
-`193`. This must be reconciled on the
-next full run (see [W4](#w4--execute-and-version-the-gold-pipeline)).
+(`dioscorides-1-25-kyphi`). The current overlay reports the 193-recipe corpus;
+older archived overlay runs still record a `174` denominator from before the
+Book 2 fats slice and the later Aëtius Book 16 split.
 
 **Conclusion.** The recipes require revision. The canonical inline qualifiers are
 un-normalized and use a narrower, partly-misapplied vocabulary than the gold overlay; the two

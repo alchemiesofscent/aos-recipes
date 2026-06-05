@@ -14,10 +14,9 @@ The primary artifacts are JSON data and documentation. The `site/` folder is a n
 - `data/ingredient_lexicon.json`: ingredient lookup table plus source occurrence evidence and normalized-label variants.
 - `data/sources.json`: source slice metadata.
 - `data/review/quantity_gold/`: mirrored quantity-gold authority artifacts from
-  `/home/seanm/github/aetius`. If mirrored quantity-gold coverage still
-  reports `corpus_recipe_count: 174`, that is the artifact-run denominator; the
-  current source/export corpus is 193 recipes, including the 18-record
-  `dioscorides_book2_fats` slice and the 45-record Aëtius Book 16 slice.
+  `/home/seanm/github/aetius`. Current coverage uses the 193-recipe corpus;
+  older archived runs may still record the former 174-record artifact-run
+  denominator.
 - `manifest.json`: export metadata, source commit, included paths, excluded paths, and counts.
 
 ## Sources

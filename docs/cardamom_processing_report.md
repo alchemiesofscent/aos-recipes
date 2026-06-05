@@ -2,7 +2,7 @@
 
 Created: 2026-06-05  
 Created by: codex  
-Corpus: `data/recipes.json` and `data/recipes/*.json` in `/home/seancoughlin/Projects/aos-recipes`
+Corpus: `data/recipes.json` and `data/recipes/*.json` in `/home/seanm/github/aos-recipes`
 
 ## Scope
 

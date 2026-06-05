@@ -94,12 +94,12 @@
     "entity_model_version": "1.2",
     "authority_version": "2026-04-13-qty-alt-v1",
     "prompt_version": "qty-alt-pass-v1",
-    "build_version": "2026-06-04T18:29:05Z"
+    "build_version": "2026-06-05T15:09:42Z"
   },
   "schema_version": "1.2",
   "build_metadata": {
     "builder": "scripts/recipes/build_recipe_entities.py",
-    "built_at": "2026-06-04T18:29:05Z",
+    "built_at": "2026-06-05T15:09:42Z",
     "source_structured_authority": "reports/entity_review/structured/aetius_book16.json",
     "authority_model": "gpt-5.4",
     "authority_reasoning_effort": "high",
@@ -107,7 +107,7 @@
     "entity_model_version": "1.2",
     "authority_version": "2026-04-13-qty-alt-v1",
     "prompt_version": "qty-alt-pass-v1",
-    "build_version": "2026-06-04T18:29:05Z"
+    "build_version": "2026-06-05T15:09:42Z"
   },
   "recipe_text_excerpt": "Σπεκλαρίου κεκομμένου λιτ. α. φύλλου, ναρδοστάχυος, καρυοφύλλου, ἀνὰ γράμματα στ. σανδαράχης γράμματα ιβ. μόσχου κέγχρους γ.",
   "preparation": {
@@ -146,14 +146,12 @@
       "quantities": [
         {
           "source_span": "λιτ. α.",
-          "raw_number": "τ",
-          "normalized_number": 300,
+          "raw_number": "α",
+          "normalized_number": 1,
           "raw_unit": "λι",
           "normalized_unit": "litra",
           "certainty": "certain",
-          "notes": [
-            "Corrected by normalize_quantities.py (rule λι+numeral): raw_number 'α'→'τ', normalized_number 1→300."
-          ],
+          "notes": [],
           "measure_relation": "standalone",
           "measure_group_id": "aetius-16-130-3:ingredients:1:measure:1"
         }

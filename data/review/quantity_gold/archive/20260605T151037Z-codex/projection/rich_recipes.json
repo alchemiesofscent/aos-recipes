@@ -1,0 +1,858 @@
+{
+  "metadata": {
+    "schema_version": "quantity-gold-v2",
+    "artifact_version": "2026-06-05-codex-v1",
+    "artifact_name": "quantity-gold rich projection",
+    "run_id": "20260605T071830Z-codex",
+    "created_at": "2026-06-05T07:14:36Z",
+    "created_by": "codex",
+    "updated_at": "2026-06-05T07:18:30Z",
+    "updated_by": "codex",
+    "reviewed_by": null,
+    "source_repo": "/home/seancoughlin/Projects/aetius",
+    "source_commit": "b583dd6a17551b4ceacd04ad59fd2f0d410f570b",
+    "derived_repo": "/home/seancoughlin/Projects/aos-recipes",
+    "derived_commit": null,
+    "previous_version": "20260605T071446Z-codex",
+    "archive_path": "data/review/quantity_gold/archive/20260605T071830Z-codex/projection/rich_recipes.json",
+    "review_status": "accepted_for_projection",
+    "content_sha256_excluding_metadata": "105c3ce8dcd062463b4f6d7079e428243166a70eee3933b5eb3cad0b43297f3a"
+  },
+  "projection_kind": "rich_quantity_gold",
+  "note": "Preserves accepted process qualifiers, temporal records, intervals, repetitions, conditions, and rejections.",
+  "recipes": {
+    "dioscorides-1-25-kyphi": {
+      "recipe_id": "dioscorides-1-25-kyphi",
+      "dataset_key": "dioscorides_book1_perfumes_resins",
+      "source_recipe_file": "derived/recipe_entities/dioscorides-1-25-kyphi.json",
+      "accepted_records": [
+        {
+          "record_id": "dioscorides-1-25-kyphi:q01",
+          "record_type": "ingredient_measurement",
+          "recipe_id": "dioscorides-1-25-kyphi",
+          "dimension": "volume",
+          "qualifier_kind": null,
+          "temporal_label": null,
+          "review_status": "accepted_for_projection",
+          "source": {
+            "text": "ἡμίξεστον",
+            "span": {
+              "source_span": "ἡμίξεστον",
+              "line_citations": [
+                "28.20"
+              ]
+            },
+            "source_text_field": "text"
+          },
+          "target": {
+            "target_type": "ingredient",
+            "source_span": "κυπέρου",
+            "normalized_label": null,
+            "canonical_id": null,
+            "note": null
+          },
+          "value": {
+            "kind": "fraction",
+            "rational": {
+              "numerator": 1,
+              "denominator": 2
+            },
+            "display": "1/2",
+            "raw_number": "ἡμι-",
+            "normalized_unit": "xestes",
+            "source_value": "ἡμίξεστον",
+            "reference": null
+          },
+          "raw_unit": "ἡμίξεστον",
+          "normalized_unit": "xestes",
+          "evidence": "The fused form ἡμίξεστον denotes one-half of a xestes and is the explicit quantity for cyperus.",
+          "notes": [],
+          "provenance": {
+            "generated_by": "codex",
+            "generated_at": "2026-06-05T07:14:36Z",
+            "run_id": "20260605T071436Z-codex",
+            "method": "codex-authored reviewed seed from prior quantity-gold pass",
+            "note": "The fused form ἡμίξεστον denotes one-half of a xestes and is the explicit quantity for cyperus."
+          },
+          "created_at": "2026-06-05T07:14:36Z",
+          "created_by": "codex",
+          "updated_at": "2026-06-05T07:14:36Z",
+          "updated_by": "codex",
+          "reviewed_by": null,
+          "supersedes": null
+        },
+        {
+          "record_id": "dioscorides-1-25-kyphi:q02",
+          "record_type": "ingredient_measurement",
+          "recipe_id": "dioscorides-1-25-kyphi",
+          "dimension": "volume",
+          "qualifier_kind": null,
+          "temporal_label": null,
+          "review_status": "accepted_for_projection",
+          "source": {
+            "text": "τὸ αὐτό",
+            "span": {
+              "source_span": "τὸ αὐτό",
+              "line_citations": [
+                "28.20"
+              ]
+            },
+            "source_text_field": "text"
+          },
+          "target": {
+            "target_type": "ingredient",
+            "source_span": "ἀρκευθίδος ἁδρᾶς",
+            "normalized_label": null,
+            "canonical_id": null,
+            "note": null
+          },
+          "value": {
+            "kind": "fraction",
+            "rational": {
+              "numerator": 1,
+              "denominator": 2
+            },
+            "display": "same as previous amount (1/2)",
+            "raw_number": "τὸ αὐτό",
+            "normalized_unit": "xestes",
+            "source_value": "τὸ αὐτό",
+            "reference": {
+              "relation": "same_as",
+              "record_id": "dioscorides-1-25-kyphi:q01",
+              "note": "Antecedent quantity carried over by τὸ αὐτό."
+            }
+          },
+          "raw_unit": null,
+          "normalized_unit": "xestes",
+          "evidence": "τὸ αὐτό anaphorically repeats the immediately preceding half-xestes quantity.",
+          "notes": [],
+          "provenance": {
+            "generated_by": "codex",
+            "generated_at": "2026-06-05T07:14:36Z",
+            "run_id": "20260605T071436Z-codex",
+            "method": "codex-authored reviewed seed from prior quantity-gold pass",
+            "note": "τὸ αὐτό anaphorically repeats the immediately preceding half-xestes quantity."
+          },
+          "created_at": "2026-06-05T07:14:36Z",
+          "created_by": "codex",
+          "updated_at": "2026-06-05T07:14:36Z",
+          "updated_by": "codex",
+          "reviewed_by": null,
+          "supersedes": null
+        },
+        {
+          "record_id": "dioscorides-1-25-kyphi:q03",
+          "record_type": "ingredient_measurement",
+          "recipe_id": "dioscorides-1-25-kyphi",
+          "dimension": "weight",
+          "qualifier_kind": null,
+          "temporal_label": null,
+          "review_status": "accepted_for_projection",
+          "source": {
+            "text": "μνᾶς δεκαδύο",
+            "span": {
+              "source_span": "μνᾶς δεκαδύο",
+              "line_citations": [
+                "28.20"
+              ]
+            },
+            "source_text_field": "text"
+          },
+          "target": {
+            "target_type": "ingredient",
+            "source_span": "σταφίδος λιπαρᾶς ἐκγεγιγαρτισμένης",
+            "normalized_label": null,
+            "canonical_id": null,
+            "note": null
+          },
+          "value": {
+            "kind": "integer",
+            "rational": {
+              "numerator": 12,
+              "denominator": 1
+            },
+            "display": "12",
+            "raw_number": "δεκαδύο",
+            "normalized_unit": "mna",
+            "source_value": "μνᾶς δεκαδύο",
+            "temporal_label": null,
+            "reference": null
+          },
+          "raw_unit": "μνᾶς",
+          "normalized_unit": "mna",
+          "evidence": "The phrase explicitly gives twelve mnas of pitted rich raisins.",
+          "notes": [],
+          "provenance": {
+            "generated_by": "codex",
+            "generated_at": "2026-06-05T07:14:36Z",
+            "run_id": "20260605T071436Z-codex",
+            "method": "codex-authored reviewed seed from prior quantity-gold pass",
+            "note": "The phrase explicitly gives twelve mnas of pitted rich raisins."
+          },
+          "created_at": "2026-06-05T07:14:36Z",
+          "created_by": "codex",
+          "updated_at": "2026-06-05T07:14:36Z",
+          "updated_by": "codex",
+          "reviewed_by": null,
+          "supersedes": null
+        },
+        {
+          "record_id": "dioscorides-1-25-kyphi:q04",
+          "record_type": "ingredient_measurement",
+          "recipe_id": "dioscorides-1-25-kyphi",
+          "dimension": "weight",
+          "qualifier_kind": null,
+          "temporal_label": null,
+          "review_status": "accepted_for_projection",
+          "source": {
+            "text": "μνᾶς πέντε",
+            "span": {
+              "source_span": "μνᾶς πέντε",
+              "line_citations": [
+                "29.1"
+              ]
+            },
+            "source_text_field": "text"
+          },
+          "target": {
+            "target_type": "ingredient",
+            "source_span": "ῥητίνης ἀποκεκαθαρμένης",
+            "normalized_label": null,
+            "canonical_id": null,
+            "note": null
+          },
+          "value": {
+            "kind": "integer",
+            "rational": {
+              "numerator": 5,
+              "denominator": 1
+            },
+            "display": "5",
+            "raw_number": "πέντε",
+            "normalized_unit": "mna",
+            "source_value": "μνᾶς πέντε",
+            "temporal_label": null,
+            "reference": null
+          },
+          "raw_unit": "μνᾶς",
+          "normalized_unit": "mna",
+          "evidence": "The resin amount is stated directly as five mnas.",
+          "notes": [],
+          "provenance": {
+            "generated_by": "codex",
+            "generated_at": "2026-06-05T07:14:36Z",
+            "run_id": "20260605T071436Z-codex",
+            "method": "codex-authored reviewed seed from prior quantity-gold pass",
+            "note": "The resin amount is stated directly as five mnas."
+          },
+          "created_at": "2026-06-05T07:14:36Z",
+          "created_by": "codex",
+          "updated_at": "2026-06-05T07:14:36Z",
+          "updated_by": "codex",
+          "reviewed_by": null,
+          "supersedes": null
+        },
+        {
+          "record_id": "dioscorides-1-25-kyphi:q05",
+          "record_type": "ingredient_measurement",
+          "recipe_id": "dioscorides-1-25-kyphi",
+          "dimension": "weight",
+          "qualifier_kind": null,
+          "temporal_label": null,
+          "review_status": "accepted_for_projection",
+          "source": {
+            "text": "ἑκάστου μνᾶν μίαν",
+            "span": {
+              "source_span": "ἑκάστου μνᾶν μίαν",
+              "line_citations": [
+                "29.1"
+              ]
+            },
+            "source_text_field": "text"
+          },
+          "target": {
+            "target_type": "ingredient",
+            "source_span": "καλάμου ἀρωματίτου",
+            "normalized_label": null,
+            "canonical_id": null,
+            "note": "One of three ingredients governed by ἑκάστου."
+          },
+          "value": {
+            "kind": "integer",
+            "rational": {
+              "numerator": 1,
+              "denominator": 1
+            },
+            "display": "1",
+            "raw_number": "μίαν",
+            "normalized_unit": "mna",
+            "source_value": "ἑκάστου μνᾶν μίαν",
+            "temporal_label": null,
+            "reference": null
+          },
+          "raw_unit": "μνᾶν",
+          "normalized_unit": "mna",
+          "evidence": "The distributive ἑκάστου assigns one mna to calamus.",
+          "notes": [],
+          "provenance": {
+            "generated_by": "codex",
+            "generated_at": "2026-06-05T07:14:36Z",
+            "run_id": "20260605T071436Z-codex",
+            "method": "codex-authored reviewed seed from prior quantity-gold pass",
+            "note": "The distributive ἑκάστου assigns one mna to calamus."
+          },
+          "created_at": "2026-06-05T07:14:36Z",
+          "created_by": "codex",
+          "updated_at": "2026-06-05T07:14:36Z",
+          "updated_by": "codex",
+          "reviewed_by": null,
+          "supersedes": null
+        },
+        {
+          "record_id": "dioscorides-1-25-kyphi:q06",
+          "record_type": "ingredient_measurement",
+          "recipe_id": "dioscorides-1-25-kyphi",
+          "dimension": "weight",
+          "qualifier_kind": null,
+          "temporal_label": null,
+          "review_status": "accepted_for_projection",
+          "source": {
+            "text": "ἑκάστου μνᾶν μίαν",
+            "span": {
+              "source_span": "ἑκάστου μνᾶν μίαν",
+              "line_citations": [
+                "29.1"
+              ]
+            },
+            "source_text_field": "text"
+          },
+          "target": {
+            "target_type": "ingredient",
+            "source_span": "ἀσπαλάθου",
+            "normalized_label": null,
+            "canonical_id": null,
+            "note": "One of three ingredients governed by ἑκάστου."
+          },
+          "value": {
+            "kind": "integer",
+            "rational": {
+              "numerator": 1,
+              "denominator": 1
+            },
+            "display": "1",
+            "raw_number": "μίαν",
+            "normalized_unit": "mna",
+            "source_value": "ἑκάστου μνᾶν μίαν",
+            "temporal_label": null,
+            "reference": null
+          },
+          "raw_unit": "μνᾶν",
+          "normalized_unit": "mna",
+          "evidence": "The distributive ἑκάστου assigns one mna to aspalathus.",
+          "notes": [],
+          "provenance": {
+            "generated_by": "codex",
+            "generated_at": "2026-06-05T07:14:36Z",
+            "run_id": "20260605T071436Z-codex",
+            "method": "codex-authored reviewed seed from prior quantity-gold pass",
+            "note": "The distributive ἑκάστου assigns one mna to aspalathus."
+          },
+          "created_at": "2026-06-05T07:14:36Z",
+          "created_by": "codex",
+          "updated_at": "2026-06-05T07:14:36Z",
+          "updated_by": "codex",
+          "reviewed_by": null,
+          "supersedes": null
+        },
+        {
+          "record_id": "dioscorides-1-25-kyphi:q07",
+          "record_type": "ingredient_measurement",
+          "recipe_id": "dioscorides-1-25-kyphi",
+          "dimension": "weight",
+          "qualifier_kind": null,
+          "temporal_label": null,
+          "review_status": "accepted_for_projection",
+          "source": {
+            "text": "ἑκάστου μνᾶν μίαν",
+            "span": {
+              "source_span": "ἑκάστου μνᾶν μίαν",
+              "line_citations": [
+                "29.1"
+              ]
+            },
+            "source_text_field": "text"
+          },
+          "target": {
+            "target_type": "ingredient",
+            "source_span": "σχοίνου",
+            "normalized_label": null,
+            "canonical_id": null,
+            "note": "One of three ingredients governed by ἑκάστου."
+          },
+          "value": {
+            "kind": "integer",
+            "rational": {
+              "numerator": 1,
+              "denominator": 1
+            },
+            "display": "1",
+            "raw_number": "μίαν",
+            "normalized_unit": "mna",
+            "source_value": "ἑκάστου μνᾶν μίαν",
+            "temporal_label": null,
+            "reference": null
+          },
+          "raw_unit": "μνᾶν",
+          "normalized_unit": "mna",
+          "evidence": "The distributive ἑκάστου assigns one mna to schoenus.",
+          "notes": [],
+          "provenance": {
+            "generated_by": "codex",
+            "generated_at": "2026-06-05T07:14:36Z",
+            "run_id": "20260605T071436Z-codex",
+            "method": "codex-authored reviewed seed from prior quantity-gold pass",
+            "note": "The distributive ἑκάστου assigns one mna to schoenus."
+          },
+          "created_at": "2026-06-05T07:14:36Z",
+          "created_by": "codex",
+          "updated_at": "2026-06-05T07:14:36Z",
+          "updated_by": "codex",
+          "reviewed_by": null,
+          "supersedes": null
+        },
+        {
+          "record_id": "dioscorides-1-25-kyphi:q08",
+          "record_type": "ingredient_measurement",
+          "recipe_id": "dioscorides-1-25-kyphi",
+          "dimension": "weight",
+          "qualifier_kind": null,
+          "temporal_label": null,
+          "review_status": "accepted_for_projection",
+          "source": {
+            "text": "δραχμὰς δεκαδύο",
+            "span": {
+              "source_span": "δραχμὰς δεκαδύο",
+              "line_citations": [
+                "29.1"
+              ]
+            },
+            "source_text_field": "text"
+          },
+          "target": {
+            "target_type": "ingredient",
+            "source_span": "σμύρνης",
+            "normalized_label": null,
+            "canonical_id": null,
+            "note": null
+          },
+          "value": {
+            "kind": "integer",
+            "rational": {
+              "numerator": 12,
+              "denominator": 1
+            },
+            "display": "12",
+            "raw_number": "δεκαδύο",
+            "normalized_unit": "drachme",
+            "source_value": "δραχμὰς δεκαδύο",
+            "temporal_label": null,
+            "reference": null
+          },
+          "raw_unit": "δραχμὰς",
+          "normalized_unit": "drachme",
+          "evidence": "The myrrh quantity is directly stated as twelve drachmai.",
+          "notes": [],
+          "provenance": {
+            "generated_by": "codex",
+            "generated_at": "2026-06-05T07:14:36Z",
+            "run_id": "20260605T071436Z-codex",
+            "method": "codex-authored reviewed seed from prior quantity-gold pass",
+            "note": "The myrrh quantity is directly stated as twelve drachmai."
+          },
+          "created_at": "2026-06-05T07:14:36Z",
+          "created_by": "codex",
+          "updated_at": "2026-06-05T07:14:36Z",
+          "updated_by": "codex",
+          "reviewed_by": null,
+          "supersedes": null
+        },
+        {
+          "record_id": "dioscorides-1-25-kyphi:q09",
+          "record_type": "ingredient_measurement",
+          "recipe_id": "dioscorides-1-25-kyphi",
+          "dimension": "volume",
+          "qualifier_kind": null,
+          "temporal_label": null,
+          "review_status": "accepted_for_projection",
+          "source": {
+            "text": "ξέστας ἐννέα",
+            "span": {
+              "source_span": "ξέστας ἐννέα",
+              "line_citations": [
+                "29.1"
+              ]
+            },
+            "source_text_field": "text"
+          },
+          "target": {
+            "target_type": "ingredient",
+            "source_span": "οἴνου παλαιοῦ",
+            "normalized_label": null,
+            "canonical_id": null,
+            "note": null
+          },
+          "value": {
+            "kind": "integer",
+            "rational": {
+              "numerator": 9,
+              "denominator": 1
+            },
+            "display": "9",
+            "raw_number": "ἐννέα",
+            "normalized_unit": "xestes",
+            "source_value": "ξέστας ἐννέα",
+            "temporal_label": null,
+            "reference": null
+          },
+          "raw_unit": "ξέστας",
+          "normalized_unit": "xestes",
+          "evidence": "The old wine measure is explicitly nine xestai.",
+          "notes": [],
+          "provenance": {
+            "generated_by": "codex",
+            "generated_at": "2026-06-05T07:14:36Z",
+            "run_id": "20260605T071436Z-codex",
+            "method": "codex-authored reviewed seed from prior quantity-gold pass",
+            "note": "The old wine measure is explicitly nine xestai."
+          },
+          "created_at": "2026-06-05T07:14:36Z",
+          "created_by": "codex",
+          "updated_at": "2026-06-05T07:14:36Z",
+          "updated_by": "codex",
+          "reviewed_by": null,
+          "supersedes": null
+        },
+        {
+          "record_id": "dioscorides-1-25-kyphi:q10",
+          "record_type": "ingredient_measurement",
+          "recipe_id": "dioscorides-1-25-kyphi",
+          "dimension": "weight",
+          "qualifier_kind": null,
+          "temporal_label": null,
+          "review_status": "accepted_for_projection",
+          "source": {
+            "text": "μνᾶς δύο",
+            "span": {
+              "source_span": "μνᾶς δύο",
+              "line_citations": [
+                "29.1"
+              ]
+            },
+            "source_text_field": "text"
+          },
+          "target": {
+            "target_type": "ingredient",
+            "source_span": "μέλιτος",
+            "normalized_label": null,
+            "canonical_id": null,
+            "note": null
+          },
+          "value": {
+            "kind": "integer",
+            "rational": {
+              "numerator": 2,
+              "denominator": 1
+            },
+            "display": "2",
+            "raw_number": "δύο",
+            "normalized_unit": "mna",
+            "source_value": "μνᾶς δύο",
+            "temporal_label": null,
+            "reference": null
+          },
+          "raw_unit": "μνᾶς",
+          "normalized_unit": "mna",
+          "evidence": "The honey amount is directly stated as two mnas.",
+          "notes": [],
+          "provenance": {
+            "generated_by": "codex",
+            "generated_at": "2026-06-05T07:14:36Z",
+            "run_id": "20260605T071436Z-codex",
+            "method": "codex-authored reviewed seed from prior quantity-gold pass",
+            "note": "The honey amount is directly stated as two mnas."
+          },
+          "created_at": "2026-06-05T07:14:36Z",
+          "created_by": "codex",
+          "updated_at": "2026-06-05T07:14:36Z",
+          "updated_by": "codex",
+          "reviewed_by": null,
+          "supersedes": null
+        },
+        {
+          "record_id": "dioscorides-1-25-kyphi:q11",
+          "record_type": "process_qualifier",
+          "recipe_id": "dioscorides-1-25-kyphi",
+          "dimension": "time",
+          "qualifier_kind": "duration",
+          "temporal_label": "day",
+          "review_status": "accepted_for_projection",
+          "source": {
+            "text": "ἡμέραν μίαν",
+            "span": {
+              "source_span": "ἡμέραν μίαν",
+              "line_citations": [
+                "29.5"
+              ]
+            },
+            "source_text_field": "text"
+          },
+          "target": {
+            "target_type": "process",
+            "source_span": "ἔασόν τε συμπιεῖν",
+            "normalized_label": null,
+            "canonical_id": null,
+            "note": null
+          },
+          "value": {
+            "kind": "integer",
+            "rational": {
+              "numerator": 1,
+              "denominator": 1
+            },
+            "display": "1",
+            "raw_number": "μίαν",
+            "normalized_unit": "day",
+            "source_value": "ἡμέραν μίαν",
+            "temporal_label": "day",
+            "reference": null
+          },
+          "raw_unit": "ἡμέραν",
+          "normalized_unit": "day",
+          "evidence": "The phrase gives a one-day duration for letting the mixture stand/compress.",
+          "notes": [],
+          "provenance": {
+            "generated_by": "codex",
+            "generated_at": "2026-06-05T07:14:36Z",
+            "run_id": "20260605T071436Z-codex",
+            "method": "codex-authored reviewed seed from prior quantity-gold pass",
+            "note": "The phrase gives a one-day duration for letting the mixture stand/compress."
+          },
+          "created_at": "2026-06-05T07:14:36Z",
+          "created_by": "codex",
+          "updated_at": "2026-06-05T07:14:36Z",
+          "updated_by": "codex",
+          "reviewed_by": null,
+          "supersedes": null
+        }
+      ],
+      "rejections": [
+        {
+          "record_id": "dioscorides-1-25-kyphi:r01",
+          "record_type": "rejection",
+          "recipe_id": "dioscorides-1-25-kyphi",
+          "dimension": "other",
+          "qualifier_kind": null,
+          "temporal_label": null,
+          "review_status": "rejected",
+          "source": {
+            "text": "κατακόρως",
+            "span": {
+              "source_span": "κατακόρως",
+              "line_citations": [
+                "28.15"
+              ]
+            },
+            "source_text_field": "text"
+          },
+          "target": {
+            "target_type": "process",
+            "source_span": "χρῶνται δὲ αὐτῷ",
+            "normalized_label": null,
+            "canonical_id": null,
+            "note": null
+          },
+          "reason_code": "process_word_not_measure",
+          "note": "Degree adverb for manner of use; it does not encode a bounded recipe quantity or process measure.",
+          "canonical_quantity": null,
+          "value": null,
+          "raw_unit": null,
+          "normalized_unit": null,
+          "evidence": "Degree adverb for manner of use; it does not encode a bounded recipe quantity or process measure.",
+          "notes": [],
+          "provenance": {
+            "generated_by": "codex",
+            "generated_at": "2026-06-05T07:14:36Z",
+            "run_id": "20260605T071436Z-codex",
+            "method": "codex-authored reviewed seed from prior quantity-gold pass",
+            "note": "Degree adverb for manner of use; it does not encode a bounded recipe quantity or process measure."
+          },
+          "created_at": "2026-06-05T07:14:36Z",
+          "created_by": "codex",
+          "updated_at": "2026-06-05T07:14:36Z",
+          "updated_by": "codex",
+          "reviewed_by": null,
+          "supersedes": null
+        },
+        {
+          "record_id": "dioscorides-1-25-kyphi:r02",
+          "record_type": "rejection",
+          "recipe_id": "dioscorides-1-25-kyphi",
+          "dimension": "other",
+          "qualifier_kind": null,
+          "temporal_label": null,
+          "review_status": "rejected",
+          "source": {
+            "text": "πλείονες",
+            "span": {
+              "source_span": "πλείονες",
+              "line_citations": [
+                "28.20"
+              ]
+            },
+            "source_text_field": "text"
+          },
+          "target": {
+            "target_type": "variant",
+            "source_span": "σκευασίαι δὲ αὐτοῦ ἐμφέρονται",
+            "normalized_label": null,
+            "canonical_id": null,
+            "note": null
+          },
+          "reason_code": "not_quantity",
+          "note": "Indefinite statement that multiple formulations exist; not a quantified amount belonging to this recipe formulation.",
+          "canonical_quantity": {
+            "source_span": "πλείονες",
+            "raw_number": "πλείονες",
+            "normalized_number": "several",
+            "raw_unit": null,
+            "normalized_unit": "count"
+          },
+          "value": null,
+          "raw_unit": null,
+          "normalized_unit": null,
+          "evidence": "Indefinite statement that multiple formulations exist; not a quantified amount belonging to this recipe formulation.",
+          "notes": [],
+          "provenance": {
+            "generated_by": "codex",
+            "generated_at": "2026-06-05T07:14:36Z",
+            "run_id": "20260605T071436Z-codex",
+            "method": "codex-authored reviewed seed from prior quantity-gold pass",
+            "note": "Indefinite statement that multiple formulations exist; not a quantified amount belonging to this recipe formulation."
+          },
+          "created_at": "2026-06-05T07:14:36Z",
+          "created_by": "codex",
+          "updated_at": "2026-06-05T07:14:36Z",
+          "updated_by": "codex",
+          "reviewed_by": null,
+          "supersedes": null
+        },
+        {
+          "record_id": "dioscorides-1-25-kyphi:r03",
+          "record_type": "rejection",
+          "recipe_id": "dioscorides-1-25-kyphi",
+          "dimension": "other",
+          "qualifier_kind": null,
+          "temporal_label": null,
+          "review_status": "rejected",
+          "source": {
+            "text": "2",
+            "span": {
+              "source_span": "2",
+              "line_citations": [
+                "28.15",
+                "29.1"
+              ]
+            },
+            "source_text_field": "text"
+          },
+          "target": {
+            "target_type": "unknown",
+            "source_span": "ἐκγιγαρτίσας τὴν σταφίδα 2 κόψον",
+            "normalized_label": null,
+            "canonical_id": null,
+            "note": null
+          },
+          "reason_code": "lexical_false_positive",
+          "note": "Detached editorial numeral/sign with no unit or measurable noun phrase.",
+          "canonical_quantity": {
+            "source_span": "2",
+            "raw_number": "2",
+            "normalized_number": 2,
+            "raw_unit": null,
+            "normalized_unit": null
+          },
+          "value": null,
+          "raw_unit": null,
+          "normalized_unit": null,
+          "evidence": "Detached editorial numeral/sign with no unit or measurable noun phrase.",
+          "notes": [],
+          "provenance": {
+            "generated_by": "codex",
+            "generated_at": "2026-06-05T07:14:36Z",
+            "run_id": "20260605T071436Z-codex",
+            "method": "codex-authored reviewed seed from prior quantity-gold pass",
+            "note": "Detached editorial numeral/sign with no unit or measurable noun phrase."
+          },
+          "created_at": "2026-06-05T07:14:36Z",
+          "created_by": "codex",
+          "updated_at": "2026-06-05T07:14:36Z",
+          "updated_by": "codex",
+          "reviewed_by": null,
+          "supersedes": null
+        },
+        {
+          "record_id": "dioscorides-1-25-kyphi:r04",
+          "record_type": "rejection",
+          "recipe_id": "dioscorides-1-25-kyphi",
+          "dimension": "other",
+          "qualifier_kind": null,
+          "temporal_label": null,
+          "review_status": "rejected",
+          "source": {
+            "text": "ἄχρι κολλώδους συστάσεως",
+            "span": {
+              "source_span": "ἄχρι κολλώδους συστάσεως",
+              "line_citations": [
+                "29.5"
+              ]
+            },
+            "source_text_field": "text"
+          },
+          "target": {
+            "target_type": "process",
+            "source_span": "ἑψήσας τὸ μέλι",
+            "normalized_label": null,
+            "canonical_id": null,
+            "note": null
+          },
+          "reason_code": "process_word_not_measure",
+          "note": "Process endpoint description in this reviewed pass; the schema supports condition qualifiers when such spans are accepted.",
+          "canonical_quantity": null,
+          "value": null,
+          "raw_unit": null,
+          "normalized_unit": null,
+          "evidence": "Process endpoint description in this reviewed pass; the schema supports condition qualifiers when such spans are accepted.",
+          "notes": [],
+          "provenance": {
+            "generated_by": "codex",
+            "generated_at": "2026-06-05T07:14:36Z",
+            "run_id": "20260605T071436Z-codex",
+            "method": "codex-authored reviewed seed from prior quantity-gold pass",
+            "note": "Process endpoint description in this reviewed pass; the schema supports condition qualifiers when such spans are accepted."
+          },
+          "created_at": "2026-06-05T07:14:36Z",
+          "created_by": "codex",
+          "updated_at": "2026-06-05T07:14:36Z",
+          "updated_by": "codex",
+          "reviewed_by": null,
+          "supersedes": null
+        }
+      ],
+      "provenance": {
+        "gold_recipe_file": "data/review/quantity_gold/recipes/dioscorides-1-25-kyphi.json",
+        "artifact_version": "2026-06-05-codex-v1",
+        "run_id": "20260605T071436Z-codex"
+      }
+    }
+  }
+}

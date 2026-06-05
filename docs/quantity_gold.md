@@ -49,19 +49,15 @@ This repo validates 193 standalone recipe records:
 - Aetius Book 16 myrepsika: 45
 - Paul 7.20 perfumes: 35
 
-The mirrored quantity-gold artifacts may report `corpus_recipe_count: 174`.
-That value is copied from the artifact run that built the current reviewed
-overlay before the Book 2 fats slice was present in the local source workflow.
-It is not the current standalone export denominator.
+The current mirrored quantity-gold index reports `corpus_recipe_count: 193`.
+Older archived artifacts may still report `174`; that value is copied from an
+earlier artifact run and is not the current standalone export denominator.
 
 The current `aetius` source recipe-entity index and this standalone mirror both
 now contain 193 recipes, including `dioscorides_book2_fats` and the split
-Aëtius Book 16 record. The current LLM/gold process has still not run across all 193 recipes; the reviewed gold layer
-contains one accepted recipe record, `dioscorides-1-25-kyphi`.
-
-Until the quantity-gold artifacts are rebuilt and exported from the current
-`aetius` source tree, read `1 / 174` as artifact-run coverage and `193` as the
-current source/export corpus size.
+Aëtius Book 16 record. The current LLM/gold process has still not run across all
+193 recipes; the reviewed gold layer contains one accepted recipe record,
+`dioscorides-1-25-kyphi`.
 
 ## Validate
 

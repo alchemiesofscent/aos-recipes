@@ -14,13 +14,12 @@ Primary generated files:
 - `runs/<run_id>/`: timestamped mirror snapshots.
 - `archive/<run_id>/`: archived predecessors overwritten by export.
 
-Coverage note: the current mirrored quantity-gold artifacts may say
-`corpus_recipe_count: 174` because that denominator comes from the artifact run
-that built the reviewed overlay before Book 2 fats was present in the local
-source workflow. The current `aetius` source recipe-entity index and this
-standalone `aos-recipes` export are both 193 recipes, including the 18-record
-`dioscorides_book2_fats` slice and the 45-record Aëtius Book 16 slice. Rebuild and export quantity-gold artifacts from
-the current source tree to refresh the artifact denominator.
+Coverage note: the current mirrored quantity-gold index reports
+`corpus_recipe_count: 193`. Older archived artifacts may still say `174`
+because that denominator came from an earlier artifact run. The current
+`aetius` source recipe-entity index and this standalone `aos-recipes` export are
+both 193 recipes, including the 18-record `dioscorides_book2_fats` slice and the
+45-record Aëtius Book 16 slice.
 
 Validate mirrored records with:
 

@@ -102,12 +102,12 @@
     "entity_model_version": "1.2",
     "authority_version": "2026-04-13-qty-alt-v1",
     "prompt_version": "qty-alt-pass-v1",
-    "build_version": "2026-06-04T18:29:05Z"
+    "build_version": "2026-06-05T15:09:42Z"
   },
   "schema_version": "1.2",
   "build_metadata": {
     "builder": "scripts/recipes/build_recipe_entities.py",
-    "built_at": "2026-06-04T18:29:05Z",
+    "built_at": "2026-06-05T15:09:42Z",
     "source_structured_authority": "reports/entity_review/structured/aetius_book16.json",
     "authority_model": "gpt-5.4",
     "authority_reasoning_effort": "high",
@@ -115,7 +115,7 @@
     "entity_model_version": "1.2",
     "authority_version": "2026-04-13-qty-alt-v1",
     "prompt_version": "qty-alt-pass-v1",
-    "build_version": "2026-06-04T18:29:05Z"
+    "build_version": "2026-06-05T15:09:42Z"
   },
   "recipe_text_excerpt": "Κηροῦ λιτ. α. νάρδου κυζικηνικοῦ λίτ. γ. πίσσης βρυτίας γοε. λαδάνου γοα. στύρακος λιπαροῦ γογ. κόστου, κασίας ἀνὰ γοβ. καρδαμώμου,",
   "preparation": {
@@ -152,14 +152,12 @@
       "quantities": [
         {
           "source_span": "λιτ. α.",
-          "raw_number": "τ",
-          "normalized_number": 300,
+          "raw_number": "α",
+          "normalized_number": 1,
           "raw_unit": "λι",
           "normalized_unit": "litra",
           "certainty": "certain",
-          "notes": [
-            "Corrected by normalize_quantities.py (rule λι+numeral): raw_number 'α'→'τ', normalized_number 1→300."
-          ],
+          "notes": [],
           "measure_relation": "standalone",
           "measure_group_id": "aetius-16-131-2:ingredients:1:measure:1"
         }
@@ -226,7 +224,7 @@
           "source_span": "γοε.",
           "raw_number": "ε",
           "normalized_number": 5,
-          "raw_unit": "γο",
+          "raw_unit": "γο.",
           "normalized_unit": "uncia",
           "certainty": "certain",
           "notes": [],
@@ -261,7 +259,7 @@
           "source_span": "γοα.",
           "raw_number": "α",
           "normalized_number": 1,
-          "raw_unit": "γο",
+          "raw_unit": "γο.",
           "normalized_unit": "uncia",
           "certainty": "certain",
           "notes": [],
@@ -296,7 +294,7 @@
           "source_span": "γογ.",
           "raw_number": "γ",
           "normalized_number": 3,
-          "raw_unit": "γο",
+          "raw_unit": "γο.",
           "normalized_unit": "uncia",
           "certainty": "certain",
           "notes": [],
@@ -331,7 +329,7 @@
           "source_span": "γοβ.",
           "raw_number": "β",
           "normalized_number": 2,
-          "raw_unit": "γο",
+          "raw_unit": "γο.",
           "normalized_unit": "uncia",
           "certainty": "certain",
           "notes": [
@@ -368,7 +366,7 @@
           "source_span": "γοβ.",
           "raw_number": "β",
           "normalized_number": 2,
-          "raw_unit": "γο",
+          "raw_unit": "γο.",
           "normalized_unit": "uncia",
           "certainty": "certain",
           "notes": [
@@ -405,7 +403,7 @@
           "source_span": "γοα.",
           "raw_number": "α",
           "normalized_number": 1,
-          "raw_unit": "γο",
+          "raw_unit": "γο.",
           "normalized_unit": "uncia",
           "certainty": "certain",
           "notes": [
@@ -442,7 +440,7 @@
           "source_span": "γοα.",
           "raw_number": "α",
           "normalized_number": 1,
-          "raw_unit": "γο",
+          "raw_unit": "γο.",
           "normalized_unit": "uncia",
           "certainty": "certain",
           "notes": [
@@ -479,7 +477,7 @@
           "source_span": "γοα.",
           "raw_number": "α",
           "normalized_number": 1,
-          "raw_unit": "γο",
+          "raw_unit": "γο.",
           "normalized_unit": "uncia",
           "certainty": "certain",
           "notes": [],
@@ -524,7 +522,7 @@
           "source_span": "γοα.",
           "raw_number": "α",
           "normalized_number": 1,
-          "raw_unit": "γο",
+          "raw_unit": "γο.",
           "normalized_unit": "uncia",
           "certainty": "certain",
           "notes": [
@@ -561,7 +559,7 @@
           "source_span": "γοα.",
           "raw_number": "α",
           "normalized_number": 1,
-          "raw_unit": "γο",
+          "raw_unit": "γο.",
           "normalized_unit": "uncia",
           "certainty": "certain",
           "notes": [
@@ -598,7 +596,7 @@
           "source_span": "γογ.",
           "raw_number": "γ",
           "normalized_number": 3,
-          "raw_unit": "γο",
+          "raw_unit": "γο.",
           "normalized_unit": "uncia",
           "certainty": "certain",
           "notes": [],

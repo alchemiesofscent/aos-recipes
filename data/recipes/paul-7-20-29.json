@@ -114,12 +114,12 @@
     "entity_model_version": "1.2",
     "authority_version": "2026-04-13-qty-alt-v1",
     "prompt_version": "qty-alt-pass-v1",
-    "build_version": "2026-06-04T18:29:05Z"
+    "build_version": "2026-06-05T15:09:42Z"
   },
   "schema_version": "1.2",
   "build_metadata": {
     "builder": "scripts/recipes/build_recipe_entities.py",
-    "built_at": "2026-06-04T18:29:05Z",
+    "built_at": "2026-06-05T15:09:42Z",
     "source_structured_authority": "reports/entity_review/structured/paul.json",
     "authority_model": "gpt-5.4",
     "authority_reasoning_effort": "high",
@@ -127,7 +127,7 @@
     "entity_model_version": "1.2",
     "authority_version": "2026-04-13-qty-alt-v1",
     "prompt_version": "qty-alt-pass-v1",
-    "build_version": "2026-06-04T18:29:05Z"
+    "build_version": "2026-06-05T15:09:42Z"
   },
   "recipe_text_excerpt": "Ἴρεως, ἀσπαλάθου, κυπέρου ἀνὰ λι. ε, ὀποπάνακος 𐆄 γ, ἀγχούσης 𐆄 β, ἐλαίου ξ̸ α, ὕδατος ξ̸ ιε· τινὲς προστιθέασιν",
   "preparation": {
@@ -169,7 +169,7 @@
           "source_span": "λι. ε",
           "raw_number": "ε",
           "normalized_number": 5,
-          "raw_unit": "λι",
+          "raw_unit": "λι.",
           "normalized_unit": "litra",
           "certainty": "certain",
           "notes": [
@@ -209,7 +209,7 @@
           "source_span": "λι. ε",
           "raw_number": "ε",
           "normalized_number": 5,
-          "raw_unit": "λι",
+          "raw_unit": "λι.",
           "normalized_unit": "litra",
           "certainty": "certain",
           "notes": [
@@ -249,7 +249,7 @@
           "source_span": "λι. ε",
           "raw_number": "ε",
           "normalized_number": 5,
-          "raw_unit": "λι",
+          "raw_unit": "λι.",
           "normalized_unit": "litra",
           "certainty": "certain",
           "notes": [
