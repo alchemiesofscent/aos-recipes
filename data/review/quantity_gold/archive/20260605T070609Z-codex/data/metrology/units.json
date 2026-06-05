@@ -1,0 +1,175 @@
+{
+  "metadata": {
+    "schema_version": "metrology-v1",
+    "source_tsv": "provenance/source/docs/weights-and-measures.tsv",
+    "source_repo_path": "/home/seancoughlin/Projects/aetius/docs/weights-and-measures.tsv",
+    "notes": [
+      "Controlled unit vocabulary for quantity-gold records.",
+      "Aliases include the abbreviated Greek/sign forms seen in the exported recipe corpus.",
+      "Canonical recipe JSON is not regenerated from this file directly."
+    ]
+  },
+  "units": [
+    {
+      "normalized_unit": "ceration",
+      "kind": "weight",
+      "source_measures": ["κεράτιον"],
+      "symbols": [],
+      "aliases": ["keration", "carob seed"]
+    },
+    {
+      "normalized_unit": "cochlarion",
+      "kind": "volume",
+      "source_measures": ["κοχλιάριον"],
+      "symbols": [],
+      "aliases": ["spoon"]
+    },
+    {
+      "normalized_unit": "choinix",
+      "kind": "volume",
+      "source_measures": ["χοῖνιξ"],
+      "symbols": [],
+      "aliases": ["daily ration"]
+    },
+    {
+      "normalized_unit": "chous",
+      "kind": "volume",
+      "source_measures": ["χοῦς"],
+      "symbols": ["Χ"],
+      "aliases": ["choes", "χοε", "χοῦν", "χοέα", "χοέας"]
+    },
+    {
+      "normalized_unit": "cotyle",
+      "kind": "volume",
+      "source_measures": ["κοτύλη"],
+      "symbols": [],
+      "aliases": ["κοτύλη", "κοτύλης", "κοτύλας", "cup"]
+    },
+    {
+      "normalized_unit": "cyathos",
+      "kind": "volume",
+      "source_measures": ["κύαθος"],
+      "symbols": ["𐆂"],
+      "aliases": ["κυάθων", "κύαθον", "ladle"]
+    },
+    {
+      "normalized_unit": "drachme",
+      "kind": "weight",
+      "source_measures": ["δραχμή"],
+      "symbols": ["𐅻"],
+      "aliases": ["δραχ.", "δραχμή", "δραχμὰς", "δραχμάς"]
+    },
+    {
+      "normalized_unit": "gramma",
+      "kind": "weight",
+      "source_measures": ["γράμμα"],
+      "symbols": ["𐆈"],
+      "aliases": ["γρ", "γραμ.", "γράμμα", "γράμματα"]
+    },
+    {
+      "normalized_unit": "holce",
+      "kind": "weight",
+      "source_measures": ["ὁλκή"],
+      "symbols": [],
+      "aliases": ["ὁλκή", "ὁλκήν", "ὁλκὰς", "ὁλκάς"]
+    },
+    {
+      "normalized_unit": "litra",
+      "kind": "weight",
+      "source_measures": ["λίτρα"],
+      "symbols": ["𐆃"],
+      "aliases": ["λι", "λι.", "λιτ.", "λιτρ.", "λίτ.", "λίτρ.", "λίτρα", "λίτρα", "λίτραν", "λίτραν", "λίτραι", "λίτρας", "λίτρας"]
+    },
+    {
+      "normalized_unit": "metretes",
+      "kind": "volume",
+      "source_measures": ["μετρήτης"],
+      "symbols": ["𐆁"],
+      "aliases": ["measure"]
+    },
+    {
+      "normalized_unit": "mna",
+      "kind": "weight",
+      "source_measures": ["μνᾶ", "μίναι"],
+      "symbols": [],
+      "aliases": ["μνᾶν", "μνᾶς", "mina"]
+    },
+    {
+      "normalized_unit": "tribolon",
+      "kind": "weight",
+      "source_measures": ["τριώβολον"],
+      "symbols": ["𐅾"],
+      "aliases": ["triple obol"]
+    },
+    {
+      "normalized_unit": "uncia",
+      "kind": "weight",
+      "source_measures": ["οὐγχία"],
+      "symbols": ["𐆄"],
+      "aliases": ["γο", "γο.", "οὐγ.", "οὐγγία", "οὐγγίας", "οὐγγίαν", "οὐγγίας", "ὀγκιῶν", "oungia"]
+    },
+    {
+      "normalized_unit": "xestes",
+      "kind": "volume",
+      "source_measures": ["ξέστης"],
+      "symbols": ["𐆅", "ξ̸"],
+      "aliases": ["ξε", "ξε.", "ξέστ.", "ξέστ.", "ξέστης", "ξέστης", "ξέστας", "ξέστας", "ξστ.", "sextarius"]
+    },
+    {
+      "normalized_unit": "count",
+      "kind": "count",
+      "source_measures": [],
+      "symbols": [],
+      "aliases": ["ἀριθμῷ", "τὸν ἀριθμὸν", "count"]
+    },
+    {
+      "normalized_unit": "daktylos",
+      "kind": "length",
+      "source_measures": ["δάκτυλος"],
+      "symbols": [],
+      "aliases": ["δάκτυλον", "δακτύλους"]
+    },
+    {
+      "normalized_unit": "kenchros",
+      "kind": "count",
+      "source_measures": ["κέγχρος"],
+      "symbols": [],
+      "aliases": ["κέγχρους"]
+    },
+    {
+      "normalized_unit": "kokkos",
+      "kind": "count",
+      "source_measures": ["κόκκος"],
+      "symbols": [],
+      "aliases": ["κόκκους"]
+    },
+    {
+      "normalized_unit": "duration_day",
+      "kind": "duration",
+      "source_measures": ["ἡμέρα"],
+      "symbols": [],
+      "aliases": ["ἡμέραν", "ἡμέρας", "ἡμέραν", "ἡμέρας"]
+    },
+    {
+      "normalized_unit": "duration_hour",
+      "kind": "duration",
+      "source_measures": ["ὥρα"],
+      "symbols": [],
+      "aliases": ["ὥραν", "ὥρας"]
+    },
+    {
+      "normalized_unit": "duration_day_and_night",
+      "kind": "duration",
+      "source_measures": ["ἡμέρα καὶ νύξ"],
+      "symbols": [],
+      "aliases": ["ἡμέραν καὶ νύκτα", "ἡμέραν καὶ νύκτα", "νυχθήμερον"]
+    },
+    {
+      "normalized_unit": "descriptor",
+      "kind": "descriptor",
+      "source_measures": [],
+      "symbols": [],
+      "aliases": ["same_as", "relative_to", "fraction", "part", "quantity_unspecified"]
+    }
+  ]
+}

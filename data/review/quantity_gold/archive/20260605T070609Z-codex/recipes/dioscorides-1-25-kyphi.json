@@ -1,0 +1,553 @@
+{
+  "schema_version": "quantity-gold-v1",
+  "recipe_id": "dioscorides-1-25-kyphi",
+  "dataset_key": "dioscorides_book1_perfumes_resins",
+  "review_status": "agent_reviewed",
+  "quantities": [
+    {
+      "quantity_id": "q01",
+      "status": "accepted",
+      "source_span": "ἡμίξεστον",
+      "line_citations": [
+        "28.20"
+      ],
+      "host": {
+        "type": "ingredient",
+        "source_span": "κυπέρου",
+        "normalized_label": null,
+        "canonical_id": null,
+        "note": null
+      },
+      "value": {
+        "kind": "fraction",
+        "rational": {
+          "numerator": 1,
+          "denominator": 2
+        },
+        "range": null,
+        "display": "1/2",
+        "raw_number": "ἡμι-"
+      },
+      "raw_unit": "ἡμίξεστον",
+      "normalized_unit": "xestes",
+      "unit_certainty": "certain",
+      "components": [],
+      "alternatives": [],
+      "primary_reading_id": "q01-r1",
+      "evidence": {
+        "rationale": "The fused form ἡμίξεστον denotes one-half of a xestes and is the explicit quantity for cyperus.",
+        "syntax_cue": "ἡμι-",
+        "nearby_context": "κυπέρου ἡμίξεστον, ἀρκευθίδος ἁδρᾶς τὸ αὐτό",
+        "inferred_from_shared_context": false,
+        "adjudication": "Accepted the half-xestes reading and rejected any numeral-style misreading of the fused form."
+      },
+      "notes": []
+    },
+    {
+      "quantity_id": "q02",
+      "status": "accepted",
+      "source_span": "τὸ αὐτό",
+      "line_citations": [
+        "28.20"
+      ],
+      "host": {
+        "type": "ingredient",
+        "source_span": "ἀρκευθίδος ἁδρᾶς",
+        "normalized_label": null,
+        "canonical_id": null,
+        "note": null
+      },
+      "value": {
+        "kind": "same_as",
+        "rational": null,
+        "range": null,
+        "display": "same as previous amount",
+        "raw_number": "τὸ αὐτό"
+      },
+      "raw_unit": null,
+      "normalized_unit": "xestes",
+      "unit_certainty": "certain",
+      "components": [
+        {
+          "source_span": "ἡμίξεστον",
+          "value": {
+            "kind": "fraction",
+            "rational": {
+              "numerator": 1,
+              "denominator": 2
+            },
+            "range": null,
+            "display": "1/2",
+            "raw_number": "ἡμι-"
+          },
+          "raw_unit": "ἡμίξεστον",
+          "normalized_unit": "xestes",
+          "relation": "same_as",
+          "note": "Antecedent quantity carried over to juniper by τὸ αὐτό."
+        }
+      ],
+      "alternatives": [],
+      "primary_reading_id": "q02-r1",
+      "evidence": {
+        "rationale": "τὸ αὐτό anaphorically repeats the immediately preceding quantity, so juniper receives the same half-xestes amount as cyperus.",
+        "syntax_cue": "τὸ αὐτό",
+        "nearby_context": "κυπέρου ἡμίξεστον, ἀρκευθίδος ἁδρᾶς τὸ αὐτό",
+        "inferred_from_shared_context": true,
+        "adjudication": "Normalized from the explicit antecedent ἡμίξεστον to the same half-xestes quantity."
+      },
+      "notes": []
+    },
+    {
+      "quantity_id": "q03",
+      "status": "accepted",
+      "source_span": "μνᾶς δεκαδύο",
+      "line_citations": [
+        "28.20"
+      ],
+      "host": {
+        "type": "ingredient",
+        "source_span": "σταφίδος λιπαρᾶς ἐκγεγιγαρτισμένης",
+        "normalized_label": null,
+        "canonical_id": null,
+        "note": null
+      },
+      "value": {
+        "kind": "exact",
+        "rational": {
+          "numerator": 12,
+          "denominator": 1
+        },
+        "range": null,
+        "display": "12",
+        "raw_number": "δεκαδύο"
+      },
+      "raw_unit": "μνᾶς",
+      "normalized_unit": "mna",
+      "unit_certainty": "certain",
+      "components": [],
+      "alternatives": [],
+      "primary_reading_id": "q03-r1",
+      "evidence": {
+        "rationale": "The phrase explicitly gives twelve mnas of pitted rich raisins.",
+        "syntax_cue": "cardinal + unit",
+        "nearby_context": "σταφίδος λιπαρᾶς ἐκγεγιγαρτισμένης μνᾶς δεκαδύο",
+        "inferred_from_shared_context": false,
+        "adjudication": null
+      },
+      "notes": []
+    },
+    {
+      "quantity_id": "q04",
+      "status": "accepted",
+      "source_span": "μνᾶς πέντε",
+      "line_citations": [
+        "29.1"
+      ],
+      "host": {
+        "type": "ingredient",
+        "source_span": "ῥητίνης ἀποκεκαθαρμένης",
+        "normalized_label": null,
+        "canonical_id": null,
+        "note": null
+      },
+      "value": {
+        "kind": "exact",
+        "rational": {
+          "numerator": 5,
+          "denominator": 1
+        },
+        "range": null,
+        "display": "5",
+        "raw_number": "πέντε"
+      },
+      "raw_unit": "μνᾶς",
+      "normalized_unit": "mna",
+      "unit_certainty": "certain",
+      "components": [],
+      "alternatives": [],
+      "primary_reading_id": "q04-r1",
+      "evidence": {
+        "rationale": "The resin amount is stated directly as five mnas.",
+        "syntax_cue": "cardinal + unit",
+        "nearby_context": "σταφίδος λιπαρᾶς ἐκγεγιγαρτισμένης μνᾶς δεκαδύο, ῥητίνης ἀποκεκαθαρμένης μνᾶς πέντε",
+        "inferred_from_shared_context": false,
+        "adjudication": "Host and quantity cross the edition line break, but the measure itself is explicit."
+      },
+      "notes": []
+    },
+    {
+      "quantity_id": "q05",
+      "status": "accepted",
+      "source_span": "ἑκάστου μνᾶν μίαν",
+      "line_citations": [
+        "29.1"
+      ],
+      "host": {
+        "type": "ingredient",
+        "source_span": "καλάμου ἀρωματίτου",
+        "normalized_label": null,
+        "canonical_id": null,
+        "note": "One of three ingredients governed by ἑκάστου."
+      },
+      "value": {
+        "kind": "exact",
+        "rational": {
+          "numerator": 1,
+          "denominator": 1
+        },
+        "range": null,
+        "display": "1",
+        "raw_number": "μίαν"
+      },
+      "raw_unit": "μνᾶν",
+      "normalized_unit": "mna",
+      "unit_certainty": "certain",
+      "components": [],
+      "alternatives": [],
+      "primary_reading_id": "q05-r1",
+      "evidence": {
+        "rationale": "The distributive ἑκάστου assigns one mna to each ingredient in the immediately preceding series, including calamus.",
+        "syntax_cue": "ἑκάστου",
+        "nearby_context": "καλάμου ἀρωματίτου, ἀσπαλάθου, σχοίνου, ἑκάστου μνᾶν μίαν",
+        "inferred_from_shared_context": true,
+        "adjudication": "Expanded the shared distributive phrase into an ingredient-specific quantity."
+      },
+      "notes": []
+    },
+    {
+      "quantity_id": "q06",
+      "status": "accepted",
+      "source_span": "ἑκάστου μνᾶν μίαν",
+      "line_citations": [
+        "29.1"
+      ],
+      "host": {
+        "type": "ingredient",
+        "source_span": "ἀσπαλάθου",
+        "normalized_label": null,
+        "canonical_id": null,
+        "note": "One of three ingredients governed by ἑκάστου."
+      },
+      "value": {
+        "kind": "exact",
+        "rational": {
+          "numerator": 1,
+          "denominator": 1
+        },
+        "range": null,
+        "display": "1",
+        "raw_number": "μίαν"
+      },
+      "raw_unit": "μνᾶν",
+      "normalized_unit": "mna",
+      "unit_certainty": "certain",
+      "components": [],
+      "alternatives": [],
+      "primary_reading_id": "q06-r1",
+      "evidence": {
+        "rationale": "The distributive ἑκάστου assigns one mna to each ingredient in the immediately preceding series, including aspalathus.",
+        "syntax_cue": "ἑκάστου",
+        "nearby_context": "καλάμου ἀρωματίτου, ἀσπαλάθου, σχοίνου, ἑκάστου μνᾶν μίαν",
+        "inferred_from_shared_context": true,
+        "adjudication": "Expanded the shared distributive phrase into an ingredient-specific quantity."
+      },
+      "notes": []
+    },
+    {
+      "quantity_id": "q07",
+      "status": "accepted",
+      "source_span": "ἑκάστου μνᾶν μίαν",
+      "line_citations": [
+        "29.1"
+      ],
+      "host": {
+        "type": "ingredient",
+        "source_span": "σχοίνου",
+        "normalized_label": null,
+        "canonical_id": null,
+        "note": "One of three ingredients governed by ἑκάστου."
+      },
+      "value": {
+        "kind": "exact",
+        "rational": {
+          "numerator": 1,
+          "denominator": 1
+        },
+        "range": null,
+        "display": "1",
+        "raw_number": "μίαν"
+      },
+      "raw_unit": "μνᾶν",
+      "normalized_unit": "mna",
+      "unit_certainty": "certain",
+      "components": [],
+      "alternatives": [],
+      "primary_reading_id": "q07-r1",
+      "evidence": {
+        "rationale": "The distributive ἑκάστου assigns one mna to each ingredient in the immediately preceding series, including schoenus.",
+        "syntax_cue": "ἑκάστου",
+        "nearby_context": "καλάμου ἀρωματίτου, ἀσπαλάθου, σχοίνου, ἑκάστου μνᾶν μίαν",
+        "inferred_from_shared_context": true,
+        "adjudication": "Expanded the shared distributive phrase into an ingredient-specific quantity."
+      },
+      "notes": []
+    },
+    {
+      "quantity_id": "q08",
+      "status": "accepted",
+      "source_span": "δραχμὰς δεκαδύο",
+      "line_citations": [
+        "29.1"
+      ],
+      "host": {
+        "type": "ingredient",
+        "source_span": "σμύρνης",
+        "normalized_label": null,
+        "canonical_id": null,
+        "note": null
+      },
+      "value": {
+        "kind": "exact",
+        "rational": {
+          "numerator": 12,
+          "denominator": 1
+        },
+        "range": null,
+        "display": "12",
+        "raw_number": "δεκαδύο"
+      },
+      "raw_unit": "δραχμὰς",
+      "normalized_unit": "drachme",
+      "unit_certainty": "certain",
+      "components": [],
+      "alternatives": [],
+      "primary_reading_id": "q08-r1",
+      "evidence": {
+        "rationale": "The myrrh quantity is directly stated as twelve drachmai.",
+        "syntax_cue": "cardinal + unit",
+        "nearby_context": "σμύρνης δραχμὰς δεκαδύο",
+        "inferred_from_shared_context": false,
+        "adjudication": null
+      },
+      "notes": []
+    },
+    {
+      "quantity_id": "q09",
+      "status": "accepted",
+      "source_span": "ξέστας ἐννέα",
+      "line_citations": [
+        "29.1"
+      ],
+      "host": {
+        "type": "ingredient",
+        "source_span": "οἴνου παλαιοῦ",
+        "normalized_label": null,
+        "canonical_id": null,
+        "note": null
+      },
+      "value": {
+        "kind": "exact",
+        "rational": {
+          "numerator": 9,
+          "denominator": 1
+        },
+        "range": null,
+        "display": "9",
+        "raw_number": "ἐννέα"
+      },
+      "raw_unit": "ξέστας",
+      "normalized_unit": "xestes",
+      "unit_certainty": "certain",
+      "components": [],
+      "alternatives": [],
+      "primary_reading_id": "q09-r1",
+      "evidence": {
+        "rationale": "The old wine measure is explicitly nine xestai.",
+        "syntax_cue": "cardinal + unit",
+        "nearby_context": "οἴνου παλαιοῦ ξέστας ἐννέα",
+        "inferred_from_shared_context": false,
+        "adjudication": null
+      },
+      "notes": []
+    },
+    {
+      "quantity_id": "q10",
+      "status": "accepted",
+      "source_span": "μνᾶς δύο",
+      "line_citations": [
+        "29.1"
+      ],
+      "host": {
+        "type": "ingredient",
+        "source_span": "μέλιτος",
+        "normalized_label": null,
+        "canonical_id": null,
+        "note": null
+      },
+      "value": {
+        "kind": "exact",
+        "rational": {
+          "numerator": 2,
+          "denominator": 1
+        },
+        "range": null,
+        "display": "2",
+        "raw_number": "δύο"
+      },
+      "raw_unit": "μνᾶς",
+      "normalized_unit": "mna",
+      "unit_certainty": "certain",
+      "components": [],
+      "alternatives": [],
+      "primary_reading_id": "q10-r1",
+      "evidence": {
+        "rationale": "The honey amount is directly stated as two mnas.",
+        "syntax_cue": "cardinal + unit",
+        "nearby_context": "μέλιτος μνᾶς δύο",
+        "inferred_from_shared_context": false,
+        "adjudication": null
+      },
+      "notes": []
+    },
+    {
+      "quantity_id": "q11",
+      "status": "accepted",
+      "source_span": "ἡμέραν μίαν",
+      "line_citations": [
+        "29.5"
+      ],
+      "host": {
+        "type": "process",
+        "source_span": "ἔασόν τε συμπιεῖν",
+        "normalized_label": null,
+        "canonical_id": null,
+        "note": null
+      },
+      "value": {
+        "kind": "exact",
+        "rational": {
+          "numerator": 1,
+          "denominator": 1
+        },
+        "range": null,
+        "display": "1",
+        "raw_number": "μίαν"
+      },
+      "raw_unit": "ἡμέραν",
+      "normalized_unit": "duration_day",
+      "unit_certainty": "certain",
+      "components": [],
+      "alternatives": [],
+      "primary_reading_id": "q11-r1",
+      "evidence": {
+        "rationale": "The phrase gives a one-day duration for letting the mixture stand/compress.",
+        "syntax_cue": "accusative duration phrase",
+        "nearby_context": "μεῖξον τούτοις ἔασόν τε συμπιεῖν ἡμέραν μίαν",
+        "inferred_from_shared_context": false,
+        "adjudication": null
+      },
+      "notes": []
+    }
+  ],
+  "rejections": [
+    {
+      "source_span": "κατακόρως",
+      "host": {
+        "type": "process",
+        "source_span": "χρῶνται δὲ αὐτῷ",
+        "normalized_label": null,
+        "canonical_id": null,
+        "note": null
+      },
+      "reason": "Degree adverb for manner of use; it does not encode a bounded recipe quantity or process measure.",
+      "line_citations": [
+        "28.15"
+      ],
+      "canonical_quantity": null
+    },
+    {
+      "source_span": "πλείονες",
+      "host": {
+        "type": "variant",
+        "source_span": "σκευασίαι δὲ αὐτοῦ ἐμφέρονται",
+        "normalized_label": null,
+        "canonical_id": null,
+        "note": null
+      },
+      "reason": "Indefinite statement that multiple formulations exist; not a quantified amount belonging to this recipe formulation.",
+      "line_citations": [
+        "28.20"
+      ],
+      "canonical_quantity": {
+        "source_span": "πλείονες",
+        "raw_number": "πλείονες",
+        "normalized_number": "several",
+        "raw_unit": null,
+        "normalized_unit": "count"
+      }
+    },
+    {
+      "source_span": "2",
+      "host": {
+        "type": "unknown",
+        "source_span": "ἐκγιγαρτίσας τὴν σταφίδα 2 κόψον",
+        "normalized_label": null,
+        "canonical_id": null,
+        "note": null
+      },
+      "reason": "Detached numeral/sign with no unit or measurable noun phrase; insufficient support to treat it as a recipe quantity.",
+      "line_citations": [
+        "29.1"
+      ],
+      "canonical_quantity": {
+        "source_span": "2",
+        "raw_number": "2",
+        "normalized_number": 2,
+        "raw_unit": null,
+        "normalized_unit": null
+      }
+    },
+    {
+      "source_span": "ἄχρι κολλώδους συστάσεως",
+      "host": {
+        "type": "process",
+        "source_span": "ἑψήσας τὸ μέλι",
+        "normalized_label": null,
+        "canonical_id": null,
+        "note": null
+      },
+      "reason": "Process endpoint description rather than an independently encoded quantity expression in this pass.",
+      "line_citations": [
+        "29.5"
+      ],
+      "canonical_quantity": null
+    }
+  ],
+  "unresolved_questions": [],
+  "notes": [
+    "Accepted only literal source spans present in the supplied text.",
+    "Shared-context quantities were expanded for τὸ αὐτό and for the distributive ἑκάστου phrase.",
+    "The standalone '2' was judged non-measural and rejected rather than silently normalized."
+  ],
+  "reviewer": {
+    "recipe_id": "dioscorides-1-25-kyphi",
+    "status": "pass",
+    "issues": [],
+    "summary": "No blocking issues found. All cited source spans are present in the supplied text, ἡμίξεστον is correctly treated as a half-xestes rather than a numeralized unit form, shared-context quantities are handled consistently, the stray '2' is appropriately rejected, and the one-day duration is correctly filed as a process quantity."
+  },
+  "metadata": {
+    "builder": "scripts/quantity_gold.py",
+    "built_at": "2026-06-05T05:53:06Z",
+    "model": "gpt-5.4",
+    "reasoning_effort": "high",
+    "metrology": "data/metrology/units.json",
+    "source_scope": [
+      "lemma",
+      "text",
+      "original_text",
+      "citation.lines"
+    ],
+    "canonical_quantities_used_as_evidence": false,
+    "temp_root": "/tmp/aos_quantity_gold"
+  }
+}

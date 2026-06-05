@@ -1,0 +1,69 @@
+{
+  "metadata": {
+    "schema_version": "quantity-gold-v2",
+    "artifact_version": "2026-06-05-codex-v1",
+    "artifact_name": "quantity-gold process qualifier vocabulary",
+    "run_id": "20260605T071830Z-codex",
+    "created_at": "2026-06-05T07:14:36Z",
+    "created_by": "codex",
+    "updated_at": "2026-06-05T07:18:30Z",
+    "updated_by": "codex",
+    "reviewed_by": null,
+    "source_repo": "/home/seancoughlin/Projects/aetius",
+    "source_commit": "b583dd6a17551b4ceacd04ad59fd2f0d410f570b",
+    "derived_repo": "/home/seancoughlin/Projects/aos-recipes",
+    "derived_commit": null,
+    "previous_version": "20260605T071446Z-codex",
+    "archive_path": "data/review/quantity_gold/archive/20260605T071830Z-codex/vocabularies/process_qualifiers.json",
+    "review_status": "machine_validated",
+    "content_sha256_excluding_metadata": "6aada4cb906e1a77ea12e36f76a9bc77eac137850d1c904b147fc223c8648a67"
+  },
+  "qualifier_kinds": [
+    {
+      "kind": "duration",
+      "dimension": "time",
+      "example": "for four days"
+    },
+    {
+      "kind": "frequency",
+      "dimension": "rate",
+      "example": "twice per day"
+    },
+    {
+      "kind": "repetition",
+      "dimension": "count",
+      "example": "boil three times"
+    },
+    {
+      "kind": "interval",
+      "dimension": "time",
+      "example": "every other day"
+    },
+    {
+      "kind": "sequence",
+      "dimension": "other",
+      "example": "then"
+    },
+    {
+      "kind": "condition",
+      "dimension": "time",
+      "example": "until dry"
+    },
+    {
+      "kind": "temperature",
+      "dimension": "temperature",
+      "example": "over a gentle fire"
+    },
+    {
+      "kind": "manner",
+      "dimension": "other",
+      "example": "carefully"
+    },
+    {
+      "kind": "other",
+      "dimension": "other",
+      "example": "unclassified adverbial"
+    }
+  ],
+  "modeling_note": "Frequency and duration are separate records attached to the same target process occurrence."
+}

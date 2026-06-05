@@ -1,0 +1,338 @@
+{
+  "metadata": {
+    "schema_version": "quantity-gold-v2",
+    "artifact_version": "2026-06-05-codex-v1",
+    "artifact_name": "quantity-gold compatibility projection",
+    "run_id": "20260605T071446Z-codex",
+    "created_at": "2026-06-05T07:14:36Z",
+    "created_by": "codex",
+    "updated_at": "2026-06-05T07:14:46Z",
+    "updated_by": "codex",
+    "reviewed_by": null,
+    "source_repo": "/home/seancoughlin/Projects/aetius",
+    "source_commit": "1632f26bab10aca3eaa698c086b54d0167440f20",
+    "derived_repo": "/home/seancoughlin/Projects/aos-recipes",
+    "derived_commit": null,
+    "previous_version": "20260605T070700Z-codex",
+    "archive_path": "data/review/quantity_gold/archive/20260605T071446Z-codex/projection/recipes.json",
+    "review_status": "accepted_for_projection",
+    "content_sha256_excluding_metadata": "a91b3ef55b3d0297badd9966f351985938c41288124705b85c8e631ee504b90a"
+  },
+  "projection_kind": "compatibility_quantities",
+  "note": "Non-mutating projection into the existing quantities[] shape; canonical recipe JSON is unchanged.",
+  "recipes": {
+    "dioscorides-1-25-kyphi": {
+      "recipe_id": "dioscorides-1-25-kyphi",
+      "dataset_key": "dioscorides_book1_perfumes_resins",
+      "projected_quantities_by_host": {
+        "ingredient:κυπέρου": [
+          {
+            "source_span": "ἡμίξεστον",
+            "raw_number": "ἡμι-",
+            "normalized_number": 0.5,
+            "raw_unit": "ἡμίξεστον",
+            "normalized_unit": "xestes",
+            "certainty": "certain",
+            "notes": [
+              "The fused form ἡμίξεστον denotes one-half of a xestes and is the explicit quantity for cyperus."
+            ],
+            "gold_record_id": "dioscorides-1-25-kyphi:q01",
+            "gold_record_version": "2026-06-05-codex-v1",
+            "gold_value": {
+              "kind": "fraction",
+              "rational": {
+                "numerator": 1,
+                "denominator": 2
+              },
+              "display": "1/2",
+              "raw_number": "ἡμι-",
+              "normalized_unit": "xestes",
+              "source_value": "ἡμίξεστον",
+              "reference": null
+            }
+          }
+        ],
+        "ingredient:ἀρκευθίδος ἁδρᾶς": [
+          {
+            "source_span": "τὸ αὐτό",
+            "raw_number": "τὸ αὐτό",
+            "normalized_number": 0.5,
+            "raw_unit": null,
+            "normalized_unit": "xestes",
+            "certainty": "certain",
+            "notes": [
+              "τὸ αὐτό anaphorically repeats the immediately preceding half-xestes quantity."
+            ],
+            "gold_record_id": "dioscorides-1-25-kyphi:q02",
+            "gold_record_version": "2026-06-05-codex-v1",
+            "gold_value": {
+              "kind": "fraction",
+              "rational": {
+                "numerator": 1,
+                "denominator": 2
+              },
+              "display": "same as previous amount (1/2)",
+              "raw_number": "τὸ αὐτό",
+              "normalized_unit": "xestes",
+              "source_value": "τὸ αὐτό",
+              "reference": {
+                "relation": "same_as",
+                "record_id": "dioscorides-1-25-kyphi:q01",
+                "note": "Antecedent quantity carried over by τὸ αὐτό."
+              }
+            }
+          }
+        ],
+        "ingredient:σταφίδος λιπαρᾶς ἐκγεγιγαρτισμένης": [
+          {
+            "source_span": "μνᾶς δεκαδύο",
+            "raw_number": "δεκαδύο",
+            "normalized_number": 12,
+            "raw_unit": "μνᾶς",
+            "normalized_unit": "mna",
+            "certainty": "certain",
+            "notes": [
+              "The phrase explicitly gives twelve mnas of pitted rich raisins."
+            ],
+            "gold_record_id": "dioscorides-1-25-kyphi:q03",
+            "gold_record_version": "2026-06-05-codex-v1",
+            "gold_value": {
+              "kind": "integer",
+              "rational": {
+                "numerator": 12,
+                "denominator": 1
+              },
+              "display": "12",
+              "raw_number": "δεκαδύο",
+              "normalized_unit": "mna",
+              "source_value": "μνᾶς δεκαδύο",
+              "temporal_label": null,
+              "reference": null
+            }
+          }
+        ],
+        "ingredient:ῥητίνης ἀποκεκαθαρμένης": [
+          {
+            "source_span": "μνᾶς πέντε",
+            "raw_number": "πέντε",
+            "normalized_number": 5,
+            "raw_unit": "μνᾶς",
+            "normalized_unit": "mna",
+            "certainty": "certain",
+            "notes": [
+              "The resin amount is stated directly as five mnas."
+            ],
+            "gold_record_id": "dioscorides-1-25-kyphi:q04",
+            "gold_record_version": "2026-06-05-codex-v1",
+            "gold_value": {
+              "kind": "integer",
+              "rational": {
+                "numerator": 5,
+                "denominator": 1
+              },
+              "display": "5",
+              "raw_number": "πέντε",
+              "normalized_unit": "mna",
+              "source_value": "μνᾶς πέντε",
+              "temporal_label": null,
+              "reference": null
+            }
+          }
+        ],
+        "ingredient:καλάμου ἀρωματίτου": [
+          {
+            "source_span": "ἑκάστου μνᾶν μίαν",
+            "raw_number": "μίαν",
+            "normalized_number": 1,
+            "raw_unit": "μνᾶν",
+            "normalized_unit": "mna",
+            "certainty": "certain",
+            "notes": [
+              "The distributive ἑκάστου assigns one mna to calamus."
+            ],
+            "gold_record_id": "dioscorides-1-25-kyphi:q05",
+            "gold_record_version": "2026-06-05-codex-v1",
+            "gold_value": {
+              "kind": "integer",
+              "rational": {
+                "numerator": 1,
+                "denominator": 1
+              },
+              "display": "1",
+              "raw_number": "μίαν",
+              "normalized_unit": "mna",
+              "source_value": "ἑκάστου μνᾶν μίαν",
+              "temporal_label": null,
+              "reference": null
+            }
+          }
+        ],
+        "ingredient:ἀσπαλάθου": [
+          {
+            "source_span": "ἑκάστου μνᾶν μίαν",
+            "raw_number": "μίαν",
+            "normalized_number": 1,
+            "raw_unit": "μνᾶν",
+            "normalized_unit": "mna",
+            "certainty": "certain",
+            "notes": [
+              "The distributive ἑκάστου assigns one mna to aspalathus."
+            ],
+            "gold_record_id": "dioscorides-1-25-kyphi:q06",
+            "gold_record_version": "2026-06-05-codex-v1",
+            "gold_value": {
+              "kind": "integer",
+              "rational": {
+                "numerator": 1,
+                "denominator": 1
+              },
+              "display": "1",
+              "raw_number": "μίαν",
+              "normalized_unit": "mna",
+              "source_value": "ἑκάστου μνᾶν μίαν",
+              "temporal_label": null,
+              "reference": null
+            }
+          }
+        ],
+        "ingredient:σχοίνου": [
+          {
+            "source_span": "ἑκάστου μνᾶν μίαν",
+            "raw_number": "μίαν",
+            "normalized_number": 1,
+            "raw_unit": "μνᾶν",
+            "normalized_unit": "mna",
+            "certainty": "certain",
+            "notes": [
+              "The distributive ἑκάστου assigns one mna to schoenus."
+            ],
+            "gold_record_id": "dioscorides-1-25-kyphi:q07",
+            "gold_record_version": "2026-06-05-codex-v1",
+            "gold_value": {
+              "kind": "integer",
+              "rational": {
+                "numerator": 1,
+                "denominator": 1
+              },
+              "display": "1",
+              "raw_number": "μίαν",
+              "normalized_unit": "mna",
+              "source_value": "ἑκάστου μνᾶν μίαν",
+              "temporal_label": null,
+              "reference": null
+            }
+          }
+        ],
+        "ingredient:σμύρνης": [
+          {
+            "source_span": "δραχμὰς δεκαδύο",
+            "raw_number": "δεκαδύο",
+            "normalized_number": 12,
+            "raw_unit": "δραχμὰς",
+            "normalized_unit": "drachme",
+            "certainty": "certain",
+            "notes": [
+              "The myrrh quantity is directly stated as twelve drachmai."
+            ],
+            "gold_record_id": "dioscorides-1-25-kyphi:q08",
+            "gold_record_version": "2026-06-05-codex-v1",
+            "gold_value": {
+              "kind": "integer",
+              "rational": {
+                "numerator": 12,
+                "denominator": 1
+              },
+              "display": "12",
+              "raw_number": "δεκαδύο",
+              "normalized_unit": "drachme",
+              "source_value": "δραχμὰς δεκαδύο",
+              "temporal_label": null,
+              "reference": null
+            }
+          }
+        ],
+        "ingredient:οἴνου παλαιοῦ": [
+          {
+            "source_span": "ξέστας ἐννέα",
+            "raw_number": "ἐννέα",
+            "normalized_number": 9,
+            "raw_unit": "ξέστας",
+            "normalized_unit": "xestes",
+            "certainty": "certain",
+            "notes": [
+              "The old wine measure is explicitly nine xestai."
+            ],
+            "gold_record_id": "dioscorides-1-25-kyphi:q09",
+            "gold_record_version": "2026-06-05-codex-v1",
+            "gold_value": {
+              "kind": "integer",
+              "rational": {
+                "numerator": 9,
+                "denominator": 1
+              },
+              "display": "9",
+              "raw_number": "ἐννέα",
+              "normalized_unit": "xestes",
+              "source_value": "ξέστας ἐννέα",
+              "temporal_label": null,
+              "reference": null
+            }
+          }
+        ],
+        "ingredient:μέλιτος": [
+          {
+            "source_span": "μνᾶς δύο",
+            "raw_number": "δύο",
+            "normalized_number": 2,
+            "raw_unit": "μνᾶς",
+            "normalized_unit": "mna",
+            "certainty": "certain",
+            "notes": [
+              "The honey amount is directly stated as two mnas."
+            ],
+            "gold_record_id": "dioscorides-1-25-kyphi:q10",
+            "gold_record_version": "2026-06-05-codex-v1",
+            "gold_value": {
+              "kind": "integer",
+              "rational": {
+                "numerator": 2,
+                "denominator": 1
+              },
+              "display": "2",
+              "raw_number": "δύο",
+              "normalized_unit": "mna",
+              "source_value": "μνᾶς δύο",
+              "temporal_label": null,
+              "reference": null
+            }
+          }
+        ]
+      },
+      "process_qualifiers_by_host": {
+        "process:ἔασόν τε συμπιεῖν": [
+          {
+            "gold_record_id": "dioscorides-1-25-kyphi:q11",
+            "record_type": "process_qualifier",
+            "qualifier_kind": "duration",
+            "dimension": "time",
+            "temporal_label": "day",
+            "source_span": "ἡμέραν μίαν",
+            "value": {
+              "kind": "integer",
+              "rational": {
+                "numerator": 1,
+                "denominator": 1
+              },
+              "display": "1",
+              "raw_number": "μίαν",
+              "normalized_unit": "day",
+              "source_value": "ἡμέραν μίαν",
+              "temporal_label": "day",
+              "reference": null
+            }
+          }
+        ]
+      }
+    }
+  }
+}

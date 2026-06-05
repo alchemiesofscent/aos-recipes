@@ -1,0 +1,41 @@
+{
+  "metadata": {
+    "schema_version": "quantity-gold-v2",
+    "artifact_version": "2026-06-05-codex-v1",
+    "artifact_name": "quantity-gold index",
+    "run_id": "20260605T071446Z-codex",
+    "created_at": "2026-06-05T07:14:36Z",
+    "created_by": "codex",
+    "updated_at": "2026-06-05T07:14:46Z",
+    "updated_by": "codex",
+    "reviewed_by": null,
+    "source_repo": "/home/seancoughlin/Projects/aetius",
+    "source_commit": "1632f26bab10aca3eaa698c086b54d0167440f20",
+    "derived_repo": "/home/seancoughlin/Projects/aos-recipes",
+    "derived_commit": null,
+    "previous_version": "20260605T070700Z-codex",
+    "archive_path": "data/review/quantity_gold/archive/20260605T071446Z-codex/index.json",
+    "review_status": "accepted_for_projection",
+    "content_sha256_excluding_metadata": "78b2667514327be62eadbcaa533ef2dc5fc19d0e998a5049407be694a6656b38"
+  },
+  "coverage": {
+    "coverage_status": "partial",
+    "recipe_count": 1,
+    "corpus_recipe_count": 174
+  },
+  "vocabularies": {
+    "metrology": "data/review/quantity_gold/vocabularies/metrology.json",
+    "temporal": "data/review/quantity_gold/vocabularies/temporal.json",
+    "process_qualifiers": "data/review/quantity_gold/vocabularies/process_qualifiers.json"
+  },
+  "recipes": [
+    {
+      "recipe_id": "dioscorides-1-25-kyphi",
+      "dataset_key": "dioscorides_book1_perfumes_resins",
+      "file": "data/review/quantity_gold/recipes/dioscorides-1-25-kyphi.json",
+      "record_count": 15,
+      "accepted_record_count": 11,
+      "rejection_count": 4
+    }
+  ]
+}

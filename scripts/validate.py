@@ -6,6 +6,10 @@ import sys
 from collections import Counter
 from pathlib import Path
 
+sys.dont_write_bytecode = True
+
+from quantity_gold import validate_repository_overlay
+
 ROOT = Path(__file__).resolve().parents[1]
 EXPECTED_COUNTS = {
     "dioscorides_book1_perfumes_resins": 52,
@@ -92,6 +96,14 @@ def main() -> int:
     if source_keys != set(EXPECTED_COUNTS):
         fail(f"sources mismatch: {sorted(source_keys)}")
 
+    for required_path in (
+        ROOT / "data" / "metrology" / "units.json",
+        ROOT / "provenance" / "source" / "docs" / "weights-and-measures.tsv",
+        ROOT / "data" / "review" / "quantity_gold" / "schema.json",
+    ):
+        if not required_path.exists():
+            fail(f"missing required quantity authority support file: {required_path.relative_to(ROOT)}")
+
     ABBREV_UNIT_PREFIX = {"γο": "uncia", "ξε": "xestes", "λι": "litra"}
     DESCRIPTOR_SPANS = {
         "τὸ ἀρκοῦν", "τὸ ἴσον", "τὸ αὐτό", "τὸ ἴσον πλῆθος",
@@ -168,6 +180,13 @@ def main() -> int:
             fail(f"missing provenance derived record for {recipe_id}")
         check_quantity_invariants(file_payload, recipe_id)
         check_mirror_parity(file_payload, load(provenance_file), recipe_id)
+
+    quantity_gold_errors = validate_repository_overlay(
+        require_complete=False,
+        require_canonical_coverage=False,
+    )
+    if quantity_gold_errors:
+        fail(f"quantity-gold overlay validation failed: {quantity_gold_errors[0]}")
 
     text_paths = []
     for path in ROOT.rglob("*"):

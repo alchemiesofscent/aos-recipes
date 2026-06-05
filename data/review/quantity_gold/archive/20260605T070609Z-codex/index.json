@@ -1,0 +1,15 @@
+{
+  "metadata": {
+    "schema_version": "quantity-gold-v1",
+    "built_at": "2026-06-05T05:53:55Z",
+    "coverage_status": "partial",
+    "recipe_count": 1,
+    "corpus_recipe_count": 192
+  },
+  "recipes": [
+    {
+      "recipe_id": "dioscorides-1-25-kyphi",
+      "file": "data/review/quantity_gold/recipes/dioscorides-1-25-kyphi.json"
+    }
+  ]
+}

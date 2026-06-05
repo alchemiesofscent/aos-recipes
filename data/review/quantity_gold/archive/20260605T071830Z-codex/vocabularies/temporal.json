@@ -1,0 +1,58 @@
+{
+  "metadata": {
+    "schema_version": "quantity-gold-v2",
+    "artifact_version": "2026-06-05-codex-v1",
+    "artifact_name": "quantity-gold temporal vocabulary",
+    "run_id": "20260605T071446Z-codex",
+    "created_at": "2026-06-05T07:14:36Z",
+    "created_by": "codex",
+    "updated_at": "2026-06-05T07:14:46Z",
+    "updated_by": "codex",
+    "reviewed_by": null,
+    "source_repo": "/home/seancoughlin/Projects/aetius",
+    "source_commit": "1632f26bab10aca3eaa698c086b54d0167440f20",
+    "derived_repo": "/home/seancoughlin/Projects/aos-recipes",
+    "derived_commit": null,
+    "previous_version": "20260605T070700Z-codex",
+    "archive_path": "data/review/quantity_gold/archive/20260605T071446Z-codex/vocabularies/temporal.json",
+    "review_status": "machine_validated",
+    "content_sha256_excluding_metadata": "86b7473e8268635778345b58b21ef5d30b23c224dadc7ab12fdaa8de540e42d0"
+  },
+  "temporal_labels": [
+    {
+      "label": "day",
+      "dimension": "time",
+      "supports_numeric_value": true
+    },
+    {
+      "label": "hour",
+      "dimension": "time",
+      "supports_numeric_value": true
+    },
+    {
+      "label": "month",
+      "dimension": "time",
+      "supports_numeric_value": true
+    },
+    {
+      "label": "year",
+      "dimension": "time",
+      "supports_numeric_value": true
+    },
+    {
+      "label": "overnight",
+      "dimension": "time",
+      "supports_numeric_value": false
+    },
+    {
+      "label": "until_condition",
+      "dimension": "time",
+      "supports_numeric_value": false
+    }
+  ],
+  "condition_examples": [
+    "until dry",
+    "until thickened",
+    "overnight"
+  ]
+}

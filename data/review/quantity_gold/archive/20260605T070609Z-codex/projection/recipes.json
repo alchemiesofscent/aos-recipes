@@ -1,0 +1,278 @@
+{
+  "metadata": {
+    "schema_version": "quantity-gold-projection-v1",
+    "built_at": "2026-06-05T05:54:15Z",
+    "source": "data/review/quantity_gold",
+    "include_agent_reviewed": true,
+    "note": "Non-mutating projection; canonical recipe JSON is unchanged."
+  },
+  "recipes": {
+    "dioscorides-1-25-kyphi": {
+      "recipe_id": "dioscorides-1-25-kyphi",
+      "review_status": "agent_reviewed",
+      "projected_quantities_by_host": {
+        "ingredient:κυπέρου": [
+          {
+            "source_span": "ἡμίξεστον",
+            "raw_number": "ἡμι-",
+            "normalized_number": 0.5,
+            "raw_unit": "ἡμίξεστον",
+            "normalized_unit": "xestes",
+            "certainty": "certain",
+            "notes": [
+              "The fused form ἡμίξεστον denotes one-half of a xestes and is the explicit quantity for cyperus."
+            ],
+            "gold_quantity_id": "q01",
+            "gold_value": {
+              "kind": "fraction",
+              "rational": {
+                "numerator": 1,
+                "denominator": 2
+              },
+              "range": null,
+              "display": "1/2",
+              "raw_number": "ἡμι-"
+            }
+          }
+        ],
+        "ingredient:ἀρκευθίδος ἁδρᾶς": [
+          {
+            "source_span": "τὸ αὐτό",
+            "raw_number": "τὸ αὐτό",
+            "normalized_number": "same as previous amount",
+            "raw_unit": null,
+            "normalized_unit": "xestes",
+            "certainty": "certain",
+            "notes": [
+              "τὸ αὐτό anaphorically repeats the immediately preceding quantity, so juniper receives the same half-xestes amount as cyperus."
+            ],
+            "gold_quantity_id": "q02",
+            "gold_value": {
+              "kind": "same_as",
+              "rational": null,
+              "range": null,
+              "display": "same as previous amount",
+              "raw_number": "τὸ αὐτό"
+            }
+          }
+        ],
+        "ingredient:σταφίδος λιπαρᾶς ἐκγεγιγαρτισμένης": [
+          {
+            "source_span": "μνᾶς δεκαδύο",
+            "raw_number": "δεκαδύο",
+            "normalized_number": 12,
+            "raw_unit": "μνᾶς",
+            "normalized_unit": "mna",
+            "certainty": "certain",
+            "notes": [
+              "The phrase explicitly gives twelve mnas of pitted rich raisins."
+            ],
+            "gold_quantity_id": "q03",
+            "gold_value": {
+              "kind": "exact",
+              "rational": {
+                "numerator": 12,
+                "denominator": 1
+              },
+              "range": null,
+              "display": "12",
+              "raw_number": "δεκαδύο"
+            }
+          }
+        ],
+        "ingredient:ῥητίνης ἀποκεκαθαρμένης": [
+          {
+            "source_span": "μνᾶς πέντε",
+            "raw_number": "πέντε",
+            "normalized_number": 5,
+            "raw_unit": "μνᾶς",
+            "normalized_unit": "mna",
+            "certainty": "certain",
+            "notes": [
+              "The resin amount is stated directly as five mnas."
+            ],
+            "gold_quantity_id": "q04",
+            "gold_value": {
+              "kind": "exact",
+              "rational": {
+                "numerator": 5,
+                "denominator": 1
+              },
+              "range": null,
+              "display": "5",
+              "raw_number": "πέντε"
+            }
+          }
+        ],
+        "ingredient:καλάμου ἀρωματίτου": [
+          {
+            "source_span": "ἑκάστου μνᾶν μίαν",
+            "raw_number": "μίαν",
+            "normalized_number": 1,
+            "raw_unit": "μνᾶν",
+            "normalized_unit": "mna",
+            "certainty": "certain",
+            "notes": [
+              "The distributive ἑκάστου assigns one mna to each ingredient in the immediately preceding series, including calamus."
+            ],
+            "gold_quantity_id": "q05",
+            "gold_value": {
+              "kind": "exact",
+              "rational": {
+                "numerator": 1,
+                "denominator": 1
+              },
+              "range": null,
+              "display": "1",
+              "raw_number": "μίαν"
+            }
+          }
+        ],
+        "ingredient:ἀσπαλάθου": [
+          {
+            "source_span": "ἑκάστου μνᾶν μίαν",
+            "raw_number": "μίαν",
+            "normalized_number": 1,
+            "raw_unit": "μνᾶν",
+            "normalized_unit": "mna",
+            "certainty": "certain",
+            "notes": [
+              "The distributive ἑκάστου assigns one mna to each ingredient in the immediately preceding series, including aspalathus."
+            ],
+            "gold_quantity_id": "q06",
+            "gold_value": {
+              "kind": "exact",
+              "rational": {
+                "numerator": 1,
+                "denominator": 1
+              },
+              "range": null,
+              "display": "1",
+              "raw_number": "μίαν"
+            }
+          }
+        ],
+        "ingredient:σχοίνου": [
+          {
+            "source_span": "ἑκάστου μνᾶν μίαν",
+            "raw_number": "μίαν",
+            "normalized_number": 1,
+            "raw_unit": "μνᾶν",
+            "normalized_unit": "mna",
+            "certainty": "certain",
+            "notes": [
+              "The distributive ἑκάστου assigns one mna to each ingredient in the immediately preceding series, including schoenus."
+            ],
+            "gold_quantity_id": "q07",
+            "gold_value": {
+              "kind": "exact",
+              "rational": {
+                "numerator": 1,
+                "denominator": 1
+              },
+              "range": null,
+              "display": "1",
+              "raw_number": "μίαν"
+            }
+          }
+        ],
+        "ingredient:σμύρνης": [
+          {
+            "source_span": "δραχμὰς δεκαδύο",
+            "raw_number": "δεκαδύο",
+            "normalized_number": 12,
+            "raw_unit": "δραχμὰς",
+            "normalized_unit": "drachme",
+            "certainty": "certain",
+            "notes": [
+              "The myrrh quantity is directly stated as twelve drachmai."
+            ],
+            "gold_quantity_id": "q08",
+            "gold_value": {
+              "kind": "exact",
+              "rational": {
+                "numerator": 12,
+                "denominator": 1
+              },
+              "range": null,
+              "display": "12",
+              "raw_number": "δεκαδύο"
+            }
+          }
+        ],
+        "ingredient:οἴνου παλαιοῦ": [
+          {
+            "source_span": "ξέστας ἐννέα",
+            "raw_number": "ἐννέα",
+            "normalized_number": 9,
+            "raw_unit": "ξέστας",
+            "normalized_unit": "xestes",
+            "certainty": "certain",
+            "notes": [
+              "The old wine measure is explicitly nine xestai."
+            ],
+            "gold_quantity_id": "q09",
+            "gold_value": {
+              "kind": "exact",
+              "rational": {
+                "numerator": 9,
+                "denominator": 1
+              },
+              "range": null,
+              "display": "9",
+              "raw_number": "ἐννέα"
+            }
+          }
+        ],
+        "ingredient:μέλιτος": [
+          {
+            "source_span": "μνᾶς δύο",
+            "raw_number": "δύο",
+            "normalized_number": 2,
+            "raw_unit": "μνᾶς",
+            "normalized_unit": "mna",
+            "certainty": "certain",
+            "notes": [
+              "The honey amount is directly stated as two mnas."
+            ],
+            "gold_quantity_id": "q10",
+            "gold_value": {
+              "kind": "exact",
+              "rational": {
+                "numerator": 2,
+                "denominator": 1
+              },
+              "range": null,
+              "display": "2",
+              "raw_number": "δύο"
+            }
+          }
+        ],
+        "process:ἔασόν τε συμπιεῖν": [
+          {
+            "source_span": "ἡμέραν μίαν",
+            "raw_number": "μίαν",
+            "normalized_number": 1,
+            "raw_unit": "ἡμέραν",
+            "normalized_unit": "duration_day",
+            "certainty": "certain",
+            "notes": [
+              "The phrase gives a one-day duration for letting the mixture stand/compress."
+            ],
+            "gold_quantity_id": "q11",
+            "gold_value": {
+              "kind": "exact",
+              "rational": {
+                "numerator": 1,
+                "denominator": 1
+              },
+              "range": null,
+              "display": "1",
+              "raw_number": "μίαν"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

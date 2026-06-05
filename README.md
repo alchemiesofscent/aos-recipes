@@ -11,6 +11,8 @@ The primary artifacts are JSON data and documentation. The `site/` folder is a n
 - `data/context_units.json`: proemia and contextual non-recipe units.
 - `data/entities/index.json`: grouped entity occurrence index.
 - `data/sources.json`: source slice metadata.
+- `data/review/quantity_gold/`: mirrored quantity-gold authority artifacts from
+  `/home/seancoughlin/Projects/aetius`.
 - `manifest.json`: export metadata, source commit, included paths, excluded paths, and counts.
 
 ## Sources
@@ -37,4 +39,10 @@ Then open `http://127.0.0.1:8000/site/`.
 
 ```bash
 python3 scripts/validate.py
+```
+
+Quantity-gold mirror validation only:
+
+```bash
+python3 scripts/quantity_gold.py --validate
 ```

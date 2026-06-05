@@ -1,0 +1,252 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://aos.local/schema/quantity-gold-v1.json",
+  "title": "AOS Quantity Gold Record",
+  "type": "object",
+  "required": ["schema_version", "recipe_id", "dataset_key", "review_status", "quantities", "rejections", "unresolved_questions"],
+  "properties": {
+    "schema_version": { "type": "string", "enum": ["quantity-gold-v1"] },
+    "recipe_id": { "type": "string" },
+    "dataset_key": { "type": "string" },
+    "review_status": {
+      "enum": ["draft", "agent_reviewed", "accepted", "needs_review", "rejected"]
+    },
+    "metadata": {
+      "type": "object",
+      "properties": {
+        "builder": { "type": "string" },
+        "built_at": { "type": "string" },
+        "model": { "type": "string" },
+        "reasoning_effort": { "type": "string" },
+        "metrology": { "type": "string" },
+        "source_scope": {
+          "type": "array",
+          "items": { "type": "string" }
+        },
+        "canonical_quantities_used_as_evidence": { "type": "boolean" },
+        "temp_root": { "type": "string" }
+      },
+      "additionalProperties": false
+    },
+    "quantities": {
+      "type": "array",
+      "items": { "$ref": "#/$defs/quantity" }
+    },
+    "rejections": {
+      "type": "array",
+      "items": { "$ref": "#/$defs/rejection" }
+    },
+    "unresolved_questions": {
+      "type": "array",
+      "items": { "type": "string" }
+    },
+    "reviewer": {
+      "type": "object",
+      "required": ["recipe_id", "status", "issues", "summary"],
+      "properties": {
+        "recipe_id": { "type": "string" },
+        "status": { "enum": ["pass", "needs_review", "fail"] },
+        "issues": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "required": ["severity", "quantity_id", "issue", "recommendation"],
+            "properties": {
+              "severity": { "enum": ["blocking", "warning", "note"] },
+              "quantity_id": { "type": ["string", "null"] },
+              "issue": { "type": "string" },
+              "recommendation": { "type": "string" }
+            },
+            "additionalProperties": false
+          }
+        },
+        "summary": { "type": "string" }
+      },
+      "additionalProperties": false
+    },
+    "validation_errors": {
+      "type": "array",
+      "items": { "type": "string" }
+    },
+    "notes": {
+      "type": "array",
+      "items": { "type": "string" }
+    }
+  },
+  "$defs": {
+    "rational": {
+      "type": "object",
+      "required": ["numerator", "denominator"],
+      "properties": {
+        "numerator": { "type": "integer" },
+        "denominator": { "type": "integer", "minimum": 1 }
+      },
+      "additionalProperties": false
+    },
+    "value": {
+      "type": "object",
+      "required": ["kind", "display"],
+      "properties": {
+        "kind": {
+          "enum": ["exact", "range", "fraction", "same_as", "relative_to", "variant", "unresolved"]
+        },
+        "rational": {
+          "anyOf": [
+            { "$ref": "#/$defs/rational" },
+            { "type": "null" }
+          ]
+        },
+        "range": {
+          "anyOf": [
+            {
+              "type": "object",
+              "properties": {
+                "min": { "$ref": "#/$defs/rational" },
+                "max": { "$ref": "#/$defs/rational" }
+              },
+              "required": ["min", "max"],
+              "additionalProperties": false
+            },
+            { "type": "null" }
+          ]
+        },
+        "display": { "type": ["string", "null"] },
+        "raw_number": { "type": ["string", "null"] }
+      },
+      "additionalProperties": false
+    },
+    "host": {
+      "type": "object",
+      "required": ["type", "source_span"],
+      "properties": {
+        "type": {
+          "enum": ["ingredient", "process", "material", "preparation", "recipe", "descriptor", "variant", "unknown"]
+        },
+        "source_span": { "type": "string" },
+        "normalized_label": { "type": ["string", "null"] },
+        "canonical_id": { "type": ["string", "null"] },
+        "note": { "type": ["string", "null"] }
+      },
+      "additionalProperties": false
+    },
+    "component": {
+      "type": "object",
+      "required": ["source_span", "value", "raw_unit", "normalized_unit", "relation"],
+      "properties": {
+        "source_span": { "type": "string" },
+        "value": { "$ref": "#/$defs/value" },
+        "raw_unit": { "type": ["string", "null"] },
+        "normalized_unit": { "type": ["string", "null"] },
+        "relation": {
+          "enum": ["additive", "fractional", "range_start", "range_end", "same_as", "variant", "unresolved"]
+        },
+        "note": { "type": ["string", "null"] }
+      },
+      "additionalProperties": false
+    },
+    "alternative": {
+      "type": "object",
+      "required": ["alternative_id", "source_span", "value", "raw_unit", "normalized_unit", "unit_certainty", "note"],
+      "properties": {
+        "alternative_id": { "type": "string" },
+        "source_span": { "type": "string" },
+        "value": { "$ref": "#/$defs/value" },
+        "raw_unit": { "type": ["string", "null"] },
+        "normalized_unit": { "type": ["string", "null"] },
+        "unit_certainty": { "enum": ["certain", "probable", "uncertain"] },
+        "note": { "type": "string" }
+      },
+      "additionalProperties": false
+    },
+    "evidence": {
+      "type": "object",
+      "required": ["rationale", "syntax_cue", "nearby_context", "inferred_from_shared_context"],
+      "properties": {
+        "rationale": { "type": "string" },
+        "syntax_cue": { "type": ["string", "null"] },
+        "nearby_context": { "type": "string" },
+        "inferred_from_shared_context": { "type": "boolean" },
+        "adjudication": { "type": ["string", "null"] }
+      },
+      "additionalProperties": false
+    },
+    "quantity": {
+      "type": "object",
+      "required": [
+        "quantity_id",
+        "status",
+        "source_span",
+        "line_citations",
+        "host",
+        "value",
+        "raw_unit",
+        "normalized_unit",
+        "unit_certainty",
+        "components",
+        "alternatives",
+        "primary_reading_id",
+        "evidence"
+      ],
+      "properties": {
+        "quantity_id": { "type": "string" },
+        "status": { "enum": ["accepted", "conflict", "unresolved"] },
+        "source_span": { "type": "string" },
+        "line_citations": {
+          "type": "array",
+          "items": { "type": "string" }
+        },
+        "host": { "$ref": "#/$defs/host" },
+        "value": { "$ref": "#/$defs/value" },
+        "raw_unit": { "type": ["string", "null"] },
+        "normalized_unit": { "type": ["string", "null"] },
+        "unit_certainty": { "enum": ["certain", "probable", "uncertain"] },
+        "components": {
+          "type": "array",
+          "items": { "$ref": "#/$defs/component" }
+        },
+        "alternatives": {
+          "type": "array",
+          "items": { "$ref": "#/$defs/alternative" }
+        },
+        "primary_reading_id": { "type": ["string", "null"] },
+        "evidence": { "$ref": "#/$defs/evidence" },
+        "notes": {
+          "type": "array",
+          "items": { "type": "string" }
+        }
+      },
+      "additionalProperties": false
+    },
+    "rejection": {
+      "type": "object",
+      "required": ["source_span", "host", "reason", "line_citations"],
+      "properties": {
+        "source_span": { "type": "string" },
+        "host": { "$ref": "#/$defs/host" },
+        "reason": { "type": "string" },
+        "line_citations": {
+          "type": "array",
+          "items": { "type": "string" }
+        },
+        "canonical_quantity": {
+          "anyOf": [
+            {
+              "type": "object",
+              "properties": {
+                "source_span": { "type": ["string", "null"] },
+                "raw_number": { "type": ["string", "null"] },
+                "normalized_number": { "type": ["number", "string", "null"] },
+                "raw_unit": { "type": ["string", "null"] },
+                "normalized_unit": { "type": ["string", "null"] }
+              },
+              "additionalProperties": false
+            },
+            { "type": "null" }
+          ]
+        }
+      },
+      "additionalProperties": false
+    }
+  },
+  "additionalProperties": false
+}

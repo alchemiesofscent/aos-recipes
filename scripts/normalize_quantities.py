@@ -1,6 +1,11 @@
 #!/usr/bin/env python3
 """Deterministic quantity-unit normalization for data/recipes/*.json.
 
+Deprecated as a gold-source mechanism: this script mutates canonical and mirror
+recipe JSON. New quantity work should first use `scripts/quantity_gold.py` to
+create a reviewed overlay and ledger, then derive deterministic rules from that
+accepted gold layer.
+
 Pass 2 (extended) — resolves the remaining residuals from pass 1 while keeping pass 1 idempotent.
 
 Rules applied (in order; idempotent):
