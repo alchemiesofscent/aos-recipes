@@ -8,11 +8,14 @@ authority is `/home/seanm/github/aetius`.
 - Do not edit `data/review/quantity_gold/` independently in this checkout.
 - Generate candidates, validate records, write ledgers, build projections, and
   archive stable artifacts in `/home/seanm/github/aetius`.
+- Run the full schema-policy normalization campaign upstream; see
+  [`normalization_campaign.md`](normalization_campaign.md).
 - Export approved source artifacts into this repo with the source command:
 
 ```bash
 cd /home/seanm/github/aetius
-python3 scripts/quantity_gold.py --write-artifacts --validate
+python3 scripts/quantity_gold.py --validate --require-complete
+python3 scripts/quantity_gold.py --write-artifacts
 python3 scripts/quantity_gold.py --export-derived /home/seanm/github/aos-recipes
 ```
 

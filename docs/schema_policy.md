@@ -5,7 +5,7 @@
 | **Version** | 0.1.0 (Proposed) |
 | **Date** | 2026-06-05 |
 | **Author** | Sean Coughlin (coughlin@flu.cas.cz) |
-| **Status** | Proposed — for discussion, not yet adopted |
+| **Status** | Adopted as normalization campaign policy |
 | **Supersedes** | none |
 | **Applies to** | `data/recipes/*.json` (recipe-entity `schema_version 1.2`) and the `quantity-gold-v2` overlay |
 
@@ -20,8 +20,11 @@ processing modifications, and textual uncertainty/variants — are inconsistentl
 informally encoded. This document records **where we are** and **what we should do**, so the
 revision can proceed deliberately and be versioned.
 
-This is a planning document. It changes no data and no code. It also lays out *how* the work
-should be sequenced and versioned.
+This is the policy basis for the active
+[`normalization_campaign.md`](normalization_campaign.md). It lays out *how* the
+work should be sequenced and versioned; implementation still happens through
+reviewed source-side ledgers in `aetius`, not through deterministic rewrites in
+this mirror.
 
 ### Authority and scope
 
@@ -179,8 +182,9 @@ arrays, not a full TEI apparatus.)*
 *Incorporates [`quantity_gold.md`](quantity_gold.md).*
 
 - Restate the authority/mirror split and the validate-only posture of this repo.
-- Run the full LLM/gold generation across **all 193 recipes** in `aetius`, **reconcile
-  174 → 193**, then `--export-derived` to this mirror.
+- Run the full LLM/gold generation across **all 193 recipes** in `aetius`, then
+  `--export-derived` to this mirror. Keep archived `174` denominators as
+  historical run metadata, not current coverage.
 - Define run/version cadence and acceptance gates:
   `generated_unreviewed` → `machine_validated` → `human_reviewed` →
   `accepted_for_projection` (→ `accepted_for_canonical_update` where warranted).
