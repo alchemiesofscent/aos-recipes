@@ -3,7 +3,7 @@
     "entity_model_version": "1.2",
     "authority_version": "2026-04-13-qty-alt-v1",
     "prompt_version": "qty-alt-pass-v1",
-    "build_version": "2026-05-25T18:36:46Z"
+    "build_version": "2026-06-04T18:29:05Z"
   },
   "recipes": {
     "dioscorides-1-25-kyphi": {
@@ -61,7 +61,9 @@
               "certainty": "certain",
               "notes": [
                 "Same quantity as the immediately preceding κυπέρου ἡμίξεστον."
-              ]
+              ],
+              "measure_group_id": "dioscorides-1-25-kyphi:ingredients:2:measure:equivalent_notation",
+              "measure_relation": "equivalent_notation"
             }
           ],
           "qualifiers": [
@@ -604,7 +606,9 @@
               "certainty": "certain",
               "notes": [
                 "Equal in amount to the oil dose."
-              ]
+              ],
+              "measure_group_id": "dioscorides-1-30-omphakinon:ingredients:1:measure:equivalent_notation",
+              "measure_relation": "equivalent_notation"
             }
           ],
           "qualifiers": [],
@@ -1173,7 +1177,9 @@
               "certainty": "uncertain",
               "notes": [
                 "Equal amount, but the exact referent of equality is implicit."
-              ]
+              ],
+              "measure_group_id": "dioscorides-1-30-whitened-oil:ingredients:4:measure:equivalent_notation",
+              "measure_relation": "equivalent_notation"
             }
           ],
           "qualifiers": [
@@ -1233,7 +1239,9 @@
               "certainty": "uncertain",
               "notes": [
                 "Unit and amount are inherited from the preceding ὁλκῶν ἕνδεκα."
-              ]
+              ],
+              "measure_group_id": "dioscorides-1-30-whitened-oil:ingredients:6:measure:equivalent_notation",
+              "measure_relation": "equivalent_notation"
             }
           ],
           "qualifiers": [],
@@ -4423,7 +4431,9 @@
               "certainty": "certain",
               "notes": [
                 "Relative amount to the juice."
-              ]
+              ],
+              "measure_group_id": "dioscorides-1-39-myrsininon:ingredients:4:measure:equivalent_notation",
+              "measure_relation": "equivalent_notation"
             }
           ],
           "qualifiers": [],
@@ -5602,7 +5612,9 @@
               "raw_unit": "λίτρας",
               "normalized_unit": "λίτρα",
               "certainty": "certain",
-              "notes": []
+              "notes": [],
+              "measure_group_id": "dioscorides-1-43-rhodinon:ingredients:1:measure:m1",
+              "measure_relation": "compound_component"
             },
             {
               "source_span": "οὐγγίας ὀκτώ",
@@ -5611,7 +5623,9 @@
               "raw_unit": "οὐγγίας",
               "normalized_unit": "οὐγγία",
               "certainty": "certain",
-              "notes": []
+              "notes": [],
+              "measure_group_id": "dioscorides-1-43-rhodinon:ingredients:1:measure:m1",
+              "measure_relation": "compound_component"
             }
           ],
           "qualifiers": [],
@@ -5636,7 +5650,9 @@
               "raw_unit": "λίτρας",
               "normalized_unit": "λίτρα",
               "certainty": "certain",
-              "notes": []
+              "notes": [],
+              "measure_group_id": "dioscorides-1-43-rhodinon:ingredients:2:measure:m1",
+              "measure_relation": "compound_component"
             },
             {
               "source_span": "οὐγγίας πέντε",
@@ -5645,7 +5661,9 @@
               "raw_unit": "οὐγγίας",
               "normalized_unit": "οὐγγία",
               "certainty": "certain",
-              "notes": []
+              "notes": [],
+              "measure_group_id": "dioscorides-1-43-rhodinon:ingredients:2:measure:m1",
+              "measure_relation": "compound_component"
             }
           ],
           "qualifiers": [],
@@ -5694,7 +5712,9 @@
               "raw_unit": "λίτρας",
               "normalized_unit": "λίτρα",
               "certainty": "certain",
-              "notes": []
+              "notes": [],
+              "measure_group_id": "dioscorides-1-43-rhodinon:ingredients:4:measure:m1",
+              "measure_relation": "compound_component"
             },
             {
               "source_span": "οὐγγίας τρεῖς",
@@ -5703,7 +5723,9 @@
               "raw_unit": "οὐγγίας",
               "normalized_unit": "οὐγγία",
               "certainty": "certain",
-              "notes": []
+              "notes": [],
+              "measure_group_id": "dioscorides-1-43-rhodinon:ingredients:4:measure:m1",
+              "measure_relation": "compound_component"
             }
           ],
           "qualifiers": [],
@@ -5743,7 +5765,9 @@
               "certainty": "uncertain",
               "notes": [
                 "Equal to the earlier rose count."
-              ]
+              ],
+              "measure_group_id": "dioscorides-1-43-rhodinon:ingredients:6:measure:equivalent_notation",
+              "measure_relation": "equivalent_notation"
             }
           ],
           "qualifiers": [],
@@ -8205,7 +8229,9 @@
               "certainty": "uncertain",
               "notes": [
                 "Τὸ ποσὸν τῶν προσφάτων ἴσον τῷ προτέρῳ."
-              ]
+              ],
+              "measure_group_id": "dioscorides-1-48-sampsouchinon:processes:6:measure:equivalent_notation",
+              "measure_relation": "equivalent_notation"
             }
           ],
           "qualifiers": [
@@ -8437,7 +8463,9 @@
               "raw_unit": "λίτρας",
               "normalized_unit": "λίτρα",
               "certainty": "certain",
-              "notes": []
+              "notes": [],
+              "measure_group_id": "dioscorides-1-49-okiminon:ingredients:2:measure:m1",
+              "measure_relation": "compound_component"
             },
             {
               "source_span": "οὐγγίας ὀκτὼ",
@@ -8446,7 +8474,9 @@
               "raw_unit": "οὐγγίας",
               "normalized_unit": "οὐγγία",
               "certainty": "certain",
-              "notes": []
+              "notes": [],
+              "measure_group_id": "dioscorides-1-49-okiminon:ingredients:2:measure:m1",
+              "measure_relation": "compound_component"
             }
           ],
           "qualifiers": [
@@ -8482,7 +8512,9 @@
               "certainty": "uncertain",
               "notes": [
                 "Relative to the earlier quantity of ὠκίμου."
-              ]
+              ],
+              "measure_group_id": "dioscorides-1-49-okiminon:ingredients:3:measure:equivalent_notation",
+              "measure_relation": "equivalent_notation"
             }
           ],
           "qualifiers": [],
@@ -8614,7 +8646,9 @@
               "certainty": "uncertain",
               "notes": [
                 "Relative to the initial oil quantity."
-              ]
+              ],
+              "measure_group_id": "dioscorides-1-49-okiminon:processes:7:measure:equivalent_notation",
+              "measure_relation": "equivalent_notation"
             }
           ],
           "qualifiers": [
@@ -8879,7 +8913,9 @@
               "raw_unit": "λίτρας",
               "normalized_unit": "λίτρα",
               "certainty": "certain",
-              "notes": []
+              "notes": [],
+              "measure_group_id": "dioscorides-1-50-habrotoninon:ingredients:1:measure:m1",
+              "measure_relation": "compound_component"
             },
             {
               "source_span": "οὐγγίας πέντε",
@@ -8888,7 +8924,9 @@
               "raw_unit": "οὐγγίας",
               "normalized_unit": "οὐγγία",
               "certainty": "certain",
-              "notes": []
+              "notes": [],
+              "measure_group_id": "dioscorides-1-50-habrotoninon:ingredients:1:measure:m1",
+              "measure_relation": "compound_component"
             }
           ],
           "qualifiers": [],
@@ -9159,7 +9197,9 @@
               "raw_unit": "λίτρας",
               "normalized_unit": "λίτρα",
               "certainty": "certain",
-              "notes": []
+              "notes": [],
+              "measure_group_id": "dioscorides-1-51-anethinon:ingredients:1:measure:m1",
+              "measure_relation": "compound_component"
             },
             {
               "source_span": "οὐγγίας ἐννέα",
@@ -9168,7 +9208,9 @@
               "raw_unit": "οὐγγίας",
               "normalized_unit": "οὐγγία",
               "certainty": "certain",
-              "notes": []
+              "notes": [],
+              "measure_group_id": "dioscorides-1-51-anethinon:ingredients:1:measure:m1",
+              "measure_relation": "compound_component"
             }
           ],
           "qualifiers": [],
@@ -9191,7 +9233,9 @@
               "raw_unit": "λίτρας",
               "normalized_unit": "λίτρα",
               "certainty": "certain",
-              "notes": []
+              "notes": [],
+              "measure_group_id": "dioscorides-1-51-anethinon:ingredients:2:measure:m1",
+              "measure_relation": "compound_component"
             },
             {
               "source_span": "οὐγγίας ὀκτὼ",
@@ -9200,7 +9244,9 @@
               "raw_unit": "οὐγγίας",
               "normalized_unit": "οὐγγία",
               "certainty": "certain",
-              "notes": []
+              "notes": [],
+              "measure_group_id": "dioscorides-1-51-anethinon:ingredients:2:measure:m1",
+              "measure_relation": "compound_component"
             }
           ],
           "qualifiers": [],
@@ -9431,7 +9477,9 @@
               "raw_unit": "λίτρας",
               "normalized_unit": "λίτρα",
               "certainty": "certain",
-              "notes": []
+              "notes": [],
+              "measure_group_id": "dioscorides-1-52-sousinon:ingredients:1:measure:m1",
+              "measure_relation": "compound_component"
             },
             {
               "source_span": "οὐγγίας πέντε",
@@ -9440,7 +9488,9 @@
               "raw_unit": "οὐγγίας",
               "normalized_unit": "οὐγγία",
               "certainty": "certain",
-              "notes": []
+              "notes": [],
+              "measure_group_id": "dioscorides-1-52-sousinon:ingredients:1:measure:m1",
+              "measure_relation": "compound_component"
             }
           ],
           "qualifiers": [],
@@ -9460,7 +9510,9 @@
               "raw_unit": "λίτρας",
               "normalized_unit": "λίτρα",
               "certainty": "certain",
-              "notes": []
+              "notes": [],
+              "measure_group_id": "dioscorides-1-52-sousinon:ingredients:2:measure:m1",
+              "measure_relation": "compound_component"
             },
             {
               "source_span": "οὐγγίας δέκα",
@@ -9469,7 +9521,9 @@
               "raw_unit": "οὐγγίας",
               "normalized_unit": "οὐγγία",
               "certainty": "certain",
-              "notes": []
+              "notes": [],
+              "measure_group_id": "dioscorides-1-52-sousinon:ingredients:2:measure:m1",
+              "measure_relation": "compound_component"
             }
           ],
           "qualifiers": [],
@@ -9534,7 +9588,9 @@
               "raw_unit": "λιτρῶν",
               "normalized_unit": "λίτρα",
               "certainty": "certain",
-              "notes": []
+              "notes": [],
+              "measure_group_id": "dioscorides-1-52-sousinon:ingredients:5:measure:m1",
+              "measure_relation": "compound_component"
             },
             {
               "source_span": "οὐγγιῶν ἓξ",
@@ -9543,7 +9599,9 @@
               "raw_unit": "οὐγγιῶν",
               "normalized_unit": "οὐγγία",
               "certainty": "certain",
-              "notes": []
+              "notes": [],
+              "measure_group_id": "dioscorides-1-52-sousinon:ingredients:5:measure:m1",
+              "measure_relation": "compound_component"
             }
           ],
           "qualifiers": [],
@@ -10818,7 +10876,9 @@
               "raw_unit": "λίτρας",
               "normalized_unit": "λίτρα",
               "certainty": "certain",
-              "notes": []
+              "notes": [],
+              "measure_group_id": "dioscorides-1-53-narkissinon:ingredients:1:measure:m1",
+              "measure_relation": "compound_component"
             },
             {
               "source_span": "οὐγγίας πέντε",
@@ -10827,7 +10887,9 @@
               "raw_unit": "οὐγγίας",
               "normalized_unit": "οὐγγία",
               "certainty": "certain",
-              "notes": []
+              "notes": [],
+              "measure_group_id": "dioscorides-1-53-narkissinon:ingredients:1:measure:m1",
+              "measure_relation": "compound_component"
             }
           ],
           "qualifiers": [],
@@ -10851,7 +10913,9 @@
               "raw_unit": "λίτρας",
               "normalized_unit": "λίτρα",
               "certainty": "certain",
-              "notes": []
+              "notes": [],
+              "measure_group_id": "dioscorides-1-53-narkissinon:ingredients:2:measure:m1",
+              "measure_relation": "compound_component"
             },
             {
               "source_span": "οὐγγίας δύο",
@@ -10860,7 +10924,9 @@
               "raw_unit": "οὐγγίας",
               "normalized_unit": "οὐγγία",
               "certainty": "certain",
-              "notes": []
+              "notes": [],
+              "measure_group_id": "dioscorides-1-53-narkissinon:ingredients:2:measure:m1",
+              "measure_relation": "compound_component"
             }
           ],
           "qualifiers": [],
@@ -10896,7 +10962,9 @@
               "raw_unit": "λίτρας",
               "normalized_unit": "λίτρα",
               "certainty": "certain",
-              "notes": []
+              "notes": [],
+              "measure_group_id": "dioscorides-1-53-narkissinon:ingredients:4:measure:m1",
+              "measure_relation": "compound_component"
             },
             {
               "source_span": "οὐγγίας ὀκτὼ",
@@ -10905,7 +10973,9 @@
               "raw_unit": "οὐγγίας",
               "normalized_unit": "οὐγγία",
               "certainty": "certain",
-              "notes": []
+              "notes": [],
+              "measure_group_id": "dioscorides-1-53-narkissinon:ingredients:4:measure:m1",
+              "measure_relation": "compound_component"
             }
           ],
           "qualifiers": [],
@@ -11388,7 +11458,9 @@
               "certainty": "certain",
               "notes": [
                 "Equal to the previous oil amount."
-              ]
+              ],
+              "measure_group_id": "dioscorides-1-54-krokinon:ingredients:3:measure:equivalent_notation",
+              "measure_relation": "equivalent_notation"
             }
           ],
           "qualifiers": [],
@@ -12024,7 +12096,9 @@
               "raw_unit": "λίτρας",
               "normalized_unit": "λίτρα",
               "certainty": "certain",
-              "notes": []
+              "notes": [],
+              "measure_group_id": "dioscorides-1-55-kyprinon:ingredients:6:measure:m1",
+              "measure_relation": "compound_component"
             },
             {
               "source_span": "οὐγγίας ἐννέα",
@@ -12033,7 +12107,9 @@
               "raw_unit": "οὐγγίας",
               "normalized_unit": "οὐγγία",
               "certainty": "certain",
-              "notes": []
+              "notes": [],
+              "measure_group_id": "dioscorides-1-55-kyprinon:ingredients:6:measure:m1",
+              "measure_relation": "compound_component"
             }
           ],
           "qualifiers": [],
@@ -12053,7 +12129,9 @@
               "raw_unit": "λίτρας",
               "normalized_unit": "λίτρα",
               "certainty": "certain",
-              "notes": []
+              "notes": [],
+              "measure_group_id": "dioscorides-1-55-kyprinon:ingredients:7:measure:m1",
+              "measure_relation": "compound_component"
             },
             {
               "source_span": "οὐγγίας πέντε",
@@ -12062,7 +12140,9 @@
               "raw_unit": "οὐγγίας",
               "normalized_unit": "οὐγγία",
               "certainty": "certain",
-              "notes": []
+              "notes": [],
+              "measure_group_id": "dioscorides-1-55-kyprinon:ingredients:7:measure:m1",
+              "measure_relation": "compound_component"
             }
           ],
           "qualifiers": [],
@@ -12092,7 +12172,9 @@
               "raw_unit": "λίτρας",
               "normalized_unit": "λίτρα",
               "certainty": "certain",
-              "notes": []
+              "notes": [],
+              "measure_group_id": "dioscorides-1-55-kyprinon:ingredients:9:measure:m1",
+              "measure_relation": "compound_component"
             },
             {
               "source_span": "οὐγγίας ὀκτώ",
@@ -12101,7 +12183,9 @@
               "raw_unit": "οὐγγίας",
               "normalized_unit": "οὐγγία",
               "certainty": "certain",
-              "notes": []
+              "notes": [],
+              "measure_group_id": "dioscorides-1-55-kyprinon:ingredients:9:measure:m1",
+              "measure_relation": "compound_component"
             }
           ],
           "qualifiers": [],
@@ -12123,7 +12207,9 @@
               "certainty": "uncertain",
               "notes": [
                 "The equal amount is relative to the immediately preceding quantity of ἄνθους κύπρου."
-              ]
+              ],
+              "measure_group_id": "dioscorides-1-55-kyprinon:ingredients:10:measure:equivalent_notation",
+              "measure_relation": "equivalent_notation"
             }
           ],
           "qualifiers": [],
@@ -12789,7 +12875,9 @@
               "raw_unit": "λίτρας",
               "normalized_unit": "λίτρα",
               "certainty": "certain",
-              "notes": []
+              "notes": [],
+              "measure_group_id": "dioscorides-1-56-irinon:ingredients:1:measure:m1",
+              "measure_relation": "compound_component"
             },
             {
               "source_span": "οὐγγίας ὀκτώ",
@@ -12798,7 +12886,9 @@
               "raw_unit": "οὐγγίας",
               "normalized_unit": "οὐγγία",
               "certainty": "certain",
-              "notes": []
+              "notes": [],
+              "measure_group_id": "dioscorides-1-56-irinon:ingredients:1:measure:m1",
+              "measure_relation": "compound_component"
             }
           ],
           "qualifiers": [],
@@ -12820,7 +12910,9 @@
               "raw_unit": "λίτρας",
               "normalized_unit": "λίτρα",
               "certainty": "certain",
-              "notes": []
+              "notes": [],
+              "measure_group_id": "dioscorides-1-56-irinon:ingredients:2:measure:m1",
+              "measure_relation": "compound_component"
             },
             {
               "source_span": "οὐγγίας πέντε",
@@ -12829,7 +12921,9 @@
               "raw_unit": "οὐγγίας",
               "normalized_unit": "οὐγγία",
               "certainty": "certain",
-              "notes": []
+              "notes": [],
+              "measure_group_id": "dioscorides-1-56-irinon:ingredients:2:measure:m1",
+              "measure_relation": "compound_component"
             }
           ],
           "qualifiers": [],
@@ -13393,7 +13487,9 @@
               "raw_unit": "λίτρας",
               "normalized_unit": "λίτρα",
               "certainty": "certain",
-              "notes": []
+              "notes": [],
+              "measure_group_id": "dioscorides-1-56-2-irinon-allos:ingredients:1:measure:m1",
+              "measure_relation": "compound_component"
             },
             {
               "source_span": "οὐγγίας πέντε",
@@ -13402,7 +13498,9 @@
               "raw_unit": "οὐγγίας",
               "normalized_unit": "οὐγγία",
               "certainty": "certain",
-              "notes": []
+              "notes": [],
+              "measure_group_id": "dioscorides-1-56-2-irinon-allos:ingredients:1:measure:m1",
+              "measure_relation": "compound_component"
             }
           ],
           "qualifiers": [],
@@ -13424,7 +13522,9 @@
               "raw_unit": "λίτρας",
               "normalized_unit": "λίτρα",
               "certainty": "certain",
-              "notes": []
+              "notes": [],
+              "measure_group_id": "dioscorides-1-56-2-irinon-allos:ingredients:2:measure:m1",
+              "measure_relation": "compound_component"
             },
             {
               "source_span": "οὐγγίας δύο",
@@ -13433,7 +13533,9 @@
               "raw_unit": "οὐγγίας",
               "normalized_unit": "οὐγγία",
               "certainty": "certain",
-              "notes": []
+              "notes": [],
+              "measure_group_id": "dioscorides-1-56-2-irinon-allos:ingredients:2:measure:m1",
+              "measure_relation": "compound_component"
             }
           ],
           "qualifiers": [],
@@ -13455,7 +13557,9 @@
               "raw_unit": "λίτρας",
               "normalized_unit": "λίτρα",
               "certainty": "certain",
-              "notes": []
+              "notes": [],
+              "measure_group_id": "dioscorides-1-56-2-irinon-allos:ingredients:3:measure:m1",
+              "measure_relation": "compound_component"
             },
             {
               "source_span": "οὐγγίας δέκα",
@@ -13464,7 +13568,9 @@
               "raw_unit": "οὐγγίας",
               "normalized_unit": "οὐγγία",
               "certainty": "certain",
-              "notes": []
+              "notes": [],
+              "measure_group_id": "dioscorides-1-56-2-irinon-allos:ingredients:3:measure:m1",
+              "measure_relation": "compound_component"
             }
           ],
           "qualifiers": [],
@@ -13537,7 +13643,9 @@
               "raw_unit": "τῷ σταθμῷ",
               "normalized_unit": "weight_equivalent",
               "certainty": "certain",
-              "notes": []
+              "notes": [],
+              "measure_group_id": "dioscorides-1-56-2-irinon-allos:ingredients:7:measure:equivalent_notation",
+              "measure_relation": "equivalent_notation"
             }
           ],
           "qualifiers": [],
@@ -13745,7 +13853,9 @@
               "raw_unit": "σταθμὸν",
               "normalized_unit": "weight_equivalent",
               "certainty": "certain",
-              "notes": []
+              "notes": [],
+              "measure_group_id": "dioscorides-1-56-2-irinon-allos:processes:14:measure:equivalent_notation",
+              "measure_relation": "equivalent_notation"
             }
           ],
           "qualifiers": [
@@ -20000,7 +20110,9 @@
               "raw_unit": "ὁλκάς",
               "normalized_unit": "holce",
               "certainty": "certain",
-              "notes": []
+              "notes": [],
+              "measure_group_id": "dioscorides-2-76-aromatized-calf-bull-deer-stear:mg:flower-forty-holkai",
+              "measure_relation": "equivalent_notation"
             }
           ],
           "qualifiers": [],
@@ -20027,7 +20139,9 @@
               "certainty": "uncertain",
               "notes": [
                 "Amount stated as equal to the preceding ὁλκὰς τεσσαράκοντα of ἄνθος."
-              ]
+              ],
+              "measure_group_id": "dioscorides-2-76-aromatized-calf-bull-deer-stear:mg:equal-holkai",
+              "measure_relation": "equivalent_notation"
             }
           ],
           "qualifiers": [],
@@ -20054,7 +20168,9 @@
               "certainty": "uncertain",
               "notes": [
                 "Amount stated as equal to the preceding ὁλκὰς τεσσαράκοντα of ἄνθος."
-              ]
+              ],
+              "measure_group_id": "dioscorides-2-76-aromatized-calf-bull-deer-stear:mg:equal-holkai",
+              "measure_relation": "equivalent_notation"
             }
           ],
           "qualifiers": [],
@@ -20078,7 +20194,9 @@
               "raw_unit": "ὁλκήν",
               "normalized_unit": "holce",
               "certainty": "certain",
-              "notes": []
+              "notes": [],
+              "measure_group_id": "dioscorides-2-76-aromatized-calf-bull-deer-stear:mg:shared-one-holke",
+              "measure_relation": "equivalent_notation"
             }
           ],
           "qualifiers": [],
@@ -20102,7 +20220,9 @@
               "raw_unit": "ὁλκήν",
               "normalized_unit": "holce",
               "certainty": "certain",
-              "notes": []
+              "notes": [],
+              "measure_group_id": "dioscorides-2-76-aromatized-calf-bull-deer-stear:mg:shared-one-holke",
+              "measure_relation": "equivalent_notation"
             }
           ],
           "qualifiers": [],
@@ -20126,7 +20246,9 @@
               "raw_unit": "οὐγγίαν",
               "normalized_unit": "uncia",
               "certainty": "certain",
-              "notes": []
+              "notes": [],
+              "measure_group_id": "dioscorides-2-76-aromatized-calf-bull-deer-stear:mg:shared-one-uncia",
+              "measure_relation": "equivalent_notation"
             }
           ],
           "qualifiers": [],
@@ -20150,7 +20272,9 @@
               "raw_unit": "οὐγγίαν",
               "normalized_unit": "uncia",
               "certainty": "certain",
-              "notes": []
+              "notes": [],
+              "measure_group_id": "dioscorides-2-76-aromatized-calf-bull-deer-stear:mg:shared-one-uncia",
+              "measure_relation": "equivalent_notation"
             }
           ],
           "qualifiers": [],
@@ -20174,7 +20298,9 @@
               "raw_unit": "οὐγγίαν",
               "normalized_unit": "uncia",
               "certainty": "certain",
-              "notes": []
+              "notes": [],
+              "measure_group_id": "dioscorides-2-76-aromatized-calf-bull-deer-stear:mg:shared-one-uncia",
+              "measure_relation": "equivalent_notation"
             }
           ],
           "qualifiers": [],
@@ -20198,7 +20324,9 @@
               "raw_unit": "οὐγγίαν",
               "normalized_unit": "uncia",
               "certainty": "certain",
-              "notes": []
+              "notes": [],
+              "measure_group_id": "dioscorides-2-76-aromatized-calf-bull-deer-stear:mg:shared-one-uncia",
+              "measure_relation": "equivalent_notation"
             }
           ],
           "qualifiers": [],
@@ -20707,7 +20835,9 @@
               "certainty": "uncertain",
               "notes": [
                 "Relative amount equal to the first wine addition."
-              ]
+              ],
+              "measure_group_id": "dioscorides-2-76-aromatized-calf-bull-deer-stear:materials:2:measure:equivalent_notation",
+              "measure_relation": "equivalent_notation"
             }
           ],
           "qualifiers": [],
@@ -21201,7 +21331,9 @@
               "raw_unit": "ὁλκὰς",
               "normalized_unit": "holce",
               "certainty": "certain",
-              "notes": []
+              "notes": [],
+              "measure_group_id": "dioscorides-2-76-aromatic-pretreatment-lotus:ingredients:5:measure:variant_quantity",
+              "measure_relation": "variant_quantity"
             }
           ],
           "qualifiers": [],
@@ -21361,7 +21493,9 @@
               "certainty": "certain",
               "notes": [
                 "Distributive quantity in the bird/goose-fat aromatic mixture."
-              ]
+              ],
+              "measure_group_id": "dioscorides-2-76-aromatized-bird-goose-stear:mg:shared-12-drachmas",
+              "measure_relation": "equivalent_notation"
             }
           ],
           "qualifiers": [],
@@ -21387,7 +21521,9 @@
               "certainty": "certain",
               "notes": [
                 "Distributive quantity in the bird/goose-fat aromatic mixture."
-              ]
+              ],
+              "measure_group_id": "dioscorides-2-76-aromatized-bird-goose-stear:mg:shared-12-drachmas",
+              "measure_relation": "equivalent_notation"
             }
           ],
           "qualifiers": [],
@@ -21413,7 +21549,9 @@
               "certainty": "certain",
               "notes": [
                 "Distributive quantity in the bird/goose-fat aromatic mixture."
-              ]
+              ],
+              "measure_group_id": "dioscorides-2-76-aromatized-bird-goose-stear:mg:shared-12-drachmas",
+              "measure_relation": "equivalent_notation"
             }
           ],
           "qualifiers": [],

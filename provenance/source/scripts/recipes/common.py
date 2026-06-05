@@ -5,7 +5,7 @@ import json
 import re
 import unicodedata
 from collections import defaultdict
-from dataclasses import dataclass
+from dataclasses import dataclass, replace
 from functools import lru_cache
 from pathlib import Path
 from typing import Any
@@ -50,6 +50,13 @@ VIEWER_ENTITY_GROUPS = (
     "works_mentioned",
     "preparation_names",
 )
+
+MEASURE_RELATIONS = {
+    "standalone",
+    "compound_component",
+    "equivalent_notation",
+    "variant_quantity",
+}
 
 
 def prompt_version_for_dataset(dataset_key: str | None) -> str:
@@ -117,7 +124,35 @@ DATASETS: list[dict[str, Any]] = [
     },
 ]
 
-RECIPE_RECORD_SPLITS: dict[str, list[dict[str, Any]]] = {}
+RECIPE_RECORD_SPLITS: dict[str, list[dict[str, Any]]] = {
+    "aetius-16-146-1": [
+        {
+            "recipe_id": "aetius-16-146-1",
+            "text": (
+                "Κόστου λίτρ. δ ἤτοι δ. καὶ ἡμίσ. καρυοφύλλων λίτρ. θ. "
+                "φύλλων λίτ. α καὶ ἡμίσ. ναρδοστάχυος τὸ αὐτό. κασάμου γοιδ "
+                "ἤτοι οὐγ. ιδ. στύρακος χυματίου λίτρ. στ. ἄσπρου λιτρ. γ. "
+                "κρόκου τριχίνου γοι. ἄμβαρος γοβ. μόσχου γοβ."
+            ),
+            "notes": [
+                "First formulation of Book 16, ch. 146, §1; the second formulation is split as aetius-16-146-1-2."
+            ],
+        },
+        {
+            "recipe_id": "aetius-16-146-1-2",
+            "text": (
+                "ὁ ἄρχων δὲ τῆς Ἀνατολῆς σκευάζει οὕτως. κόστου γογ. "
+                "ναρδοστάχυος γοα. φύλλων τὸ αὐτό. καρυοφύλλων γογζʹ. "
+                "ἤτοι οὐγ. γ καὶ ἡμίσ. κασάμου γοζʹ. ἤτοι οὐγ. ἡμίσ. "
+                "ἄσπρου γοβ. στύρακος γοβ. χυματίου πρωτείου γοε. "
+                "κρόκου τριχίνου γράμματα β. μόσχου, ἄμβαρος ἀνὰ γράμματα β."
+            ),
+            "notes": [
+                "Second formulation of Book 16, ch. 146, §1, introduced by ὁ ἄρχων δὲ τῆς Ἀνατολῆς σκευάζει οὕτως."
+            ],
+        },
+    ]
+}
 
 
 AUTHORITY_LEDGER_BY_DATASET = {
@@ -331,6 +366,24 @@ def normalize_quantity_record(quantity: dict[str, Any]) -> dict[str, Any]:
     if canonical_unit is not None or had_normalized_unit:
         normalized["normalized_unit"] = canonical_unit
     return normalized
+
+
+def _assign_measure_relationship_metadata(recipe: RecipeRecord, sections: dict[str, Any]) -> None:
+    for host in ("ingredients", "processes", "materials"):
+        for entity_index, item in enumerate(sections.get(host, []) or [], start=1):
+            quantities = item.get("quantities") or []
+            for quantity_index, quantity in enumerate(quantities, start=1):
+                relation = quantity.get("measure_relation") or "standalone"
+                if relation not in MEASURE_RELATIONS:
+                    raise ValueError(
+                        f"{recipe.recipe_id}: unsupported measure_relation {relation!r} "
+                        f"on {host}[{entity_index}].quantities[{quantity_index}]"
+                    )
+                quantity["measure_relation"] = relation
+                if not quantity.get("measure_group_id"):
+                    quantity["measure_group_id"] = (
+                        f"{recipe.recipe_id}:{host}:{entity_index}:measure:{quantity_index}"
+                    )
 
 
 def normalize_witness_text(text: str) -> str:
@@ -2218,6 +2271,7 @@ def build_recipe_payload(recipe: RecipeRecord) -> dict[str, Any]:
         "build_version": structured.metadata["build_version"],
     }
     sections = _build_structured_sections(recipe, structured_data)
+    _assign_measure_relationship_metadata(recipe, sections)
     recipe_notes = list(recipe.notes)
     recipe_notes.extend(_copy_notes(structured_data.get("notes")))
 

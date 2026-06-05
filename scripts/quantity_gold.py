@@ -2,7 +2,7 @@
 """Validate mirrored quantity-gold artifacts.
 
 Generation, review, projection, and export belong in
-/home/seancoughlin/Projects/aetius. This derived repo only validates the mirror.
+/home/seanm/github/aetius. This derived repo only validates the mirror.
 """
 from __future__ import annotations
 
@@ -15,7 +15,7 @@ from typing import Any
 
 
 ROOT = Path(__file__).resolve().parents[1]
-SOURCE_REPO = Path("/home/seancoughlin/Projects/aetius")
+SOURCE_REPO = Path("/home/seanm/github/aetius")
 RECIPES_INDEX = ROOT / "data" / "recipes.json"
 GOLD_ROOT = ROOT / "data" / "review" / "quantity_gold"
 GOLD_RECIPE_DIR = GOLD_ROOT / "recipes"
@@ -316,7 +316,7 @@ def main() -> int:
 
     if args.generate or args.write_artifacts or args.project_reviewed:
         print(
-            "Quantity-gold generation/projection belongs in /home/seancoughlin/Projects/aetius; "
+            "Quantity-gold generation/projection belongs in /home/seanm/github/aetius; "
             "export here with scripts/quantity_gold.py --export-derived.",
             file=sys.stderr,
         )

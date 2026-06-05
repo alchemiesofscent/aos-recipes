@@ -1,0 +1,263 @@
+lookup_key	entry_type	article	nom_sg	gen_sg	gen_sg_ending	lsj_headword	display_entry	parent_key	occurrence_count	dataset_keys	status	notes
+ἁβρότονον	ingredient	τό	ἁβρότονον	ἁβροτόνου	-ου	ἁβρότονον	τό ἁβρότονον, -ου		2	dioscorides_book1_perfumes_resins	curated	
+ἄγνος	ingredient	ἡ	ἄγνος	ἄγνου	-ου	ἄγνος	ἡ ἄγνος, -ου		2	aetius_book1_oils; paul_book7_perfumes	curated	
+ἄγχουσα	ingredient	ἡ	ἄγχουσα	ἀγχούσης	-ης	ἄγχουσα	ἡ ἄγχουσα, -ης		3	aetius_book1_oils; dioscorides_book1_perfumes_resins; paul_book7_perfumes	curated	
+ἀδάρκη	ingredient	ἡ	ἀδάρκη	ἀδάρκης	-ης	ἀδάρκη	ἡ ἀδάρκη, -ης		1	paul_book7_perfumes	curated	
+αἴγειος	named_subtype	τό	αἴγειον	αἰγείου	-ου	αἴγειος	τό αἴγειον, -ου	γάλα	1	dioscorides_book2_fats	curated	
+αἴγειρος	ingredient	ἡ	αἴγειρος	αἰγείρου	-ου	αἴγειρος	ἡ αἴγειρος, -ου		1	paul_book7_perfumes	curated	
+αἱματίτης	named_subtype	ὁ	αἱματίτης	αἱματίτου	-ου	αἱματίτης	ὁ αἱματίτης, -ου	λίθος	1	aetius_book16_myrepsika	curated	
+ἀκακία	ingredient	ἡ	ἀκακία	ἀκακίας	-ας	ἀκακία	ἡ ἀκακία, -ας		1	aetius_book16_myrepsika	curated	
+ἀληλεσμένον	ingredient	τό	ἀληλεσμένον	ἀληλεσμένου	-ου	ἀλήθω	τό ἀληλεσμένον, -ου		1	dioscorides_book1_perfumes_resins	needs_review	Participial ingredient label; LSJ join should be reviewed.
+ἀλθαία	ingredient	ἡ	ἀλθαία	ἀλθαίας	-ας	ἀλθαία	ἡ ἀλθαία, -ας		1	paul_book7_perfumes	curated	
+ἀλόη	ingredient	ἡ	ἀλόη	ἀλόης	-ης	ἀλόη	ἡ ἀλόη, -ης		7	aetius_book16_myrepsika; paul_book7_perfumes	curated	
+ἀλούα	ingredient	ἡ	ἀλούα	ἀλούας	-ας	ἀλούα	ἡ ἀλούα, -ας		1	aetius_book16_myrepsika	needs_review	
+ἅλς	ingredient	ὁ	ἅλς	ἁλός	-ός	ἅλς	ὁ ἅλς, -ός		5	aetius_book16_myrepsika; dioscorides_book1_perfumes_resins; dioscorides_book2_fats	curated	
+ἄλφιτον	ingredient	τό	ἄλφιτον	ἀλφίτου	-ου	ἄλφιτον	τό ἄλφιτον, -ου		1	dioscorides_book2_fats	curated	
+ἀμανίτης	ingredient	ὁ	ἀμανίτης	ἀμανίτου	-ου	ἀμανίτης	ὁ ἀμανίτης, -ου		1	aetius_book16_myrepsika	curated	
+ἀμάρακος	ingredient	ὁ	ἀμάρακος	ἀμαράκου	-ου	ἀμάρακος	ὁ ἀμάρακος, -ου		3	aetius_book1_oils; dioscorides_book1_perfumes_resins; paul_book7_perfumes	curated	
+ἄμβαρ	ingredient	τό	ἄμβαρ	ἄμβαρος	-αρος	ἄμβαρ	τό ἄμβαρ, -αρος		8	aetius_book16_myrepsika; aetius_book1_oils	needs_review	
+Ἀμινναῖος	named_subtype	ὁ	Ἀμινναῖος	Ἀμινναίου	-ου	Ἀμινναῖος	ὁ Ἀμινναῖος, -ου	οἶνος	2	aetius_book16_myrepsika; paul_book7_perfumes	needs_review	
+ἀμμωνιακόν	named_subtype	τό	ἀμμωνιακόν	ἀμμωνιακοῦ	-οῦ	ἀμμωνιακός	τό ἀμμωνιακόν, -οῦ	θυμίαμα	2	aetius_book16_myrepsika; paul_book7_perfumes	curated	
+ἄμπελος	ingredient	ἡ	ἄμπελος	ἀμπέλου	-ου	ἄμπελος	ἡ ἄμπελος, -ου		1	aetius_book1_oils	curated	
+ἀμύγδαλον	ingredient	τό	ἀμύγδαλον	ἀμυγδάλου	-ου	ἀμύγδαλον	τό ἀμύγδαλον, -ου		8	aetius_book1_oils; dioscorides_book1_perfumes_resins; paul_book7_perfumes	curated	
+ἄμωμον	ingredient	τό	ἄμωμον	ἀμώμου	-ου	ἄμωμον	τό ἄμωμον, -ου		28	aetius_book16_myrepsika; aetius_book1_oils; dioscorides_book1_perfumes_resins; paul_book7_perfumes	curated	
+ἄνηθον	ingredient	τό	ἄνηθον	ἀνήθου	-ου	ἄνηθον	τό ἄνηθον, -ου		5	aetius_book1_oils; dioscorides_book1_perfumes_resins; paul_book7_perfumes	curated	
+ἄνθος	ingredient	τό	ἄνθος	ἄνθους	-ους	ἄνθος	τό ἄνθος, -ους		30	aetius_book1_oils; dioscorides_book1_perfumes_resins; dioscorides_book2_fats; paul_book7_perfumes	curated	
+ἄνισον	ingredient	τό	ἄνισον	ἀνίσου	-ου	ἄνισον	τό ἄνισον, -ου		1	aetius_book16_myrepsika	curated	
+ἀριστολοχία	ingredient	ἡ	ἀριστολοχία	ἀριστολοχίας	-ας	ἀριστολοχία	ἡ ἀριστολοχία, -ας		7	aetius_book1_oils; paul_book7_perfumes	curated	
+ἀρκευθίς	ingredient	ἡ	ἀρκευθίς	ἀρκευθίδος	-ίδος	ἀρκευθίς	ἡ ἀρκευθίς, -ίδος		1	dioscorides_book1_perfumes_resins	curated	
+ἀρναβώ	ingredient	ἡ	ἀρναβώ	ἀρναβῶ	-ῶ	ἀρναβώ	ἡ ἀρναβώ, -ῶ		13	aetius_book16_myrepsika; aetius_book1_oils; paul_book7_perfumes	needs_review	Foreign or uncertain ingredient name; preserve recipe form until checked.
+ἀρωματίτης	named_subtype	ὁ	ἀρωματίτης	ἀρωματίτου	-ου	ἀρωματίτης	ὁ ἀρωματίτης, -ου	κάλαμος	1	dioscorides_book1_perfumes_resins	curated	
+ἄσαρον	ingredient	τό	ἄσαρον	ἀσάρου	-ου	ἄσαρον	τό ἄσαρον, -ου		4	aetius_book16_myrepsika; aetius_book1_oils; paul_book7_perfumes	curated	
+ἄσβεστος	ingredient	ἡ	ἄσβεστος	ἀσβέστου	-ου	ἄσβεστος	ἡ ἄσβεστος, -ου		1	dioscorides_book2_fats	needs_review	
+ἀσπάλαθος	ingredient	ὁ	ἀσπάλαθος	ἀσπαλάθου	-ου	ἀσπάλαθος	ὁ ἀσπάλαθος, -ου		22	aetius_book16_myrepsika; aetius_book1_oils; dioscorides_book1_perfumes_resins; dioscorides_book2_fats; paul_book7_perfumes	curated	
+ἄσπρον	named_subtype	τό	ἄσπρον	ἄσπρου	-ου	ἄσπρος	τό ἄσπρον, -ου	στύραξ	3	aetius_book16_myrepsika	needs_review	
+ἀψίνθιον	ingredient	τό	ἀψίνθιον	ἀψινθίου	-ου	ἀψίνθιον	τό ἀψίνθιον, -ου		3	aetius_book16_myrepsika; paul_book7_perfumes	curated	
+βαλάνινον	named_subtype	τό	βαλάνινον	βαλανίνου	-ου	βαλάνινος	τό βαλάνινον, -ου	ἔλαιον	6	dioscorides_book1_perfumes_resins; paul_book7_perfumes	curated	
+βάλανος	ingredient	ἡ	βάλανος	βαλάνου	-ου	βάλανος	ἡ βάλανος, -ου		1	paul_book7_perfumes	curated	
+βάλσαμον	ingredient	τό	βάλσαμον	βαλσάμου	-ου	βάλσαμον	τό βάλσαμον, -ου		7	aetius_book16_myrepsika; aetius_book1_oils; dioscorides_book1_perfumes_resins	curated	
+βδέλλιον	ingredient	τό	βδέλλιον	βδελλίου	-ου	βδέλλιον	τό βδέλλιον, -ου		8	aetius_book16_myrepsika; aetius_book1_oils; paul_book7_perfumes	curated	
+βλαστός	ingredient	ὁ	βλαστός	βλαστοῦ	-οῦ	βλαστός	ὁ βλαστός, -οῦ		1	aetius_book1_oils	curated	
+βουκελλάριον	named_subtype	τό	βουκελλάριον	βουκελλαρίου	-ου	βουκελλάριον	τό βουκελλάριον, -ου	ἄσαρον	1	aetius_book1_oils	needs_review	
+βούτυρον	ingredient	τό	βούτυρον	βουτύρου	-ου	βούτυρον	τό βούτυρον, -ου		2	aetius_book16_myrepsika; dioscorides_book2_fats	curated	
+βράθυ	ingredient	τό	βράθυ	βραθύος	-ύος	βράθυ	τό βράθυ, -ύος		5	aetius_book1_oils; paul_book7_perfumes	needs_review	Citation form is retained from the recipe-normalized plant name; verify against LSJ before joining.
+βρουλλοκύπερον	ingredient	τό	βρουλλοκύπερον	βρουλλοκυπέρου	-ου	βρουλλοκύπερον	τό βρουλλοκύπερον, -ου		2	aetius_book1_oils	needs_review	
+βρύον	ingredient	τό	βρύον	βρύου	-ου	βρύον	τό βρύον, -ου		2	aetius_book16_myrepsika	curated	
+γάλα	ingredient	τό	γάλα	γάλακτος	-ακτος	γάλα	τό γάλα, -ακτος		3	dioscorides_book2_fats	curated	
+γαλάγγα	ingredient	ἡ	γαλάγγα	γαλάγγης	-ης	γαλάγγα	ἡ γαλάγγα, -ης		2	aetius_book1_oils	needs_review	
+γῆ	ingredient	ἡ	γῆ	γῆς	-ῆς	γῆ	ἡ γῆ, -ῆς		1	aetius_book16_myrepsika	curated	
+γλεύκινον	named_subtype	τό	γλεύκινον	γλευκίνου	-ου	γλεύκινος	τό γλεύκινον, -ου	μύρον	1	paul_book7_perfumes	curated	
+γλεῦκος	ingredient	τό	γλεῦκος	γλεύκους	-ους	γλεῦκος	τό γλεῦκος, -ους		2	dioscorides_book1_perfumes_resins; paul_book7_perfumes	curated	
+γλήχων	ingredient	ἡ	γλήχων	γλήχωνος	-ωνος	γλήχων	ἡ γλήχων, -ωνος		1	paul_book7_perfumes	curated	
+γλυκύς	modifier		γλυκύς	γλυκέος	-έος	γλυκύς	γλυκύς, -έος		12	aetius_book1_oils; paul_book7_perfumes	needs_review	Generic quality modifier; included only because some oil labels use it as a subtype discriminator.
+γομφῖτον	named_subtype	τό	γομφῖτον	γομφίτου	-ου	γομφῖτος	τό γομφῖτον, -ου	λάδανον	1	aetius_book1_oils	needs_review	
+δαλός	ingredient	ὁ	δαλός	δαλοῦ	-οῦ	δαλός	ὁ δαλός, -οῦ		1	dioscorides_book1_perfumes_resins	curated	
+δᾴς	ingredient	ἡ	δᾴς	δᾳδός	-δός	δᾴς	ἡ δᾴς, -δός		2	aetius_book1_oils; paul_book7_perfumes	curated	
+δαφνίς	ingredient	ἡ	δαφνίς	δαφνίδος	-ίδος	δαφνίς	ἡ δαφνίς, -ίδος		4	aetius_book1_oils; dioscorides_book1_perfumes_resins; paul_book7_perfumes	curated	
+δαφνόφυλλον	ingredient	τό	δαφνόφυλλον	δαφνοφύλλου	-ου	δαφνόφυλλον	τό δαφνόφυλλον, -ου		2	paul_book7_perfumes	curated	
+δενδρολίβανον	ingredient	τό	δενδρολίβανον	δενδρολιβάνου	-ου	δενδρολίβανον	τό δενδρολίβανον, -ου		5	aetius_book1_oils; paul_book7_perfumes	curated	
+ἐλαία	ingredient	ἡ	ἐλαία	ἐλαίας	-ας	ἐλαία	ἡ ἐλαία, -ας		6	aetius_book1_oils; dioscorides_book1_perfumes_resins; paul_book7_perfumes	curated	
+ἐλαία πέπειρος	ingredient	ἡ	ἐλαία πέπειρος	ἐλαίας πεπείρου	-ας -ου	πέπειρος	ἡ ἐλαία πέπειρος, -ας -ου	ἐλαία	1	paul_book7_perfumes	needs_review	
+ἔλαιον	ingredient	τό	ἔλαιον	ἐλαίου	-ου	ἔλαιον	τό ἔλαιον, -ου		113	aetius_book16_myrepsika; aetius_book1_oils; dioscorides_book1_perfumes_resins; dioscorides_book2_fats; paul_book7_perfumes	curated	
+ἐλάτη	ingredient	ἡ	ἐλάτη	ἐλάτης	-ης	ἐλάτη	ἡ ἐλάτη, -ης		2	dioscorides_book1_perfumes_resins; dioscorides_book2_fats	curated	
+ἐλελίσφακος	ingredient	ὁ	ἐλελίσφακος	ἐλελισφάκου	-ου	ἐλελίσφακος	ὁ ἐλελίσφακος, -ου		4	aetius_book1_oils; paul_book7_perfumes	curated	
+ἑλένιον	ingredient	τό	ἑλένιον	ἑλενίου	-ου	ἑλένιον	τό ἑλένιον, -ου		14	aetius_book16_myrepsika; aetius_book1_oils; paul_book7_perfumes	curated	
+ἔμπασμα	ingredient	τό	ἔμπασμα	ἐμπάσματος	-ατος	ἔμπασμα	τό ἔμπασμα, -ατος		1	aetius_book1_oils	needs_review	
+ἐρέβινθος	ingredient	ὁ	ἐρέβινθος	ἐρεβίνθου	-ου	ἐρέβινθος	ὁ ἐρέβινθος, -ου		1	aetius_book16_myrepsika	curated	
+ἔριον	ingredient	τό	ἔριον	ἐρίου	-ου	ἔριον	τό ἔριον, -ου		2	dioscorides_book2_fats	curated	
+ἑρπύλλον	ingredient	τό	ἑρπύλλον	ἑρπύλλου	-ου	ἑρπύλλον	τό ἑρπύλλον, -ου		3	dioscorides_book1_perfumes_resins; dioscorides_book2_fats; paul_book7_perfumes	curated	
+ἐρυσίσκηπτρον	ingredient	τό	ἐρυσίσκηπτρον	ἐρυσισκήπτρου	-ου	ἐρυσίσκηπτρον	τό ἐρυσίσκηπτρον, -ου		1	dioscorides_book2_fats	needs_review	
+ἐστυμμένος	modifier	τό	ἐστυμμένον	ἐστυμμένου	-ου	στύφω	τό ἐστυμμένον, -ου	ἔλαιον	3	dioscorides_book1_perfumes_resins	needs_review	
+εὐφόρβιον	ingredient	τό	εὐφόρβιον	εὐφορβίου	-ου	εὐφόρβιον	τό εὐφόρβιον, -ου		1	paul_book7_perfumes	curated	
+ζῷον	ingredient	τό	ζῷον	ζῴου	-ου	ζῷον	τό ζῷον, -ου		1	dioscorides_book2_fats	needs_review	
+ἥδυσμα	ingredient	τό	ἥδυσμα	ἡδύσματος	-ατος	ἥδυσμα	τό ἥδυσμα, -ατος		1	dioscorides_book1_perfumes_resins	curated	
+ἠρωματισμένος	modifier	τό	ἠρωματισμένον	ἠρωματισμένου	-ου	ἀρωματίζω	τό ἠρωματισμένον, -ου	ἔλαιον	4	dioscorides_book1_perfumes_resins	needs_review	
+θάλασσα	ingredient	ἡ	θάλασσα	θαλάσσης	-ης	θάλασσα	ἡ θάλασσα, -ης		2	dioscorides_book2_fats	curated	
+θαλλός	ingredient	ὁ	θαλλός	θαλλοῦ	-οῦ	θαλλός	ὁ θαλλός, -οῦ		1	dioscorides_book1_perfumes_resins	curated	
+θυμίαμα	ingredient	τό	θυμίαμα	θυμιάματος	-ατος	θυμίαμα	τό θυμίαμα, -ατος		3	aetius_book1_oils; paul_book7_perfumes	curated	
+Ἰλλυρικός	named_subtype	ἡ	Ἰλλυρική	Ἰλλυρικῆς	-ῆς	Ἰλλυρικός	ἡ Ἰλλυρική, -ῆς	ἶρις	2	aetius_book16_myrepsika; aetius_book1_oils	needs_review	
+ἰνδικόν	named_subtype	τό	ἰνδικόν	ἰνδικοῦ	-οῦ	ἰνδικός	τό ἰνδικόν, -οῦ	ἔλαιον	6	aetius_book16_myrepsika; aetius_book1_oils	needs_review	
+ἰνδικός	named_subtype	τό	ἰνδικόν	ἰνδικοῦ	-οῦ	ἰνδικός	τό ἰνδικόν, -οῦ	multiple	7	aetius_book16_myrepsika; aetius_book1_oils	needs_review	Geographic adjective; keep only where recipe labels use it as a lexical subtype.
+ἴον	ingredient	τό	ἴον	ἴου	-ου	ἴον	τό ἴον, -ου		6	aetius_book1_oils; dioscorides_book1_perfumes_resins; paul_book7_perfumes	curated	
+ἰός	ingredient	ὁ	ἰός	ἰοῦ	-οῦ	ἰός	ὁ ἰός, -οῦ		5	aetius_book1_oils; dioscorides_book1_perfumes_resins; paul_book7_perfumes	needs_review	
+ἶρις	ingredient	ἡ	ἶρις	ἴρεως	-εως	ἶρις	ἡ ἶρις, -εως		18	aetius_book16_myrepsika; aetius_book1_oils; dioscorides_book1_perfumes_resins; paul_book7_perfumes	curated	
+ἰσχάς	ingredient	ἡ	ἰσχάς	ἰσχάδος	-άδος	ἰσχάς	ἡ ἰσχάς, -άδος		1	aetius_book16_myrepsika	curated	
+Ἰταλικόν	named_subtype	τό	Ἰταλικόν	Ἰταλικοῦ	-οῦ	Ἰταλικός	τό Ἰταλικόν, -οῦ	ἔλαιον	7	aetius_book1_oils; paul_book7_perfumes	needs_review	
+καλαθίσκος	ingredient	ὁ	καλαθίσκος	καλαθίσκου	-ου	καλαθίσκος	ὁ καλαθίσκος, -ου		1	aetius_book1_oils	needs_review	
+καλαμίτης	named_subtype	ὁ	καλαμίτης	καλαμίτου	-ου	καλαμίτης	ὁ καλαμίτης, -ου	στύραξ	5	aetius_book16_myrepsika; aetius_book1_oils	curated	
+καλαμόκρινον	ingredient	τό	καλαμόκρινον	καλαμοκρίνου	-ου	καλαμόκρινον	τό καλαμόκρινον, -ου		2	aetius_book1_oils	curated	
+κάλαμος	ingredient	ὁ	κάλαμος	καλάμου	-ου	κάλαμος	ὁ κάλαμος, -ου		32	aetius_book16_myrepsika; aetius_book1_oils; dioscorides_book1_perfumes_resins; dioscorides_book2_fats; paul_book7_perfumes	curated	
+κάλταμος	ingredient	ὁ	κάλταμος	καλτάμου	-ου	κάλταμος	ὁ κάλταμος, -ου		1	dioscorides_book1_perfumes_resins	curated	
+καππαδοκικός	named_subtype	ὁ	καππαδοκικός	καππαδοκικοῦ	-οῦ	καππαδοκικός	ὁ καππαδοκικός, -οῦ	ἅλς	1	aetius_book16_myrepsika	needs_review	
+καρδάμωμον	ingredient	τό	καρδάμωμον	καρδαμώμου	-ου	καρδάμωμον	τό καρδάμωμον, -ου		16	aetius_book16_myrepsika; aetius_book1_oils; dioscorides_book1_perfumes_resins; dioscorides_book2_fats; paul_book7_perfumes	curated	
+καρπήσιον	ingredient	τό	καρπήσιον	καρπησίου	-ου	καρπήσιον	τό καρπήσιον, -ου		1	paul_book7_perfumes	needs_review	
+καρποβάλσαμον	ingredient	τό	καρποβάλσαμον	καρποβαλσάμου	-ου	καρποβάλσαμον	τό καρποβάλσαμον, -ου		17	aetius_book16_myrepsika; aetius_book1_oils; paul_book7_perfumes	curated	
+καρπός	ingredient	ὁ	καρπός	καρποῦ	-οῦ	καρπός	ὁ καρπός, -οῦ		11	aetius_book1_oils; dioscorides_book1_perfumes_resins; dioscorides_book2_fats; paul_book7_perfumes	curated	
+κάρυον	ingredient	τό	κάρυον	καρύου	-ου	κάρυον	τό κάρυον, -ου		8	aetius_book16_myrepsika; aetius_book1_oils; dioscorides_book1_perfumes_resins; paul_book7_perfumes	curated	
+καρυόφυλλον	ingredient	τό	καρυόφυλλον	καρυοφύλλου	-ου	καρυόφυλλον	τό καρυόφυλλον, -ου		26	aetius_book16_myrepsika; aetius_book1_oils; paul_book7_perfumes	curated	
+κάσαμον	ingredient	τό	κάσαμον	κασάμου	-ου	κάσαμον	τό κάσαμον, -ου		7	aetius_book16_myrepsika; aetius_book1_oils; paul_book7_perfumes	needs_review	
+κασία	ingredient	ἡ	κασία	κασίας	-ας	κασία	ἡ κασία, -ας		31	aetius_book16_myrepsika; aetius_book1_oils; dioscorides_book1_perfumes_resins; dioscorides_book2_fats; paul_book7_perfumes	curated	
+καφουρά	ingredient	ἡ	καφουρά	καφουρᾶς	-ᾶς	καφουρά	ἡ καφουρά, -ᾶς		1	aetius_book16_myrepsika	needs_review	
+κάχρυς	ingredient	ἡ	κάχρυς	κάχρυος	-υος	κάχρυς	ἡ κάχρυς, -υος		1	aetius_book1_oils	curated	
+κεδρία	ingredient	ἡ	κεδρία	κεδρίας	-ας	κεδρία	ἡ κεδρία, -ας		1	dioscorides_book2_fats	curated	
+Κελτική	named_subtype	ἡ	Κελτική	Κελτικῆς	-ῆς	Κελτικός	ἡ Κελτική, -ῆς	νάρδος	9	aetius_book16_myrepsika; aetius_book1_oils; dioscorides_book1_perfumes_resins; paul_book7_perfumes	curated	
+κελτικόν	named_subtype	τό	κελτικόν	κελτικοῦ	-οῦ	Κελτικός	τό κελτικόν, -οῦ	νάρδος	1	aetius_book1_oils	needs_review	
+κενταύριον	ingredient	τό	κενταύριον	κενταυρίου	-ου	κενταύριον	τό κενταύριον, -ου		1	paul_book7_perfumes	curated	
+κηρός	ingredient	ὁ	κηρός	κηροῦ	-οῦ	κηρός	ὁ κηρός, -οῦ		12	aetius_book16_myrepsika; aetius_book1_oils; dioscorides_book1_perfumes_resins; dioscorides_book2_fats; paul_book7_perfumes	curated	
+κηρωτή	ingredient	ἡ	κηρωτή	κηρωτῆς	-ῆς	κηρωτή	ἡ κηρωτή, -ῆς		2	dioscorides_book1_perfumes_resins	needs_review	
+Κίλιξ	named_subtype	ὁ	Κίλιξ	Κίλικος	-ικος	Κίλιξ	ὁ Κίλιξ, -ικος	κρόκος	2	paul_book7_perfumes	needs_review	
+κινάμωμον	ingredient	τό	κινάμωμον	κιναμώμου	-ου	κιννάμωμον	τό κινάμωμον, -ου		12	aetius_book1_oils; dioscorides_book1_perfumes_resins; dioscorides_book2_fats; paul_book7_perfumes	curated	Recipe spelling is κινάμωμον; LSJ citation form is kept separately.
+κίτριον	ingredient	τό	κίτριον	κιτρίου	-ου	κίτριον	τό κίτριον, -ου		4	aetius_book16_myrepsika; aetius_book1_oils; paul_book7_perfumes	curated	
+κλάδος	ingredient	ὁ	κλάδος	κλάδου	-ου	κλάδος	ὁ κλάδος, -ου		1	dioscorides_book2_fats	curated	
+κνίδιος	named_subtype	ὁ	κνίδιος	κνιδίου	-ου	κνίδιος	ὁ κνίδιος, -ου	κόκκος	1	dioscorides_book1_perfumes_resins	curated	
+κόκκος	ingredient	ὁ	κόκκος	κόκκου	-ου	κόκκος	ὁ κόκκος, -ου		3	aetius_book1_oils; dioscorides_book1_perfumes_resins; paul_book7_perfumes	curated	
+κολοκυνθίς	ingredient	ἡ	κολοκυνθίς	κολοκυνθίδος	-ίδος	κολοκυνθίς	ἡ κολοκυνθίς, -ίδος		1	paul_book7_perfumes	curated	
+κόμη	ingredient	ἡ	κόμη	κόμης	-ης	κόμη	ἡ κόμη, -ης		4	aetius_book1_oils; paul_book7_perfumes	curated	
+κόμμι	ingredient	τό	κόμμι	κόμμεως	-εως	κόμμι	τό κόμμι, -εως		2	aetius_book16_myrepsika	curated	
+κόστος	ingredient	ὁ	κόστος	κόστου	-ου	κόστος	ὁ κόστος, -ου		34	aetius_book16_myrepsika; aetius_book1_oils; dioscorides_book1_perfumes_resins; paul_book7_perfumes	curated	
+κρίνον	ingredient	τό	κρίνον	κρίνου	-ου	κρίνον	τό κρίνον, -ου		11	aetius_book16_myrepsika; aetius_book1_oils; dioscorides_book1_perfumes_resins; paul_book7_perfumes	curated	
+κρόκινον	named_subtype	τό	κρόκινον	κροκίνου	-ου	κρόκινος	τό κρόκινον, -ου	κρόκος	1	paul_book7_perfumes	needs_review	
+κρόκος	ingredient	ὁ	κρόκος	κρόκου	-ου	κρόκος	ὁ κρόκος, -ου		30	aetius_book16_myrepsika; aetius_book1_oils; dioscorides_book1_perfumes_resins; dioscorides_book2_fats; paul_book7_perfumes	curated	
+κρότων	ingredient	ὁ	κρότων	κρότωνος	-ωνος	κρότων	ὁ κρότων, -ωνος		2	dioscorides_book1_perfumes_resins	curated	
+κυδώνιον	named_subtype	τό	κυδώνιον	κυδωνίου	-ου	κυδώνιος	τό κυδώνιον, -ου	μῆλον	3	aetius_book1_oils; dioscorides_book1_perfumes_resins; paul_book7_perfumes	curated	
+κύμινον	ingredient	τό	κύμινον	κυμίνου	-ου	κύμινον	τό κύμινον, -ου		2	aetius_book16_myrepsika; paul_book7_perfumes	curated	
+κυπάρισσος	ingredient	ἡ	κυπάρισσος	κυπαρίσσου	-ου	κυπάρισσος	ἡ κυπάρισσος, -ου		2	dioscorides_book1_perfumes_resins; paul_book7_perfumes	curated	
+κύπειρος	ingredient	ἡ	κύπειρος	κυπείρου	-ου	κύπειρος	ἡ κύπειρος, -ου		20	aetius_book1_oils; dioscorides_book1_perfumes_resins; dioscorides_book2_fats; paul_book7_perfumes	curated	
+κύπρος	ingredient	ἡ	κύπρος	κύπρου	-ου	κύπρος	ἡ κύπρος, -ου		7	aetius_book1_oils; dioscorides_book1_perfumes_resins; paul_book7_perfumes	curated	
+λάδανον	ingredient	τό	λάδανον	λαδάνου	-ου	λάδανον	τό λάδανον, -ου		12	aetius_book16_myrepsika; aetius_book1_oils; paul_book7_perfumes	curated	
+λέκιθος	ingredient	ἡ	λέκιθος	λεκιθου	-ου	λέκιθος	ἡ λέκιθος, -ου		1	aetius_book16_myrepsika	needs_review	
+λέπος	ingredient	τό	λέπος	λέπους	-ους	λέπος	τό λέπος, -ους		2	aetius_book16_myrepsika; paul_book7_perfumes	needs_review	
+Λέσβιος	named_subtype	ὁ	Λέσβιος	Λεσβίου	-ου	Λέσβιος	ὁ Λέσβιος, -ου	οἶνος	1	dioscorides_book2_fats	needs_review	
+λευκός	modifier	τό	λευκόν	λευκοῦ	-οῦ	λευκός	τό λευκόν, -οῦ		20	aetius_book16_myrepsika; aetius_book1_oils; dioscorides_book1_perfumes_resins; dioscorides_book2_fats; paul_book7_perfumes	needs_review	Generic color/state modifier; included only where used as a lexical subtype in ingredient labels.
+λίβανος	ingredient	ὁ	λίβανος	λιβάνου	-ου	λίβανος	ὁ λίβανος, -ου		6	aetius_book16_myrepsika; aetius_book1_oils; paul_book7_perfumes	curated	
+λιβανωτίς	ingredient	ἡ	λιβανωτίς	λιβανωτίδος	-ίδος	λιβανωτίς	ἡ λιβανωτίς, -ίδος		1	aetius_book1_oils	curated	
+λιγνύς	ingredient	ἡ	λιγνύς	λιγνύος	-ύος	λιγνύς	ἡ λιγνύς, -ύος		1	dioscorides_book2_fats	curated	
+λίθος	ingredient	ὁ	λίθος	λίθου	-ου	λίθος	ὁ λίθος, -ου		1	aetius_book16_myrepsika	curated	
+λινοσπέρμον	ingredient	τό	λινοσπέρμον	λινοσπέρμου	-ου	λινοσπέρμον	τό λινοσπέρμον, -ου		1	aetius_book1_oils	curated	
+λιπαρία	ingredient	ἡ	λιπαρία	λιπαρίας	-ας	λιπαρία	ἡ λιπαρία, -ας		1	dioscorides_book1_perfumes_resins	needs_review	
+λίπος	ingredient	τό	λίπος	λίπους	-ους	λίπος	τό λίπος, -ους		3	dioscorides_book1_perfumes_resins; dioscorides_book2_fats	curated	
+λύγος	ingredient	ἡ	λύγος	λύγου	-ου	λύγος	ἡ λύγος, -ου		2	aetius_book1_oils; paul_book7_perfumes	curated	
+λωτός	ingredient	ὁ	λωτός	λωτοῦ	-οῦ	λωτός	ὁ λωτός, -οῦ		1	dioscorides_book2_fats	needs_review	
+μάκερ	ingredient	τό	μάκερ	μάκερος	-ερος	μάκερ	τό μάκερ, -ερος		1	aetius_book1_oils	needs_review	
+μαλαβάθρον	ingredient	τό	μαλαβάθρον	μαλαβάθρου	-ου	μαλαβάθρον	τό μαλαβάθρον, -ου		1	dioscorides_book1_perfumes_resins	needs_review	
+μασσουάφιον	ingredient	τό	μασσουάφιον	μασσουαφίου	-ου	μασσουάφιον	τό μασσουάφιον, -ου		2	aetius_book16_myrepsika	needs_review	
+μαστίχη	ingredient	ἡ	μαστίχη	μαστίχης	-ης	μαστίχη	ἡ μαστίχη, -ης		26	aetius_book16_myrepsika; aetius_book1_oils; dioscorides_book1_perfumes_resins; paul_book7_perfumes	curated	
+μελάνιον	ingredient	τό	μελάνιον	μελανίου	-ου	μελάνιον	τό μελάνιον, -ου		1	aetius_book16_myrepsika	curated	
+μέλι	ingredient	τό	μέλι	μέλιτος	-ιτος	μέλι	τό μέλι, -ιτος		29	aetius_book16_myrepsika; aetius_book1_oils; dioscorides_book1_perfumes_resins; dioscorides_book2_fats; paul_book7_perfumes	curated	
+μελίκρατον	ingredient	τό	μελίκρατον	μελικράτου	-ου	μελίκρατον	τό μελίκρατον, -ου		1	dioscorides_book1_perfumes_resins	curated	
+μελίλωτος	ingredient	ὁ	μελίλωτος	μελιλώτου	-ου	μελίλωτος	ὁ μελίλωτος, -ου		6	aetius_book1_oils; dioscorides_book1_perfumes_resins; paul_book7_perfumes	curated	
+μέρος	ingredient	τό	μέρος	μέρους	-ους	μέρος	τό μέρος, -ους		1	dioscorides_book1_perfumes_resins	curated	
+μῆλον	ingredient	τό	μῆλον	μήλου	-ου	μῆλον	τό μῆλον, -ου		6	aetius_book16_myrepsika; aetius_book1_oils; dioscorides_book1_perfumes_resins; paul_book7_perfumes	curated	
+μόλυβδος	ingredient	ὁ	μόλυβδος	μολύβδου	-ου	μόλυβδος	ὁ μόλυβδος, -ου		1	aetius_book16_myrepsika	curated	
+μόσχος	ingredient	ὁ	μόσχος	μόσχου	-ου	μόσχος	ὁ μόσχος, -ου		15	aetius_book16_myrepsika; aetius_book1_oils	curated	
+μυελός	ingredient	ὁ	μυελός	μυελοῦ	-οῦ	μυελός	ὁ μυελός, -οῦ		5	aetius_book16_myrepsika; dioscorides_book1_perfumes_resins; dioscorides_book2_fats; paul_book7_perfumes	curated	
+μυριστικός	named_subtype	τό	μυριστικόν	μυριστικοῦ	-οῦ	μυριστικός	τό μυριστικόν, -οῦ	κάρυον	1	aetius_book1_oils	curated	
+μυροβαλάνινον	named_subtype	τό	μυροβαλάνινον	μυροβαλανίνου	-ου	μυροβαλάνινος	τό μυροβαλάνινον, -ου	ἔλαιον	1	aetius_book1_oils	needs_review	
+μυροβάλανον	ingredient	τό	μυροβάλανον	μυροβαλάνου	-ου	μυροβάλανον	τό μυροβάλανον, -ου		2	aetius_book1_oils	needs_review	
+μύρον	ingredient	τό	μύρον	μύρου	-ου	μύρον	τό μύρον, -ου		8	aetius_book16_myrepsika; aetius_book1_oils; dioscorides_book1_perfumes_resins	curated	
+μυρσίνη	ingredient	ἡ	μυρσίνη	μυρσίνης	-ης	μυρσίνη	ἡ μυρσίνη, -ης		9	aetius_book1_oils; dioscorides_book1_perfumes_resins; dioscorides_book2_fats; paul_book7_perfumes	curated	
+ναρδῖνον	named_subtype	τό	ναρδῖνον	ναρδίνου	-ου	νάρδινος	τό ναρδῖνον, -ου	ἔλαιον	3	aetius_book16_myrepsika; paul_book7_perfumes	curated	
+νάρδος	ingredient	ἡ	νάρδος	νάρδου	-ου	νάρδος	ἡ νάρδος, -ου		16	aetius_book16_myrepsika; aetius_book1_oils; dioscorides_book1_perfumes_resins; dioscorides_book2_fats; paul_book7_perfumes	curated	
+ναρδόσταχυς	ingredient	ὁ	ναρδόσταχυς	ναρδοστάχυος	-υος	ναρδόσταχυς	ὁ ναρδόσταχυς, -υος		34	aetius_book16_myrepsika; aetius_book1_oils; paul_book7_perfumes	curated	
+νάρκισσος	ingredient	ὁ	νάρκισσος	ναρκίσσου	-ου	νάρκισσος	ὁ νάρκισσος, -ου		2	aetius_book1_oils; dioscorides_book1_perfumes_resins	curated	
+ξανθοκάρυον	ingredient	τό	ξανθοκάρυον	ξανθοκαρύου	-ου	ξανθοκάρυον	τό ξανθοκάρυον, -ου		2	aetius_book1_oils	needs_review	
+ξηροκαρυόφυλλον	ingredient	τό	ξηροκαρυόφυλλον	ξηροκαρυοφύλλου	-ου	ξηροκαρυόφυλλον	τό ξηροκαρυόφυλλον, -ου		1	aetius_book1_oils	curated	
+ξυλάλοη	ingredient	ἡ	ξυλάλοη	ξυλαλόης	-ης	ξυλάλοη	ἡ ξυλάλοη, -ης		2	aetius_book1_oils	needs_review	
+ξυλοβάλσαμον	ingredient	τό	ξυλοβάλσαμον	ξυλοβαλσάμου	-ου	ξυλοβάλσαμον	τό ξυλοβάλσαμον, -ου		20	aetius_book1_oils; dioscorides_book1_perfumes_resins; dioscorides_book2_fats; paul_book7_perfumes	curated	
+ξυλοκαρυόφυλλον	ingredient	τό	ξυλοκαρυόφυλλον	ξυλοκαρυοφύλλου	-ου	ξυλοκαρυόφυλλον	τό ξυλοκαρυόφυλλον, -ου		3	aetius_book16_myrepsika; aetius_book1_oils	curated	
+ξυλοκασία	ingredient	ἡ	ξυλοκασία	ξυλοκασίας	-ας	ξυλοκασία	ἡ ξυλοκασία, -ας		6	aetius_book16_myrepsika; aetius_book1_oils; paul_book7_perfumes	curated	
+ξυλομαστίχη	ingredient	ἡ	ξυλομαστίχη	ξυλομαστίχης	-ης	ξυλομαστίχη	ἡ ξυλομαστίχη, -ης		1	paul_book7_perfumes	curated	
+οἰνάνθη	ingredient	ἡ	οἰνάνθη	οἰνάνθης	-ης	οἰνάνθη	ἡ οἰνάνθη, -ης		2	aetius_book1_oils; dioscorides_book1_perfumes_resins	curated	
+οἶνος	ingredient	ὁ	οἶνος	οἴνου	-ου	οἶνος	ὁ οἶνος, -ου		44	aetius_book16_myrepsika; aetius_book1_oils; dioscorides_book1_perfumes_resins; dioscorides_book2_fats; paul_book7_perfumes	curated	
+οἴσυπος	ingredient	ὁ	οἴσυπος	οἰσύπου	-ου	οἴσυπος	ὁ οἴσυπος, -ου		4	aetius_book16_myrepsika; dioscorides_book2_fats; paul_book7_perfumes	curated	
+ὄμβριος	named_subtype	τό	ὄμβριον	ὀμβρίου	-ου	ὄμβριος	τό ὄμβριον, -ου	ὕδωρ	2	dioscorides_book1_perfumes_resins; dioscorides_book2_fats	curated	
+ὀμέριος	named_subtype	τό	ὀμέριον	ὀμερίου	-ου	ὀμέριος	τό ὀμέριον, -ου	ὕδωρ	1	dioscorides_book1_perfumes_resins	needs_review	
+ὀμφάκινον	named_subtype	τό	ὀμφάκινον	ὀμφακίνου	-ου	ὀμφάκινος	τό ὀμφάκινον, -ου	ἔλαιον	28	aetius_book16_myrepsika; aetius_book1_oils; dioscorides_book1_perfumes_resins; paul_book7_perfumes	curated	Substantivized recipe form; LSJ join key is adjectival ὀμφάκινος.
+ὄνυξ	ingredient	ὁ	ὄνυξ	ὄνυχος	-υχος	ὄνυξ	ὁ ὄνυξ, -υχος		8	aetius_book16_myrepsika; aetius_book1_oils	curated	
+ὄξος	ingredient	τό	ὄξος	ὄξους	-ους	ὄξος	τό ὄξος, -ους		2	aetius_book1_oils; dioscorides_book1_perfumes_resins	curated	
+ὄπιον	ingredient	τό	ὄπιον	ὀπίου	-ου	ὄπιον	τό ὄπιον, -ου		1	aetius_book16_myrepsika	curated	
+ὀποβάλσαμον	ingredient	τό	ὀποβάλσαμον	ὀποβαλσάμου	-ου	ὀποβάλσαμον	τό ὀποβάλσαμον, -ου		28	aetius_book16_myrepsika; aetius_book1_oils; paul_book7_perfumes	curated	
+ὀποπάναξ	ingredient	ὁ	ὀποπάναξ	ὀποπάνακος	-ακος	ὀποπάναξ	ὁ ὀποπάναξ, -ακος		4	aetius_book1_oils; paul_book7_perfumes	curated	
+ὀπός	ingredient	ὁ	ὀπός	ὀποῦ	-οῦ	ὀπός	ὁ ὀπός, -οῦ		1	aetius_book1_oils	curated	
+ὀρίγανον	ingredient	τό	ὀρίγανον	ὀριγάνου	-ου	ὀρίγανον	τό ὀρίγανον, -ου		1	paul_book7_perfumes	curated	
+παλαιός	modifier	ὁ	παλαιός	παλαιοῦ	-οῦ	παλαιός	ὁ παλαιός, -οῦ		11	aetius_book16_myrepsika; aetius_book1_oils; dioscorides_book1_perfumes_resins; dioscorides_book2_fats	needs_review	Generic age modifier; included only where used as a subtype discriminator.
+πέπερι	ingredient	τό	πέπερι	πεπέρεως	-εως	πέπερι	τό πέπερι, -εως		9	aetius_book16_myrepsika; aetius_book1_oils; paul_book7_perfumes	curated	
+πεπλυμένος	modifier	τό	πεπλυμένον	πεπλυμένου	-ου	πλύνω	τό πεπλυμένον, -ου	ἔλαιον	1	dioscorides_book1_perfumes_resins	needs_review	
+πέταλον	ingredient	τό	πέταλον	πετάλου	-ου	πέταλον	τό πέταλον, -ου		6	aetius_book1_oils; dioscorides_book1_perfumes_resins; paul_book7_perfumes	curated	
+πήγανον	ingredient	τό	πήγανον	πηγάνου	-ου	πήγανον	τό πήγανον, -ου		4	aetius_book16_myrepsika; dioscorides_book1_perfumes_resins; paul_book7_perfumes	curated	
+πίσσα	ingredient	ἡ	πίσσα	πίσσης	-ης	πίσσα	ἡ πίσσα, -ης		1	aetius_book16_myrepsika	curated	
+πόλιον	ingredient	τό	πόλιον	πολίου	-ου	πόλιον	τό πόλιον, -ου		1	aetius_book1_oils	curated	
+πομφόλυξ	ingredient	ἡ	πομφόλυξ	πομφόλυγος	-υγος	πομφόλυξ	ἡ πομφόλυξ, -υγος		1	aetius_book16_myrepsika	curated	
+πορφύρα	ingredient	ἡ	πορφύρα	πορφύρας	-ας	πορφύρα	ἡ πορφύρα, -ας		2	aetius_book1_oils; paul_book7_perfumes	needs_review	
+πρωτεῖος	named_subtype	ὁ	πρωτεῖος	πρωτείου	-ου	πρωτεῖος	ὁ πρωτεῖος, -ου	multiple	6	aetius_book16_myrepsika; aetius_book1_oils; paul_book7_perfumes	needs_review	
+πτισάνη	ingredient	ἡ	πτισάνη	πτισάνης	-ης	πτισάνη	ἡ πτισάνη, -ης		2	dioscorides_book1_perfumes_resins; dioscorides_book2_fats	curated	
+ῥάβδος	ingredient	ἡ	ῥάβδος	ῥάβδου	-ου	ῥάβδος	ἡ ῥάβδος, -ου		2	aetius_book1_oils	needs_review	Recipe label has ῥάσδος; verify whether LSJ join should be ῥάβδος.
+ῥάκος	ingredient	τό	ῥάκος	ῥάκους	-ους	ῥάκος	τό ῥάκος, -ους		1	aetius_book16_myrepsika	curated	
+ῥαφανίς	ingredient	ἡ	ῥαφανίς	ῥαφανίδος	-ίδος	ῥαφανίς	ἡ ῥαφανίς, -ίδος		2	aetius_book1_oils; paul_book7_perfumes	curated	
+ῥητίνη	ingredient	ἡ	ῥητίνη	ῥητίνης	-ης	ῥητίνη	ἡ ῥητίνη, -ης		11	aetius_book1_oils; dioscorides_book1_perfumes_resins; paul_book7_perfumes	curated	
+ῥίζα	ingredient	ἡ	ῥίζα	ῥίζης	-ης	ῥίζα	ἡ ῥίζα, -ης		4	aetius_book1_oils; dioscorides_book1_perfumes_resins; paul_book7_perfumes	curated	
+ῥοδομέλιτον	ingredient	τό	ῥοδομέλιτον	ῥοδομέλιτος	-ιτος	ῥοδομέλιτον	τό ῥοδομέλιτον, -ιτος		1	aetius_book16_myrepsika	needs_review	
+ῥόδον	ingredient	τό	ῥόδον	ῥόδου	-ου	ῥόδον	τό ῥόδον, -ου		34	aetius_book16_myrepsika; aetius_book1_oils; dioscorides_book1_perfumes_resins; paul_book7_perfumes	curated	
+ῥύπος	ingredient	ὁ	ῥύπος	ῥύπου	-ου	ῥύπος	ὁ ῥύπος, -ου		1	dioscorides_book2_fats	needs_review	
+σαλκᾶ	ingredient	τό	σαλκᾶ	σαλκᾶ	indecl.	σαλκᾶ	τό σαλκᾶ, indecl.		4	aetius_book16_myrepsika	needs_review	
+σάμψυχον	ingredient	τό	σάμψυχον	σαμψύχου	-ου	σάμψυχον	τό σάμψυχον, -ου		10	aetius_book1_oils; dioscorides_book1_perfumes_resins; dioscorides_book2_fats; paul_book7_perfumes	curated	
+σανδαράχη	ingredient	ἡ	σανδαράχη	σανδαράχης	-ης	σανδαράχη	ἡ σανδαράχη, -ης		2	aetius_book16_myrepsika	curated	
+σαρκοκόλλα	ingredient	ἡ	σαρκοκόλλα	σαρκοκόλλης	-ης	σαρκοκόλλα	ἡ σαρκοκόλλα, -ης		1	aetius_book16_myrepsika	curated	
+σάρξ	ingredient	ἡ	σάρξ	σαρκός	-αρκός	σάρξ	ἡ σάρξ, -αρκός		1	dioscorides_book1_perfumes_resins	curated	
+σαρούα	ingredient	ἡ	σαρούα	σαρούας	-ας	σαρούα	ἡ σαρούα, -ας		2	aetius_book16_myrepsika	needs_review	
+σειρῶμα	ingredient	τό	σειρῶμα	σειρώματος	-ατος	σειρῶμα	τό σειρῶμα, -ατος		1	aetius_book1_oils	needs_review	
+σεμίδαλις	ingredient	ἡ	σεμίδαλις	σεμιδάλεως	-εως	σεμίδαλις	ἡ σεμίδαλις, -εως		1	aetius_book16_myrepsika	curated	
+σέσελι	ingredient	τό	σέσελι	σεσέλεως	-εως	σέσελι	τό σέσελι, -εως		1	aetius_book16_myrepsika	curated	
+σησάμινον	named_subtype	τό	σησάμινον	σησαμίνου	-ου	σησάμινος	τό σησάμινον, -ου	ἔλαιον	1	aetius_book1_oils	curated	
+σῆσαμον	ingredient	τό	σῆσαμον	σησάμου	-ου	σῆσαμον	τό σῆσαμον, -ου		3	aetius_book1_oils; dioscorides_book1_perfumes_resins; paul_book7_perfumes	curated	
+σίδιον	ingredient	τό	σίδιον	σιδίου	-ου	σίδιον	τό σίδιον, -ου		1	dioscorides_book1_perfumes_resins	curated	
+σίκυος	ingredient	ὁ	σίκυος	σικύου	-ου	σίκυος	ὁ σίκυος, -ου		3	aetius_book1_oils; paul_book7_perfumes	curated	
+σίναπι	ingredient	τό	σίναπι	σινάπεως	-εως	σίναπι	τό σίναπι, -εως		1	dioscorides_book1_perfumes_resins	curated	
+σκολοπένδριον	ingredient	τό	σκολοπένδριον	σκολοπενδρίου	-ου	σκολοπένδριον	τό σκολοπένδριον, -ου		1	paul_book7_perfumes	curated	
+σμύρνα	ingredient	ἡ	σμύρνα	σμύρνης	-ης	σμύρνα	ἡ σμύρνα, -ης		40	aetius_book16_myrepsika; aetius_book1_oils; dioscorides_book1_perfumes_resins; dioscorides_book2_fats; paul_book7_perfumes	curated	
+σπάθη	ingredient	ἡ	σπάθη	σπάθης	-ης	σπάθη	ἡ σπάθη, -ης		5	dioscorides_book1_perfumes_resins; paul_book7_perfumes	curated	
+σπεκλάριον	ingredient	τό	σπεκλάριον	σπεκλαρίου	-ου	σπεκλάριον	τό σπεκλάριον, -ου		1	aetius_book16_myrepsika	needs_review	
+σπέρμα	ingredient	τό	σπέρμα	σπέρματος	-ατος	σπέρμα	τό σπέρμα, -ατος		13	aetius_book16_myrepsika; aetius_book1_oils; dioscorides_book1_perfumes_resins; paul_book7_perfumes	curated	
+σπυράθος	ingredient	ὁ	σπυράθος	σπυράθου	-ου	σπυράθος	ὁ σπυράθος, -ου		1	dioscorides_book2_fats	needs_review	
+στακτή	ingredient	ἡ	στακτή	στακτῆς	-ῆς	στακτή	ἡ στακτή, -ῆς		6	aetius_book16_myrepsika; aetius_book1_oils	curated	
+σταφίς	ingredient	ἡ	σταφίς	σταφίδος	-ίδος	σταφίς	ἡ σταφίς, -ίδος		1	dioscorides_book1_perfumes_resins	curated	
+σταφυλή	ingredient	ἡ	σταφυλή	σταφυλῆς	-ῆς	σταφυλή	ἡ σταφυλή, -ῆς		1	dioscorides_book1_perfumes_resins	curated	
+στάχυς	ingredient	ὁ	στάχυς	στάχυος	-υος	στάχυς	ὁ στάχυς, -υος		3	aetius_book16_myrepsika; aetius_book1_oils	curated	
+στέαρ	ingredient	τό	στέαρ	στέατος	-ατος	στέαρ	τό στέαρ, -ατος		28	aetius_book16_myrepsika; aetius_book1_oils; dioscorides_book1_perfumes_resins; dioscorides_book2_fats; paul_book7_perfumes	curated	
+στέμφυλον	ingredient	τό	στέμφυλον	στεμφύλου	-ου	στέμφυλον	τό στέμφυλον, -ου		1	dioscorides_book1_perfumes_resins	curated	
+στεφανίσκος	ingredient	ὁ	στεφανίσκος	στεφανίσκου	-ου	στεφανίσκος	ὁ στεφανίσκος, -ου		1	dioscorides_book1_perfumes_resins	needs_review	
+στύμμα	ingredient	τό	στύμμα	στύμματος	-ατος	στύμμα	τό στύμμα, -ατος		3	dioscorides_book1_perfumes_resins	needs_review	
+στυπτηρία	ingredient	ἡ	στυπτηρία	στυπτηρίας	-ας	στυπτηρία	ἡ στυπτηρία, -ας		1	aetius_book16_myrepsika	curated	
+στύραξ	ingredient	ἡ	στύραξ	στύρακος	-ακος	στύραξ	ἡ στύραξ, -ακος		43	aetius_book16_myrepsika; aetius_book1_oils; dioscorides_book1_perfumes_resins; paul_book7_perfumes	curated	
+σύριγξ	ingredient	ἡ	σύριγξ	σύριγγος	-ιγγος	σύριγξ	ἡ σύριγξ, -ιγγος		1	paul_book7_perfumes	curated	
+σχίνανθος	ingredient	ὁ	σχίνανθος	σχινάνθου	-ου	σχίνανθος	ὁ σχίνανθος, -ου		1	aetius_book1_oils	needs_review	
+σχῖνος	ingredient	ἡ	σχῖνος	σχίνου	-ου	σχῖνος	ἡ σχῖνος, -ου		4	aetius_book1_oils; dioscorides_book1_perfumes_resins; paul_book7_perfumes	curated	
+σχιστός	named_subtype	ἡ	σχιστή	σχιστῆς	-ῆς	σχιστός	ἡ σχιστή, -ῆς	στυπτηρία	1	aetius_book16_myrepsika	curated	
+σχοῖνος	ingredient	ὁ	σχοῖνος	σχοίνου	-ου	σχοῖνος	ὁ σχοῖνος, -ου		22	aetius_book1_oils; dioscorides_book1_perfumes_resins; dioscorides_book2_fats; paul_book7_perfumes	curated	
+τάρον	ingredient	τό	τάρον	τάρου	-ου	τάρον	τό τάρον, -ου		1	aetius_book16_myrepsika	needs_review	
+τερεβινθίνη	ingredient	ἡ	τερεβινθίνη	τερεβινθίνης	-ης	τερεβινθίνη	ἡ τερεβινθίνη, -ης		5	dioscorides_book1_perfumes_resins; paul_book7_perfumes	curated	
+τερέβινθος	ingredient	ἡ	τερέβινθος	τερεβίνθου	-ου	τερέβινθος	ἡ τερέβινθος, -ου		2	aetius_book1_oils	curated	
+τέφρα	ingredient	ἡ	τέφρα	τέφρας	-ας	τέφρα	ἡ τέφρα, -ας		1	dioscorides_book2_fats	curated	
+τῆλις	ingredient	ἡ	τῆλις	τήλεως	-εως	τῆλις	ἡ τῆλις, -εως		6	aetius_book1_oils; dioscorides_book1_perfumes_resins; paul_book7_perfumes	curated	
+τυρός	ingredient	ὁ	τυρός	τυροῦ	-οῦ	τυρός	ὁ τυρός, -οῦ		1	dioscorides_book2_fats	curated	
+Τυρρηνικός	named_subtype	ὁ	Τυρρηνικός	Τυρρηνικοῦ	-οῦ	Τυρρηνικός	ὁ Τυρρηνικός, -οῦ	κηρός	2	aetius_book16_myrepsika; dioscorides_book2_fats	needs_review	
+ὕδωρ	ingredient	τό	ὕδωρ	ὕδατος	-ατος	ὕδωρ	τό ὕδωρ, -ατος		43	aetius_book16_myrepsika; aetius_book1_oils; dioscorides_book1_perfumes_resins; dioscorides_book2_fats; paul_book7_perfumes	curated	
+ὑπερικόν	ingredient	τό	ὑπερικόν	ὑπερικοῦ	-οῦ	ὑπερικόν	τό ὑπερικόν, -οῦ		1	aetius_book1_oils	needs_review	
+ὕπνος	ingredient	ὁ	ὕπνος	ὕπνου	-ου	ὕπνος	ὁ ὕπνος, -ου		8	aetius_book16_myrepsika; aetius_book1_oils	needs_review	
+ὕσσωπος	ingredient	ἡ	ὕσσωπος	ὑσσώπου	-ου	ὕσσωπος	ἡ ὕσσωπος, -ου		4	aetius_book1_oils; paul_book7_perfumes	curated	
+φάρμακον	ingredient	τό	φάρμακον	φαρμάκου	-ου	φάρμακον	τό φάρμακον, -ου		1	paul_book7_perfumes	curated	
+φλοιός	ingredient	ὁ	φλοιός	φλοιοῦ	-οῦ	φλοιός	ὁ φλοιός, -οῦ		2	aetius_book16_myrepsika	curated	
+φοῖνιξ	ingredient	ὁ	φοῖνιξ	φοίνικος	-ικος	φοῖνιξ	ὁ φοῖνιξ, -ικος		3	dioscorides_book2_fats; paul_book7_perfumes	curated	
+φυλλῖνον	named_subtype	τό	φυλλῖνον	φυλλίνου	-ου	φυλλῖνος	τό φυλλῖνον, -ου	μύρον	2	aetius_book16_myrepsika	curated	
+φύλλον	ingredient	τό	φύλλον	φύλλου	-ου	φύλλον	τό φύλλον, -ου		59	aetius_book16_myrepsika; aetius_book1_oils; dioscorides_book1_perfumes_resins; paul_book7_perfumes	curated	
+χαλβάνη	ingredient	ἡ	χαλβάνη	χαλβάνης	-ης	χαλβάνη	ἡ χαλβάνη, -ης		3	aetius_book1_oils; dioscorides_book1_perfumes_resins; paul_book7_perfumes	curated	
+χαμαιλίβανον	ingredient	τό	χαμαιλίβανον	χαμαιλιβάνου	-ου	χαμαιλίβανον	τό χαμαιλίβανον, -ου		1	aetius_book1_oils	needs_review	
+χαμαιμήλον	ingredient	τό	χαμαιμήλον	χαμαιμήλου	-ου	χαμαιμήλον	τό χαμαιμήλον, -ου		2	aetius_book1_oils; paul_book7_perfumes	curated	
+χόνδρος	ingredient	ὁ	χόνδρος	χόνδρου	-ου	χόνδρος	ὁ χόνδρος, -ου		2	dioscorides_book1_perfumes_resins	curated	
+χυλός	ingredient	ὁ	χυλός	χυλοῦ	-οῦ	χυλός	ὁ χυλός, -οῦ		12	aetius_book16_myrepsika; dioscorides_book1_perfumes_resins; dioscorides_book2_fats; paul_book7_perfumes	curated	
+χυμάτιον	ingredient	τό	χυμάτιον	χυματίου	-ου	χυμάτιον	τό χυμάτιον, -ου		1	aetius_book16_myrepsika	needs_review	
+χυμάτιος	named_subtype	ὁ	χυμάτιος	χυματίου	-ου	χυμάτιος	ὁ χυμάτιος, -ου	στύραξ	1	aetius_book16_myrepsika	needs_review	
+ψιμύθιον	ingredient	τό	ψιμύθιον	ψιμυθίου	-ου	ψιμύθιον	τό ψιμύθιον, -ου		1	aetius_book16_myrepsika	curated	
+ὤκιμον	ingredient	τό	ὤκιμον	ὠκίμου	-ου	ὤκιμον	τό ὤκιμον, -ου		2	dioscorides_book1_perfumes_resins	curated	
+ὠμότριβον	named_subtype	τό	ὠμότριβον	ὠμοτρίβου	-ου	ὠμότριβος	τό ὠμότριβον, -ου	ἔλαιον	1	dioscorides_book1_perfumes_resins	curated	
+ᾠόν	ingredient	τό	ᾠόν	ᾠοῦ	-οῦ	ᾠόν	τό ᾠόν, -οῦ		2	aetius_book16_myrepsika; aetius_book1_oils	curated	

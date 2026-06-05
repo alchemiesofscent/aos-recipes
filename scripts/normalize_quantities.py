@@ -95,6 +95,70 @@ def parse_greek_numeral(s: str):
     return total if total > 0 else None
 
 
+# Byzantine pharmacological fractional convention: a unit-digit followed by ζʹ acts as
+# `digit + ½`. This is distinct from the additive numeral reading (αζ = 1+7 = 8) because
+# additive 8 is canonically written as the single letter η; the only reason a scribe writes
+# αζʹ is the half-marker convention. The text at aetius-16-139 spells it out explicitly —
+# `ξεαζʹ. ἤτοι ξέστ. α καὶ ἥμισ.` ("xestes 1 + ½, i.e. one xestes and a half") — confirming
+# the rule. Only single unit-digit prefixes (α-θ, ϛ) qualify; bigger Greek numerals like
+# `ιζ` = 17 keep their normal additive reading.
+HALF_SUFFIX_LETTERS = {"α": 1, "β": 2, "γ": 3, "δ": 4, "ε": 5, "ϛ": 6, "η": 8, "θ": 9}
+# Both Greek keraia (U+0374) and modifier prime (U+02B9) appear in the corpus as the
+# numeral-end marker; both are accepted here. The trailing marker is optional because
+# some scribes drop it on shortened forms.
+HALF_SUFFIX_RE = re.compile(r"^([αβγδεϛηθ])ζ[ʹʹ]?\.?$")
+HALF_WORDS = {"ἡμί", "ἡμί", "ἡμι", "ἥμισυ", "ἥμισ", "ἡμίσυ"}
+
+
+def parse_half_suffix_numeral(s: str):
+    """If `s` matches the unit-digit + ζʹ half-marker convention, return digit + 0.5; else None."""
+    if not isinstance(s, str):
+        return None
+    m = HALF_SUFFIX_RE.match(s.strip())
+    if not m:
+        return None
+    digit = HALF_SUFFIX_LETTERS.get(m.group(1))
+    if digit is None:
+        return None
+    return digit + 0.5
+
+
+def parse_quantity_numeral(s: str):
+    """Parse the numeral strings used by compact quantity abbreviations."""
+    if not isinstance(s, str):
+        return None
+    cand = nfc(s.strip().rstrip("."))
+    if cand in HALF_WORDS:
+        return 0.5
+    half = parse_half_suffix_numeral(cand)
+    if half is not None:
+        return half
+    return parse_greek_numeral(cand)
+
+
+def compact_abbrev_suffix(raw_unit: str, prefix: str):
+    """Return a compact abbreviation suffix, excluding full unit words like ξεστον."""
+    if not isinstance(raw_unit, str) or not raw_unit.startswith(prefix) or raw_unit == prefix:
+        return None
+    if not matches_re(raw_unit, _PREFIX_RE[prefix]):
+        return None
+    suffix = raw_unit[len(prefix):].strip(" ").rstrip(".")
+    suffix_without_marks = suffix.rstrip("ʹʹ")
+    if not suffix_without_marks or len(suffix_without_marks) > 3:
+        return None
+    if parse_quantity_numeral(suffix) is None:
+        return None
+    return suffix
+
+
+def fused_half_source_candidate(source_span: str, prefix: str):
+    """Recognize half-unit compounds such as ἡμίξεστον without splitting full unit words."""
+    span = nfc(source_span or "")
+    if prefix == "ξε" and span.startswith("ἡμ") and ("ξεστ" in span or "ξέστ" in span):
+        return "ἡμί"
+    return None
+
+
 # ---------------------------------------------------------------------------
 # Rule 2 — descriptor taxonomy (family per literal phrase / raw_unit)
 
@@ -325,8 +389,9 @@ def normalize_abbrev_inplace(q: dict, tally: Counter) -> bool:
     source_span = q.get("source_span") or ""
     matched = None
     for prefix, unit_name, key_prefix in _ABBREV_FAMILIES:
+        raw_unit_suffix = compact_abbrev_suffix(raw_unit, prefix)
         if (raw_unit == prefix
-                or (isinstance(raw_unit, str) and raw_unit.startswith(prefix) and matches_re(raw_unit, _PREFIX_RE[prefix]))
+                or raw_unit_suffix is not None
                 or (raw_unit in (None, "") and isinstance(source_span, str) and matches_re(source_span, _PREFIX_RE[prefix]))):
             matched = (prefix, unit_name, key_prefix)
             break
@@ -334,20 +399,29 @@ def normalize_abbrev_inplace(q: dict, tally: Counter) -> bool:
         return False
     prefix, unit_name, key_prefix = matched
 
-    # Gather candidate numeral strings in priority order: source_span suffix > raw_unit suffix > raw_number.
+    # Gather candidate numeral strings in priority order. Raw numbers and explicit
+    # source-span compounds are trusted before raw_unit suffixes, because full
+    # unit words like ξεστον can otherwise look like compact abbreviation suffixes.
     candidates: list[str] = []
     if isinstance(source_span, str) and source_span.startswith(prefix):
         candidates.append(source_span[len(prefix):].strip(" ").rstrip("."))
-    if isinstance(raw_unit, str) and raw_unit.startswith(prefix) and raw_unit != prefix:
-        candidates.append(raw_unit[len(prefix):].strip(" ").rstrip("."))
+    fused_half = fused_half_source_candidate(source_span, prefix)
+    if fused_half:
+        candidates.append(fused_half)
     if q.get("raw_number"):
         candidates.append(str(q["raw_number"]).strip(" ").rstrip("."))
+    raw_unit_suffix = compact_abbrev_suffix(raw_unit, prefix)
+    if raw_unit_suffix is not None:
+        candidates.append(raw_unit_suffix)
     parsed_str = None
     parsed_num = None
     for cand in candidates:
         if not cand:
             continue
-        n = parse_greek_numeral(cand)
+        # Byzantine half-suffix (αζʹ = 1.5, βζʹ = 2.5, ...) and half-word forms
+        # take priority over additive Greek numerals. See parse_half_suffix_numeral
+        # for the half-suffix rationale.
+        n = parse_quantity_numeral(cand)
         if n is not None:
             parsed_str = cand
             parsed_num = n

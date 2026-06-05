@@ -101,12 +101,12 @@
     "entity_model_version": "1.2",
     "authority_version": "2026-04-13-qty-alt-v1",
     "prompt_version": "qty-alt-pass-v1",
-    "build_version": "2026-05-25T18:36:46Z"
+    "build_version": "2026-06-04T18:29:05Z"
   },
   "schema_version": "1.2",
   "build_metadata": {
     "builder": "scripts/recipes/build_recipe_entities.py",
-    "built_at": "2026-05-25T18:36:46Z",
+    "built_at": "2026-06-04T18:29:05Z",
     "source_structured_authority": "reports/entity_review/structured/dioscorides.json",
     "authority_model": "gpt-5.4",
     "authority_reasoning_effort": "high",
@@ -114,7 +114,7 @@
     "entity_model_version": "1.2",
     "authority_version": "2026-04-13-qty-alt-v1",
     "prompt_version": "qty-alt-pass-v1",
-    "build_version": "2026-05-25T18:36:46Z"
+    "build_version": "2026-06-04T18:29:05Z"
   },
   "recipe_text_excerpt": "κῦφι θυμιάματός ἐστι σκευασία κεχαρισμένη θεοῖς· χρῶνται δὲ αὐτῷ κατακόρως οἱ ἐν Αἰγύπτῳ ἱερεῖς. μείγνυται δὲ καὶ ἀντιδότοις, καὶ ἀσθματικοῖς",
   "preparation": {
@@ -166,7 +166,9 @@
           "certainty": "certain",
           "notes": [
             "Corrected by normalize_quantities.py (rule ξε+numeral): raw_number 'ἡμί'→'στον', normalized_number 0.5→126."
-          ]
+          ],
+          "measure_relation": "standalone",
+          "measure_group_id": "dioscorides-1-25-kyphi:ingredients:1:measure:1"
         }
       ],
       "qualifiers": [],
@@ -202,6 +204,8 @@
           "notes": [
             "Same quantity as the immediately preceding κυπέρου ἡμίξεστον."
           ],
+          "measure_group_id": "dioscorides-1-25-kyphi:ingredients:2:measure:equivalent_notation",
+          "measure_relation": "equivalent_notation",
           "descriptor_family": "same_as"
         }
       ],
@@ -249,7 +253,9 @@
           "raw_unit": "μνᾶς",
           "normalized_unit": "mna",
           "certainty": "certain",
-          "notes": []
+          "notes": [],
+          "measure_relation": "standalone",
+          "measure_group_id": "dioscorides-1-25-kyphi:ingredients:3:measure:1"
         }
       ],
       "qualifiers": [],
@@ -287,7 +293,9 @@
           "raw_unit": "μνᾶς",
           "normalized_unit": "mna",
           "certainty": "certain",
-          "notes": []
+          "notes": [],
+          "measure_relation": "standalone",
+          "measure_group_id": "dioscorides-1-25-kyphi:ingredients:4:measure:1"
         }
       ],
       "qualifiers": [],
@@ -322,7 +330,9 @@
           "certainty": "certain",
           "notes": [
             "Shared each-quantity over καλάμου ἀρωματίτου, ἀσπαλάθου, σχοίνου."
-          ]
+          ],
+          "measure_relation": "standalone",
+          "measure_group_id": "dioscorides-1-25-kyphi:ingredients:5:measure:1"
         }
       ],
       "qualifiers": [],
@@ -357,7 +367,9 @@
           "certainty": "certain",
           "notes": [
             "Shared each-quantity over καλάμου ἀρωματίτου, ἀσπαλάθου, σχοίνου."
-          ]
+          ],
+          "measure_relation": "standalone",
+          "measure_group_id": "dioscorides-1-25-kyphi:ingredients:6:measure:1"
         }
       ],
       "qualifiers": [],
@@ -392,7 +404,9 @@
           "certainty": "certain",
           "notes": [
             "Shared each-quantity over καλάμου ἀρωματίτου, ἀσπαλάθου, σχοίνου."
-          ]
+          ],
+          "measure_relation": "standalone",
+          "measure_group_id": "dioscorides-1-25-kyphi:ingredients:7:measure:1"
         }
       ],
       "qualifiers": [],
@@ -427,7 +441,9 @@
           "raw_unit": "δραχμὰς",
           "normalized_unit": "drachme",
           "certainty": "certain",
-          "notes": []
+          "notes": [],
+          "measure_relation": "standalone",
+          "measure_group_id": "dioscorides-1-25-kyphi:ingredients:8:measure:1"
         }
       ],
       "qualifiers": [],
@@ -462,7 +478,9 @@
           "raw_unit": "ξέστας",
           "normalized_unit": "xestes",
           "certainty": "certain",
-          "notes": []
+          "notes": [],
+          "measure_relation": "standalone",
+          "measure_group_id": "dioscorides-1-25-kyphi:ingredients:9:measure:1"
         }
       ],
       "qualifiers": [
@@ -505,7 +523,9 @@
           "raw_unit": "μνᾶς",
           "normalized_unit": "mna",
           "certainty": "certain",
-          "notes": []
+          "notes": [],
+          "measure_relation": "standalone",
+          "measure_group_id": "dioscorides-1-25-kyphi:ingredients:10:measure:1"
         }
       ],
       "qualifiers": [],

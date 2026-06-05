@@ -137,12 +137,12 @@
     "entity_model_version": "1.2",
     "authority_version": "2026-04-13-qty-alt-v1",
     "prompt_version": "qty-alt-pass-v1",
-    "build_version": "2026-05-25T18:36:46Z"
+    "build_version": "2026-06-04T18:29:05Z"
   },
   "schema_version": "1.2",
   "build_metadata": {
     "builder": "scripts/recipes/build_recipe_entities.py",
-    "built_at": "2026-05-25T18:36:46Z",
+    "built_at": "2026-06-04T18:29:05Z",
     "source_structured_authority": "reports/entity_review/structured/aetius_book1.json",
     "authority_model": "gpt-5.4",
     "authority_reasoning_effort": "high",
@@ -150,7 +150,7 @@
     "entity_model_version": "1.2",
     "authority_version": "2026-04-13-qty-alt-v1",
     "prompt_version": "qty-alt-pass-v1",
-    "build_version": "2026-05-25T18:36:46Z"
+    "build_version": "2026-06-04T18:29:05Z"
   },
   "recipe_text_excerpt": "Ἰρίνου σκευασία· ἴρεως ἀσπαλάθου κυπέρου ἑλενίου ἀνὰ λίτρας ε ὀποπάνακος 𐆄 ϛʹ, τινὲς δὲ 𐆄 γ, ἀγχούσης 𐆄 β ἐλαίου",
   "preparation": {
@@ -194,7 +194,9 @@
           "raw_unit": "λίτρας",
           "normalized_unit": "litra",
           "certainty": "certain",
-          "notes": []
+          "notes": [],
+          "measure_relation": "standalone",
+          "measure_group_id": "aetius-1-130:ingredients:1:measure:1"
         }
       ],
       "qualifiers": [],
@@ -229,7 +231,9 @@
           "raw_unit": "λίτρας",
           "normalized_unit": "litra",
           "certainty": "certain",
-          "notes": []
+          "notes": [],
+          "measure_relation": "standalone",
+          "measure_group_id": "aetius-1-130:ingredients:2:measure:1"
         }
       ],
       "qualifiers": [],
@@ -264,7 +268,9 @@
           "raw_unit": "λίτρας",
           "normalized_unit": "litra",
           "certainty": "certain",
-          "notes": []
+          "notes": [],
+          "measure_relation": "standalone",
+          "measure_group_id": "aetius-1-130:ingredients:3:measure:1"
         }
       ],
       "qualifiers": [],
@@ -299,7 +305,9 @@
           "raw_unit": "λίτρας",
           "normalized_unit": "litra",
           "certainty": "certain",
-          "notes": []
+          "notes": [],
+          "measure_relation": "standalone",
+          "measure_group_id": "aetius-1-130:ingredients:4:measure:1"
         }
       ],
       "qualifiers": [],
@@ -336,7 +344,9 @@
           "raw_unit": "𐆄",
           "normalized_unit": "uncia",
           "certainty": "certain",
-          "notes": []
+          "notes": [],
+          "measure_group_id": "aetius-1-130:ingredients:5:measure:m1",
+          "measure_relation": "variant_quantity"
         },
         {
           "source_span": "𐆄 γ",
@@ -347,7 +357,9 @@
           "certainty": "certain",
           "notes": [
             "Alternative quantity introduced by τινὲς δὲ."
-          ]
+          ],
+          "measure_group_id": "aetius-1-130:ingredients:5:measure:m1",
+          "measure_relation": "variant_quantity"
         }
       ],
       "qualifiers": [],
@@ -382,7 +394,9 @@
           "raw_unit": "𐆄",
           "normalized_unit": "uncia",
           "certainty": "certain",
-          "notes": []
+          "notes": [],
+          "measure_relation": "standalone",
+          "measure_group_id": "aetius-1-130:ingredients:6:measure:1"
         }
       ],
       "qualifiers": [],
@@ -418,7 +432,9 @@
           "raw_unit": "ξέστας",
           "normalized_unit": "xestes",
           "certainty": "certain",
-          "notes": []
+          "notes": [],
+          "measure_relation": "standalone",
+          "measure_group_id": "aetius-1-130:ingredients:7:measure:1"
         }
       ],
       "qualifiers": [],
@@ -454,7 +470,9 @@
           "raw_unit": "ξέστας",
           "normalized_unit": "xestes",
           "certainty": "certain",
-          "notes": []
+          "notes": [],
+          "measure_relation": "standalone",
+          "measure_group_id": "aetius-1-130:ingredients:8:measure:1"
         }
       ],
       "qualifiers": [],
@@ -489,7 +507,9 @@
           "raw_unit": "𐆄",
           "normalized_unit": "uncia",
           "certainty": "certain",
-          "notes": []
+          "notes": [],
+          "measure_group_id": "aetius-1-130:mg:optional-aromatics",
+          "measure_relation": "variant_quantity"
         }
       ],
       "qualifiers": [],
@@ -526,7 +546,9 @@
           "raw_unit": "𐆄",
           "normalized_unit": "uncia",
           "certainty": "certain",
-          "notes": []
+          "notes": [],
+          "measure_group_id": "aetius-1-130:mg:optional-aromatics",
+          "measure_relation": "variant_quantity"
         }
       ],
       "qualifiers": [],
@@ -563,7 +585,9 @@
           "raw_unit": "𐆄",
           "normalized_unit": "uncia",
           "certainty": "certain",
-          "notes": []
+          "notes": [],
+          "measure_group_id": "aetius-1-130:mg:optional-aromatics",
+          "measure_relation": "variant_quantity"
         }
       ],
       "qualifiers": [],
@@ -600,7 +624,9 @@
           "raw_unit": "𐆄",
           "normalized_unit": "uncia",
           "certainty": "certain",
-          "notes": []
+          "notes": [],
+          "measure_group_id": "aetius-1-130:mg:optional-aromatics",
+          "measure_relation": "variant_quantity"
         }
       ],
       "qualifiers": [

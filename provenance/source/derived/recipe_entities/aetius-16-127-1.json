@@ -87,12 +87,12 @@
     "entity_model_version": "1.2",
     "authority_version": "2026-04-13-qty-alt-v1",
     "prompt_version": "qty-alt-pass-v1",
-    "build_version": "2026-05-25T18:36:46Z"
+    "build_version": "2026-06-04T18:29:05Z"
   },
   "schema_version": "1.2",
   "build_metadata": {
     "builder": "scripts/recipes/build_recipe_entities.py",
-    "built_at": "2026-05-25T18:36:46Z",
+    "built_at": "2026-06-04T18:29:05Z",
     "source_structured_authority": "reports/entity_review/structured/aetius_book16.json",
     "authority_model": "gpt-5.4",
     "authority_reasoning_effort": "high",
@@ -100,7 +100,7 @@
     "entity_model_version": "1.2",
     "authority_version": "2026-04-13-qty-alt-v1",
     "prompt_version": "qty-alt-pass-v1",
-    "build_version": "2026-05-25T18:36:46Z"
+    "build_version": "2026-06-04T18:29:05Z"
   },
   "recipe_text_excerpt": "Ῥόδων ξηρῶν λίτρ. α. κόστου, φύλλου, καρυοφύλλων, ὕπνου, καλάμου ἀρωματικοῦ, ὀνύχων, στύρακος ἀνὰ γοβ.",
   "preparation": {
@@ -152,7 +152,9 @@
           "raw_unit": "λίτρ.",
           "normalized_unit": "litra",
           "certainty": "certain",
-          "notes": []
+          "notes": [],
+          "measure_relation": "standalone",
+          "measure_group_id": "aetius-16-127-1:ingredients:1:measure:1"
         }
       ],
       "qualifiers": [],
@@ -188,7 +190,9 @@
           "notes": [
             "Distributive ἀνὰ implies the same measure for each coordinated ingredient, but no numeral is explicit here.",
             "Unit abbreviation not resolved safely."
-          ]
+          ],
+          "measure_relation": "standalone",
+          "measure_group_id": "aetius-16-127-1:ingredients:2:measure:1"
         }
       ],
       "qualifiers": [],
@@ -224,7 +228,9 @@
           "notes": [
             "Distributive ἀνὰ implies the same measure for each coordinated ingredient, but no numeral is explicit here.",
             "Unit abbreviation not resolved safely."
-          ]
+          ],
+          "measure_relation": "standalone",
+          "measure_group_id": "aetius-16-127-1:ingredients:3:measure:1"
         }
       ],
       "qualifiers": [],
@@ -260,7 +266,9 @@
           "notes": [
             "Distributive ἀνὰ implies the same measure for each coordinated ingredient, but no numeral is explicit here.",
             "Unit abbreviation not resolved safely."
-          ]
+          ],
+          "measure_relation": "standalone",
+          "measure_group_id": "aetius-16-127-1:ingredients:4:measure:1"
         }
       ],
       "qualifiers": [],
@@ -296,7 +304,9 @@
           "notes": [
             "Distributive ἀνὰ implies the same measure for each coordinated ingredient, but no numeral is explicit here.",
             "Unit abbreviation not resolved safely."
-          ]
+          ],
+          "measure_relation": "standalone",
+          "measure_group_id": "aetius-16-127-1:ingredients:5:measure:1"
         }
       ],
       "qualifiers": [],
@@ -332,7 +342,9 @@
           "notes": [
             "Distributive ἀνὰ implies the same measure for each coordinated ingredient, but no numeral is explicit here.",
             "Unit abbreviation not resolved safely."
-          ]
+          ],
+          "measure_relation": "standalone",
+          "measure_group_id": "aetius-16-127-1:ingredients:6:measure:1"
         }
       ],
       "qualifiers": [],
@@ -368,7 +380,9 @@
           "notes": [
             "Distributive ἀνὰ implies the same measure for each coordinated ingredient, but no numeral is explicit here.",
             "Unit abbreviation not resolved safely."
-          ]
+          ],
+          "measure_relation": "standalone",
+          "measure_group_id": "aetius-16-127-1:ingredients:7:measure:1"
         }
       ],
       "qualifiers": [],
@@ -404,7 +418,9 @@
           "notes": [
             "Distributive ἀνὰ implies the same measure for each coordinated ingredient, but no numeral is explicit here.",
             "Unit abbreviation not resolved safely."
-          ]
+          ],
+          "measure_relation": "standalone",
+          "measure_group_id": "aetius-16-127-1:ingredients:8:measure:1"
         }
       ],
       "qualifiers": [],

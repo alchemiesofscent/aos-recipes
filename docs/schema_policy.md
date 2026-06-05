@@ -11,7 +11,7 @@
 
 ## Why this document exists
 
-The `aos-recipes` corpus (192 Greek pharmaceutical recipes from Dioscorides, Aëtius, and
+The `aos-recipes` corpus (193 Greek pharmaceutical recipes from Dioscorides, Aëtius, and
 Paul of Aegina) has a data model that grew in layers. It is good at recording *what a recipe
 says*, but not yet good enough at recording it in a **queryable, interoperable** form. A
 spot-check of eight representative recipes (see [Appendix A](#appendix-a--evidence-base))
@@ -25,7 +25,7 @@ should be sequenced and versioned.
 
 ### Authority and scope
 
-`/home/seancoughlin/Projects/aetius` is the **source of truth**; `aos-recipes` is the
+`/home/seanm/github/aetius` is the **source of truth**; `aos-recipes` is the
 derived, **validate-only mirror** (see [`quantity_gold.md`](quantity_gold.md)). All schema,
 authority-file, and vocabulary changes proposed here are **implemented upstream in `aetius`
 and mirrored here** via the export commands. This policy document itself lives in
@@ -77,9 +77,10 @@ and mirrored here** via the export commands. This policy document itself lives i
 | F18 | **Multi-product / by-product records** (Aëtius 1.132 δευτέριον from residue, ingredients flagged by note only). | product/by-product modeling |
 | F19 | **Vocabulary drift / unresolved units.** Ad-hoc `qualifier_type` values appear inline (`exposure`=ἡλίου, `color`=λευκή); symbolic units (𐆄, ξ̸, γρ=gramma, 𐅻=drachme) often left `uncertain`. | governance, normalization |
 
-**Coverage reality.** The gold pipeline has produced **1 reviewed recipe of 192**
+**Coverage reality.** The gold pipeline has produced **1 reviewed recipe of 193**
 (`dioscorides-1-25-kyphi`). The overlay still reports a `174` denominator from a run that
-predates the Book 2 fats slice; the current corpus is `192`. This must be reconciled on the
+predates the Book 2 fats slice and the later Aëtius Book 16 split; the current corpus is
+`193`. This must be reconciled on the
 next full run (see [W4](#w4--execute-and-version-the-gold-pipeline)).
 
 **Conclusion.** The recipes require revision. The canonical inline qualifiers are
@@ -179,8 +180,8 @@ arrays, not a full TEI apparatus.)*
 *Incorporates [`quantity_gold.md`](quantity_gold.md).*
 
 - Restate the authority/mirror split and the validate-only posture of this repo.
-- Run the full LLM/gold generation across **all 192 recipes** in `aetius`, **reconcile
-  174 → 192**, then `--export-derived` to this mirror.
+- Run the full LLM/gold generation across **all 193 recipes** in `aetius`, **reconcile
+  174 → 193**, then `--export-derived` to this mirror.
 - Define run/version cadence and acceptance gates:
   `generated_unreviewed` → `machine_validated` → `human_reviewed` →
   `accepted_for_projection` (→ `accepted_for_canonical_update` where warranted).

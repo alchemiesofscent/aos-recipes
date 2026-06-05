@@ -1,19 +1,19 @@
 # Quantity Gold Mirror
 
 This repo is the derived/export mirror for quantity-gold artifacts. The source
-authority is `/home/seancoughlin/Projects/aetius`.
+authority is `/home/seanm/github/aetius`.
 
 ## Rules
 
 - Do not edit `data/review/quantity_gold/` independently in this checkout.
 - Generate candidates, validate records, write ledgers, build projections, and
-  archive stable artifacts in `/home/seancoughlin/Projects/aetius`.
+  archive stable artifacts in `/home/seanm/github/aetius`.
 - Export approved source artifacts into this repo with the source command:
 
 ```bash
-cd /home/seancoughlin/Projects/aetius
+cd /home/seanm/github/aetius
 python3 scripts/quantity_gold.py --write-artifacts --validate
-python3 scripts/quantity_gold.py --export-derived /home/seancoughlin/Projects/aos-recipes
+python3 scripts/quantity_gold.py --export-derived /home/seanm/github/aos-recipes
 ```
 
 ## Mirrored Files
@@ -41,12 +41,12 @@ The current reviewed record is `dioscorides-1-25-kyphi`.
 
 ## Coverage Count Note
 
-This repo validates 192 standalone recipe records:
+This repo validates 193 standalone recipe records:
 
 - Dioscorides Book 1 perfumes and resins: 52
 - Dioscorides Book 2 fats: 18
 - Aetius Book 1 oils: 43
-- Aetius Book 16 myrepsika: 44
+- Aetius Book 16 myrepsika: 45
 - Paul 7.20 perfumes: 35
 
 The mirrored quantity-gold artifacts may report `corpus_recipe_count: 174`.
@@ -55,12 +55,12 @@ overlay before the Book 2 fats slice was present in the local source workflow.
 It is not the current standalone export denominator.
 
 The current `aetius` source recipe-entity index and this standalone mirror both
-now contain 192 recipes, including `dioscorides_book2_fats`. The current LLM/gold
-process has still not run across all 192 recipes; the reviewed gold layer
+now contain 193 recipes, including `dioscorides_book2_fats` and the split
+Aëtius Book 16 record. The current LLM/gold process has still not run across all 193 recipes; the reviewed gold layer
 contains one accepted recipe record, `dioscorides-1-25-kyphi`.
 
 Until the quantity-gold artifacts are rebuilt and exported from the current
-`aetius` source tree, read `1 / 174` as artifact-run coverage and `192` as the
+`aetius` source tree, read `1 / 174` as artifact-run coverage and `193` as the
 current source/export corpus size.
 
 ## Validate

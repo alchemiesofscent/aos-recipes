@@ -126,12 +126,12 @@
     "entity_model_version": "1.2",
     "authority_version": "2026-04-13-qty-alt-v1",
     "prompt_version": "qty-alt-pass-v1",
-    "build_version": "2026-05-25T18:36:46Z"
+    "build_version": "2026-06-04T18:29:05Z"
   },
   "schema_version": "1.2",
   "build_metadata": {
     "builder": "scripts/recipes/build_recipe_entities.py",
-    "built_at": "2026-05-25T18:36:46Z",
+    "built_at": "2026-06-04T18:29:05Z",
     "source_structured_authority": "reports/entity_review/structured/aetius_book1.json",
     "authority_model": "gpt-5.4",
     "authority_reasoning_effort": "high",
@@ -139,7 +139,7 @@
     "entity_model_version": "1.2",
     "authority_version": "2026-04-13-qty-alt-v1",
     "prompt_version": "qty-alt-pass-v1",
-    "build_version": "2026-05-25T18:36:46Z"
+    "build_version": "2026-06-04T18:29:05Z"
   },
   "recipe_text_excerpt": "ὅταν δὲ εὐπορῶμεν τῶν βοτανῶν χλωρῶν, οὕτως σκευάζομεν τὸ κύπρινον· ἐλαίου ξ̸ειε, κυπέρων ἑλενίου ἴρεως ἀνὰ 𐆄 ϛ σαμψύχου ὑσσώπου",
   "preparation": {
@@ -193,7 +193,9 @@
           "certainty": "uncertain",
           "notes": [
             "Transmitted numeral expression is unresolved and no explicit unit is stated."
-          ]
+          ],
+          "measure_relation": "standalone",
+          "measure_group_id": "aetius-1-129-2:ingredients:1:measure:1"
         }
       ],
       "qualifiers": [],
@@ -226,7 +228,9 @@
           "raw_unit": "𐆄",
           "normalized_unit": "uncia",
           "certainty": "certain",
-          "notes": []
+          "notes": [],
+          "measure_relation": "standalone",
+          "measure_group_id": "aetius-1-129-2:ingredients:2:measure:1"
         }
       ],
       "qualifiers": [],
@@ -259,7 +263,9 @@
           "raw_unit": "𐆄",
           "normalized_unit": "uncia",
           "certainty": "certain",
-          "notes": []
+          "notes": [],
+          "measure_relation": "standalone",
+          "measure_group_id": "aetius-1-129-2:ingredients:3:measure:1"
         }
       ],
       "qualifiers": [],
@@ -292,7 +298,9 @@
           "raw_unit": "𐆄",
           "normalized_unit": "uncia",
           "certainty": "certain",
-          "notes": []
+          "notes": [],
+          "measure_relation": "standalone",
+          "measure_group_id": "aetius-1-129-2:ingredients:4:measure:1"
         }
       ],
       "qualifiers": [],
@@ -325,7 +333,9 @@
           "raw_unit": "𐆄",
           "normalized_unit": "uncia",
           "certainty": "certain",
-          "notes": []
+          "notes": [],
+          "measure_relation": "standalone",
+          "measure_group_id": "aetius-1-129-2:ingredients:5:measure:1"
         }
       ],
       "qualifiers": [],
@@ -358,7 +368,9 @@
           "raw_unit": "𐆄",
           "normalized_unit": "uncia",
           "certainty": "certain",
-          "notes": []
+          "notes": [],
+          "measure_relation": "standalone",
+          "measure_group_id": "aetius-1-129-2:ingredients:6:measure:1"
         }
       ],
       "qualifiers": [],
@@ -391,7 +403,9 @@
           "raw_unit": "𐆄",
           "normalized_unit": "uncia",
           "certainty": "certain",
-          "notes": []
+          "notes": [],
+          "measure_relation": "standalone",
+          "measure_group_id": "aetius-1-129-2:ingredients:7:measure:1"
         }
       ],
       "qualifiers": [],
@@ -424,7 +438,9 @@
           "raw_unit": "𐆄",
           "normalized_unit": "uncia",
           "certainty": "certain",
-          "notes": []
+          "notes": [],
+          "measure_relation": "standalone",
+          "measure_group_id": "aetius-1-129-2:ingredients:8:measure:1"
         }
       ],
       "qualifiers": [
@@ -465,7 +481,9 @@
           "raw_unit": "𐆄",
           "normalized_unit": "uncia",
           "certainty": "certain",
-          "notes": []
+          "notes": [],
+          "measure_relation": "standalone",
+          "measure_group_id": "aetius-1-129-2:ingredients:9:measure:1"
         }
       ],
       "qualifiers": [
@@ -506,7 +524,9 @@
           "raw_unit": "𐆄",
           "normalized_unit": "uncia",
           "certainty": "certain",
-          "notes": []
+          "notes": [],
+          "measure_relation": "standalone",
+          "measure_group_id": "aetius-1-129-2:ingredients:10:measure:1"
         }
       ],
       "qualifiers": [
@@ -547,7 +567,9 @@
           "raw_unit": "𐆄",
           "normalized_unit": "uncia",
           "certainty": "certain",
-          "notes": []
+          "notes": [],
+          "measure_relation": "standalone",
+          "measure_group_id": "aetius-1-129-2:ingredients:11:measure:1"
         }
       ],
       "qualifiers": [
@@ -588,7 +610,9 @@
           "raw_unit": "𐆄",
           "normalized_unit": "uncia",
           "certainty": "certain",
-          "notes": []
+          "notes": [],
+          "measure_relation": "standalone",
+          "measure_group_id": "aetius-1-129-2:ingredients:12:measure:1"
         }
       ],
       "qualifiers": [],
@@ -621,7 +645,9 @@
           "raw_unit": "𐆄",
           "normalized_unit": "uncia",
           "certainty": "certain",
-          "notes": []
+          "notes": [],
+          "measure_relation": "standalone",
+          "measure_group_id": "aetius-1-129-2:ingredients:13:measure:1"
         }
       ],
       "qualifiers": [],

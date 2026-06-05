@@ -108,12 +108,12 @@
     "entity_model_version": "1.2",
     "authority_version": "2026-04-13-qty-alt-v1",
     "prompt_version": "qty-alt-pass-v1",
-    "build_version": "2026-05-25T18:36:46Z"
+    "build_version": "2026-06-04T18:29:05Z"
   },
   "schema_version": "1.2",
   "build_metadata": {
     "builder": "scripts/recipes/build_recipe_entities.py",
-    "built_at": "2026-05-25T18:36:46Z",
+    "built_at": "2026-06-04T18:29:05Z",
     "source_structured_authority": "reports/entity_review/structured/aetius_book16.json",
     "authority_model": "gpt-5.4",
     "authority_reasoning_effort": "high",
@@ -121,7 +121,7 @@
     "entity_model_version": "1.2",
     "authority_version": "2026-04-13-qty-alt-v1",
     "prompt_version": "qty-alt-pass-v1",
-    "build_version": "2026-05-25T18:36:46Z"
+    "build_version": "2026-06-04T18:29:05Z"
   },
   "recipe_text_excerpt": "Ναρδοστάχυος γράμματα β. φύλλου, ἀμμωνιακοῦ, ἀμώμου, ἀνὰ γράμμα α. μαστίχης γράμματα γ. ῥόδων ξηρῶν γραμ. στ. μέλιτος ἀττικοῦ ξστα ἤτοι",
   "preparation": {
@@ -173,7 +173,9 @@
           "raw_unit": "γράμματα",
           "normalized_unit": "gramma",
           "certainty": "certain",
-          "notes": []
+          "notes": [],
+          "measure_relation": "standalone",
+          "measure_group_id": "aetius-16-134-1:ingredients:1:measure:1"
         }
       ],
       "qualifiers": [],
@@ -208,7 +210,9 @@
           "certainty": "certain",
           "notes": [
             "Shared distributive quantity from `ἀνὰ γράμμα α.`."
-          ]
+          ],
+          "measure_relation": "standalone",
+          "measure_group_id": "aetius-16-134-1:ingredients:2:measure:1"
         }
       ],
       "qualifiers": [],
@@ -243,7 +247,9 @@
           "certainty": "certain",
           "notes": [
             "Shared distributive quantity from `ἀνὰ γράμμα α.`."
-          ]
+          ],
+          "measure_relation": "standalone",
+          "measure_group_id": "aetius-16-134-1:ingredients:3:measure:1"
         }
       ],
       "qualifiers": [],
@@ -278,7 +284,9 @@
           "certainty": "certain",
           "notes": [
             "Shared distributive quantity from `ἀνὰ γράμμα α.`."
-          ]
+          ],
+          "measure_relation": "standalone",
+          "measure_group_id": "aetius-16-134-1:ingredients:4:measure:1"
         }
       ],
       "qualifiers": [],
@@ -313,7 +321,9 @@
           "raw_unit": "γράμματα",
           "normalized_unit": "gramma",
           "certainty": "certain",
-          "notes": []
+          "notes": [],
+          "measure_relation": "standalone",
+          "measure_group_id": "aetius-16-134-1:ingredients:5:measure:1"
         }
       ],
       "qualifiers": [],
@@ -346,7 +356,9 @@
           "raw_unit": "γραμ.",
           "normalized_unit": "gramma",
           "certainty": "certain",
-          "notes": []
+          "notes": [],
+          "measure_relation": "standalone",
+          "measure_group_id": "aetius-16-134-1:ingredients:6:measure:1"
         }
       ],
       "qualifiers": [],
@@ -381,7 +393,9 @@
           "certainty": "certain",
           "notes": [
             "`ξστα` and `ξέστ. α.` are equivalent notations for the same measure."
-          ]
+          ],
+          "measure_relation": "standalone",
+          "measure_group_id": "aetius-16-134-1:ingredients:7:measure:1"
         }
       ],
       "qualifiers": [],
@@ -416,7 +430,9 @@
           "certainty": "certain",
           "notes": [
             "`ξστδ` and `ξέστ. δ.` are equivalent notations for the same measure."
-          ]
+          ],
+          "measure_group_id": "aetius-16-134-1:ingredients:8:measure:m1",
+          "measure_relation": "variant_quantity"
         },
         {
           "source_span": "ε.",
@@ -427,7 +443,9 @@
           "certainty": "uncertain",
           "notes": [
             "Unit inferred from the preceding `ξέστ.` in the variant `οἱ δὲ ε.`."
-          ]
+          ],
+          "measure_group_id": "aetius-16-134-1:ingredients:8:measure:m1",
+          "measure_relation": "variant_quantity"
         }
       ],
       "qualifiers": [],

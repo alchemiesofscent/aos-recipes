@@ -3,7 +3,7 @@
     "entity_model_version": "1.2",
     "authority_version": "2026-04-13-qty-alt-v1",
     "prompt_version": "qty-alt-pass-v1",
-    "build_version": "2026-05-25T18:36:46Z"
+    "build_version": "2026-06-04T18:29:05Z"
   },
   "recipes": {
     "paul-7-20-4": {
@@ -1118,7 +1118,9 @@
               "certainty": "uncertain",
               "notes": [
                 "Unit symbol unresolved."
-              ]
+              ],
+              "measure_group_id": "paul-7-20-8:mg:variant-additions",
+              "measure_relation": "variant_quantity"
             }
           ],
           "qualifiers": [],
@@ -1184,7 +1186,9 @@
               "certainty": "uncertain",
               "notes": [
                 "Relative substitute amount in place of κινάμωμον."
-              ]
+              ],
+              "measure_group_id": "paul-7-20-8:mg:variant-additions",
+              "measure_relation": "variant_quantity"
             }
           ],
           "qualifiers": [],
@@ -1741,7 +1745,9 @@
               "certainty": "uncertain",
               "notes": [
                 "The unit sign 𐆄 is left unresolved from the inline evidence alone."
-              ]
+              ],
+              "measure_group_id": "paul-7-20-9:mg:floral-options",
+              "measure_relation": "variant_quantity"
             }
           ],
           "qualifiers": [],
@@ -1769,7 +1775,9 @@
               "certainty": "uncertain",
               "notes": [
                 "The unit sign 𐆄 is left unresolved from the inline evidence alone."
-              ]
+              ],
+              "measure_group_id": "paul-7-20-9:mg:floral-options",
+              "measure_relation": "variant_quantity"
             }
           ],
           "qualifiers": [],
@@ -1798,7 +1806,9 @@
               "certainty": "uncertain",
               "notes": [
                 "The unit sign 𐆄 is left unresolved from the inline evidence alone."
-              ]
+              ],
+              "measure_group_id": "paul-7-20-9:mg:floral-options",
+              "measure_relation": "variant_quantity"
             }
           ],
           "qualifiers": [],
@@ -2852,7 +2862,9 @@
               "certainty": "uncertain",
               "notes": [
                 "The unit sign 𐆄 is not resolved from the inline evidence."
-              ]
+              ],
+              "measure_group_id": "paul-7-20-15:mg:other-reading",
+              "measure_relation": "variant_quantity"
             }
           ],
           "qualifiers": [],
@@ -2877,7 +2889,9 @@
               "certainty": "uncertain",
               "notes": [
                 "The measure phrase is not safely resolvable from the inline evidence."
-              ]
+              ],
+              "measure_group_id": "paul-7-20-15:mg:other-reading",
+              "measure_relation": "variant_quantity"
             }
           ],
           "qualifiers": [],
@@ -4092,7 +4106,9 @@
               "certainty": "uncertain",
               "notes": [
                 "The unit siglum 𐆄 is left unresolved."
-              ]
+              ],
+              "measure_group_id": "paul-7-20-21:mg:variant-additions",
+              "measure_relation": "variant_quantity"
             }
           ],
           "qualifiers": [],
@@ -4117,7 +4133,9 @@
               "certainty": "uncertain",
               "notes": [
                 "The unit siglum 𐆄 is left unresolved."
-              ]
+              ],
+              "measure_group_id": "paul-7-20-21:mg:variant-additions",
+              "measure_relation": "variant_quantity"
             }
           ],
           "qualifiers": [],
@@ -6100,7 +6118,9 @@
               "raw_unit": "λι.",
               "normalized_unit": "λίτρα",
               "certainty": "certain",
-              "notes": []
+              "notes": [],
+              "measure_group_id": "paul-7-20-26:mg:variant-ioy",
+              "measure_relation": "variant_quantity"
             }
           ],
           "qualifiers": [],
@@ -7329,7 +7349,9 @@
               "certainty": "uncertain",
               "notes": [
                 "The metrological symbol 𐆄 is left unresolved."
-              ]
+              ],
+              "measure_group_id": "paul-7-20-28:mg:variant-ioy",
+              "measure_relation": "variant_quantity"
             }
           ],
           "qualifiers": [],
@@ -7697,7 +7719,9 @@
               "raw_unit": "𐆄",
               "normalized_unit": "οὐγγία",
               "certainty": "certain",
-              "notes": []
+              "notes": [],
+              "measure_group_id": "paul-7-20-29:mg:optional-aromatics",
+              "measure_relation": "variant_quantity"
             }
           ],
           "qualifiers": [],
@@ -7724,7 +7748,9 @@
               "raw_unit": "𐆄",
               "normalized_unit": "οὐγγία",
               "certainty": "certain",
-              "notes": []
+              "notes": [],
+              "measure_group_id": "paul-7-20-29:mg:optional-aromatics",
+              "measure_relation": "variant_quantity"
             }
           ],
           "qualifiers": [],
@@ -7751,7 +7777,9 @@
               "raw_unit": "𐆄",
               "normalized_unit": "οὐγγία",
               "certainty": "certain",
-              "notes": []
+              "notes": [],
+              "measure_group_id": "paul-7-20-29:mg:optional-aromatics",
+              "measure_relation": "variant_quantity"
             }
           ],
           "qualifiers": [],
@@ -7778,7 +7806,9 @@
               "raw_unit": "𐆄",
               "normalized_unit": "οὐγγία",
               "certainty": "certain",
-              "notes": []
+              "notes": [],
+              "measure_group_id": "paul-7-20-29:mg:optional-aromatics",
+              "measure_relation": "variant_quantity"
             }
           ],
           "qualifiers": [],
@@ -8126,7 +8156,9 @@
               "certainty": "uncertain",
               "notes": [
                 "Τὸ σημεῖον 𐆄 μένει ἀνεπίλυτον."
-              ]
+              ],
+              "measure_group_id": "paul-7-20-30:mg:other-myrrh",
+              "measure_relation": "variant_quantity"
             }
           ],
           "qualifiers": [],
@@ -8472,7 +8504,9 @@
               "raw_unit": "λι.",
               "normalized_unit": "λίτρα",
               "certainty": "certain",
-              "notes": []
+              "notes": [],
+              "measure_group_id": "paul-7-20-31:ingredients:1:measure:m1",
+              "measure_relation": "variant_quantity"
             },
             {
               "source_span": "ξ̸ ι",
@@ -8483,7 +8517,9 @@
               "certainty": "uncertain",
               "notes": [
                 "παρενθετικὴ παραλλαγή· ἡ μονὰς νοεῖται ἐκ τοῦ προηγοῦντος «λι.»"
-              ]
+              ],
+              "measure_group_id": "paul-7-20-31:ingredients:1:measure:m1",
+              "measure_relation": "variant_quantity"
             }
           ],
           "qualifiers": [],
@@ -8576,7 +8612,9 @@
               "raw_unit": "λι.",
               "normalized_unit": "λίτρα",
               "certainty": "certain",
-              "notes": []
+              "notes": [],
+              "measure_group_id": "paul-7-20-31:ingredients:5:measure:m1",
+              "measure_relation": "variant_quantity"
             },
             {
               "source_span": "ι",
@@ -8587,7 +8625,9 @@
               "certainty": "uncertain",
               "notes": [
                 "παρενθετικὴ παραλλαγή «ἔνιοι ι»· ἡ μονὰς νοεῖται ἐκ τοῦ προηγοῦντος «λι.»"
-              ]
+              ],
+              "measure_group_id": "paul-7-20-31:ingredients:5:measure:m1",
+              "measure_relation": "variant_quantity"
             }
           ],
           "qualifiers": [],
@@ -9512,7 +9552,9 @@
               "certainty": "uncertain",
               "notes": [
                 "variant ingredient in the parenthetical alternative reading"
-              ]
+              ],
+              "measure_group_id": "paul-7-20-33:mg:arnabo-variant",
+              "measure_relation": "variant_quantity"
             }
           ],
           "qualifiers": [],
@@ -9788,7 +9830,9 @@
               "raw_unit": "𐆄",
               "normalized_unit": "𐆄",
               "certainty": "uncertain",
-              "notes": []
+              "notes": [],
+              "measure_group_id": "paul-7-20-33:ingredients:28:measure:m1",
+              "measure_relation": "variant_quantity"
             },
             {
               "source_span": "𐆄 η",
@@ -9799,7 +9843,9 @@
               "certainty": "uncertain",
               "notes": [
                 "variant quantity: τινὲς"
-              ]
+              ],
+              "measure_group_id": "paul-7-20-33:ingredients:28:measure:m1",
+              "measure_relation": "variant_quantity"
             }
           ],
           "qualifiers": [],
@@ -11225,7 +11271,9 @@
               "raw_unit": "𐆄",
               "normalized_unit": "οὐγγία",
               "certainty": "certain",
-              "notes": []
+              "notes": [],
+              "measure_group_id": "paul-7-20-34:mg:krokos-variant",
+              "measure_relation": "variant_quantity"
             }
           ],
           "qualifiers": [],
@@ -11689,7 +11737,9 @@
               "raw_unit": "𐆄",
               "normalized_unit": "οὐγγία",
               "certainty": "certain",
-              "notes": []
+              "notes": [],
+              "measure_group_id": "paul-7-20-35:mg:variant-additions",
+              "measure_relation": "variant_quantity"
             }
           ],
           "qualifiers": [],
@@ -11817,7 +11867,9 @@
               "raw_unit": "𐆄",
               "normalized_unit": "οὐγγία",
               "certainty": "certain",
-              "notes": []
+              "notes": [],
+              "measure_group_id": "paul-7-20-35:mg:variant-additions",
+              "measure_relation": "variant_quantity"
             }
           ],
           "qualifiers": [],
@@ -11969,7 +12021,9 @@
               "raw_unit": "𐆄",
               "normalized_unit": "οὐγγία",
               "certainty": "certain",
-              "notes": []
+              "notes": [],
+              "measure_group_id": "paul-7-20-35:mg:variant-additions",
+              "measure_relation": "variant_quantity"
             }
           ],
           "qualifiers": [],

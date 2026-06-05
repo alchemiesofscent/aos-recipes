@@ -3,7 +3,7 @@
     "entity_model_version": "1.2",
     "authority_version": "2026-04-13-qty-alt-v1",
     "prompt_version": "qty-alt-pass-v1",
-    "build_version": "2026-05-25T18:36:46Z"
+    "build_version": "2026-06-04T18:29:05Z"
   },
   "recipes": {
     "aetius-1-101": {
@@ -1792,7 +1792,9 @@
               "certainty": "uncertain",
               "notes": [
                 "Unit sign 𐆄 is left unresolved."
-              ]
+              ],
+              "measure_group_id": "aetius-1-112:mg:apple-options",
+              "measure_relation": "variant_quantity"
             }
           ],
           "qualifiers": [],
@@ -1821,7 +1823,9 @@
               "certainty": "uncertain",
               "notes": [
                 "Unit sign 𐆄 is left unresolved."
-              ]
+              ],
+              "measure_group_id": "aetius-1-112:mg:apple-options",
+              "measure_relation": "variant_quantity"
             }
           ],
           "qualifiers": [
@@ -7900,7 +7904,9 @@
               "raw_unit": "𐆄",
               "normalized_unit": "οὐγγία",
               "certainty": "certain",
-              "notes": []
+              "notes": [],
+              "measure_group_id": "aetius-1-130:ingredients:5:measure:m1",
+              "measure_relation": "variant_quantity"
             },
             {
               "source_span": "𐆄 γ",
@@ -7911,7 +7917,9 @@
               "certainty": "certain",
               "notes": [
                 "Alternative quantity introduced by τινὲς δὲ."
-              ]
+              ],
+              "measure_group_id": "aetius-1-130:ingredients:5:measure:m1",
+              "measure_relation": "variant_quantity"
             }
           ],
           "qualifiers": [],
@@ -8005,7 +8013,9 @@
               "raw_unit": "𐆄",
               "normalized_unit": "οὐγγία",
               "certainty": "certain",
-              "notes": []
+              "notes": [],
+              "measure_group_id": "aetius-1-130:mg:optional-aromatics",
+              "measure_relation": "variant_quantity"
             }
           ],
           "qualifiers": [],
@@ -8030,7 +8040,9 @@
               "raw_unit": "𐆄",
               "normalized_unit": "οὐγγία",
               "certainty": "certain",
-              "notes": []
+              "notes": [],
+              "measure_group_id": "aetius-1-130:mg:optional-aromatics",
+              "measure_relation": "variant_quantity"
             }
           ],
           "qualifiers": [],
@@ -8055,7 +8067,9 @@
               "raw_unit": "𐆄",
               "normalized_unit": "οὐγγία",
               "certainty": "certain",
-              "notes": []
+              "notes": [],
+              "measure_group_id": "aetius-1-130:mg:optional-aromatics",
+              "measure_relation": "variant_quantity"
             }
           ],
           "qualifiers": [],
@@ -8080,7 +8094,9 @@
               "raw_unit": "𐆄",
               "normalized_unit": "οὐγγία",
               "certainty": "certain",
-              "notes": []
+              "notes": [],
+              "measure_group_id": "aetius-1-130:mg:optional-aromatics",
+              "measure_relation": "variant_quantity"
             }
           ],
           "qualifiers": [
@@ -11575,7 +11591,9 @@
               "certainty": "certain",
               "notes": [
                 "Equal-part ratio relative to the aromatic unguent."
-              ]
+              ],
+              "measure_group_id": "aetius-1-134:ingredients:2:measure:equivalent_notation",
+              "measure_relation": "equivalent_notation"
             }
           ],
           "qualifiers": [],
@@ -11989,7 +12007,9 @@
               "certainty": "certain",
               "notes": [
                 "The procedure restates the oil amount explicitly."
-              ]
+              ],
+              "measure_group_id": "aetius-1-135:ingredients:6:measure:equivalent_notation",
+              "measure_relation": "equivalent_notation"
             }
           ],
           "qualifiers": [],

@@ -1,0 +1,940 @@
+{
+  "dataset_key": "aetius_book16_myrepsika",
+  "source_json": "experiments/aetius-book16-ch126-153-myrepsika/data/aetius_book16_ch126_153_myrepsika.json",
+  "host_raw_file": "tei/raw/tlg0718016.xml",
+  "work_slug": "aetius.b16.myrepsika",
+  "recipe_id": "aetius-16-146-1-2",
+  "recipe_urn": "urn:aos:recipe:aetius-16-146-1-2",
+  "record_urn": "urn:aos:recipe-record:aetius-16-146-1-2",
+  "author": "Aëtius of Amida",
+  "work": "Libri medicinales",
+  "book": "16",
+  "chapter": "146",
+  "section": "1",
+  "chapter_name": "μοσχάτου ἐν τῇ ἐκκλησίᾳ καπνιζομένου σκευασία · θυμιάματος μυρεψικοῦ σκευασία",
+  "lemma": "μοσχάτου ἐν τῇ ἐκκλησίᾳ καπνιζομένου σκευασία",
+  "text": "ὁ ἄρχων δὲ τῆς Ἀνατολῆς σκευάζει οὕτως. κόστου γογ. ναρδοστάχυος γοα. φύλλων τὸ αὐτό. καρυοφύλλων γογζʹ. ἤτοι οὐγ. γ καὶ ἡμίσ. κασάμου γοζʹ. ἤτοι οὐγ. ἡμίσ. ἄσπρου γοβ. στύρακος γοβ. χυματίου πρωτείου γοε. κρόκου τριχίνου γράμματα β. μόσχου, ἄμβαρος ἀνὰ γράμματα β.",
+  "original_text": null,
+  "text_source": null,
+  "emendations": [],
+  "emendation_count": 0,
+  "source_kind": null,
+  "entry_kind": "recipe",
+  "citation": {
+    "pages": [
+      "169",
+      "170"
+    ],
+    "start": {
+      "page": "169",
+      "line": "21",
+      "xml_id": "zerv-169-21"
+    },
+    "end": {
+      "page": "170",
+      "line": "7",
+      "xml_id": "zerv-170-7"
+    },
+    "citation": {
+      "start": "169.21",
+      "end": "170.7"
+    },
+    "page_spans": [
+      {
+        "page": "169",
+        "start_line": "21",
+        "end_line": "23"
+      },
+      {
+        "page": "170",
+        "start_line": "1",
+        "end_line": "7"
+      }
+    ],
+    "lines": [
+      {
+        "page": "169",
+        "line": "21",
+        "xml_id": "zerv-169-21",
+        "citation": "169.21",
+        "text": "ΜΟΣΧΑΤΟΥ ΕΝ ΤΗ ΕΚΚΛΗΣΙΑ ΚΑΠΝΙΖΟΜΕΝΟΥ ΣΚΕΥΑΣΙΑ."
+      },
+      {
+        "page": "169",
+        "line": "22",
+        "xml_id": "zerv-169-22",
+        "citation": "169.22",
+        "text": "Κόστου λίτρ. δ ἤτοι δ. καὶ ἡμίσ. καρυοφύλλων λίτρ. θ."
+      },
+      {
+        "page": "169",
+        "line": "23",
+        "xml_id": "zerv-169-23",
+        "citation": "169.23",
+        "text": "φύλλων λίτ. α καὶ ἡμίσ. ναρδοστάχυος τὸ αὐτό. κασάμου γοιδ"
+      },
+      {
+        "page": "170",
+        "line": "1",
+        "xml_id": "zerv-170-1",
+        "citation": "170.1",
+        "text": "ἤτοι οὐγ. ιδ. στύρακος χυματίου λίτρ. στ. ἄσπρου λιτρ. γ. κρόκου"
+      },
+      {
+        "page": "170",
+        "line": "2",
+        "xml_id": "zerv-170-2",
+        "citation": "170.2",
+        "text": "τριχίνου γοι. ἄμβαρος γοβ. μόσχου γοβ. ὁ ἄρχων δὲ τῆς Ἀνα-"
+      },
+      {
+        "page": "170",
+        "line": "3",
+        "xml_id": "zerv-170-3",
+        "citation": "170.3",
+        "text": "τολῆς σκευάζει οὕτως. κόστου γογ. ναρδοστάχυος γοα. φύλλων"
+      },
+      {
+        "page": "170",
+        "line": "4",
+        "xml_id": "zerv-170-4",
+        "citation": "170.4",
+        "text": "τὸ αὐτό. καρυοφύλλων γογζʹ. ἤτοι οὐγ. γ καὶ ἡμίσ. κασάμου"
+      },
+      {
+        "page": "170",
+        "line": "5",
+        "xml_id": "zerv-170-5",
+        "citation": "170.5",
+        "text": "γοζʹ. ἤτοι οὐγ. ἡμίσ. ἄσπρου γοβ. στύρακος γοβ. χυματίου πρωτείου"
+      },
+      {
+        "page": "170",
+        "line": "6",
+        "xml_id": "zerv-170-6",
+        "citation": "170.6",
+        "text": "γοε. κρόκου τριχίνου γράμματα β. μόσχου, ἄμβαρος ἀνὰ γράμ-"
+      },
+      {
+        "page": "170",
+        "line": "7",
+        "xml_id": "zerv-170-7",
+        "citation": "170.7",
+        "text": "ματα β."
+      }
+    ],
+    "edition_key": "zervos"
+  },
+  "notes": [
+    "Second formulation of Book 16, ch. 146, §1, introduced by ὁ ἄρχων δὲ τῆς Ἀνατολῆς σκευάζει οὕτως.",
+    "Second formulation of Book 16, ch. 146, §1, introduced by ὁ ἄρχων δὲ τῆς Ἀνατολῆς σκευάζει οὕτως.",
+    "In 'μόσχου, ἄμβαρος ἀνὰ γράμματα β', the distributive ἀνὰ assigns the same 2-γράμματα quantity to both ingredients."
+  ],
+  "alignment_status": "pending",
+  "alignment_confidence": "pending",
+  "alignment_evidence": null,
+  "review_status": "reviewed_structured_authority",
+  "review_provenance": {
+    "authority_source": "reports/entity_review/structured/aetius_book16.json",
+    "authority_recipe_id": "aetius-16-146-1-2",
+    "authority_lemma": "μοσχάτου ἐν τῇ ἐκκλησίᾳ καπνιζομένου σκευασία",
+    "model": "gpt-5.4",
+    "reasoning_effort": "high",
+    "dataset_key": "aetius_book16_myrepsika",
+    "entity_model_version": "1.2",
+    "authority_version": "2026-04-13-qty-alt-v1",
+    "prompt_version": "qty-alt-pass-v1",
+    "build_version": "2026-06-04T18:29:05Z"
+  },
+  "schema_version": "1.2",
+  "build_metadata": {
+    "builder": "scripts/recipes/build_recipe_entities.py",
+    "built_at": "2026-06-04T18:29:05Z",
+    "source_structured_authority": "reports/entity_review/structured/aetius_book16.json",
+    "authority_model": "gpt-5.4",
+    "authority_reasoning_effort": "high",
+    "dataset_key": "aetius_book16_myrepsika",
+    "entity_model_version": "1.2",
+    "authority_version": "2026-04-13-qty-alt-v1",
+    "prompt_version": "qty-alt-pass-v1",
+    "build_version": "2026-06-04T18:29:05Z"
+  },
+  "recipe_text_excerpt": "ὁ ἄρχων δὲ τῆς Ἀνατολῆς σκευάζει οὕτως. κόστου γογ. ναρδοστάχυος γοα. φύλλων τὸ αὐτό. καρυοφύλλων γογζʹ. ἤτοι οὐγ. γ καὶ",
+  "preparation": {
+    "preparation_id": "aetius-16-146-1-2:preparation:moschatoy-en-te-ekklesia-kapnizomenoy-skeyasia",
+    "preparation_urn": "urn:aos:recipe-preparation:aetius-16-146-1-2:preparation:moschatoy-en-te-ekklesia-kapnizomenoy-skeyasia",
+    "source_span": "μοσχάτου ἐν τῇ ἐκκλησίᾳ καπνιζομένου σκευασία",
+    "surface_form": "μοσχάτου ἐν τῇ ἐκκλησίᾳ καπνιζομένου σκευασία",
+    "normalized_label": "μοσχάτου ἐν τῇ ἐκκλησίᾳ καπνιζομένου σκευασία",
+    "qualifiers": [
+      {
+        "qualifier_type": "location",
+        "source_span": "ἐν τῇ ἐκκλησίᾳ",
+        "normalized_value": "ἐκκλησία",
+        "certainty": "certain",
+        "notes": []
+      }
+    ],
+    "regimen_notes": [],
+    "certainty": "certain",
+    "notes": [
+      "Second formulation of Book 16, ch. 146, §1, introduced by ὁ ἄρχων δὲ τῆς Ἀνατολῆς σκευάζει οὕτως."
+    ],
+    "host_locator": {
+      "book": "16",
+      "chapter": "146",
+      "section": "1",
+      "citation": {
+        "start": "169.21",
+        "end": "170.7"
+      }
+    }
+  },
+  "ingredients": [
+    {
+      "ingredient_id": "aetius-16-146-1-2:ingredient:kostos-1",
+      "ingredient_urn": "urn:aos:recipe-ingredient:aetius-16-146-1-2:ingredient:kostos-1",
+      "source_span": "κόστου",
+      "surface_form": "κόστου",
+      "base_label": "κόστος",
+      "normalized_label": "κόστος",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [],
+      "quantities": [
+        {
+          "source_span": "γογ.",
+          "raw_number": "γ",
+          "normalized_number": 3,
+          "raw_unit": "γο",
+          "normalized_unit": "uncia",
+          "certainty": "uncertain",
+          "notes": [
+            "Abbreviated quantity unresolved in transmission.",
+            "Corrected by normalize_quantities.py (rule γο+numeral): raw_number 'γογ.'→'γ', normalized_number None→3."
+          ],
+          "measure_relation": "standalone",
+          "measure_group_id": "aetius-16-146-1-2:ingredients:1:measure:1"
+        }
+      ],
+      "qualifiers": [],
+      "notes": [
+        "Belongs to the formulation attributed to ὁ ἄρχων τῆς Ἀνατολῆς."
+      ],
+      "host_locator": {
+        "book": "16",
+        "chapter": "146",
+        "section": "1",
+        "citation": {
+          "start": "169.21",
+          "end": "170.7"
+        }
+      }
+    },
+    {
+      "ingredient_id": "aetius-16-146-1-2:ingredient:nardostachys-2",
+      "ingredient_urn": "urn:aos:recipe-ingredient:aetius-16-146-1-2:ingredient:nardostachys-2",
+      "source_span": "ναρδοστάχυος",
+      "surface_form": "ναρδοστάχυος",
+      "base_label": "ναρδόσταχυς",
+      "normalized_label": "ναρδόσταχυς",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [],
+      "quantities": [
+        {
+          "source_span": "γοα.",
+          "raw_number": "α",
+          "normalized_number": 1,
+          "raw_unit": "γο",
+          "normalized_unit": "uncia",
+          "certainty": "uncertain",
+          "notes": [
+            "Abbreviated quantity unresolved in transmission.",
+            "Corrected by normalize_quantities.py (rule γο+numeral): raw_number 'γοα.'→'α', normalized_number None→1."
+          ],
+          "measure_relation": "standalone",
+          "measure_group_id": "aetius-16-146-1-2:ingredients:2:measure:1"
+        }
+      ],
+      "qualifiers": [],
+      "notes": [
+        "Belongs to the formulation attributed to ὁ ἄρχων τῆς Ἀνατολῆς."
+      ],
+      "host_locator": {
+        "book": "16",
+        "chapter": "146",
+        "section": "1",
+        "citation": {
+          "start": "169.21",
+          "end": "170.7"
+        }
+      }
+    },
+    {
+      "ingredient_id": "aetius-16-146-1-2:ingredient:phyllon-3",
+      "ingredient_urn": "urn:aos:recipe-ingredient:aetius-16-146-1-2:ingredient:phyllon-3",
+      "source_span": "φύλλων",
+      "surface_form": "φύλλων",
+      "base_label": "φύλλον",
+      "normalized_label": "φύλλον",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [],
+      "quantities": [
+        {
+          "source_span": "τὸ αὐτό",
+          "raw_number": null,
+          "normalized_number": null,
+          "raw_unit": null,
+          "normalized_unit": "descriptor",
+          "certainty": "uncertain",
+          "notes": [
+            "Anaphoric quantity identical to the preceding ναρδοστάχυος quantity, which itself is unresolved."
+          ],
+          "measure_relation": "standalone",
+          "measure_group_id": "aetius-16-146-1-2:ingredients:3:measure:1",
+          "descriptor_family": "same_as"
+        }
+      ],
+      "qualifiers": [],
+      "notes": [
+        "Belongs to the formulation attributed to ὁ ἄρχων τῆς Ἀνατολῆς."
+      ],
+      "host_locator": {
+        "book": "16",
+        "chapter": "146",
+        "section": "1",
+        "citation": {
+          "start": "169.21",
+          "end": "170.7"
+        }
+      }
+    },
+    {
+      "ingredient_id": "aetius-16-146-1-2:ingredient:karyophyllon-4",
+      "ingredient_urn": "urn:aos:recipe-ingredient:aetius-16-146-1-2:ingredient:karyophyllon-4",
+      "source_span": "καρυοφύλλων",
+      "surface_form": "καρυοφύλλων",
+      "base_label": "καρυόφυλλον",
+      "normalized_label": "καρυόφυλλον",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [],
+      "quantities": [
+        {
+          "source_span": "γογζʹ",
+          "raw_number": "γζʹ",
+          "normalized_number": 3.5,
+          "raw_unit": "γο",
+          "normalized_unit": "uncia",
+          "certainty": "uncertain",
+          "notes": [
+            "Abbreviated quantity unresolved in transmission.",
+            "Corrected by normalize_quantities.py (rule γο+numeral): raw_number 'γογζʹ'→'γζʹ', normalized_number None→3.5."
+          ],
+          "measure_group_id": "aetius-16-146-1-2:ingredients:4:measure:m1",
+          "measure_relation": "equivalent_notation"
+        },
+        {
+          "source_span": "οὐγ. γ καὶ ἡμίσ.",
+          "raw_number": "γ καὶ ἡμίσ.",
+          "normalized_number": 3.5,
+          "raw_unit": "οὐγ.",
+          "normalized_unit": "uncia",
+          "certainty": "certain",
+          "notes": [
+            "Alternative quantity introduced by ἤτοι."
+          ],
+          "measure_group_id": "aetius-16-146-1-2:ingredients:4:measure:m1",
+          "measure_relation": "equivalent_notation"
+        }
+      ],
+      "qualifiers": [],
+      "notes": [
+        "Belongs to the formulation attributed to ὁ ἄρχων τῆς Ἀνατολῆς."
+      ],
+      "host_locator": {
+        "book": "16",
+        "chapter": "146",
+        "section": "1",
+        "citation": {
+          "start": "169.21",
+          "end": "170.7"
+        }
+      }
+    },
+    {
+      "ingredient_id": "aetius-16-146-1-2:ingredient:kasamon-5",
+      "ingredient_urn": "urn:aos:recipe-ingredient:aetius-16-146-1-2:ingredient:kasamon-5",
+      "source_span": "κασάμου",
+      "surface_form": "κασάμου",
+      "base_label": "κάσαμον",
+      "normalized_label": "κάσαμον",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [],
+      "quantities": [
+        {
+          "source_span": "γοζʹ",
+          "raw_number": "γοζʹ",
+          "normalized_number": null,
+          "raw_unit": "γο",
+          "normalized_unit": "uncia",
+          "certainty": "uncertain",
+          "notes": [
+            "Abbreviated quantity unresolved in transmission."
+          ],
+          "measure_group_id": "aetius-16-146-1-2:ingredients:5:measure:m1",
+          "measure_relation": "equivalent_notation"
+        },
+        {
+          "source_span": "οὐγ. ἡμίσ.",
+          "raw_number": "ἡμίσ.",
+          "normalized_number": 0.5,
+          "raw_unit": "οὐγ.",
+          "normalized_unit": "uncia",
+          "certainty": "certain",
+          "notes": [
+            "Alternative quantity introduced by ἤτοι."
+          ],
+          "measure_group_id": "aetius-16-146-1-2:ingredients:5:measure:m1",
+          "measure_relation": "equivalent_notation"
+        }
+      ],
+      "qualifiers": [],
+      "notes": [
+        "Belongs to the formulation attributed to ὁ ἄρχων τῆς Ἀνατολῆς."
+      ],
+      "host_locator": {
+        "book": "16",
+        "chapter": "146",
+        "section": "1",
+        "citation": {
+          "start": "169.21",
+          "end": "170.7"
+        }
+      }
+    },
+    {
+      "ingredient_id": "aetius-16-146-1-2:ingredient:aspron-6",
+      "ingredient_urn": "urn:aos:recipe-ingredient:aetius-16-146-1-2:ingredient:aspron-6",
+      "source_span": "ἄσπρου",
+      "surface_form": "ἄσπρου",
+      "base_label": "ἄσπρον",
+      "normalized_label": "ἄσπρον",
+      "alternative_set_id": null,
+      "certainty": "uncertain",
+      "linked_process_ids": [],
+      "quantities": [
+        {
+          "source_span": "γοβ.",
+          "raw_number": "β",
+          "normalized_number": 2,
+          "raw_unit": "γο",
+          "normalized_unit": "uncia",
+          "certainty": "uncertain",
+          "notes": [
+            "Abbreviated quantity unresolved in transmission.",
+            "Corrected by normalize_quantities.py (rule γο+numeral): raw_number 'γοβ.'→'β', normalized_number None→2."
+          ],
+          "measure_relation": "standalone",
+          "measure_group_id": "aetius-16-146-1-2:ingredients:6:measure:1"
+        }
+      ],
+      "qualifiers": [],
+      "notes": [
+        "Elliptical ingredient designation; head noun is omitted in the text.",
+        "Belongs to the formulation attributed to ὁ ἄρχων τῆς Ἀνατολῆς."
+      ],
+      "host_locator": {
+        "book": "16",
+        "chapter": "146",
+        "section": "1",
+        "citation": {
+          "start": "169.21",
+          "end": "170.7"
+        }
+      }
+    },
+    {
+      "ingredient_id": "aetius-16-146-1-2:ingredient:styrax-7",
+      "ingredient_urn": "urn:aos:recipe-ingredient:aetius-16-146-1-2:ingredient:styrax-7",
+      "source_span": "στύρακος",
+      "surface_form": "στύρακος",
+      "base_label": "στύραξ",
+      "normalized_label": "στύραξ",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [],
+      "quantities": [
+        {
+          "source_span": "γοβ.",
+          "raw_number": "β",
+          "normalized_number": 2,
+          "raw_unit": "γο",
+          "normalized_unit": "uncia",
+          "certainty": "uncertain",
+          "notes": [
+            "Abbreviated quantity unresolved in transmission.",
+            "Corrected by normalize_quantities.py (rule γο+numeral): raw_number 'γοβ.'→'β', normalized_number None→2."
+          ],
+          "measure_relation": "standalone",
+          "measure_group_id": "aetius-16-146-1-2:ingredients:7:measure:1"
+        }
+      ],
+      "qualifiers": [],
+      "notes": [
+        "Belongs to the formulation attributed to ὁ ἄρχων τῆς Ἀνατολῆς."
+      ],
+      "host_locator": {
+        "book": "16",
+        "chapter": "146",
+        "section": "1",
+        "citation": {
+          "start": "169.21",
+          "end": "170.7"
+        }
+      }
+    },
+    {
+      "ingredient_id": "aetius-16-146-1-2:ingredient:chymation-proteion-8",
+      "ingredient_urn": "urn:aos:recipe-ingredient:aetius-16-146-1-2:ingredient:chymation-proteion-8",
+      "source_span": "χυματίου πρωτείου",
+      "surface_form": "χυματίου πρωτείου",
+      "base_label": "χυμάτιον",
+      "normalized_label": "χυμάτιον πρωτεῖον",
+      "alternative_set_id": null,
+      "certainty": "uncertain",
+      "linked_process_ids": [],
+      "quantities": [
+        {
+          "source_span": "γοε.",
+          "raw_number": "ε",
+          "normalized_number": 5,
+          "raw_unit": "γο",
+          "normalized_unit": "uncia",
+          "certainty": "uncertain",
+          "notes": [
+            "Abbreviated quantity unresolved in transmission.",
+            "Corrected by normalize_quantities.py (rule γο+numeral): raw_number 'γοε.'→'ε', normalized_number None→5."
+          ],
+          "measure_relation": "standalone",
+          "measure_group_id": "aetius-16-146-1-2:ingredients:8:measure:1"
+        }
+      ],
+      "qualifiers": [],
+      "notes": [
+        "Belongs to the formulation attributed to ὁ ἄρχων τῆς Ἀνατολῆς."
+      ],
+      "host_locator": {
+        "book": "16",
+        "chapter": "146",
+        "section": "1",
+        "citation": {
+          "start": "169.21",
+          "end": "170.7"
+        }
+      }
+    },
+    {
+      "ingredient_id": "aetius-16-146-1-2:ingredient:krokos-trichinos-9",
+      "ingredient_urn": "urn:aos:recipe-ingredient:aetius-16-146-1-2:ingredient:krokos-trichinos-9",
+      "source_span": "κρόκου τριχίνου",
+      "surface_form": "κρόκου τριχίνου",
+      "base_label": "κρόκος",
+      "normalized_label": "κρόκος τριχῖνος",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [],
+      "quantities": [
+        {
+          "source_span": "γράμματα β.",
+          "raw_number": "β",
+          "normalized_number": 2,
+          "raw_unit": "γράμματα",
+          "normalized_unit": "gramma",
+          "certainty": "certain",
+          "notes": [],
+          "measure_relation": "standalone",
+          "measure_group_id": "aetius-16-146-1-2:ingredients:9:measure:1"
+        }
+      ],
+      "qualifiers": [],
+      "notes": [
+        "Belongs to the formulation attributed to ὁ ἄρχων τῆς Ἀνατολῆς."
+      ],
+      "host_locator": {
+        "book": "16",
+        "chapter": "146",
+        "section": "1",
+        "citation": {
+          "start": "169.21",
+          "end": "170.7"
+        }
+      }
+    },
+    {
+      "ingredient_id": "aetius-16-146-1-2:ingredient:moschos-10",
+      "ingredient_urn": "urn:aos:recipe-ingredient:aetius-16-146-1-2:ingredient:moschos-10",
+      "source_span": "μόσχου",
+      "surface_form": "μόσχου",
+      "base_label": "μόσχος",
+      "normalized_label": "μόσχος",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [],
+      "quantities": [
+        {
+          "source_span": "γράμματα β.",
+          "raw_number": "β",
+          "normalized_number": 2,
+          "raw_unit": "γράμματα",
+          "normalized_unit": "gramma",
+          "certainty": "certain",
+          "notes": [
+            "Distributed quantity governed by ἀνὰ in the final clause."
+          ],
+          "measure_relation": "standalone",
+          "measure_group_id": "aetius-16-146-1-2:ingredients:10:measure:1"
+        }
+      ],
+      "qualifiers": [],
+      "notes": [
+        "Belongs to the formulation attributed to ὁ ἄρχων τῆς Ἀνατολῆς."
+      ],
+      "host_locator": {
+        "book": "16",
+        "chapter": "146",
+        "section": "1",
+        "citation": {
+          "start": "169.21",
+          "end": "170.7"
+        }
+      }
+    },
+    {
+      "ingredient_id": "aetius-16-146-1-2:ingredient:ambaros-11",
+      "ingredient_urn": "urn:aos:recipe-ingredient:aetius-16-146-1-2:ingredient:ambaros-11",
+      "source_span": "ἄμβαρος",
+      "surface_form": "ἄμβαρος",
+      "base_label": "ἄμβαρος",
+      "normalized_label": "ἄμβαρος",
+      "alternative_set_id": null,
+      "certainty": "certain",
+      "linked_process_ids": [],
+      "quantities": [
+        {
+          "source_span": "γράμματα β.",
+          "raw_number": "β",
+          "normalized_number": 2,
+          "raw_unit": "γράμματα",
+          "normalized_unit": "gramma",
+          "certainty": "certain",
+          "notes": [
+            "Distributed quantity governed by ἀνὰ in the final clause."
+          ],
+          "measure_relation": "standalone",
+          "measure_group_id": "aetius-16-146-1-2:ingredients:11:measure:1"
+        }
+      ],
+      "qualifiers": [],
+      "notes": [
+        "Belongs to the formulation attributed to ὁ ἄρχων τῆς Ἀνατολῆς."
+      ],
+      "host_locator": {
+        "book": "16",
+        "chapter": "146",
+        "section": "1",
+        "citation": {
+          "start": "169.21",
+          "end": "170.7"
+        }
+      }
+    }
+  ],
+  "processes": [
+    {
+      "process_id": "aetius-16-146-1-2:process:skeyazein-1",
+      "process_urn": "urn:aos:recipe-process:aetius-16-146-1-2:process:skeyazein-1",
+      "source_span": "σκευάζει",
+      "surface_form": "σκευάζει",
+      "normalized_label": "σκευάζειν",
+      "target_type": "recipe",
+      "target_ids": [],
+      "quantities": [],
+      "qualifiers": [
+        {
+          "qualifier_type": "manner",
+          "source_span": "οὕτως",
+          "normalized_value": "οὕτως",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "certainty": "certain",
+      "notes": [
+        "Introduces the formulation attributed to ὁ ἄρχων τῆς Ἀνατολῆς."
+      ],
+      "host_locator": {
+        "book": "16",
+        "chapter": "146",
+        "section": "1",
+        "citation": {
+          "start": "169.21",
+          "end": "170.7"
+        }
+      }
+    }
+  ],
+  "materials": [],
+  "people": [
+    {
+      "person_id": "aetius-16-146-1-2:person:archon-1",
+      "person_urn": "urn:aos:recipe-person:aetius-16-146-1-2:person:archon-1",
+      "source_span": "ὁ ἄρχων",
+      "surface_form": "ὁ ἄρχων",
+      "normalized_label": "ἄρχων",
+      "certainty": "certain",
+      "notes": [
+        "The text attributes the second formulation to ὁ ἄρχων τῆς Ἀνατολῆς."
+      ],
+      "host_locator": {
+        "book": "16",
+        "chapter": "146",
+        "section": "1",
+        "citation": {
+          "start": "169.21",
+          "end": "170.7"
+        }
+      }
+    }
+  ],
+  "places": [
+    {
+      "place_id": "aetius-16-146-1-2:place:anatole-1",
+      "place_urn": "urn:aos:recipe-place:aetius-16-146-1-2:place:anatole-1",
+      "source_span": "τῆς Ἀνατολῆς",
+      "surface_form": "τῆς Ἀνατολῆς",
+      "normalized_label": "Ἀνατολή",
+      "certainty": "certain",
+      "notes": [],
+      "host_locator": {
+        "book": "16",
+        "chapter": "146",
+        "section": "1",
+        "citation": {
+          "start": "169.21",
+          "end": "170.7"
+        }
+      }
+    }
+  ],
+  "uses": [],
+  "preparation_names": [],
+  "other_preparations_mentioned": [],
+  "works_mentioned": [],
+  "entities": [
+    {
+      "entity_urn": "urn:aos:recipe-preparation:aetius-16-146-1-2:preparation:moschatoy-en-te-ekklesia-kapnizomenoy-skeyasia",
+      "entity_type": "label",
+      "surface_form": "μοσχάτου ἐν τῇ ἐκκλησίᾳ καπνιζομένου σκευασία",
+      "normalized_label": "μοσχάτου ἐν τῇ ἐκκλησίᾳ καπνιζομένου σκευασία"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:aetius-16-146-1-2:ingredient:kostos-1",
+      "entity_type": "ingredient",
+      "surface_form": "κόστου",
+      "normalized_label": "κόστος"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:aetius-16-146-1-2:ingredient:nardostachys-2",
+      "entity_type": "ingredient",
+      "surface_form": "ναρδοστάχυος",
+      "normalized_label": "ναρδόσταχυς"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:aetius-16-146-1-2:ingredient:phyllon-3",
+      "entity_type": "ingredient",
+      "surface_form": "φύλλων",
+      "normalized_label": "φύλλον"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:aetius-16-146-1-2:ingredient:karyophyllon-4",
+      "entity_type": "ingredient",
+      "surface_form": "καρυοφύλλων",
+      "normalized_label": "καρυόφυλλον"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:aetius-16-146-1-2:ingredient:kasamon-5",
+      "entity_type": "ingredient",
+      "surface_form": "κασάμου",
+      "normalized_label": "κάσαμον"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:aetius-16-146-1-2:ingredient:aspron-6",
+      "entity_type": "ingredient",
+      "surface_form": "ἄσπρου",
+      "normalized_label": "ἄσπρον"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:aetius-16-146-1-2:ingredient:styrax-7",
+      "entity_type": "ingredient",
+      "surface_form": "στύρακος",
+      "normalized_label": "στύραξ"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:aetius-16-146-1-2:ingredient:chymation-proteion-8",
+      "entity_type": "ingredient",
+      "surface_form": "χυματίου πρωτείου",
+      "normalized_label": "χυμάτιον πρωτεῖον"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:aetius-16-146-1-2:ingredient:krokos-trichinos-9",
+      "entity_type": "ingredient",
+      "surface_form": "κρόκου τριχίνου",
+      "normalized_label": "κρόκος τριχῖνος"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:aetius-16-146-1-2:ingredient:moschos-10",
+      "entity_type": "ingredient",
+      "surface_form": "μόσχου",
+      "normalized_label": "μόσχος"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-ingredient:aetius-16-146-1-2:ingredient:ambaros-11",
+      "entity_type": "ingredient",
+      "surface_form": "ἄμβαρος",
+      "normalized_label": "ἄμβαρος"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-process:aetius-16-146-1-2:process:skeyazein-1",
+      "entity_type": "process",
+      "surface_form": "σκευάζει",
+      "normalized_label": "σκευάζειν"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-person:aetius-16-146-1-2:person:archon-1",
+      "entity_type": "person",
+      "surface_form": "ὁ ἄρχων",
+      "normalized_label": "ἄρχων"
+    },
+    {
+      "entity_urn": "urn:aos:recipe-place:aetius-16-146-1-2:place:anatole-1",
+      "entity_type": "place",
+      "surface_form": "τῆς Ἀνατολῆς",
+      "normalized_label": "Ἀνατολή"
+    }
+  ],
+  "canonical_file": "data/recipes/aetius-16-146-1-2.json",
+  "source_entry": {
+    "source_id": "aetius-16-146-1-2",
+    "derived_recipe_id": "aetius-16-146-1-2",
+    "entry_kind": "recipe",
+    "source_kind": null,
+    "source_lines": null,
+    "section_markers": []
+  },
+  "entity_groups": {
+    "labels": [
+      {
+        "entity_urn": "urn:aos:recipe-preparation:aetius-16-146-1-2:preparation:moschatoy-en-te-ekklesia-kapnizomenoy-skeyasia",
+        "surface_form": "μοσχάτου ἐν τῇ ἐκκλησίᾳ καπνιζομένου σκευασία",
+        "normalized_label": "μοσχάτου ἐν τῇ ἐκκλησίᾳ καπνιζομένου σκευασία"
+      }
+    ],
+    "ingredients": [
+      {
+        "entity_urn": "urn:aos:recipe-ingredient:aetius-16-146-1-2:ingredient:kostos-1",
+        "surface_form": "κόστου",
+        "normalized_label": "κόστος",
+        "quantity_display": "3 uncia"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-ingredient:aetius-16-146-1-2:ingredient:nardostachys-2",
+        "surface_form": "ναρδοστάχυος",
+        "normalized_label": "ναρδόσταχυς",
+        "quantity_display": "1 uncia"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-ingredient:aetius-16-146-1-2:ingredient:phyllon-3",
+        "surface_form": "φύλλων",
+        "normalized_label": "φύλλον",
+        "quantity_display": "τὸ αὐτό"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-ingredient:aetius-16-146-1-2:ingredient:karyophyllon-4",
+        "surface_form": "καρυοφύλλων",
+        "normalized_label": "καρυόφυλλον",
+        "quantity_display": "3.5 uncia · 3.5 uncia"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-ingredient:aetius-16-146-1-2:ingredient:kasamon-5",
+        "surface_form": "κασάμου",
+        "normalized_label": "κάσαμον",
+        "quantity_display": "0.5 uncia"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-ingredient:aetius-16-146-1-2:ingredient:aspron-6",
+        "surface_form": "ἄσπρου",
+        "normalized_label": "ἄσπρον",
+        "quantity_display": "2 uncia"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-ingredient:aetius-16-146-1-2:ingredient:styrax-7",
+        "surface_form": "στύρακος",
+        "normalized_label": "στύραξ",
+        "quantity_display": "2 uncia"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-ingredient:aetius-16-146-1-2:ingredient:chymation-proteion-8",
+        "surface_form": "χυματίου πρωτείου",
+        "normalized_label": "χυμάτιον πρωτεῖον",
+        "quantity_display": "5 uncia"
+      },
+      {
+        "entity_urn": "urn:aos:recipe-ingredient:aetius-16-146-1-2:ingredient:krokos-trichinos-9",
+        "surface_form": "κρόκου τριχίνου",
+        "normalized_label": "κρόκος τριχῖνος",
+        "quantity_display": "γράμματα β."
+      },
+      {
+        "entity_urn": "urn:aos:recipe-ingredient:aetius-16-146-1-2:ingredient:moschos-10",
+        "surface_form": "μόσχου",
+        "normalized_label": "μόσχος",
+        "quantity_display": "γράμματα β."
+      },
+      {
+        "entity_urn": "urn:aos:recipe-ingredient:aetius-16-146-1-2:ingredient:ambaros-11",
+        "surface_form": "ἄμβαρος",
+        "normalized_label": "ἄμβαρος",
+        "quantity_display": "γράμματα β."
+      }
+    ],
+    "processes": [
+      {
+        "entity_urn": "urn:aos:recipe-process:aetius-16-146-1-2:process:skeyazein-1",
+        "surface_form": "σκευάζει",
+        "normalized_label": "σκευάζειν"
+      }
+    ],
+    "tools": [],
+    "other_preparations_mentioned": [],
+    "people": [
+      {
+        "entity_urn": "urn:aos:recipe-person:aetius-16-146-1-2:person:archon-1",
+        "surface_form": "ὁ ἄρχων",
+        "normalized_label": "ἄρχων"
+      }
+    ],
+    "places": [
+      {
+        "entity_urn": "urn:aos:recipe-place:aetius-16-146-1-2:place:anatole-1",
+        "surface_form": "τῆς Ἀνατολῆς",
+        "normalized_label": "Ἀνατολή"
+      }
+    ],
+    "works_mentioned": [],
+    "preparation_names": []
+  }
+}

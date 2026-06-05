@@ -476,6 +476,16 @@ def _schema() -> dict[str, Any]:
             "normalized_number": {"type": ["number", "string", "null"]},
             "raw_unit": {"type": ["string", "null"]},
             "normalized_unit": {"type": ["string", "null"]},
+            "measure_group_id": {"type": ["string", "null"]},
+            "measure_relation": {
+                "enum": [
+                    "standalone",
+                    "compound_component",
+                    "equivalent_notation",
+                    "variant_quantity",
+                    None,
+                ]
+            },
             "certainty": {"enum": ["certain", "uncertain"]},
             "notes": {"type": "array", "items": {"type": "string"}},
         },

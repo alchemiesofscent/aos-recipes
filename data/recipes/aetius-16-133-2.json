@@ -192,12 +192,12 @@
     "entity_model_version": "1.2",
     "authority_version": "2026-04-13-qty-alt-v1",
     "prompt_version": "qty-alt-pass-v1",
-    "build_version": "2026-05-25T18:36:46Z"
+    "build_version": "2026-06-04T18:29:05Z"
   },
   "schema_version": "1.2",
   "build_metadata": {
     "builder": "scripts/recipes/build_recipe_entities.py",
-    "built_at": "2026-05-25T18:36:46Z",
+    "built_at": "2026-06-04T18:29:05Z",
     "source_structured_authority": "reports/entity_review/structured/aetius_book16.json",
     "authority_model": "gpt-5.4",
     "authority_reasoning_effort": "high",
@@ -205,7 +205,7 @@
     "entity_model_version": "1.2",
     "authority_version": "2026-04-13-qty-alt-v1",
     "prompt_version": "qty-alt-pass-v1",
-    "build_version": "2026-05-25T18:36:46Z"
+    "build_version": "2026-06-04T18:29:05Z"
   },
   "recipe_text_excerpt": "Κόστου γοβ. κασίας, καρποβαλσάμου, μασσουαφίου, σμύρνης ἀνὰ γοα. ἀμώμου γοε. ναρδοστάχυος, στύρακος, ἀνὰ γοδ. καρυοφύλλου γοαζʹ. ὀποβαλσάμου γοστ. κρίνα τὸν",
   "preparation": {
@@ -259,7 +259,9 @@
           "certainty": "certain",
           "notes": [
             "Abbreviated unit left unnormalized."
-          ]
+          ],
+          "measure_relation": "standalone",
+          "measure_group_id": "aetius-16-133-2:ingredients:1:measure:1"
         }
       ],
       "qualifiers": [],
@@ -295,7 +297,9 @@
           "notes": [
             "Governed by distributive ἀνὰ.",
             "Abbreviated unit left unnormalized."
-          ]
+          ],
+          "measure_relation": "standalone",
+          "measure_group_id": "aetius-16-133-2:ingredients:2:measure:1"
         }
       ],
       "qualifiers": [],
@@ -333,7 +337,9 @@
           "notes": [
             "Governed by distributive ἀνὰ.",
             "Abbreviated unit left unnormalized."
-          ]
+          ],
+          "measure_relation": "standalone",
+          "measure_group_id": "aetius-16-133-2:ingredients:3:measure:1"
         }
       ],
       "qualifiers": [],
@@ -371,7 +377,9 @@
           "notes": [
             "Governed by distributive ἀνὰ.",
             "Abbreviated unit left unnormalized."
-          ]
+          ],
+          "measure_relation": "standalone",
+          "measure_group_id": "aetius-16-133-2:ingredients:4:measure:1"
         }
       ],
       "qualifiers": [],
@@ -411,7 +419,9 @@
           "notes": [
             "Governed by distributive ἀνὰ.",
             "Abbreviated unit left unnormalized."
-          ]
+          ],
+          "measure_relation": "standalone",
+          "measure_group_id": "aetius-16-133-2:ingredients:5:measure:1"
         }
       ],
       "qualifiers": [],
@@ -448,7 +458,9 @@
           "certainty": "certain",
           "notes": [
             "Abbreviated unit left unnormalized."
-          ]
+          ],
+          "measure_relation": "standalone",
+          "measure_group_id": "aetius-16-133-2:ingredients:6:measure:1"
         }
       ],
       "qualifiers": [],
@@ -484,7 +496,9 @@
           "notes": [
             "Governed by distributive ἀνὰ.",
             "Abbreviated unit left unnormalized."
-          ]
+          ],
+          "measure_relation": "standalone",
+          "measure_group_id": "aetius-16-133-2:ingredients:7:measure:1"
         }
       ],
       "qualifiers": [],
@@ -524,7 +538,9 @@
           "notes": [
             "Governed by distributive ἀνὰ.",
             "Abbreviated unit left unnormalized."
-          ]
+          ],
+          "measure_relation": "standalone",
+          "measure_group_id": "aetius-16-133-2:ingredients:8:measure:1"
         }
       ],
       "qualifiers": [],
@@ -555,13 +571,16 @@
         {
           "source_span": "γοαζʹ.",
           "raw_number": "αζʹ",
-          "normalized_number": 8,
+          "normalized_number": 1.5,
           "raw_unit": "γο",
           "normalized_unit": "uncia",
           "certainty": "certain",
           "notes": [
-            "Abbreviated unit left unnormalized."
-          ]
+            "Abbreviated unit left unnormalized.",
+            "Corrected by normalize_quantities.py (rule γο+numeral): raw_number 'αζʹ'→'αζʹ', normalized_number 8→1.5."
+          ],
+          "measure_relation": "standalone",
+          "measure_group_id": "aetius-16-133-2:ingredients:9:measure:1"
         }
       ],
       "qualifiers": [],
@@ -598,7 +617,9 @@
           "certainty": "certain",
           "notes": [
             "Abbreviated unit left unnormalized."
-          ]
+          ],
+          "measure_relation": "standalone",
+          "measure_group_id": "aetius-16-133-2:ingredients:10:measure:1"
         }
       ],
       "qualifiers": [],
@@ -642,7 +663,9 @@
           "raw_unit": "τὸν ἀριθμὸν",
           "normalized_unit": "count",
           "certainty": "certain",
-          "notes": []
+          "notes": [],
+          "measure_relation": "standalone",
+          "measure_group_id": "aetius-16-133-2:ingredients:11:measure:1"
         }
       ],
       "qualifiers": [],
@@ -682,7 +705,9 @@
           "certainty": "certain",
           "notes": [
             "The source first gives the abbreviated form ξστιβ, then restates it as ξέστ. ιβ."
-          ]
+          ],
+          "measure_group_id": "aetius-16-133-2:mg:merged-equivalent-1",
+          "measure_relation": "equivalent_notation"
         }
       ],
       "qualifiers": [],
@@ -717,7 +742,9 @@
           "certainty": "certain",
           "notes": [
             "Abbreviated unit left unnormalized."
-          ]
+          ],
+          "measure_relation": "standalone",
+          "measure_group_id": "aetius-16-133-2:ingredients:13:measure:1"
         }
       ],
       "qualifiers": [],
@@ -1949,7 +1976,7 @@
         "entity_urn": "urn:aos:recipe-ingredient:aetius-16-133-2:ingredient:karyophyllon-9",
         "surface_form": "καρυοφύλλου",
         "normalized_label": "καρυόφυλλον",
-        "quantity_display": "8 uncia"
+        "quantity_display": "1.5 uncia"
       },
       {
         "entity_urn": "urn:aos:recipe-ingredient:aetius-16-133-2:ingredient:opobalsamon-10",

@@ -115,12 +115,12 @@
     "entity_model_version": "1.2",
     "authority_version": "2026-04-13-qty-alt-v1",
     "prompt_version": "qty-alt-pass-v1",
-    "build_version": "2026-05-25T18:36:46Z"
+    "build_version": "2026-06-04T18:29:05Z"
   },
   "schema_version": "1.2",
   "build_metadata": {
     "builder": "scripts/recipes/build_recipe_entities.py",
-    "built_at": "2026-05-25T18:36:46Z",
+    "built_at": "2026-06-04T18:29:05Z",
     "source_structured_authority": "reports/entity_review/structured/dioscorides.json",
     "authority_model": "gpt-5.4",
     "authority_reasoning_effort": "high",
@@ -128,7 +128,7 @@
     "entity_model_version": "1.2",
     "authority_version": "2026-04-13-qty-alt-v1",
     "prompt_version": "qty-alt-pass-v1",
-    "build_version": "2026-05-25T18:36:46Z"
+    "build_version": "2026-06-04T18:29:05Z"
   },
   "recipe_text_excerpt": "ἰρίνου στύψις· σπάθης λίτρας ἓξ οὐγγίας ὀκτώ, ἐλαίου λίτρας ἐννέα οὐγγίας πέντε κόψας ὡς λεπτότατα μεῖξον ὕδατος κοτύλαις δέκα καὶ",
   "preparation": {
@@ -185,7 +185,9 @@
           "raw_unit": "λίτρας",
           "normalized_unit": "litra",
           "certainty": "certain",
-          "notes": []
+          "notes": [],
+          "measure_group_id": "dioscorides-1-56-irinon:ingredients:1:measure:m1",
+          "measure_relation": "compound_component"
         },
         {
           "source_span": "οὐγγίας ὀκτώ",
@@ -194,7 +196,9 @@
           "raw_unit": "οὐγγίας",
           "normalized_unit": "uncia",
           "certainty": "certain",
-          "notes": []
+          "notes": [],
+          "measure_group_id": "dioscorides-1-56-irinon:ingredients:1:measure:m1",
+          "measure_relation": "compound_component"
         }
       ],
       "qualifiers": [],
@@ -229,7 +233,9 @@
           "raw_unit": "λίτρας",
           "normalized_unit": "litra",
           "certainty": "certain",
-          "notes": []
+          "notes": [],
+          "measure_group_id": "dioscorides-1-56-irinon:ingredients:2:measure:m1",
+          "measure_relation": "compound_component"
         },
         {
           "source_span": "οὐγγίας πέντε",
@@ -238,7 +244,9 @@
           "raw_unit": "οὐγγίας",
           "normalized_unit": "uncia",
           "certainty": "certain",
-          "notes": []
+          "notes": [],
+          "measure_group_id": "dioscorides-1-56-irinon:ingredients:2:measure:m1",
+          "measure_relation": "compound_component"
         }
       ],
       "qualifiers": [],
@@ -273,7 +281,9 @@
           "raw_unit": "κοτύλαις",
           "normalized_unit": "cotyle",
           "certainty": "certain",
-          "notes": []
+          "notes": [],
+          "measure_relation": "standalone",
+          "measure_group_id": "dioscorides-1-56-irinon:ingredients:3:measure:1"
         }
       ],
       "qualifiers": [],
@@ -744,7 +754,9 @@
           "certainty": "uncertain",
           "notes": [
             "Dose expressed as a kyathos-full."
-          ]
+          ],
+          "measure_relation": "standalone",
+          "measure_group_id": "dioscorides-1-56-irinon:processes:10:measure:1"
         }
       ],
       "qualifiers": [],

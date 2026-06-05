@@ -3,7 +3,7 @@
     "entity_model_version": "1.2",
     "authority_version": "2026-04-13-qty-alt-v1",
     "prompt_version": "qty-alt-pass-v1",
-    "build_version": "2026-05-25T18:36:46Z"
+    "build_version": "2026-06-04T18:29:05Z"
   },
   "recipes": {
     "aetius-16-126-1": {
@@ -208,7 +208,9 @@
               "notes": [
                 "The abbreviated unit γο is unresolved.",
                 "The text presents this as an equivalent quantity expression with ἤτοι."
-              ]
+              ],
+              "measure_group_id": "aetius-16-126-1:ingredients:9:measure:m1",
+              "measure_relation": "equivalent_notation"
             },
             {
               "source_span": "οὐγ. κστ.",
@@ -219,7 +221,9 @@
               "certainty": "certain",
               "notes": [
                 "The text presents this as an equivalent quantity expression with ἤτοι."
-              ]
+              ],
+              "measure_group_id": "aetius-16-126-1:ingredients:9:measure:m1",
+              "measure_relation": "equivalent_notation"
             }
           ],
           "qualifiers": [],
@@ -532,7 +536,9 @@
               "certainty": "uncertain",
               "notes": [
                 "Unit abbreviation γο unresolved."
-              ]
+              ],
+              "measure_group_id": "aetius-16-126-2:mg:dry-vs-fresh-roses",
+              "measure_relation": "variant_quantity"
             }
           ],
           "qualifiers": [],
@@ -555,7 +561,9 @@
               "certainty": "uncertain",
               "notes": [
                 "Unit abbreviation γο unresolved."
-              ]
+              ],
+              "measure_group_id": "aetius-16-126-2:mg:dry-vs-fresh-roses",
+              "measure_relation": "variant_quantity"
             }
           ],
           "qualifiers": [],
@@ -1972,7 +1980,9 @@
               "certainty": "uncertain",
               "notes": [
                 "Unit abbreviation γο left unresolved."
-              ]
+              ],
+              "measure_group_id": "aetius-16-129:ingredients:1:measure:m1",
+              "measure_relation": "compound_component"
             },
             {
               "source_span": "γράμματα ιβ",
@@ -1981,7 +1991,9 @@
               "raw_unit": "γράμματα",
               "normalized_unit": "γράμμα",
               "certainty": "certain",
-              "notes": []
+              "notes": [],
+              "measure_group_id": "aetius-16-129:ingredients:1:measure:m1",
+              "measure_relation": "compound_component"
             }
           ],
           "qualifiers": [],
@@ -2004,7 +2016,9 @@
               "certainty": "uncertain",
               "notes": [
                 "Unit abbreviation γο left unresolved."
-              ]
+              ],
+              "measure_group_id": "aetius-16-129:ingredients:2:measure:m1",
+              "measure_relation": "compound_component"
             },
             {
               "source_span": "γράμματα ιβ",
@@ -2013,7 +2027,9 @@
               "raw_unit": "γράμματα",
               "normalized_unit": "γράμμα",
               "certainty": "certain",
-              "notes": []
+              "notes": [],
+              "measure_group_id": "aetius-16-129:ingredients:2:measure:m1",
+              "measure_relation": "compound_component"
             }
           ],
           "qualifiers": [],
@@ -2036,7 +2052,9 @@
               "certainty": "uncertain",
               "notes": [
                 "Unit abbreviation γο left unresolved."
-              ]
+              ],
+              "measure_group_id": "aetius-16-129:ingredients:3:measure:m1",
+              "measure_relation": "compound_component"
             },
             {
               "source_span": "γράμματα ιβ",
@@ -2045,7 +2063,9 @@
               "raw_unit": "γράμματα",
               "normalized_unit": "γράμμα",
               "certainty": "certain",
-              "notes": []
+              "notes": [],
+              "measure_group_id": "aetius-16-129:ingredients:3:measure:m1",
+              "measure_relation": "compound_component"
             }
           ],
           "qualifiers": [],
@@ -2068,7 +2088,9 @@
               "certainty": "uncertain",
               "notes": [
                 "Unit abbreviation γο left unresolved."
-              ]
+              ],
+              "measure_group_id": "aetius-16-129:ingredients:4:measure:m1",
+              "measure_relation": "compound_component"
             },
             {
               "source_span": "γράμματα ιβ",
@@ -2077,7 +2099,9 @@
               "raw_unit": "γράμματα",
               "normalized_unit": "γράμμα",
               "certainty": "certain",
-              "notes": []
+              "notes": [],
+              "measure_group_id": "aetius-16-129:ingredients:4:measure:m1",
+              "measure_relation": "compound_component"
             }
           ],
           "qualifiers": [],
@@ -2264,7 +2288,9 @@
               "certainty": "certain",
               "notes": [
                 "Συντετμημένη γραφὴ ἐξηγουμένη ὑπὸ τοῦ ἑξῆς `ξέστ. κ.`."
-              ]
+              ],
+              "measure_group_id": "aetius-16-130-1:ingredients:1:measure:m1",
+              "measure_relation": "equivalent_notation"
             },
             {
               "source_span": "ξέστ. κ.",
@@ -2273,7 +2299,9 @@
               "raw_unit": "ξέστ.",
               "normalized_unit": "ξέστης",
               "certainty": "certain",
-              "notes": []
+              "notes": [],
+              "measure_group_id": "aetius-16-130-1:ingredients:1:measure:m1",
+              "measure_relation": "equivalent_notation"
             }
           ],
           "qualifiers": [],
@@ -2321,7 +2349,9 @@
               "certainty": "certain",
               "notes": [
                 "Ἡ συντομογραφία ἐξηγεῖται ὑπὸ τοῦ `ἤτοι οὐγ. στ.`."
-              ]
+              ],
+              "measure_group_id": "aetius-16-130-1:ingredients:3:measure:m1",
+              "measure_relation": "equivalent_notation"
             },
             {
               "source_span": "οὐγ. στ.",
@@ -2330,7 +2360,9 @@
               "raw_unit": "οὐγ.",
               "normalized_unit": "οὐγγία",
               "certainty": "certain",
-              "notes": []
+              "notes": [],
+              "measure_group_id": "aetius-16-130-1:ingredients:3:measure:m1",
+              "measure_relation": "equivalent_notation"
             }
           ],
           "qualifiers": [],
@@ -5352,7 +5384,9 @@
               "certainty": "certain",
               "notes": [
                 "The source first gives the abbreviated form ξστιβ, then restates it as ξέστ. ιβ."
-              ]
+              ],
+              "measure_group_id": "aetius-16-133-2:mg:merged-equivalent-1",
+              "measure_relation": "equivalent_notation"
             }
           ],
           "qualifiers": [],
@@ -6110,7 +6144,9 @@
               "certainty": "certain",
               "notes": [
                 "`ξστδ` and `ξέστ. δ.` are equivalent notations for the same measure."
-              ]
+              ],
+              "measure_group_id": "aetius-16-134-1:ingredients:8:measure:m1",
+              "measure_relation": "variant_quantity"
             },
             {
               "source_span": "ε.",
@@ -6121,7 +6157,9 @@
               "certainty": "uncertain",
               "notes": [
                 "Unit inferred from the preceding `ξέστ.` in the variant `οἱ δὲ ε.`."
-              ]
+              ],
+              "measure_group_id": "aetius-16-134-1:ingredients:8:measure:m1",
+              "measure_relation": "variant_quantity"
             }
           ],
           "qualifiers": [],
@@ -6267,7 +6305,9 @@
               "certainty": "certain",
               "notes": [
                 "The source first gives the abbreviated form ξστα."
-              ]
+              ],
+              "measure_group_id": "aetius-16-134-2:mg:merged-equivalent-2",
+              "measure_relation": "equivalent_notation"
             }
           ],
           "qualifiers": [
@@ -6302,7 +6342,9 @@
               "certainty": "certain",
               "notes": [
                 "The source first gives the abbreviated form ξστε."
-              ]
+              ],
+              "measure_group_id": "aetius-16-134-2:mg:merged-equivalent-3",
+              "measure_relation": "equivalent_notation"
             }
           ],
           "qualifiers": [
@@ -6678,7 +6720,9 @@
               "raw_unit": "ξέστ.",
               "normalized_unit": "ξέστης",
               "certainty": "certain",
-              "notes": []
+              "notes": [],
+              "measure_group_id": "aetius-16-135:mg:merged-equivalent-4",
+              "measure_relation": "equivalent_notation"
             }
           ],
           "qualifiers": [],
@@ -6700,7 +6744,9 @@
               "raw_unit": "ξέστ.",
               "normalized_unit": "ξέστης",
               "certainty": "certain",
-              "notes": []
+              "notes": [],
+              "measure_group_id": "aetius-16-135:mg:merged-equivalent-5",
+              "measure_relation": "equivalent_notation"
             }
           ],
           "qualifiers": [],
@@ -6943,7 +6989,9 @@
               "certainty": "certain",
               "notes": [
                 "Also given as ξστα."
-              ]
+              ],
+              "measure_group_id": "aetius-16-136:mg:merged-equivalent-6",
+              "measure_relation": "equivalent_notation"
             }
           ],
           "qualifiers": [],
@@ -6970,7 +7018,9 @@
               "certainty": "certain",
               "notes": [
                 "Also given as ξεε."
-              ]
+              ],
+              "measure_group_id": "aetius-16-136:mg:merged-equivalent-7",
+              "measure_relation": "equivalent_notation"
             }
           ],
           "qualifiers": [],
@@ -7381,7 +7431,9 @@
               "certainty": "certain",
               "notes": [
                 "ἤτοι clarifies the abbreviated measure as ξέστ. δ."
-              ]
+              ],
+              "measure_group_id": "aetius-16-137-1:mg:merged-equivalent-8",
+              "measure_relation": "equivalent_notation"
             }
           ],
           "qualifiers": [],
@@ -7403,7 +7455,9 @@
               "certainty": "certain",
               "notes": [
                 "ἤτοι clarifies the abbreviated measure as ξέστ. κη."
-              ]
+              ],
+              "measure_group_id": "aetius-16-137-1:mg:merged-equivalent-9",
+              "measure_relation": "equivalent_notation"
             }
           ],
           "qualifiers": [],
@@ -7511,7 +7565,9 @@
               "certainty": "certain",
               "notes": [
                 "The abbreviated form 'ξεε' is explicitly glossed by 'ἤτοι ξέστ. ε.'."
-              ]
+              ],
+              "measure_group_id": "aetius-16-137-2:mg:merged-equivalent-10",
+              "measure_relation": "equivalent_notation"
             }
           ],
           "qualifiers": [],
@@ -7744,7 +7800,9 @@
               "raw_unit": "γοαζʹ",
               "normalized_unit": null,
               "certainty": "uncertain",
-              "notes": []
+              "notes": [],
+              "measure_group_id": "aetius-16-138-1:ingredients:4:measure:m1",
+              "measure_relation": "equivalent_notation"
             },
             {
               "source_span": "οὐγ. α καὶ ἡμίσ.",
@@ -7755,7 +7813,9 @@
               "certainty": "certain",
               "notes": [
                 "Introduced as an equivalent measure by ἤτοι."
-              ]
+              ],
+              "measure_group_id": "aetius-16-138-1:ingredients:4:measure:m1",
+              "measure_relation": "equivalent_notation"
             }
           ],
           "qualifiers": [],
@@ -8271,7 +8331,9 @@
               "certainty": "certain",
               "notes": [
                 "ἤτοι ξέστ. α καὶ ἥμισ."
-              ]
+              ],
+              "measure_group_id": "aetius-16-139:mg:merged-equivalent-11",
+              "measure_relation": "equivalent_notation"
             }
           ],
           "qualifiers": [],
@@ -8530,7 +8592,9 @@
               "certainty": "certain",
               "notes": [
                 "The source first gives the abbreviated form «ξειστ»."
-              ]
+              ],
+              "measure_group_id": "aetius-16-140:mg:merged-equivalent-12",
+              "measure_relation": "equivalent_notation"
             }
           ],
           "qualifiers": [],
@@ -8553,7 +8617,9 @@
               "certainty": "certain",
               "notes": [
                 "The source first gives the abbreviated form «ξεε»."
-              ]
+              ],
+              "measure_group_id": "aetius-16-140:mg:merged-equivalent-13",
+              "measure_relation": "equivalent_notation"
             }
           ],
           "qualifiers": [],
@@ -8576,7 +8642,9 @@
               "certainty": "certain",
               "notes": [
                 "The source first gives the abbreviated form «γοε»."
-              ]
+              ],
+              "measure_group_id": "aetius-16-140:mg:merged-equivalent-14",
+              "measure_relation": "equivalent_notation"
             }
           ],
           "qualifiers": [],
@@ -8600,7 +8668,9 @@
               "notes": [
                 "Shared distributive quantity governed by «ἀνὰ».",
                 "The source first gives the abbreviated form «γοα.»."
-              ]
+              ],
+              "measure_group_id": "aetius-16-140:mg:merged-equivalent-15",
+              "measure_relation": "equivalent_notation"
             }
           ],
           "qualifiers": [],
@@ -8624,7 +8694,9 @@
               "notes": [
                 "Shared distributive quantity governed by «ἀνὰ».",
                 "The source first gives the abbreviated form «γοα.»."
-              ]
+              ],
+              "measure_group_id": "aetius-16-140:mg:merged-equivalent-16",
+              "measure_relation": "equivalent_notation"
             }
           ],
           "qualifiers": [],
@@ -8647,7 +8719,9 @@
               "certainty": "certain",
               "notes": [
                 "The source first gives the abbreviated form «ξεγ»."
-              ]
+              ],
+              "measure_group_id": "aetius-16-140:mg:merged-equivalent-17",
+              "measure_relation": "equivalent_notation"
             }
           ],
           "qualifiers": [],
@@ -8670,7 +8744,9 @@
               "certainty": "certain",
               "notes": [
                 "The source first gives the abbreviated form «λιβ.»."
-              ]
+              ],
+              "measure_group_id": "aetius-16-140:mg:merged-equivalent-18",
+              "measure_relation": "equivalent_notation"
             }
           ],
           "qualifiers": [],
@@ -8765,7 +8841,9 @@
               "certainty": "certain",
               "notes": [
                 "The quantity is written in both compact and expanded notation."
-              ]
+              ],
+              "measure_group_id": "aetius-16-141:mg:merged-equivalent-19",
+              "measure_relation": "equivalent_notation"
             }
           ],
           "qualifiers": [],
@@ -8789,7 +8867,9 @@
               "certainty": "certain",
               "notes": [
                 "The quantity is written in both compact and expanded notation."
-              ]
+              ],
+              "measure_group_id": "aetius-16-141:mg:merged-equivalent-20",
+              "measure_relation": "equivalent_notation"
             }
           ],
           "qualifiers": [],
@@ -8813,7 +8893,9 @@
               "certainty": "certain",
               "notes": [
                 "The quantity is written in both compact and expanded notation."
-              ]
+              ],
+              "measure_group_id": "aetius-16-141:mg:merged-equivalent-21",
+              "measure_relation": "equivalent_notation"
             }
           ],
           "qualifiers": [],
@@ -8837,7 +8919,9 @@
               "certainty": "certain",
               "notes": [
                 "The quantity is written in both compact and expanded notation."
-              ]
+              ],
+              "measure_group_id": "aetius-16-141:mg:merged-equivalent-22",
+              "measure_relation": "equivalent_notation"
             }
           ],
           "qualifiers": [],
@@ -8944,7 +9028,9 @@
               "raw_unit": "λιστ. ἤτοι λίτρ.",
               "normalized_unit": "λίτρα",
               "certainty": "uncertain",
-              "notes": []
+              "notes": [],
+              "measure_group_id": "aetius-16-142:mg:merged-equivalent-23",
+              "measure_relation": "equivalent_notation"
             }
           ],
           "qualifiers": [
@@ -8974,7 +9060,9 @@
               "raw_unit": "λίτρ.",
               "normalized_unit": "λίτρα",
               "certainty": "certain",
-              "notes": []
+              "notes": [],
+              "measure_group_id": "aetius-16-142:ingredients:2:measure:m1",
+              "measure_relation": "compound_component"
             },
             {
               "source_span": "οὐγ. γ.",
@@ -8983,7 +9071,9 @@
               "raw_unit": "οὐγ.",
               "normalized_unit": "οὐγγία",
               "certainty": "certain",
-              "notes": []
+              "notes": [],
+              "measure_group_id": "aetius-16-142:ingredients:2:measure:m1",
+              "measure_relation": "compound_component"
             }
           ],
           "qualifiers": [],
@@ -9285,7 +9375,9 @@
               "raw_unit": "οὐγ.",
               "normalized_unit": "οὐγγία",
               "certainty": "certain",
-              "notes": []
+              "notes": [],
+              "measure_group_id": "aetius-16-142:mg:mastic-base-vs-tines",
+              "measure_relation": "variant_quantity"
             }
           ],
           "qualifiers": [],
@@ -9349,7 +9441,9 @@
               "raw_unit": "λίτρ.",
               "normalized_unit": "λίτρα",
               "certainty": "certain",
-              "notes": []
+              "notes": [],
+              "measure_group_id": "aetius-16-142:ingredients:20:measure:m1",
+              "measure_relation": "variant_quantity"
             },
             {
               "source_span": "οὐγ. ε.",
@@ -9360,7 +9454,9 @@
               "certainty": "certain",
               "notes": [
                 "Introduced by τινὲς δὲ as a variant quantity."
-              ]
+              ],
+              "measure_group_id": "aetius-16-142:ingredients:20:measure:m1",
+              "measure_relation": "variant_quantity"
             }
           ],
           "qualifiers": [],
@@ -9406,7 +9502,9 @@
               "certainty": "uncertain",
               "notes": [
                 "Repeated in the later variant sequence; unit expansion is inferred."
-              ]
+              ],
+              "measure_group_id": "aetius-16-142:mg:mastic-base-vs-tines",
+              "measure_relation": "variant_quantity"
             }
           ],
           "qualifiers": [],
@@ -9845,7 +9943,9 @@
               "certainty": "uncertain",
               "notes": [
                 "unit abbreviation unresolved safely"
-              ]
+              ],
+              "measure_group_id": "aetius-16-143:mg:aloe-first-vs-tines",
+              "measure_relation": "variant_quantity"
             }
           ],
           "qualifiers": [],
@@ -9937,7 +10037,9 @@
               "certainty": "uncertain",
               "notes": [
                 "unit abbreviation unresolved safely"
-              ]
+              ],
+              "measure_group_id": "aetius-16-143:mg:aloe-first-vs-tines",
+              "measure_relation": "variant_quantity"
             }
           ],
           "qualifiers": [],
@@ -10238,7 +10340,9 @@
               "raw_unit": "κεράτια",
               "normalized_unit": "κεράτιον",
               "certainty": "certain",
-              "notes": []
+              "notes": [],
+              "measure_group_id": "aetius-16-144-1:mg:moschos-authorial-variant",
+              "measure_relation": "variant_quantity"
             }
           ],
           "qualifiers": [],
@@ -10261,7 +10365,9 @@
               "raw_unit": "γράμματα",
               "normalized_unit": "γράμμα",
               "certainty": "certain",
-              "notes": []
+              "notes": [],
+              "measure_group_id": "aetius-16-144-1:mg:moschos-authorial-variant",
+              "measure_relation": "variant_quantity"
             }
           ],
           "qualifiers": [],
@@ -11077,7 +11183,7 @@
         "regimen_notes": [],
         "certainty": "certain",
         "notes": [
-          "The text preserves a second formulation introduced by 'ὁ ἄρχων δὲ τῆς Ἀνατολῆς σκευάζει οὕτως'."
+          "First formulation of Book 16, ch. 146, §1; the second formulation is split as aetius-16-146-1-2."
         ]
       },
       "ingredients": [
@@ -11096,7 +11202,9 @@
               "raw_unit": "λίτρ.",
               "normalized_unit": "λίτρα",
               "certainty": "certain",
-              "notes": []
+              "notes": [],
+              "measure_group_id": "aetius-16-146-1:ingredients:1:measure:m1",
+              "measure_relation": "variant_quantity"
             },
             {
               "source_span": "δ. καὶ ἡμίσ.",
@@ -11107,7 +11215,9 @@
               "certainty": "uncertain",
               "notes": [
                 "Alternative quantity introduced by ἤτοι; the unit is carried over from the preceding λίτρ."
-              ]
+              ],
+              "measure_group_id": "aetius-16-146-1:ingredients:1:measure:m1",
+              "measure_relation": "variant_quantity"
             }
           ],
           "qualifiers": [],
@@ -11195,7 +11305,9 @@
               "certainty": "uncertain",
               "notes": [
                 "Abbreviated quantity unresolved in transmission."
-              ]
+              ],
+              "measure_group_id": "aetius-16-146-1:ingredients:5:measure:m1",
+              "measure_relation": "equivalent_notation"
             },
             {
               "source_span": "οὐγ. ιδ.",
@@ -11206,7 +11318,9 @@
               "certainty": "certain",
               "notes": [
                 "Alternative quantity introduced by ἤτοι."
-              ]
+              ],
+              "measure_group_id": "aetius-16-146-1:ingredients:5:measure:m1",
+              "measure_relation": "equivalent_notation"
             }
           ],
           "qualifiers": [],
@@ -11326,7 +11440,77 @@
           ],
           "qualifiers": [],
           "notes": []
-        },
+        }
+      ],
+      "processes": [
+        {
+          "source_span": "καπνιζομένου",
+          "normalized_label": "καπνίζειν",
+          "target_type": "recipe",
+          "target_labels": [
+            "μοσχάτου ἐν τῇ ἐκκλησίᾳ καπνιζομένου σκευασία"
+          ],
+          "quantities": [],
+          "qualifiers": [
+            {
+              "qualifier_type": "location",
+              "source_span": "ἐν τῇ ἐκκλησίᾳ",
+              "normalized_value": "ἐκκλησία",
+              "certainty": "certain",
+              "notes": []
+            }
+          ],
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "materials": [],
+      "people": [],
+      "places": [
+        {
+          "source_span": "τῇ ἐκκλησίᾳ",
+          "normalized_label": "ἐκκλησία",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "uses": [
+        {
+          "category": "ritual",
+          "source_span": "ἐν τῇ ἐκκλησίᾳ καπνιζομένου",
+          "snippet": "ἐν τῇ ἐκκλησίᾳ καπνιζομένου",
+          "certainty": "certain",
+          "notes": []
+        }
+      ],
+      "preparation_names": [],
+      "other_preparations_mentioned": [],
+      "works_mentioned": [],
+      "notes": [
+        "First formulation of Book 16, ch. 146, §1; the second formulation is split as aetius-16-146-1-2."
+      ]
+    },
+    "aetius-16-146-1-2": {
+      "recipe_id": "aetius-16-146-1-2",
+      "preparation": {
+        "source_span": "μοσχάτου ἐν τῇ ἐκκλησίᾳ καπνιζομένου σκευασία",
+        "normalized_label": "μοσχάτου ἐν τῇ ἐκκλησίᾳ καπνιζομένου σκευασία",
+        "qualifiers": [
+          {
+            "qualifier_type": "location",
+            "source_span": "ἐν τῇ ἐκκλησίᾳ",
+            "normalized_value": "ἐκκλησία",
+            "certainty": "certain",
+            "notes": []
+          }
+        ],
+        "regimen_notes": [],
+        "certainty": "certain",
+        "notes": [
+          "Second formulation of Book 16, ch. 146, §1, introduced by ὁ ἄρχων δὲ τῆς Ἀνατολῆς σκευάζει οὕτως."
+        ]
+      },
+      "ingredients": [
         {
           "source_span": "κόστου",
           "base_label": "κόστος",
@@ -11419,7 +11603,9 @@
               "certainty": "uncertain",
               "notes": [
                 "Abbreviated quantity unresolved in transmission."
-              ]
+              ],
+              "measure_group_id": "aetius-16-146-1-2:ingredients:4:measure:m1",
+              "measure_relation": "equivalent_notation"
             },
             {
               "source_span": "οὐγ. γ καὶ ἡμίσ.",
@@ -11430,7 +11616,9 @@
               "certainty": "certain",
               "notes": [
                 "Alternative quantity introduced by ἤτοι."
-              ]
+              ],
+              "measure_group_id": "aetius-16-146-1-2:ingredients:4:measure:m1",
+              "measure_relation": "equivalent_notation"
             }
           ],
           "qualifiers": [],
@@ -11455,7 +11643,9 @@
               "certainty": "uncertain",
               "notes": [
                 "Abbreviated quantity unresolved in transmission."
-              ]
+              ],
+              "measure_group_id": "aetius-16-146-1-2:ingredients:5:measure:m1",
+              "measure_relation": "equivalent_notation"
             },
             {
               "source_span": "οὐγ. ἡμίσ.",
@@ -11466,7 +11656,9 @@
               "certainty": "certain",
               "notes": [
                 "Alternative quantity introduced by ἤτοι."
-              ]
+              ],
+              "measure_group_id": "aetius-16-146-1-2:ingredients:5:measure:m1",
+              "measure_relation": "equivalent_notation"
             }
           ],
           "qualifiers": [],
@@ -11626,26 +11818,6 @@
       ],
       "processes": [
         {
-          "source_span": "καπνιζομένου",
-          "normalized_label": "καπνίζειν",
-          "target_type": "recipe",
-          "target_labels": [
-            "μοσχάτου ἐν τῇ ἐκκλησίᾳ καπνιζομένου σκευασία"
-          ],
-          "quantities": [],
-          "qualifiers": [
-            {
-              "qualifier_type": "location",
-              "source_span": "ἐν τῇ ἐκκλησίᾳ",
-              "normalized_value": "ἐκκλησία",
-              "certainty": "certain",
-              "notes": []
-            }
-          ],
-          "certainty": "certain",
-          "notes": []
-        },
-        {
           "source_span": "σκευάζει",
           "normalized_label": "σκευάζειν",
           "target_type": "recipe",
@@ -11681,32 +11853,18 @@
       ],
       "places": [
         {
-          "source_span": "τῇ ἐκκλησίᾳ",
-          "normalized_label": "ἐκκλησία",
-          "certainty": "certain",
-          "notes": []
-        },
-        {
           "source_span": "τῆς Ἀνατολῆς",
           "normalized_label": "Ἀνατολή",
           "certainty": "certain",
           "notes": []
         }
       ],
-      "uses": [
-        {
-          "category": "ritual",
-          "source_span": "ἐν τῇ ἐκκλησίᾳ καπνιζομένου",
-          "snippet": "ἐν τῇ ἐκκλησίᾳ καπνιζομένου",
-          "certainty": "certain",
-          "notes": []
-        }
-      ],
+      "uses": [],
       "preparation_names": [],
       "other_preparations_mentioned": [],
       "works_mentioned": [],
       "notes": [
-        "The text transmits two formulations: the initial list and a second list introduced by 'ὁ ἄρχων δὲ τῆς Ἀνατολῆς σκευάζει οὕτως'.",
+        "Second formulation of Book 16, ch. 146, §1, introduced by ὁ ἄρχων δὲ τῆς Ἀνατολῆς σκευάζει οὕτως.",
         "In 'μόσχου, ἄμβαρος ἀνὰ γράμματα β', the distributive ἀνὰ assigns the same 2-γράμματα quantity to both ingredients."
       ]
     },
@@ -11738,7 +11896,9 @@
               "certainty": "uncertain",
               "notes": [
                 "Abbreviated measure left unresolved."
-              ]
+              ],
+              "measure_group_id": "aetius-16-146-2:ingredients:1:measure:m1",
+              "measure_relation": "equivalent_notation"
             },
             {
               "source_span": "λίτρ. α καὶ ἡμίσ.",
@@ -11749,7 +11909,9 @@
               "certainty": "certain",
               "notes": [
                 "Introduced as an equivalence by ἤτοι."
-              ]
+              ],
+              "measure_group_id": "aetius-16-146-2:ingredients:1:measure:m1",
+              "measure_relation": "equivalent_notation"
             }
           ],
           "qualifiers": [],
@@ -12473,7 +12635,9 @@
               "certainty": "uncertain",
               "notes": [
                 "Greek numeral parsed as 16; unit abbreviation unresolved."
-              ]
+              ],
+              "measure_group_id": "aetius-16-147:mg:stakte-substitution",
+              "measure_relation": "variant_quantity"
             }
           ],
           "qualifiers": [],
@@ -12521,7 +12685,9 @@
               "certainty": "uncertain",
               "notes": [
                 "Greek numeral parsed as 12; unit abbreviation unresolved."
-              ]
+              ],
+              "measure_group_id": "aetius-16-147:mg:stakte-substitution",
+              "measure_relation": "variant_quantity"
             }
           ],
           "qualifiers": [],
@@ -12548,7 +12714,9 @@
               "certainty": "uncertain",
               "notes": [
                 "Greek numeral parsed as 14; unit abbreviation unresolved."
-              ]
+              ],
+              "measure_group_id": "aetius-16-147:mg:stakte-substitution",
+              "measure_relation": "variant_quantity"
             }
           ],
           "qualifiers": [],
@@ -14862,7 +15030,9 @@
               "certainty": "certain",
               "notes": [
                 "The abbreviation γογ. is glossed by ἤτοι οὐγγίας τρεῖς."
-              ]
+              ],
+              "measure_group_id": "aetius-16-153:mg:merged-equivalent-24",
+              "measure_relation": "equivalent_notation"
             }
           ],
           "qualifiers": [],

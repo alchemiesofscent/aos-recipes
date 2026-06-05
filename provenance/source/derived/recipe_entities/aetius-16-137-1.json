@@ -94,12 +94,12 @@
     "entity_model_version": "1.2",
     "authority_version": "2026-04-13-qty-alt-v1",
     "prompt_version": "qty-alt-pass-v1",
-    "build_version": "2026-05-25T18:36:46Z"
+    "build_version": "2026-06-04T18:29:05Z"
   },
   "schema_version": "1.2",
   "build_metadata": {
     "builder": "scripts/recipes/build_recipe_entities.py",
-    "built_at": "2026-05-25T18:36:46Z",
+    "built_at": "2026-06-04T18:29:05Z",
     "source_structured_authority": "reports/entity_review/structured/aetius_book16.json",
     "authority_model": "gpt-5.4",
     "authority_reasoning_effort": "high",
@@ -107,7 +107,7 @@
     "entity_model_version": "1.2",
     "authority_version": "2026-04-13-qty-alt-v1",
     "prompt_version": "qty-alt-pass-v1",
-    "build_version": "2026-05-25T18:36:46Z"
+    "build_version": "2026-06-04T18:29:05Z"
   },
   "recipe_text_excerpt": "Ναρδοστάχυος γράμματα ε. κρόκου κεράτια γ. ἀψινθίου δραχ. α. μαστίχης γράμματα ζ. μέλιτος ξεδ ἤτοι ξέστ. δ. οἴνου ξστκη ἤτοι",
   "preparation": {
@@ -151,7 +151,9 @@
           "raw_unit": "γράμματα",
           "normalized_unit": "gramma",
           "certainty": "certain",
-          "notes": []
+          "notes": [],
+          "measure_relation": "standalone",
+          "measure_group_id": "aetius-16-137-1:ingredients:1:measure:1"
         }
       ],
       "qualifiers": [],
@@ -184,7 +186,9 @@
           "raw_unit": "κεράτια",
           "normalized_unit": "ceration",
           "certainty": "certain",
-          "notes": []
+          "notes": [],
+          "measure_relation": "standalone",
+          "measure_group_id": "aetius-16-137-1:ingredients:2:measure:1"
         }
       ],
       "qualifiers": [],
@@ -217,7 +221,9 @@
           "raw_unit": "δραχ.",
           "normalized_unit": "drachme",
           "certainty": "certain",
-          "notes": []
+          "notes": [],
+          "measure_relation": "standalone",
+          "measure_group_id": "aetius-16-137-1:ingredients:3:measure:1"
         }
       ],
       "qualifiers": [],
@@ -250,7 +256,9 @@
           "raw_unit": "γράμματα",
           "normalized_unit": "gramma",
           "certainty": "certain",
-          "notes": []
+          "notes": [],
+          "measure_relation": "standalone",
+          "measure_group_id": "aetius-16-137-1:ingredients:4:measure:1"
         }
       ],
       "qualifiers": [],
@@ -285,7 +293,9 @@
           "certainty": "certain",
           "notes": [
             "ἤτοι clarifies the abbreviated measure as ξέστ. δ."
-          ]
+          ],
+          "measure_group_id": "aetius-16-137-1:mg:merged-equivalent-8",
+          "measure_relation": "equivalent_notation"
         }
       ],
       "qualifiers": [],
@@ -320,7 +330,9 @@
           "certainty": "certain",
           "notes": [
             "ἤτοι clarifies the abbreviated measure as ξέστ. κη."
-          ]
+          ],
+          "measure_group_id": "aetius-16-137-1:mg:merged-equivalent-9",
+          "measure_relation": "equivalent_notation"
         }
       ],
       "qualifiers": [],

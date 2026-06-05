@@ -154,12 +154,12 @@
     "entity_model_version": "1.2",
     "authority_version": "2026-04-13-qty-alt-v1",
     "prompt_version": "qty-alt-pass-v1",
-    "build_version": "2026-05-25T18:36:46Z"
+    "build_version": "2026-06-04T18:29:05Z"
   },
   "schema_version": "1.2",
   "build_metadata": {
     "builder": "scripts/recipes/build_recipe_entities.py",
-    "built_at": "2026-05-25T18:36:46Z",
+    "built_at": "2026-06-04T18:29:05Z",
     "source_structured_authority": "reports/entity_review/structured/paul.json",
     "authority_model": "gpt-5.4",
     "authority_reasoning_effort": "high",
@@ -167,7 +167,7 @@
     "entity_model_version": "1.2",
     "authority_version": "2026-04-13-qty-alt-v1",
     "prompt_version": "qty-alt-pass-v1",
-    "build_version": "2026-05-25T18:36:46Z"
+    "build_version": "2026-06-04T18:29:05Z"
   },
   "recipe_text_excerpt": "αʹ ἐμβολή· ἐλαίου πρωτείου ξ̸ ι, ἀσπαλάθου, κυπέρων, ἑλενίου ἴρεως, ξυλοβαλσάμου, ἀριστολοχίας, καρδαμώμου, σχοίνου ἄνθους ἀνὰ 𐆄 ϛ, σαμψύχου 𐆄",
   "preparation": {
@@ -219,7 +219,9 @@
           "raw_unit": "ξ̸",
           "normalized_unit": "xestes",
           "certainty": "certain",
-          "notes": []
+          "notes": [],
+          "measure_relation": "standalone",
+          "measure_group_id": "paul-7-20-35:ingredients:1:measure:1"
         }
       ],
       "qualifiers": [],
@@ -254,7 +256,9 @@
           "raw_unit": "𐆄",
           "normalized_unit": "uncia",
           "certainty": "certain",
-          "notes": []
+          "notes": [],
+          "measure_relation": "standalone",
+          "measure_group_id": "paul-7-20-35:ingredients:2:measure:1"
         }
       ],
       "qualifiers": [],
@@ -289,7 +293,9 @@
           "raw_unit": "𐆄",
           "normalized_unit": "uncia",
           "certainty": "certain",
-          "notes": []
+          "notes": [],
+          "measure_relation": "standalone",
+          "measure_group_id": "paul-7-20-35:ingredients:3:measure:1"
         }
       ],
       "qualifiers": [],
@@ -324,7 +330,9 @@
           "raw_unit": "𐆄",
           "normalized_unit": "uncia",
           "certainty": "certain",
-          "notes": []
+          "notes": [],
+          "measure_relation": "standalone",
+          "measure_group_id": "paul-7-20-35:ingredients:4:measure:1"
         }
       ],
       "qualifiers": [],
@@ -359,7 +367,9 @@
           "raw_unit": "𐆄",
           "normalized_unit": "uncia",
           "certainty": "certain",
-          "notes": []
+          "notes": [],
+          "measure_relation": "standalone",
+          "measure_group_id": "paul-7-20-35:ingredients:5:measure:1"
         }
       ],
       "qualifiers": [],
@@ -394,7 +404,9 @@
           "raw_unit": "𐆄",
           "normalized_unit": "uncia",
           "certainty": "certain",
-          "notes": []
+          "notes": [],
+          "measure_relation": "standalone",
+          "measure_group_id": "paul-7-20-35:ingredients:6:measure:1"
         }
       ],
       "qualifiers": [],
@@ -429,7 +441,9 @@
           "raw_unit": "𐆄",
           "normalized_unit": "uncia",
           "certainty": "certain",
-          "notes": []
+          "notes": [],
+          "measure_relation": "standalone",
+          "measure_group_id": "paul-7-20-35:ingredients:7:measure:1"
         }
       ],
       "qualifiers": [],
@@ -464,7 +478,9 @@
           "raw_unit": "𐆄",
           "normalized_unit": "uncia",
           "certainty": "certain",
-          "notes": []
+          "notes": [],
+          "measure_relation": "standalone",
+          "measure_group_id": "paul-7-20-35:ingredients:8:measure:1"
         }
       ],
       "qualifiers": [],
@@ -499,7 +515,9 @@
           "raw_unit": "𐆄",
           "normalized_unit": "uncia",
           "certainty": "certain",
-          "notes": []
+          "notes": [],
+          "measure_relation": "standalone",
+          "measure_group_id": "paul-7-20-35:ingredients:9:measure:1"
         }
       ],
       "qualifiers": [],
@@ -534,7 +552,9 @@
           "raw_unit": "𐆄",
           "normalized_unit": "uncia",
           "certainty": "certain",
-          "notes": []
+          "notes": [],
+          "measure_relation": "standalone",
+          "measure_group_id": "paul-7-20-35:ingredients:10:measure:1"
         }
       ],
       "qualifiers": [],
@@ -569,7 +589,9 @@
           "raw_unit": "𐆄",
           "normalized_unit": "uncia",
           "certainty": "certain",
-          "notes": []
+          "notes": [],
+          "measure_relation": "standalone",
+          "measure_group_id": "paul-7-20-35:ingredients:11:measure:1"
         }
       ],
       "qualifiers": [],
@@ -606,7 +628,9 @@
           "raw_unit": "𐆄",
           "normalized_unit": "uncia",
           "certainty": "certain",
-          "notes": []
+          "notes": [],
+          "measure_group_id": "paul-7-20-35:mg:variant-additions",
+          "measure_relation": "variant_quantity"
         }
       ],
       "qualifiers": [],
@@ -641,7 +665,9 @@
           "raw_unit": "𐆄",
           "normalized_unit": "uncia",
           "certainty": "certain",
-          "notes": []
+          "notes": [],
+          "measure_relation": "standalone",
+          "measure_group_id": "paul-7-20-35:ingredients:13:measure:1"
         }
       ],
       "qualifiers": [],
@@ -674,7 +700,9 @@
           "raw_unit": "𐆄",
           "normalized_unit": "uncia",
           "certainty": "certain",
-          "notes": []
+          "notes": [],
+          "measure_relation": "standalone",
+          "measure_group_id": "paul-7-20-35:ingredients:14:measure:1"
         }
       ],
       "qualifiers": [],
@@ -707,7 +735,9 @@
           "raw_unit": "𐆄",
           "normalized_unit": "uncia",
           "certainty": "certain",
-          "notes": []
+          "notes": [],
+          "measure_relation": "standalone",
+          "measure_group_id": "paul-7-20-35:ingredients:15:measure:1"
         }
       ],
       "qualifiers": [],
@@ -740,7 +770,9 @@
           "raw_unit": "𐆄",
           "normalized_unit": "uncia",
           "certainty": "certain",
-          "notes": []
+          "notes": [],
+          "measure_relation": "standalone",
+          "measure_group_id": "paul-7-20-35:ingredients:16:measure:1"
         }
       ],
       "qualifiers": [],
@@ -773,7 +805,9 @@
           "raw_unit": "𐆄",
           "normalized_unit": "uncia",
           "certainty": "certain",
-          "notes": []
+          "notes": [],
+          "measure_relation": "standalone",
+          "measure_group_id": "paul-7-20-35:ingredients:17:measure:1"
         }
       ],
       "qualifiers": [],
@@ -806,7 +840,9 @@
           "raw_unit": "𐆄",
           "normalized_unit": "uncia",
           "certainty": "certain",
-          "notes": []
+          "notes": [],
+          "measure_group_id": "paul-7-20-35:mg:variant-additions",
+          "measure_relation": "variant_quantity"
         }
       ],
       "qualifiers": [],
@@ -842,7 +878,9 @@
           "raw_unit": "𐆄",
           "normalized_unit": "uncia",
           "certainty": "certain",
-          "notes": []
+          "notes": [],
+          "measure_relation": "standalone",
+          "measure_group_id": "paul-7-20-35:ingredients:19:measure:1"
         }
       ],
       "qualifiers": [],
@@ -875,7 +913,9 @@
           "raw_unit": "𐆄",
           "normalized_unit": "uncia",
           "certainty": "certain",
-          "notes": []
+          "notes": [],
+          "measure_relation": "standalone",
+          "measure_group_id": "paul-7-20-35:ingredients:20:measure:1"
         }
       ],
       "qualifiers": [],
@@ -908,7 +948,9 @@
           "raw_unit": "𐆄",
           "normalized_unit": "uncia",
           "certainty": "certain",
-          "notes": []
+          "notes": [],
+          "measure_relation": "standalone",
+          "measure_group_id": "paul-7-20-35:ingredients:21:measure:1"
         }
       ],
       "qualifiers": [],
@@ -941,7 +983,9 @@
           "raw_unit": "𐆄",
           "normalized_unit": "uncia",
           "certainty": "certain",
-          "notes": []
+          "notes": [],
+          "measure_relation": "standalone",
+          "measure_group_id": "paul-7-20-35:ingredients:22:measure:1"
         }
       ],
       "qualifiers": [],
@@ -974,7 +1018,9 @@
           "raw_unit": "𐆄",
           "normalized_unit": "uncia",
           "certainty": "certain",
-          "notes": []
+          "notes": [],
+          "measure_relation": "standalone",
+          "measure_group_id": "paul-7-20-35:ingredients:23:measure:1"
         }
       ],
       "qualifiers": [],
@@ -1007,7 +1053,9 @@
           "raw_unit": "𐆄",
           "normalized_unit": "uncia",
           "certainty": "certain",
-          "notes": []
+          "notes": [],
+          "measure_relation": "standalone",
+          "measure_group_id": "paul-7-20-35:ingredients:24:measure:1"
         }
       ],
       "qualifiers": [],
@@ -1042,7 +1090,9 @@
           "raw_unit": "𐆄",
           "normalized_unit": "uncia",
           "certainty": "certain",
-          "notes": []
+          "notes": [],
+          "measure_group_id": "paul-7-20-35:mg:variant-additions",
+          "measure_relation": "variant_quantity"
         }
       ],
       "qualifiers": [],
@@ -1175,7 +1225,9 @@
           "raw_unit": "ξ̸",
           "normalized_unit": "xestes",
           "certainty": "certain",
-          "notes": []
+          "notes": [],
+          "measure_relation": "standalone",
+          "measure_group_id": "paul-7-20-35:materials:1:measure:1"
         }
       ],
       "qualifiers": [],
