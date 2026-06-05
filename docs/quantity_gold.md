@@ -39,6 +39,30 @@ The current reviewed record is `dioscorides-1-25-kyphi`.
 - Four non-measure spans are represented as first-class rejection records.
 - Canonical `data/recipes/*.json` is unchanged by projection.
 
+## Coverage Count Note
+
+This repo validates 192 standalone recipe records:
+
+- Dioscorides Book 1 perfumes and resins: 52
+- Dioscorides Book 2 fats: 18
+- Aetius Book 1 oils: 43
+- Aetius Book 16 myrepsika: 44
+- Paul 7.20 perfumes: 35
+
+The mirrored quantity-gold artifacts may report `corpus_recipe_count: 174`.
+That value is copied from the artifact run that built the current reviewed
+overlay before the Book 2 fats slice was present in the local source workflow.
+It is not the current standalone export denominator.
+
+The current `aetius` source recipe-entity index and this standalone mirror both
+now contain 192 recipes, including `dioscorides_book2_fats`. The current LLM/gold
+process has still not run across all 192 recipes; the reviewed gold layer
+contains one accepted recipe record, `dioscorides-1-25-kyphi`.
+
+Until the quantity-gold artifacts are rebuilt and exported from the current
+`aetius` source tree, read `1 / 174` as artifact-run coverage and `192` as the
+current source/export corpus size.
+
 ## Validate
 
 ```bash

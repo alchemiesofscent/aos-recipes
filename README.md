@@ -12,7 +12,10 @@ The primary artifacts are JSON data and documentation. The `site/` folder is a n
 - `data/entities/index.json`: grouped entity occurrence index.
 - `data/sources.json`: source slice metadata.
 - `data/review/quantity_gold/`: mirrored quantity-gold authority artifacts from
-  `/home/seancoughlin/Projects/aetius`.
+  `/home/seancoughlin/Projects/aetius`. If mirrored quantity-gold coverage still
+  reports `corpus_recipe_count: 174`, that is the artifact-run denominator; the
+  current source/export corpus is 192 recipes, including the 18-record
+  `dioscorides_book2_fats` slice.
 - `manifest.json`: export metadata, source commit, included paths, excluded paths, and counts.
 
 ## Sources
