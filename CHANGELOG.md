@@ -2,7 +2,7 @@
 
 ## [Unreleased]
 
-## [1.0.0] — 2026-06-06
+## [1.0.0] — 2026-06-07
 
 Initial public release. v1.0 is the canonical snapshot of 193 Greek pharmaceutical recipes from Dioscorides, Aëtius, and Paul of Aegina, designed for one-at-a-time ingestion into the Claude cowork scholarly revision workflow. See [`docs/release_v1.md`](docs/release_v1.md) for the freeze policy and [`docs/ingestion.md`](docs/ingestion.md) for the contract downstream workflows consume.
 

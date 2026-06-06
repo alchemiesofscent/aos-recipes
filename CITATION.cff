@@ -14,9 +14,9 @@ authors:
     email: coughlin@flu.cas.cz
     affiliation: Institute of Philosophy, Czech Academy of Sciences
 version: 1.0.0
-date-released: "2026-06-06"  # update to actual tag date if it differs
+date-released: "2026-06-07"
 repository-code: "https://github.com/alchemiesofscent/aos-recipes"
-license: CC-BY-4.0  # placeholder — replace if a different license is intended
+license: CC-BY-4.0
 keywords:
   - greek
   - pharmacology
