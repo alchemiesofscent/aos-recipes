@@ -203,12 +203,12 @@
     "entity_model_version": "1.2",
     "authority_version": "2026-04-13-qty-alt-v1",
     "prompt_version": "qty-alt-pass-v1",
-    "build_version": "2026-05-25T18:36:46Z"
+    "build_version": "2026-06-05T15:09:42Z"
   },
   "schema_version": "1.2",
   "build_metadata": {
     "builder": "scripts/recipes/build_recipe_entities.py",
-    "built_at": "2026-05-25T18:36:46Z",
+    "built_at": "2026-06-05T15:09:42Z",
     "source_structured_authority": "reports/entity_review/structured/aetius_book16.json",
     "authority_model": "gpt-5.4",
     "authority_reasoning_effort": "high",
@@ -216,7 +216,7 @@
     "entity_model_version": "1.2",
     "authority_version": "2026-04-13-qty-alt-v1",
     "prompt_version": "qty-alt-pass-v1",
-    "build_version": "2026-05-25T18:36:46Z"
+    "build_version": "2026-06-05T15:09:42Z"
   },
   "recipe_text_excerpt": "Ῥόδων χλωρῶν λιστ. ἤτοι λίτρ. στ. μέλιτος ἀττικοῦ διυλιςμένου διὰ ῥάκους ἀραιοῦ λιγ. γογ. ἤτοι λίτρ. γ καὶ οὐγ. γ.",
   "preparation": {
@@ -258,7 +258,9 @@
           "raw_unit": "λιστ. ἤτοι λίτρ.",
           "normalized_unit": "litra",
           "certainty": "uncertain",
-          "notes": []
+          "notes": [],
+          "measure_group_id": "aetius-16-142:mg:merged-equivalent-23",
+          "measure_relation": "equivalent_notation"
         }
       ],
       "qualifiers": [
@@ -301,7 +303,9 @@
           "raw_unit": "λίτρ.",
           "normalized_unit": "litra",
           "certainty": "certain",
-          "notes": []
+          "notes": [],
+          "measure_group_id": "aetius-16-142:ingredients:2:measure:m1",
+          "measure_relation": "compound_component"
         },
         {
           "source_span": "οὐγ. γ.",
@@ -310,7 +314,9 @@
           "raw_unit": "οὐγ.",
           "normalized_unit": "uncia",
           "certainty": "certain",
-          "notes": []
+          "notes": [],
+          "measure_group_id": "aetius-16-142:ingredients:2:measure:m1",
+          "measure_relation": "compound_component"
         }
       ],
       "qualifiers": [],
@@ -343,7 +349,9 @@
           "raw_unit": "οὐγ.",
           "normalized_unit": "uncia",
           "certainty": "certain",
-          "notes": []
+          "notes": [],
+          "measure_relation": "standalone",
+          "measure_group_id": "aetius-16-142:ingredients:3:measure:1"
         }
       ],
       "qualifiers": [],
@@ -376,7 +384,9 @@
           "raw_unit": "οὐγ.",
           "normalized_unit": "uncia",
           "certainty": "certain",
-          "notes": []
+          "notes": [],
+          "measure_relation": "standalone",
+          "measure_group_id": "aetius-16-142:ingredients:4:measure:1"
         }
       ],
       "qualifiers": [],
@@ -409,7 +419,9 @@
           "raw_unit": "οὐγ.",
           "normalized_unit": "uncia",
           "certainty": "certain",
-          "notes": []
+          "notes": [],
+          "measure_relation": "standalone",
+          "measure_group_id": "aetius-16-142:ingredients:5:measure:1"
         }
       ],
       "qualifiers": [],
@@ -442,7 +454,9 @@
           "raw_unit": "οὐγ.",
           "normalized_unit": "uncia",
           "certainty": "certain",
-          "notes": []
+          "notes": [],
+          "measure_relation": "standalone",
+          "measure_group_id": "aetius-16-142:ingredients:6:measure:1"
         }
       ],
       "qualifiers": [],
@@ -475,7 +489,9 @@
           "raw_unit": "οὐγ.",
           "normalized_unit": "uncia",
           "certainty": "certain",
-          "notes": []
+          "notes": [],
+          "measure_relation": "standalone",
+          "measure_group_id": "aetius-16-142:ingredients:7:measure:1"
         }
       ],
       "qualifiers": [],
@@ -508,7 +524,9 @@
           "raw_unit": "οὐγ.",
           "normalized_unit": "uncia",
           "certainty": "certain",
-          "notes": []
+          "notes": [],
+          "measure_relation": "standalone",
+          "measure_group_id": "aetius-16-142:ingredients:8:measure:1"
         }
       ],
       "qualifiers": [],
@@ -541,7 +559,9 @@
           "raw_unit": "οὐγ.",
           "normalized_unit": "uncia",
           "certainty": "certain",
-          "notes": []
+          "notes": [],
+          "measure_relation": "standalone",
+          "measure_group_id": "aetius-16-142:ingredients:9:measure:1"
         }
       ],
       "qualifiers": [],
@@ -574,7 +594,9 @@
           "raw_unit": "οὐγ.",
           "normalized_unit": "uncia",
           "certainty": "certain",
-          "notes": []
+          "notes": [],
+          "measure_relation": "standalone",
+          "measure_group_id": "aetius-16-142:ingredients:10:measure:1"
         }
       ],
       "qualifiers": [],
@@ -607,7 +629,9 @@
           "raw_unit": "οὐγ.",
           "normalized_unit": "uncia",
           "certainty": "certain",
-          "notes": []
+          "notes": [],
+          "measure_relation": "standalone",
+          "measure_group_id": "aetius-16-142:ingredients:11:measure:1"
         }
       ],
       "qualifiers": [],
@@ -640,7 +664,9 @@
           "raw_unit": "οὐγ.",
           "normalized_unit": "uncia",
           "certainty": "certain",
-          "notes": []
+          "notes": [],
+          "measure_relation": "standalone",
+          "measure_group_id": "aetius-16-142:ingredients:12:measure:1"
         }
       ],
       "qualifiers": [],
@@ -675,7 +701,9 @@
           "certainty": "uncertain",
           "notes": [
             "Count is implied but no explicit unit is stated."
-          ]
+          ],
+          "measure_relation": "standalone",
+          "measure_group_id": "aetius-16-142:ingredients:13:measure:1"
         }
       ],
       "qualifiers": [],
@@ -708,7 +736,9 @@
           "raw_unit": "γράμματα",
           "normalized_unit": "gramma",
           "certainty": "certain",
-          "notes": []
+          "notes": [],
+          "measure_relation": "standalone",
+          "measure_group_id": "aetius-16-142:ingredients:14:measure:1"
         }
       ],
       "qualifiers": [],
@@ -741,7 +771,9 @@
           "raw_unit": "οὐγ.",
           "normalized_unit": "uncia",
           "certainty": "certain",
-          "notes": []
+          "notes": [],
+          "measure_relation": "standalone",
+          "measure_group_id": "aetius-16-142:ingredients:15:measure:1"
         }
       ],
       "qualifiers": [],
@@ -774,7 +806,9 @@
           "raw_unit": "λίτρ.",
           "normalized_unit": "litra",
           "certainty": "certain",
-          "notes": []
+          "notes": [],
+          "measure_relation": "standalone",
+          "measure_group_id": "aetius-16-142:ingredients:16:measure:1"
         }
       ],
       "qualifiers": [],
@@ -807,7 +841,9 @@
           "raw_unit": "οὐγ.",
           "normalized_unit": "uncia",
           "certainty": "certain",
-          "notes": []
+          "notes": [],
+          "measure_group_id": "aetius-16-142:mg:mastic-base-vs-tines",
+          "measure_relation": "variant_quantity"
         }
       ],
       "qualifiers": [],
@@ -842,7 +878,9 @@
           "certainty": "uncertain",
           "notes": [
             "Unit expansion is inferred from parallel glossed quantities elsewhere in the text."
-          ]
+          ],
+          "measure_relation": "standalone",
+          "measure_group_id": "aetius-16-142:ingredients:18:measure:1"
         }
       ],
       "qualifiers": [],
@@ -875,7 +913,9 @@
           "raw_unit": "λίτρ.",
           "normalized_unit": "litra",
           "certainty": "certain",
-          "notes": []
+          "notes": [],
+          "measure_relation": "standalone",
+          "measure_group_id": "aetius-16-142:ingredients:19:measure:1"
         }
       ],
       "qualifiers": [],
@@ -910,7 +950,9 @@
           "raw_unit": "λίτρ.",
           "normalized_unit": "litra",
           "certainty": "certain",
-          "notes": []
+          "notes": [],
+          "measure_group_id": "aetius-16-142:ingredients:20:measure:m1",
+          "measure_relation": "variant_quantity"
         },
         {
           "source_span": "οὐγ. ε.",
@@ -921,7 +963,9 @@
           "certainty": "certain",
           "notes": [
             "Introduced by τινὲς δὲ as a variant quantity."
-          ]
+          ],
+          "measure_group_id": "aetius-16-142:ingredients:20:measure:m1",
+          "measure_relation": "variant_quantity"
         }
       ],
       "qualifiers": [],
@@ -956,7 +1000,9 @@
           "certainty": "uncertain",
           "notes": [
             "Repeated in the later variant sequence; unit expansion is inferred."
-          ]
+          ],
+          "measure_relation": "standalone",
+          "measure_group_id": "aetius-16-142:ingredients:21:measure:1"
         }
       ],
       "qualifiers": [],
@@ -993,7 +1039,9 @@
           "certainty": "uncertain",
           "notes": [
             "Repeated in the later variant sequence; unit expansion is inferred."
-          ]
+          ],
+          "measure_group_id": "aetius-16-142:mg:mastic-base-vs-tines",
+          "measure_relation": "variant_quantity"
         }
       ],
       "qualifiers": [],
@@ -1028,7 +1076,9 @@
           "raw_unit": "γράμματα",
           "normalized_unit": "gramma",
           "certainty": "certain",
-          "notes": []
+          "notes": [],
+          "measure_relation": "standalone",
+          "measure_group_id": "aetius-16-142:ingredients:23:measure:1"
         }
       ],
       "qualifiers": [],

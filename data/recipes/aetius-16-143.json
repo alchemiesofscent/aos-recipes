@@ -99,12 +99,12 @@
     "entity_model_version": "1.2",
     "authority_version": "2026-04-13-qty-alt-v1",
     "prompt_version": "qty-alt-pass-v1",
-    "build_version": "2026-05-25T18:36:46Z"
+    "build_version": "2026-06-05T15:09:42Z"
   },
   "schema_version": "1.2",
   "build_metadata": {
     "builder": "scripts/recipes/build_recipe_entities.py",
-    "built_at": "2026-05-25T18:36:46Z",
+    "built_at": "2026-06-05T15:09:42Z",
     "source_structured_authority": "reports/entity_review/structured/aetius_book16.json",
     "authority_model": "gpt-5.4",
     "authority_reasoning_effort": "high",
@@ -112,7 +112,7 @@
     "entity_model_version": "1.2",
     "authority_version": "2026-04-13-qty-alt-v1",
     "prompt_version": "qty-alt-pass-v1",
-    "build_version": "2026-05-25T18:36:46Z"
+    "build_version": "2026-06-05T15:09:42Z"
   },
   "recipe_text_excerpt": "Στύρακος καλαμίτου λίτρ. α. ἀλόης γοστ. ἄμβαρος γοα. μόσχου γράμματα δ. τινὲς δὲ τοῦτο οὕτω σκευάζουσι· στύρακος καλαμίτου λίτρ. α.",
   "preparation": {
@@ -165,7 +165,9 @@
           "raw_unit": "λίτρ.",
           "normalized_unit": "litra",
           "certainty": "certain",
-          "notes": []
+          "notes": [],
+          "measure_relation": "standalone",
+          "measure_group_id": "aetius-16-143:ingredients:1:measure:1"
         }
       ],
       "qualifiers": [],
@@ -202,7 +204,9 @@
           "certainty": "uncertain",
           "notes": [
             "unit abbreviation unresolved safely"
-          ]
+          ],
+          "measure_group_id": "aetius-16-143:mg:aloe-first-vs-tines",
+          "measure_relation": "variant_quantity"
         }
       ],
       "qualifiers": [],
@@ -239,7 +243,9 @@
           "certainty": "uncertain",
           "notes": [
             "unit abbreviation unresolved safely"
-          ]
+          ],
+          "measure_relation": "standalone",
+          "measure_group_id": "aetius-16-143:ingredients:3:measure:1"
         }
       ],
       "qualifiers": [],
@@ -274,7 +280,9 @@
           "raw_unit": "γράμματα",
           "normalized_unit": "gramma",
           "certainty": "certain",
-          "notes": []
+          "notes": [],
+          "measure_relation": "standalone",
+          "measure_group_id": "aetius-16-143:ingredients:4:measure:1"
         }
       ],
       "qualifiers": [],
@@ -309,7 +317,9 @@
           "raw_unit": "λίτρ.",
           "normalized_unit": "litra",
           "certainty": "certain",
-          "notes": []
+          "notes": [],
+          "measure_relation": "standalone",
+          "measure_group_id": "aetius-16-143:ingredients:5:measure:1"
         }
       ],
       "qualifiers": [],
@@ -346,7 +356,9 @@
           "certainty": "uncertain",
           "notes": [
             "unit abbreviation unresolved safely"
-          ]
+          ],
+          "measure_group_id": "aetius-16-143:mg:aloe-first-vs-tines",
+          "measure_relation": "variant_quantity"
         }
       ],
       "qualifiers": [],
@@ -383,7 +395,9 @@
           "certainty": "uncertain",
           "notes": [
             "unit abbreviation unresolved safely"
-          ]
+          ],
+          "measure_relation": "standalone",
+          "measure_group_id": "aetius-16-143:ingredients:7:measure:1"
         }
       ],
       "qualifiers": [],
@@ -418,7 +432,9 @@
           "raw_unit": "γράμματα",
           "normalized_unit": "gramma",
           "certainty": "certain",
-          "notes": []
+          "notes": [],
+          "measure_relation": "standalone",
+          "measure_group_id": "aetius-16-143:ingredients:8:measure:1"
         }
       ],
       "qualifiers": [],
@@ -458,6 +474,8 @@
           "notes": [
             "sufficient amount"
           ],
+          "measure_relation": "standalone",
+          "measure_group_id": "aetius-16-143:ingredients:9:measure:1",
           "descriptor_family": "as_much_as"
         }
       ],

@@ -101,12 +101,12 @@
     "entity_model_version": "1.2",
     "authority_version": "2026-04-13-qty-alt-v1",
     "prompt_version": "qty-alt-pass-v1",
-    "build_version": "2026-05-25T18:36:46Z"
+    "build_version": "2026-06-05T15:09:42Z"
   },
   "schema_version": "1.2",
   "build_metadata": {
     "builder": "scripts/recipes/build_recipe_entities.py",
-    "built_at": "2026-05-25T18:36:46Z",
+    "built_at": "2026-06-05T15:09:42Z",
     "source_structured_authority": "reports/entity_review/structured/aetius_book16.json",
     "authority_model": "gpt-5.4",
     "authority_reasoning_effort": "high",
@@ -114,7 +114,7 @@
     "entity_model_version": "1.2",
     "authority_version": "2026-04-13-qty-alt-v1",
     "prompt_version": "qty-alt-pass-v1",
-    "build_version": "2026-05-25T18:36:46Z"
+    "build_version": "2026-06-05T15:09:42Z"
   },
   "recipe_text_excerpt": "Φύλλων κασίας, κρόκου, στύρακος, ἀρναβῶ, ἀμώμου, ναρδοστάχυος ἀνὰ γοαζʹ. καρυοφύλλων δραχ. δ. μόσχου γράμματα γ. ὀποβαλσάμου γοα· ἐλαίου ἰνδικοῦ ἢ",
   "preparation": {
@@ -154,13 +154,16 @@
         {
           "source_span": "γοαζʹ",
           "raw_number": "αζʹ",
-          "normalized_number": 8,
+          "normalized_number": 1.5,
           "raw_unit": "γο",
           "normalized_unit": "uncia",
           "certainty": "uncertain",
           "notes": [
-            "Unit abbreviation γο unresolved."
-          ]
+            "Unit abbreviation γο unresolved.",
+            "Corrected by normalize_quantities.py (rule γο+numeral): raw_number 'αζʹ'→'αζʹ', normalized_number 8→1.5."
+          ],
+          "measure_relation": "standalone",
+          "measure_group_id": "aetius-16-126-2:ingredients:1:measure:1"
         }
       ],
       "qualifiers": [],
@@ -189,13 +192,16 @@
         {
           "source_span": "γοαζʹ",
           "raw_number": "αζʹ",
-          "normalized_number": 8,
+          "normalized_number": 1.5,
           "raw_unit": "γο",
           "normalized_unit": "uncia",
           "certainty": "uncertain",
           "notes": [
-            "Unit abbreviation γο unresolved."
-          ]
+            "Unit abbreviation γο unresolved.",
+            "Corrected by normalize_quantities.py (rule γο+numeral): raw_number 'αζʹ'→'αζʹ', normalized_number 8→1.5."
+          ],
+          "measure_relation": "standalone",
+          "measure_group_id": "aetius-16-126-2:ingredients:2:measure:1"
         }
       ],
       "qualifiers": [],
@@ -224,13 +230,16 @@
         {
           "source_span": "γοαζʹ",
           "raw_number": "αζʹ",
-          "normalized_number": 8,
+          "normalized_number": 1.5,
           "raw_unit": "γο",
           "normalized_unit": "uncia",
           "certainty": "uncertain",
           "notes": [
-            "Unit abbreviation γο unresolved."
-          ]
+            "Unit abbreviation γο unresolved.",
+            "Corrected by normalize_quantities.py (rule γο+numeral): raw_number 'αζʹ'→'αζʹ', normalized_number 8→1.5."
+          ],
+          "measure_relation": "standalone",
+          "measure_group_id": "aetius-16-126-2:ingredients:3:measure:1"
         }
       ],
       "qualifiers": [],
@@ -259,13 +268,16 @@
         {
           "source_span": "γοαζʹ",
           "raw_number": "αζʹ",
-          "normalized_number": 8,
+          "normalized_number": 1.5,
           "raw_unit": "γο",
           "normalized_unit": "uncia",
           "certainty": "uncertain",
           "notes": [
-            "Unit abbreviation γο unresolved."
-          ]
+            "Unit abbreviation γο unresolved.",
+            "Corrected by normalize_quantities.py (rule γο+numeral): raw_number 'αζʹ'→'αζʹ', normalized_number 8→1.5."
+          ],
+          "measure_relation": "standalone",
+          "measure_group_id": "aetius-16-126-2:ingredients:4:measure:1"
         }
       ],
       "qualifiers": [],
@@ -296,13 +308,16 @@
         {
           "source_span": "γοαζʹ",
           "raw_number": "αζʹ",
-          "normalized_number": 8,
+          "normalized_number": 1.5,
           "raw_unit": "γο",
           "normalized_unit": "uncia",
           "certainty": "uncertain",
           "notes": [
-            "Unit abbreviation γο unresolved."
-          ]
+            "Unit abbreviation γο unresolved.",
+            "Corrected by normalize_quantities.py (rule γο+numeral): raw_number 'αζʹ'→'αζʹ', normalized_number 8→1.5."
+          ],
+          "measure_relation": "standalone",
+          "measure_group_id": "aetius-16-126-2:ingredients:5:measure:1"
         }
       ],
       "qualifiers": [],
@@ -331,13 +346,16 @@
         {
           "source_span": "γοαζʹ",
           "raw_number": "αζʹ",
-          "normalized_number": 8,
+          "normalized_number": 1.5,
           "raw_unit": "γο",
           "normalized_unit": "uncia",
           "certainty": "uncertain",
           "notes": [
-            "Unit abbreviation γο unresolved."
-          ]
+            "Unit abbreviation γο unresolved.",
+            "Corrected by normalize_quantities.py (rule γο+numeral): raw_number 'αζʹ'→'αζʹ', normalized_number 8→1.5."
+          ],
+          "measure_relation": "standalone",
+          "measure_group_id": "aetius-16-126-2:ingredients:6:measure:1"
         }
       ],
       "qualifiers": [],
@@ -370,7 +388,9 @@
           "raw_unit": "δραχ.",
           "normalized_unit": "drachme",
           "certainty": "certain",
-          "notes": []
+          "notes": [],
+          "measure_relation": "standalone",
+          "measure_group_id": "aetius-16-126-2:ingredients:7:measure:1"
         }
       ],
       "qualifiers": [],
@@ -403,7 +423,9 @@
           "raw_unit": "γράμματα",
           "normalized_unit": "gramma",
           "certainty": "certain",
-          "notes": []
+          "notes": [],
+          "measure_relation": "standalone",
+          "measure_group_id": "aetius-16-126-2:ingredients:8:measure:1"
         }
       ],
       "qualifiers": [],
@@ -438,7 +460,9 @@
           "certainty": "uncertain",
           "notes": [
             "Unit abbreviation γο unresolved."
-          ]
+          ],
+          "measure_relation": "standalone",
+          "measure_group_id": "aetius-16-126-2:ingredients:9:measure:1"
         }
       ],
       "qualifiers": [],
@@ -473,7 +497,9 @@
           "certainty": "uncertain",
           "notes": [
             "Unit abbreviation γο unresolved."
-          ]
+          ],
+          "measure_relation": "standalone",
+          "measure_group_id": "aetius-16-126-2:ingredients:10:measure:1"
         }
       ],
       "qualifiers": [],
@@ -508,7 +534,9 @@
           "certainty": "uncertain",
           "notes": [
             "Unit abbreviation γο unresolved."
-          ]
+          ],
+          "measure_relation": "standalone",
+          "measure_group_id": "aetius-16-126-2:ingredients:11:measure:1"
         }
       ],
       "qualifiers": [],
@@ -545,7 +573,9 @@
           "certainty": "uncertain",
           "notes": [
             "Unit abbreviation γο unresolved."
-          ]
+          ],
+          "measure_group_id": "aetius-16-126-2:mg:dry-vs-fresh-roses",
+          "measure_relation": "variant_quantity"
         }
       ],
       "qualifiers": [],
@@ -580,7 +610,9 @@
           "certainty": "uncertain",
           "notes": [
             "Unit abbreviation γο unresolved."
-          ]
+          ],
+          "measure_group_id": "aetius-16-126-2:mg:dry-vs-fresh-roses",
+          "measure_relation": "variant_quantity"
         }
       ],
       "qualifiers": [],

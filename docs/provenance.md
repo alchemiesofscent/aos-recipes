@@ -1,6 +1,6 @@
 # Provenance
 
-Exported from `/home/seancoughlin/Projects/aetius` at source commit `1c7af95c2724f55254403e7d1f12c43b48882dc3`.
+Exported from `/home/seanm/github/aetius` at source commit `4fde3ddef7203eccf1f13f9e9a9c60ca002b1651`.
 
 Included canonical experiment slices:
 
@@ -27,6 +27,5 @@ Excluded folders and generated noise:
 Exact source JSON, QC reports, selected planning docs, structured authority files, and derived recipe-entity JSON are copied under `provenance/source/`.
 The metrology TSV used by the recipe builder is copied under `provenance/source/docs/weights-and-measures.tsv`.
 Quantity-gold artifacts under `data/review/quantity_gold/` are exported from
-`/home/seancoughlin/Projects/aetius/data/review/quantity_gold/`; their JSON
-metadata records the source repo, source commit, derived repo, archive path, and
-run id.
+`/home/seanm/github/aetius/data/review/quantity_gold/`; their JSON metadata
+records the source repo, source commit, derived repo, archive path, and run id.

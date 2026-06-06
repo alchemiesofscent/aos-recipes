@@ -156,12 +156,12 @@
     "entity_model_version": "1.2",
     "authority_version": "2026-04-13-qty-alt-v1",
     "prompt_version": "qty-alt-pass-v1",
-    "build_version": "2026-05-25T18:36:46Z"
+    "build_version": "2026-06-05T15:09:42Z"
   },
   "schema_version": "1.2",
   "build_metadata": {
     "builder": "scripts/recipes/build_recipe_entities.py",
-    "built_at": "2026-05-25T18:36:46Z",
+    "built_at": "2026-06-05T15:09:42Z",
     "source_structured_authority": "reports/entity_review/structured/paul.json",
     "authority_model": "gpt-5.4",
     "authority_reasoning_effort": "high",
@@ -169,7 +169,7 @@
     "entity_model_version": "1.2",
     "authority_version": "2026-04-13-qty-alt-v1",
     "prompt_version": "qty-alt-pass-v1",
-    "build_version": "2026-05-25T18:36:46Z"
+    "build_version": "2026-06-05T15:09:42Z"
   },
   "recipe_text_excerpt": "Αἰγύπτιοι τοῦτο τὸ ἔλαιον ἐξευρηκότες μετώπιον αὐτὸ προσηγόρευσαν, ὅτι χαλβάνην λαμβάνει, τὸ δὲ φυτόν, ἐξ οὗ γίνεται ἡ χαλβάνη, μετώπιον",
   "preparation": {
@@ -219,7 +219,9 @@
           "certainty": "uncertain",
           "notes": [
             "Abbreviated unit ξ̸ not expanded."
-          ]
+          ],
+          "measure_relation": "standalone",
+          "measure_group_id": "paul-7-20-16:ingredients:1:measure:1"
         }
       ],
       "qualifiers": [],
@@ -252,10 +254,12 @@
           "source_span": "λι. β",
           "raw_number": "β",
           "normalized_number": 2,
-          "raw_unit": "λι",
+          "raw_unit": "λι.",
           "normalized_unit": "litra",
           "certainty": "certain",
-          "notes": []
+          "notes": [],
+          "measure_relation": "standalone",
+          "measure_group_id": "paul-7-20-16:ingredients:2:measure:1"
         }
       ],
       "qualifiers": [],
@@ -288,10 +292,12 @@
           "source_span": "λι. α",
           "raw_number": "α",
           "normalized_number": 1,
-          "raw_unit": "λι",
+          "raw_unit": "λι.",
           "normalized_unit": "litra",
           "certainty": "certain",
-          "notes": []
+          "notes": [],
+          "measure_relation": "standalone",
+          "measure_group_id": "paul-7-20-16:ingredients:3:measure:1"
         }
       ],
       "qualifiers": [],
@@ -324,12 +330,14 @@
           "source_span": "λι. α",
           "raw_number": "α",
           "normalized_number": 1,
-          "raw_unit": "λι",
+          "raw_unit": "λι.",
           "normalized_unit": "litra",
           "certainty": "certain",
           "notes": [
             "Governed by distributive ἀνὰ."
-          ]
+          ],
+          "measure_relation": "standalone",
+          "measure_group_id": "paul-7-20-16:ingredients:4:measure:1"
         }
       ],
       "qualifiers": [],
@@ -362,12 +370,14 @@
           "source_span": "λι. α",
           "raw_number": "α",
           "normalized_number": 1,
-          "raw_unit": "λι",
+          "raw_unit": "λι.",
           "normalized_unit": "litra",
           "certainty": "certain",
           "notes": [
             "Governed by distributive ἀνὰ."
-          ]
+          ],
+          "measure_relation": "standalone",
+          "measure_group_id": "paul-7-20-16:ingredients:5:measure:1"
         }
       ],
       "qualifiers": [],
@@ -400,12 +410,14 @@
           "source_span": "λι. α",
           "raw_number": "α",
           "normalized_number": 1,
-          "raw_unit": "λι",
+          "raw_unit": "λι.",
           "normalized_unit": "litra",
           "certainty": "certain",
           "notes": [
             "Governed by distributive ἀνὰ."
-          ]
+          ],
+          "measure_relation": "standalone",
+          "measure_group_id": "paul-7-20-16:ingredients:6:measure:1"
         }
       ],
       "qualifiers": [],
@@ -444,7 +456,9 @@
           "notes": [
             "Governed by distributive ἀνὰ.",
             "Unit sign 𐆄 not expanded."
-          ]
+          ],
+          "measure_relation": "standalone",
+          "measure_group_id": "paul-7-20-16:ingredients:7:measure:1"
         }
       ],
       "qualifiers": [],
@@ -486,7 +500,9 @@
           "notes": [
             "Governed by distributive ἀνὰ.",
             "Unit sign 𐆄 not expanded."
-          ]
+          ],
+          "measure_relation": "standalone",
+          "measure_group_id": "paul-7-20-16:ingredients:8:measure:1"
         }
       ],
       "qualifiers": [],
@@ -518,10 +534,12 @@
           "source_span": "λι. β",
           "raw_number": "β",
           "normalized_number": 2,
-          "raw_unit": "λι",
+          "raw_unit": "λι.",
           "normalized_unit": "litra",
           "certainty": "certain",
-          "notes": []
+          "notes": [],
+          "measure_relation": "standalone",
+          "measure_group_id": "paul-7-20-16:ingredients:9:measure:1"
         }
       ],
       "qualifiers": [],
@@ -592,7 +610,9 @@
           "certainty": "uncertain",
           "notes": [
             "Abbreviated unit ξ̸ not expanded."
-          ]
+          ],
+          "measure_relation": "standalone",
+          "measure_group_id": "paul-7-20-16:ingredients:11:measure:1"
         }
       ],
       "qualifiers": [
@@ -634,10 +654,12 @@
           "source_span": "λι. γ",
           "raw_number": "γ",
           "normalized_number": 3,
-          "raw_unit": "λι",
+          "raw_unit": "λι.",
           "normalized_unit": "litra",
           "certainty": "certain",
-          "notes": []
+          "notes": [],
+          "measure_relation": "standalone",
+          "measure_group_id": "paul-7-20-16:ingredients:12:measure:1"
         }
       ],
       "qualifiers": [],

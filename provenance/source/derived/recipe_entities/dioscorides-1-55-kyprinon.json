@@ -114,12 +114,12 @@
     "entity_model_version": "1.2",
     "authority_version": "2026-04-13-qty-alt-v1",
     "prompt_version": "qty-alt-pass-v1",
-    "build_version": "2026-05-25T18:36:46Z"
+    "build_version": "2026-06-05T15:09:42Z"
   },
   "schema_version": "1.2",
   "build_metadata": {
     "builder": "scripts/recipes/build_recipe_entities.py",
-    "built_at": "2026-05-25T18:36:46Z",
+    "built_at": "2026-06-05T15:09:42Z",
     "source_structured_authority": "reports/entity_review/structured/dioscorides.json",
     "authority_model": "gpt-5.4",
     "authority_reasoning_effort": "high",
@@ -127,7 +127,7 @@
     "entity_model_version": "1.2",
     "authority_version": "2026-04-13-qty-alt-v1",
     "prompt_version": "qty-alt-pass-v1",
-    "build_version": "2026-05-25T18:36:46Z"
+    "build_version": "2026-06-05T15:09:42Z"
   },
   "recipe_text_excerpt": "κυπρίνου στύψις καὶ σκευασία· ἐλαίου ὀμφακίνου πεπλυμένου πλυμένου μέρος ἕν, ὕδατος ὀμβρίου μέρος ἓν ἥμισυ, τὸ μὲν ἐπίχει τῷ ἐλαίῳ",
   "preparation": {
@@ -202,6 +202,8 @@
           "normalized_unit": "descriptor",
           "certainty": "certain",
           "notes": [],
+          "measure_relation": "standalone",
+          "measure_group_id": "dioscorides-1-55-kyprinon:ingredients:1:measure:1",
           "descriptor_family": "part"
         }
       ],
@@ -238,6 +240,8 @@
           "normalized_unit": "descriptor",
           "certainty": "certain",
           "notes": [],
+          "measure_relation": "standalone",
+          "measure_group_id": "dioscorides-1-55-kyprinon:ingredients:2:measure:1",
           "descriptor_family": "fraction:half"
         }
       ],
@@ -271,7 +275,9 @@
           "raw_unit": "λίτρας",
           "normalized_unit": "litra",
           "certainty": "certain",
-          "notes": []
+          "notes": [],
+          "measure_relation": "standalone",
+          "measure_group_id": "dioscorides-1-55-kyprinon:ingredients:3:measure:1"
         }
       ],
       "qualifiers": [],
@@ -304,7 +310,9 @@
           "raw_unit": "λίτρας",
           "normalized_unit": "litra",
           "certainty": "certain",
-          "notes": []
+          "notes": [],
+          "measure_relation": "standalone",
+          "measure_group_id": "dioscorides-1-55-kyprinon:ingredients:4:measure:1"
         }
       ],
       "qualifiers": [],
@@ -337,7 +345,9 @@
           "raw_unit": "λίτραν",
           "normalized_unit": "litra",
           "certainty": "certain",
-          "notes": []
+          "notes": [],
+          "measure_relation": "standalone",
+          "measure_group_id": "dioscorides-1-55-kyprinon:ingredients:5:measure:1"
         }
       ],
       "qualifiers": [],
@@ -370,7 +380,9 @@
           "raw_unit": "λίτρας",
           "normalized_unit": "litra",
           "certainty": "certain",
-          "notes": []
+          "notes": [],
+          "measure_group_id": "dioscorides-1-55-kyprinon:ingredients:6:measure:m1",
+          "measure_relation": "compound_component"
         },
         {
           "source_span": "οὐγγίας ἐννέα",
@@ -379,7 +391,9 @@
           "raw_unit": "οὐγγίας",
           "normalized_unit": "uncia",
           "certainty": "certain",
-          "notes": []
+          "notes": [],
+          "measure_group_id": "dioscorides-1-55-kyprinon:ingredients:6:measure:m1",
+          "measure_relation": "compound_component"
         }
       ],
       "qualifiers": [],
@@ -412,7 +426,9 @@
           "raw_unit": "λίτρας",
           "normalized_unit": "litra",
           "certainty": "certain",
-          "notes": []
+          "notes": [],
+          "measure_group_id": "dioscorides-1-55-kyprinon:ingredients:7:measure:m1",
+          "measure_relation": "compound_component"
         },
         {
           "source_span": "οὐγγίας πέντε",
@@ -421,7 +437,9 @@
           "raw_unit": "οὐγγίας",
           "normalized_unit": "uncia",
           "certainty": "certain",
-          "notes": []
+          "notes": [],
+          "measure_group_id": "dioscorides-1-55-kyprinon:ingredients:7:measure:m1",
+          "measure_relation": "compound_component"
         }
       ],
       "qualifiers": [],
@@ -477,7 +495,9 @@
           "raw_unit": "λίτρας",
           "normalized_unit": "litra",
           "certainty": "certain",
-          "notes": []
+          "notes": [],
+          "measure_group_id": "dioscorides-1-55-kyprinon:ingredients:9:measure:m1",
+          "measure_relation": "compound_component"
         },
         {
           "source_span": "οὐγγίας ὀκτώ",
@@ -486,7 +506,9 @@
           "raw_unit": "οὐγγίας",
           "normalized_unit": "uncia",
           "certainty": "certain",
-          "notes": []
+          "notes": [],
+          "measure_group_id": "dioscorides-1-55-kyprinon:ingredients:9:measure:m1",
+          "measure_relation": "compound_component"
         }
       ],
       "qualifiers": [],
@@ -522,6 +544,8 @@
           "notes": [
             "The equal amount is relative to the immediately preceding quantity of ἄνθους κύπρου."
           ],
+          "measure_group_id": "dioscorides-1-55-kyprinon:ingredients:10:measure:equivalent_notation",
+          "measure_relation": "equivalent_notation",
           "descriptor_family": "same_as"
         }
       ],
@@ -1187,7 +1211,9 @@
           "certainty": "certain",
           "notes": [
             "This is the amount of oil into which the flowers are put."
-          ]
+          ],
+          "measure_relation": "standalone",
+          "measure_group_id": "dioscorides-1-55-kyprinon:processes:21:measure:1"
         }
       ],
       "qualifiers": [

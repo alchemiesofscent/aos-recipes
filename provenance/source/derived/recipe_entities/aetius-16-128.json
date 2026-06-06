@@ -108,12 +108,12 @@
     "entity_model_version": "1.2",
     "authority_version": "2026-04-13-qty-alt-v1",
     "prompt_version": "qty-alt-pass-v1",
-    "build_version": "2026-05-25T18:36:46Z"
+    "build_version": "2026-06-05T15:09:42Z"
   },
   "schema_version": "1.2",
   "build_metadata": {
     "builder": "scripts/recipes/build_recipe_entities.py",
-    "built_at": "2026-05-25T18:36:46Z",
+    "built_at": "2026-06-05T15:09:42Z",
     "source_structured_authority": "reports/entity_review/structured/aetius_book16.json",
     "authority_model": "gpt-5.4",
     "authority_reasoning_effort": "high",
@@ -121,7 +121,7 @@
     "entity_model_version": "1.2",
     "authority_version": "2026-04-13-qty-alt-v1",
     "prompt_version": "qty-alt-pass-v1",
-    "build_version": "2026-05-25T18:36:46Z"
+    "build_version": "2026-06-05T15:09:42Z"
   },
   "recipe_text_excerpt": "Γῆς σαμίας λίτ. α. στύρακος, φύλλου, ὀποβαλσάμου, ἀνὰ γοβ. τὸν στύρακα λείου μετὰ τοῦ ὀποβαλσάμου, τὸ δὲ φύλλον κόψας καὶ",
   "preparation": {
@@ -165,7 +165,9 @@
           "raw_unit": "λίτ.",
           "normalized_unit": "litra",
           "certainty": "certain",
-          "notes": []
+          "notes": [],
+          "measure_relation": "standalone",
+          "measure_group_id": "aetius-16-128:ingredients:1:measure:1"
         }
       ],
       "qualifiers": [],
@@ -203,7 +205,9 @@
           "certainty": "uncertain",
           "notes": [
             "Unit abbreviation unresolved."
-          ]
+          ],
+          "measure_relation": "standalone",
+          "measure_group_id": "aetius-16-128:ingredients:2:measure:1"
         }
       ],
       "qualifiers": [],
@@ -242,7 +246,9 @@
           "certainty": "uncertain",
           "notes": [
             "Unit abbreviation unresolved."
-          ]
+          ],
+          "measure_relation": "standalone",
+          "measure_group_id": "aetius-16-128:ingredients:3:measure:1"
         }
       ],
       "qualifiers": [],
@@ -280,7 +286,9 @@
           "certainty": "uncertain",
           "notes": [
             "Unit abbreviation unresolved."
-          ]
+          ],
+          "measure_relation": "standalone",
+          "measure_group_id": "aetius-16-128:ingredients:4:measure:1"
         }
       ],
       "qualifiers": [],
@@ -318,6 +326,8 @@
           "notes": [
             "Sufficient quantity."
           ],
+          "measure_relation": "standalone",
+          "measure_group_id": "aetius-16-128:ingredients:5:measure:1",
           "descriptor_family": "as_much_as"
         }
       ],

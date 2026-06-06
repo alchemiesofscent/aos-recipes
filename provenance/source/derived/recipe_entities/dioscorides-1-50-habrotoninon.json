@@ -93,12 +93,12 @@
     "entity_model_version": "1.2",
     "authority_version": "2026-04-13-qty-alt-v1",
     "prompt_version": "qty-alt-pass-v1",
-    "build_version": "2026-05-25T18:36:46Z"
+    "build_version": "2026-06-05T15:09:42Z"
   },
   "schema_version": "1.2",
   "build_metadata": {
     "builder": "scripts/recipes/build_recipe_entities.py",
-    "built_at": "2026-05-25T18:36:46Z",
+    "built_at": "2026-06-05T15:09:42Z",
     "source_structured_authority": "reports/entity_review/structured/dioscorides.json",
     "authority_model": "gpt-5.4",
     "authority_reasoning_effort": "high",
@@ -106,7 +106,7 @@
     "entity_model_version": "1.2",
     "authority_version": "2026-04-13-qty-alt-v1",
     "prompt_version": "qty-alt-pass-v1",
-    "build_version": "2026-05-25T18:36:46Z"
+    "build_version": "2026-06-05T15:09:42Z"
   },
   "recipe_text_excerpt": "ἁβροτονίνου σκευασία· ἐκ τοῦ εἰς τὸ κύπρινον ἠρωματισμένου ἐλαίου λίτρας ἐννέα οὐγγίας πέντε ἁβροτόνου φύλλων λίτρας ὀκτὼ ἔμβαλε καὶ ἀποβρέξας",
   "preparation": {
@@ -162,7 +162,9 @@
           "raw_unit": "λίτρας",
           "normalized_unit": "litra",
           "certainty": "certain",
-          "notes": []
+          "notes": [],
+          "measure_group_id": "dioscorides-1-50-habrotoninon:ingredients:1:measure:m1",
+          "measure_relation": "compound_component"
         },
         {
           "source_span": "οὐγγίας πέντε",
@@ -171,7 +173,9 @@
           "raw_unit": "οὐγγίας",
           "normalized_unit": "uncia",
           "certainty": "certain",
-          "notes": []
+          "notes": [],
+          "measure_group_id": "dioscorides-1-50-habrotoninon:ingredients:1:measure:m1",
+          "measure_relation": "compound_component"
         }
       ],
       "qualifiers": [],
@@ -204,7 +208,9 @@
           "raw_unit": "λίτρας",
           "normalized_unit": "litra",
           "certainty": "certain",
-          "notes": []
+          "notes": [],
+          "measure_relation": "standalone",
+          "measure_group_id": "dioscorides-1-50-habrotoninon:ingredients:2:measure:1"
         }
       ],
       "qualifiers": [],

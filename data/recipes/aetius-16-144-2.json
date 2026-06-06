@@ -102,12 +102,12 @@
     "entity_model_version": "1.2",
     "authority_version": "2026-04-13-qty-alt-v1",
     "prompt_version": "qty-alt-pass-v1",
-    "build_version": "2026-05-25T18:36:46Z"
+    "build_version": "2026-06-05T15:09:42Z"
   },
   "schema_version": "1.2",
   "build_metadata": {
     "builder": "scripts/recipes/build_recipe_entities.py",
-    "built_at": "2026-05-25T18:36:46Z",
+    "built_at": "2026-06-05T15:09:42Z",
     "source_structured_authority": "reports/entity_review/structured/aetius_book16.json",
     "authority_model": "gpt-5.4",
     "authority_reasoning_effort": "high",
@@ -115,7 +115,7 @@
     "entity_model_version": "1.2",
     "authority_version": "2026-04-13-qty-alt-v1",
     "prompt_version": "qty-alt-pass-v1",
-    "build_version": "2026-05-25T18:36:46Z"
+    "build_version": "2026-06-05T15:09:42Z"
   },
   "recipe_text_excerpt": "Φύλλου, κόστου, βρύου ἤτοι ὕπνου, ῥόδων ξηρῶν, ναρδοστάχυος, ἀνὰ γοα. κρόκου, ὀνύχων, καρυοφύλλου, ἀμώμου, κασίας ἀνὰ γράμματα ιβ. καρποβαλσάμου, βδελλίου",
   "preparation": {
@@ -161,7 +161,9 @@
           "certainty": "uncertain",
           "notes": [
             "Abbreviated measure unresolved from the source alone."
-          ]
+          ],
+          "measure_relation": "standalone",
+          "measure_group_id": "aetius-16-144-2:ingredients:1:measure:1"
         }
       ],
       "qualifiers": [],
@@ -196,7 +198,9 @@
           "certainty": "uncertain",
           "notes": [
             "Abbreviated measure unresolved from the source alone."
-          ]
+          ],
+          "measure_relation": "standalone",
+          "measure_group_id": "aetius-16-144-2:ingredients:2:measure:1"
         }
       ],
       "qualifiers": [],
@@ -231,7 +235,9 @@
           "certainty": "uncertain",
           "notes": [
             "Abbreviated measure unresolved from the source alone."
-          ]
+          ],
+          "measure_relation": "standalone",
+          "measure_group_id": "aetius-16-144-2:ingredients:3:measure:1"
         }
       ],
       "qualifiers": [],
@@ -268,7 +274,9 @@
           "certainty": "uncertain",
           "notes": [
             "Abbreviated measure unresolved from the source alone."
-          ]
+          ],
+          "measure_relation": "standalone",
+          "measure_group_id": "aetius-16-144-2:ingredients:4:measure:1"
         }
       ],
       "qualifiers": [],
@@ -305,7 +313,9 @@
           "certainty": "uncertain",
           "notes": [
             "Abbreviated measure unresolved from the source alone."
-          ]
+          ],
+          "measure_relation": "standalone",
+          "measure_group_id": "aetius-16-144-2:ingredients:5:measure:1"
         }
       ],
       "qualifiers": [],
@@ -340,7 +350,9 @@
           "certainty": "uncertain",
           "notes": [
             "Abbreviated measure unresolved from the source alone."
-          ]
+          ],
+          "measure_relation": "standalone",
+          "measure_group_id": "aetius-16-144-2:ingredients:6:measure:1"
         }
       ],
       "qualifiers": [],
@@ -373,7 +385,9 @@
           "raw_unit": "γράμματα",
           "normalized_unit": "gramma",
           "certainty": "certain",
-          "notes": []
+          "notes": [],
+          "measure_relation": "standalone",
+          "measure_group_id": "aetius-16-144-2:ingredients:7:measure:1"
         }
       ],
       "qualifiers": [],
@@ -406,7 +420,9 @@
           "raw_unit": "γράμματα",
           "normalized_unit": "gramma",
           "certainty": "certain",
-          "notes": []
+          "notes": [],
+          "measure_relation": "standalone",
+          "measure_group_id": "aetius-16-144-2:ingredients:8:measure:1"
         }
       ],
       "qualifiers": [],
@@ -439,7 +455,9 @@
           "raw_unit": "γράμματα",
           "normalized_unit": "gramma",
           "certainty": "certain",
-          "notes": []
+          "notes": [],
+          "measure_relation": "standalone",
+          "measure_group_id": "aetius-16-144-2:ingredients:9:measure:1"
         }
       ],
       "qualifiers": [],
@@ -472,7 +490,9 @@
           "raw_unit": "γράμματα",
           "normalized_unit": "gramma",
           "certainty": "certain",
-          "notes": []
+          "notes": [],
+          "measure_relation": "standalone",
+          "measure_group_id": "aetius-16-144-2:ingredients:10:measure:1"
         }
       ],
       "qualifiers": [],
@@ -505,7 +525,9 @@
           "raw_unit": "γράμματα",
           "normalized_unit": "gramma",
           "certainty": "certain",
-          "notes": []
+          "notes": [],
+          "measure_relation": "standalone",
+          "measure_group_id": "aetius-16-144-2:ingredients:11:measure:1"
         }
       ],
       "qualifiers": [],
@@ -540,7 +562,9 @@
           "certainty": "uncertain",
           "notes": [
             "Quantity resolved anaphorically from the preceding 'γράμματα ιβ.'."
-          ]
+          ],
+          "measure_relation": "standalone",
+          "measure_group_id": "aetius-16-144-2:ingredients:12:measure:1"
         }
       ],
       "qualifiers": [],
@@ -575,7 +599,9 @@
           "certainty": "uncertain",
           "notes": [
             "Quantity resolved anaphorically from the preceding 'γράμματα ιβ.'."
-          ]
+          ],
+          "measure_relation": "standalone",
+          "measure_group_id": "aetius-16-144-2:ingredients:13:measure:1"
         }
       ],
       "qualifiers": [],
@@ -608,7 +634,9 @@
           "raw_unit": "γράμματα",
           "normalized_unit": "gramma",
           "certainty": "certain",
-          "notes": []
+          "notes": [],
+          "measure_relation": "standalone",
+          "measure_group_id": "aetius-16-144-2:ingredients:14:measure:1"
         }
       ],
       "qualifiers": [],
@@ -641,7 +669,9 @@
           "raw_unit": "γράμματα",
           "normalized_unit": "gramma",
           "certainty": "certain",
-          "notes": []
+          "notes": [],
+          "measure_relation": "standalone",
+          "measure_group_id": "aetius-16-144-2:ingredients:15:measure:1"
         }
       ],
       "qualifiers": [],
@@ -677,6 +707,8 @@
           "notes": [
             "Indefinite sufficiency quantity."
           ],
+          "measure_relation": "standalone",
+          "measure_group_id": "aetius-16-144-2:ingredients:16:measure:1",
           "descriptor_family": "as_much_as"
         }
       ],

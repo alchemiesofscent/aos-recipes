@@ -123,12 +123,12 @@
     "entity_model_version": "1.2",
     "authority_version": "2026-04-13-qty-alt-v1",
     "prompt_version": "qty-alt-pass-v1",
-    "build_version": "2026-05-25T18:36:46Z"
+    "build_version": "2026-06-05T15:09:42Z"
   },
   "schema_version": "1.2",
   "build_metadata": {
     "builder": "scripts/recipes/build_recipe_entities.py",
-    "built_at": "2026-05-25T18:36:46Z",
+    "built_at": "2026-06-05T15:09:42Z",
     "source_structured_authority": "reports/entity_review/structured/aetius_book16.json",
     "authority_model": "gpt-5.4",
     "authority_reasoning_effort": "high",
@@ -136,7 +136,7 @@
     "entity_model_version": "1.2",
     "authority_version": "2026-04-13-qty-alt-v1",
     "prompt_version": "qty-alt-pass-v1",
-    "build_version": "2026-05-25T18:36:46Z"
+    "build_version": "2026-06-05T15:09:42Z"
   },
   "recipe_text_excerpt": "Φύλλου, καρυοφύλλου, ὕπνου, λαδάνου λιπαροῦ ἀνὰ γοβζʹ. καλάμου ἰνδικοῦ, ναρδοστάχυος, ὀνύχων μεγάλων, βδελλίου, καρποβαλσάμου, κρόκου, κασίας, ἀνὰ γογ. ἀμώμου, μαστίχης",
   "preparation": {
@@ -174,13 +174,16 @@
         {
           "source_span": "γοβζʹ",
           "raw_number": "βζʹ",
-          "normalized_number": 27,
+          "normalized_number": 2.5,
           "raw_unit": "γο",
           "normalized_unit": "uncia",
           "certainty": "uncertain",
           "notes": [
-            "Greek unit siglum γο is preserved without secure expansion."
-          ]
+            "Greek unit siglum γο is preserved without secure expansion.",
+            "Corrected by normalize_quantities.py (rule γο+numeral): raw_number 'βζʹ'→'βζʹ', normalized_number 27→2.5."
+          ],
+          "measure_relation": "standalone",
+          "measure_group_id": "aetius-16-151:ingredients:1:measure:1"
         }
       ],
       "qualifiers": [],
@@ -209,13 +212,16 @@
         {
           "source_span": "γοβζʹ",
           "raw_number": "βζʹ",
-          "normalized_number": 27,
+          "normalized_number": 2.5,
           "raw_unit": "γο",
           "normalized_unit": "uncia",
           "certainty": "uncertain",
           "notes": [
-            "Greek unit siglum γο is preserved without secure expansion."
-          ]
+            "Greek unit siglum γο is preserved without secure expansion.",
+            "Corrected by normalize_quantities.py (rule γο+numeral): raw_number 'βζʹ'→'βζʹ', normalized_number 27→2.5."
+          ],
+          "measure_relation": "standalone",
+          "measure_group_id": "aetius-16-151:ingredients:2:measure:1"
         }
       ],
       "qualifiers": [],
@@ -244,13 +250,16 @@
         {
           "source_span": "γοβζʹ",
           "raw_number": "βζʹ",
-          "normalized_number": 27,
+          "normalized_number": 2.5,
           "raw_unit": "γο",
           "normalized_unit": "uncia",
           "certainty": "uncertain",
           "notes": [
-            "Greek unit siglum γο is preserved without secure expansion."
-          ]
+            "Greek unit siglum γο is preserved without secure expansion.",
+            "Corrected by normalize_quantities.py (rule γο+numeral): raw_number 'βζʹ'→'βζʹ', normalized_number 27→2.5."
+          ],
+          "measure_relation": "standalone",
+          "measure_group_id": "aetius-16-151:ingredients:3:measure:1"
         }
       ],
       "qualifiers": [],
@@ -279,13 +288,16 @@
         {
           "source_span": "γοβζʹ",
           "raw_number": "βζʹ",
-          "normalized_number": 27,
+          "normalized_number": 2.5,
           "raw_unit": "γο",
           "normalized_unit": "uncia",
           "certainty": "uncertain",
           "notes": [
-            "Greek unit siglum γο is preserved without secure expansion."
-          ]
+            "Greek unit siglum γο is preserved without secure expansion.",
+            "Corrected by normalize_quantities.py (rule γο+numeral): raw_number 'βζʹ'→'βζʹ', normalized_number 27→2.5."
+          ],
+          "measure_relation": "standalone",
+          "measure_group_id": "aetius-16-151:ingredients:4:measure:1"
         }
       ],
       "qualifiers": [],
@@ -320,7 +332,9 @@
           "certainty": "uncertain",
           "notes": [
             "Greek unit siglum γο is preserved without secure expansion."
-          ]
+          ],
+          "measure_relation": "standalone",
+          "measure_group_id": "aetius-16-151:ingredients:5:measure:1"
         }
       ],
       "qualifiers": [],
@@ -355,7 +369,9 @@
           "certainty": "uncertain",
           "notes": [
             "Greek unit siglum γο is preserved without secure expansion."
-          ]
+          ],
+          "measure_relation": "standalone",
+          "measure_group_id": "aetius-16-151:ingredients:6:measure:1"
         }
       ],
       "qualifiers": [],
@@ -390,7 +406,9 @@
           "certainty": "uncertain",
           "notes": [
             "Greek unit siglum γο is preserved without secure expansion."
-          ]
+          ],
+          "measure_relation": "standalone",
+          "measure_group_id": "aetius-16-151:ingredients:7:measure:1"
         }
       ],
       "qualifiers": [],
@@ -425,7 +443,9 @@
           "certainty": "uncertain",
           "notes": [
             "Greek unit siglum γο is preserved without secure expansion."
-          ]
+          ],
+          "measure_relation": "standalone",
+          "measure_group_id": "aetius-16-151:ingredients:8:measure:1"
         }
       ],
       "qualifiers": [],
@@ -460,7 +480,9 @@
           "certainty": "uncertain",
           "notes": [
             "Greek unit siglum γο is preserved without secure expansion."
-          ]
+          ],
+          "measure_relation": "standalone",
+          "measure_group_id": "aetius-16-151:ingredients:9:measure:1"
         }
       ],
       "qualifiers": [],
@@ -495,7 +517,9 @@
           "certainty": "uncertain",
           "notes": [
             "Greek unit siglum γο is preserved without secure expansion."
-          ]
+          ],
+          "measure_relation": "standalone",
+          "measure_group_id": "aetius-16-151:ingredients:10:measure:1"
         }
       ],
       "qualifiers": [],
@@ -530,7 +554,9 @@
           "certainty": "uncertain",
           "notes": [
             "Greek unit siglum γο is preserved without secure expansion."
-          ]
+          ],
+          "measure_relation": "standalone",
+          "measure_group_id": "aetius-16-151:ingredients:11:measure:1"
         }
       ],
       "qualifiers": [],
@@ -565,7 +591,9 @@
           "certainty": "uncertain",
           "notes": [
             "Greek unit siglum γο is preserved without secure expansion."
-          ]
+          ],
+          "measure_relation": "standalone",
+          "measure_group_id": "aetius-16-151:ingredients:12:measure:1"
         }
       ],
       "qualifiers": [],
@@ -600,7 +628,9 @@
           "certainty": "uncertain",
           "notes": [
             "Greek unit siglum γο is preserved without secure expansion."
-          ]
+          ],
+          "measure_relation": "standalone",
+          "measure_group_id": "aetius-16-151:ingredients:13:measure:1"
         }
       ],
       "qualifiers": [],
@@ -629,13 +659,16 @@
         {
           "source_span": "γοαζʹ",
           "raw_number": "αζʹ",
-          "normalized_number": 17,
+          "normalized_number": 1.5,
           "raw_unit": "γο",
           "normalized_unit": "uncia",
           "certainty": "uncertain",
           "notes": [
-            "Greek unit siglum γο is preserved without secure expansion."
-          ]
+            "Greek unit siglum γο is preserved without secure expansion.",
+            "Corrected by normalize_quantities.py (rule γο+numeral): raw_number 'αζʹ'→'αζʹ', normalized_number 17→1.5."
+          ],
+          "measure_relation": "standalone",
+          "measure_group_id": "aetius-16-151:ingredients:14:measure:1"
         }
       ],
       "qualifiers": [],
@@ -671,6 +704,8 @@
           "notes": [
             "Indicates the same quantity as the immediately preceding ingredient, likely κόστου γοαζʹ."
           ],
+          "measure_relation": "standalone",
+          "measure_group_id": "aetius-16-151:ingredients:15:measure:1",
           "descriptor_family": "same_as"
         }
       ],
@@ -708,7 +743,9 @@
           "certainty": "uncertain",
           "notes": [
             "Greek unit siglum γο is preserved without secure expansion."
-          ]
+          ],
+          "measure_relation": "standalone",
+          "measure_group_id": "aetius-16-151:ingredients:16:measure:1"
         }
       ],
       "qualifiers": [],
@@ -745,7 +782,9 @@
           "certainty": "uncertain",
           "notes": [
             "Greek unit siglum γο is preserved without secure expansion."
-          ]
+          ],
+          "measure_relation": "standalone",
+          "measure_group_id": "aetius-16-151:ingredients:17:measure:1"
         }
       ],
       "qualifiers": [],
@@ -780,7 +819,9 @@
           "certainty": "uncertain",
           "notes": [
             "Greek unit siglum λι is preserved without secure expansion."
-          ]
+          ],
+          "measure_relation": "standalone",
+          "measure_group_id": "aetius-16-151:ingredients:18:measure:1"
         }
       ],
       "qualifiers": [],
@@ -817,7 +858,9 @@
           "certainty": "uncertain",
           "notes": [
             "Abbreviated quantity could not be resolved securely."
-          ]
+          ],
+          "measure_relation": "standalone",
+          "measure_group_id": "aetius-16-151:ingredients:19:measure:1"
         }
       ],
       "qualifiers": [],
@@ -950,6 +993,8 @@
           "normalized_unit": "descriptor",
           "certainty": "certain",
           "notes": [],
+          "measure_relation": "standalone",
+          "measure_group_id": "aetius-16-151:materials:1:measure:1",
           "descriptor_family": "as_much_as"
         }
       ],

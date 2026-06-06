@@ -1,0 +1,75 @@
+{
+  "metadata": {
+    "schema_version": "quantity-gold-v2",
+    "artifact_version": "2026-06-05-codex-v1",
+    "artifact_name": "quantity-gold manifest",
+    "run_id": "20260605T071830Z-codex",
+    "created_at": "2026-06-05T07:14:36Z",
+    "created_by": "codex",
+    "updated_at": "2026-06-05T07:18:30Z",
+    "updated_by": "codex",
+    "reviewed_by": null,
+    "source_repo": "/home/seancoughlin/Projects/aetius",
+    "source_commit": "b583dd6a17551b4ceacd04ad59fd2f0d410f570b",
+    "derived_repo": "/home/seancoughlin/Projects/aos-recipes",
+    "derived_commit": null,
+    "previous_version": "20260605T071446Z-codex",
+    "archive_path": "data/review/quantity_gold/archive/20260605T071830Z-codex/manifest.json",
+    "review_status": "accepted_for_projection",
+    "content_sha256_excluding_metadata": "07c3f29b506393ae475323e6f13c5ad4db20b57a2e89dc66846eaa6eac0741ae"
+  },
+  "artifacts": [
+    {
+      "path": "data/review/quantity_gold/index.json",
+      "sha256": "822e18fc38004f57447f8b0278ee09d10c90e8bd9da22741f205861427e22186",
+      "content_sha256_excluding_metadata": "78b2667514327be62eadbcaa533ef2dc5fc19d0e998a5049407be694a6656b38"
+    },
+    {
+      "path": "data/review/quantity_gold/quantity_ledger.csv",
+      "sha256": "0a3f0edae09da39b6a9b095924a3714d563cc2ca71c16705a67b398cf7d3b716"
+    },
+    {
+      "path": "data/review/quantity_gold/summary.md",
+      "sha256": "0b67867d126defd1b2ec0da71950087cdc8a93ead875ae494604a37a0af0dad5"
+    },
+    {
+      "path": "data/review/quantity_gold/schema.json",
+      "sha256": "b535db6a74a8d8cb412cde4692b36cef42a80480b867661204ae7160851a56b7",
+      "content_sha256_excluding_metadata": "60285f3dd1c07bdab6d0d447ff0a7f77f7ae74bdf7e0a65ef4cc493a712487f7"
+    },
+    {
+      "path": "data/review/quantity_gold/vocabularies/metrology.json",
+      "sha256": "504d42a90d756ac8f7ae41103af7d83ea9f04208da11e721e2ab8f5befb27892",
+      "content_sha256_excluding_metadata": "879e72f03442ff8ec321857554406c0afc32fc31b91d9918e23d67c1ec30941b"
+    },
+    {
+      "path": "data/review/quantity_gold/vocabularies/temporal.json",
+      "sha256": "fb0b1112e8a9a11548093f237be168d0771114c98ef4c1aa0827e7f8c16c5375",
+      "content_sha256_excluding_metadata": "86b7473e8268635778345b58b21ef5d30b23c224dadc7ab12fdaa8de540e42d0"
+    },
+    {
+      "path": "data/review/quantity_gold/vocabularies/process_qualifiers.json",
+      "sha256": "997982ba884b9f97cd76d6d6b92f040fae2b379ff6a804ae6324adc88fa1e153",
+      "content_sha256_excluding_metadata": "6aada4cb906e1a77ea12e36f76a9bc77eac137850d1c904b147fc223c8648a67"
+    },
+    {
+      "path": "data/review/quantity_gold/projection/recipes.json",
+      "sha256": "fe9d58883c199998f7cd1ab7e78f48af65b82e17200565d906289479b5e91fff",
+      "content_sha256_excluding_metadata": "a91b3ef55b3d0297badd9966f351985938c41288124705b85c8e631ee504b90a"
+    },
+    {
+      "path": "data/review/quantity_gold/projection/rich_recipes.json",
+      "sha256": "4e21aebf50e5d71cad2014341eab124fdb27be8ead98b844968073adda75dc14",
+      "content_sha256_excluding_metadata": "105c3ce8dcd062463b4f6d7079e428243166a70eee3933b5eb3cad0b43297f3a"
+    },
+    {
+      "path": "data/review/quantity_gold/recipes/dioscorides-1-25-kyphi.json",
+      "sha256": "1909ea729cca8d2a3c027a8fcdfe4b753b26fc610a372fa3e6c178a6ee994b1c",
+      "content_sha256_excluding_metadata": "9d655a482c61ae2aae7dddda6c47ac3bcb96c9e5e0a9433abf95b5f5a76e0a34"
+    }
+  ],
+  "notes": [
+    "The manifest does not include its own hash to avoid self-referential hash loops.",
+    "Post-commit source or derived commit hashes should be recorded in a separate post-commit manifest."
+  ]
+}

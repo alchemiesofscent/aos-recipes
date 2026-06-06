@@ -102,12 +102,12 @@
     "entity_model_version": "1.2",
     "authority_version": "2026-04-13-qty-alt-v1",
     "prompt_version": "qty-alt-pass-v1",
-    "build_version": "2026-05-25T18:36:46Z"
+    "build_version": "2026-06-05T15:09:42Z"
   },
   "schema_version": "1.2",
   "build_metadata": {
     "builder": "scripts/recipes/build_recipe_entities.py",
-    "built_at": "2026-05-25T18:36:46Z",
+    "built_at": "2026-06-05T15:09:42Z",
     "source_structured_authority": "reports/entity_review/structured/dioscorides.json",
     "authority_model": "gpt-5.4",
     "authority_reasoning_effort": "high",
@@ -115,7 +115,7 @@
     "entity_model_version": "1.2",
     "authority_version": "2026-04-13-qty-alt-v1",
     "prompt_version": "qty-alt-pass-v1",
-    "build_version": "2026-05-25T18:36:46Z"
+    "build_version": "2026-06-05T15:09:42Z"
   },
   "recipe_text_excerpt": "σαμψουχίνου σκευασία· ἑρπύλλου, κασσίας, ἁβροτόνου, σισυμβρίου ἄνθους, μυρσίνης πετάλων, σαμψούχου, ἑκάστου αὐτῶν λαμβάνων στοχασμῷ πρὸς τὴν ἑκάστου αὐτῶν δύναμιν ἀποβλέπων,",
   "preparation": {
@@ -434,6 +434,8 @@
           "notes": [
             "Ἀόριστον ποσόν, ὅσον ἀρκεῖ πρὸς τὴν βροχήν."
           ],
+          "measure_relation": "standalone",
+          "measure_group_id": "dioscorides-1-48-sampsouchinon:processes:3:measure:1",
           "descriptor_family": "as_much_as"
         }
       ],
@@ -529,6 +531,8 @@
           "notes": [
             "Τὸ ποσὸν τῶν προσφάτων ἴσον τῷ προτέρῳ."
           ],
+          "measure_group_id": "dioscorides-1-48-sampsouchinon:processes:6:measure:equivalent_notation",
+          "measure_relation": "equivalent_notation",
           "descriptor_family": "quantity_unspecified"
         }
       ],

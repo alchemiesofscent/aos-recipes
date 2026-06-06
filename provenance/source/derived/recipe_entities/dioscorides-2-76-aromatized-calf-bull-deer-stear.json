@@ -99,12 +99,12 @@
     "entity_model_version": "1.2",
     "authority_version": "2026-04-13-qty-alt-v1",
     "prompt_version": "qty-alt-pass-v1",
-    "build_version": "2026-05-25T18:36:46Z"
+    "build_version": "2026-06-05T15:09:42Z"
   },
   "schema_version": "1.2",
   "build_metadata": {
     "builder": "scripts/recipes/build_recipe_entities.py",
-    "built_at": "2026-05-25T18:36:46Z",
+    "built_at": "2026-06-05T15:09:42Z",
     "source_structured_authority": "reports/entity_review/structured/dioscorides.json",
     "authority_model": "gpt-5.4",
     "authority_reasoning_effort": "high",
@@ -112,7 +112,7 @@
     "entity_model_version": "1.2",
     "authority_version": "2026-04-13-qty-alt-v1",
     "prompt_version": "qty-alt-pass-v1",
-    "build_version": "2026-05-25T18:36:46Z"
+    "build_version": "2026-06-05T15:09:42Z"
   },
   "recipe_text_excerpt": "ἀρωματιστέο΄ν δὲ στέαρ μόσχειον καὶ ταύρειον, ἔτι δὲ ἐλάφειον καὶ μυελὸν τοῦδε τοῦ ζῴου τὸν τρόπον τοῦτον· ἐξενίσας τὸ μέλλον",
   "preparation": {
@@ -286,7 +286,9 @@
           "raw_unit": "ὁλκάς",
           "normalized_unit": "holce",
           "certainty": "certain",
-          "notes": []
+          "notes": [],
+          "measure_relation": "standalone",
+          "measure_group_id": "dioscorides-2-76-aromatized-calf-bull-deer-stear:ingredients:5:measure:1"
         }
       ],
       "qualifiers": [],
@@ -323,7 +325,9 @@
           "raw_unit": "ὁλκάς",
           "normalized_unit": "holce",
           "certainty": "certain",
-          "notes": []
+          "notes": [],
+          "measure_group_id": "dioscorides-2-76-aromatized-calf-bull-deer-stear:mg:flower-forty-holkai",
+          "measure_relation": "equivalent_notation"
         }
       ],
       "qualifiers": [],
@@ -362,7 +366,9 @@
           "certainty": "uncertain",
           "notes": [
             "Amount stated as equal to the preceding ὁλκὰς τεσσαράκοντα of ἄνθος."
-          ]
+          ],
+          "measure_group_id": "dioscorides-2-76-aromatized-calf-bull-deer-stear:mg:equal-holkai",
+          "measure_relation": "equivalent_notation"
         }
       ],
       "qualifiers": [],
@@ -401,7 +407,9 @@
           "certainty": "uncertain",
           "notes": [
             "Amount stated as equal to the preceding ὁλκὰς τεσσαράκοντα of ἄνθος."
-          ]
+          ],
+          "measure_group_id": "dioscorides-2-76-aromatized-calf-bull-deer-stear:mg:equal-holkai",
+          "measure_relation": "equivalent_notation"
         }
       ],
       "qualifiers": [],
@@ -437,7 +445,9 @@
           "raw_unit": "ὁλκήν",
           "normalized_unit": "holce",
           "certainty": "certain",
-          "notes": []
+          "notes": [],
+          "measure_group_id": "dioscorides-2-76-aromatized-calf-bull-deer-stear:mg:shared-one-holke",
+          "measure_relation": "equivalent_notation"
         }
       ],
       "qualifiers": [],
@@ -473,7 +483,9 @@
           "raw_unit": "ὁλκήν",
           "normalized_unit": "holce",
           "certainty": "certain",
-          "notes": []
+          "notes": [],
+          "measure_group_id": "dioscorides-2-76-aromatized-calf-bull-deer-stear:mg:shared-one-holke",
+          "measure_relation": "equivalent_notation"
         }
       ],
       "qualifiers": [],
@@ -509,7 +521,9 @@
           "raw_unit": "οὐγγίαν",
           "normalized_unit": "uncia",
           "certainty": "certain",
-          "notes": []
+          "notes": [],
+          "measure_group_id": "dioscorides-2-76-aromatized-calf-bull-deer-stear:mg:shared-one-uncia",
+          "measure_relation": "equivalent_notation"
         }
       ],
       "qualifiers": [],
@@ -545,7 +559,9 @@
           "raw_unit": "οὐγγίαν",
           "normalized_unit": "uncia",
           "certainty": "certain",
-          "notes": []
+          "notes": [],
+          "measure_group_id": "dioscorides-2-76-aromatized-calf-bull-deer-stear:mg:shared-one-uncia",
+          "measure_relation": "equivalent_notation"
         }
       ],
       "qualifiers": [],
@@ -581,7 +597,9 @@
           "raw_unit": "οὐγγίαν",
           "normalized_unit": "uncia",
           "certainty": "certain",
-          "notes": []
+          "notes": [],
+          "measure_group_id": "dioscorides-2-76-aromatized-calf-bull-deer-stear:mg:shared-one-uncia",
+          "measure_relation": "equivalent_notation"
         }
       ],
       "qualifiers": [],
@@ -617,7 +635,9 @@
           "raw_unit": "οὐγγίαν",
           "normalized_unit": "uncia",
           "certainty": "certain",
-          "notes": []
+          "notes": [],
+          "measure_group_id": "dioscorides-2-76-aromatized-calf-bull-deer-stear:mg:shared-one-uncia",
+          "measure_relation": "equivalent_notation"
         }
       ],
       "qualifiers": [],
@@ -863,7 +883,9 @@
           "certainty": "certain",
           "notes": [
             "Basis amount of fat for the additive ratio."
-          ]
+          ],
+          "measure_relation": "standalone",
+          "measure_group_id": "dioscorides-2-76-aromatized-calf-bull-deer-stear:processes:9:measure:1"
         }
       ],
       "qualifiers": [],
@@ -1449,6 +1471,8 @@
           "notes": [
             "Relative amount equal to the first wine addition."
           ],
+          "measure_group_id": "dioscorides-2-76-aromatized-calf-bull-deer-stear:materials:2:measure:equivalent_notation",
+          "measure_relation": "equivalent_notation",
           "descriptor_family": "as_much_as"
         }
       ],

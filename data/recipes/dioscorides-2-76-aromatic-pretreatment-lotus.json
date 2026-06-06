@@ -115,12 +115,12 @@
     "entity_model_version": "1.2",
     "authority_version": "2026-04-13-qty-alt-v1",
     "prompt_version": "qty-alt-pass-v1",
-    "build_version": "2026-05-25T18:36:46Z"
+    "build_version": "2026-06-05T15:09:42Z"
   },
   "schema_version": "1.2",
   "build_metadata": {
     "builder": "scripts/recipes/build_recipe_entities.py",
-    "built_at": "2026-05-25T18:36:46Z",
+    "built_at": "2026-06-05T15:09:42Z",
     "source_structured_authority": "reports/entity_review/structured/dioscorides.json",
     "authority_model": "gpt-5.4",
     "authority_reasoning_effort": "high",
@@ -128,7 +128,7 @@
     "entity_model_version": "1.2",
     "authority_version": "2026-04-13-qty-alt-v1",
     "prompt_version": "qty-alt-pass-v1",
-    "build_version": "2026-05-25T18:36:46Z"
+    "build_version": "2026-06-05T15:09:42Z"
   },
   "recipe_text_excerpt": "ἔτι δὲ καὶ οὕτως πρόστυφε τὰ στέατα κόψας ὅ τι ἂν αὐτῶν θέλῃς — πρόσφατον δὲ καὶ ἀμιγὲς αἵματος τά",
   "preparation": {
@@ -176,7 +176,9 @@
           "certainty": "certain",
           "notes": [
             "Later aromatic mixture."
-          ]
+          ],
+          "measure_relation": "standalone",
+          "measure_group_id": "dioscorides-2-76-aromatic-pretreatment-lotus:ingredients:1:measure:1"
         }
       ],
       "qualifiers": [],
@@ -211,7 +213,9 @@
           "certainty": "uncertain",
           "notes": [
             "Fill height above the fat."
-          ]
+          ],
+          "measure_relation": "standalone",
+          "measure_group_id": "dioscorides-2-76-aromatic-pretreatment-lotus:ingredients:2:measure:1"
         }
       ],
       "qualifiers": [],
@@ -246,7 +250,9 @@
           "raw_unit": "μνᾶς",
           "normalized_unit": "mna",
           "certainty": "certain",
-          "notes": []
+          "notes": [],
+          "measure_relation": "standalone",
+          "measure_group_id": "dioscorides-2-76-aromatic-pretreatment-lotus:ingredients:3:measure:1"
         }
       ],
       "qualifiers": [],
@@ -279,7 +285,9 @@
           "raw_unit": "μνᾶς",
           "normalized_unit": "mna",
           "certainty": "certain",
-          "notes": []
+          "notes": [],
+          "measure_relation": "standalone",
+          "measure_group_id": "dioscorides-2-76-aromatic-pretreatment-lotus:ingredients:4:measure:1"
         }
       ],
       "qualifiers": [],
@@ -312,7 +320,9 @@
           "raw_unit": "ὁλκὰς",
           "normalized_unit": "holce",
           "certainty": "certain",
-          "notes": []
+          "notes": [],
+          "measure_group_id": "dioscorides-2-76-aromatic-pretreatment-lotus:ingredients:5:measure:variant_quantity",
+          "measure_relation": "variant_quantity"
         }
       ],
       "qualifiers": [],

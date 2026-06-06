@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+title: "AOS Recipes — Greek pharmaceutical recipe corpus"
+abstract: >
+  193 QC-complete Greek pharmaceutical recipe records extracted from
+  Dioscorides (Books 1 and 2), Aëtius of Amida (Books 1 and 16), and
+  Paul of Aegina (Book 7.20), with normalized entities, an ingredient
+  lexicon, Apriori co-occurrence analysis, and a mirrored quantity-gold
+  overlay layer. v1.0 is the canonical snapshot ingested into the
+  Claude cowork scholarly revision workflow.
+type: dataset
+authors:
+  - family-names: Coughlin
+    given-names: Sean
+    email: coughlin@flu.cas.cz
+    affiliation: Institute of Philosophy, Czech Academy of Sciences
+version: 1.0.0
+date-released: "2026-06-06"  # update to actual tag date if it differs
+repository-code: "https://github.com/alchemiesofscent/aos-recipes"
+license: CC-BY-4.0  # placeholder — replace if a different license is intended
+keywords:
+  - greek
+  - pharmacology
+  - perfumery
+  - dioscorides
+  - aetius
+  - paul-of-aegina
+  - digital-humanities
+  - text-mining
+  - corpus

@@ -2818,100 +2818,100 @@
         "certainty": "certain"
       },
       {
-        "recipe_id": "aetius-16-146-1",
+        "recipe_id": "aetius-16-146-1-2",
         "dataset_key": "aetius_book16_myrepsika",
-        "entity_id": "aetius-16-146-1:ingredient:kostos-11",
-        "entity_urn": "urn:aos:recipe-ingredient:aetius-16-146-1:ingredient:kostos-11",
+        "entity_id": "aetius-16-146-1-2:ingredient:kostos-1",
+        "entity_urn": "urn:aos:recipe-ingredient:aetius-16-146-1-2:ingredient:kostos-1",
         "surface_form": "κόστου",
         "normalized_label": "κόστος",
         "certainty": "certain"
       },
       {
-        "recipe_id": "aetius-16-146-1",
+        "recipe_id": "aetius-16-146-1-2",
         "dataset_key": "aetius_book16_myrepsika",
-        "entity_id": "aetius-16-146-1:ingredient:nardostachys-12",
-        "entity_urn": "urn:aos:recipe-ingredient:aetius-16-146-1:ingredient:nardostachys-12",
+        "entity_id": "aetius-16-146-1-2:ingredient:nardostachys-2",
+        "entity_urn": "urn:aos:recipe-ingredient:aetius-16-146-1-2:ingredient:nardostachys-2",
         "surface_form": "ναρδοστάχυος",
         "normalized_label": "ναρδόσταχυς",
         "certainty": "certain"
       },
       {
-        "recipe_id": "aetius-16-146-1",
+        "recipe_id": "aetius-16-146-1-2",
         "dataset_key": "aetius_book16_myrepsika",
-        "entity_id": "aetius-16-146-1:ingredient:phyllon-13",
-        "entity_urn": "urn:aos:recipe-ingredient:aetius-16-146-1:ingredient:phyllon-13",
+        "entity_id": "aetius-16-146-1-2:ingredient:phyllon-3",
+        "entity_urn": "urn:aos:recipe-ingredient:aetius-16-146-1-2:ingredient:phyllon-3",
         "surface_form": "φύλλων",
         "normalized_label": "φύλλον",
         "certainty": "certain"
       },
       {
-        "recipe_id": "aetius-16-146-1",
+        "recipe_id": "aetius-16-146-1-2",
         "dataset_key": "aetius_book16_myrepsika",
-        "entity_id": "aetius-16-146-1:ingredient:karyophyllon-14",
-        "entity_urn": "urn:aos:recipe-ingredient:aetius-16-146-1:ingredient:karyophyllon-14",
+        "entity_id": "aetius-16-146-1-2:ingredient:karyophyllon-4",
+        "entity_urn": "urn:aos:recipe-ingredient:aetius-16-146-1-2:ingredient:karyophyllon-4",
         "surface_form": "καρυοφύλλων",
         "normalized_label": "καρυόφυλλον",
         "certainty": "certain"
       },
       {
-        "recipe_id": "aetius-16-146-1",
+        "recipe_id": "aetius-16-146-1-2",
         "dataset_key": "aetius_book16_myrepsika",
-        "entity_id": "aetius-16-146-1:ingredient:kasamon-15",
-        "entity_urn": "urn:aos:recipe-ingredient:aetius-16-146-1:ingredient:kasamon-15",
+        "entity_id": "aetius-16-146-1-2:ingredient:kasamon-5",
+        "entity_urn": "urn:aos:recipe-ingredient:aetius-16-146-1-2:ingredient:kasamon-5",
         "surface_form": "κασάμου",
         "normalized_label": "κάσαμον",
         "certainty": "certain"
       },
       {
-        "recipe_id": "aetius-16-146-1",
+        "recipe_id": "aetius-16-146-1-2",
         "dataset_key": "aetius_book16_myrepsika",
-        "entity_id": "aetius-16-146-1:ingredient:aspron-16",
-        "entity_urn": "urn:aos:recipe-ingredient:aetius-16-146-1:ingredient:aspron-16",
+        "entity_id": "aetius-16-146-1-2:ingredient:aspron-6",
+        "entity_urn": "urn:aos:recipe-ingredient:aetius-16-146-1-2:ingredient:aspron-6",
         "surface_form": "ἄσπρου",
         "normalized_label": "ἄσπρον",
         "certainty": "uncertain"
       },
       {
-        "recipe_id": "aetius-16-146-1",
+        "recipe_id": "aetius-16-146-1-2",
         "dataset_key": "aetius_book16_myrepsika",
-        "entity_id": "aetius-16-146-1:ingredient:styrax-17",
-        "entity_urn": "urn:aos:recipe-ingredient:aetius-16-146-1:ingredient:styrax-17",
+        "entity_id": "aetius-16-146-1-2:ingredient:styrax-7",
+        "entity_urn": "urn:aos:recipe-ingredient:aetius-16-146-1-2:ingredient:styrax-7",
         "surface_form": "στύρακος",
         "normalized_label": "στύραξ",
         "certainty": "certain"
       },
       {
-        "recipe_id": "aetius-16-146-1",
+        "recipe_id": "aetius-16-146-1-2",
         "dataset_key": "aetius_book16_myrepsika",
-        "entity_id": "aetius-16-146-1:ingredient:chymation-proteion-18",
-        "entity_urn": "urn:aos:recipe-ingredient:aetius-16-146-1:ingredient:chymation-proteion-18",
+        "entity_id": "aetius-16-146-1-2:ingredient:chymation-proteion-8",
+        "entity_urn": "urn:aos:recipe-ingredient:aetius-16-146-1-2:ingredient:chymation-proteion-8",
         "surface_form": "χυματίου πρωτείου",
         "normalized_label": "χυμάτιον πρωτεῖον",
         "certainty": "uncertain"
       },
       {
-        "recipe_id": "aetius-16-146-1",
+        "recipe_id": "aetius-16-146-1-2",
         "dataset_key": "aetius_book16_myrepsika",
-        "entity_id": "aetius-16-146-1:ingredient:krokos-trichinos-19",
-        "entity_urn": "urn:aos:recipe-ingredient:aetius-16-146-1:ingredient:krokos-trichinos-19",
+        "entity_id": "aetius-16-146-1-2:ingredient:krokos-trichinos-9",
+        "entity_urn": "urn:aos:recipe-ingredient:aetius-16-146-1-2:ingredient:krokos-trichinos-9",
         "surface_form": "κρόκου τριχίνου",
         "normalized_label": "κρόκος τριχῖνος",
         "certainty": "certain"
       },
       {
-        "recipe_id": "aetius-16-146-1",
+        "recipe_id": "aetius-16-146-1-2",
         "dataset_key": "aetius_book16_myrepsika",
-        "entity_id": "aetius-16-146-1:ingredient:moschos-20",
-        "entity_urn": "urn:aos:recipe-ingredient:aetius-16-146-1:ingredient:moschos-20",
+        "entity_id": "aetius-16-146-1-2:ingredient:moschos-10",
+        "entity_urn": "urn:aos:recipe-ingredient:aetius-16-146-1-2:ingredient:moschos-10",
         "surface_form": "μόσχου",
         "normalized_label": "μόσχος",
         "certainty": "certain"
       },
       {
-        "recipe_id": "aetius-16-146-1",
+        "recipe_id": "aetius-16-146-1-2",
         "dataset_key": "aetius_book16_myrepsika",
-        "entity_id": "aetius-16-146-1:ingredient:ambaros-21",
-        "entity_urn": "urn:aos:recipe-ingredient:aetius-16-146-1:ingredient:ambaros-21",
+        "entity_id": "aetius-16-146-1-2:ingredient:ambaros-11",
+        "entity_urn": "urn:aos:recipe-ingredient:aetius-16-146-1-2:ingredient:ambaros-11",
         "surface_form": "ἄμβαρος",
         "normalized_label": "ἄμβαρος",
         "certainty": "certain"
@@ -13530,10 +13530,10 @@
         "certainty": "certain"
       },
       {
-        "recipe_id": "aetius-16-146-1",
+        "recipe_id": "aetius-16-146-1-2",
         "dataset_key": "aetius_book16_myrepsika",
-        "entity_id": "aetius-16-146-1:process:skeyazein-2",
-        "entity_urn": "urn:aos:recipe-process:aetius-16-146-1:process:skeyazein-2",
+        "entity_id": "aetius-16-146-1-2:process:skeyazein-1",
+        "entity_urn": "urn:aos:recipe-process:aetius-16-146-1-2:process:skeyazein-1",
         "surface_form": "σκευάζει",
         "normalized_label": "σκευάζειν",
         "certainty": "certain"
@@ -24650,10 +24650,10 @@
         "certainty": "certain"
       },
       {
-        "recipe_id": "aetius-16-146-1",
+        "recipe_id": "aetius-16-146-1-2",
         "dataset_key": "aetius_book16_myrepsika",
-        "entity_id": "aetius-16-146-1:person:archon-1",
-        "entity_urn": "urn:aos:recipe-person:aetius-16-146-1:person:archon-1",
+        "entity_id": "aetius-16-146-1-2:person:archon-1",
+        "entity_urn": "urn:aos:recipe-person:aetius-16-146-1-2:person:archon-1",
         "surface_form": "ὁ ἄρχων",
         "normalized_label": "ἄρχων",
         "certainty": "certain"
@@ -24895,10 +24895,10 @@
         "certainty": "certain"
       },
       {
-        "recipe_id": "aetius-16-146-1",
+        "recipe_id": "aetius-16-146-1-2",
         "dataset_key": "aetius_book16_myrepsika",
-        "entity_id": "aetius-16-146-1:place:anatole-2",
-        "entity_urn": "urn:aos:recipe-place:aetius-16-146-1:place:anatole-2",
+        "entity_id": "aetius-16-146-1-2:place:anatole-1",
+        "entity_urn": "urn:aos:recipe-place:aetius-16-146-1-2:place:anatole-1",
         "surface_form": "τῆς Ἀνατολῆς",
         "normalized_label": "Ἀνατολή",
         "certainty": "certain"
@@ -29692,12 +29692,23 @@
       "works_mentioned": 0
     },
     "aetius-16-146-1": {
-      "ingredients": 21,
-      "processes": 2,
+      "ingredients": 10,
+      "processes": 1,
+      "materials": 0,
+      "people": 0,
+      "places": 1,
+      "uses": 1,
+      "preparation_names": 0,
+      "other_preparations_mentioned": 0,
+      "works_mentioned": 0
+    },
+    "aetius-16-146-1-2": {
+      "ingredients": 11,
+      "processes": 1,
       "materials": 0,
       "people": 1,
-      "places": 2,
-      "uses": 1,
+      "places": 1,
+      "uses": 0,
       "preparation_names": 0,
       "other_preparations_mentioned": 0,
       "works_mentioned": 0

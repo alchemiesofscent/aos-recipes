@@ -110,12 +110,12 @@
     "entity_model_version": "1.2",
     "authority_version": "2026-04-13-qty-alt-v1",
     "prompt_version": "qty-alt-pass-v1",
-    "build_version": "2026-05-25T18:36:46Z"
+    "build_version": "2026-06-05T15:09:42Z"
   },
   "schema_version": "1.2",
   "build_metadata": {
     "builder": "scripts/recipes/build_recipe_entities.py",
-    "built_at": "2026-05-25T18:36:46Z",
+    "built_at": "2026-06-05T15:09:42Z",
     "source_structured_authority": "reports/entity_review/structured/aetius_book16.json",
     "authority_model": "gpt-5.4",
     "authority_reasoning_effort": "high",
@@ -123,7 +123,7 @@
     "entity_model_version": "1.2",
     "authority_version": "2026-04-13-qty-alt-v1",
     "prompt_version": "qty-alt-pass-v1",
-    "build_version": "2026-05-25T18:36:46Z"
+    "build_version": "2026-06-05T15:09:42Z"
   },
   "recipe_text_excerpt": "Κόστου λιαζʹ. κασάμου λια. ξυλοκαρυοφύλλων, σκύλματος φύλλων, ναρδοστάχυος ἀνὰ γοστ. φλοιοῦ ἀσπαλάθου, ῥόδων ξηρῶν ἀνὰ γογ. μαστίχης χίας, βδελλίου ἀνὰ",
   "preparation": {
@@ -178,13 +178,16 @@
         {
           "source_span": "λιαζʹ.",
           "raw_number": "αζʹ",
-          "normalized_number": 8,
+          "normalized_number": 1.5,
           "raw_unit": "λι",
           "normalized_unit": "litra",
           "certainty": "uncertain",
           "notes": [
-            "Greek numeral parsed as 8; unit abbreviation unresolved."
-          ]
+            "Greek numeral parsed as 8; unit abbreviation unresolved.",
+            "Corrected by normalize_quantities.py (rule λι+numeral): raw_number 'αζʹ'→'αζʹ', normalized_number 8→1.5."
+          ],
+          "measure_relation": "standalone",
+          "measure_group_id": "aetius-16-147:ingredients:1:measure:1"
         }
       ],
       "qualifiers": [],
@@ -220,7 +223,9 @@
           "notes": [
             "Greek numeral parsed as 11; unit abbreviation unresolved.",
             "Corrected by normalize_quantities.py (rule λι+numeral): raw_number 'ια'→'α', normalized_number 11→1."
-          ]
+          ],
+          "measure_relation": "standalone",
+          "measure_group_id": "aetius-16-147:ingredients:2:measure:1"
         }
       ],
       "qualifiers": [],
@@ -255,7 +260,9 @@
           "certainty": "uncertain",
           "notes": [
             "Greek numeral parsed as 6; unit abbreviation unresolved."
-          ]
+          ],
+          "measure_relation": "standalone",
+          "measure_group_id": "aetius-16-147:ingredients:3:measure:1"
         }
       ],
       "qualifiers": [],
@@ -290,7 +297,9 @@
           "certainty": "uncertain",
           "notes": [
             "Greek numeral parsed as 6; unit abbreviation unresolved."
-          ]
+          ],
+          "measure_relation": "standalone",
+          "measure_group_id": "aetius-16-147:ingredients:4:measure:1"
         }
       ],
       "qualifiers": [],
@@ -325,7 +334,9 @@
           "certainty": "uncertain",
           "notes": [
             "Greek numeral parsed as 6; unit abbreviation unresolved."
-          ]
+          ],
+          "measure_relation": "standalone",
+          "measure_group_id": "aetius-16-147:ingredients:5:measure:1"
         }
       ],
       "qualifiers": [],
@@ -360,7 +371,9 @@
           "certainty": "uncertain",
           "notes": [
             "Greek numeral parsed as 3; unit abbreviation unresolved."
-          ]
+          ],
+          "measure_relation": "standalone",
+          "measure_group_id": "aetius-16-147:ingredients:6:measure:1"
         }
       ],
       "qualifiers": [],
@@ -395,7 +408,9 @@
           "certainty": "uncertain",
           "notes": [
             "Greek numeral parsed as 3; unit abbreviation unresolved."
-          ]
+          ],
+          "measure_relation": "standalone",
+          "measure_group_id": "aetius-16-147:ingredients:7:measure:1"
         }
       ],
       "qualifiers": [],
@@ -430,7 +445,9 @@
           "certainty": "uncertain",
           "notes": [
             "Greek numeral parsed as 2; unit abbreviation unresolved."
-          ]
+          ],
+          "measure_relation": "standalone",
+          "measure_group_id": "aetius-16-147:ingredients:8:measure:1"
         }
       ],
       "qualifiers": [],
@@ -465,7 +482,9 @@
           "certainty": "uncertain",
           "notes": [
             "Greek numeral parsed as 2; unit abbreviation unresolved."
-          ]
+          ],
+          "measure_relation": "standalone",
+          "measure_group_id": "aetius-16-147:ingredients:9:measure:1"
         }
       ],
       "qualifiers": [],
@@ -501,7 +520,9 @@
           "notes": [
             "Greek numeral parsed as 13; unit abbreviation unresolved.",
             "Corrected by normalize_quantities.py (rule λι+numeral): raw_number 'ιγ'→'γ', normalized_number 13→3."
-          ]
+          ],
+          "measure_relation": "standalone",
+          "measure_group_id": "aetius-16-147:ingredients:10:measure:1"
         }
       ],
       "qualifiers": [],
@@ -537,7 +558,9 @@
           "notes": [
             "Greek numeral parsed as 16; unit abbreviation unresolved.",
             "Corrected by normalize_quantities.py (rule λι+numeral): raw_number 'ιστ'→'στ', normalized_number 16→6."
-          ]
+          ],
+          "measure_group_id": "aetius-16-147:mg:stakte-substitution",
+          "measure_relation": "variant_quantity"
         }
       ],
       "qualifiers": [],
@@ -572,7 +595,9 @@
           "raw_unit": "γράμματα",
           "normalized_unit": "gramma",
           "certainty": "certain",
-          "notes": []
+          "notes": [],
+          "measure_relation": "standalone",
+          "measure_group_id": "aetius-16-147:ingredients:12:measure:1"
         }
       ],
       "qualifiers": [],
@@ -610,7 +635,9 @@
           "notes": [
             "Greek numeral parsed as 12; unit abbreviation unresolved.",
             "Corrected by normalize_quantities.py (rule λι+numeral): raw_number 'ιβ'→'β', normalized_number 12→2."
-          ]
+          ],
+          "measure_group_id": "aetius-16-147:mg:stakte-substitution",
+          "measure_relation": "variant_quantity"
         }
       ],
       "qualifiers": [],
@@ -650,7 +677,9 @@
           "notes": [
             "Greek numeral parsed as 14; unit abbreviation unresolved.",
             "Corrected by normalize_quantities.py (rule λι+numeral): raw_number 'ιδ'→'δ', normalized_number 14→4."
-          ]
+          ],
+          "measure_group_id": "aetius-16-147:mg:stakte-substitution",
+          "measure_relation": "variant_quantity"
         }
       ],
       "qualifiers": [],

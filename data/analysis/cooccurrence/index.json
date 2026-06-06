@@ -1,0 +1,25 @@
+{
+  "fallback_count": 0,
+  "generated_at": "2026-06-06T17:57:37+00:00",
+  "ingredient_occurrences": 1370,
+  "lookup_key_count": 262,
+  "max_k_attempted": 10,
+  "max_k_with_results": 10,
+  "min_count": 3,
+  "per_k_counts": {
+    "1": 92,
+    "10": 3330,
+    "2": 692,
+    "3": 2937,
+    "4": 7851,
+    "5": 14444,
+    "6": 19117,
+    "7": 18747,
+    "8": 13893,
+    "9": 7831
+  },
+  "recipe_count": 193,
+  "top_per_k": 200,
+  "transaction_count": 189,
+  "uncertain_occurrences": 103
+}

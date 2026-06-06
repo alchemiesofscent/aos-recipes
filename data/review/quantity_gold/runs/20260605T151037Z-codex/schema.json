@@ -1,0 +1,232 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://aos.local/schema/quantity-gold-v2.json",
+  "title": "AOS Quantity Gold v2",
+  "metadata": {
+    "schema_version": "quantity-gold-v2",
+    "artifact_version": "2026-06-05-codex-v1",
+    "artifact_name": "quantity-gold schema",
+    "run_id": "20260605T151037Z-codex",
+    "created_at": "2026-06-05T15:09:49Z",
+    "created_by": "codex",
+    "updated_at": "2026-06-05T15:10:37Z",
+    "updated_by": "codex",
+    "reviewed_by": null,
+    "source_repo": "/home/seanm/github/aetius",
+    "source_commit": "4fde3ddef7203eccf1f13f9e9a9c60ca002b1651",
+    "derived_repo": "/home/seanm/github/aos-recipes",
+    "derived_commit": null,
+    "previous_version": "20260605T071830Z-codex",
+    "archive_path": "data/review/quantity_gold/archive/20260605T151037Z-codex/schema.json",
+    "review_status": "machine_validated",
+    "content_sha256_excluding_metadata": "60285f3dd1c07bdab6d0d447ff0a7f77f7ae74bdf7e0a65ef4cc493a712487f7"
+  },
+  "type": "object",
+  "required": [
+    "metadata",
+    "recipe_id",
+    "dataset_key",
+    "records"
+  ],
+  "properties": {
+    "metadata": {
+      "type": "object"
+    },
+    "recipe_id": {
+      "type": "string"
+    },
+    "dataset_key": {
+      "type": "string"
+    },
+    "source_recipe_file": {
+      "type": "string"
+    },
+    "records": {
+      "type": "array",
+      "items": {
+        "$ref": "#/$defs/record"
+      }
+    },
+    "notes": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    }
+  },
+  "$defs": {
+    "record": {
+      "type": "object",
+      "required": [
+        "record_id",
+        "record_type",
+        "recipe_id",
+        "dimension",
+        "review_status",
+        "source",
+        "target",
+        "value",
+        "evidence",
+        "provenance",
+        "created_at",
+        "created_by",
+        "updated_at",
+        "updated_by",
+        "reviewed_by"
+      ],
+      "properties": {
+        "record_id": {
+          "type": "string"
+        },
+        "record_type": {
+          "enum": [
+            "ingredient_measurement",
+            "process_measurement",
+            "process_qualifier",
+            "product_measurement",
+            "rejection",
+            "stage_qualifier",
+            "standalone_temporal"
+          ]
+        },
+        "recipe_id": {
+          "type": "string"
+        },
+        "dimension": {
+          "enum": [
+            "count",
+            "length",
+            "other",
+            "rate",
+            "ratio",
+            "temperature",
+            "time",
+            "volume",
+            "weight"
+          ]
+        },
+        "qualifier_kind": {
+          "anyOf": [
+            {
+              "enum": [
+                "condition",
+                "duration",
+                "frequency",
+                "interval",
+                "manner",
+                "other",
+                "repetition",
+                "sequence",
+                "temperature"
+              ]
+            },
+            {
+              "type": "null"
+            }
+          ]
+        },
+        "temporal_label": {
+          "anyOf": [
+            {
+              "enum": [
+                "day",
+                "hour",
+                "month",
+                "overnight",
+                "until_condition",
+                "year"
+              ]
+            },
+            {
+              "type": "null"
+            }
+          ]
+        },
+        "review_status": {
+          "enum": [
+            "accepted_for_canonical_update",
+            "accepted_for_projection",
+            "generated_unreviewed",
+            "human_reviewed",
+            "machine_validated",
+            "rejected",
+            "superseded"
+          ]
+        },
+        "source": {
+          "type": "object"
+        },
+        "target": {
+          "type": "object"
+        },
+        "value": {
+          "anyOf": [
+            {
+              "type": "object"
+            },
+            {
+              "type": "null"
+            }
+          ]
+        },
+        "raw_unit": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "normalized_unit": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "reason_code": {
+          "enum": [
+            "ambiguous_unresolved",
+            "duplicate_of_accepted_record",
+            "ingredient_name_not_measure",
+            "lexical_false_positive",
+            "not_quantity",
+            "outside_scope",
+            "process_word_not_measure"
+          ]
+        },
+        "note": {
+          "type": "string"
+        },
+        "evidence": {
+          "type": "string"
+        },
+        "provenance": {
+          "type": "object"
+        },
+        "created_at": {
+          "type": "string"
+        },
+        "created_by": {
+          "type": "string"
+        },
+        "updated_at": {
+          "type": "string"
+        },
+        "updated_by": {
+          "type": "string"
+        },
+        "reviewed_by": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "supersedes": {
+          "type": [
+            "string",
+            "null"
+          ]
+        }
+      }
+    }
+  },
+  "additionalProperties": false
+}

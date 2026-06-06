@@ -5,13 +5,13 @@
 | **Version** | 0.1.0 (Proposed) |
 | **Date** | 2026-06-05 |
 | **Author** | Sean Coughlin (coughlin@flu.cas.cz) |
-| **Status** | Proposed — for discussion, not yet adopted |
+| **Status** | Adopted as normalization campaign policy |
 | **Supersedes** | none |
 | **Applies to** | `data/recipes/*.json` (recipe-entity `schema_version 1.2`) and the `quantity-gold-v2` overlay |
 
 ## Why this document exists
 
-The `aos-recipes` corpus (192 Greek pharmaceutical recipes from Dioscorides, Aëtius, and
+The `aos-recipes` corpus (193 Greek pharmaceutical recipes from Dioscorides, Aëtius, and
 Paul of Aegina) has a data model that grew in layers. It is good at recording *what a recipe
 says*, but not yet good enough at recording it in a **queryable, interoperable** form. A
 spot-check of eight representative recipes (see [Appendix A](#appendix-a--evidence-base))
@@ -20,13 +20,16 @@ processing modifications, and textual uncertainty/variants — are inconsistentl
 informally encoded. This document records **where we are** and **what we should do**, so the
 revision can proceed deliberately and be versioned.
 
-This is a planning document. It changes no data and no code. It also lays out *how* the work
-should be sequenced and versioned.
+This is the policy basis for the active
+[`normalization_campaign.md`](normalization_campaign.md). It lays out *how* the
+work should be sequenced and versioned; implementation still happens through
+reviewed source-side ledgers in `aetius`, not through deterministic rewrites in
+this mirror.
 
 ### Authority and scope
 
-`/home/seancoughlin/Projects/aetius` is the **source of truth**; `aos-recipes` is the
-derived, **validate-only mirror** (see [`quantity_gold.md`](quantity_gold.md)). All schema,
+`/home/seanm/github/aetius` is the **source of truth**; `aos-recipes` is the
+derived, **validate-only mirror** (see [`quantity_gold.md`](../quantity_gold.md)). All schema,
 authority-file, and vocabulary changes proposed here are **implemented upstream in `aetius`
 and mirrored here** via the export commands. This policy document itself lives in
 `aos-recipes` because it is the public-facing export, but it governs both repositories.
@@ -77,10 +80,10 @@ and mirrored here** via the export commands. This policy document itself lives i
 | F18 | **Multi-product / by-product records** (Aëtius 1.132 δευτέριον from residue, ingredients flagged by note only). | product/by-product modeling |
 | F19 | **Vocabulary drift / unresolved units.** Ad-hoc `qualifier_type` values appear inline (`exposure`=ἡλίου, `color`=λευκή); symbolic units (𐆄, ξ̸, γρ=gramma, 𐅻=drachme) often left `uncertain`. | governance, normalization |
 
-**Coverage reality.** The gold pipeline has produced **1 reviewed recipe of 192**
-(`dioscorides-1-25-kyphi`). The overlay still reports a `174` denominator from a run that
-predates the Book 2 fats slice; the current corpus is `192`. This must be reconciled on the
-next full run (see [W4](#w4--execute-and-version-the-gold-pipeline)).
+**Coverage reality.** The gold pipeline has produced **1 reviewed recipe of 193**
+(`dioscorides-1-25-kyphi`). The current overlay reports the 193-recipe corpus;
+older archived overlay runs still record a `174` denominator from before the
+Book 2 fats slice and the later Aëtius Book 16 split.
 
 **Conclusion.** The recipes require revision. The canonical inline qualifiers are
 un-normalized and use a narrower, partly-misapplied vocabulary than the gold overlay; the two
@@ -176,11 +179,12 @@ arrays, not a full TEI apparatus.)*
 
 ### W4 — Execute and version the gold pipeline
 
-*Incorporates [`quantity_gold.md`](quantity_gold.md).*
+*Incorporates [`quantity_gold.md`](../quantity_gold.md).*
 
 - Restate the authority/mirror split and the validate-only posture of this repo.
-- Run the full LLM/gold generation across **all 192 recipes** in `aetius`, **reconcile
-  174 → 192**, then `--export-derived` to this mirror.
+- Run the full LLM/gold generation across **all 193 recipes** in `aetius`, then
+  `--export-derived` to this mirror. Keep archived `174` denominators as
+  historical run metadata, not current coverage.
 - Define run/version cadence and acceptance gates:
   `generated_unreviewed` → `machine_validated` → `human_reviewed` →
   `accepted_for_projection` (→ `accepted_for_canonical_update` where warranted).
@@ -253,6 +257,6 @@ Findings F1–F19 were drawn from a spot-check of these records (read, unchanged
 `aetius-1-132.json` and `aetius-1-132-2.json` (salka oil + John-the-perfumer variant),
 `paul-7-20-5.json` (Χαμαιμήλινον), `paul-7-20-8.json` (Σούσινον σύνθετον).
 
-Cross-references: [`schema.md`](schema.md), [`quantity_gold.md`](quantity_gold.md),
+Cross-references: [`schema.md`](../schema.md), [`quantity_gold.md`](../quantity_gold.md),
 `data/review/quantity_gold/schema.json`,
 `data/review/quantity_gold/vocabularies/{metrology,temporal,process_qualifiers}.json`.

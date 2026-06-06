@@ -128,12 +128,12 @@
     "entity_model_version": "1.2",
     "authority_version": "2026-04-13-qty-alt-v1",
     "prompt_version": "qty-alt-pass-v1",
-    "build_version": "2026-05-25T18:36:46Z"
+    "build_version": "2026-06-05T15:09:42Z"
   },
   "schema_version": "1.2",
   "build_metadata": {
     "builder": "scripts/recipes/build_recipe_entities.py",
-    "built_at": "2026-05-25T18:36:46Z",
+    "built_at": "2026-06-05T15:09:42Z",
     "source_structured_authority": "reports/entity_review/structured/paul.json",
     "authority_model": "gpt-5.4",
     "authority_reasoning_effort": "high",
@@ -141,7 +141,7 @@
     "entity_model_version": "1.2",
     "authority_version": "2026-04-13-qty-alt-v1",
     "prompt_version": "qty-alt-pass-v1",
-    "build_version": "2026-05-25T18:36:46Z"
+    "build_version": "2026-06-05T15:09:42Z"
   },
   "recipe_text_excerpt": "Εἴρηται μὲν διὰ τὸ ἐν Αἰγύπτῳ εὑρῆσθαι, ἔνθα καὶ ὁ μένδης τρέφεται, λαμβάνει δὲ ἐλαίου βαλανίνου λι. ι (ἐν ἄλλῳ",
   "preparation": {
@@ -180,10 +180,12 @@
           "source_span": "λι. ι",
           "raw_number": "ι",
           "normalized_number": 10,
-          "raw_unit": "λι",
+          "raw_unit": "λι.",
           "normalized_unit": "litra",
           "certainty": "certain",
-          "notes": []
+          "notes": [],
+          "measure_group_id": "paul-7-20-31:ingredients:1:measure:m1",
+          "measure_relation": "variant_quantity"
         },
         {
           "source_span": "ξ̸ ι",
@@ -194,7 +196,9 @@
           "certainty": "uncertain",
           "notes": [
             "παρενθετικὴ παραλλαγή· ἡ μονὰς νοεῖται ἐκ τοῦ προηγοῦντος «λι.»"
-          ]
+          ],
+          "measure_group_id": "paul-7-20-31:ingredients:1:measure:m1",
+          "measure_relation": "variant_quantity"
         }
       ],
       "qualifiers": [],
@@ -230,7 +234,9 @@
           "raw_unit": "𐆄",
           "normalized_unit": "uncia",
           "certainty": "certain",
-          "notes": []
+          "notes": [],
+          "measure_relation": "standalone",
+          "measure_group_id": "paul-7-20-31:ingredients:2:measure:1"
         }
       ],
       "qualifiers": [],
@@ -266,7 +272,9 @@
           "raw_unit": "𐆄",
           "normalized_unit": "uncia",
           "certainty": "certain",
-          "notes": []
+          "notes": [],
+          "measure_relation": "standalone",
+          "measure_group_id": "paul-7-20-31:ingredients:3:measure:1"
         }
       ],
       "qualifiers": [],
@@ -302,7 +310,9 @@
           "raw_unit": "𐆄",
           "normalized_unit": "uncia",
           "certainty": "certain",
-          "notes": []
+          "notes": [],
+          "measure_relation": "standalone",
+          "measure_group_id": "paul-7-20-31:ingredients:4:measure:1"
         }
       ],
       "qualifiers": [],
@@ -336,10 +346,12 @@
           "source_span": "λι. α",
           "raw_number": "α",
           "normalized_number": 1,
-          "raw_unit": "λι",
+          "raw_unit": "λι.",
           "normalized_unit": "litra",
           "certainty": "certain",
-          "notes": []
+          "notes": [],
+          "measure_group_id": "paul-7-20-31:ingredients:5:measure:m1",
+          "measure_relation": "variant_quantity"
         },
         {
           "source_span": "ι",
@@ -350,7 +362,9 @@
           "certainty": "uncertain",
           "notes": [
             "παρενθετικὴ παραλλαγή «ἔνιοι ι»· ἡ μονὰς νοεῖται ἐκ τοῦ προηγοῦντος «λι.»"
-          ]
+          ],
+          "measure_group_id": "paul-7-20-31:ingredients:5:measure:m1",
+          "measure_relation": "variant_quantity"
         }
       ],
       "qualifiers": [],
@@ -386,7 +400,9 @@
           "raw_unit": "𐆄",
           "normalized_unit": "uncia",
           "certainty": "certain",
-          "notes": []
+          "notes": [],
+          "measure_relation": "standalone",
+          "measure_group_id": "paul-7-20-31:ingredients:6:measure:1"
         }
       ],
       "qualifiers": [],

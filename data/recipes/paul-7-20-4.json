@@ -120,12 +120,12 @@
     "entity_model_version": "1.2",
     "authority_version": "2026-04-13-qty-alt-v1",
     "prompt_version": "qty-alt-pass-v1",
-    "build_version": "2026-05-25T18:36:46Z"
+    "build_version": "2026-06-05T15:09:42Z"
   },
   "schema_version": "1.2",
   "build_metadata": {
     "builder": "scripts/recipes/build_recipe_entities.py",
-    "built_at": "2026-05-25T18:36:46Z",
+    "built_at": "2026-06-05T15:09:42Z",
     "source_structured_authority": "reports/entity_review/structured/paul.json",
     "authority_model": "gpt-5.4",
     "authority_reasoning_effort": "high",
@@ -133,7 +133,7 @@
     "entity_model_version": "1.2",
     "authority_version": "2026-04-13-qty-alt-v1",
     "prompt_version": "qty-alt-pass-v1",
-    "build_version": "2026-05-25T18:36:46Z"
+    "build_version": "2026-06-05T15:09:42Z"
   },
   "recipe_text_excerpt": "Ῥόδων ἐρυθρῶν ὠνυχισμένων καὶ διεψυγμένων νυχθήμερον α 𐆄 γ, ἐλαίου ὀμφακίνου ξ̸ Ἰταλικὸν α· περισφίγξας ἐπιμελῶς τὸν βῖκον, ὡς μὴ",
   "preparation": {
@@ -182,7 +182,9 @@
           "certainty": "uncertain",
           "notes": [
             "Ancient numeral notation is preserved, but no unit is explicit in the surviving span."
-          ]
+          ],
+          "measure_relation": "standalone",
+          "measure_group_id": "paul-7-20-4:ingredients:1:measure:1"
         }
       ],
       "qualifiers": [
@@ -225,7 +227,9 @@
           "certainty": "uncertain",
           "notes": [
             "The abbreviated unit is likely ξέστης, but the expansion is inferred."
-          ]
+          ],
+          "measure_relation": "standalone",
+          "measure_group_id": "paul-7-20-4:ingredients:2:measure:1"
         }
       ],
       "qualifiers": [],

@@ -112,12 +112,12 @@
     "entity_model_version": "1.2",
     "authority_version": "2026-04-13-qty-alt-v1",
     "prompt_version": "qty-alt-pass-v1",
-    "build_version": "2026-05-25T18:36:46Z"
+    "build_version": "2026-06-05T15:09:42Z"
   },
   "schema_version": "1.2",
   "build_metadata": {
     "builder": "scripts/recipes/build_recipe_entities.py",
-    "built_at": "2026-05-25T18:36:46Z",
+    "built_at": "2026-06-05T15:09:42Z",
     "source_structured_authority": "reports/entity_review/structured/paul.json",
     "authority_model": "gpt-5.4",
     "authority_reasoning_effort": "high",
@@ -125,7 +125,7 @@
     "entity_model_version": "1.2",
     "authority_version": "2026-04-13-qty-alt-v1",
     "prompt_version": "qty-alt-pass-v1",
-    "build_version": "2026-05-25T18:36:46Z"
+    "build_version": "2026-06-05T15:09:42Z"
   },
   "recipe_text_excerpt": "Φύλλου 𐆄 γ, ἀμώμου 𐆄 α, κασσίας 𐆄 ϛ, λαδάνου 𐆄 α, πεπέρεως λευκοῦ κόκκους μ, σμύρνης τρωγλίτιδος 𐅻 α·",
   "preparation": {
@@ -173,7 +173,9 @@
           "certainty": "uncertain",
           "notes": [
             "Unit sign unresolved."
-          ]
+          ],
+          "measure_relation": "standalone",
+          "measure_group_id": "paul-7-20-38:ingredients:1:measure:1"
         }
       ],
       "qualifiers": [],
@@ -212,7 +214,9 @@
           "certainty": "uncertain",
           "notes": [
             "Unit sign unresolved."
-          ]
+          ],
+          "measure_relation": "standalone",
+          "measure_group_id": "paul-7-20-38:ingredients:2:measure:1"
         }
       ],
       "qualifiers": [],
@@ -251,7 +255,9 @@
           "certainty": "uncertain",
           "notes": [
             "Unit sign unresolved."
-          ]
+          ],
+          "measure_relation": "standalone",
+          "measure_group_id": "paul-7-20-38:ingredients:3:measure:1"
         }
       ],
       "qualifiers": [],
@@ -290,7 +296,9 @@
           "certainty": "uncertain",
           "notes": [
             "Unit sign unresolved."
-          ]
+          ],
+          "measure_relation": "standalone",
+          "measure_group_id": "paul-7-20-38:ingredients:4:measure:1"
         }
       ],
       "qualifiers": [],
@@ -327,7 +335,9 @@
           "raw_unit": "κόκκους",
           "normalized_unit": "kokkos",
           "certainty": "certain",
-          "notes": []
+          "notes": [],
+          "measure_relation": "standalone",
+          "measure_group_id": "paul-7-20-38:ingredients:5:measure:1"
         }
       ],
       "qualifiers": [
@@ -374,7 +384,9 @@
           "certainty": "uncertain",
           "notes": [
             "Unit sign unresolved."
-          ]
+          ],
+          "measure_relation": "standalone",
+          "measure_group_id": "paul-7-20-38:ingredients:6:measure:1"
         }
       ],
       "qualifiers": [
@@ -415,10 +427,12 @@
           "source_span": "λι. α",
           "raw_number": "α",
           "normalized_number": 1,
-          "raw_unit": "λι",
+          "raw_unit": "λι.",
           "normalized_unit": "litra",
           "certainty": "certain",
-          "notes": []
+          "notes": [],
+          "measure_relation": "standalone",
+          "measure_group_id": "paul-7-20-38:ingredients:7:measure:1"
         }
       ],
       "qualifiers": [
@@ -497,7 +511,9 @@
           "raw_unit": "κοχλιάρια",
           "normalized_unit": "cochlarion",
           "certainty": "certain",
-          "notes": []
+          "notes": [],
+          "measure_relation": "standalone",
+          "measure_group_id": "paul-7-20-38:ingredients:9:measure:1"
         }
       ],
       "qualifiers": [],
@@ -529,12 +545,14 @@
           "source_span": "λι. α 𐅵ʹ",
           "raw_number": "α 𐅵ʹ",
           "normalized_number": "1 1/2",
-          "raw_unit": "λι",
+          "raw_unit": "λι.",
           "normalized_unit": "litra",
           "certainty": "uncertain",
           "notes": [
             "Fraction sign interpreted approximately."
-          ]
+          ],
+          "measure_relation": "standalone",
+          "measure_group_id": "paul-7-20-38:ingredients:10:measure:1"
         }
       ],
       "qualifiers": [],

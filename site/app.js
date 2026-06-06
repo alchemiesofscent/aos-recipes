@@ -148,6 +148,83 @@ function formattedQuantityInline(q) {
   return left;
 }
 
+function quantityGroups(qs) {
+  const groups = [];
+  const byId = new Map();
+  qs.forEach((q, index) => {
+    const id = q.measure_group_id || `__quantity_${index}`;
+    if (!byId.has(id)) {
+      const group = { id, items: [] };
+      byId.set(id, group);
+      groups.push(group);
+    }
+    byId.get(id).items.push(q);
+  });
+  return groups;
+}
+
+function groupRelation(group) {
+  const relations = group.items.map((q) => q.measure_relation || "standalone");
+  return relations.find((relation) => relation !== "standalone") || relations[0] || "standalone";
+}
+
+function quantityMainText(q) {
+  const f = formatQuantity(q);
+  return [f.qty, f.unit].filter(Boolean).join(" ") || f.source || "";
+}
+
+function formatQuantityGroup(group) {
+  const relation = groupRelation(group);
+  const items = group.items;
+  const primary = items[0];
+  const f = primary ? formatQuantity(primary) : { qty: "", unit: "", source: "" };
+  const variants = [];
+
+  if (relation === "compound_component") {
+    return {
+      qty: items.map(quantityMainText).filter(Boolean).join(" "),
+      unit: "",
+      source: items.map((q) => q.source_span || "").filter(Boolean).join(" + "),
+      variants,
+    };
+  }
+
+  if (relation === "equivalent_notation") {
+    return {
+      qty: f.qty,
+      unit: f.unit,
+      source: items.map((q) => q.source_span || "").filter(Boolean).join(" = ") || f.source,
+      variants,
+    };
+  }
+
+  if (relation === "variant_quantity") {
+    variants.push(...items.slice(1).map(formattedQuantityInline).filter(Boolean));
+  }
+
+  return {
+    qty: f.qty,
+    unit: f.unit,
+    source: f.source,
+    variants,
+  };
+}
+
+function formatQuantityCells(qs) {
+  const groups = quantityGroups(qs).map(formatQuantityGroup);
+  if (!groups.length) return { qty: "", unit: "", source: "", variants: [] };
+  const variants = groups.flatMap((group) => group.variants);
+  if (groups.length === 1) {
+    return { ...groups[0], variants };
+  }
+  return {
+    qty: groups.map((group) => [group.qty, group.unit].filter(Boolean).join(" ")).filter(Boolean).join(" · "),
+    unit: "",
+    source: groups.map((group) => group.source).filter(Boolean).join(" · "),
+    variants,
+  };
+}
+
 function renderEntityTable(items, { label = "Ingredient", showDuration = false } = {}) {
   if (!items || !items.length) return "";
   const headerCols = [label, "Qty", "Unit", "Source"];
@@ -157,14 +234,10 @@ function renderEntityTable(items, { label = "Ingredient", showDuration = false }
   const rows = items.map((item) => {
     const name = entityLabel(item);
     const qs = Array.isArray(item.quantities) ? item.quantities : [];
-    const primary = qs[0];
-    const f = primary ? formatQuantity(primary) : { qty: "", unit: "", source: "" };
+    const f = formatQuantityCells(qs);
     let variantHtml = "";
-    if (qs.length > 1) {
-      const alts = qs.slice(1).map(formattedQuantityInline).filter(Boolean);
-      if (alts.length) {
-        variantHtml = `<small class="qty-variant">alt: ${escapeHtml(alts.join(" · "))}</small>`;
-      }
+    if (f.variants.length) {
+      variantHtml = `<small class="qty-variant">alt: ${escapeHtml(f.variants.join(" · "))}</small>`;
     }
     const cells = [
       `<td class="col-name">${escapeHtml(name)}</td>`,
@@ -355,12 +428,29 @@ function recipeFromHash() {
   return state.recipes.find((r) => r.recipe_id === id) || null;
 }
 
+async function fetchDataJson(name) {
+  // Works for both layouts:
+  //   - GitHub Pages deploy (data/ sibling of index.html): "data/<name>"
+  //   - Local repo-root serving (open /site/, data is one level up): "../data/<name>"
+  const candidates = ["data/" + name, "../data/" + name];
+  let lastError;
+  for (const url of candidates) {
+    try {
+      const response = await fetch(url);
+      if (!response.ok) { lastError = new Error(`${url} → ${response.status}`); continue; }
+      const text = await response.text();
+      try { return JSON.parse(text); } catch (e) { lastError = new Error(`${url} returned non-JSON`); continue; }
+    } catch (e) { lastError = e; }
+  }
+  throw lastError || new Error(`could not load ${name}`);
+}
+
 async function init() {
   initTheme();
 
   const [recipePayload, sourcePayload] = await Promise.all([
-    fetch("data/recipes.json").then((response) => response.json()),
-    fetch("data/sources.json").then((response) => response.json()),
+    fetchDataJson("recipes.json"),
+    fetchDataJson("sources.json"),
   ]);
   state.recipes = recipePayload.recipes;
   state.sources = sourcePayload.sources;

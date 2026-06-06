@@ -101,12 +101,12 @@
     "entity_model_version": "1.2",
     "authority_version": "2026-04-13-qty-alt-v1",
     "prompt_version": "qty-alt-pass-v1",
-    "build_version": "2026-05-25T18:36:46Z"
+    "build_version": "2026-06-05T15:09:42Z"
   },
   "schema_version": "1.2",
   "build_metadata": {
     "builder": "scripts/recipes/build_recipe_entities.py",
-    "built_at": "2026-05-25T18:36:46Z",
+    "built_at": "2026-06-05T15:09:42Z",
     "source_structured_authority": "reports/entity_review/structured/aetius_book16.json",
     "authority_model": "gpt-5.4",
     "authority_reasoning_effort": "high",
@@ -114,7 +114,7 @@
     "entity_model_version": "1.2",
     "authority_version": "2026-04-13-qty-alt-v1",
     "prompt_version": "qty-alt-pass-v1",
-    "build_version": "2026-05-25T18:36:46Z"
+    "build_version": "2026-06-05T15:09:42Z"
   },
   "recipe_text_excerpt": "Σεμιδάλεως ξειστ ἤτοι ξέστ ιστ. ἐλαίου ὀμφακίνου ξεε ἤτοι ξέστ. ε. πεπέρεως γοε ἤτοι οὐγ. ε. φύλλου, καρυοφύλλου ἀνὰ γοα.",
   "preparation": {
@@ -158,7 +158,9 @@
           "certainty": "certain",
           "notes": [
             "The source first gives the abbreviated form «ξειστ»."
-          ]
+          ],
+          "measure_group_id": "aetius-16-140:mg:merged-equivalent-12",
+          "measure_relation": "equivalent_notation"
         }
       ],
       "qualifiers": [],
@@ -193,7 +195,9 @@
           "certainty": "certain",
           "notes": [
             "The source first gives the abbreviated form «ξεε»."
-          ]
+          ],
+          "measure_group_id": "aetius-16-140:mg:merged-equivalent-13",
+          "measure_relation": "equivalent_notation"
         }
       ],
       "qualifiers": [],
@@ -228,7 +232,9 @@
           "certainty": "certain",
           "notes": [
             "The source first gives the abbreviated form «γοε»."
-          ]
+          ],
+          "measure_group_id": "aetius-16-140:mg:merged-equivalent-14",
+          "measure_relation": "equivalent_notation"
         }
       ],
       "qualifiers": [],
@@ -264,7 +270,9 @@
           "notes": [
             "Shared distributive quantity governed by «ἀνὰ».",
             "The source first gives the abbreviated form «γοα.»."
-          ]
+          ],
+          "measure_group_id": "aetius-16-140:mg:merged-equivalent-15",
+          "measure_relation": "equivalent_notation"
         }
       ],
       "qualifiers": [],
@@ -300,7 +308,9 @@
           "notes": [
             "Shared distributive quantity governed by «ἀνὰ».",
             "The source first gives the abbreviated form «γοα.»."
-          ]
+          ],
+          "measure_group_id": "aetius-16-140:mg:merged-equivalent-16",
+          "measure_relation": "equivalent_notation"
         }
       ],
       "qualifiers": [],
@@ -335,7 +345,9 @@
           "certainty": "certain",
           "notes": [
             "The source first gives the abbreviated form «ξεγ»."
-          ]
+          ],
+          "measure_group_id": "aetius-16-140:mg:merged-equivalent-17",
+          "measure_relation": "equivalent_notation"
         }
       ],
       "qualifiers": [],
@@ -370,7 +382,9 @@
           "certainty": "certain",
           "notes": [
             "The source first gives the abbreviated form «λιβ.»."
-          ]
+          ],
+          "measure_group_id": "aetius-16-140:mg:merged-equivalent-18",
+          "measure_relation": "equivalent_notation"
         }
       ],
       "qualifiers": [],

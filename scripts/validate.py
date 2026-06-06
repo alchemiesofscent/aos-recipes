@@ -15,7 +15,7 @@ EXPECTED_COUNTS = {
     "dioscorides_book1_perfumes_resins": 52,
     "dioscorides_book2_fats": 18,
     "aetius_book1_oils": 43,
-    "aetius_book16_myrepsika": 44,
+    "aetius_book16_myrepsika": 45,
     "paul_book7_perfumes": 35,
 }
 FORBIDDEN = ("parallel-viewer", "experiments/.codex", "__pycache__")
@@ -72,8 +72,8 @@ def main() -> int:
     recipes = recipes_payload.get("recipes")
     if not isinstance(recipes, list):
         fail("data/recipes.json missing recipes list")
-    if len(recipes) != 192:
-        fail(f"expected 192 recipes, found {len(recipes)}")
+    if len(recipes) != 193:
+        fail(f"expected 193 recipes, found {len(recipes)}")
 
     ids = [recipe.get("recipe_id") for recipe in recipes]
     if any(not recipe_id for recipe_id in ids):
@@ -188,6 +188,15 @@ def main() -> int:
     if quantity_gold_errors:
         fail(f"quantity-gold overlay validation failed: {quantity_gold_errors[0]}")
 
+    cooccurrence_index = ROOT / "data" / "analysis" / "cooccurrence" / "index.json"
+    if cooccurrence_index.exists():
+        cooccurrence_payload = load(cooccurrence_index)
+        if cooccurrence_payload.get("recipe_count") != 193:
+            fail(
+                f"cooccurrence index recipe_count mismatch: "
+                f"{cooccurrence_payload.get('recipe_count')!r}"
+            )
+
     text_paths = []
     for path in ROOT.rglob("*"):
         rel = path.relative_to(ROOT).as_posix()
@@ -201,7 +210,7 @@ def main() -> int:
             if token in body and path.name != "validate.py" and path.name != "manifest.json" and path.name != "provenance.md":
                 fail(f"forbidden token {token!r} in {path.relative_to(ROOT)}")
 
-    print("PASS: 192 recipes; expected slice counts; unique IDs; source links; entity coverage; no forbidden exports")
+    print("PASS: 193 recipes; expected slice counts; unique IDs; source links; entity coverage; no forbidden exports")
     return 0
 
 
