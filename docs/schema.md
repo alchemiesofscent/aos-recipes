@@ -21,5 +21,6 @@ The corpus contract is intentionally small.
   behind `measure_group_id` and `measure_relation`.
 - `data/ingredient_lexicon.tsv` is the reviewable ingredient lookup table. `lsj_headword` is the curated LSJ citation-form join key, while `lookup_key` may preserve a recipe substantive form such as `ὀμφάκινον`.
 - `data/ingredient_lexicon.json` mirrors the lookup table and adds normalized-label variants plus source occurrence evidence.
+- `data/analysis/cooccurrence/` holds the frequent ingredient co-occurrence analysis: `index.json` records run parameters and the total frequent-itemset count per k, and `k01.json`…`kNN.json` list the top itemsets per k. Regenerate with `scripts/cooccurrence.py`. The narrative summary is `docs/cooccurrence.md`.
 
 Recipe IDs and URNs are preserved from the source repository. No opaque-ID migration is performed in this export.

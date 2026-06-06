@@ -188,6 +188,15 @@ def main() -> int:
     if quantity_gold_errors:
         fail(f"quantity-gold overlay validation failed: {quantity_gold_errors[0]}")
 
+    cooccurrence_index = ROOT / "data" / "analysis" / "cooccurrence" / "index.json"
+    if cooccurrence_index.exists():
+        cooccurrence_payload = load(cooccurrence_index)
+        if cooccurrence_payload.get("recipe_count") != 193:
+            fail(
+                f"cooccurrence index recipe_count mismatch: "
+                f"{cooccurrence_payload.get('recipe_count')!r}"
+            )
+
     text_paths = []
     for path in ROOT.rglob("*"):
         rel = path.relative_to(ROOT).as_posix()

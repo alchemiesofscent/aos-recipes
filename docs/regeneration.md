@@ -28,8 +28,10 @@ cp /tmp/aos-recipes-export/data/review/measure_unit_audit.jsonl data/review/meas
 
 python3 scripts/normalize_quantities.py
 python3 scripts/extract_ingredient_lexicon.py
+python3 scripts/cooccurrence.py
 python3 scripts/validate.py
 python3 scripts/extract_ingredient_lexicon.py --check
+python3 scripts/cooccurrence.py --check
 ```
 
 The exporter reads the dataset registrations in `scripts/recipes/common.py`, so slice membership should be changed there first.
