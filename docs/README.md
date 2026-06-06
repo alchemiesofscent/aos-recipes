@@ -1,6 +1,6 @@
 # Documentation Index
 
-This directory holds the documentation for `aos-recipes`. The entries below are grouped by audience. Each entry is one bullet: `[file](file) — one-line purpose`.
+This directory holds the documentation for `aos-recipes`. The entries below are grouped by audience.
 
 ## Scope
 

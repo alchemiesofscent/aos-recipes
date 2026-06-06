@@ -30,13 +30,13 @@ Work owned by `/home/seanm/github/aetius`. Nothing here can be ticked until the 
 
 Achievable inside `aos-recipes`. These are local-validator passes and structural cleanup.
 
-- [ ] `python3 scripts/validate.py` exits 0.
-- [ ] `python3 scripts/extract_ingredient_lexicon.py --check` exits 0.
-- [ ] `python3 scripts/cooccurrence.py --check` exits 0.
-- [ ] `python3 scripts/quantity_gold.py --validate` exits 0 (non-strict; full strict mode is upstream-blocking above).
-- [ ] Documentation consolidated: no redundant files; [`README.md`](README.md) indexes every other doc.
-- [ ] All markdown internal links resolve (mechanical link-checker passes; see Verification below).
-- [ ] `release_v1.md` (this file) is linked from the top-level `README.md`.
+- [x] `python3 scripts/validate.py` exits 0.
+- [x] `python3 scripts/extract_ingredient_lexicon.py --check` exits 0.
+- [x] `python3 scripts/cooccurrence.py --check` exits 0.
+- [x] `python3 scripts/quantity_gold.py --validate` exits 0 (non-strict; full strict mode is upstream-blocking above).
+- [x] Documentation consolidated: no redundant files; [`README.md`](README.md) indexes every other doc.
+- [x] All markdown internal links resolve (mechanical link-checker passes; see Verification below).
+- [x] `release_v1.md` (this file) is linked from the top-level `README.md`.
 
 ### Repo-local follow-ups — allowed before or after the gold campaign
 
@@ -80,3 +80,4 @@ The Upstream-blocking section above is mirrored from [`normalization_campaign.md
 | Date | Item | Reviewer | Notes |
 |---|---|---|---|
 | 2026-06-06 | Freeze policy adopted; checklist published | (owner) | v1.0-preparation PR opened |
+| 2026-06-06 | Repo-local DoD boxes ticked | (owner) | All four validators green; link checker clean |
