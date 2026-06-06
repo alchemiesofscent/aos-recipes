@@ -1,40 +1,5 @@
 # Quantity Gold Mirror
 
-This directory contains exported quantity-gold artifacts. The source authority is
-`/home/seanm/github/aetius`; this checkout is a derived mirror.
-Do not edit these artifacts independently.
+This directory contains exported quantity-gold artifacts. **Authority lives upstream in `/home/seanm/github/aetius`; do not edit these files here.**
 
-Primary generated files:
-
-- `recipes/<recipe_id>.json`: per-recipe quantity-gold authority record.
-- `quantity_ledger.csv`: flat ledger of accepted and rejected records.
-- `summary.md`: source summary and regression notes.
-- `projection/recipes.json`: non-mutating compatibility projection into the current `quantities[]` shape.
-- `projection/rich_recipes.json`: rich projection preserving process qualifiers, temporal records, and rejections.
-- `runs/<run_id>/`: timestamped mirror snapshots.
-- `archive/<run_id>/`: archived predecessors overwritten by export.
-
-Coverage note: the current mirrored quantity-gold index reports
-`corpus_recipe_count: 193`. Older archived artifacts may still say `174`
-because that denominator came from an earlier artifact run. The current
-`aetius` source recipe-entity index and this standalone `aos-recipes` export are
-both 193 recipes, including the 18-record `dioscorides_book2_fats` slice and the
-45-record Aëtius Book 16 slice.
-
-Validate mirrored records with:
-
-```bash
-python3 scripts/quantity_gold.py --validate
-```
-
-Regenerate or project in the source repo:
-
-```bash
-cd /home/seanm/github/aetius
-python3 scripts/quantity_gold.py --write-artifacts --validate
-python3 scripts/quantity_gold.py --export-derived /home/seanm/github/aos-recipes
-```
-
-Canonical `data/recipes/*.json` is not rewritten by this mirror. Existing
-`quantities[]` remains a compatibility target; rich gold records are not forced
-into that shape.
+For the artifact layout, the source/mirror contract, and the regeneration commands, see [`../../../docs/quantity_gold.md`](../../../docs/quantity_gold.md).

@@ -1,12 +1,6 @@
 # Regeneration
 
-`aos-recipes` is a standalone dataset repo with local enrichment. Follow
-[`repo_policy.md`](repo_policy.md): export from `aetius` to a staging directory,
-then sync only source-owned generated layers into this checkout.
-
-Do not run the source exporter directly with `--force` against the live
-`aos-recipes` checkout. It clears the destination and can delete mirror-owned
-docs, scripts, and site files.
+Ownership, the source/mirror boundary, and the rationale for the staged-export pattern below are documented in [`repo_policy.md`](repo_policy.md). This file is the operational command sequence.
 
 ## Recipe Export
 

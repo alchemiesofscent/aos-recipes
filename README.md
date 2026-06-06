@@ -51,3 +51,7 @@ Quantity-gold mirror validation only:
 ```bash
 python3 scripts/quantity_gold.py --validate
 ```
+
+## Further reading
+
+The full documentation is indexed by audience in [`docs/README.md`](docs/README.md). For the v1.0 freeze policy, the Definition of Done, and the release checklist, see [`docs/release_v1.md`](docs/release_v1.md).
