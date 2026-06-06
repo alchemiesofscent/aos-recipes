@@ -29,7 +29,7 @@ this mirror.
 ### Authority and scope
 
 `/home/seanm/github/aetius` is the **source of truth**; `aos-recipes` is the
-derived, **validate-only mirror** (see [`quantity_gold.md`](quantity_gold.md)). All schema,
+derived, **validate-only mirror** (see [`quantity_gold.md`](../quantity_gold.md)). All schema,
 authority-file, and vocabulary changes proposed here are **implemented upstream in `aetius`
 and mirrored here** via the export commands. This policy document itself lives in
 `aos-recipes` because it is the public-facing export, but it governs both repositories.
@@ -179,7 +179,7 @@ arrays, not a full TEI apparatus.)*
 
 ### W4 — Execute and version the gold pipeline
 
-*Incorporates [`quantity_gold.md`](quantity_gold.md).*
+*Incorporates [`quantity_gold.md`](../quantity_gold.md).*
 
 - Restate the authority/mirror split and the validate-only posture of this repo.
 - Run the full LLM/gold generation across **all 193 recipes** in `aetius`, then
@@ -257,6 +257,6 @@ Findings F1–F19 were drawn from a spot-check of these records (read, unchanged
 `aetius-1-132.json` and `aetius-1-132-2.json` (salka oil + John-the-perfumer variant),
 `paul-7-20-5.json` (Χαμαιμήλινον), `paul-7-20-8.json` (Σούσινον σύνθετον).
 
-Cross-references: [`schema.md`](schema.md), [`quantity_gold.md`](quantity_gold.md),
+Cross-references: [`schema.md`](../schema.md), [`quantity_gold.md`](../quantity_gold.md),
 `data/review/quantity_gold/schema.json`,
 `data/review/quantity_gold/vocabularies/{metrology,temporal,process_qualifiers}.json`.

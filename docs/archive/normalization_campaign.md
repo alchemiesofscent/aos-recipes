@@ -6,7 +6,7 @@
 | **Date** | 2026-06-05 |
 | **Status** | Active campaign plan |
 | **Policy basis** | [`schema_policy.md`](schema_policy.md) |
-| **Repo boundary** | [`repo_policy.md`](repo_policy.md) |
+| **Repo boundary** | [`repo_policy.md`](../repo_policy.md) |
 
 ## Goal
 

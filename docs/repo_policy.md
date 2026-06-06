@@ -55,10 +55,7 @@ quantity-gold workflow first. Deterministic normalization rules should be
 derived from accepted review decisions, not used as a substitute for contextual
 review.
 
-The schema-policy normalization campaign is governed by
-[`normalization_campaign.md`](normalization_campaign.md). Its LLM candidates and
-decision ledgers live upstream in `aetius`; this repo validates and documents the
-mirrored results.
+Forward-looking schema design recommendations (the F1–F19 gap analysis and the proposed authority / process-modification / variant models) live in [`schema_recommendations.md`](schema_recommendations.md). The earlier upstream LLM-candidate review campaign that those recommendations were originally framed around was superseded by per-recipe revision in the Claude cowork scholarly workflow; the original campaign and schema-policy documents are retained for historical reference in [`archive/`](archive/).
 
 ## Versioning
 

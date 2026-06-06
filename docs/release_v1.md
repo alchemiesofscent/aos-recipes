@@ -31,8 +31,8 @@ v1 is **not** the revised scholarly edition. It is:
 - [x] All markdown internal links resolve (mechanical link-checker passes; see Verification below).
 - [x] Per-recipe ingestion contract documented in [`ingestion.md`](ingestion.md).
 - [x] `release_v1.md` (this file) is linked from the top-level `README.md`.
-- [ ] `CITATION.cff` present, license set, release date populated at tag time.
-- [ ] `CHANGELOG.md` present with a v1.0 entry summarising the snapshot.
+- [x] `CITATION.cff` present (license: CC-BY-4.0 placeholder — confirm or change before tagging; release date will be updated to actual tag date if it differs from 2026-06-06).
+- [x] `CHANGELOG.md` present with a v1.0 entry summarising the snapshot.
 
 ### Release mechanics
 
@@ -78,3 +78,4 @@ PY
 | 2026-06-06 | Freeze policy adopted; checklist published | (owner) | v1.0-preparation PR opened |
 | 2026-06-06 | Repo-local DoD boxes ticked | (owner) | All four validators green; link checker clean |
 | 2026-06-06 | v1.0 reframed for scholarly ingestion | (owner) | Upstream gold-review campaign superseded by Claude cowork per-recipe workflow; schema_policy and normalization_campaign archived; schema_recommendations.md captures forward-looking design |
+| 2026-06-06 | CITATION.cff and CHANGELOG.md present; link checker clean | (owner) | All "Required for v1.0 tag" boxes ticked; ready for review and merge |
