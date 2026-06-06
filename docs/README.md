@@ -32,10 +32,14 @@ python3 scripts/quantity_gold.py --validate
 - [`regeneration.md`](regeneration.md) — the operational command sequence for re-exporting from `aetius` and refreshing local enrichment.
 - [`quantity_gold.md`](quantity_gold.md) — the mirrored quantity-gold layer: artifact layout, source authority, validation, current coverage.
 
-## Governance / policy
+## Schema recommendations & archived governance
 
-- [`schema_policy.md`](schema_policy.md) — formal data-model revision policy (v0.1.0), gap analysis F1–F19, workstreams W1–W5.
-- [`normalization_campaign.md`](normalization_campaign.md) — active normalization campaign plan; LLM-candidate review contract and gating commands.
+- [`schema_recommendations.md`](schema_recommendations.md) — forward-looking design recommendations: the 19 known schema gaps (F1–F19) and the proposed authority layer, process-modification model, variant model, and validation/versioning recommendations for any v2 / scholarly-revision schema.
+- [`archive/`](archive/) — earlier governance docs (schema policy, normalization campaign) describing an upstream LLM-candidate / human-review workflow that was superseded by the per-recipe Claude cowork revision approach.
+
+## Ingestion
+
+- [`ingestion.md`](ingestion.md) — the per-recipe ingestion contract that the Claude cowork scholarly revision workflow reads against.
 
 ## Research reports (derived outputs)
 
