@@ -31,7 +31,9 @@ The primary artifacts are JSON data and documentation. The `site/` folder is a n
 
 ## Browse
 
-From the repo root:
+Live: <https://alchemiesofscent.github.io/aos-recipes/>.
+
+Or serve locally from the repo root:
 
 ```bash
 python3 -m http.server 8000
