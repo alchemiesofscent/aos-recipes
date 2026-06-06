@@ -1,0 +1,2083 @@
+{
+  "emitted_count": 92,
+  "frequent_count": 92,
+  "itemsets": [
+    {
+      "count": 54,
+      "display": [
+        "τό ἔλαιον, -ου"
+      ],
+      "members": [
+        "ἔλαιον"
+      ],
+      "recipe_id_overflow": true,
+      "recipe_ids": [
+        "aetius-1-108",
+        "aetius-1-115",
+        "aetius-1-116",
+        "aetius-1-117",
+        "aetius-1-118",
+        "aetius-1-119",
+        "aetius-1-123",
+        "aetius-1-124",
+        "aetius-1-129",
+        "aetius-1-129-2",
+        "aetius-1-130",
+        "aetius-1-131",
+        "aetius-1-131-2",
+        "aetius-1-131-4",
+        "aetius-1-131-5",
+        "aetius-1-132",
+        "aetius-1-132-2",
+        "aetius-1-133",
+        "aetius-1-134",
+        "aetius-1-135"
+      ],
+      "support": 0.2798
+    },
+    {
+      "count": 48,
+      "display": [
+        "τό φύλλον, -ου"
+      ],
+      "members": [
+        "φύλλον"
+      ],
+      "recipe_id_overflow": true,
+      "recipe_ids": [
+        "aetius-1-116",
+        "aetius-1-121",
+        "aetius-1-129-2",
+        "aetius-1-131",
+        "aetius-1-131-2",
+        "aetius-1-131-3",
+        "aetius-1-131-4",
+        "aetius-1-132",
+        "aetius-1-132-2",
+        "aetius-1-133",
+        "aetius-16-126-1",
+        "aetius-16-126-2",
+        "aetius-16-126-3",
+        "aetius-16-127-1",
+        "aetius-16-127-2",
+        "aetius-16-128",
+        "aetius-16-129",
+        "aetius-16-130-1",
+        "aetius-16-130-2",
+        "aetius-16-130-3"
+      ],
+      "support": 0.2487
+    },
+    {
+      "count": 39,
+      "display": [
+        "ἡ στύραξ, -ακος"
+      ],
+      "members": [
+        "στύραξ"
+      ],
+      "recipe_id_overflow": true,
+      "recipe_ids": [
+        "aetius-1-123",
+        "aetius-1-131",
+        "aetius-1-131-5",
+        "aetius-1-132",
+        "aetius-1-132-2",
+        "aetius-1-133",
+        "aetius-1-135",
+        "aetius-16-126-1",
+        "aetius-16-126-2",
+        "aetius-16-126-3",
+        "aetius-16-127-1",
+        "aetius-16-127-2",
+        "aetius-16-128",
+        "aetius-16-129",
+        "aetius-16-130-1",
+        "aetius-16-131-1",
+        "aetius-16-131-2",
+        "aetius-16-133-2",
+        "aetius-16-136",
+        "aetius-16-142"
+      ],
+      "support": 0.2021
+    },
+    {
+      "count": 35,
+      "display": [
+        "ἡ σμύρνα, -ης"
+      ],
+      "members": [
+        "σμύρνα"
+      ],
+      "recipe_id_overflow": true,
+      "recipe_ids": [
+        "aetius-1-126",
+        "aetius-1-128",
+        "aetius-1-131-3",
+        "aetius-1-132",
+        "aetius-1-132-2",
+        "aetius-1-133",
+        "aetius-16-130-1",
+        "aetius-16-131-3",
+        "aetius-16-132",
+        "aetius-16-133-2",
+        "aetius-16-145",
+        "aetius-16-146-2",
+        "aetius-16-150",
+        "aetius-16-152",
+        "aetius-16-153",
+        "dioscorides-1-25-kyphi",
+        "dioscorides-1-52-sousinon",
+        "dioscorides-1-54-krokinon",
+        "dioscorides-1-55-kyprinon",
+        "dioscorides-1-58-amarakinon"
+      ],
+      "support": 0.1813
+    },
+    {
+      "count": 34,
+      "display": [
+        "ὁ κόστος, -ου"
+      ],
+      "members": [
+        "κόστος"
+      ],
+      "recipe_id_overflow": true,
+      "recipe_ids": [
+        "aetius-1-128",
+        "aetius-1-131",
+        "aetius-1-131-3",
+        "aetius-1-131-4",
+        "aetius-1-131-5",
+        "aetius-1-132",
+        "aetius-1-132-2",
+        "aetius-1-133",
+        "aetius-1-135",
+        "aetius-16-126-3",
+        "aetius-16-127-1",
+        "aetius-16-127-2",
+        "aetius-16-130-1",
+        "aetius-16-131-2",
+        "aetius-16-132",
+        "aetius-16-133-1",
+        "aetius-16-133-2",
+        "aetius-16-134-1",
+        "aetius-16-142",
+        "aetius-16-144-2"
+      ],
+      "support": 0.1762
+    },
+    {
+      "count": 34,
+      "display": [
+        "τό ὕδωρ, -ατος"
+      ],
+      "members": [
+        "ὕδωρ"
+      ],
+      "recipe_id_overflow": true,
+      "recipe_ids": [
+        "aetius-1-106",
+        "aetius-1-109",
+        "aetius-1-113-2",
+        "aetius-1-124",
+        "aetius-1-130",
+        "aetius-1-131",
+        "aetius-1-132",
+        "aetius-16-138-3",
+        "aetius-16-139",
+        "aetius-16-141",
+        "dioscorides-1-30-5-sikyonion",
+        "dioscorides-1-30-omphakinon",
+        "dioscorides-1-30-whitened-oil",
+        "dioscorides-1-31-elaiomeli",
+        "dioscorides-1-32-kikinon",
+        "dioscorides-1-33-amygdalinon",
+        "dioscorides-1-35-hyoskyaminon",
+        "dioscorides-1-38-sinapinon",
+        "dioscorides-1-39-myrsininon",
+        "dioscorides-1-40-daphninon"
+      ],
+      "support": 0.1762
+    },
+    {
+      "count": 32,
+      "display": [
+        "ὁ ναρδόσταχυς, -υος"
+      ],
+      "members": [
+        "ναρδόσταχυς"
+      ],
+      "recipe_id_overflow": true,
+      "recipe_ids": [
+        "aetius-1-131",
+        "aetius-1-131-3",
+        "aetius-1-131-4",
+        "aetius-1-132",
+        "aetius-16-126-1",
+        "aetius-16-126-2",
+        "aetius-16-127-2",
+        "aetius-16-130-1",
+        "aetius-16-130-2",
+        "aetius-16-130-3",
+        "aetius-16-131-2",
+        "aetius-16-132",
+        "aetius-16-133-1",
+        "aetius-16-133-2",
+        "aetius-16-134-1",
+        "aetius-16-134-2",
+        "aetius-16-137-1",
+        "aetius-16-137-2",
+        "aetius-16-142",
+        "aetius-16-144-2"
+      ],
+      "support": 0.1658
+    },
+    {
+      "count": 32,
+      "display": [
+        "ὁ οἶνος, -ου"
+      ],
+      "members": [
+        "οἶνος"
+      ],
+      "recipe_id_overflow": true,
+      "recipe_ids": [
+        "aetius-1-121",
+        "aetius-1-125",
+        "aetius-1-128",
+        "aetius-1-131",
+        "aetius-1-131-2",
+        "aetius-1-131-3",
+        "aetius-1-131-4",
+        "aetius-1-133",
+        "aetius-16-131-2",
+        "aetius-16-133-2",
+        "aetius-16-134-1",
+        "aetius-16-136",
+        "aetius-16-137-1",
+        "aetius-16-137-2",
+        "aetius-16-137-3",
+        "aetius-16-138-1",
+        "aetius-16-138-2",
+        "aetius-16-138-3",
+        "aetius-16-140",
+        "aetius-16-151"
+      ],
+      "support": 0.1658
+    },
+    {
+      "count": 31,
+      "display": [
+        "ὁ κάλαμος, -ου"
+      ],
+      "members": [
+        "κάλαμος"
+      ],
+      "recipe_id_overflow": true,
+      "recipe_ids": [
+        "aetius-1-117",
+        "aetius-1-125",
+        "aetius-1-128",
+        "aetius-1-131-3",
+        "aetius-1-132",
+        "aetius-1-132-2",
+        "aetius-1-133",
+        "aetius-16-127-1",
+        "aetius-16-130-1",
+        "aetius-16-142",
+        "aetius-16-150",
+        "aetius-16-151",
+        "dioscorides-1-25-kyphi",
+        "dioscorides-1-40-daphninon",
+        "dioscorides-1-43-rhodinon",
+        "dioscorides-1-47-telinon",
+        "dioscorides-1-52-sousinon",
+        "dioscorides-1-53-narkissinon",
+        "dioscorides-1-55-kyprinon",
+        "dioscorides-1-57-gleukinon"
+      ],
+      "support": 0.1606
+    },
+    {
+      "count": 29,
+      "display": [
+        "ἡ κασία, -ας"
+      ],
+      "members": [
+        "κασία"
+      ],
+      "recipe_id_overflow": true,
+      "recipe_ids": [
+        "aetius-1-126",
+        "aetius-1-128",
+        "aetius-1-130",
+        "aetius-1-131",
+        "aetius-1-131-3",
+        "aetius-1-132",
+        "aetius-1-132-2",
+        "aetius-16-130-1",
+        "aetius-16-131-1",
+        "aetius-16-131-2",
+        "aetius-16-131-3",
+        "aetius-16-132",
+        "aetius-16-133-1",
+        "aetius-16-133-2",
+        "aetius-16-134-2",
+        "aetius-16-144-2",
+        "aetius-16-150",
+        "aetius-16-151",
+        "dioscorides-1-48-sampsouchinon",
+        "dioscorides-1-58-amarakinon"
+      ],
+      "support": 0.1503
+    },
+    {
+      "count": 28,
+      "display": [
+        "τό μέλι, -ιτος"
+      ],
+      "members": [
+        "μέλι"
+      ],
+      "recipe_id_overflow": true,
+      "recipe_ids": [
+        "aetius-1-108",
+        "aetius-1-125",
+        "aetius-16-134-1",
+        "aetius-16-134-2",
+        "aetius-16-135",
+        "aetius-16-136",
+        "aetius-16-137-1",
+        "aetius-16-137-2",
+        "aetius-16-137-3",
+        "aetius-16-138-1",
+        "aetius-16-138-2",
+        "aetius-16-138-3",
+        "aetius-16-139",
+        "aetius-16-140",
+        "aetius-16-142",
+        "aetius-16-145",
+        "aetius-16-148",
+        "aetius-16-150",
+        "aetius-16-151",
+        "dioscorides-1-25-kyphi"
+      ],
+      "support": 0.1451
+    },
+    {
+      "count": 28,
+      "display": [
+        "τό ἄμωμον, -ου"
+      ],
+      "members": [
+        "ἄμωμον"
+      ],
+      "recipe_id_overflow": true,
+      "recipe_ids": [
+        "aetius-1-128",
+        "aetius-1-131",
+        "aetius-1-131-3",
+        "aetius-1-131-5",
+        "aetius-1-132",
+        "aetius-1-133",
+        "aetius-16-126-1",
+        "aetius-16-126-2",
+        "aetius-16-126-3",
+        "aetius-16-127-2",
+        "aetius-16-130-1",
+        "aetius-16-130-2",
+        "aetius-16-131-1",
+        "aetius-16-131-3",
+        "aetius-16-132",
+        "aetius-16-133-1",
+        "aetius-16-133-2",
+        "aetius-16-134-1",
+        "aetius-16-142",
+        "aetius-16-144-2"
+      ],
+      "support": 0.1451
+    },
+    {
+      "count": 28,
+      "display": [
+        "τό ὀμφάκινον, -ου"
+      ],
+      "members": [
+        "ὀμφάκινον"
+      ],
+      "recipe_id_overflow": true,
+      "recipe_ids": [
+        "aetius-1-111",
+        "aetius-1-112",
+        "aetius-1-113",
+        "aetius-1-121",
+        "aetius-1-122",
+        "aetius-1-125",
+        "aetius-1-128",
+        "aetius-1-131",
+        "aetius-1-134",
+        "aetius-16-130-1",
+        "aetius-16-140",
+        "dioscorides-1-39-myrsininon",
+        "dioscorides-1-40-daphninon",
+        "dioscorides-1-44-elatinon",
+        "dioscorides-1-46-oinanthinon",
+        "dioscorides-1-55-kyprinon",
+        "dioscorides-1-57-gleukinon",
+        "dioscorides-1-58-amarakinon",
+        "dioscorides-1-59-metopion",
+        "dioscorides-1-62-nardinon"
+      ],
+      "support": 0.1451
+    },
+    {
+      "count": 27,
+      "display": [
+        "ὁ κρόκος, -ου"
+      ],
+      "members": [
+        "κρόκος"
+      ],
+      "recipe_id_overflow": true,
+      "recipe_ids": [
+        "aetius-1-132-2",
+        "aetius-16-126-1",
+        "aetius-16-126-2",
+        "aetius-16-127-2",
+        "aetius-16-129",
+        "aetius-16-130-1",
+        "aetius-16-131-2",
+        "aetius-16-137-1",
+        "aetius-16-142",
+        "aetius-16-144-1",
+        "aetius-16-144-2",
+        "aetius-16-145",
+        "aetius-16-146-1",
+        "aetius-16-146-1-2",
+        "aetius-16-146-2",
+        "aetius-16-147",
+        "aetius-16-148",
+        "aetius-16-149",
+        "aetius-16-150",
+        "aetius-16-151"
+      ],
+      "support": 0.1399
+    },
+    {
+      "count": 26,
+      "display": [
+        "τό καρυόφυλλον, -ου"
+      ],
+      "members": [
+        "καρυόφυλλον"
+      ],
+      "recipe_id_overflow": true,
+      "recipe_ids": [
+        "aetius-1-131-3",
+        "aetius-1-131-4",
+        "aetius-1-132",
+        "aetius-1-133",
+        "aetius-16-126-1",
+        "aetius-16-126-2",
+        "aetius-16-126-3",
+        "aetius-16-127-1",
+        "aetius-16-127-2",
+        "aetius-16-129",
+        "aetius-16-130-1",
+        "aetius-16-130-3",
+        "aetius-16-133-2",
+        "aetius-16-140",
+        "aetius-16-142",
+        "aetius-16-144-1",
+        "aetius-16-144-2",
+        "aetius-16-146-1",
+        "aetius-16-146-1-2",
+        "aetius-16-148"
+      ],
+      "support": 0.1347
+    },
+    {
+      "count": 25,
+      "display": [
+        "ἡ μαστίχη, -ης"
+      ],
+      "members": [
+        "μαστίχη"
+      ],
+      "recipe_id_overflow": true,
+      "recipe_ids": [
+        "aetius-1-122",
+        "aetius-1-132",
+        "aetius-16-129",
+        "aetius-16-130-2",
+        "aetius-16-134-1",
+        "aetius-16-135",
+        "aetius-16-137-1",
+        "aetius-16-138-1",
+        "aetius-16-142",
+        "aetius-16-144-1",
+        "aetius-16-145",
+        "aetius-16-146-2",
+        "aetius-16-147",
+        "aetius-16-150",
+        "aetius-16-151",
+        "dioscorides-1-42-mastichinon",
+        "paul-7-20-21",
+        "paul-7-20-22",
+        "paul-7-20-27",
+        "paul-7-20-32"
+      ],
+      "support": 0.1295
+    },
+    {
+      "count": 25,
+      "display": [
+        "τό ὀποβάλσαμον, -ου"
+      ],
+      "members": [
+        "ὀποβάλσαμον"
+      ],
+      "recipe_id_overflow": true,
+      "recipe_ids": [
+        "aetius-1-131",
+        "aetius-1-131-5",
+        "aetius-16-126-1",
+        "aetius-16-126-2",
+        "aetius-16-127-2",
+        "aetius-16-128",
+        "aetius-16-129",
+        "aetius-16-130-2",
+        "aetius-16-131-1",
+        "aetius-16-131-2",
+        "aetius-16-131-3",
+        "aetius-16-132",
+        "aetius-16-133-1",
+        "aetius-16-133-2",
+        "aetius-16-145",
+        "aetius-16-150",
+        "aetius-16-151",
+        "aetius-16-153",
+        "paul-7-20-32",
+        "paul-7-20-33"
+      ],
+      "support": 0.1295
+    },
+    {
+      "count": 23,
+      "display": [
+        "τό ῥόδον, -ου"
+      ],
+      "members": [
+        "ῥόδον"
+      ],
+      "recipe_id_overflow": true,
+      "recipe_ids": [
+        "aetius-1-113",
+        "aetius-1-113-2",
+        "aetius-1-134",
+        "aetius-16-126-1",
+        "aetius-16-126-2",
+        "aetius-16-127-1",
+        "aetius-16-127-3",
+        "aetius-16-134-1",
+        "aetius-16-134-2",
+        "aetius-16-135",
+        "aetius-16-142",
+        "aetius-16-144-1",
+        "aetius-16-144-2",
+        "aetius-16-145",
+        "aetius-16-146-2",
+        "aetius-16-147",
+        "aetius-16-150",
+        "aetius-16-151",
+        "aetius-16-152",
+        "dioscorides-1-43-rhodinon"
+      ],
+      "support": 0.1192
+    },
+    {
+      "count": 22,
+      "display": [
+        "ὁ σχοῖνος, -ου"
+      ],
+      "members": [
+        "σχοῖνος"
+      ],
+      "recipe_id_overflow": true,
+      "recipe_ids": [
+        "aetius-1-128",
+        "aetius-1-130",
+        "aetius-1-131",
+        "aetius-1-132",
+        "dioscorides-1-25-kyphi",
+        "dioscorides-1-39-myrsininon",
+        "dioscorides-1-40-daphninon",
+        "dioscorides-1-43-rhodinon",
+        "dioscorides-1-45-melinon",
+        "dioscorides-1-57-gleukinon",
+        "dioscorides-1-58-amarakinon",
+        "dioscorides-1-59-metopion",
+        "dioscorides-1-61-kinamominon",
+        "dioscorides-1-62-nardinon",
+        "dioscorides-2-76-aromatized-calf-bull-deer-stear",
+        "paul-7-20-16",
+        "paul-7-20-22",
+        "paul-7-20-28",
+        "paul-7-20-29",
+        "paul-7-20-33"
+      ],
+      "support": 0.114
+    },
+    {
+      "count": 21,
+      "display": [
+        "ὁ ἀσπάλαθος, -ου"
+      ],
+      "members": [
+        "ἀσπάλαθος"
+      ],
+      "recipe_id_overflow": true,
+      "recipe_ids": [
+        "aetius-1-130",
+        "aetius-1-131",
+        "aetius-1-131-5",
+        "aetius-1-132",
+        "aetius-1-133",
+        "aetius-16-130-1",
+        "aetius-16-146-2",
+        "dioscorides-1-25-kyphi",
+        "dioscorides-1-43-rhodinon",
+        "dioscorides-1-53-narkissinon",
+        "dioscorides-1-55-kyprinon",
+        "dioscorides-1-57-gleukinon",
+        "dioscorides-2-76-aromatic-pretreatment-basic",
+        "dioscorides-2-76-aromatic-pretreatment-lotus",
+        "dioscorides-2-76-aromatized-calf-bull-deer-stear",
+        "paul-7-20-27",
+        "paul-7-20-28",
+        "paul-7-20-29",
+        "paul-7-20-33",
+        "paul-7-20-34"
+      ],
+      "support": 0.1088
+    },
+    {
+      "count": 19,
+      "display": [
+        "ἡ κύπειρος, -ου"
+      ],
+      "members": [
+        "κύπειρος"
+      ],
+      "recipe_id_overflow": false,
+      "recipe_ids": [
+        "aetius-1-117",
+        "aetius-1-129",
+        "aetius-1-129-2",
+        "aetius-1-130",
+        "aetius-1-131",
+        "aetius-1-132",
+        "aetius-1-133",
+        "dioscorides-1-25-kyphi",
+        "dioscorides-1-39-myrsininon",
+        "dioscorides-1-40-daphninon",
+        "dioscorides-1-47-telinon",
+        "dioscorides-2-76-aromatic-pretreatment-basic",
+        "paul-7-20-25",
+        "paul-7-20-26",
+        "paul-7-20-27",
+        "paul-7-20-28",
+        "paul-7-20-29",
+        "paul-7-20-34",
+        "paul-7-20-35"
+      ],
+      "support": 0.0984
+    },
+    {
+      "count": 19,
+      "display": [
+        "τό ξυλοβάλσαμον, -ου"
+      ],
+      "members": [
+        "ξυλοβάλσαμον"
+      ],
+      "recipe_id_overflow": false,
+      "recipe_ids": [
+        "aetius-1-128",
+        "aetius-1-130",
+        "aetius-1-131",
+        "aetius-1-131-3",
+        "aetius-1-131-5",
+        "aetius-1-132",
+        "aetius-1-133",
+        "dioscorides-1-47-telinon",
+        "dioscorides-1-56-2-irinon-allos",
+        "dioscorides-1-58-amarakinon",
+        "dioscorides-2-76-aromatized-bird-goose-stear",
+        "dioscorides-2-76-aromatized-calf-bull-deer-stear",
+        "paul-7-20-22",
+        "paul-7-20-27",
+        "paul-7-20-28",
+        "paul-7-20-29",
+        "paul-7-20-33",
+        "paul-7-20-34",
+        "paul-7-20-35"
+      ],
+      "support": 0.0984
+    },
+    {
+      "count": 18,
+      "display": [
+        "ἡ ἶρις, -εως"
+      ],
+      "members": [
+        "ἶρις"
+      ],
+      "recipe_id_overflow": false,
+      "recipe_ids": [
+        "aetius-1-129",
+        "aetius-1-129-2",
+        "aetius-1-130",
+        "aetius-1-131",
+        "aetius-1-132",
+        "aetius-1-132-2",
+        "aetius-1-133",
+        "aetius-16-130-1",
+        "dioscorides-1-30-whitened-oil",
+        "dioscorides-1-56-2-irinon-allos",
+        "dioscorides-1-56-irinon",
+        "paul-7-20-25",
+        "paul-7-20-26",
+        "paul-7-20-27",
+        "paul-7-20-29",
+        "paul-7-20-33",
+        "paul-7-20-34",
+        "paul-7-20-35"
+      ],
+      "support": 0.0933
+    },
+    {
+      "count": 16,
+      "display": [
+        "τό καρποβάλσαμον, -ου"
+      ],
+      "members": [
+        "καρποβάλσαμον"
+      ],
+      "recipe_id_overflow": false,
+      "recipe_ids": [
+        "aetius-1-125",
+        "aetius-1-128",
+        "aetius-1-131",
+        "aetius-1-131-3",
+        "aetius-1-131-5",
+        "aetius-1-132-2",
+        "aetius-16-130-1",
+        "aetius-16-130-2",
+        "aetius-16-133-1",
+        "aetius-16-133-2",
+        "aetius-16-142",
+        "aetius-16-144-2",
+        "aetius-16-146-2",
+        "aetius-16-150",
+        "aetius-16-151",
+        "paul-7-20-16"
+      ],
+      "support": 0.0829
+    },
+    {
+      "count": 15,
+      "display": [
+        "τό στέαρ, -ατος"
+      ],
+      "members": [
+        "στέαρ"
+      ],
+      "recipe_id_overflow": false,
+      "recipe_ids": [
+        "aetius-1-107",
+        "aetius-16-152",
+        "dioscorides-1-34-balaninon",
+        "dioscorides-2-76-aromatic-pretreatment-basic",
+        "dioscorides-2-76-aromatized-bird-goose-stear",
+        "dioscorides-2-76-aromatized-calf-bull-deer-stear",
+        "dioscorides-2-76-bull-stear",
+        "dioscorides-2-76-goat-sheep-deer-stear",
+        "dioscorides-2-76-goose-chicken-stear",
+        "dioscorides-2-76-pig-bear-stear",
+        "dioscorides-2-76-preserved-untreated-stear",
+        "dioscorides-2-76-rendered-stear-with-salt",
+        "dioscorides-2-76-sampsuchized-stear",
+        "dioscorides-2-76-stear-properties-catalogue",
+        "paul-7-20-24"
+      ],
+      "support": 0.0777
+    },
+    {
+      "count": 14,
+      "display": [
+        "τό καρδάμωμον, -ου"
+      ],
+      "members": [
+        "καρδάμωμον"
+      ],
+      "recipe_id_overflow": false,
+      "recipe_ids": [
+        "aetius-1-125",
+        "aetius-1-133",
+        "aetius-16-131-2",
+        "dioscorides-1-47-telinon",
+        "dioscorides-1-52-sousinon",
+        "dioscorides-1-55-kyprinon",
+        "dioscorides-1-59-metopion",
+        "dioscorides-2-76-aromatized-calf-bull-deer-stear",
+        "paul-7-20-16",
+        "paul-7-20-22",
+        "paul-7-20-30",
+        "paul-7-20-34",
+        "paul-7-20-35",
+        "paul-7-20-8"
+      ],
+      "support": 0.0725
+    },
+    {
+      "count": 14,
+      "display": [
+        "ἡ νάρδος, -ου"
+      ],
+      "members": [
+        "νάρδος"
+      ],
+      "recipe_id_overflow": false,
+      "recipe_ids": [
+        "aetius-1-128",
+        "aetius-1-130",
+        "aetius-1-131",
+        "aetius-16-131-2",
+        "aetius-16-131-3",
+        "aetius-16-132",
+        "aetius-16-133-1",
+        "dioscorides-1-57-gleukinon",
+        "dioscorides-1-58-amarakinon",
+        "dioscorides-1-62-nardinon",
+        "dioscorides-2-76-aromatized-calf-bull-deer-stear",
+        "paul-7-20-35",
+        "paul-7-20-36",
+        "paul-7-20-37"
+      ],
+      "support": 0.0725
+    },
+    {
+      "count": 14,
+      "display": [
+        "τό ἑλένιον, -ου"
+      ],
+      "members": [
+        "ἑλένιον"
+      ],
+      "recipe_id_overflow": false,
+      "recipe_ids": [
+        "aetius-1-129",
+        "aetius-1-129-2",
+        "aetius-1-130",
+        "aetius-1-131",
+        "aetius-1-132",
+        "aetius-1-133",
+        "aetius-16-146-2",
+        "paul-7-20-22",
+        "paul-7-20-25",
+        "paul-7-20-26",
+        "paul-7-20-27",
+        "paul-7-20-28",
+        "paul-7-20-34",
+        "paul-7-20-35"
+      ],
+      "support": 0.0725
+    },
+    {
+      "count": 13,
+      "display": [
+        "ὁ μόσχος, -ου"
+      ],
+      "members": [
+        "μόσχος"
+      ],
+      "recipe_id_overflow": false,
+      "recipe_ids": [
+        "aetius-1-131-3",
+        "aetius-16-126-2",
+        "aetius-16-129",
+        "aetius-16-130-2",
+        "aetius-16-130-3",
+        "aetius-16-142",
+        "aetius-16-143",
+        "aetius-16-144-1",
+        "aetius-16-144-2",
+        "aetius-16-146-1",
+        "aetius-16-146-1-2",
+        "aetius-16-148",
+        "aetius-16-149"
+      ],
+      "support": 0.0674
+    },
+    {
+      "count": 12,
+      "display": [
+        "τό λάδανον, -ου"
+      ],
+      "members": [
+        "λάδανον"
+      ],
+      "recipe_id_overflow": false,
+      "recipe_ids": [
+        "aetius-1-131-3",
+        "aetius-1-131-4",
+        "aetius-16-131-2",
+        "aetius-16-131-3",
+        "aetius-16-142",
+        "aetius-16-146-2",
+        "aetius-16-147",
+        "aetius-16-148",
+        "aetius-16-150",
+        "aetius-16-151",
+        "paul-7-20-34",
+        "paul-7-20-38"
+      ],
+      "support": 0.0622
+    },
+    {
+      "count": 12,
+      "display": [
+        "ἡ ἀρναβώ, -ῶ"
+      ],
+      "members": [
+        "ἀρναβώ"
+      ],
+      "recipe_id_overflow": false,
+      "recipe_ids": [
+        "aetius-1-131",
+        "aetius-1-132",
+        "aetius-1-133",
+        "aetius-16-126-1",
+        "aetius-16-126-2",
+        "aetius-16-130-1",
+        "aetius-16-130-2",
+        "aetius-16-150",
+        "aetius-16-151",
+        "paul-7-20-33",
+        "paul-7-20-35",
+        "paul-7-20-8"
+      ],
+      "support": 0.0622
+    },
+    {
+      "count": 11,
+      "display": [
+        "τό κινάμωμον, -ου"
+      ],
+      "members": [
+        "κινάμωμον"
+      ],
+      "recipe_id_overflow": false,
+      "recipe_ids": [
+        "aetius-1-126",
+        "aetius-1-131-3",
+        "aetius-1-131-4",
+        "dioscorides-1-52-sousinon",
+        "dioscorides-1-55-kyprinon",
+        "dioscorides-1-58-amarakinon",
+        "dioscorides-1-59-3-mendesion",
+        "dioscorides-1-61-kinamominon",
+        "dioscorides-2-76-aromatized-calf-bull-deer-stear",
+        "paul-7-20-31",
+        "paul-7-20-8"
+      ],
+      "support": 0.057
+    },
+    {
+      "count": 11,
+      "display": [
+        "ὁ παλαιός, -οῦ"
+      ],
+      "members": [
+        "παλαιός"
+      ],
+      "recipe_id_overflow": false,
+      "recipe_ids": [
+        "aetius-1-131-2",
+        "aetius-1-131-4",
+        "aetius-16-134-2",
+        "aetius-16-135",
+        "aetius-16-145",
+        "aetius-16-150",
+        "dioscorides-1-53-narkissinon",
+        "dioscorides-1-55-kyprinon",
+        "dioscorides-1-56-2-irinon-allos",
+        "dioscorides-2-76-aromatic-pretreatment-lotus",
+        "dioscorides-2-76-aromatized-bird-goose-stear"
+      ],
+      "support": 0.057
+    },
+    {
+      "count": 11,
+      "display": [
+        "τό σπέρμα, -ατος"
+      ],
+      "members": [
+        "σπέρμα"
+      ],
+      "recipe_id_overflow": false,
+      "recipe_ids": [
+        "aetius-1-101",
+        "aetius-1-128",
+        "aetius-1-129",
+        "aetius-1-131",
+        "aetius-16-138-3",
+        "dioscorides-1-37-raphaninon",
+        "paul-7-20-12",
+        "paul-7-20-13",
+        "paul-7-20-26",
+        "paul-7-20-27",
+        "paul-7-20-28"
+      ],
+      "support": 0.057
+    },
+    {
+      "count": 11,
+      "display": [
+        "ὁ χυλός, -οῦ"
+      ],
+      "members": [
+        "χυλός"
+      ],
+      "recipe_id_overflow": false,
+      "recipe_ids": [
+        "aetius-16-126-3",
+        "aetius-16-127-2",
+        "aetius-16-128",
+        "aetius-16-129",
+        "aetius-16-139",
+        "aetius-16-143",
+        "dioscorides-1-30-omphakinon",
+        "dioscorides-1-39-myrsininon",
+        "dioscorides-2-76-stear-properties-catalogue",
+        "paul-7-20-25",
+        "paul-7-20-33"
+      ],
+      "support": 0.057
+    },
+    {
+      "count": 10,
+      "display": [
+        "ἡ ῥητίνη, -ης"
+      ],
+      "members": [
+        "ῥητίνη"
+      ],
+      "recipe_id_overflow": false,
+      "recipe_ids": [
+        "aetius-1-125",
+        "aetius-1-126",
+        "aetius-1-127",
+        "dioscorides-1-25-kyphi",
+        "dioscorides-1-58-3-megalleion",
+        "dioscorides-1-59-3-mendesion",
+        "dioscorides-1-59-metopion",
+        "dioscorides-1-71-5-burned-resin-with-water",
+        "dioscorides-1-71-6-burned-resin-without-water",
+        "paul-7-20-16"
+      ],
+      "support": 0.0518
+    },
+    {
+      "count": 9,
+      "display": [
+        "τό σάμψυχον, -ου"
+      ],
+      "members": [
+        "σάμψυχον"
+      ],
+      "recipe_id_overflow": false,
+      "recipe_ids": [
+        "aetius-1-124",
+        "aetius-1-129",
+        "aetius-1-129-2",
+        "dioscorides-1-48-sampsouchinon",
+        "dioscorides-2-76-sampsuchized-stear",
+        "paul-7-20-26",
+        "paul-7-20-27",
+        "paul-7-20-34",
+        "paul-7-20-35"
+      ],
+      "support": 0.0466
+    },
+    {
+      "count": 8,
+      "display": [
+        "τό βδέλλιον, -ου"
+      ],
+      "members": [
+        "βδέλλιον"
+      ],
+      "recipe_id_overflow": false,
+      "recipe_ids": [
+        "aetius-1-135",
+        "aetius-16-144-2",
+        "aetius-16-146-2",
+        "aetius-16-147",
+        "aetius-16-150",
+        "aetius-16-151",
+        "paul-7-20-33",
+        "paul-7-20-34"
+      ],
+      "support": 0.0415
+    },
+    {
+      "count": 8,
+      "display": [
+        "τό λευκόν, -οῦ"
+      ],
+      "members": [
+        "λευκός"
+      ],
+      "recipe_id_overflow": false,
+      "recipe_ids": [
+        "aetius-1-119",
+        "aetius-1-120",
+        "aetius-16-132",
+        "aetius-16-133-1",
+        "dioscorides-1-30-whitened-oil",
+        "dioscorides-1-35-hyoskyaminon",
+        "dioscorides-1-63-iasmelaion",
+        "paul-7-20-37"
+      ],
+      "support": 0.0415
+    },
+    {
+      "count": 8,
+      "display": [
+        "ὁ ὄνυξ, -υχος"
+      ],
+      "members": [
+        "ὄνυξ"
+      ],
+      "recipe_id_overflow": false,
+      "recipe_ids": [
+        "aetius-1-135",
+        "aetius-16-127-1",
+        "aetius-16-127-3",
+        "aetius-16-142",
+        "aetius-16-144-2",
+        "aetius-16-146-2",
+        "aetius-16-150",
+        "aetius-16-151"
+      ],
+      "support": 0.0415
+    },
+    {
+      "count": 8,
+      "display": [
+        "ὁ ὕπνος, -ου"
+      ],
+      "members": [
+        "ὕπνος"
+      ],
+      "recipe_id_overflow": false,
+      "recipe_ids": [
+        "aetius-1-132",
+        "aetius-16-127-1",
+        "aetius-16-127-2",
+        "aetius-16-127-3",
+        "aetius-16-130-1",
+        "aetius-16-144-2",
+        "aetius-16-150",
+        "aetius-16-151"
+      ],
+      "support": 0.0415
+    },
+    {
+      "count": 7,
+      "display": [
+        "τό κάσαμον, -ου"
+      ],
+      "members": [
+        "κάσαμον"
+      ],
+      "recipe_id_overflow": false,
+      "recipe_ids": [
+        "aetius-1-133",
+        "aetius-16-146-1",
+        "aetius-16-146-1-2",
+        "aetius-16-147",
+        "paul-7-20-33",
+        "paul-7-20-34",
+        "paul-7-20-35"
+      ],
+      "support": 0.0363
+    },
+    {
+      "count": 7,
+      "display": [
+        "ὁ κηρός, -οῦ"
+      ],
+      "members": [
+        "κηρός"
+      ],
+      "recipe_id_overflow": false,
+      "recipe_ids": [
+        "aetius-1-113-2",
+        "aetius-16-131-2",
+        "dioscorides-1-54-krokinon",
+        "paul-7-20-32",
+        "paul-7-20-33",
+        "paul-7-20-36",
+        "paul-7-20-38"
+      ],
+      "support": 0.0363
+    },
+    {
+      "count": 7,
+      "display": [
+        "τό πέπερι, -εως"
+      ],
+      "members": [
+        "πέπερι"
+      ],
+      "recipe_id_overflow": false,
+      "recipe_ids": [
+        "aetius-1-131-3",
+        "aetius-16-131-3",
+        "aetius-16-136",
+        "aetius-16-137-2",
+        "aetius-16-140",
+        "paul-7-20-36",
+        "paul-7-20-38"
+      ],
+      "support": 0.0363
+    },
+    {
+      "count": 7,
+      "display": [
+        "τό ἄμβαρ, -αρος"
+      ],
+      "members": [
+        "ἄμβαρ"
+      ],
+      "recipe_id_overflow": false,
+      "recipe_ids": [
+        "aetius-1-131-3",
+        "aetius-16-130-2",
+        "aetius-16-142",
+        "aetius-16-143",
+        "aetius-16-146-1",
+        "aetius-16-146-1-2",
+        "aetius-16-149"
+      ],
+      "support": 0.0363
+    },
+    {
+      "count": 6,
+      "display": [
+        "ὁ καρπός, -οῦ"
+      ],
+      "members": [
+        "καρπός"
+      ],
+      "recipe_id_overflow": false,
+      "recipe_ids": [
+        "aetius-1-105",
+        "aetius-1-108",
+        "dioscorides-1-58-amarakinon",
+        "dioscorides-1-59-metopion",
+        "dioscorides-1-61-kinamominon",
+        "paul-7-20-19"
+      ],
+      "support": 0.0311
+    },
+    {
+      "count": 6,
+      "display": [
+        "ἡ κύπρος, -ου"
+      ],
+      "members": [
+        "κύπρος"
+      ],
+      "recipe_id_overflow": false,
+      "recipe_ids": [
+        "aetius-1-129",
+        "aetius-1-129-2",
+        "dioscorides-1-33-amygdalinon",
+        "dioscorides-1-55-kyprinon",
+        "paul-7-20-26",
+        "paul-7-20-27"
+      ],
+      "support": 0.0311
+    },
+    {
+      "count": 6,
+      "display": [
+        "ὁ λίβανος, -ου"
+      ],
+      "members": [
+        "λίβανος"
+      ],
+      "recipe_id_overflow": false,
+      "recipe_ids": [
+        "aetius-1-135",
+        "aetius-16-152",
+        "aetius-16-153",
+        "paul-7-20-33",
+        "paul-7-20-34",
+        "paul-7-20-35"
+      ],
+      "support": 0.0311
+    },
+    {
+      "count": 6,
+      "display": [
+        "ἡ ξυλοκασία, -ας"
+      ],
+      "members": [
+        "ξυλοκασία"
+      ],
+      "recipe_id_overflow": false,
+      "recipe_ids": [
+        "aetius-1-131",
+        "aetius-1-131-5",
+        "aetius-1-132",
+        "aetius-1-133",
+        "aetius-16-130-1",
+        "paul-7-20-27"
+      ],
+      "support": 0.0311
+    },
+    {
+      "count": 6,
+      "display": [
+        "ἡ τῆλις, -εως"
+      ],
+      "members": [
+        "τῆλις"
+      ],
+      "recipe_id_overflow": false,
+      "recipe_ids": [
+        "aetius-1-108",
+        "aetius-1-117",
+        "aetius-1-124",
+        "dioscorides-1-30-whitened-oil",
+        "dioscorides-1-47-telinon",
+        "paul-7-20-24"
+      ],
+      "support": 0.0311
+    },
+    {
+      "count": 6,
+      "display": [
+        "ἡ ἀλόη, -ης"
+      ],
+      "members": [
+        "ἀλόη"
+      ],
+      "recipe_id_overflow": false,
+      "recipe_ids": [
+        "aetius-16-130-2",
+        "aetius-16-142",
+        "aetius-16-143",
+        "aetius-16-146-2",
+        "aetius-16-153",
+        "paul-7-20-35"
+      ],
+      "support": 0.0311
+    },
+    {
+      "count": 6,
+      "display": [
+        "τό ἀμύγδαλον, -ου"
+      ],
+      "members": [
+        "ἀμύγδαλον"
+      ],
+      "recipe_id_overflow": false,
+      "recipe_ids": [
+        "aetius-1-125",
+        "dioscorides-1-33-amygdalinon",
+        "dioscorides-1-56-irinon",
+        "dioscorides-1-59-metopion",
+        "paul-7-20-15",
+        "paul-7-20-16"
+      ],
+      "support": 0.0311
+    },
+    {
+      "count": 6,
+      "display": [
+        "ἡ ἀριστολοχία, -ας"
+      ],
+      "members": [
+        "ἀριστολοχία"
+      ],
+      "recipe_id_overflow": false,
+      "recipe_ids": [
+        "aetius-1-124",
+        "aetius-1-131",
+        "paul-7-20-25",
+        "paul-7-20-27",
+        "paul-7-20-34",
+        "paul-7-20-35"
+      ],
+      "support": 0.0311
+    },
+    {
+      "count": 5,
+      "display": [
+        "τό κάρυον, -ου"
+      ],
+      "members": [
+        "κάρυον"
+      ],
+      "recipe_id_overflow": false,
+      "recipe_ids": [
+        "aetius-1-106",
+        "aetius-1-132",
+        "aetius-16-142",
+        "dioscorides-1-34-sesaminon-karyinon",
+        "paul-7-20-18"
+      ],
+      "support": 0.0259
+    },
+    {
+      "count": 5,
+      "display": [
+        "τό κρίνον, -ου"
+      ],
+      "members": [
+        "κρίνον"
+      ],
+      "recipe_id_overflow": false,
+      "recipe_ids": [
+        "aetius-1-116",
+        "aetius-16-131-1",
+        "aetius-16-133-2",
+        "dioscorides-1-52-5-sousinon-haploun",
+        "dioscorides-1-52-sousinon"
+      ],
+      "support": 0.0259
+    },
+    {
+      "count": 5,
+      "display": [
+        "ὁ μελίλωτος, -ου"
+      ],
+      "members": [
+        "μελίλωτος"
+      ],
+      "recipe_id_overflow": false,
+      "recipe_ids": [
+        "aetius-1-124",
+        "dioscorides-1-57-gleukinon",
+        "paul-7-20-24",
+        "paul-7-20-33",
+        "paul-7-20-34"
+      ],
+      "support": 0.0259
+    },
+    {
+      "count": 5,
+      "display": [
+        "ὁ μυελός, -οῦ"
+      ],
+      "members": [
+        "μυελός"
+      ],
+      "recipe_id_overflow": false,
+      "recipe_ids": [
+        "aetius-16-152",
+        "dioscorides-1-54-krokinon",
+        "dioscorides-2-76-aromatized-calf-bull-deer-stear",
+        "paul-7-20-24",
+        "paul-7-20-32"
+      ],
+      "support": 0.0259
+    },
+    {
+      "count": 5,
+      "display": [
+        "ἡ στακτή, -ῆς"
+      ],
+      "members": [
+        "στακτή"
+      ],
+      "recipe_id_overflow": false,
+      "recipe_ids": [
+        "aetius-1-132",
+        "aetius-16-142",
+        "aetius-16-146-2",
+        "aetius-16-147",
+        "aetius-16-149"
+      ],
+      "support": 0.0259
+    },
+    {
+      "count": 5,
+      "display": [
+        "ἡ τερεβινθίνη, -ης"
+      ],
+      "members": [
+        "τερεβινθίνη"
+      ],
+      "recipe_id_overflow": false,
+      "recipe_ids": [
+        "dioscorides-1-58-3-megalleion",
+        "paul-7-20-16",
+        "paul-7-20-22",
+        "paul-7-20-31",
+        "paul-7-20-32"
+      ],
+      "support": 0.0259
+    },
+    {
+      "count": 5,
+      "display": [
+        "τό ἄνθος, -ους"
+      ],
+      "members": [
+        "ἄνθος"
+      ],
+      "recipe_id_overflow": false,
+      "recipe_ids": [
+        "dioscorides-1-48-sampsouchinon",
+        "dioscorides-1-51-anethinon",
+        "dioscorides-1-55-kyprinon",
+        "dioscorides-2-76-aromatic-pretreatment-lotus",
+        "dioscorides-2-76-aromatized-calf-bull-deer-stear"
+      ],
+      "support": 0.0259
+    },
+    {
+      "count": 5,
+      "display": [
+        "τό Ἰταλικόν, -οῦ"
+      ],
+      "members": [
+        "Ἰταλικόν"
+      ],
+      "recipe_id_overflow": false,
+      "recipe_ids": [
+        "aetius-1-104",
+        "aetius-1-114",
+        "paul-7-20-23",
+        "paul-7-20-5",
+        "paul-7-20-7"
+      ],
+      "support": 0.0259
+    },
+    {
+      "count": 4,
+      "display": [
+        "τό βράθυ, -ύος"
+      ],
+      "members": [
+        "βράθυ"
+      ],
+      "recipe_id_overflow": false,
+      "recipe_ids": [
+        "aetius-1-128",
+        "aetius-1-131",
+        "paul-7-20-28",
+        "paul-7-20-35"
+      ],
+      "support": 0.0207
+    },
+    {
+      "count": 4,
+      "display": [
+        "τό μῆλον, -ου"
+      ],
+      "members": [
+        "μῆλον"
+      ],
+      "recipe_id_overflow": false,
+      "recipe_ids": [
+        "aetius-1-112",
+        "dioscorides-1-45-2-melinon-allos",
+        "dioscorides-1-45-melinon",
+        "paul-7-20-10"
+      ],
+      "support": 0.0207
+    },
+    {
+      "count": 4,
+      "display": [
+        "τό πέταλον, -ου"
+      ],
+      "members": [
+        "πέταλον"
+      ],
+      "recipe_id_overflow": false,
+      "recipe_ids": [
+        "aetius-1-116",
+        "dioscorides-1-48-sampsouchinon",
+        "paul-7-20-7",
+        "paul-7-20-8"
+      ],
+      "support": 0.0207
+    },
+    {
+      "count": 4,
+      "display": [
+        "τό σαλκᾶ, indecl."
+      ],
+      "members": [
+        "σαλκᾶ"
+      ],
+      "recipe_id_overflow": false,
+      "recipe_ids": [
+        "aetius-16-129",
+        "aetius-16-130-2",
+        "aetius-16-132",
+        "aetius-16-133-1"
+      ],
+      "support": 0.0207
+    },
+    {
+      "count": 4,
+      "display": [
+        "ἡ σχῖνος, -ου"
+      ],
+      "members": [
+        "σχῖνος"
+      ],
+      "recipe_id_overflow": false,
+      "recipe_ids": [
+        "aetius-1-110",
+        "aetius-1-125",
+        "dioscorides-1-41-schininon",
+        "paul-7-20-20"
+      ],
+      "support": 0.0207
+    },
+    {
+      "count": 4,
+      "display": [
+        "ὁ ἐλελίσφακος, -ου"
+      ],
+      "members": [
+        "ἐλελίσφακος"
+      ],
+      "recipe_id_overflow": false,
+      "recipe_ids": [
+        "aetius-1-129",
+        "aetius-1-129-2",
+        "paul-7-20-26",
+        "paul-7-20-27"
+      ],
+      "support": 0.0207
+    },
+    {
+      "count": 4,
+      "display": [
+        "τό ἠρωματισμένον, -ου"
+      ],
+      "members": [
+        "ἠρωματισμένος"
+      ],
+      "recipe_id_overflow": false,
+      "recipe_ids": [
+        "dioscorides-1-49-okiminon",
+        "dioscorides-1-50-habrotoninon",
+        "dioscorides-1-56-2-irinon-allos",
+        "dioscorides-1-56-irinon"
+      ],
+      "support": 0.0207
+    },
+    {
+      "count": 4,
+      "display": [
+        "ὁ ὀποπάναξ, -ακος"
+      ],
+      "members": [
+        "ὀποπάναξ"
+      ],
+      "recipe_id_overflow": false,
+      "recipe_ids": [
+        "aetius-1-130",
+        "paul-7-20-27",
+        "paul-7-20-28",
+        "paul-7-20-29"
+      ],
+      "support": 0.0207
+    },
+    {
+      "count": 4,
+      "display": [
+        "ἡ ὕσσωπος, -ου"
+      ],
+      "members": [
+        "ὕσσωπος"
+      ],
+      "recipe_id_overflow": false,
+      "recipe_ids": [
+        "aetius-1-129",
+        "aetius-1-129-2",
+        "paul-7-20-25",
+        "paul-7-20-26"
+      ],
+      "support": 0.0207
+    },
+    {
+      "count": 3,
+      "display": [
+        "τό βάλσαμον, -ου"
+      ],
+      "members": [
+        "βάλσαμον"
+      ],
+      "recipe_id_overflow": false,
+      "recipe_ids": [
+        "aetius-1-131-3",
+        "aetius-16-144-1",
+        "dioscorides-1-62-nardinon"
+      ],
+      "support": 0.0155
+    },
+    {
+      "count": 3,
+      "display": [
+        "τό δενδρολίβανον, -ου"
+      ],
+      "members": [
+        "δενδρολίβανον"
+      ],
+      "recipe_id_overflow": false,
+      "recipe_ids": [
+        "paul-7-20-25",
+        "paul-7-20-27",
+        "paul-7-20-34"
+      ],
+      "support": 0.0155
+    },
+    {
+      "count": 3,
+      "display": [
+        "τό θυμίαμα, -ατος"
+      ],
+      "members": [
+        "θυμίαμα"
+      ],
+      "recipe_id_overflow": false,
+      "recipe_ids": [
+        "aetius-1-131-3",
+        "aetius-1-131-4",
+        "paul-7-20-33"
+      ],
+      "support": 0.0155
+    },
+    {
+      "count": 3,
+      "display": [
+        "ὁ κόκκος, -ου"
+      ],
+      "members": [
+        "κόκκος"
+      ],
+      "recipe_id_overflow": false,
+      "recipe_ids": [
+        "aetius-1-104",
+        "dioscorides-1-36-knidion",
+        "paul-7-20-14"
+      ],
+      "support": 0.0155
+    },
+    {
+      "count": 3,
+      "display": [
+        "ἡ κόμη, -ης"
+      ],
+      "members": [
+        "κόμη"
+      ],
+      "recipe_id_overflow": false,
+      "recipe_ids": [
+        "aetius-1-115",
+        "paul-7-20-22",
+        "paul-7-20-6"
+      ],
+      "support": 0.0155
+    },
+    {
+      "count": 3,
+      "display": [
+        "τό λίπος, -ους"
+      ],
+      "members": [
+        "λίπος"
+      ],
+      "recipe_id_overflow": false,
+      "recipe_ids": [
+        "dioscorides-1-31-thalloi-oil",
+        "dioscorides-2-72-boutyron",
+        "dioscorides-2-74-oisypos-boiled"
+      ],
+      "support": 0.0155
+    },
+    {
+      "count": 3,
+      "display": [
+        "ἡ μυρσίνη, -ης"
+      ],
+      "members": [
+        "μυρσίνη"
+      ],
+      "recipe_id_overflow": false,
+      "recipe_ids": [
+        "dioscorides-1-40-daphninon",
+        "dioscorides-2-76-aromatic-pretreatment-basic",
+        "paul-7-20-27"
+      ],
+      "support": 0.0155
+    },
+    {
+      "count": 3,
+      "display": [
+        "τό μύρον, -ου"
+      ],
+      "members": [
+        "μύρον"
+      ],
+      "recipe_id_overflow": false,
+      "recipe_ids": [
+        "aetius-1-134",
+        "aetius-16-133-1",
+        "dioscorides-1-52-sousinon"
+      ],
+      "support": 0.0155
+    },
+    {
+      "count": 3,
+      "display": [
+        "τό ναρδῖνον, -ου"
+      ],
+      "members": [
+        "ναρδῖνον"
+      ],
+      "recipe_id_overflow": false,
+      "recipe_ids": [
+        "aetius-16-132",
+        "paul-7-20-32",
+        "paul-7-20-38"
+      ],
+      "support": 0.0155
+    },
+    {
+      "count": 3,
+      "display": [
+        "τό ξυλοκαρυόφυλλον, -ου"
+      ],
+      "members": [
+        "ξυλοκαρυόφυλλον"
+      ],
+      "recipe_id_overflow": false,
+      "recipe_ids": [
+        "aetius-1-132-2",
+        "aetius-16-146-2",
+        "aetius-16-147"
+      ],
+      "support": 0.0155
+    },
+    {
+      "count": 3,
+      "display": [
+        "ὁ οἴσυπος, -ου"
+      ],
+      "members": [
+        "οἴσυπος"
+      ],
+      "recipe_id_overflow": false,
+      "recipe_ids": [
+        "aetius-16-152",
+        "dioscorides-2-74-oisypos",
+        "dioscorides-2-74-oisypos-burned-lignys"
+      ],
+      "support": 0.0155
+    },
+    {
+      "count": 3,
+      "display": [
+        "τό πήγανον, -ου"
+      ],
+      "members": [
+        "πήγανον"
+      ],
+      "recipe_id_overflow": false,
+      "recipe_ids": [
+        "dioscorides-1-30-omphakinon",
+        "dioscorides-1-56-irinon",
+        "paul-7-20-27"
+      ],
+      "support": 0.0155
+    },
+    {
+      "count": 3,
+      "display": [
+        "ὁ σίκυος, -ου"
+      ],
+      "members": [
+        "σίκυος"
+      ],
+      "recipe_id_overflow": false,
+      "recipe_ids": [
+        "aetius-1-124",
+        "paul-7-20-23",
+        "paul-7-20-24"
+      ],
+      "support": 0.0155
+    },
+    {
+      "count": 3,
+      "display": [
+        "ἡ σπάθη, -ης"
+      ],
+      "members": [
+        "σπάθη"
+      ],
+      "recipe_id_overflow": false,
+      "recipe_ids": [
+        "dioscorides-1-45-melinon",
+        "dioscorides-1-56-irinon",
+        "dioscorides-1-57-gleukinon"
+      ],
+      "support": 0.0155
+    },
+    {
+      "count": 3,
+      "display": [
+        "ὁ στάχυς, -υος"
+      ],
+      "members": [
+        "στάχυς"
+      ],
+      "recipe_id_overflow": false,
+      "recipe_ids": [
+        "aetius-1-132-2",
+        "aetius-1-133",
+        "aetius-16-137-3"
+      ],
+      "support": 0.0155
+    },
+    {
+      "count": 3,
+      "display": [
+        "τό σῆσαμον, -ου"
+      ],
+      "members": [
+        "σῆσαμον"
+      ],
+      "recipe_id_overflow": false,
+      "recipe_ids": [
+        "aetius-1-109",
+        "dioscorides-1-34-sesaminon-karyinon",
+        "paul-7-20-11"
+      ],
+      "support": 0.0155
+    },
+    {
+      "count": 3,
+      "display": [
+        "ὁ φοῖνιξ, -ικος"
+      ],
+      "members": [
+        "φοῖνιξ"
+      ],
+      "recipe_id_overflow": false,
+      "recipe_ids": [
+        "dioscorides-2-76-aromatized-calf-bull-deer-stear",
+        "paul-7-20-33",
+        "paul-7-20-34"
+      ],
+      "support": 0.0155
+    },
+    {
+      "count": 3,
+      "display": [
+        "ἡ χαλβάνη, -ης"
+      ],
+      "members": [
+        "χαλβάνη"
+      ],
+      "recipe_id_overflow": false,
+      "recipe_ids": [
+        "aetius-1-125",
+        "dioscorides-1-59-metopion",
+        "paul-7-20-16"
+      ],
+      "support": 0.0155
+    },
+    {
+      "count": 3,
+      "display": [
+        "ἡ ἄγχουσα, -ης"
+      ],
+      "members": [
+        "ἄγχουσα"
+      ],
+      "recipe_id_overflow": false,
+      "recipe_ids": [
+        "aetius-1-130",
+        "dioscorides-1-43-rhodinon",
+        "paul-7-20-29"
+      ],
+      "support": 0.0155
+    },
+    {
+      "count": 3,
+      "display": [
+        "τό ἄσαρον, -ου"
+      ],
+      "members": [
+        "ἄσαρον"
+      ],
+      "recipe_id_overflow": false,
+      "recipe_ids": [
+        "aetius-1-131-3",
+        "aetius-16-142",
+        "paul-7-20-34"
+      ],
+      "support": 0.0155
+    },
+    {
+      "count": 3,
+      "display": [
+        "ὁ ἅλς, -ός"
+      ],
+      "members": [
+        "ἅλς"
+      ],
+      "recipe_id_overflow": false,
+      "recipe_ids": [
+        "aetius-16-141",
+        "dioscorides-1-43-rhodinon",
+        "dioscorides-2-76-rendered-stear-with-salt"
+      ],
+      "support": 0.0155
+    },
+    {
+      "count": 3,
+      "display": [
+        "τό ἑρπύλλον, -ου"
+      ],
+      "members": [
+        "ἑρπύλλον"
+      ],
+      "recipe_id_overflow": false,
+      "recipe_ids": [
+        "dioscorides-1-48-sampsouchinon",
+        "dioscorides-2-76-aromatic-pretreatment-basic",
+        "paul-7-20-24"
+      ],
+      "support": 0.0155
+    }
+  ],
+  "k": 1,
+  "min_count": 3
+}
